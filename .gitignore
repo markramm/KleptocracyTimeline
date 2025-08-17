@@ -1,0 +1,159 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build outputs
+/build
+/dist
+/out
+*.log
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+.cache/
+
+# React/Next.js specific
+viewer/.next/
+viewer/out/
+viewer/build/
+
+# Timeline specific
+timeline_data/events/index.json
+timeline_data/reports/date_validation_*.json
+timeline_data/reports/temp_*.json
+
+# Archives (if they get large)
+timeline_data/archive/temp/
+timeline_data/archive/*.zip
+timeline_data/archive/*.tar.gz
+
+# Local environment
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug
+debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Cache
+.eslintcache
+.cache/
+.parcel-cache/
+
+# Generated files
+*.generated.*
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Documentation build
+docs/_build/
+site/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Viewer specific
+viewer/node_modules/
+viewer/build/
+viewer/.env.local
+
+# API specific
+api/__pycache__/
+api/*.pyc
+
+# Archive downloads (temporary)
+tools/archiving/downloads/
+tools/archiving/temp/
+
+# Reports (keep only permanent ones)
+timeline_data/reports/daily_*.json
+timeline_data/reports/weekly_*.json
+!timeline_data/reports/final_*.json
+
+# RAG System artifacts
+rag/chroma_db/
+rag/.chroma/
+rag/embeddings/
+rag/*.pkl
+rag/*.npy
+rag/*.npz
+rag/vector_store/
+rag/cache/
+*.faiss
+*.ann
+*.hnsw
+
+# Model downloads
+models/
+*.bin
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# QA artifacts
+timeline_data/qa_reports/temp_*.json
+timeline_data/.qa_cache/

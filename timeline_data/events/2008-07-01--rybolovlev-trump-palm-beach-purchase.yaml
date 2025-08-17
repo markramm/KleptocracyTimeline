@@ -1,0 +1,23 @@
+id: 2008-07-01--rybolovlev-trump-palm-beach-purchase
+date: '2008-07-01'
+title: Russian oligarch Rybolovlev purchases Trump mansion for $95M
+summary: Russian oligarch Dmitry Rybolovlev purchased Trump's Palm Beach mansion for
+  $95 million, giving Trump a $54 million profit during financial crisis, in transaction
+  flagged as potential money laundering.
+location: Palm Beach, Florida
+actors:
+- Dmitry Rybolovlev
+- Donald Trump
+tags:
+- russian-money
+- real-estate
+- money-laundering
+- oligarchs
+sources:
+- title: Palm Beach property transaction records
+  url: https://www.palmbeachpost.com/story/news/2016/08/01/rybolovlev-trump-mansion-sale
+  outlet: Palm Beach Post
+  date: '2016-08-01'
+notes: Transaction occurred during Trump financial distress, buyer never lived in
+  property
+status: confirmed

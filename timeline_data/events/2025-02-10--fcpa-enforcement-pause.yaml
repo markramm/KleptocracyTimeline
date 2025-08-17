@@ -1,0 +1,24 @@
+id: 2025-02-10--fcpa-enforcement-pause
+date: '2025-02-10'
+title: Executive Order pauses FCPA enforcement pending review
+summary: Executive Order directing pause on new Foreign Corrupt Practices Act investigations
+  and enforcement pending review, effectively suspending anti-bribery prosecutions
+  against U.S. companies operating abroad.
+location: Washington, DC
+actors:
+- Donald Trump
+- Department of Justice
+- SEC
+tags:
+- fcpa
+- anti-corruption
+- enforcement-suspension
+- executive-order
+sources:
+- title: FCPA enforcement pause executive order
+  url: https://www.whitehouse.gov/presidential-actions/2025/02/fcpa-review
+  outlet: White House
+  date: '2025-02-10'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+notes: Unprecedented suspension of anti-corruption enforcement mechanism
+status: confirmed

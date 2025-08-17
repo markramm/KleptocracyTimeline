@@ -1,0 +1,24 @@
+id: 2025-08-13--competition-executive-order-revoked
+date: '2025-08-13'
+title: Trump Revokes Executive Order on Competition
+summary: President Trump signs executive order revoking previous competition and antitrust
+  enforcement policies, clearing path for increased corporate consolidation and monopolistic
+  practices without federal oversight.
+location: Washington, DC
+actors:
+- Donald Trump
+- Department of Justice Antitrust Division
+- Federal Trade Commission
+tags:
+- corporate-consolidation
+- antitrust-elimination
+- monopoly-power
+- regulatory-capture
+sources:
+- title: Revocation of Executive Order on Competition
+  url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
+  outlet: Federal Register
+  date: '2025-08-13'
+notes: Removes barriers to corporate mergers and acquisitions, enables unchecked market
+  concentration
+status: confirmed

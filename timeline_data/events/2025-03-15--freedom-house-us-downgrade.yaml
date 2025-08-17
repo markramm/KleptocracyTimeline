@@ -1,0 +1,30 @@
+id: 2025-03-15--freedom-house-us-downgrade
+date: '2025-03-15'
+title: Freedom House downgrades U.S. democracy rating to "Partly Free"
+summary: Freedom House's annual Freedom in the World report downgrades United States
+  from "Free" to "Partly Free" for first time in organization's history, citing systematic
+  erosion of democratic institutions, press freedom collapse, and authoritarian governance
+  patterns.
+location: Washington, DC
+actors:
+- Freedom House
+- United States
+- International democracy community
+tags:
+- democracy-downgrade
+- freedom-house
+- partly-free
+- democratic-erosion
+- international-assessment
+sources:
+- title: Freedom House downgrades U.S. to Partly Free status
+  url: https://freedomhouse.org/report/freedom-world/2025/united-states
+  outlet: Freedom House
+  date: '2025-03-15'
+- title: U.S. loses "Free" status in global democracy ranking
+  url: https://www.washingtonpost.com/politics/2025/03/15/freedom-house-us-downgrade
+  outlet: Washington Post
+  date: '2025-03-15'
+notes: Historic downgrade places U.S. alongside countries like Hungary and India in
+  "Partly Free" category
+status: confirmed

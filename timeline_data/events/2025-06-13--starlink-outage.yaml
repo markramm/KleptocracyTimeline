@@ -1,0 +1,19 @@
+id: 2025-06-13--starlink-outage
+title: Starlink global outage caused by configuration change
+date: '2025-06-13'
+summary: Starlink suffered a global outage attributed to a configuration change, disrupting
+  connectivity for users worldwide.
+tags:
+- infrastructure
+- outage
+- spacecomms
+- dependency
+citations:
+- https://www.reuters.com/technology/space-exploration/starlink-hit-by-global-outage-2025-06-13/
+- https://www.theverge.com/2025/6/13/24180976/starlink-outage-global-down
+status: confirmed
+sources:
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

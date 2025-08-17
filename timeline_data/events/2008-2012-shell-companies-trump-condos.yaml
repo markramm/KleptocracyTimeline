@@ -1,0 +1,22 @@
+id: 2008-2012-shell-companies-trump-condos
+date: '2008-01-01'
+title: Shell companies spend $890M on Trump condos during financial crisis
+summary: During financial crisis, shell companies spent $890 million on 823 Trump
+  condos, with 25% of units sold during this period going to cash-paying shell companies,
+  suggesting systematic money laundering.
+location: United States
+actors:
+- Trump Organization
+- Anonymous shell companies
+tags:
+- money-laundering
+- shell-companies
+- financial-crisis
+- real-estate
+sources:
+- title: Treasury Department analysis of Trump property sales
+  url: https://www.buzzfeednews.com/article/thomasfrank/secret-money-trump
+  outlet: BuzzFeed News
+  date: '2018-01-10'
+notes: Massive cash purchases during credit crisis raise money laundering concerns
+status: confirmed

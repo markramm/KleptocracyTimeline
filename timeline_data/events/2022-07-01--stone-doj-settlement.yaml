@@ -1,0 +1,23 @@
+id: 2022-07-01--stone-doj-settlement
+date: '2022-07-01'
+title: Roger Stone settles DOJ civil lawsuit for $2.1 million
+summary: Roger Stone settled DOJ civil lawsuit for $2.1 million over "fraudulent transfers"
+  designed to evade tax collection, revealing financial schemes enabling his influence
+  operations.
+location: Washington, DC
+actors:
+- Roger Stone
+- Department of Justice
+tags:
+- financial-crimes
+- tax-evasion
+- stone-network
+- fraudulent-transfers
+sources:
+- title: DOJ Stone settlement announcement
+  url: https://www.justice.gov/opa/pr/roger-stone-agrees-settle-tax-case
+  outlet: Department of Justice
+  date: '2022-07-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/opa/pr/roger-stone-agrees-settle-tax-case
+notes: Financial schemes funding political influence operations
+status: confirmed

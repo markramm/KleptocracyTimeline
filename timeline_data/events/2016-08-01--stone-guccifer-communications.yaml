@@ -1,0 +1,26 @@
+id: 2016-08-01--stone-guccifer-communications
+date: '2016-08-01'
+title: Stone exchanges private messages with Russian GRU intelligence front Guccifer
+  2.0
+summary: Between August and September 2016, Roger Stone exchanged private Twitter
+  messages with Guccifer 2.0, later proven by Mueller's investigation to be a persona
+  operated by Russian GRU military intelligence officers, with Guccifer offering to
+  help Stone.
+location: United States
+actors:
+- Roger Stone
+- Russian GRU intelligence
+- Guccifer 2.0 persona
+tags:
+- russian-intelligence
+- election-interference
+- stone-network
+- gru-operations
+sources:
+- title: Mueller investigation findings on Guccifer 2.0
+  url: https://www.justice.gov/sco/file/1124706/download
+  outlet: Department of Justice
+  date: '2019-01-24'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/sco/file/1124706/download
+notes: Direct evidence of Stone coordination with Russian military intelligence
+status: confirmed

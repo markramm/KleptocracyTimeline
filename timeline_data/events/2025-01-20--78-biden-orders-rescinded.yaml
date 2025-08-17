@@ -1,0 +1,22 @@
+id: 2025-01-20--78-biden-orders-rescinded
+date: '2025-01-20'
+title: Initial Rescissions order revokes 78 Biden-era executive orders
+summary: Trump's "Initial Rescissions of Harmful Executive Orders and Actions" revoked
+  78 Biden administration policies on day one, systematically dismantling previous
+  administration's regulatory framework.
+location: Washington, DC
+actors:
+- Donald Trump
+- White House
+tags:
+- executive-orders
+- deregulation
+- biden-reversal
+sources:
+- title: Initial Rescissions Of Harmful Executive Orders And Actions
+  url: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions/
+  outlet: WhiteHouse.gov
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+notes: Comprehensive reversal of Biden-era policies across all federal agencies
+status: confirmed

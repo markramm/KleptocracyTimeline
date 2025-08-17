@@ -1,0 +1,29 @@
+id: 2025-07-25--texas-passes-redistricting-without-democrats
+date: '2025-07-25'
+title: Texas Legislature passes redistricting without Democrats present
+summary: Texas Legislature votes to change quorum rules and passes new congressional
+  map creating 5 safe Republican seats without Democratic members present, maps immediately
+  challenged in federal court but implementation proceeds during litigation.
+location: Austin, Texas
+actors:
+- Texas Legislature
+- Texas Republicans
+- Greg Abbott
+tags:
+- redistricting
+- gerrymandering
+- quorum-violation
+- constitutional-crisis
+- electoral-manipulation
+sources:
+- title: Texas passes new maps despite Democratic absence
+  url: https://www.texastribune.org/2025/07/25/texas-redistricting-passes-no-democrats
+  outlet: Texas Tribune
+  date: '2025-07-25'
+- title: Federal court allows Texas maps during appeal
+  url: https://www.texastribune.org/2025/07/25/federal-court-texas-maps-appeal
+  outlet: Texas Tribune
+  date: '2025-07-25'
+notes: Legislature changes rules to allow passage without traditional quorum, setting
+  dangerous precedent
+status: confirmed

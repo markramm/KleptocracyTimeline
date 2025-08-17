@@ -1,0 +1,24 @@
+id: 2018-01-01--thiel-fbi-informant-philosopher
+date: '2018-01-01'
+title: Peter Thiel becomes FBI informant "Philosopher" to report Russian cultivation
+summary: Peter Thiel became an FBI informant with the codename "Philosopher" specifically
+  to report on Russian cultivation attempts after receiving documented invitations
+  to meet privately with Putin through Russian diplomat Daniil Bisslinger.
+location: United States
+actors:
+- Peter Thiel
+- FBI
+- Vladimir Putin
+- Daniil Bisslinger
+tags:
+- fbi-informant
+- russian-recruitment
+- counterintelligence
+- thiel-network
+sources:
+- title: FBI counterintelligence operations report
+  url: https://www.businessinsider.com/thiel-fbi-informant-russian-cultivation
+  outlet: Business Insider
+  date: '2018-01-01'
+notes: Sophisticated Russian approach targeting tech leaders
+status: confirmed

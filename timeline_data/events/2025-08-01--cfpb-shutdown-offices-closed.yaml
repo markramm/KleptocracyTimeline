@@ -1,0 +1,27 @@
+id: 2025-08-01--cfpb-shutdown-offices-closed
+date: '2025-08-01'
+title: CFPB offices ordered closed, staff told cannot perform work tasks
+summary: Russell Vought, acting CFPB director and Project 2025 author, ordered CFPB
+  offices to close and notified staff they "cannot perform any work tasks," effectively
+  shutting down consumer financial protections.
+location: Washington, DC
+actors:
+- Russell Vought
+- CFPB
+tags:
+- consumer-protection
+- agency-shutdown
+- project-2025
+- financial-regulation
+sources:
+- title: CFPB shutdown order
+  url: https://studentborrowerpro.org/cfpb-shutdown-vought
+  outlet: Student Borrower Protection Center
+  date: '2025-08-01'
+- title: CFPB workforce reduction targets
+  url: https://www.washingtonpost.com/business/2025/08/01/cfpb-95-percent-reduction
+  outlet: The Washington Post
+  date: '2025-08-01'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+notes: CFPB workforce faces 95% reduction targets
+status: confirmed

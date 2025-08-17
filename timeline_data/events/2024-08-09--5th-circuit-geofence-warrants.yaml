@@ -1,0 +1,21 @@
+id: 2024-08-09--5th-circuit-geofence-warrants
+date: '2024-08-09'
+title: Fifth Circuit rules geofence warrants unconstitutional general warrants
+summary: In a key privacy ruling, the Fifth Circuit held Google geofence warrants
+  unconstitutional as general warrants, foreshadowing jurisdictional splits on location
+  dragnet searches.
+tags:
+- privacy
+- courts
+- surveillance
+sources:
+- title: 'ACLU: Fifth Circuit geofence ruling'
+  url: https://www.aclu.org/press-releases/fifth-circuit-rules-geofence-warrants-unconstitutional
+  outlet: ACLU
+  date: '2024-08-09'
+- title: 'Reuters: US appeals court finds geofence warrants unconstitutional'
+  url: https://www.reuters.com/technology/us-appeals-court-finds-geofence-warrants-unconstitutional-2024-08-09/
+  outlet: Reuters
+  date: '2024-08-09'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/
+status: confirmed

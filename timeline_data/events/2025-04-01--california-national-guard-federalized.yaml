@@ -1,0 +1,25 @@
+id: 2025-04-01--california-national-guard-federalized
+date: '2025-04-01'
+title: Trump federalizes California National Guard over governor's objection
+summary: President Trump federalized 4,000 California National Guard troops over Governor
+  Newsom's objection, first presidential override of state authority since 1965, setting
+  precedent for federal control of state forces.
+location: California
+actors:
+- Donald Trump
+- Gavin Newsom
+- California National Guard
+tags:
+- national-guard
+- federalization
+- states-rights
+- constitutional-crisis
+sources:
+- title: California Guard federalization order
+  url: https://www.defense.gov/News/Releases/california-guard-federalization
+  outlet: Department of Defense
+  date: '2025-04-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.defense.gov/News/Releases/california-guard-federalization
+notes: First override of governor's authority over state Guard since 1965 Alabama
+  incident
+status: confirmed

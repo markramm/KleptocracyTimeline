@@ -1,0 +1,28 @@
+id: 2025-03-01--starlink-400-million-faa-approval
+date: '2025-03-01'
+title: FAA approves 4,000 Starlink terminals worth $400 million
+summary: FAA approves 4,000 Starlink terminals worth $400 million despite existing
+  contract with another company, while State Department announces $400 million Tesla
+  Cybertruck contract and Commerce changes broadband requirements favoring Starlink.
+location: Washington, DC
+actors:
+- FAA
+- Starlink
+- Tesla
+- State Department
+- Commerce Department
+tags:
+- self-dealing
+- starlink
+- government-contracts
+- musk
+- regulatory-capture
+sources:
+- title: Starlink contract approvals
+  url: https://www.congresswoman-sherrill.com/starlink-contracts
+  outlet: Congresswoman Mikie Sherrill
+  date: '2025-03-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.congresswoman-sherrill.com/starlink-contracts
+notes: Multiple agencies simultaneously benefit Musk companies while he oversees federal
+  spending
+status: confirmed

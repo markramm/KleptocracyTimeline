@@ -1,0 +1,37 @@
+id: 2025-07-23--trump-v-boyle-scotus-ruling
+title: Supreme Court Emergency Order in Trump v. Boyle
+date: 2025-07-23
+summary: Supreme Court allows removals of CPSC commissioners to stand during litigation;
+  coverage underscores implications for the autonomy of independent agencies; Justice
+  Kagan dissented
+location: Washington DC
+actors:
+- US Supreme Court
+- Donald Trump
+- CPSC Commissioners
+- Justice Kagan
+tags:
+- supreme-court
+- independent-agencies
+- emergency-relief
+- cpsc
+- judicial-deference
+citations:
+- 'U.S. Supreme Court — Trump v. Boyle (order, Jul 23, 2025) (PDF): https://www.supremecourt.gov/opinions/24pdf/25a11_2cp3.pdf'
+- 'SCOTUSblog — Trump v. Boyle case page (Jul 23, 2025): https://www.scotusblog.com/cases/case-files/trump-v-boyle/'
+- 'Reuters — U.S. Supreme Court lets Trump remove CPSC commissioners (Jul 23, 2025):
+  https://www.reuters.com/legal/government/us-supreme-court-lets-trump-remove-consumer-product-safety-commissioners-2025-07-23/'
+notes: Emergency relief enabling at-will removal of CPSC commissioners; Kagan dissent
+  flags effective evisceration of independent agency protections established in Humphrey's
+  Executor.
+sources:
+- title: Executive Actions Archive
+  url: https://www.whitehouse.gov/presidential-actions/
+  outlet: White House
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'
+status: confirmed

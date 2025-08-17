@@ -1,0 +1,24 @@
+id: 2017-2021-ice-shadow-detention-network
+date: '2017-01-01'
+title: ICE operates 1,000+ undisclosed detention sites in shadow network
+summary: ICE held detainees in over 1,000 facilities never publicly acknowledged,
+  ranging from hotels to military bases, operating hidden from public oversight with
+  systematic constitutional violations.
+location: United States
+actors:
+- ICE
+- Private contractors
+- Detainees
+tags:
+- hidden-detention
+- constitutional-violations
+- immigration-enforcement
+- shadow-operations
+sources:
+- title: Government watchdog ICE detention report
+  url: https://www.gao.gov/products/gao-21-149
+  outlet: Government Accountability Office
+  date: '2021-01-28'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.gao.gov/products/gao-21-149
+notes: Massive hidden detention network operating without oversight
+status: confirmed

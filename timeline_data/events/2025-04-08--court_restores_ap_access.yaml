@@ -1,0 +1,29 @@
+id: 2025-04-08--court_restores_ap_access
+title: Judge orders restoration of AP access to White House events
+date: '2025-04-08'
+summary: A federal judge ordered the White House to restore AP’s access to cover presidential
+  events, finding viewpoint-based exclusion violated the First Amendment.
+location: Washington, DC
+actors:
+- U.S. District Court
+- Associated Press
+- The White House
+tags:
+- courts
+- press-freedom
+citations:
+- https://www.ap.org/media-center/ap-in-the-news/2025/ap-wins-reinstatement-to-white-house-events-after-judge-rules-government-cant-bar-its-journalists/
+- https://www.theguardian.com/us-news/2025/apr/08/judge-orders-white-house-restore-associated-press-access
+- https://www.washingtonpost.com/media/2025/04/08/associated-press-white-house-ban-lifted/
+notes: ''
+status: confirmed
+sources:
+- title: Executive Actions Archive
+  url: https://www.whitehouse.gov/presidential-actions/
+  outlet: White House
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

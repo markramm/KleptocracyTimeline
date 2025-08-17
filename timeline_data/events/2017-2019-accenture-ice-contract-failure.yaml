@@ -1,0 +1,23 @@
+id: 2017-2019-accenture-ice-contract-failure
+date: '2017-11-01'
+title: Accenture delivers 58 hires for $297M ICE contract
+summary: $297 million contract with Accenture Federal Services promised 7,500 new
+  hires but delivered exactly 2 hires in first year and just 58 total before termination.
+  Effective cost reached approximately $60 million per successful hire initially.
+location: United States
+actors:
+- Accenture Federal Services
+- ICE
+tags:
+- contracting-fraud
+- administrative-failure
+- taxpayer-waste
+- immigration-enforcement
+sources:
+- title: Accenture ICE contract termination
+  url: https://www.washingtonpost.com/immigration/accenture-ice-hiring-contract
+  outlet: The Washington Post
+  date: '2019-01-31'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+notes: Massive contracting failure and waste of taxpayer funds
+status: confirmed

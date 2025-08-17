@@ -1,0 +1,28 @@
+id: 2025-08-08--dc-federal-surge-and-guard-prep
+date: '2025-08-08'
+title: White House orders federal surge in D.C.; FBI agents patrol streets; Guard
+  activation prepared
+summary: The White House announced an increased federal law‑enforcement presence in
+  Washington, D.C. Reports indicated ~120 FBI agents on street patrols and preparations
+  to activate hundreds of D.C. National Guard members.
+tags:
+- federal
+- law-enforcement
+- dc
+- military
+sources:
+- title: 'AP: Increased federal presence ordered'
+  url: https://apnews.com/article/trump-washington-increased-federal-law-enforcement-takeover-33b186a95dabf111bac61db398aa7543
+  outlet: Associated Press
+  date: '2025-08-08'
+- title: 'Washington Post: FBI agents dispatched to D.C. streets'
+  url: https://www.washingtonpost.com/dc-md-va/2025/08/10/dc-crime-trump-crackdown/
+  outlet: Washington Post
+  date: '2025-08-10'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+- title: 'Reuters: Military preparing Guard activation in D.C.'
+  url: https://www.reuters.com/world/us/us-military-preparing-national-guard-activation-washington-dc-officials-say-2025-08-11/
+  outlet: Reuters
+  date: '2025-08-11'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/
+status: confirmed

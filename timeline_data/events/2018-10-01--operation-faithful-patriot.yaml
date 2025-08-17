@@ -1,0 +1,30 @@
+id: 2018-10-01--operation-faithful-patriot
+date: '2018-10-01'
+title: Operation Faithful Patriot deploys 5,200 active-duty troops to border
+summary: Trump ordered 5,200 active-duty troops to border with additional 7,000 on
+  24-hour deployment notice. Politically charged name dropped after two weeks, reverting
+  to "border support" after criticism.
+location: US-Mexico Border
+actors:
+- 101st Airborne Division
+- Military police battalions
+- Combat engineers
+- Pentagon
+tags:
+- military-deployment
+- border-militarization
+- active-duty-troops
+- posse-comitatus
+sources:
+- title: Pentagon deployment orders
+  url: https://www.defense.gov/News/faithful-patriot
+  outlet: Department of Defense
+  date: '2018-10-29'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.defense.gov/News/faithful-patriot
+- title: GAO cost analysis of deployment
+  url: https://www.gao.gov/products/gao-19-416
+  outlet: Government Accountability Office
+  date: '2019-06-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.gao.gov/products/gao-19-416
+notes: Unprecedented active-duty military deployment to border
+status: confirmed

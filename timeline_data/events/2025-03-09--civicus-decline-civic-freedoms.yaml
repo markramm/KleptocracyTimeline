@@ -1,0 +1,29 @@
+id: 2025-03-09--civicus-decline-civic-freedoms
+date: '2025-03-09'
+title: CIVICUS reports U.S. civic freedoms in decline, democracy at risk
+summary: CIVICUS Monitor's comprehensive report documents systematic decline in U.S.
+  civic freedoms including freedom of association, peaceful assembly, and expression,
+  warning that democratic institutions are under severe threat.
+location: International
+actors:
+- CIVICUS Monitor
+- United States
+- International civil society organizations
+tags:
+- democracy-degradation
+- civic-freedoms
+- international-assessment
+- civil-liberties
+- freedom-decline
+sources:
+- title: US placed on watchlist over decline in civic freedoms
+  url: https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus
+  outlet: The Guardian
+  date: '2025-03-09'
+- title: CIVICUS Monitor Watchlist Report
+  url: https://monitor.civicus.org/watchlist-march-2025/USA/
+  outlet: CIVICUS Monitor
+  date: '2025-03-09'
+notes: Detailed assessment showing U.S. joining countries like Israel and UK on watchlist
+  for democratic backsliding
+status: confirmed

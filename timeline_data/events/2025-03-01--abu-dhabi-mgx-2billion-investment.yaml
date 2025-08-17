@@ -1,0 +1,23 @@
+id: 2025-03-01--abu-dhabi-mgx-2billion-investment
+date: '2025-03-01'
+title: Abu Dhabi MGX commits $2 billion to Trump's WLF stablecoin
+summary: Abu Dhabi sovereign wealth fund MGX committed $2 billion to Trump's World
+  Liberty Financial stablecoin project, representing massive foreign government investment
+  in sitting president's business.
+location: Washington, DC
+actors:
+- Abu Dhabi MGX
+- World Liberty Financial
+- Donald Trump
+tags:
+- cryptocurrency
+- foreign-investment
+- emoluments
+- sovereign-wealth
+sources:
+- title: MGX investment in Trump crypto
+  url: https://www.ft.com/content/mgx-trump-wlf-investment
+  outlet: Financial Times
+  date: '2025-03-10'
+notes: Potential emoluments violation through foreign government crypto investment
+status: confirmed

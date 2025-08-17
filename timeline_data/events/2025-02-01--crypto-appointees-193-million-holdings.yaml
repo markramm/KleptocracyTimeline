@@ -1,0 +1,27 @@
+id: 2025-02-01--crypto-appointees-193-million-holdings
+date: '2025-02-01'
+title: Over 70 Trump appointees hold $193+ million in cryptocurrency
+summary: Over 70 Trump appointees held cryptocurrency or blockchain investments at
+  selection, totaling at least $193 million in disclosed holdings, with Treasury Secretary
+  Bessent reporting $250K-$500K in digital assets.
+location: Washington, DC
+actors:
+- Trump appointees
+- Scott Bessent
+tags:
+- cryptocurrency
+- conflicts-of-interest
+- financial-holdings
+- bitcoin
+sources:
+- title: Crypto holdings among Trump appointees
+  url: https://www.washingtonpost.com/technology/2025/02/crypto-appointees
+  outlet: The Washington Post
+  date: '2025-02-10'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+- title: Appointee cryptocurrency investments
+  url: https://cryptoforinnovation.org/appointee-holdings
+  outlet: Crypto for Innovation
+  date: '2025-02-12'
+notes: Trump himself holds $51M in World Liberty Financial family crypto business
+status: confirmed

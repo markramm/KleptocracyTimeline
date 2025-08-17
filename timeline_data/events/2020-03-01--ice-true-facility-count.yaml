@@ -1,0 +1,23 @@
+id: 2020-03-01--ice-true-facility-count
+date: '2020-03-01'
+title: ICE operates 409 detention sites while acknowledging only 221
+summary: While ICE publicly acknowledged only 221 facilities, agency actually operated
+  409 separate detention sites - nearly double the official count, revealing systematic
+  concealment of detention operations.
+location: United States
+actors:
+- ICE
+- Vera Institute
+- Government investigators
+tags:
+- hidden-detention
+- government-deception
+- detention-expansion
+- transparency-failure
+sources:
+- title: Vera Institute ICE detention analysis
+  url: https://www.vera.org/publications/ice-detention-facilities
+  outlet: Vera Institute of Justice
+  date: '2020-03-01'
+notes: Systematic concealment of true detention network scale
+status: confirmed

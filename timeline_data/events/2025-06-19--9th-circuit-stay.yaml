@@ -1,0 +1,29 @@
+id: 2025-06-19--9th-circuit-stay
+title: Ninth Circuit stays district court order on LA deployment
+date: '2025-06-19'
+summary: The Ninth Circuit stayed a district court order that found the Los Angeles
+  deployment likely unlawful, preserving the deployment pending appeal.
+location: San Francisco, CA
+actors:
+- Ninth Circuit
+- DOJ
+- State of California
+tags:
+- courts
+- stays
+- military
+- domestic-deployment
+citations:
+- https://cdn.ca9.uscourts.gov/datastore/general/2025/06/19/25-3727.pdf
+- https://calmatters.org/justice/2025/06/9th-circuit-los-angeles-national-guard/
+status: confirmed
+sources:
+- title: Executive Actions Archive
+  url: https://www.whitehouse.gov/presidential-actions/
+  outlet: White House
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

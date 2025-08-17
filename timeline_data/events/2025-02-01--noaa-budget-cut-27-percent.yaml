@@ -1,0 +1,24 @@
+id: 2025-02-01--noaa-budget-cut-27-percent
+date: '2025-02-01'
+title: NOAA faces 27% budget cut with research office eliminated
+summary: National Oceanic and Atmospheric Administration faces 27% budget cut with
+  Office of Oceanic and Atmospheric Research effectively eliminated, dismantling climate
+  science infrastructure and weather forecasting capabilities.
+location: Washington, DC
+actors:
+- Trump administration
+- NOAA
+- OMB
+tags:
+- noaa
+- climate-science
+- budget-cuts
+- research-elimination
+- project-2025
+sources:
+- title: NOAA research office eliminated
+  url: https://www.msnbc.com/news/noaa-budget-cuts-climate-research/
+  outlet: MSNBC
+  date: '2025-02-01'
+notes: Climate programs dismantled wholesale per Project 2025 recommendations
+status: confirmed

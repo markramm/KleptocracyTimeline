@@ -1,0 +1,35 @@
+id: 2025-02-01--chris-wright-54-million-stock
+date: '2025-02-01'
+title: Energy Secretary Wright owns $54 million in fracking company stock
+summary: Energy Secretary Chris Wright, founder of Liberty Energy, owns $54 million
+  in company stock and received $1 million performance bonus from Liberty after taking
+  office, while department reverses climate policies benefiting his former industry.
+location: Washington, DC
+actors:
+- Chris Wright
+- Liberty Energy
+- Department of Energy
+tags:
+- conflicts-of-interest
+- energy-policy
+- fracking
+- regulatory-capture
+- self-dealing
+sources:
+- title: Wright Liberty Energy conflicts
+  url: https://www.cnn.com/2025/02/chris-wright-energy
+  outlet: CNN
+  date: '2025-02-01'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.cnn.com/
+- title: Wright Liberty Energy compensation
+  url: https://www.cnn.com/2025/02/01/politics/chris-wright-energy-secretary
+  outlet: CNN
+  date: '2025-02-01'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.cnn.com/
+- title: Energy Secretary conflicts of interest
+  url: https://www.usnews.com/news/politics/articles/energy-secretary-conflicts
+  outlet: U.S. News & World Report
+  date: '2025-02-02'
+notes: Multiple Liberty colleagues followed him to DOE, policies directly benefit
+  fracking industry
+status: confirmed

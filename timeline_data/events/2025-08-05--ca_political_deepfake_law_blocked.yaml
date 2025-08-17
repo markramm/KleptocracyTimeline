@@ -1,0 +1,27 @@
+date: '2025-08-05'
+title: Federal court blocks California’s political deepfake labeling/removal law
+summary: Court enjoined key provisions requiring labels and removal of deceptive AI
+  political content, siding with platforms on First Amendment grounds.
+tags:
+- ai
+- elections
+- first-amendment
+- platforms
+citations:
+- https://www.politico.com/news/2025/08/05/judge-strikes-down-california-law-ai-political-ads-00498843
+- https://www.eff.org/deeplinks/2025/08/court-blocks-california-political-ad-deepfake-law
+id: 2025-08-05--ca_political_deepfake_law_blocked
+location: null
+actors: []
+notes: ''
+status: confirmed
+sources:
+- title: Federal Court Decisions
+  url: https://www.uscourts.gov/court-records
+  outlet: US Courts
+  date: '2025-01-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

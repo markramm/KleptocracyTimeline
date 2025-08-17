@@ -1,0 +1,23 @@
+id: 2010-2013-trump-soho-money-laundering
+date: '2010-01-01'
+title: Trump SoHo money laundering operation - 77% shell company sales
+summary: At Trump SoHo, 77% of sales ($110 million) went to cash-paying shell companies.
+  Property developed by Soviet-born Bayrock Group with alleged mob ties, described
+  by former finance director as "spectacularly corrupt" money laundering operation.
+location: New York, NY
+actors:
+- Trump Organization
+- Bayrock Group
+- Felix Sater
+tags:
+- money-laundering
+- russian-organized-crime
+- shell-companies
+- real-estate
+sources:
+- title: Bayrock Group financial investigation
+  url: https://www.bloomberg.com/news/articles/trump-soho-bayrock
+  outlet: Bloomberg
+  date: '2017-08-28'
+notes: Former Bayrock finance director testified to systematic money laundering
+status: confirmed

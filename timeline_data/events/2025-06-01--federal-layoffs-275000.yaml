@@ -1,0 +1,25 @@
+id: 2025-06-01--federal-layoffs-275000
+date: '2025-06-01'
+title: Over 275,000 federal layoffs announced with 128,709 workers targeted
+summary: Over 275,000 federal layoffs announced with 128,709 workers laid off or targeted
+  by June 2025, while Deferred Resignation Program sees 75,000 employees accept buyouts
+  by mid-February in unprecedented workforce purge.
+location: National
+actors:
+- Trump administration
+- Federal workforce
+- OPM
+tags:
+- federal-workforce
+- mass-layoffs
+- schedule-f
+- workforce-reduction
+- institutional-capture
+sources:
+- title: Federal workforce mass layoffs
+  url: https://www.npr.org/2025/06/federal-layoffs
+  outlet: NPR
+  date: '2025-06-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/2025/06/federal-layoffs
+notes: USAID cut 97% from 10,000 to 294 employees, CFPB faces 95% reduction
+status: confirmed

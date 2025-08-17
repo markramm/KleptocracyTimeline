@@ -1,0 +1,23 @@
+id: 2022-01-01--bipartisan-ig-protections-enacted
+date: '2022-01-01'
+title: Bipartisan Inspector General protections enacted
+summary: Bipartisan legislation enacted protecting Inspectors General from arbitrary
+  removal, requiring specific cause and congressional notification for dismissals,
+  strengthening oversight independence.
+location: Washington, DC
+actors:
+- Congress
+- Inspectors General
+tags:
+- oversight-protection
+- inspectors-general
+- bipartisan-legislation
+- government-accountability
+sources:
+- title: IG protection legislation
+  url: https://www.congress.gov/bill/117th-congress/ig-protection-act
+  outlet: Congress.gov
+  date: '2022-06-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.congress.gov/bill/117th-congress/ig-protection-act
+notes: Protections later violated by Trump administration in 2025
+status: confirmed

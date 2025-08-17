@@ -1,0 +1,34 @@
+id: 2025-06-13--ninth-circuit-stays-la-deployment-ruling
+title: Ninth Circuit Stays District Court Ruling Against LA Deployment
+date: 2025-06-13
+summary: Appeals court allows Guard deployments to continue despite district court
+  ruling that LA deployment exceeded statutory/constitutional limits; keeps Guard/active-duty
+  assets in place during appeal
+location: Los Angeles, California / Ninth Circuit
+actors:
+- Ninth Circuit Court of Appeals
+- Judge Charles Breyer
+- California National Guard
+- US Marines
+tags:
+- judicial-review
+- emergency-stays
+- military-deployment
+- constitutional-limits
+- appeals-court
+citations:
+- 'Reuters — Trump can keep National Guard deployed to Los Angeles for now, appeals
+  court rules (Jun 13, 2025): https://www.reuters.com/world/us/trump-can-keep-national-guard-deployed-los-angeles-now-appeals-court-rules-2025-06-13/'
+notes: Demonstrates courts acting as pressure-release valves for expanding executive
+  power through emergency stays that allow contested actions to persist.
+sources:
+- title: Federal Court Decisions
+  url: https://www.uscourts.gov/court-records
+  outlet: US Courts
+  date: '2025-01-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'
+status: confirmed

@@ -1,0 +1,25 @@
+date: '2025-02-10'
+title: Executive Order pauses Foreign Corrupt Practices Act enforcement for 180 days
+summary: White House issued an order pausing FCPA enforcement pending new DOJ guidance.
+tags:
+- doj
+- executive-order
+- fcpa
+citations:
+- https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
+- https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10/
+id: 2025-02-10--executive_order_fcpa_pause
+location: null
+actors: []
+notes: ''
+status: confirmed
+sources:
+- title: Executive Actions Archive
+  url: https://www.whitehouse.gov/presidential-actions/
+  outlet: White House
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

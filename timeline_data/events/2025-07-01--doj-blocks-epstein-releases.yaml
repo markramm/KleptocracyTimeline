@@ -1,0 +1,23 @@
+id: 2025-07-01--doj-blocks-epstein-releases
+date: '2025-07-01'
+title: DOJ blocks further Epstein file releases
+summary: DOJ issued memo claiming no further Epstein file releases were "appropriate
+  or warranted," representing ongoing obstruction of justice and conspiracy to conceal
+  financial crimes documented in files.
+location: Washington, DC
+actors:
+- Department of Justice
+- Congressional Republicans
+tags:
+- epstein-files
+- obstruction-of-justice
+- cover-up
+- financial-crimes
+sources:
+- title: DOJ memorandum on Epstein files
+  url: https://www.justice.gov/opa/epstein-files-decision
+  outlet: Department of Justice
+  date: '2025-07-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/opa/epstein-files-decision
+notes: Active obstruction to prevent revelation of financial crimes
+status: confirmed

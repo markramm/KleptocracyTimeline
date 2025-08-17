@@ -1,0 +1,28 @@
+id: 2025-06-10--ga_sc_blocks_hand_count_rule
+title: Georgia Supreme Court blocks State Election Board’s hand-count rule
+date: '2025-06-10'
+summary: Georgia’s high court unanimously held the State Election Board exceeded its
+  authority in adopting rules including a requirement to hand-count ballots at polling
+  places, upholding a lower court’s block.
+location: Georgia
+actors:
+- Georgia Supreme Court
+- Georgia State Election Board
+tags:
+- election-administration
+- elections
+- state-courts
+citations:
+- https://www.ajc.com/politics/2025/06/georgia-high-court-rejects-election-boards-rules-for-hand-counts-and-inquiries/
+notes: ''
+status: confirmed
+sources:
+- title: Federal Court Decisions
+  url: https://www.uscourts.gov/court-records
+  outlet: US Courts
+  date: '2025-01-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

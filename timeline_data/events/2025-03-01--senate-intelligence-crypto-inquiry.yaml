@@ -1,0 +1,24 @@
+id: 2025-03-01--senate-intelligence-crypto-inquiry
+date: '2025-03-01'
+title: Senate Intelligence Committee opens inquiry into Trump crypto empire
+summary: Senate Intelligence Committee opened preliminary inquiry into Trump's cryptocurrency
+  empire examining foreign influence, money laundering risks, and unprecedented presidential
+  conflicts of interest.
+location: Washington, DC
+actors:
+- Senate Intelligence Committee
+- Donald Trump
+- World Liberty Financial
+tags:
+- congressional-oversight
+- cryptocurrency
+- foreign-influence
+- investigation
+sources:
+- title: Senate Intelligence Committee announcement
+  url: https://www.intelligence.senate.gov/press/crypto-inquiry
+  outlet: Senate Intelligence Committee
+  date: '2025-03-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.intelligence.senate.gov/press/crypto-inquiry
+notes: Congressional attempt to investigate unprecedented crypto conflicts
+status: confirmed

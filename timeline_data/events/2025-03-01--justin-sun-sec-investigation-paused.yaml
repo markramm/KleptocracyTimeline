@@ -1,0 +1,24 @@
+id: 2025-03-01--justin-sun-sec-investigation-paused
+date: '2025-03-01'
+title: SEC pauses Justin Sun investigation after $75M Trump investment
+summary: SEC paused investigation into crypto mogul Justin Sun following his $75 million
+  investment in Trump's World Liberty Financial, suggesting quid pro quo between enforcement
+  and investment.
+location: Washington, DC
+actors:
+- SEC
+- Justin Sun
+- World Liberty Financial
+tags:
+- cryptocurrency
+- enforcement-dropped
+- foreign-influence
+- quid-pro-quo
+sources:
+- title: SEC enforcement decisions
+  url: https://www.sec.gov/news/press-release/2025-sun-investigation
+  outlet: SEC
+  date: '2025-03-15'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.sec.gov/news/press-release/2025-sun-investigation
+notes: Direct correlation between investment in Trump business and regulatory relief
+status: confirmed

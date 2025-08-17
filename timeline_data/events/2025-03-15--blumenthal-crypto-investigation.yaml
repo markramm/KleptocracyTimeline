@@ -1,0 +1,25 @@
+id: 2025-03-15--blumenthal-crypto-investigation
+date: '2025-03-15'
+title: Senator Blumenthal opens investigation into Trump crypto ventures
+summary: Senator Richard Blumenthal's Permanent Subcommittee on Investigations opens
+  preliminary inquiry into Trump's digital assets, stating 'TRUMP allows, and even
+  invites, anyone in the world, including foreign governments and unscrupulous individuals,
+  to directly enrich the president.'
+location: Washington, DC
+actors:
+- Richard Blumenthal
+- Senate Permanent Subcommittee on Investigations
+- Donald Trump
+tags:
+- congressional-investigation
+- cryptocurrency
+- foreign-influence
+- corruption-investigation
+sources:
+- title: Blumenthal crypto investigation
+  url: https://www.senate.gov/committees/investigations/trump-crypto
+  outlet: U.S. Senate
+  date: '2025-03-15'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.senate.gov/committees/investigations/trump-crypto
+notes: Congressional oversight targets unprecedented crypto conflicts
+status: confirmed

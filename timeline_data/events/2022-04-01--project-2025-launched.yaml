@@ -1,0 +1,26 @@
+id: 2022-04-01--project-2025-launched
+date: '2022-04-01'
+title: Heritage Foundation launches Project 2025 initiative
+summary: Heritage Foundation launches $22 million "2025 Presidential Transition Project"
+  bringing together over 100 conservative organizations to craft comprehensive conservative
+  governing blueprint for transforming federal government.
+location: Washington, DC
+actors:
+- Heritage Foundation
+- Kevin Roberts
+- Paul Dans
+- Conservative organizations
+tags:
+- project-2025
+- heritage-foundation
+- conservative-blueprint
+- government-transformation
+sources:
+- title: Project 2025 Implementation Analysis
+  url: https://www.heritage.org/project2025
+  outlet: Heritage Foundation
+  date: '2022-04-01'
+  archive_url: https://web.archive.org/web/20240701000000/https://www.heritage.org/project2025
+notes: Most comprehensive conservative governing blueprint in modern history with
+  920-page manual
+status: confirmed

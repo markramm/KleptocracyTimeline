@@ -1,0 +1,22 @@
+id: 2025-07-18--gsa-aws-onegov
+title: GSA enters $1B OneGov cloud agreement with AWS
+date: '2025-07-18'
+summary: GSA announced a $1 billion 'OneGov' cloud agreement with AWS intended to
+  streamline federal procurement, raising questions about vendor concentration risk.
+location: Washington, DC
+actors:
+- GSA
+- AWS
+tags:
+- cloud
+- procurement
+- dependency
+citations:
+- https://www.gsa.gov/about-us/newsroom/news-releases/gsa-enters-into-1b-onegov-cloud-agreement-with-aws
+- https://www.reuters.com/technology/amazon-inks-1-billion-cloud-deal-us-government-2025-07-18/
+status: confirmed
+sources:
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

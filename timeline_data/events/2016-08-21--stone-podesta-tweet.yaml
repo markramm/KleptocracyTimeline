@@ -1,0 +1,24 @@
+id: 2016-08-21--stone-podesta-tweet
+date: '2016-08-21'
+title: Stone tweets "Podesta's time in the barrel" 47 days before WikiLeaks
+summary: Roger Stone tweeted "Podesta's time in the barrel" 47 days before WikiLeaks
+  released Podesta emails, demonstrating advance knowledge of Russian intelligence
+  operations against Clinton campaign.
+location: United States
+actors:
+- Roger Stone
+- John Podesta
+- WikiLeaks
+tags:
+- election-interference
+- russian-operations
+- stone-network
+- advance-knowledge
+sources:
+- title: Stone indictment and Twitter archives
+  url: https://www.justice.gov/file/1124706/download
+  outlet: Department of Justice
+  date: '2019-01-24'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/file/1124706/download
+notes: Direct evidence of campaign coordination with Russian intelligence operations
+status: confirmed

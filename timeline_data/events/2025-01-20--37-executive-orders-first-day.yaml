@@ -1,0 +1,29 @@
+id: 2025-01-20--37-executive-orders-first-day
+date: '2025-01-20'
+title: Trump signs 37 executive orders on first day, implementing Project 2025 priorities
+summary: President Trump signed 37 executive orders on inauguration day, including
+  withdrawal from Paris Climate Agreement and WHO, establishing DOGE, and initiating
+  elimination of all federal DEI programs.
+location: Washington, DC
+actors:
+- Donald Trump
+- White House
+tags:
+- executive-orders
+- project-2025
+- inauguration
+- climate
+- dei
+sources:
+- title: First day executive order blitz
+  url: https://www.whitehouse.gov/presidential-actions/
+  outlet: WhiteHouse.gov
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+- title: Trump administration executive orders analysis
+  url: https://www.npr.org/trump-executive-orders-2025
+  outlet: NPR
+  date: '2025-01-21'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/trump-executive-orders-2025
+notes: Directly implemented numerous Project 2025 priorities with remarkable precision
+status: confirmed

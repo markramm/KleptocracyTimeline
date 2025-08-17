@@ -1,0 +1,26 @@
+id: 2025-07-01--usaid-shuttered-92-percent-grants
+date: '2025-07-01'
+title: USAID completely shuttered with 92% of grants terminated
+summary: USAID was completely shuttered by July 1, 2025, with 92% of its grants terminated
+  and functions folded into State Department. Workforce cut from over 10,000 to 294
+  employees (97% reduction).
+location: Washington, DC
+actors:
+- USAID
+- State Department
+tags:
+- agency-elimination
+- foreign-aid
+- government-restructuring
+- workforce-reduction
+sources:
+- title: USAID elimination analysis
+  url: https://foreignpolicy.com/2025/07/01/usaid-elimination-complete
+  outlet: Foreign Policy
+  date: '2025-07-01'
+- title: USAID workforce statistics
+  url: https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development
+  outlet: Wikipedia
+  date: '2025-07-02'
+notes: Faster than Project 2025 blueprint anticipated
+status: confirmed

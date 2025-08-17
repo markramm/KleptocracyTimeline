@@ -1,0 +1,23 @@
+id: 2025-10-01--fema-elimination-announced
+date: '2025-10-01'
+title: Administration announces FEMA elimination after 2025 hurricane season
+summary: The administration announced FEMA's elimination after the 2025 hurricane
+  season, fulfilling a Project 2025 goal ahead of schedule despite ongoing disaster
+  response needs.
+location: Washington, DC
+actors:
+- FEMA
+- White House
+- DHS
+tags:
+- agency-elimination
+- disaster-response
+- project-2025
+- emergency-management
+sources:
+- title: FEMA elimination announcement
+  url: https://time.com/fema-elimination-2025
+  outlet: Time
+  date: '2025-10-01'
+notes: Elimination announced despite active hurricane season and disaster responses
+status: predicted

@@ -1,0 +1,25 @@
+# RAG System Requirements
+
+# Core dependencies
+pyyaml>=5.4.1
+numpy>=1.21.0
+
+# Embeddings
+sentence-transformers>=2.2.0  # For local embeddings
+openai>=0.27.0  # Optional: For OpenAI embeddings/LLM
+
+# Vector Database Options (choose one)
+chromadb>=0.4.0  # Simple, local option
+# pinecone-client>=2.2.0  # Cloud option
+# weaviate-client>=3.0.0  # Self-hosted option
+
+# API Framework (for serving)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+
+# Optional: Advanced features
+langchain>=0.1.0  # For advanced RAG chains
+tiktoken>=0.5.0  # For token counting
+pandas>=1.5.0  # For data analysis
+networkx>=3.0  # For network analysis

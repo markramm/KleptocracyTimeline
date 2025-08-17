@@ -1,0 +1,35 @@
+id: 2025-01-20--national-energy-emergency-declared
+title: National Energy Emergency Declared via Executive Order
+date: 2025-01-20
+summary: EO 14156 "Declaring a National Energy Emergency" issued by White House and
+  published in Federal Register, enabling emergency permitting procedures
+location: Washington DC
+actors:
+- Donald Trump
+- White House
+- Department of Interior
+- US Army Corps of Engineers
+tags:
+- executive-order
+- energy-emergency
+- emergency-powers
+- regulatory-bypass
+- permitting
+citations:
+- 'White House — Declaring a National Energy Emergency (EO 14156) (Jan 20, 2025):
+  https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/'
+- 'Federal Register — Declaring a National Energy Emergency (EO 14156) (Jan 29, 2025):
+  https://www.federalregister.gov/documents/2025/01/29/2025-02003/declaring-a-national-energy-emergency'
+notes: Executive authority expansion through emergency declarations to bypass statutes
+  and concentrate authority for energy sector.
+sources:
+- title: Executive Actions Archive
+  url: https://www.whitehouse.gov/presidential-actions/
+  outlet: White House
+  date: '2025-01-20'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'
+status: confirmed

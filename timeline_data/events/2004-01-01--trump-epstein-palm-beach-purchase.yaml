@@ -1,0 +1,24 @@
+id: 2004-01-01--trump-epstein-palm-beach-purchase
+date: '2004-01-01'
+title: Trump acquires Palm Beach mansion via suspected money laundering
+summary: Jeffrey Epstein believed he was high bidder at $36M for Maison de l'Amitié.
+  Trump "went around Epstein's back" bidding $40M, securing property with money Epstein
+  believed came from Russian oligarch Dmitry Rybolovlev.
+location: Palm Beach, Florida
+actors:
+- Donald Trump
+- Jeffrey Epstein
+- Dmitry Rybolovlev
+tags:
+- money-laundering
+- russian-money
+- real-estate
+- epstein-network
+sources:
+- title: Michael Wolff's Siege book recordings
+  url: https://www.theguardian.com/books/2019/siege-michael-wolff
+  outlet: The Guardian
+  date: '2019-06-04'
+notes: Epstein's recorded conversations reveal belief in Russian money laundering
+  through real estate
+status: confirmed

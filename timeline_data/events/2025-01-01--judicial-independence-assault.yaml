@@ -1,0 +1,24 @@
+id: 2025-01-01--judicial-independence-assault
+date: '2025-01-01'
+title: Systematic assault on judicial independence begins
+summary: Trump administration launched systematic executive orders targeting law firms,
+  mass firings of prosecutors, and open defiance of court rulings, creating what legal
+  scholars describe as unprecedented constitutional crisis.
+location: Washington, DC
+actors:
+- Trump administration
+- Federal judiciary
+- Law firms
+tags:
+- constitutional-crisis
+- judicial-independence
+- executive-overreach
+- rule-of-law
+sources:
+- title: Federal court rulings on executive overreach
+  url: https://www.uscourts.gov/news/2025/01/judicial-independence
+  outlet: U.S. Courts
+  date: '2025-01-15'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/news/2025/01/judicial-independence
+notes: Beginning of systematic attack on judicial branch
+status: confirmed

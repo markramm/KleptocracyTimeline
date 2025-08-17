@@ -1,0 +1,23 @@
+id: 2022-12-15--trump-first-nft-collection
+date: '2022-12-15'
+title: Trump launches first NFT collection one month after campaign announcement
+summary: Trump launches first NFT collection of 45,000 'Trump Digital Trading Cards'
+  for $99 each, selling out in under 12 hours and generating over $16 million in primary
+  sales, marking his crypto debut one month after announcing presidential campaign.
+location: United States
+actors:
+- Donald Trump
+- Trump Organization
+tags:
+- nft
+- cryptocurrency
+- campaign-finance
+- digital-assets
+sources:
+- title: Trump NFT collection launch
+  url: https://www.coindesk.com/business/2022/12/trump-nft-collection
+  outlet: CoinDesk
+  date: '2022-12-15'
+notes: Suspicious patterns with 115 collectors buying exactly 45 NFTs for Mar-a-Lago
+  dinner
+status: confirmed

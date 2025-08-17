@@ -1,0 +1,32 @@
+id: 2025-08-05--california-deepfake-law-struck-down
+title: Federal Judge Strikes Down Key Parts of California's Deepfake Laws
+date: 2025-08-05
+summary: Federal judge strikes down key parts of California's deepfake laws with X/others
+  backing the challenge, reducing protections against AI-generated political misinformation
+location: California
+actors:
+- Federal Judge
+- X (Twitter)
+- California
+tags:
+- deepfake-regulation
+- california-law
+- ai-misinformation
+- court-ruling
+- political-content
+citations:
+- 'Referenced in document: Federal judge strikes down key parts of California''s deepfake
+  laws (X/others backed challenge) (Aug 5, 2025)'
+notes: Elimination of state-level protections against AI-generated political misinformation
+  during critical election period.
+status: confirmed
+sources:
+- title: Federal Court Decisions
+  url: https://www.uscourts.gov/court-records
+  outlet: US Courts
+  date: '2025-01-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

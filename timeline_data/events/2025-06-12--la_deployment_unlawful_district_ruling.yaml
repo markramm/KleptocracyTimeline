@@ -1,0 +1,30 @@
+id: 2025-06-12--la_deployment_unlawful_district_ruling
+title: Federal judge says Los Angeles Guard/Marine deployment likely unlawful
+date: '2025-06-12'
+summary: A federal district judge in California found the federalization of the state
+  National Guard and deployment of active-duty Marines in Los Angeles likely unlawful,
+  citing federalism concerns; the ruling was quickly stayed on appeal.
+location: Los Angeles, CA
+actors:
+- U.S. District Court (N.D. Cal.)
+- State of California
+- U.S. Department of Defense
+tags:
+- civil-military
+- courts
+- emergency-powers
+citations:
+- https://www.politico.com/news/2025/06/12/judge-casts-doubt-military-deployment-california-00174746
+- https://www.courthousenews.com/california-gets-a-win-in-challenge-to-national-guard-deployment/
+notes: ''
+status: confirmed
+sources:
+- title: Federal Court Decisions
+  url: https://www.uscourts.gov/court-records
+  outlet: US Courts
+  date: '2025-01-01'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/court-records
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'

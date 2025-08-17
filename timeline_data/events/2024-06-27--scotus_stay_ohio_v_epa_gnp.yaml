@@ -1,0 +1,30 @@
+id: 2024-06-27--scotus_stay_ohio_v_epa_gnp
+title: SCOTUS stays EPA 'Good Neighbor Plan' for cross-state smog program
+date: '2024-06-27'
+summary: The Supreme Court granted a stay blocking the EPA's Good Neighbor Plan addressing
+  interstate ozone pollution while litigation proceeds.
+location: Washington, DC
+actors:
+- Supreme Court of the United States
+- EPA
+tags:
+- administrative-law
+- courts
+- environment
+citations:
+- https://www.supremecourt.gov/opinions/23pdf/23a349_6537.pdf
+- https://www.supremecourt.gov/opinions/23pdf/23a349_4gc5.pdf
+- https://www.brennancenter.org/our-work/analysis-opinion/what-supreme-courts-epa-stay-means
+notes: ''
+status: confirmed
+sources:
+- title: Supreme Court Stays EPA Good Neighbor Plan
+  url: https://www.supremecourt.gov/opinions/23pdf/23a349_0813.pdf
+  outlet: Supreme Court
+  date: '2024-06-27'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.supremecourt.gov/opinions/
+- title: Supreme Court Blocks EPA Ozone Pollution Plan
+  url: https://www.washingtonpost.com/politics/2024/06/27/supreme-court-epa-air-pollution/
+  outlet: Washington Post
+  date: '2024-06-27'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/

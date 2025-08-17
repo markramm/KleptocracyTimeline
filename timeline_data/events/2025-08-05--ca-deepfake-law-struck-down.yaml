@@ -1,0 +1,25 @@
+id: 2025-08-05--ca-deepfake-law-struck-down
+date: '2025-08-05'
+title: Federal judge strikes down California’s election deepfake law
+summary: A federal judge in Sacramento struck down California’s law restricting AI‑generated
+  political deepfakes; a related labeling requirement was also signaled as unconstitutional.
+tags:
+- ai
+- elections
+- speech
+- platforms
+sources:
+- title: 'Politico: Elon Musk and X notch court win'
+  url: https://www.politico.com/news/2025/08/05/elon-musk-x-court-win-california-deepfake-law-00494936
+  outlet: Politico
+  date: '2025-08-05'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.politico.com/
+- title: 'Bloomberg Law: Musk‑challenged deepfake law struck'
+  url: https://news.bloomberglaw.com/litigation/musk-challenged-california-anti-deepfake-law-struck-by-judge
+  outlet: Bloomberg Law
+  date: '2025-08-06'
+- title: 'Courthouse News: Judge rebukes California laws targeting misinformation'
+  url: https://www.courthousenews.com/federal-judge-rebukes-california-laws-targeting-misinformation/
+  outlet: Courthouse News Service
+  date: '2025-08-06'
+status: confirmed

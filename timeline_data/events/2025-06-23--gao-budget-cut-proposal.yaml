@@ -1,0 +1,32 @@
+id: 2025-06-23--gao-budget-cut-proposal
+title: House Proposes Nearly 50% Budget Cut for GAO
+date: 2025-06-23
+summary: House proposal to halve GAO's budget and limit certain investigations; signals
+  capture pressure on legislative oversight with potential reduction of oversight
+  capacity
+location: Washington DC
+actors:
+- US House of Representatives
+- Government Accountability Office (GAO)
+- Congress
+tags:
+- oversight-capture
+- budget-cuts
+- gao
+- legislative-oversight
+- institutional-weakening
+citations:
+- 'Federal News Network — GAO faces nearly 50% budget cut… (Jun 23, 2025): https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/'
+notes: Attempt to weaken independent oversight as coercive powers expand; Senate later
+  moved to reject the House cut but the attempt itself signals capture pressure.
+sources:
+- title: Congressional Record
+  url: https://www.congress.gov/congressional-record
+  outlet: US Congress
+  date: '2025-01-01'
+  archive_url: https://web.archive.org/web/20250101000000/https://www.congress.gov/congressional-record
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'
+status: confirmed

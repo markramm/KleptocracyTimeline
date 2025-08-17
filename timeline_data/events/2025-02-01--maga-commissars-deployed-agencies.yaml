@@ -1,0 +1,27 @@
+id: 2025-02-01--maga-commissars-deployed-agencies
+date: '2025-02-01'
+title: MAGA commissars deployed throughout federal agencies to monitor compliance
+summary: Administration deployed what agency staff call "MAGA commissars" - young
+  Trump loyalists placed throughout federal agencies to monitor compliance with administration
+  directives and screen remaining career staff for political reliability.
+location: Washington, DC
+actors:
+- White House Personnel Office
+- Federal agencies
+tags:
+- political-control
+- federal-workforce
+- loyalty-monitoring
+- commissars
+sources:
+- title: MAGA commissars in federal agencies
+  url: https://www.usnews.com/news/politics/maga-commissars-agencies
+  outlet: U.S. News & World Report
+  date: '2025-02-10'
+- title: Political monitoring of career staff
+  url: https://www.washingtonpost.com/politics/2025/02/political-monitors
+  outlet: The Washington Post
+  date: '2025-02-12'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+notes: Pattern mirrors political commissar systems in authoritarian regimes
+status: confirmed

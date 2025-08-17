@@ -1,0 +1,29 @@
+id: 2024-06-13--scotus_fda_v_ahm
+title: 'SCOTUS: No standing in challenge to mifepristone changes (FDA v. AHM)'
+date: '2024-06-13'
+summary: The Supreme Court unanimously held the plaintiffs lacked Article III standing
+  to challenge FDA's 2016/2021 actions on mifepristone, leaving the agency's changes
+  in place.
+location: Washington, DC
+actors:
+- Supreme Court of the United States
+- Food and Drug Administration
+tags:
+- administrative-law
+- courts
+- standing
+citations:
+- https://www.supremecourt.gov/opinions/23pdf/23-235_n7ip.pdf
+- https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/
+notes: ''
+status: confirmed
+sources:
+- title: FDA v. Alliance for Hippocratic Medicine
+  url: https://www.supremecourt.gov/opinions/23pdf/23-235_n7ip.pdf
+  outlet: Supreme Court
+  date: '2024-06-13'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.supremecourt.gov/opinions/
+- title: Supreme Court Preserves Access to Abortion Pill Mifepristone
+  url: https://www.scotusblog.com/2024/06/supreme-court-preserves-access-to-abortion-pill-mifepristone/
+  outlet: SCOTUSblog
+  date: '2024-06-13'

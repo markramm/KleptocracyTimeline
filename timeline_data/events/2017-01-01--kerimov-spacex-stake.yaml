@@ -1,0 +1,23 @@
+id: 2017-01-01--kerimov-spacex-stake
+date: '2017-01-01'
+title: Sanctioned oligarch Kerimov holds 1% SpaceX stake worth billions
+summary: Sanctioned Russian oligarch Suleyman Kerimov acquired 1% SpaceX stake for
+  $210 million between 2017-2022, now worth $3.5 billion, representing Russian financial
+  penetration of critical US space infrastructure.
+location: United States
+actors:
+- Suleyman Kerimov
+- SpaceX
+- Elon Musk
+tags:
+- russian-investment
+- spacex
+- sanctions-evasion
+- critical-infrastructure
+sources:
+- title: SpaceX investor analysis
+  url: https://www.wsj.com/articles/spacex-russian-oligarch-investment
+  outlet: Wall Street Journal
+  date: '2023-06-15'
+notes: Investment maintained despite US sanctions on Kerimov
+status: confirmed

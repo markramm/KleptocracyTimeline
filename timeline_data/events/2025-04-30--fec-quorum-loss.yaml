@@ -1,0 +1,27 @@
+id: 2025-04-30--fec-quorum-loss
+title: FEC Loses Policymaking Quorum After Commissioner Resignation
+date: 2025-04-30
+summary: After Commissioner Allen Dickerson resigned, the FEC lost its policymaking
+  quorum, halting new investigations, advisory opinions, and many enforcement actions
+location: Washington DC
+actors:
+- Federal Election Commission (FEC)
+- Commissioner Allen Dickerson
+tags:
+- election-oversight
+- fec-quorum
+- enforcement-shutdown
+- regulatory-capture
+- campaign-finance
+citations:
+- 'Federal News Network — FEC loses quorum after Dickerson resigns (Apr 30, 2025):
+  [Referenced in document]'
+- Multiple outlets and law firms note enforcement shutdown following quorum loss
+notes: FEC acknowledged its inability to act in court filings and weekly updates,
+  effectively shutting down campaign finance enforcement during critical period.
+sources:
+- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
+  url: Research Document
+  outlet: Research Analysis
+  date: '2025-08-14'
+status: confirmed

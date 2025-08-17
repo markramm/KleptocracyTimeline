@@ -1,0 +1,27 @@
+id: 2024-06-28--scotus_loper_bright_overrules_chevron
+title: SCOTUS overrules Chevron deference (Loper Bright v. Raimondo)
+date: '2024-06-28'
+summary: A 6–3 majority held courts must exercise independent judgment on statutory
+  meaning, overruling Chevron deference while preserving prior case holdings.
+location: Washington, DC
+actors:
+- Supreme Court of the United States
+tags:
+- administrative-law
+- chevron
+- courts
+citations:
+- https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
+- https://www.reuters.com/legal/us-supreme-court-curbs-federal-agency-powers-overturning-1984-precedent-2024-06-28/
+notes: ''
+status: confirmed
+sources:
+- title: Loper Bright Enterprises v. Raimondo
+  url: https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
+  outlet: Supreme Court
+  date: '2024-06-28'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.supremecourt.gov/opinions/
+- title: Supreme Court Overturns Chevron Doctrine
+  url: https://www.scotusblog.com/2024/06/supreme-court-overturns-chevron-deference/
+  outlet: SCOTUSblog
+  date: '2024-06-28'
