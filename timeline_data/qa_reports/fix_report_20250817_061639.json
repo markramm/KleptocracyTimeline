@@ -1,0 +1,493 @@
+{
+  "generated": "2025-08-17T06:16:39.070823",
+  "total_events_analyzed": 50,
+  "events_with_issues": 50,
+  "events_with_broken_links": 50,
+  "priority_fixes": [
+    {
+      "file": "1976-01-01--operation-berkshire-tobacco.yaml",
+      "issues": [
+        "Broken URL: https://example.com/operation-berkshire-source..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://example.com/operation-berkshire-source"
+      ]
+    },
+    {
+      "file": "1977-01-01--cia-cowboys-purge.yaml",
+      "issues": [
+        "Broken URL: https://www.cia.gov/library/center-for-the-study-o..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications"
+      ]
+    },
+    {
+      "file": "1980-01-01--black-manafort-stone-founded.yaml",
+      "issues": [
+        "Broken URL: https://www.thecenterforinvestigativereporting.org..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.thecenterforinvestigativereporting.org/torturers-lobby"
+      ]
+    },
+    {
+      "file": "1990-01-01--epstein-purchases-palm-beach-property.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "1991-01-01--saudi-prince-yacht-purchase.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/saudi-fund..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html"
+      ]
+    },
+    {
+      "file": "1992-01-01--trump-epstein-mar-a-lago-party.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "1993-01-01--epstein-attends-trump-wedding.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "1993-01-01--trump-flies-epstein-jets.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "2000-01-01--trump-epstein-maxwell-melania-photo.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "2001-01-01--saudi-trump-tower-purchase.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/saudi-fund..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html"
+      ]
+    },
+    {
+      "file": "2002-01-01--trump-calls-epstein-terrific-guy.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru...",
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html",
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "2004-01-01--trump-epstein-palm-beach-purchase.yaml",
+      "issues": [
+        "Broken URL: https://www.theguardian.com/books/2019/siege-micha..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.theguardian.com/books/2019/siege-michael-wolff"
+      ]
+    },
+    {
+      "file": "2004-11-01--trump-epstein-relationship-ends.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "2008-01-01--kroll-marsh-mclennan-sale.yaml",
+      "issues": [
+        "Broken URL: https://www.nytimes.com/1991/09/01/magazine/the-pr..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.nytimes.com/1991/09/01/magazine/the-private-spies.html"
+      ]
+    },
+    {
+      "file": "2008-07-01--rybolovlev-money-laundering-operation.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/politics/donald-tru..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html"
+      ]
+    },
+    {
+      "file": "2008-07-01--rybolovlev-trump-palm-beach-purchase.yaml",
+      "issues": [
+        "Broken URL: https://www.palmbeachpost.com/story/news/2016/08/0..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.palmbeachpost.com/story/news/2016/08/01/rybolovlev-trump-mansion-sale"
+      ]
+    },
+    {
+      "file": "2008-2012-shell-companies-trump-condos.yaml",
+      "issues": [
+        "Broken URL: https://www.buzzfeednews.com/article/thomasfrank/s..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.buzzfeednews.com/article/thomasfrank/secret-money-trump"
+      ]
+    },
+    {
+      "file": "2010-01-01--chapman-antonova-gates-connection.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/chapman-spy-ring-co..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/chapman-spy-ring-connections"
+      ]
+    },
+    {
+      "file": "2010-2013-trump-soho-money-laundering.yaml",
+      "issues": [
+        "Broken URL: https://www.bloomberg.com/news/articles/trump-soho..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.bloomberg.com/news/articles/trump-soho-bayrock"
+      ]
+    },
+    {
+      "file": "2013-01-01--intelligence-budget-70-percent-private.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/world/national-secu..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/world/national-security/black-budget-summary"
+      ]
+    },
+    {
+      "file": "2014-01-01--epstein-belyakov-meetings.yaml",
+      "issues": [
+        "Broken URL: https://www.wsj.com/articles/jeffrey-epstein-calen..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.wsj.com/articles/jeffrey-epstein-calendar-russian-contacts"
+      ]
+    },
+    {
+      "file": "2016-08-01--stone-guccifer-communications.yaml",
+      "issues": [
+        "Broken URL: https://www.justice.gov/sco/file/1124706/download..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.justice.gov/sco/file/1124706/download"
+      ]
+    },
+    {
+      "file": "2016-08-21--stone-podesta-tweet.yaml",
+      "issues": [
+        "Broken URL: https://www.justice.gov/file/1124706/download..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.justice.gov/file/1124706/download"
+      ]
+    },
+    {
+      "file": "2017-01-01--ice-hiring-collapse.yaml",
+      "issues": [
+        "Broken URL: https://www.govexec.com/management/2017/12/ice-hir..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.govexec.com/management/2017/12/ice-hiring-surge-falls-short"
+      ]
+    },
+    {
+      "file": "2017-01-01--kerimov-spacex-stake.yaml",
+      "issues": [
+        "Broken URL: https://www.wsj.com/articles/spacex-russian-oligar..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.wsj.com/articles/spacex-russian-oligarch-investment"
+      ]
+    },
+    {
+      "file": "2017-01-30--eo_13771_reducing_regulation.yaml",
+      "issues": [
+        "Broken URL: https://www.nytimes.com/2017/02/03/business/dealbo..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.nytimes.com/2017/02/03/business/dealbook/trump-congress-financial-regulations.html"
+      ]
+    },
+    {
+      "file": "2017-2019-accenture-ice-contract-failure.yaml",
+      "issues": [
+        "Broken URL: https://www.washingtonpost.com/immigration/accentu..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.washingtonpost.com/immigration/accenture-ice-hiring-contract"
+      ]
+    },
+    {
+      "file": "2017-2021-ice-shadow-detention-network.yaml",
+      "issues": [
+        "Broken URL: https://www.gao.gov/products/gao-21-149..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.gao.gov/products/gao-21-149"
+      ]
+    },
+    {
+      "file": "2018-01-01--thiel-fbi-informant-philosopher.yaml",
+      "issues": [
+        "Broken URL: https://www.businessinsider.com/thiel-fbi-informan..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.businessinsider.com/thiel-fbi-informant-russian-cultivation"
+      ]
+    },
+    {
+      "file": "2018-04-01--operation-guardian-support.yaml",
+      "issues": [
+        "Broken URL: https://www.defense.gov/News/operation-guardian-su..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.defense.gov/News/operation-guardian-support"
+      ]
+    },
+    {
+      "file": "2018-10-01--operation-faithful-patriot.yaml",
+      "issues": [
+        "Broken URL: https://www.defense.gov/News/faithful-patriot...",
+        "Broken URL: https://www.gao.gov/products/gao-19-416..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.defense.gov/News/faithful-patriot",
+        "Archive available: https://web.archive.org/web/*/https://www.gao.gov/products/gao-19-416"
+      ]
+    },
+    {
+      "file": "2019-06-04--epstein-wolff-book-panic.yaml",
+      "issues": [
+        "Broken URL: https://www.theguardian.com/books/2019/siege-micha..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.theguardian.com/books/2019/siege-michael-wolff"
+      ]
+    },
+    {
+      "file": "2019-07-06--epstein-arrested-after-revelations.yaml",
+      "issues": [
+        "Broken URL: https://www.nytimes.com/2019/07/06/nyregion/jeffre..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.nytimes.com/2019/07/06/nyregion/jeffrey-epstein-arrested"
+      ]
+    },
+    {
+      "file": "2019-08-07--mississippi-ice-raids.yaml",
+      "issues": [
+        "Broken URL: https://www.npr.org/2019/08/07/mississippi-ice-rai..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.npr.org/2019/08/07/mississippi-ice-raids"
+      ]
+    },
+    {
+      "file": "2020-03-01--ice-true-facility-count.yaml",
+      "issues": [
+        "Broken URL: https://www.vera.org/publications/ice-detention-fa..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.vera.org/publications/ice-detention-facilities"
+      ]
+    },
+    {
+      "file": "2020-07-01--hampton-inn-secret-detention.yaml",
+      "issues": [
+        "Broken URL: https://www.texascivilrightsproject.org/hampton-in..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.texascivilrightsproject.org/hampton-inn-detention"
+      ]
+    },
+    {
+      "file": "2021-01-20--eo_13992_revocation_regulatory_orders.yaml",
+      "issues": [
+        "Broken URL: https://www.whitehouse.gov/briefing-room/president..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-revocation-of-certain-executive-orders-concerning-federal-regulation/"
+      ]
+    },
+    {
+      "file": "2021-06-01--trump-bitcoin-scam-statement.yaml",
+      "issues": [
+        "Broken URL: https://www.thestreet.com/crypto/bitcoin/trump-bit..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.thestreet.com/crypto/bitcoin/trump-bitcoin-scam"
+      ]
+    },
+    {
+      "file": "2022-01-01--bipartisan-ig-protections-enacted.yaml",
+      "issues": [
+        "Broken URL: https://www.congress.gov/bill/117th-congress/ig-pr..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.congress.gov/bill/117th-congress/ig-protection-act"
+      ]
+    },
+    {
+      "file": "2022-04-01--project-2025-launched.yaml",
+      "issues": [
+        "Broken URL: https://www.heritage.org/project2025..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.heritage.org/project2025"
+      ]
+    },
+    {
+      "file": "2022-07-01--stone-doj-settlement.yaml",
+      "issues": [
+        "Broken URL: https://www.justice.gov/opa/pr/roger-stone-agrees-..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.justice.gov/opa/pr/roger-stone-agrees-settle-tax-case"
+      ]
+    },
+    {
+      "file": "2022-10-01--musk-putin-regular-contact-begins.yaml",
+      "issues": [
+        "Broken URL: https://www.wsj.com/world/russia/musk-putin-secret..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.wsj.com/world/russia/musk-putin-secret-conversations"
+      ]
+    },
+    {
+      "file": "2022-12-15--trump-first-nft-collection.yaml",
+      "issues": [
+        "Broken URL: https://www.coindesk.com/business/2022/12/trump-nf..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.coindesk.com/business/2022/12/trump-nft-collection"
+      ]
+    },
+    {
+      "file": "2023-01-03--x-expands-political-ads.yaml",
+      "issues": [
+        "Broken URL: https://business.twitter.com/en/blog/political-con...",
+        "Broken URL: https://www.reuters.com/technology/twitter-lift-po..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://business.twitter.com/en/blog/political-content-advertising-policy-update.html",
+        "Archive available: https://web.archive.org/web/*/https://www.reuters.com/technology/twitter-lift-political-advertising-ban-2023-01-03/"
+      ]
+    },
+    {
+      "file": "2023-03-27--x-verified-priority.yaml",
+      "issues": [
+        "Broken URL: https://twitter.com/elonmusk/status/16404901305437...",
+        "Broken URL: https://x.com/elonmusk/status/1640502698549075972...",
+        "Broken URL: https://twitter.com/elonmusk/status/16403459670245...",
+        "Broken URL: https://techcrunch.com/2023/03/27/twitter-blue-sub..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://twitter.com/elonmusk/status/1640490130543771650",
+        "Archive available: https://web.archive.org/web/*/https://x.com/elonmusk/status/1640502698549075972",
+        "Archive available: https://web.archive.org/web/*/https://twitter.com/elonmusk/status/1640345967024504832",
+        "Archive available: https://web.archive.org/web/*/https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost/"
+      ]
+    },
+    {
+      "file": "2023-06-02--youtube-election-policy.yaml",
+      "issues": [
+        "Broken URL: https://support.google.com/youtube/answer/10835034...",
+        "Broken URL: https://www.axios.com/2023/06/02/us-election-fraud...",
+        "Broken URL: https://blog.youtube/news-and-events/our-approach-...",
+        "Broken URL: https://www.nytimes.com/2023/06/02/technology/yout...",
+        "Broken URL: https://www.cnn.com/2023/06/02/tech/youtube-electi..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://support.google.com/youtube/answer/10835034",
+        "Archive available: https://web.archive.org/web/*/https://www.axios.com/2023/06/02/us-election-fraud-youtube-policy",
+        "Archive available: https://web.archive.org/web/*/https://blog.youtube/news-and-events/our-approach-to-2024-elections/",
+        "Archive available: https://web.archive.org/web/*/https://www.nytimes.com/2023/06/02/technology/youtube-election-misinformation-policy.html",
+        "Archive available: https://web.archive.org/web/*/https://www.cnn.com/2023/06/02/tech/youtube-election-misinformation-policy/index.html"
+      ]
+    },
+    {
+      "file": "2023-08-29--x-political-ads-return.yaml",
+      "issues": [
+        "Broken URL: https://blog.x.com/en_us/topics/company/2023/suppo...",
+        "Broken URL: https://blog.x.com/en_us/topics/company/2023/expan...",
+        "Broken URL: https://www.reuters.com/world/us/elon-musks-x-to-a...",
+        "Broken URL: https://www.wsj.com/articles/x-twitter-political-a...",
+        "Broken URL: https://business.twitter.com/en/blog/causes-based-..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://blog.x.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x",
+        "Archive available: https://web.archive.org/web/*/https://blog.x.com/en_us/topics/company/2023/expanding-our-political-advertising-policy",
+        "Archive available: https://web.archive.org/web/*/https://www.reuters.com/world/us/elon-musks-x-to-allow-us-political-ads-again-2023-08-29/",
+        "Archive available: https://web.archive.org/web/*/https://www.wsj.com/articles/x-twitter-political-ads-return-musk",
+        "Archive available: https://web.archive.org/web/*/https://business.twitter.com/en/blog/causes-based-advertising-policy.html"
+      ]
+    },
+    {
+      "file": "2024-03-26--ca5_blocks_sb4.yaml",
+      "issues": [
+        "Broken URL: https://www.ca5.uscourts.gov/opinions/pub/24/24-50...",
+        "Broken URL: https://www.texastribune.org/2024/03/26/texas-sb4-..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.ca5.uscourts.gov/opinions/pub/24/24-50149.pdf",
+        "Archive available: https://web.archive.org/web/*/https://www.texastribune.org/2024/03/26/texas-sb4-immigration-appeals-court/"
+      ]
+    },
+    {
+      "file": "2024-03-29--guardian_ga_sb189.yaml",
+      "issues": [
+        "Broken URL: https://www.theguardian.com/us-news/2024/mar/29/ge..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.theguardian.com/us-news/2024/mar/29/georgia-sb189-voter-challenge-law"
+      ]
+    },
+    {
+      "file": "2024-04-01--epa-pfas-cercla-guidance.yaml",
+      "issues": [
+        "Broken URL: https://www.epa.gov/superfund/pfas-enforcement-dis...",
+        "Broken URL: https://www.law360.com/articles/epa-pfas-cercla-en...",
+        "Broken URL: https://www.epa.gov/system/files/documents/2024-04..."
+      ],
+      "suggestions": [
+        "Archive available: https://web.archive.org/web/*/https://www.epa.gov/superfund/pfas-enforcement-discretion-and-settlement-policy-under-cercla",
+        "Archive available: https://web.archive.org/web/*/https://www.law360.com/articles/epa-pfas-cercla-enforcement-guidance",
+        "Archive available: https://web.archive.org/web/*/https://www.epa.gov/system/files/documents/2024-04/pfas-cercla-guidance-memo.pdf"
+      ]
+    }
+  ],
+  "other_fixes": []
+}

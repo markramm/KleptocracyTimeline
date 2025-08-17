@@ -1,9 +1,10 @@
 id: 1993-01-01--epstein-attends-trump-wedding
-date: '1993-01-01'
+date: '1993-12-20'
 title: Epstein Attends Trump's Wedding to Marla Maples
-summary: Newly discovered photos from CNN confirm Jeffrey Epstein attended Donald
-  Trump's 1993 wedding to Marla Maples, demonstrating the closeness of their relationship
-  during this period.
+summary: Jeffrey Epstein attended Donald Trump's wedding to Marla Maples on December
+  20, 1993, at New York's Plaza Hotel. CNN's KFile discovered photos showing Epstein
+  among the 1,000 guests, including one with Howard Stern, Robin Leach, and Swedish
+  model Cecilia Nord.
 location: New York
 actors:
 - Jeffrey Epstein
@@ -15,9 +16,21 @@ tags:
 - social-ties
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
-  date: '2025-08-14'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
-notes: Photos provide evidence of Epstein's inclusion in Trump's most personal events.
+- title: 'Exclusive: Newly discovered photos and video shed fresh light on Trump''s ties to Jeffrey Epstein'
+  outlet: CNN Politics
+  date: '2025-07-22'
+  url: https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage
+- title: 'Epstein attended Trump''s 1993 wedding, new photos reveal'
+  outlet: Yahoo News
+  date: '2025-07-22'
+  url: https://www.yahoo.com/news/articles/epstein-attended-trump-1993-wedding-102900426.html
+- title: 'Grinning Jeffrey Epstein Pictured at Trump''s Wedding to Marla Maples'
+  outlet: The Daily Beast
+  date: '2025-07-22'
+  url: https://www.thedailybeast.com/jeffrey-epstein-photographed-among-nyc-elite-at-trumps-wedding-to-marla-maples/
+notes: 'The wedding''s 1,000-person guest list included NYC''s political elite: Mayor David
+  Dinkins, Sen. Al D''Amato, Rep. Charles Rangel, and Manhattan DA Robert Morgenthau.
+  When asked about the photos, Trump told CNN "You''ve got to be kidding me" and repeatedly
+  called the outlet "fake news" before hanging up. The photos were discovered in
+  July 2025, confirming for the first time Epstein''s attendance at this high-profile
+  event.'
