@@ -26,6 +26,7 @@ sources:
   date: '2025-01-07'
   verified: true
   verified_date: '2025-08-17'
+  archive_url: https://web.archive.org/web/20250107000000*/https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
   key_facts_confirmed:
     - "Ending third-party fact-checking in the U.S."
     - "Replacing with Community Notes system"

@@ -29,6 +29,7 @@ sources:
   date: '2024-01-01'
   verified: true
   verified_date: '2025-08-17'
+  archive_url: https://web.archive.org/web/20240101000000*/https://en.wikipedia.org/wiki/Kroll_Inc.
   key_facts_confirmed:
     - "Founded 1972 by Jules Kroll"
     - "Nicknamed 'CIA of Wall Street'"

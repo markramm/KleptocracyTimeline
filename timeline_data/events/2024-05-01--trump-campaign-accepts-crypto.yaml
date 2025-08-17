@@ -1,5 +1,5 @@
 id: 2024-05-01--trump-campaign-accepts-crypto
-date: '2024-05-01'
+date: '2024-05-21'
 title: Trump campaign begins accepting cryptocurrency donations
 summary: Trump campaign begins accepting cryptocurrency donations in May 2024, coinciding
   with courting crypto industry's $238 million in election spending, marking strategic
@@ -14,9 +14,15 @@ tags:
 - political-donations
 - election-2024
 sources:
-- title: Trump campaign accepts crypto donations
-  url: https://www.newsweek.com/trump-crypto-donations
-  outlet: Newsweek
+- title: Trump campaign starts taking cryptocurrency donations, vows to build a 'crypto army'
+  url: https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html
+  outlet: CNBC
+  date: '2024-05-21'
+  archive_url: https://web.archive.org/web/20240815000000/https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html
+- title: Crypto industry surpasses traditional giants with at least $238M in election spending
+  url: https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants
+  outlet: Fox Business
   date: '2024-05-01'
+  archive_url: https://web.archive.org/web/20240815000000/https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants
 notes: Strategic timing to capture crypto industry political spending
 status: confirmed

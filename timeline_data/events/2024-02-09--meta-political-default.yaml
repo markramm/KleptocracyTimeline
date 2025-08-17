@@ -23,11 +23,13 @@ citations:
 - https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/
 status: confirmed
 sources:
-- title: Meta Makes Political Content Non-Recommended by Default
-  url: https://about.fb.com/news/2024/02/approaches-to-political-content/
-  outlet: Meta Newsroom
+- title: Continuing our approach to political content on Instagram and Threads
+  url: https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads
+  outlet: Instagram Blog
   date: '2024-02-09'
-- title: Instagram and Threads Will Stop Recommending Political Content
-  url: https://www.theverge.com/2024/2/9/24067274/instagram-threads-political-content-recommendations
-  outlet: The Verge
+  archive_url: https://web.archive.org/web/20240815000000/https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads
+- title: Instagram and Threads will no longer 'proactively' recommend political content
+  url: https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/
+  outlet: TechCrunch
   date: '2024-02-09'
+  archive_url: https://web.archive.org/web/20240815000000/https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/

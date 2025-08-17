@@ -1,7 +1,8 @@
 date: '2024-03-26'
 title: Fifth Circuit re-blocks Texas SB 4 pending appeal
-summary: The Fifth Circuit blocked Texas SB 4 after SCOTUS allowed it to take effect
-  temporarily, reflecting rapid back-and-forth on emergency posture.
+summary: The Fifth Circuit Court of Appeals issued a 2-1 ruling keeping Texas SB 4 
+  on hold, with Chief Judge Richman citing Supreme Court precedent that immigration 
+  control is "exclusively a federal power".
 tags:
 - appeals
 - fifth-circuit
@@ -9,8 +10,12 @@ tags:
 citations:
 - https://www.ca5.uscourts.gov/opinions/pub/24/24-50149-CV2.pdf
 id: 2024-03-26--ca5_blocks_sb4
-location: null
-actors: []
+location: New Orleans, LA
+actors:
+- Fifth Circuit Court of Appeals
+- Chief Judge Priscilla Richman
+- State of Texas
+- Biden Administration
 notes: ''
 status: confirmed
 sources:
