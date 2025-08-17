@@ -1,9 +1,10 @@
 id: 2004-11-01--trump-epstein-relationship-ends
-date: '2004-11-01'
-title: Trump-Epstein Relationship Ends Over Real Estate Dispute
-summary: The Trump-Epstein relationship ended in November 2004 during a bitter real
-  estate dispute when Trump outbid Epstein $41.35 million for a foreclosed Palm Beach
-  mansion, which Trump later sold for $95 million to Russian businessman Dmitry Rybolovlev.
+date: '2005-01-07'
+title: Trump-Epstein Friendship Officially Ends After Property Auction
+summary: Following Trump's successful $41.35 million bid for Maison de l'Amitié, 
+  outbidding Jeffrey Epstein, their long friendship officially ends. Trump subsequently 
+  bans Epstein from Mar-a-Lago and later sells the property to Russian oligarch 
+  Dmitry Rybolovlev for $95 million in 2008.
 location: Palm Beach, Florida
 actors:
 - Donald Trump
@@ -16,10 +17,15 @@ tags:
 - russian-connections
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
+- title: Trump and Jeffrey Epstein partied together, then an oceanfront Palm Beach mansion came between them
   outlet: Washington Post
-  date: '2025-08-14'
+  date: '2019-07-31'
   url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  archive_url: https://web.archive.org/web/*/https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
+- title: Maison de L'Amitie - Wikipedia
+  outlet: Wikipedia
+  date: '2024-01-01'
+  url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
 notes: The property dispute marked the end of their 15-year social relationship. Trump's
   later sale to Rybolovlev represents a separate money laundering concern.

@@ -14,9 +14,10 @@ tags:
 - financial-crisis
 - real-estate
 sources:
-- title: Treasury Department analysis of Trump property sales
-  url: https://www.buzzfeednews.com/article/thomasfrank/secret-money-trump
+- title: Secret Money - How Trump Made Millions Selling Condos To Unknown Buyers
+  url: https://www.buzzfeednews.com/article/thomasfrank/secret-money-how-trump-made-millions-selling-condos-to
   outlet: BuzzFeed News
-  date: '2018-01-10'
+  date: '2018-01-12'
+  archive_url: https://web.archive.org/web/*/https://www.buzzfeednews.com/article/thomasfrank/secret-money-how-trump-made-millions-selling-condos-to
 notes: Massive cash purchases during credit crisis raise money laundering concerns
 status: confirmed

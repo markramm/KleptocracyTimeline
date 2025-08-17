@@ -1,10 +1,10 @@
 id: 2008-07-01--rybolovlev-money-laundering-operation
-date: '2008-07-01'
-title: Rybolovlev Completes $95 Million Money Laundering Transaction Through Trump
-summary: Russian oligarch Dmitry Rybolovlev purchased Trump's Palm Beach mansion for
-  $95 million—a $55 million profit during the financial crisis—completing what Jeffrey
-  Epstein documented as "a classic money laundering setup" with Trump "fronting for
-  someone" who "didn't have $40 million lying around."
+date: '2008-07-16'
+title: Trump Sells Palm Beach Mansion to Russian Oligarch for $95 Million
+summary: Russian oligarch Dmitry Rybolovlev purchases Trump's Palm Beach mansion 
+  (Maison de l'Amitié) for $95 million through his County Road Property LLC—more than 
+  double what Trump paid in 2004. The sale occurs during the financial crisis when 
+  property values were generally declining, raising questions about the transaction.
 location: Palm Beach, FL
 actors:
 - Dmitry Rybolovlev
@@ -19,14 +19,22 @@ tags:
 - financial_crimes
 status: confirmed
 sources:
-- title: Michael Wolff's Siege book based on 100+ hours of recorded Epstein conversations
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  outlet: Washington Post
-  date: '2008-07-01'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
-notes: This transaction exemplifies the systematic Russian money laundering through
-  Trump real estate that Epstein documented, with continuing conspiracy aspects making
-  it currently prosecutable despite occurring in 2008. Represents core evidence in
-  what prosecutors could charge as continuing RICO conspiracy involving Trump Organization
-  as criminal enterprise, with financial crimes remaining prosecutable through continuing
-  concealment doctrines despite statute of limitations.
+- title: That time a Russian billionaire paid Trump $95 million for a mansion
+  url: https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+  outlet: CNN Money
+  date: '2016-07-27'
+  archive_url: https://web.archive.org/web/*/https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+- title: Maison de L'Amitie - Wikipedia
+  url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+- title: Why did a Russian pay $95M to buy Trump's Palm Beach mansion?
+  url: https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/
+  outlet: Seattle Times
+  date: '2018-01-01'
+  archive_url: https://web.archive.org/web/*/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/
+notes: The $95 million sale price was remarkably high given the 2008 financial crisis 
+  when luxury real estate values were generally declining. Trump nearly doubled his 
+  investment in four years during a period when most property values fell. The property 
+  was later demolished and subdivided, with total sales exceeding $108 million.

@@ -1,25 +1,29 @@
 id: 2010-01-01--chapman-antonova-gates-connection
-date: '2010-01-01'
-title: Anna Chapman spy ring connected to Bill Gates Russian mistress
-summary: Bill Gates's Russian mistress, bridge player Mila Antonova, was photographed
-  with Russian spy Anna Chapman just before Chapman's 2010 arrest in Manhattan. Epstein
-  later attempted to blackmail Gates over this affair in 2017.
+date: '2010-06-27'
+title: Anna Chapman and Russian Spy Ring Arrested in Manhattan
+summary: FBI arrests Russian spy Anna Chapman and 10 other "illegals" in Operation 
+  Ghost Stories. Chapman had been operating in Manhattan since 2009, targeting policy 
+  circles and using encrypted wireless networks to communicate with Russian intelligence.
 location: Manhattan, New York
 actors:
 - Anna Chapman
-- Mila Antonova
-- Bill Gates
-- Jeffrey Epstein
+- FBI
+- Russian Intelligence
 tags:
 - russian-spy-ring
 - kompromat
 - intelligence-operations
 - gates-network
 sources:
-- title: Anna Chapman spy ring investigation
-  url: https://www.washingtonpost.com/chapman-spy-ring-connections
-  outlet: The Washington Post
-  date: '2010-07-01'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+- title: Anna Chapman - Wikipedia
+  url: https://en.wikipedia.org/wiki/Anna_Chapman
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Anna_Chapman
+- title: The SoHo Spy - Stunning Anna Chapman Accused in Russian Spy Ring
+  url: https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883
+  outlet: ABC News
+  date: '2010-06-28'
+  archive_url: https://web.archive.org/web/*/https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883
 notes: Intelligence asset positioning for future leverage operations
 status: confirmed

@@ -1,5 +1,5 @@
 id: 2008-01-01--kroll-marsh-mclennan-sale
-date: '2008-01-01'
+date: '2004-07-01'
 title: Kroll Associates sold to Marsh & McLennan for $1.9 billion
 summary: Kroll Associates, the pioneering "CIA of Wall Street," was sold to Marsh
   & McLennan for $1.9 billion after growing from a single client in 1972 to a global
@@ -16,12 +16,21 @@ tags:
 - private_intelligence
 status: confirmed
 sources:
-- title: The Privatization of American Intelligence How Post-Watergate Reforms Created
-    Today's Shadow Intelligence Complex
-  url: https://www.nytimes.com/1991/09/01/magazine/the-private-spies.html
-  outlet: New York Times Magazine
-  date: '2008-01-01'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.nytimes.com/
+- title: MMC to Buy Kroll for $1.9 Billion
+  url: https://www.insurancejournal.com/news/national/2004/05/19/42403.htm
+  outlet: Insurance Journal
+  date: '2004-05-19'
+  archive_url: https://web.archive.org/web/*/https://www.insurancejournal.com/news/national/2004/05/19/42403.htm
+- title: Kroll Inc. - Wikipedia
+  url: https://en.wikipedia.org/wiki/Kroll_Inc.
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Kroll_Inc.
+- title: Marsh & McLennan acquires Kroll - Crunchbase
+  url: https://www.crunchbase.com/acquisition/marsh-mclennan-companies-inc-acquires-kroll--d66c9eb9
+  outlet: Crunchbase
+  date: '2004-05-18'
+  archive_url: https://web.archive.org/web/*/https://www.crunchbase.com/acquisition/marsh-mclennan-companies-inc-acquires-kroll--d66c9eb9
 notes: The $1.9 billion sale price reflects the massive commercial value of intelligence
   capabilities that had been pushed into private hands by post-Watergate reforms,
   creating a shadow intelligence industry serving the highest bidders. Sale demonstrates

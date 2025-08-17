@@ -1,9 +1,10 @@
 id: 2008-07-01--rybolovlev-trump-palm-beach-purchase
-date: '2008-07-01'
-title: Russian oligarch Rybolovlev purchases Trump mansion for $95M
-summary: Russian oligarch Dmitry Rybolovlev purchased Trump's Palm Beach mansion for
-  $95 million, giving Trump a $54 million profit during financial crisis, in transaction
-  flagged as potential money laundering.
+date: '2016-10-01'
+title: Rybolovlev Demolishes Trump Mansion After 8 Years Vacant
+summary: Russian oligarch Dmitry Rybolovlev begins demolishing the $95 million Palm 
+  Beach mansion purchased from Trump in 2008. The property sat vacant for 8 years 
+  before being torn down and subdivided into three lots, raising questions about the 
+  original investment purpose.
 location: Palm Beach, Florida
 actors:
 - Dmitry Rybolovlev
@@ -14,10 +15,17 @@ tags:
 - money-laundering
 - oligarchs
 sources:
-- title: Palm Beach property transaction records
-  url: https://www.palmbeachpost.com/story/news/2016/08/01/rybolovlev-trump-mansion-sale
-  outlet: Palm Beach Post
-  date: '2016-08-01'
-notes: Transaction occurred during Trump financial distress, buyer never lived in
-  property
+- title: Maison de L'Amitie - Wikipedia
+  url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+- title: That time a Russian billionaire paid Trump $95 million for a mansion
+  url: https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+  outlet: CNN Money
+  date: '2016-07-27'
+  archive_url: https://web.archive.org/web/*/https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+notes: The 8-year vacancy followed by demolition raised questions about whether the 
+  original purchase was truly for investment purposes or served other functions. The 
+  subdivision into three lots ultimately yielded over $108 million in total sales.
 status: confirmed
