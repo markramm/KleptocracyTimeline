@@ -15,9 +15,10 @@ tags:
 - sanctions-evasion
 - critical-infrastructure
 sources:
-- title: SpaceX investor analysis
-  url: https://www.wsj.com/articles/spacex-russian-oligarch-investment
-  outlet: Wall Street Journal
-  date: '2023-06-15'
+- title: "Russian Senator Held Stake in SpaceX While He Was Sanctioned – Bloomberg"
+  url: https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798
+  outlet: The Moscow Times
+  date: '2025-01-30'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798
 notes: Investment maintained despite US sanctions on Kerimov
 status: confirmed

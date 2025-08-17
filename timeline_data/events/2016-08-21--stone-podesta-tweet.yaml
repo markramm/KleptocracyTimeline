@@ -15,10 +15,10 @@ tags:
 - stone-network
 - advance-knowledge
 sources:
-- title: Stone indictment and Twitter archives
-  url: https://www.justice.gov/file/1124706/download
-  outlet: Department of Justice
-  date: '2019-01-24'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/file/1124706/download
+- title: "What you need to know about the indictment against Roger Stone"
+  url: https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060
+  outlet: ABC News
+  date: '2019-01-25'
+  archive_url: https://web.archive.org/web/20250814000000/https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060
 notes: Direct evidence of campaign coordination with Russian intelligence operations
 status: confirmed

@@ -14,10 +14,10 @@ tags:
 - snowden-revelations
 - shadow-governance
 sources:
-- title: Intelligence budget analysis post-Snowden
-  url: https://www.washingtonpost.com/world/national-security/black-budget-summary
-  outlet: The Washington Post
+- title: "Leaked Documents Reveal Budget Breakdown Between CIA, NSA"
+  url: https://www.npr.org/templates/story/story.php?storyId=216924337
+  outlet: NPR
   date: '2013-08-29'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/templates/story/story.php?storyId=216924337
 notes: Scale of privatization enables operations outside democratic oversight
 status: confirmed

@@ -15,9 +15,10 @@ tags:
 - epstein-network
 - fsb
 sources:
-- title: Epstein calendar and flight logs analysis
-  url: https://www.wsj.com/articles/jeffrey-epstein-calendar-russian-contacts
-  outlet: Wall Street Journal
-  date: '2023-05-01'
+- title: "Jeffrey Epstein's Russian Connection: Billionaire's ties with FSB Academy graduate revealed"
+  url: https://dossier.center/jeffreyepsteinrusconnect-en/
+  outlet: Dossier Center
+  date: '2023-05-15'
+  archive_url: https://web.archive.org/web/20250814000000/https://dossier.center/jeffreyepsteinrusconnect-en/
 notes: FSB Academy graduate cultivating intelligence asset with leverage over elites
 status: confirmed

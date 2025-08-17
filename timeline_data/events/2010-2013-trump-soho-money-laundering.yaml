@@ -15,9 +15,10 @@ tags:
 - shell-companies
 - real-estate
 sources:
-- title: Bayrock Group financial investigation
-  url: https://www.bloomberg.com/news/articles/trump-soho-bayrock
-  outlet: Bloomberg
-  date: '2017-08-28'
+- title: "Trump SoHo: A Shiny Hotel Wrapped In Glass, But Hiding Mysteries"
+  url: https://www.npr.org/2017/11/07/560849787/trump-soho-a-shiny-hotel-wrapped-in-glass-but-hiding-mysteries
+  outlet: NPR
+  date: '2017-11-07'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/2017/11/07/560849787/trump-soho-a-shiny-hotel-wrapped-in-glass-but-hiding-mysteries
 notes: Former Bayrock finance director testified to systematic money laundering
 status: confirmed

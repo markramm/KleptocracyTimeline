@@ -17,10 +17,10 @@ tags:
 - stone-network
 - gru-operations
 sources:
-- title: Mueller investigation findings on Guccifer 2.0
-  url: https://www.justice.gov/sco/file/1124706/download
+- title: "Roger Stone Found Guilty of Obstruction, False Statements, and Witness Tampering"
+  url: https://www.justice.gov/usao-dc/pr/roger-stone-found-guilty-obstruction-false-statements-and-witness-tampering
   outlet: Department of Justice
-  date: '2019-01-24'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/sco/file/1124706/download
+  date: '2019-11-15'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/usao-dc/pr/roger-stone-found-guilty-obstruction-false-statements-and-witness-tampering
 notes: Direct evidence of Stone coordination with Russian military intelligence
 status: confirmed
