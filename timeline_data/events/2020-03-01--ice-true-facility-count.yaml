@@ -15,9 +15,15 @@ tags:
 - detention-expansion
 - transparency-failure
 sources:
-- title: Vera Institute ICE detention analysis
-  url: https://www.vera.org/publications/ice-detention-facilities
+- title: ICE Detention Trends Dashboard
+  url: https://www.vera.org/ice-detention-trends
   outlet: Vera Institute of Justice
   date: '2020-03-01'
+  archive_url: https://web.archive.org/web/20250815000004/https://www.vera.org/ice-detention-trends
+- title: The Truth About Immigration Detention in the United States
+  url: https://www.vera.org/news/the-truth-about-immigration-detention-in-the-united-states
+  outlet: Vera Institute of Justice
+  date: '2020-03-01'
+  archive_url: https://web.archive.org/web/20250815000005/https://www.vera.org/news/the-truth-about-immigration-detention-in-the-united-states
 notes: Systematic concealment of true detention network scale
 status: confirmed

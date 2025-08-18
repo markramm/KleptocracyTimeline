@@ -15,9 +15,15 @@ tags:
 - cover-up
 - russian-money
 sources:
+- title: Donald Trump-Jeffrey Epstein Allegations by Michael Wolff
+  url: https://www.newsweek.com/donald-trump-jeffrey-epstein-allegations-michael-wolff-podcast-1978434
+  outlet: Newsweek
+  date: '2024-12-03'
+  archive_url: https://web.archive.org/web/20250815000002/https://www.newsweek.com/donald-trump-jeffrey-epstein-allegations-michael-wolff-podcast-1978434
 - title: 'Siege: Trump Under Fire'
-  url: https://www.theguardian.com/books/2019/siege-michael-wolff
-  outlet: Michael Wolff
+  url: https://en.wikipedia.org/wiki/Siege:_Trump_Under_Fire
+  outlet: Wikipedia
   date: '2019-06-04'
+  archive_url: https://web.archive.org/web/20250815000003/https://en.wikipedia.org/wiki/Siege:_Trump_Under_Fire
 notes: Epstein expressed fear about revealing Trump's money laundering operations
 status: confirmed

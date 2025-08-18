@@ -16,9 +16,15 @@ tags:
 - counterintelligence
 - thiel-network
 sources:
-- title: FBI counterintelligence operations report
-  url: https://www.businessinsider.com/thiel-fbi-informant-russian-cultivation
-  outlet: Business Insider
-  date: '2018-01-01'
+- title: Peter Thiel Was FBI Informant "Philosopher"
+  url: https://www.advocate.com/news/peter-thiel-fbi-informant
+  outlet: The Advocate
+  date: '2023-10-19'
+  archive_url: https://web.archive.org/web/20250815000000/https://www.advocate.com/news/peter-thiel-fbi-informant
+- title: How Peter Thiel Received 2 Kremlin Invites For Meetings With Putin
+  url: https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri
+  outlet: Benzinga
+  date: '2023-11-23'
+  archive_url: https://web.archive.org/web/20250815000001/https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri
 notes: Sophisticated Russian approach targeting tech leaders
 status: confirmed

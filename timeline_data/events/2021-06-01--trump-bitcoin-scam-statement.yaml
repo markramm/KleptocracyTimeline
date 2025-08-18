@@ -14,10 +14,16 @@ tags:
 - trump-statements
 - crypto-evolution
 sources:
-- title: Trump calls Bitcoin a scam
-  url: https://www.thestreet.com/crypto/bitcoin/trump-bitcoin-scam
-  outlet: TheStreet
-  date: '2021-06-01'
+- title: Donald Trump - Bitcoin a 'Scam,' But 'Competes Against the Dollar'
+  url: https://www.newsweek.com/donald-trump-bitcoin-scam-competes-against-dollar-shrinkflation-raises-retail-costs-1598720
+  outlet: Newsweek
+  date: '2021-06-07'
+  archive_url: https://web.archive.org/web/20250815000008/https://www.newsweek.com/donald-trump-bitcoin-scam-competes-against-dollar-shrinkflation-raises-retail-costs-1598720
+- title: Trump calls Bitcoin a scam, advocates for dollar hegemony
+  url: https://cointelegraph.com/news/trump-calls-bitcoin-a-scam-advocates-for-dollar-hegemony
+  outlet: Cointelegraph
+  date: '2021-06-07'
+  archive_url: https://web.archive.org/web/20250815000009/https://cointelegraph.com/news/trump-calls-bitcoin-a-scam-advocates-for-dollar-hegemony
 notes: Major reversal from this position to launching $2.9 billion crypto empire by
   2025
 status: confirmed

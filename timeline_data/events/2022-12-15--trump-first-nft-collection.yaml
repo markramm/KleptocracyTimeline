@@ -14,10 +14,16 @@ tags:
 - campaign-finance
 - digital-assets
 sources:
-- title: Trump NFT collection launch
-  url: https://www.coindesk.com/business/2022/12/trump-nft-collection
+- title: Donald Trump Announces $99 Digital Trading Card NFTs
+  url: https://www.coindesk.com/web3/2022/12/15/trump-announces-99-digital-trading-card-nfts
   outlet: CoinDesk
   date: '2022-12-15'
+  archive_url: https://web.archive.org/web/20250815000010/https://www.coindesk.com/web3/2022/12/15/trump-announces-99-digital-trading-card-nfts
+- title: Donald Trump Now Has an NFT Collection—And Crypto Twitter 'Can't Even'
+  url: https://decrypt.co/117317/donald-trump-nft-collection-crypto-cant-even
+  outlet: Decrypt
+  date: '2022-12-15'
+  archive_url: https://web.archive.org/web/20250815000011/https://decrypt.co/117317/donald-trump-nft-collection-crypto-cant-even
 notes: Suspicious patterns with 115 collectors buying exactly 45 NFTs for Mar-a-Lago
   dinner
 status: confirmed
