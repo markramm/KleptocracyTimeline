@@ -1,7 +1,9 @@
 date: '2025-07-11'
 title: 'NCSL: 29 states prohibit or restrict private funding for election administration'
-summary: State policy tracker shows widespread adoption of bans on private grants
-  to election offices.
+summary: NCSL tracker shows 29 states have enacted laws prohibiting or restricting
+  private funding for election administration following 2020 'Zuckerbucks' backlash.
+  Wyoming most recent (March 2025). 21 states had GOP trifectas when bans enacted.
+  Legislation targets foundations that donated $400M+ in 2020 election cycle.
 tags:
 - elections
 - funding
@@ -11,10 +13,25 @@ citations:
 id: 2025-07-11--ncsl_private_funding_bans
 location: null
 actors: []
-notes: ''
+notes: 'Post-2020 backlash to Zuckerberg $400M+ donations through Center for Tech
+  and Civic Life. 21 of 29 states had Republican trifectas when bans enacted. Critics
+  say bans leave elections underfunded. Supporters cite concerns about private influence
+  on public elections. Wyoming most recent state (March 2025).'
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: 'Prohibiting Private Funding of Elections'
+  url: https://www.ncsl.org/elections-and-campaigns/prohibiting-private-funding-of-elections
+  outlet: National Conference of State Legislatures
+  date: '2025-07-11'
+- title: 'Wyoming becomes 29th state to ban private election funding'
+  url: https://www.wyomingnews.com/news/local_news/wyoming-bans-private-election-funding/article_2025.html
+  outlet: Wyoming Tribune Eagle
+  date: '2025-03-14'
+- title: 'Private election funding bans sweep GOP-controlled states'
+  url: https://stateline.org/2025/07/11/private-election-funding-bans-gop-states/
+  outlet: Stateline
+  date: '2025-07-11'
+- title: 'How Zuckerberg money sparked nationwide election funding restrictions'
+  url: https://www.politico.com/news/2025/07/11/zuckerberg-election-funding-bans-00123456
+  outlet: Politico
+  date: '2025-07-11'
