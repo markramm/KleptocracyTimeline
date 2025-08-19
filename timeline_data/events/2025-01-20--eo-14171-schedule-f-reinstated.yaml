@@ -17,19 +17,16 @@ tags:
 - executive-order
 - capture-patterns
 sources:
-- title: EO 14171 — Reinstating Schedule F
-  url: https://www.whitehouse.gov/presidential-actions/2025/01/reinstating-schedule-f
-  outlet: WhiteHouse.gov
+- title: Restoring Accountability To Policy-Influencing Positions Within the Federal Workforce
+  url: https://www.whitehouse.gov/presidential-actions/2025/01/restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce/
+  outlet: White House
   date: '2025-01-20'
-  archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
-- title: OPM guidance memo implementing EO (Schedule F revival)
-  url: https://www.opm.gov/policy-data-oversight/latest-memos/guidance-on-implementing-president-trump-s-executive-order-titled-restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce.pdf
-  outlet: OPM
-  date: '2025-01-22'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.opm.gov/policy-data-oversight/latest-memos/guidance-on-implementing-president-trump-s-executive-order-titled-restoring-accountability-to-policy-influencing-positions-within-the-federal-workforce.pdf
-- title: What Trump’s Schedule F order would do
-  url: https://www.govexec.com/workforce/2025/01/what-trumps-schedule-f-order-would-do/396501
-  outlet: Government Executive
-  date: '2025-01-21'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.govexec.com/workforce/2025/01/what-trumps-schedule-f-order-would-do/396501/
+- title: Trump removes civil service protections with Schedule F plan
+  url: https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f
+  outlet: NPR
+  date: '2025-04-18'
+- title: Trump revives executive order aiming to strip some federal employees of civil service protections
+  url: https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/
+  outlet: Federal News Network
+  date: '2025-01-20'
 status: confirmed
