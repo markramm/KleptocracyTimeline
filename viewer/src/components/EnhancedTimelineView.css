@@ -33,7 +33,8 @@
 }
 
 .sort-select,
-.filter-select {
+.filter-select,
+.compact-select {
   background: #1e293b;
   color: #e5e7eb;
   border: 1px solid #334155;
@@ -45,7 +46,8 @@
 }
 
 .sort-select:hover,
-.filter-select:hover {
+.filter-select:hover,
+.compact-select:hover {
   border-color: #3b82f6;
   background: #334155;
 }

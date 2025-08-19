@@ -27,7 +27,7 @@ const EnhancedTimelineView = ({
   const [showMinimap, setShowMinimap] = useState(true);
   const [sortBy, setSortBy] = useState('date'); // date, importance
   const [filterImportance, setFilterImportance] = useState(0); // 0 = all
-  const [compactMode, setCompactMode] = useState(true); // Default to compact
+  const [compactMode, setCompactMode] = useState('medium'); // 'none', 'low', 'medium', 'all' - default to medium
   const [stickyYear, setStickyYear] = useState(null);
 
   // Handle keyboard navigation
@@ -54,7 +54,13 @@ const EnhancedTimelineView = ({
           setShowMinimap(prev => !prev);
           break;
         case 'c':
-          setCompactMode(prev => !prev);
+          // Cycle through compact modes
+          setCompactMode(prev => {
+            if (prev === 'none') return 'low';
+            if (prev === 'low') return 'medium';
+            if (prev === 'medium') return 'all';
+            return 'none';
+          });
           break;
       }
     };
@@ -211,14 +217,17 @@ const EnhancedTimelineView = ({
             <option value="9">Crisis Level (9+)</option>
           </select>
           
-          <button 
-            className={`toolbar-button ${compactMode ? 'active' : ''}`}
-            onClick={() => setCompactMode(!compactMode)}
-            title="Toggle Compact Mode (C)"
+          <select 
+            value={compactMode} 
+            onChange={(e) => setCompactMode(e.target.value)}
+            className="compact-select"
+            title="Compact Mode (C to cycle)"
           >
-            {compactMode ? <Eye size={18} /> : <EyeOff size={18} />}
-            Compact
-          </button>
+            <option value="none">Expand All</option>
+            <option value="low">Compact Low (≤5)</option>
+            <option value="medium">Compact Med/Low (≤7)</option>
+            <option value="all">Compact All</option>
+          </select>
           
           <button 
             className={`toolbar-button ${showMinimap ? 'active' : ''}`}
@@ -259,6 +268,11 @@ const EnhancedTimelineView = ({
               // Scroll to date
               const element = document.getElementById(`date-${date}`);
               element?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }}
+            onDateRangeSelect={(range) => {
+              // TODO: Pass this up to parent component for actual filtering
+              // For now, just log it
+              console.log(`Date range selected: ${range.start} to ${range.end}`);
             }}
           />
         )}
@@ -463,7 +477,14 @@ const EnhancedTimelineEvent = ({
     return '📌';
   };
 
-  if (compactMode && !isExpanded) { // Show compact for all non-expanded events
+  // Determine if this event should be compact based on mode
+  const shouldBeCompact = !isExpanded && compactMode !== 'none' && (
+    (compactMode === 'all') ||
+    (compactMode === 'medium' && importance <= 7) ||
+    (compactMode === 'low' && importance <= 5)
+  );
+  
+  if (shouldBeCompact) { // Show compact based on mode and importance
     // Compact mode for less important events
     return (
       <div 
