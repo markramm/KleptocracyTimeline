@@ -1,0 +1,109 @@
+{
+  "archived_urls": {},
+  "failed_urls": {
+    "https://www.americanprogress.org/article/trumps-conflicts-interest-saudi-arabia/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:10:57.966550",
+      "last_error": "Timeout"
+    },
+    "https://www.cnn.com/2025/04/30/politics/federal-election-commissions-resignations-quorum/index.html": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:11:33.162585",
+      "last_error": "Timeout"
+    },
+    "https://www.cbsnews.com/news/judge-rules-trump-firing-whistleblower-office-chief-hampton-dellinger-unlawful/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:12:08.361227",
+      "last_error": "Timeout"
+    },
+    "https://www.texastribune.org/2025/07/25/federal-court-texas-maps-appeal": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:12:43.556218",
+      "last_error": "Timeout"
+    },
+    "https://www.fec.gov/updates/fec-makes-public-draft-documents-regarding-artificial-intelligence-in-campaign-ads": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:12:48.632842",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.fec.gov/updates/fec-makes-public-draft-documents-regarding-artificial-intelligence-in-campaign-ads (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1036d9640>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:12:53.702172",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e0730>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://freedomhouse.org/report/freedom-world/2025/united-states": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:12:58.772213",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://freedomhouse.org/report/freedom-world/2025/united-states (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e08e0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.washingtonpost.com/politics/trump-called-epstein-a-terrific-guy-before-denying-relationship-with-him/2019/07/08/a01e0f00-a1be-11e9-bd56-eac6bb02d01d_story.html": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:03.838368",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.washingtonpost.com/politics/trump-called-epstein-a-terrific-guy-before-denying-relationship-with-him/2019/07/08/a01e0f00-a1be-11e9-bd56-eac6bb02d01d_story.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e8fa0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.jurist.org/news/2025/03/us-added-to-list-of-countries-experiencing-serious-decline-in-civic-freedoms/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:08.907332",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.jurist.org/news/2025/03/us-added-to-list-of-countries-experiencing-serious-decline-in-civic-freedoms/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034b5940>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.epi.org/blog/trump-acting-director-russell-vought-ordered-cfpb-workers-to-stop-doing-their-jobs": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:13.975888",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.epi.org/blog/trump-acting-director-russell-vought-ordered-cfpb-workers-to-stop-doing-their-jobs (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1036d9220>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:19.044589",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1036e2070>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:24.114290",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034b5fa0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.dcd.uscourts.gov/content/judge-cooper-opinions": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:29.182519",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.dcd.uscourts.gov/content/judge-cooper-opinions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10349c280>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.northcom.mil/Newsroom/Press-Releases/Article/4210889/usnorthcom-statement-on-additional-military-personnel-in-the-los-angeles-area": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:34.252450",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.northcom.mil/Newsroom/Press-Releases/Article/4210889/usnorthcom-statement-on-additional-military-personnel-in-the-los-angeles-area (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10347b8b0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.cnn.com/2025/07/29/climate/trump-epa-endangerment-finding": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:39.324179",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.cnn.com/2025/07/29/climate/trump-epa-endangerment-finding (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1036d92e0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.washingtonpost.com/dc-md-va/2025/08/10/fbi-agents-patrol-dc-surge": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:44.397380",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.washingtonpost.com/dc-md-va/2025/08/10/fbi-agents-patrol-dc-surge (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e0e20>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.cnbc.com/2025/01/20/melania-trump-launches-cryptocurrency-ahead-of-donald-trumps-inauguration.html": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:49.487646",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.cnbc.com/2025/01/20/melania-trump-launches-cryptocurrency-ahead-of-donald-trumps-inauguration.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e0790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://thehill.com/lobbying/5101352-trump-axes-biden-era-ethics-order-lobbying-restrictions/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:54.557837",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://thehill.com/lobbying/5101352-trump-axes-biden-era-ethics-order-lobbying-restrictions/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1036e2700>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:13:59.625485",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e0520>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.reuters.com/world/us/trump-fires-least-12-independent-inspectors-general-washington-post-reports-2025-01-25/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T02:14:04.689040",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.reuters.com/world/us/trump-fires-least-12-independent-inspectors-general-washington-post-reports-2025-01-25/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1034e09d0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    }
+  },
+  "last_run": "2025-08-19T02:14:04.689054",
+  "total_processed": 20,
+  "total_success": 0,
+  "total_failed": 20
+}
