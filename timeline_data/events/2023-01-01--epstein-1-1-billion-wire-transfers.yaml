@@ -18,10 +18,17 @@ tags:
 - epstein-network
 - human-trafficking
 sources:
-- title: Senate investigation into Epstein financial transfers
-  url: https://www.senate.gov/committees/epstein-investigation
-  outlet: United States Senate Committee
-  date: '2023-01-01'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.senate.gov/committees/epstein-investigation
+- title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation for DOJ
+  url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
+  outlet: Senate Finance Committee
+  date: '2025-07-23'
+- title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed Epstein File
+  url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
+  outlet: Senate Finance Committee
+  date: '2025-07-17'
+- title: A Democratic Senator was already investigating Jeffrey Epstein's finances
+  url: https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances
+  outlet: NPR
+  date: '2025-07-25'
 notes: Massive financial flows correlated with international trafficking operations
 status: confirmed

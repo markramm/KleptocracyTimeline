@@ -14,9 +14,16 @@ tags:
 - transparency
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Democracy Forward Files First-Of-Its-Kind Lawsuit Challenging The Trump-Vance Administration's Handling of Epstein Files
+  outlet: Democracy Forward
   date: '2025-08-08'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://democracyforward.org/updates/fbi-epstein-foia/
+- title: Trump administration faces first lawsuit to force release of Epstein files
+  outlet: Axios
+  date: '2025-08-08'
+  url: https://www.axios.com/2025/08/08/democracy-forward-lawsuit-trump-epstein-files
+- title: Lawsuit over Epstein files could expose Trump administration's handling of the matter
+  outlet: MSNBC
+  date: '2025-08-08'
+  url: https://www.msnbc.com/deadline-white-house/deadline-legal-blog/lawsuit-epstein-files-foia-trump-administration-rcna224254
 notes: First legal challenge to the administration's refusal to release files.

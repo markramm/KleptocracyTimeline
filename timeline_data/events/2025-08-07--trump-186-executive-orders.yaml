@@ -14,9 +14,21 @@ tags:
 - policy-implementation
 - government-transformation
 sources:
-- title: Analysis of Trump executive orders alignment with Project 2025
-  url: https://www.wikipedia.org/wiki/Project_2025_implementation
-  outlet: Wikipedia
+- title: Trump's Early Actions Mirror Project 2025
+  url: https://time.com/7209901/donald-trump-executive-actions-project-2025/
+  outlet: TIME
+  date: '2025-01-24'
+- title: Trump said he hadn't read Project 2025 – but most of his early executive orders overlap with its proposals
+  url: https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html
+  outlet: CNN
+  date: '2025-01-31'
+- title: Trump executive orders Which orders overlap with Project 2025 book
+  url: https://www.axios.com/2025/01/23/trump-executive-orders-list-project-2025-policies
+  outlet: Axios
+  date: '2025-01-23'
+- title: 2025 Donald J. Trump Executive Orders
+  url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
+  outlet: Federal Register
   date: '2025-08-07'
 notes: Systematic implementation reveals coordinated adoption of Heritage blueprint
 status: confirmed

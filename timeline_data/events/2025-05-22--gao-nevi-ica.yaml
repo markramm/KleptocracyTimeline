@@ -17,7 +17,11 @@ citations:
 - https://www.govexec.com/oversight/2025/05/gao-transportation-department-cant-withhold-electric-vehicle-infrastructure-program-funds/405534
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: GAO Decision on NEVI Formula Program Funds
+  url: https://www.gao.gov/assets/880/877916.pdf
+  outlet: Government Accountability Office
+  date: '2025-05-22'
+- title: GAO Says Transportation Department Can't Withhold Electric Vehicle Infrastructure Program Funds
+  url: https://www.govexec.com/oversight/2025/05/gao-transportation-department-cant-withhold-electric-vehicle-infrastructure-program-funds/405534
+  outlet: Government Executive
+  date: '2025-05-22'

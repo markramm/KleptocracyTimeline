@@ -20,10 +20,18 @@ tags:
 - enforcement_dissolution
 status: confirmed
 sources:
-- title: National Cryptocurrency Enforcement Team dissolution orders
-  url: https://example.com/crypto-enforcement-dissolution-source
-  outlet: Federal Records
-  date: '2025-04-01'
+- title: DOJ ends crypto enforcement team, shifts focus to terrorism and fraud
+  url: https://www.cnbc.com/2025/04/08/doj-ends-crypto-enforcement-team-shifts-focus-to-terrorism-and-fraud.html
+  outlet: CNBC
+  date: '2025-04-08'
+- title: Justice Department scraps crypto unit as Trump further loosens oversight of digital assets
+  url: https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/
+  outlet: Fortune
+  date: '2025-04-08'
+- title: Justice Department will disband its team focused on cryptocurrency crimes
+  url: https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes
+  outlet: PBS NewsHour
+  date: '2025-04-08'
 notes: This represents the most direct example of regulatory capture in presidential
   history, where the chief executive dismantled federal enforcement targeting the
   exact industry generating his family's wealth through foreign investment channels.

@@ -13,7 +13,11 @@ citations:
 - https://www.theverge.com/2025/6/13/24180976/starlink-outage-global-down
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Starlink hit by global outage
+  url: https://www.reuters.com/technology/space-exploration/starlink-hit-by-global-outage-2025-06-13
+  outlet: Reuters
+  date: '2025-06-13'
+- title: Starlink outage global down
+  url: https://www.theverge.com/2025/6/13/24180976/starlink-outage-global-down
+  outlet: The Verge
+  date: '2025-06-13'

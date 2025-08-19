@@ -12,7 +12,11 @@ citations:
 - https://www.aau.edu/newsroom/press-releases/aau-calls-transparency-reports-student-visa-revocations
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Student visas revoked over campus protests
+  url: https://www.washingtonpost.com/education/2025/06/03/student-visas-revoked-campus-protests
+  outlet: Washington Post
+  date: '2025-06-03'
+- title: AAU calls for transparency on reports of student visa revocations
+  url: https://www.aau.edu/newsroom/press-releases/aau-calls-transparency-reports-student-visa-revocations
+  outlet: Association of American Universities
+  date: '2025-06-03'

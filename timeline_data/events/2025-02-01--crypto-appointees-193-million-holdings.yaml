@@ -14,14 +14,17 @@ tags:
 - financial-holdings
 - bitcoin
 sources:
-- title: Crypto holdings among Trump appointees
-  url: https://www.washingtonpost.com/technology/2025/02/crypto-appointees
-  outlet: The Washington Post
-  date: '2025-02-10'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
-- title: Appointee cryptocurrency investments
-  url: https://cryptoforinnovation.org/appointee-holdings
-  outlet: Crypto for Innovation
-  date: '2025-02-12'
+- title: 1 in 5 top Trump picks held crypto, some worth millions, Post finds
+  url: https://www.washingtonpost.com/politics/interactive/2025/trump-officials-cryptocurrency-holdings-bitcoin/
+  outlet: Washington Post
+  date: '2025-02-01'
+- title: Half a dozen members of Trump's cabinet hold Bitcoin assets, disclosures reveal
+  url: https://fortune.com/2025/03/13/bitcoin-trump-cabinet-finance-disclosures-digital-crypto-bessent-rfk-gabbard/
+  outlet: Fortune
+  date: '2025-03-13'
+- title: Trump 2.0 A New Era for Cryptocurrency and Digital Assets Regulation
+  url: https://www.pillsburylaw.com/en/news-and-insights/cryptocurrency-digital-assets-trump.html
+  outlet: Pillsbury Law
+  date: '2025-02-01'
 notes: Trump himself holds $51M in World Liberty Financial family crypto business
 status: confirmed

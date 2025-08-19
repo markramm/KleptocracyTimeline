@@ -15,7 +15,11 @@ actors: []
 notes: ''
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Newsom calls Trump's $1 billion UCLA settlement offer 'extortion'
+  url: https://www.reuters.com/world/us/newsom-calls-trumps-1-billion-ucla-settlement-offer-extortion-says-california-2025-08-09
+  outlet: Reuters
+  date: '2025-08-09'
+- title: Trump administration demands $1 billion from University of California Los Angeles
+  url: https://www.politico.com/news/2025/08/08/trump-administration-demands-1-billion-from-university-of-california-los-angeles-00500213
+  outlet: Politico
+  date: '2025-08-08'

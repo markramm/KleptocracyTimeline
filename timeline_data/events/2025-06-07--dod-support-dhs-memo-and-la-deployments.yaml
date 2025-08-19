@@ -26,7 +26,15 @@ citations:
 - https://www.aila.org/presidential-memo-on-dod-security-for-the-protection-of-dhs-functions
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Department of Defense Security for the Protection of Department of Homeland Security Functions
+  url: https://www.whitehouse.gov/presidential-actions/2025/06/department-of-defense-security-for-the-protection-of-department-of-homeland-security-functions
+  outlet: White House
+  date: '2025-06-07'
+- title: 700 Marines Deploying to Downtown Los Angeles
+  url: https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles
+  outlet: USNI News
+  date: '2025-06-09'
+- title: How can the president put soldiers on the streets of Los Angeles?
+  url: https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
+  outlet: Brookings Institution
+  date: '2025-06-09'

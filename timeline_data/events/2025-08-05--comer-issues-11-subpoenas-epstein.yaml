@@ -19,10 +19,21 @@ tags:
 - clinton-connection
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Chairman Comer Subpoenas Bill and Hillary Clinton, Former U.S. Attorneys General and FBI Directors
+  url: https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/
+  outlet: House Oversight Committee
   date: '2025-08-05'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+- title: House Oversight chair issues subpoenas for Epstein files, depositions with Clintons
+  url: https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317
+  outlet: ABC News
+  date: '2025-08-05'
+- title: House Oversight Committee subpoenas Justice Department for Epstein files
+  url: https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress
+  outlet: CNN
+  date: '2025-08-05'
+- title: House Oversight Committee subpoenas the Justice Department for Epstein files
+  url: https://www.npr.org/2025/08/05/nx-s1-5493371/house-oversight-committee-epstein-subpoenas-justice-department
+  outlet: NPR
+  date: '2025-08-05'
 notes: The exclusion of Alex Acosta from subpoenas raised questions about selective
   investigation.

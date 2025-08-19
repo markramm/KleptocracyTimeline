@@ -15,9 +15,17 @@ tags:
 - melania-trump
 - market-manipulation
 sources:
-- title: Melania coin insider trading investigation
-  url: https://www.newlinesmagazine.com/melania-crypto-insider
-  outlet: New Lines Magazine
+- title: A group of anonymous traders scored a $100 million payday by buying Melania Trump's memecoin just before it launched publicly
+  url: https://fortune.com/2025/05/07/melania-trump-memecoin-anonymous-traders-100-million-payday/
+  outlet: Fortune
+  date: '2025-05-07'
+- title: MELANIA memecoin insiders reportedly make over $150 million including pre-sale trades
+  url: https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/
+  outlet: CryptoSlate
+  date: '2025-01-20'
+- title: Co-Founder of Crypto Firm Behind Trump, Melania Tokens Resigns Amid Insider Trading Allegations
+  url: https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations
+  outlet: Decrypt
   date: '2025-02-20'
 notes: Pattern suggests coordinated buying with advance knowledge
 status: confirmed

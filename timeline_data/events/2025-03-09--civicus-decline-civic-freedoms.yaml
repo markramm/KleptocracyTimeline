@@ -16,13 +16,21 @@ tags:
 - civil-liberties
 - freedom-decline
 sources:
-- title: US placed on watchlist over decline in civic freedoms
-  url: https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus
-  outlet: The Guardian
+- title: Trump administration puts US civic freedoms under severe threat
+  url: https://www.civicus.org/index.php/media-resources/news/7559-trump-administration-puts-us-civic-freedoms-under-severe-threat-civicus-monitor-watchlist
+  outlet: CIVICUS
   date: '2025-03-09'
-- title: CIVICUS Monitor Watchlist Report
-  url: https://monitor.civicus.org/watchlist-march-2025/USA
+- title: USA Watchlist 2025 - CIVICUS Monitor
+  url: https://monitor.civicus.org/watchlist-march-2025/USA/
   outlet: CIVICUS Monitor
+  date: '2025-03-09'
+- title: U.S. Added to a Global Human Rights Watchlist
+  url: https://time.com/7266334/us-human-rights-watchlist-civil-liberties/
+  outlet: TIME
+  date: '2025-03-09'
+- title: US added to list of countries experiencing 'serious decline' in civic freedoms
+  url: https://www.jurist.org/news/2025/03/us-added-to-list-of-countries-experiencing-serious-decline-in-civic-freedoms/
+  outlet: JURIST
   date: '2025-03-09'
 notes: Detailed assessment showing U.S. joining countries like Israel and UK on watchlist
   for democratic backsliding

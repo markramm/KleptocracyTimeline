@@ -15,7 +15,11 @@ actors: []
 notes: ''
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Elon Musk says Starlink suffers global outage
+  url: https://www.reuters.com/technology/space-exploration/elon-musk-says-starlink-suffers-global-outage-2025-07-25
+  outlet: Reuters
+  date: '2025-07-25'
+- title: Starlink Outage Report
+  url: https://broadbandbreakfast.com/2025/07/starlink-outage
+  outlet: Broadband Breakfast
+  date: '2025-07-25'

@@ -1,16 +1,74 @@
 {
   "extracted_at": "/Users/markr/kleptocracy-timeline",
-  "total_files": 0,
-  "total_urls": 0,
-  "total_citations": 0,
+  "total_files": 24,
+  "total_urls": 15,
+  "total_citations": 5,
   "categorized_urls": {
     "government": [],
     "news": [],
-    "academic": [],
+    "academic": [
+      "Academia.edu"
+    ],
     "legal": [],
     "social": [],
-    "other": []
+    "other": [
+      "CryptoNews.comCitation",
+      "Crypto.comData",
+      "Metal.com",
+      "Encyclopedia.comTimeThe",
+      "https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected/",
+      "OilPrice.com",
+      "Earth.Org",
+      "https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy",
+      "Crypto.comU.S",
+      "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-argentina-trademarks/",
+      "https://www.commondreams.org/opinion/tariffs-economy-of-obedience",
+      "https://reason.com/2024/10/25/how-to-avoid-paying-tariffs-have-a-friend-in-washington/",
+      "https://www.exploitingchange.com/trumps-kleptocratic-coup-from-known-corruption-to-speculative-market-manipulation/43",
+      "CryptoNews.comNFT"
+    ]
   },
-  "all_urls": [],
-  "files_processed": []
+  "all_urls": [
+    "Academia.edu",
+    "Crypto.comData",
+    "Crypto.comU.S",
+    "CryptoNews.comCitation",
+    "CryptoNews.comNFT",
+    "Earth.Org",
+    "Encyclopedia.comTimeThe",
+    "Metal.com",
+    "OilPrice.com",
+    "https://reason.com/2024/10/25/how-to-avoid-paying-tariffs-have-a-friend-in-washington/",
+    "https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected/",
+    "https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-argentina-trademarks/",
+    "https://www.commondreams.org/opinion/tariffs-economy-of-obedience",
+    "https://www.exploitingchange.com/trumps-kleptocratic-coup-from-known-corruption-to-speculative-market-manipulation/43",
+    "https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy"
+  ],
+  "files_processed": [
+    "Methodology_ Systems Engineering Approach to Democratic Backsliding Analysis.pdf",
+    "Resistance Documentation Framework.pdf",
+    "Project 2025 Implementation_ Trump Administration's Systematic Adoption of Heritage Foundation Blueprint.pdf",
+    "The Privatization of American Intelligence_ How Post-Watergate Reforms Created Today's Shadow Intelligence Complex.pdf",
+    "Theoretical Foundation_ The Kleptocracy Trap.pdf",
+    "Tariffs, Kleptocracy, and the Administration_ Investigating Kleptocratic Patterns in Tariff Use.pdf",
+    "Groks Safety Crisis Reveals AIs Dangerous New Frontier.pdf",
+    "Traditional Democratic Innovations for Modern Governance_ Lessons from Indigenous and Pre-Modern Political Systems.pdf",
+    "Constitutional Crisis Assessment_ The Convergence of Foreign Emoluments, Federal Overreach, and Popular Resistance.pdf",
+    "Outcome Measurement Framework_ Democratic Institutional Health Metrics.pdf",
+    "China's Vanishing Future_ Inside the World's Fastest Demographic Collapse.pdf",
+    "Trump's Crypto Empire_ Unprecedented Conflicts and Foreign Influence Concerns.pdf",
+    "Kleptocratic Patterns in Trump's Second Administration Warrant Investigation.pdf",
+    "The Economics of Global Energy Transition Through 2050.pdf",
+    "Russian Influence Networks and Western Elites_ Mapping Financial and Intelligence Connections.pdf",
+    "The Kleptocracy Trap_ How Nations Steal and How Citizens Fight Back.pdf",
+    "Trump, Musk, and the Epstein Files Reversal.pdf",
+    "Technology Worker Resistance and Constitutional Cryptography_ Tools for Democratic Resilience.pdf",
+    "Regional Power Dynamics After Israeli Strikes on Iran_ Saudi Arabia's Strategic Advantage.pdf",
+    "Indigenous Foundations of American Democracy_ The Haudenosaunee Influence on Constitutional Design.pdf",
+    "Research Questions_ Constitutional Crisis Analysis - Post-January 2025 Events.pdf",
+    "Roger Stone's Russian Influence Network_ From Lobbying to Intelligence Operations.pdf",
+    "Putin's House of Cards_ The Historical Foundation for Russian Collapse.pdf",
+    "The Hidden Winner_ How Saudi Arabia Benefits from Trump's Iran Strikes and the Constitutional Questions It Raises.pdf"
+  ]
 }

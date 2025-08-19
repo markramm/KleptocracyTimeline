@@ -14,9 +14,17 @@ tags:
 - civil-society
 - watchlist
 sources:
-- title: CIVICUS Monitor Watchlist March 2025
-  url: https://monitor.civicus.org/watchlist-march-2025
+- title: Watchlist March 2025 - CIVICUS Monitor
+  url: https://monitor.civicus.org/watchlist-march-2025/
   outlet: CIVICUS Monitor
+  date: '2025-03-10'
+- title: 'Unparalleled Attack on the Rule of Law' by Trump Puts US on Global Watchlist
+  url: https://www.commondreams.org/news/civicus-united-states-trump-administration
+  outlet: Common Dreams
+  date: '2025-03-10'
+- title: US added to human rights watchlist over Trump moves
+  url: https://thehill.com/homenews/administration/5186108-civicus-usa-human-rights-threat-watchdog-trump/
+  outlet: The Hill
   date: '2025-03-10'
 notes: Historic international recognition of U.S. democratic decline
 status: confirmed

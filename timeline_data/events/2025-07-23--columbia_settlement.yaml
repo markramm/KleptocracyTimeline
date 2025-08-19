@@ -16,7 +16,11 @@ actors: []
 notes: ''
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Resolution of Federal Investigations and Restoration of the University's Research Funding
+  url: https://president.columbia.edu/news/resolution-federal-investigations-and-restoration-universitys-research-funding
+  outlet: Columbia University
+  date: '2025-07-23'
+- title: White House Fact Sheet on Columbia Settlement
+  url: https://www.whitehouse.gov/fact-sheets/2025/07/19853
+  outlet: White House
+  date: '2025-07-23'
