@@ -9,13 +9,14 @@ tags:
 - courts
 - surveillance
 sources:
-- title: 'ACLU: Fifth Circuit geofence ruling'
-  url: https://www.aclu.org/press-releases/fifth-circuit-rules-geofence-warrants-unconstitutional
-  outlet: ACLU
-  date: '2024-08-09'
-- title: 'Reuters: US appeals court finds geofence warrants unconstitutional'
-  url: https://www.reuters.com/technology/us-appeals-court-finds-geofence-warrants-unconstitutional-2024-08-09/
-  outlet: Reuters
-  date: '2024-08-09'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/
+- title: US appeals court rules geofence warrants are unconstitutional
+  url: https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/
+  outlet: TechCrunch
+  date: '2024-08-13'
+  archive_url: https://web.archive.org/web/20240814000000*/https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional/
+- title: Federal Appeals Court Finds Geofence Warrants Are "Categorically" Unconstitutional
+  url: https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional
+  outlet: Electronic Frontier Foundation
+  date: '2024-08-12'
+  archive_url: https://web.archive.org/web/20240813000000*/https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional
 status: confirmed

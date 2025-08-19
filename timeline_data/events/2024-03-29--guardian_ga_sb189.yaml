@@ -8,19 +8,20 @@ tags:
 - legislation
 - voter-challenges
 citations:
-- https://www.theguardian.com/us-news/2024/mar/29/georgia-state-election-law-changes
+- https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co
 id: 2024-03-29--guardian_ga_sb189
 location: null
 actors: []
 notes: ''
 status: confirmed
 sources:
-- title: Georgia Passes Law Making It Easier to Challenge Voter Registrations
-  url: https://www.legis.ga.gov/legislation/65309
-  outlet: Georgia General Assembly
+- title: Georgia lawmakers pass new election rules that could impact 2024 presidential contest
+  url: https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co
+  outlet: NPR
   date: '2024-03-29'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.legis.ga.gov/legislation/65309
-- title: Georgia Republicans Pass Law to Make Voter Challenges Easier
-  url: https://www.theguardian.com/us-news/2024/mar/29/georgia-sb189-voter-challenge-law
-  outlet: The Guardian
-  date: '2024-03-29'
+  archive_url: https://web.archive.org/web/20240330000000*/https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co
+- title: New Georgia Law Spurs Bogus Challenges to Voter Eligibility
+  url: https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility
+  outlet: Brennan Center for Justice
+  date: '2024-07-09'
+  archive_url: https://web.archive.org/web/20240710000000*/https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility

@@ -12,12 +12,17 @@ tags:
 - certification
 - elections
 citations:
-- https://apnews.com/article/arizona-cochise-county-election-certification-criminal-512a5ab9b7cadd889b2bc5ad7f6de120
+- https://www.azpm.org/p/headlines/2024/10/21/222261-cochise-county-supervisor-peggy-judd-pleads-guilty-in-election-interference-case-gets-probation/
 notes: ''
 status: confirmed
 sources:
-- title: Former Cochise County Supervisor Pleads Guilty in Election Case
-  url: https://www.justice.gov/usao-az/pr/former-cochise-county-supervisor-pleads-guilty
-  outlet: Department of Justice
+- title: Cochise County Supervisor Peggy Judd pleads guilty in election interference case, gets probation
+  url: https://www.azpm.org/p/headlines/2024/10/21/222261-cochise-county-supervisor-peggy-judd-pleads-guilty-in-election-interference-case-gets-probation/
+  outlet: AZPM
   date: '2024-10-21'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.justice.gov/usao-az/pr/former-cochise-county-supervisor-pleads-guilty
+  archive_url: https://web.archive.org/web/20241022000000*/https://www.azpm.org/p/headlines/2024/10/21/222261-cochise-county-supervisor-peggy-judd-pleads-guilty-in-election-interference-case-gets-probation/
+- title: Cochise County supervisor enters plea for refusal to certify midterm election
+  url: https://www.votebeat.org/arizona/2024/10/21/cochise-county-arizona-supervisor-takes-plea-deal-delaying-midterm-results/
+  outlet: Votebeat
+  date: '2024-10-21'
+  archive_url: https://web.archive.org/web/20241022000000*/https://www.votebeat.org/arizona/2024/10/21/cochise-county-arizona-supervisor-takes-plea-deal-delaying-midterm-results/

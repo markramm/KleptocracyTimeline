@@ -20,23 +20,19 @@ tags:
 - campaign-strategy
 - political-distancing
 sources:
-- title: Heritage Foundation director Paul Dans steps down from Project 2025
-  url: https://www.cnn.com/2024/07/30/politics/project-2025-heritage-foundation-paul-dans/index.html
-  outlet: CNN
+- title: Project 2025 director leaves Heritage Foundation
+  url: https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation
+  outlet: PBS NewsHour
   date: '2024-07-30'
   verified: true
-  verified_date: '2025-08-17'
-  archive_url: https://web.archive.org/web/20240731000000*/https://www.cnn.com/2024/07/30/politics/project-2025-heritage-foundation-paul-dans/index.html
-- title: Project 2025 director leaves Heritage Foundation post
-  url: https://www.politico.com/news/2024/07/30/project-2025-director-leaves-heritage-foundation-00171737
-  outlet: Politico
-  date: '2024-07-30'
+  verified_date: '2025-08-18'
+  archive_url: https://web.archive.org/web/20240731000000*/https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation
+- title: Heritage Foundation Says Project 2025 Director Was Fired for Professional Misconduct
+  url: https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout/
+  outlet: National Review
+  date: '2024-08-03'
   verified: true
-- title: Trump Distances Himself From Project 2025 as Its Director Steps Down
-  url: https://www.nytimes.com/2024/07/30/us/politics/project-2025-paul-dans-trump.html
-  outlet: The New York Times
-  date: '2024-07-30'
-  verified: true
+  archive_url: https://web.archive.org/web/20240804000000*/https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout/
 notes: Departure coincided with Trump campaign's public distancing from Project 2025
   despite private support. Dans had been with Heritage Foundation since 2021 and led
   the policy development phase which was nearly complete by July 2024. Later misconduct

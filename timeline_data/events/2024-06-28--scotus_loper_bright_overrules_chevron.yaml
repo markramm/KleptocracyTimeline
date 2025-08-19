@@ -11,17 +11,17 @@ tags:
 - chevron
 - courts
 citations:
-- https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
-- https://www.reuters.com/legal/us-supreme-court-curbs-federal-agency-powers-overturning-1984-precedent-2024-06-28/
+- https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
 notes: ''
 status: confirmed
 sources:
 - title: Loper Bright Enterprises v. Raimondo
-  url: https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
-  outlet: Supreme Court
-  date: '2024-06-28'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.supremecourt.gov/opinions/
-- title: Supreme Court Overturns Chevron Doctrine
-  url: https://www.scotusblog.com/2024/06/supreme-court-overturns-chevron-deference/
+  url: https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
   outlet: SCOTUSblog
   date: '2024-06-28'
+  archive_url: https://web.archive.org/web/20240629000000*/https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
+- title: After Chevron: What the Supreme Court's Loper Bright Decision Changed
+  url: https://www.clearygottlieb.com/news-and-insights/publication-listing/after-chevron-what-the-supreme-courts-loper-bright-decision-changed-and-what-it-didnt
+  outlet: Cleary Gottlieb
+  date: '2024-07-05'
+  archive_url: https://web.archive.org/web/20240706000000*/https://www.clearygottlieb.com/news-and-insights/publication-listing/after-chevron-what-the-supreme-courts-loper-bright-decision-changed-and-what-it-didnt

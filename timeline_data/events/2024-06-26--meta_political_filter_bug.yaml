@@ -12,12 +12,18 @@ tags:
 - bug
 - platform-policy
 citations:
-- https://www.theverge.com/2024/6/26/24186388/instagram-threads-meta-political-content-filter-setting-stuck
+- https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads/
 - https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
 notes: ''
 status: confirmed
 sources:
-- title: Meta Acknowledges Political Content Filter Bug
-  url: https://about.fb.com/news/2024/06/political-content-controls-update/
-  outlet: Meta Newsroom
+- title: Just in time for the debates, Meta fixes bug impacting users' political content settings on Instagram and Threads
+  url: https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads/
+  outlet: TechCrunch
+  date: '2024-06-27'
+  archive_url: https://web.archive.org/web/20240628000000*/https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads/
+- title: A Meta 'error' broke the political content filter on Threads and Instagram
+  url: https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
+  outlet: Engadget
   date: '2024-06-26'
+  archive_url: https://web.archive.org/web/20240627000000*/https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html

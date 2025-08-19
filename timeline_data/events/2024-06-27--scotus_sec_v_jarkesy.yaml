@@ -12,20 +12,19 @@ tags:
 - courts
 - enforcement
 citations:
-- https://www.supremecourt.gov/opinions/23pdf/22-859_1924.pdf
-- https://www.supremecourt.gov/opinions/23pdf/22-859_8o6b.pdf
+- https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy/
 - url: https://www.reuters.com/legal/legalindustry/jurys-not-out-supreme-courts-jarkesy-decision-limits-secs-use-administrative-2024-07-18/
   archived: https://web.archive.org/web/20250724005258/https://www.reuters.com/legal/legalindustry/jurys-not-out-supreme-courts-jarkesy-decision-limits-secs-use-administrative-2024-07-18/
 notes: ''
 status: confirmed
 sources:
-- title: SEC v. Jarkesy
-  url: https://www.supremecourt.gov/opinions/23pdf/22-859_k5fm.pdf
-  outlet: Supreme Court
+- title: Securities and Exchange Commission v. Jarkesy
+  url: https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy/
+  outlet: SCOTUSblog
   date: '2024-06-27'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.supremecourt.gov/opinions/
-- title: Supreme Court Strikes Down SEC In-House Courts
-  url: https://www.reuters.com/legal/us-supreme-court-strikes-down-sec-in-house-courts-fraud-cases-2024-06-27/
-  outlet: Reuters
-  date: '2024-06-27'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/
+  archive_url: https://web.archive.org/web/20240628000000*/https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy/
+- title: Supreme Court rules SEC use of in-house tribunals is unconstitutional
+  url: https://corpgov.law.harvard.edu/2024/07/20/supreme-court-rules-sec-use-of-in-house-tribunals-is-unconstitutional/
+  outlet: Harvard Law School
+  date: '2024-07-20'
+  archive_url: https://web.archive.org/web/20240721000000*/https://corpgov.law.harvard.edu/2024/07/20/supreme-court-rules-sec-use-of-in-house-tribunals-is-unconstitutional/

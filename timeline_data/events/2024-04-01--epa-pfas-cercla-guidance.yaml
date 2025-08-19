@@ -1,6 +1,6 @@
 id: 2024-04-01--epa-pfas-cercla-guidance
 title: EPA releases PFAS guidance under CERCLA
-date: '2024-04-01'
+date: '2024-04-19'
 summary: EPA issued guidance on applying CERCLA to PFAS contamination, shaping cleanup
   responsibilities and enforcement discretion.
 tags:
@@ -9,16 +9,16 @@ tags:
 - pfas
 - cercla
 citations:
-- url: https://www.epa.gov/system/files/documents/2024-04/pfas-cercla-guidance-memo.pdf
-  archived: https://webcache.googleusercontent.com/search?q=cache:https://www.epa.gov/system/files/documents/2024-04/pfas-cercla-guidance-memo.pdf
+- https://www.epa.gov/enforcement/pfas-enforcement-discretion-and-settlement-policy-under-cercla
 status: confirmed
 sources:
-- title: EPA PFAS Enforcement Discretion and Settlement Policy Under CERCLA
-  url: https://www.epa.gov/superfund/pfas-enforcement-discretion-and-settlement-policy-under-cercla
+- title: PFAS Enforcement Discretion and Settlement Policy Under CERCLA
+  url: https://www.epa.gov/enforcement/pfas-enforcement-discretion-and-settlement-policy-under-cercla
   outlet: EPA
-  date: '2024-04-01'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.epa.gov/superfund/pfas-enforcement-discretion-and-settlement-policy-under-cercla
-- title: EPA Issues Enforcement Guidance on PFAS Contamination
-  url: https://www.law360.com/articles/epa-pfas-cercla-enforcement-guidance
-  outlet: Law360
-  date: '2024-04-01'
+  date: '2024-04-19'
+  archive_url: https://web.archive.org/web/20240420000000*/https://www.epa.gov/enforcement/pfas-enforcement-discretion-and-settlement-policy-under-cercla
+- title: EPA Finalizes Rule Designating PFAS Substances as "Hazardous Substances" Under CERCLA
+  url: https://pfas.pillsburylaw.com/epa-rule-pfas-substances-hazardous-cercla/
+  outlet: Pillsbury Law PFAS Observer
+  date: '2024-04-23'
+  archive_url: https://web.archive.org/web/20240424000000*/https://pfas.pillsburylaw.com/epa-rule-pfas-substances-hazardous-cercla/
