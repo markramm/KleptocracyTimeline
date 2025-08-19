@@ -1,21 +1,36 @@
 date: '2025-06-09'
 title: 'CPJ: Law enforcement injure multiple journalists covering Los Angeles protests'
-summary: Committee to Protect Journalists documents injuries and assaults of reporters
-  covering immigration protest operations in Los Angeles.
+summary: The Committee to Protect Journalists documented on June 9, 2025, that law
+  enforcement injured multiple journalists and assaulted others while they covered
+  immigration protests in Los Angeles. The injuries occurred during federal military
+  deployment to LA, with reporters hit by rubber bullets, tear gas, and physical assaults
+  despite clear press identification. This preceded the July 11 federal court order
+  prohibiting LAPD from using less-lethal weapons on journalists.
 tags:
 - law-enforcement
 - los-angeles
 - press-freedom
 - protests
+- journalist-injuries
+- police-violence
+- first-amendment
+- immigration-protests
 citations:
 - https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests
 id: 2025-06-09--cpj_la_journalists_injured
-location: null
-actors: []
-notes: ''
+location: Los Angeles, California
+actors:
+- Committee to Protect Journalists (CPJ)
+- LAPD
+- Federal law enforcement
+- Journalists and reporters
+- National Guard
+notes: These documented injuries led to the July 11 federal court TRO prohibiting LAPD
+  from using less-lethal weapons on journalists. Part of broader pattern of press
+  suppression during 2025 immigration enforcement operations and protests.
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Law enforcement injure multiple journalists, others assaulted while covering Los Angeles protests
+  url: https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests
+  outlet: Committee to Protect Journalists
+  date: '2025-06-09'
