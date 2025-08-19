@@ -1,9 +1,10 @@
 id: 2025-06-20--ninth_circuit_extends_stay_la_deployment
 title: Ninth Circuit extends stay keeping LA Guard/Marine deployment in place
 date: '2025-06-20'
-summary: After a district court found the deployment likely unlawful, a Ninth Circuit
-  panel extended the administrative stay, allowing the deployment to continue during
-  appeal.
+summary: Three-judge panel (2 Trump, 1 Biden appointees) unanimously grants stay
+  after Judge Breyer ruled deployment exceeded authority. Court finds 'colorable basis'
+  under Title 10 for 4,100 Guard troops and 700 Marines in LA. Rules governors have
+  no veto power over federal deployment. Case proceeds on merits.
 location: San Francisco, CA
 actors:
 - U.S. Court of Appeals for the Ninth Circuit
@@ -16,7 +17,19 @@ citations:
 notes: ''
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: 'Appeals court allows Trump to keep National Guard in Los Angeles temporarily'
+  url: https://calmatters.org/justice/2025/06/los-angeles-marines-newsom-lawsuit/
+  outlet: CalMatters
+  date: '2025-06-20'
+- title: 'Appeals court extends order allowing Trump to deploy National Guard to L.A.'
+  url: https://www.cbsnews.com/news/appeals-court-extends-order-allowing-trump-to-deploy-national-guard-to-l-a/
+  outlet: CBS News
+  date: '2025-06-20'
+- title: '9th Circuit reverses ruling, allows Trump to keep military in LA'
+  url: https://www.nbclosangeles.com/news/local/judge-blocks-trump-administration-national-guard-newsom-marines-la-protests/3722344/
+  outlet: NBC Los Angeles
+  date: '2025-06-20'
+- title: 'Trump can keep National Guard in Los Angeles, appeals court rules'
+  url: https://www.washingtonpost.com/politics/2025/06/20/trump-keep-national-guard-la-ruling/
+  outlet: The Washington Post
+  date: '2025-06-20'
