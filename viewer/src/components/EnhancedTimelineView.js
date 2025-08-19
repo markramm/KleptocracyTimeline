@@ -193,62 +193,6 @@ const EnhancedTimelineView = ({
   // Default enhanced timeline view
   return (
     <div className="enhanced-timeline-container">
-      {/* Toolbar */}
-      <div className="timeline-toolbar">
-        <div className="toolbar-left">
-          <select 
-            value={sortBy} 
-            onChange={(e) => setSortBy(e.target.value)}
-            className="sort-select"
-          >
-            <option value="date">Sort by Date</option>
-            <option value="importance">Sort by Importance</option>
-          </select>
-          
-          <select 
-            value={filterImportance} 
-            onChange={(e) => setFilterImportance(Number(e.target.value))}
-            className="filter-select"
-          >
-            <option value="0">All Events</option>
-            <option value="6">Important (6+)</option>
-            <option value="7">High Priority (7+)</option>
-            <option value="8">Critical (8+)</option>
-            <option value="9">Crisis Level (9+)</option>
-          </select>
-          
-          <select 
-            value={compactMode} 
-            onChange={(e) => setCompactMode(e.target.value)}
-            className="compact-select"
-            title="Compact Mode (C to cycle)"
-          >
-            <option value="none">Expand All</option>
-            <option value="low">Compact Low (≤5)</option>
-            <option value="medium">Compact Med/Low (≤7)</option>
-            <option value="all">Compact All</option>
-          </select>
-          
-          <button 
-            className={`toolbar-button ${showMinimap ? 'active' : ''}`}
-            onClick={() => setShowMinimap(!showMinimap)}
-            title="Toggle Minimap (M)"
-          >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor">
-              <rect x="3" y="3" width="18" height="18" rx="2" />
-              <rect x="7" y="7" width="10" height="10" />
-            </svg>
-            Minimap
-          </button>
-        </div>
-        
-        <div className="toolbar-right">
-          <span className="event-counter">
-            {processedEvents.length} events
-            {filterImportance > 0 && ` (filtered from ${events.length})`}
-          </span>
-        </div>
-      </div>
 
       {/* Sticky Year Header */}
       {stickyYear && (
@@ -259,23 +203,86 @@ const EnhancedTimelineView = ({
 
       {/* Main Timeline */}
       <div className="timeline-layout">
-        {/* Minimap */}
-        {showMinimap && (
-          <TimelineMinimap 
-            events={processedEvents}
-            groups={timelineGroups}
-            onNavigate={(date) => {
-              // Scroll to date
-              const element = document.getElementById(`date-${date}`);
-              element?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }}
-            onDateRangeSelect={(range) => {
-              // TODO: Pass this up to parent component for actual filtering
-              // For now, just log it
-              console.log(`Date range selected: ${range.start} to ${range.end}`);
-            }}
-          />
-        )}
+        {/* Left Control Panel */}
+        <div className="timeline-control-panel">
+          <div className="control-section">
+            <h4>View Controls</h4>
+            
+            <div className="control-group">
+              <label>Sort</label>
+              <select 
+                value={sortBy} 
+                onChange={(e) => setSortBy(e.target.value)}
+                className="control-select"
+              >
+                <option value="date">By Date</option>
+                <option value="importance">By Importance</option>
+              </select>
+            </div>
+            
+            <div className="control-group">
+              <label>Filter</label>
+              <select 
+                value={filterImportance} 
+                onChange={(e) => setFilterImportance(Number(e.target.value))}
+                className="control-select"
+              >
+                <option value="0">All Events</option>
+                <option value="6">Important (6+)</option>
+                <option value="7">High Priority (7+)</option>
+                <option value="8">Critical (8+)</option>
+                <option value="9">Crisis (9+)</option>
+              </select>
+            </div>
+            
+            <div className="control-group">
+              <label>Display</label>
+              <select 
+                value={compactMode} 
+                onChange={(e) => setCompactMode(e.target.value)}
+                className="control-select"
+                title="Press C to cycle"
+              >
+                <option value="none">Expand All</option>
+                <option value="low">Compact Low</option>
+                <option value="medium">Compact Med/Low</option>
+                <option value="all">Compact All</option>
+              </select>
+            </div>
+            
+            <div className="event-counter">
+              <strong>{processedEvents.length}</strong> events
+              {filterImportance > 0 && (
+                <span className="filter-info">Filtered from {events.length}</span>
+              )}
+            </div>
+          </div>
+          
+          {showMinimap && (
+            <TimelineMinimap 
+              events={processedEvents}
+              groups={timelineGroups}
+              onNavigate={(date) => {
+                // Scroll to date
+                const element = document.getElementById(`date-${date}`);
+                element?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              }}
+              onDateRangeSelect={(range) => {
+                // TODO: Pass this up to parent component for actual filtering
+                // For now, just log it
+                console.log(`Date range selected: ${range.start} to ${range.end}`);
+              }}
+            />
+          )}
+          
+          <button 
+            className="toggle-minimap-btn"
+            onClick={() => setShowMinimap(!showMinimap)}
+            title="Toggle Minimap (M)"
+          >
+            {showMinimap ? 'Hide' : 'Show'} Minimap
+          </button>
+        </div>
 
         {/* Timeline Content */}
         <div className="timeline-scroll-container" ref={timelineRef}>
@@ -328,8 +335,8 @@ const EnhancedTimelineView = ({
       {/* Keyboard Shortcuts Help */}
       <div className="keyboard-help">
         <span>↑/↓ or J/K: Navigate</span>
-        <span>M: Minimap</span>
-        <span>C: Compact</span>
+        <span>M: Toggle Minimap</span>
+        <span>C: Cycle Display</span>
       </div>
     </div>
   );

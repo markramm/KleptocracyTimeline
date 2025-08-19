@@ -8,79 +8,105 @@
   background: #0f172a;
 }
 
-/* Toolbar */
-.timeline-toolbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem;
+/* Timeline Control Panel */
+.timeline-control-panel {
+  width: 260px;
   background: rgba(30, 41, 59, 0.95);
+  border-right: 1px solid #334155;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.control-section {
+  padding: 1rem;
   border-bottom: 1px solid #334155;
-  backdrop-filter: blur(10px);
-  z-index: 100;
 }
 
-.toolbar-left {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
+.control-section h4 {
+  color: #e5e7eb;
+  font-size: 0.875rem;
+  margin: 0 0 1rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
-.toolbar-right {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
+.control-group {
+  margin-bottom: 0.75rem;
 }
 
-.sort-select,
-.filter-select,
-.compact-select {
+.control-group label {
+  display: block;
+  color: #94a3b8;
+  font-size: 0.75rem;
+  margin-bottom: 0.25rem;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
+}
+
+.control-select {
+  width: 100%;
   background: #1e293b;
   color: #e5e7eb;
   border: 1px solid #334155;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  font-size: 0.875rem;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.813rem;
   cursor: pointer;
   transition: all 0.2s;
 }
 
-.sort-select:hover,
-.filter-select:hover,
-.compact-select:hover {
+.control-select:hover {
   border-color: #3b82f6;
   background: #334155;
 }
 
-.toolbar-button {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+.control-select:focus {
+  outline: none;
+  border-color: #60a5fa;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.1);
+}
+
+.toggle-minimap-btn {
+  width: 100%;
   background: #1e293b;
   color: #94a3b8;
   border: 1px solid #334155;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  font-size: 0.875rem;
+  padding: 0.5rem;
+  font-size: 0.75rem;
   cursor: pointer;
   transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 0.025em;
 }
 
-.toolbar-button:hover {
-  border-color: #3b82f6;
-  color: #e5e7eb;
+.toggle-minimap-btn:hover {
   background: #334155;
-}
-
-.toolbar-button.active {
-  background: #3b82f6;
-  color: white;
+  color: #e5e7eb;
   border-color: #3b82f6;
 }
+
 
 .event-counter {
+  background: rgba(59, 130, 246, 0.1);
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  border-radius: 0.375rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.event-counter strong {
+  color: #60a5fa;
+  font-size: 1.125rem;
+  display: block;
+}
+
+.filter-info {
   color: #94a3b8;
-  font-size: 0.875rem;
+  font-size: 0.7rem;
+  display: block;
+  margin-top: 0.25rem;
 }
 
 /* Sticky Year Header */
@@ -110,11 +136,8 @@
 
 /* Timeline Minimap */
 .timeline-minimap {
-  width: 220px;
-  background: rgba(30, 41, 59, 0.95);
-  border-right: 1px solid #334155;
   padding: 1rem;
-  overflow-y: auto;
+  border-bottom: 1px solid #334155;
 }
 
 .minimap-header {
@@ -126,7 +149,7 @@
 
 .timeline-minimap h4 {
   color: #e5e7eb;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   margin: 0;
   text-transform: uppercase;
   letter-spacing: 0.05em;
