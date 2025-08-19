@@ -1,9 +1,10 @@
 id: 2022-01-01--bipartisan-ig-protections-enacted
-date: '2022-01-01'
+date: '2022-12-23'
 title: Bipartisan Inspector General protections enacted
-summary: Bipartisan legislation enacted protecting Inspectors General from arbitrary
-  removal, requiring specific cause and congressional notification for dismissals,
-  strengthening oversight independence.
+summary: Securing Inspector General Independence Act of 2022 enacted as part of NDAA,
+  requiring 30-day advance notice to Congress before IG removal, limiting who can
+  serve as Acting IG, and requiring explanation for failure to nominate replacement.
+  Led by bipartisan coalition including Grassley, Peters, Collins, and Portman.
 location: Washington, DC
 actors:
 - Congress
@@ -19,5 +20,17 @@ sources:
   outlet: Congress.gov
   date: '2022-06-01'
   archive_url: https://web.archive.org/web/20250814000000/https://www.congress.gov/bill/117th-congress/ig-protection-act
+- title: Grassley Leads Bipartisan Bill to Bolster Inspector General Protections
+  url: https://www.grassley.senate.gov/news/news-releases/grassley-leads-bipartisan-bill-bolster-inspector-general-protections
+  outlet: U.S. Senator Chuck Grassley
+  date: '2022-06-15'
+- title: Bipartisan Legislation Led By Peters & Portman to Strengthen Inspector General Protections Advances in Senate
+  url: https://www.hsgac.senate.gov/media/dems/bipartisan-legislation-led-by-peters-and-portman-to-strengthen-inspector-general-protections-advances-in-senate/
+  outlet: Senate Homeland Security Committee
+  date: '2022-07-20'
+- title: Inspector General Reforms Could Be on the Horizon
+  url: https://www.govexec.com/oversight/2022/12/inspector-general-reforms-could-be-horizon/380587/
+  outlet: Government Executive
+  date: '2022-12-20'
 notes: Protections later violated by Trump administration in 2025
 status: confirmed

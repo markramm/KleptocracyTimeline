@@ -16,8 +16,19 @@ citations:
 notes: ''
 status: confirmed
 sources:
-- title: Supreme Court Temporarily Blocks OSC Director Removal
-  url: https://www.supremecourt.gov/opinions/24pdf
-  outlet: Supreme Court
+- title: "The Supreme Court won't allow Trump to immediately fire head of whistleblower office"
+  url: https://federalnewsnetwork.com/litigation/2025/02/the-supreme-court-wont-allow-trump-to-immediately-fire-head-of-whistleblower-office/
+  outlet: Federal News Network
   date: '2025-02-21'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.supremecourt.gov/opinions/
+- title: "Supreme Court rules that government watchdog fired by Trump may temporarily remain on the job"
+  url: https://www.cnn.com/2025/02/21/politics/supreme-court-trump-dellinger/index.html
+  outlet: CNN
+  date: '2025-02-21'
+- title: "Supreme Court punts on order that blocked Trump's firing of special counsel"
+  url: https://www.npr.org/2025/02/21/nx-s1-5302492/supreme-court-special-counsel-hampton-dellinger
+  outlet: NPR
+  date: '2025-02-21'
+- title: "Head of watchdog agency ends lawsuit to stop his firing by Trump"
+  url: https://www.washingtonpost.com/national-security/2025/03/06/federal-workers-special-counsel-hampton-dellinger/
+  outlet: The Washington Post
+  date: '2025-03-06'

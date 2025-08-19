@@ -2346,12 +2346,292 @@
       "attempts": 1,
       "last_attempt": "2025-08-19T03:33:49.772296",
       "last_error": "Status 520"
+    },
+    "https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:33:55.317214",
+      "last_error": "Status 520"
+    },
+    "https://www.seattletimes.com/nation-world/private-contractors-play-key-role-in-us-intelligence-work/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:00.880902",
+      "last_error": "Status 520"
+    },
+    "https://www.govexec.com/oversight/2025/06/house-bill-would-cut-gaos-budget-nearly-half/397901": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:06.390781",
+      "last_error": "Status 520"
+    },
+    "https://www.congress.gov/member/mikie-sherrill": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:11.968802",
+      "last_error": "Status 520"
+    },
+    "https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:17.503299",
+      "last_error": "Status 520"
+    },
+    "https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:22.574576",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f5feb0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.axios.com/2025/01/18/trump-meme-coin-25-billion": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:28.189162",
+      "last_error": "Status 520"
+    },
+    "https://www.cnbc.com/2025/05/20/justin-sun-trump-dinner.html": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:33.255936",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.cnbc.com/2025/05/20/justin-sun-trump-dinner.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f5ff70>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.npr.org/2025/01/20/nx-s1-5268653/energy-emergency-trump-oil-evs": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:38.829806",
+      "last_error": "Status 520"
+    },
+    "https://www.hklaw.com/en/insights/publications/2025/02/president-trump-issues-executive-order-to-halt-fcpa-enforcement": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:44.376913",
+      "last_error": "Status 520"
+    },
+    "https://www.newsnationnow.com/banfield/fight-log-trump-flew-on-epsteins-plane-7-times": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:49.905772",
+      "last_error": "Status 520"
+    },
+    "https://www.afge.org/news/federal-loyalty-tests": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:34:54.975468",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.afge.org/news/federal-loyalty-tests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f8b790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.washingtonpost.com/politics/2025/01/20/trump-executive-orders-list/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:00.587175",
+      "last_error": "Status 520"
+    },
+    "https://www.vera.org/ice-detention-trends": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:06.088641",
+      "last_error": "Status 520"
+    },
+    "https://www.reed.senate.gov/imo/media/doc/4-2-2025_letter_to_commerce_ig_re_lutnick_ethics_issues_signed.pdf": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:11.669878",
+      "last_error": "Status 520"
+    },
+    "https://natlawreview.com/article/trump-revokes-biden-administrations-executive-order-antitrust-competition-other": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:17.305968",
+      "last_error": "Status 520"
+    },
+    "https://www.politico.com/news/2025/08/05/elon-musk-x-court-win-california-deepfake-law-00494936": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:22.850214",
+      "last_error": "Status 520"
+    },
+    "https://www.washingtonpost.com/politics/2025/02/political-monitors": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:27.918737",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.washingtonpost.com/politics/2025/02/political-monitors (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f92ca0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://supreme.justia.com/cases/federal/us/602/23-235": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:32.990412",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://supreme.justia.com/cases/federal/us/602/23-235 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1031b5f40>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.ap.org/media-center/ap-in-the-news/2025/ap-wins-reinstatement-to-white-house-events-after-judge-rules-government-cant-bar-its-journalists": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:38.486398",
+      "last_error": "Status 520"
+    },
+    "https://www.aclu.org/news/education-department-cuts": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:43.558086",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.aclu.org/news/education-department-cuts (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1031977c0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:49.060491",
+      "last_error": "Status 520"
+    },
+    "https://www.npr.org/2025/08/05/nx-s1-5493371/house-oversight-committee-epstein-subpoenas-justice-department": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:54.131067",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.npr.org/2025/08/05/nx-s1-5493371/house-oversight-committee-epstein-subpoenas-justice-department (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103197d00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.scotusblog.com/2024/06/supreme-court-blocks-epas-good-neighbor-air-pollution-rule/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:35:59.206044",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.scotusblog.com/2024/06/supreme-court-blocks-epas-good-neighbor-air-pollution-rule/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103197970>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:04.779733",
+      "last_error": "Status 520"
+    },
+    "https://nymag.com/nymetro/news/people/n_7912": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:10.331632",
+      "last_error": "Status 520"
+    },
+    "https://www.sec.gov/news/press-release/2025-sun-investigation": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:15.395943",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.sec.gov/news/press-release/2025-sun-investigation (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1031b5af0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:20.465408",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1031b5eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.washingtonpost.com/politics/cabinet-wealth-450-billion": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:25.528029",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.washingtonpost.com/politics/cabinet-wealth-450-billion (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f92a00>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.courthousenews.com/federal-judge-rebukes-california-laws-targeting-misinformation": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:30.597910",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.courthousenews.com/federal-judge-rebukes-california-laws-targeting-misinformation (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f8b4f0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.scotusblog.com/2024/06/supreme-court-throws-out-challenge-to-biden-administration-social-media-contacts/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:35.672443",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.scotusblog.com/2024/06/supreme-court-throws-out-challenge-to-biden-administration-social-media-contacts/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f5f700>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.washingtonpost.com/politics/2025/06/14/no-kings-historic-protests": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:40.739680",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.washingtonpost.com/politics/2025/06/14/no-kings-historic-protests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10318f790>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:45.812672",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f5ff40>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.advocate.com/news/peter-thiel-fbi-informant": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:51.357986",
+      "last_error": "Status 520"
+    },
+    "https://www.eff.org/deeplinks/2024/07/supreme-court-dodges-key-question-murthy-v-missouri-and-dismisses-case-failing": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:36:56.913494",
+      "last_error": "Status 520"
+    },
+    "https://news.harvard.edu/gazette/story/2025/05/what-revoked-student-visa-status-means": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:02.640001",
+      "last_error": "Status 520"
+    },
+    "https://www.axios.com/2025/07/17/trump-epstein-hoax-truth-social-base": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:08.206242",
+      "last_error": "Status 520"
+    },
+    "https://www.wsj.com/articles/x-twitter-political-ads-return-musk": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:13.705955",
+      "last_error": "Status 520"
+    },
+    "https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:19.446995",
+      "last_error": "Status 520"
+    },
+    "https://www.npr.org/2025/07/24/nx-s1-5302162/climate-change-trump-epa": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:25.056874",
+      "last_error": "Status 520"
+    },
+    "https://www.cbsnews.com/news/trump-and-saudi-arabia-deep-business-ties-spark-new-scrutiny": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:30.133798",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.cbsnews.com/news/trump-and-saudi-arabia-deep-business-ties-spark-new-scrutiny (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f8b6d0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:35.730769",
+      "last_error": "Status 520"
+    },
+    "https://www.pbs.org/newshour/show/what-is-publicly-known-about-trumps-yearslong-relationship-with-jeffrey-epstein": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:40.805062",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.pbs.org/newshour/show/what-is-publicly-known-about-trumps-yearslong-relationship-with-jeffrey-epstein (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x102f920d0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.brennancenter.org/our-work/analysis-opinion/inaugural-donors": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:46.300633",
+      "last_error": "Status 520"
+    },
+    "https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:51.872011",
+      "last_error": "Status 520"
+    },
+    "https://www.cbsnews.com/news/judge-rules-trump-firing-whistleblower-office-chief-hampton-dellinger-unlawful/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:37:57.413638",
+      "last_error": "Status 520"
+    },
+    "https://www.heritage.org/project2025": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:02.484485",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.heritage.org/project2025 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1031b5700>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.whitehouse.gov/presidential-actions/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:08.081320",
+      "last_error": "Status 520"
+    },
+    "https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:13.604215",
+      "last_error": "Status 520"
+    },
+    "https://www.oge.gov/web/oge.nsf/news/sacks-waiver": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:19.181407",
+      "last_error": "Status 520"
+    },
+    "https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:24.698909",
+      "last_error": "Status 520"
+    },
+    "https://www.defense.gov/News/operation-guardian-support": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:30.601298",
+      "last_error": "Status 520"
+    },
+    "https://www.washingtonpost.com/education/2025/06/03/student-visas-revoked-campus-protests": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:35.669587",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://www.washingtonpost.com/education/2025/06/03/student-visas-revoked-campus-protests (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1031b5970>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:40.743440",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103197c70>: Failed to establish a new connection: [Errno 61] Connection refused'))"
+    },
+    "https://www.opensecrets.org/news/2025/01/trump-inaugural-record": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:46.286768",
+      "last_error": "Status 520"
+    },
+    "https://georgiarecorder.com/2024/07/08/groups-readying-mass-voter-challenges-in-georgias-2024-elections-theres-an-app-for-that/": {
+      "attempts": 1,
+      "last_attempt": "2025-08-19T03:38:51.354126",
+      "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://georgiarecorder.com/2024/07/08/groups-readying-mass-voter-challenges-in-georgias-2024-elections-theres-an-app-for-that/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103197eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
     }
   },
-  "last_run": "2025-08-19T03:33:49.772321",
-  "total_processed": 470,
+  "last_run": "2025-08-19T03:38:51.354143",
+  "total_processed": 526,
   "total_success": 5,
-  "total_failed": 465,
+  "total_failed": 521,
   "skipped_files": [
     "2016-08-21--stone-podesta-tweet.yaml",
     "2025-06-01--federal-layoffs-275000.yaml",

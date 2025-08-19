@@ -20,5 +20,17 @@ sources:
   outlet: Department of Defense
   date: '2018-04-06'
   archive_url: https://web.archive.org/web/20250814000000/https://www.defense.gov/News/operation-guardian-support
+- title: Mattis OKs up to 4000 National Guard troops for border
+  url: https://www.nbcnews.com/news/us-news/national-guard-troops-headed-border-friday-night-officials-say-n863526
+  outlet: NBC News
+  date: '2018-04-06'
+- title: Trump ordered National Guard troops to the border. Where do things stand?
+  url: https://www.pbs.org/newshour/politics/trump-ordered-national-guard-troops-to-the-border-where-do-things-stand
+  outlet: PBS News
+  date: '2018-04-06'
+- title: President Trump Is Accelerating the Militarization of the Southwest Border
+  url: https://www.aclu.org/news/immigrants-rights/president-trump-accelerating-militarization-southwest-border
+  outlet: American Civil Liberties Union
+  date: '2018-04-08'
 notes: Military support for border operations under legal constraints
 status: confirmed

@@ -18,6 +18,18 @@ sources:
   url: https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected
   outlet: Public Citizen
   date: '2019-07-01'
+- title: July 4th fireworks donor lobbied President Trump on tariffs and won a reprieve
+  url: https://abcnews.go.com/Politics/july-4th-fireworks-donor-lobbied-president-trump-tariffs/story?id=64108794
+  outlet: ABC News
+  date: '2019-07-08'
+- title: Company that donated fireworks to Trump's event also successfully lobbied against tariffs
+  url: https://thehill.com/homenews/administration/451685-company-that-donated-fireworks-to-trumps-event-also-successfully/
+  outlet: The Hill
+  date: '2019-07-08'
+- title: July 4 firework donor met with Trump on tariffs ahead of donation
+  url: https://wtop.com/government/2019/06/july-4-firework-donor-met-with-trump-on-tariffs-ahead-of-donation/
+  outlet: WTOP News
+  date: '2019-06-25'
 actors:
 - Donald Trump
 - Bruce Zoldan

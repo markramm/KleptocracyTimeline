@@ -1,27 +1,11 @@
 {
-  "archived": [
+  "archived": [],
+  "failed": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
-  ],
-  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
-    "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
-    "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
-    "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
-    "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
-    "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
-    "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
-    "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
-    "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes",
-    "https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads",
-    "https://allvotingislocal.org/reports/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election-2",
-    "https://apnews.com/article/doj-epstein-memo-bondi-contradiction",
-    "https://apnews.com/article/los-angeles-guard-marines-ruling-stay-2025",
-    "https://apnews.com/article/minnesota-lawmakers-shot-funeral-119d4589c28205b4faec41f5c59a823c",
-    "https://apnews.com/article/paramount-skydance-merger-cbs-news-trump-85560c3c7aaaa1fe894380683e66a89c",
-    "https://apnews.com/article/trump-inspectors-general-fired-2025-01-25"
+    "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story"
   ],
   "skipped": []
 }

@@ -1,9 +1,11 @@
 id: 2025-03-01--commerce-broadband-starlink-benefit
 date: '2025-03-01'
 title: Commerce Department changes broadband policies benefiting Starlink up to $20B
-summary: Commerce Department under Howard Lutnick changed federal broadband requirements
-  specifically favoring Starlink over fiber-optic competitors, potentially benefiting
-  Musk's company by up to $20 billion in contracts.
+summary: Commerce Secretary Howard Lutnick overhauled the $42.5B BEAD broadband program
+  to adopt "tech-neutral approach" allowing satellite providers like Starlink to
+  receive $10-20B instead of expected $4.1B, while directing staff to "increase
+  satellite usage regardless of other considerations" and specifically recommending
+  Elon Musk's Starlink to rural broadband leaders.
 location: Washington, DC
 actors:
 - Howard Lutnick
@@ -17,10 +19,21 @@ tags:
 - broadband
 - musk-benefits
 sources:
-- title: Commerce broadband policy investigation
-  url: https://www.congress.gov/member/mikie-sherrill
-  outlet: Congresswoman Mikie Sherrill
-  date: '2025-03-15'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.congress.gov/member/mikie-sherrill
-notes: Lutnick faces 106 potential conflicts of interest, most ever tracked for cabinet
+- title: "Statement from U.S. Secretary of Commerce Howard Lutnick on the BEAD Program"
+  url: https://www.commerce.gov/news/press-releases/2025/03/statement-us-secretary-commerce-howard-lutnick-bead-program
+  outlet: U.S. Department of Commerce
+  date: '2025-03-01'
+- title: "Commerce to Overhaul 'Internet for All' Plan, Expanding Starlink Funding Prospects"
+  url: https://www.benton.org/headlines/commerce-overhaul-'internet-all'-plan-expanding-starlink-funding-prospects
+  outlet: Benton Institute for Broadband & Society
+  date: '2025-03-01'
+- title: "U.S. Commerce Secretary Tells Rural Broadband Leaders to Prioritize Starlink"
+  url: https://gizmodo.com/u-s-commerce-secretary-tells-rural-broadband-leaders-to-prioritize-starlink-2000580037
+  outlet: Gizmodo
+  date: '2025-03-01'
+- title: "Commerce Secretary's Proposal to Prioritize Satellite Over Fiber Internet Would 'Strand' Rural Communities, Experts Say"
+  url: https://dailyyonder.com/commerce-secretarys-proposal-to-prioritize-satellite-over-fiber-internet-would-strand-rural-communities-experts-say/2025/03/26/
+  outlet: The Daily Yonder
+  date: '2025-03-26'
+notes: BEAD director Evan Feinman resigned in protest, condemning efforts to "strand rural America with worse internet to make the world's richest man even richer"
 status: confirmed
