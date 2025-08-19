@@ -1,16 +1,15 @@
 {
-  "archived": [
+  "archived": [],
+  "failed": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
-  ],
-  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -126,27 +125,7 @@
     "https://thehill.com/lobbying/5101352-trump-axes-biden-era-ethics-order-lobbying-restrictions/",
     "https://thehill.com/policy/energy-environment/5444115-epa-union-fight-court/",
     "https://time.com/2025/08/fema-elimination-announcement",
-    "https://time.com/7209901/donald-trump-executive-actions-project-2025/",
-    "https://time.com/7266334/us-human-rights-watchlist-civil-liberties/",
-    "https://tracreports.org/whatsnew/email.250801.html",
-    "https://trumpfile.org/trump-epstein-mansion/",
-    "https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-reducing-regulation-controlling-regulatory-costs/",
-    "https://unlimitedhangout.com/2020/07/reports/alleged-salas-family-assailant-previously-worked-for-us-israeli-intelligence-linked-firm",
-    "https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions",
-    "https://wikispooks.com/wiki/Kroll_Inc.",
-    "https://www.aau.edu/newsroom/press-releases/aau-calls-transparency-reports-student-visa-revocations",
-    "https://www.aclu.org/news/education-department-cuts",
-    "https://www.aclu.org/press-releases/federal-court-blocks-trump-birthright-citizenship-executive-order",
-    "https://www.aclu.org/press-releases/georgia-supreme-court-upholds-block-on-hand-counting-rule-in-major-win-for-voters",
-    "https://www.aclu.org/project-2025-explained",
-    "https://www.acluga.org/en/press-releases/press-release-advocacy-groups-send-guidance-mass-voter-challenges-elections-officials",
-    "https://www.advocate.com/news/peter-thiel-fbi-informant",
-    "https://www.affirmativeactionlawadvisor.com/2025/01/breaking-news-president-trump-revokes-a-long-list-of-biden-executive-orders/",
-    "https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/",
-    "https://www.afge.org/news/federal-loyalty-tests",
-    "https://www.afge.org/news/omb-director-project-2025",
-    "https://www.ai.mil/latest/news-press/pr-view/article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu",
-    "https://www.airandspaceforces.com/space-force-13-7-billion-launch-contracts"
+    "https://time.com/7209901/donald-trump-executive-actions-project-2025/"
   ],
   "skipped": []
 }
