@@ -1,8 +1,11 @@
 id: 2025-07-29--epa-endangerment-finding-rescission
 title: EPA Proposes Rescinding GHG Endangerment Finding and Vehicle Standards
 date: 2025-07-29
-summary: EPA proposes rescinding GHG Endangerment Finding and vehicle standards; targets
-  key health ruling underpinning all U.S. greenhouse gas rules with broad coverage
+summary: EPA proposed July 29, 2025, rescinding 2009 Endangerment Finding underpinning
+  all U.S. greenhouse gas regulations. Administrator Zeldin called it "largest deregulatory
+  action in history," saving $54 billion annually. Proposal claims CAA Section 202(a) doesn't
+  authorize climate regulations, questions scientific record. Comment period through Sept 22,
+  virtual hearings Aug 19-21.
 location: Washington DC
 actors:
 - Environmental Protection Agency (EPA)
@@ -13,19 +16,26 @@ tags:
 - greenhouse-gas
 - endangerment-finding
 - vehicle-standards
-citations:
-- 'Reuters — Trump''s EPA targets key health ruling underpinning all U.S. greenhouse
-  gas rules (Jul 29, 2025): https://www.reuters.com/legal/litigation/trumps-epa-targets-key-health-ruling-underpinning-all-us-greenhouse-gas-rules-2025-07-29/'
-- 'AP — Trump EPA moves to repeal landmark finding that supports U.S. climate rules
-  (Jul 29, 2025): https://apnews.com/article/trump-climate-epa-endangerment-zeldin-5cba0871c880e23d044ef40a398c57b2'
-- 'EPA — Proposed Rule: Reconsideration of 2009 Endangerment Finding (rule page) (Jul
-  29, 2025): https://www.epa.gov/regulations-emissions-vehicles-and-engines/proposed-rule-reconsideration-2009-endangerment-finding'
-notes: Major environmental deregulation targeting foundational climate rule that underpins
-  all US greenhouse gas regulations.
+notes: 'Proposal advances 3 arguments: 1) CAA Section 202(a) doesn''t authorize climate
+  standards 2) 2009 Finding unreasonably analyzed science 3) No vehicle tech can meaningfully
+  address climate without greater harm. D.C. Circuit upheld finding in 2023, SCOTUS refused
+  to hear case. Would eliminate legal basis for all EPA GHG regulations if finalized. Major
+  environmental deregulation targeting foundational climate rule.'
 sources:
-- title: EPA Proposes Rescinding Endangerment Finding
-  url: https://www.epa.gov/climate-change
+- title: "EPA Releases Proposal to Rescind Obama-Era Endangerment Finding"
+  url: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
   outlet: EPA
   date: '2025-07-29'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.epa.gov/climate-change
+- title: "The EPA proposes gutting its greenhouse gas rules. Here's what it means for cars and pollution"
+  url: https://www.npr.org/2025/07/29/nx-s1-5463771/epa-greenhouse-gas-regulations-cars-pollution
+  outlet: NPR
+  date: '2025-07-29'
+- title: "EPA to revoke 'endangerment finding,' landmark basis for regulating greenhouse gases"
+  url: https://www.cbsnews.com/news/epa-revoke-endangerment-finding-regulating-greenhouse-gases/
+  outlet: CBS News
+  date: '2025-07-29'
+- title: "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards"
+  url: https://www.federalregister.gov/documents/2025/08/01/2025-14572/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards
+  outlet: Federal Register
+  date: '2025-08-01'
 status: confirmed

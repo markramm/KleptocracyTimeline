@@ -1,8 +1,11 @@
 id: 2025-08-07--epa-cancels-solar-for-all
 title: EPA Cancels Solar for All Grants Program
 date: 2025-08-07
-summary: EPA cancels Solar for All grants worth $7 billion, eliminating major clean
-  energy grant program
+summary: EPA canceled Solar for All program August 7, 2025, terminating $7 billion in
+  grants for 900,000 low-income households' solar projects. Administrator Zeldin cited lack
+  of statutory authority, saving "ANOTHER $7 BILLION." Only $53 million of awarded funds
+  spent (Atlas Public Policy). Bernie Sanders called action illegal. Solar Energy Industries
+  Association disputes EPA authority to terminate Congressional appropriations.
 location: Washington DC
 actors:
 - Environmental Protection Agency (EPA)
@@ -12,13 +15,26 @@ tags:
 - solar-energy
 - grant-cancellation
 - clean-energy
-citations:
-- 'AP — EPA cancels $7B Solar for All program (Aug 7, 2025): https://apnews.com/article/19c838ee2d9be3e80aadb5dfe0526891'
-notes: Major clean energy program elimination representing $7 billion in cancelled
-  funding for solar energy initiatives.
+notes: 'Program awarded grants August 2024 to 49 state agencies, 6 tribes, 5 multi-state
+  recipients. Estimated $350M annual savings for low-income households. Funded by Greenhouse
+  Gas Reduction Fund from 2022 IRA ($20B green bank + $7B solar). Judge ruled April EPA cannot
+  freeze contracts. Former adviser Zealan Hoover anticipates grantee lawsuits for unlawful
+  termination. Major clean energy program elimination.'
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: "EPA terminates $7 billion Solar for All program"
+  url: https://www.cbsnews.com/news/epa-considers-ending-solar-for-all-program-funding/
+  outlet: CBS News
+  date: '2025-08-07'
+- title: "The Trump administration's EPA wants to end 'Solar for All'"
+  url: https://www.npr.org/2025/08/08/nx-s1-5493300/solar-climate-change-trump-epa
+  outlet: NPR
+  date: '2025-08-08'
+- title: "Trump EPA plans to claw back $7 billion in rooftop solar grants"
+  url: https://www.washingtonpost.com/climate-environment/2025/08/05/rooftop-solar-grants-epa/
+  outlet: The Washington Post
+  date: '2025-08-05'
+- title: "EPA cancels $7B in Solar for All grants"
+  url: https://www.renewableenergyworld.com/solar/epa-preparing-to-cancel-7b-in-solar-for-all-grants/
+  outlet: Renewable Energy World
+  date: '2025-08-07'
