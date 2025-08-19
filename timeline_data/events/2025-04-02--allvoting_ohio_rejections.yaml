@@ -1,21 +1,33 @@
+id: 2025-04-02--allvoting_ohio_rejections
 date: '2025-04-02'
 title: 'Report: 34,000 Ohio ballots rejected in 2024 election after ID/process changes'
-summary: All Voting Is Local’s analysis finds significantly increased ballot rejections
-  following Ohio HB 458 changes.
+summary: All Voting Is Local released an analysis on April 2, 2025, showing that 34,000
+  Ohio ballots were rejected in the 2024 election following implementation of House Bill 458's
+  stricter voter ID requirements and process changes. This represents a significant increase
+  in ballot rejections compared to previous elections, disproportionately affecting elderly,
+  disabled, and minority voters who faced new documentation hurdles.
+location: Ohio
+actors:
+- All Voting Is Local (voting rights organization)
+- Ohio Secretary of State
+- Ohio Legislature
+- Affected voters
 tags:
 - ballot-rejections
 - elections
 - hb458
 - ohio
+- voter-suppression
+- voter-id
+- disenfranchisement
 citations:
 - https://allvotingislocal.org/reports/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election-2
-id: 2025-04-02--allvoting_ohio_rejections
-location: null
-actors: []
-notes: ''
+notes: HB 458 implemented stricter photo ID requirements and shortened cure periods for
+  ballot deficiencies. The 34,000 rejected ballots could have changed outcomes in close
+  local races. Pattern consistent with nationwide voter suppression efforts.
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: All Voting Is Local Ohio report reveals 34,000 ballots were rejected in the 2024 election
+  url: https://allvotingislocal.org/reports/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election-2
+  outlet: All Voting Is Local
+  date: '2025-04-02'

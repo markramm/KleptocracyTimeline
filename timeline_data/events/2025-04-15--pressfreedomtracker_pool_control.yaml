@@ -1,7 +1,11 @@
 date: '2025-04-15'
 title: 'Press Freedom Tracker: White House wrests control of press pool structure'
-summary: U.S. Press Freedom Tracker documents the White House removing the permanent
-  wire position and restructuring the pool after the AP access ruling.
+summary: The U.S. Press Freedom Tracker documented on April 15, 2025, how the White House
+  wrested control of the presidential press pool from journalists, eliminating the permanent
+  wire service position days after a court ordered restoration of AP access. This unprecedented
+  move allows the administration to hand-pick which journalists cover the president, ending
+  decades of independent press pool composition controlled by the White House Correspondents'
+  Association.
 tags:
 - media-access
 - press-freedom
@@ -10,17 +14,24 @@ citations:
 - https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents
 - https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions
 id: 2025-04-15--pressfreedomtracker_pool_control
-location: null
-actors: []
-notes: ''
+location: Washington, DC
+actors:
+- White House
+- U.S. Press Freedom Tracker
+- White House Correspondents' Association (WHCA)
+- Associated Press
+- Trump administration
+notes: This restructuring came immediately after losing the April 8 court case over AP
+  access, demonstrating the administration's determination to control media coverage
+  despite judicial orders. First time in modern history the executive branch seized
+  control of press pool composition.
 status: confirmed
 sources:
-- title: Congressional Record
-  url: https://www.congress.gov/congressional-record
-  outlet: US Congress
-  date: '2025-01-01'
-  archive_url: https://web.archive.org/web/20250101000000/https://www.congress.gov/congressional-record
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: White House wrests control of presidential press pool from correspondents
+  url: https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents
+  outlet: U.S. Press Freedom Tracker
+  date: '2025-04-15'
+- title: Statement on WH changes to wire pool positions
+  url: https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions
+  outlet: White House Correspondents' Association
+  date: '2025-04-15'

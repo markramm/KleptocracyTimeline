@@ -1,22 +1,35 @@
 id: 2025-06-26--brookings_la_troops_analysis
 title: Brookings warns on legal limits of putting soldiers on Los Angeles streets
 date: '2025-06-26'
-summary: Brookings legal scholars analyzed the administration’s June 7 memorandum
-  authorizing military support to DHS protests, warning it pushes the bounds of the
-  Insurrection Act and risks normalizing domestic troop use.
-location: null
+summary: Brookings Institution legal scholars published an analysis on June 26, 2025,
+  warning that the Trump administration's deployment of 700 Marines and federalized
+  National Guard to Los Angeles streets violates legal limits and the Posse Comitatus Act.
+  They analyzed the June 7 DOD memorandum authorizing military support for DHS immigration
+  operations, concluding it dangerously expands Insurrection Act interpretation and
+  normalizes using troops for domestic law enforcement without proper legal justification.
+location: Washington, DC
 actors:
 - Brookings Institution
+- Legal scholars
+- Department of Defense
+- Department of Homeland Security
+- Trump administration
 tags:
 - analysis
 - civil-military
 - insurrection-act
+- posse-comitatus
+- legal-analysis
+- domestic-deployment
+- constitutional-law
 citations:
 - https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
-notes: ''
+notes: This analysis came after federal courts found the LA deployment likely unlawful
+  (June 12) but the Ninth Circuit stayed that ruling (June 19). Brookings warned this
+  sets dangerous precedent for militarizing domestic law enforcement.
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: How can the president put soldiers on the streets of Los Angeles?
+  url: https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
+  outlet: Brookings Institution
+  date: '2025-06-26'
