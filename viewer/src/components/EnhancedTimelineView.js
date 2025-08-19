@@ -18,17 +18,23 @@ const EnhancedTimelineView = ({
   onTagClick,
   onActorClick,
   selectedTags,
-  selectedActors
+  selectedActors,
+  timelineControls,
+  onTimelineControlsChange
 }) => {
   const timelineRef = useRef(null);
   const [visibleYears, setVisibleYears] = useState(new Set());
   const [expandedEvents, setExpandedEvents] = useState(new Set());
   const [bookmarkedEvents, setBookmarkedEvents] = useState(new Set());
-  const [showMinimap, setShowMinimap] = useState(true);
-  const [sortBy, setSortBy] = useState('date'); // date, importance
-  const [filterImportance, setFilterImportance] = useState(0); // 0 = all
-  const [compactMode, setCompactMode] = useState('medium'); // 'none', 'low', 'medium', 'all' - default to medium
   const [stickyYear, setStickyYear] = useState(null);
+  
+  // Use controls from props
+  const { compactMode, sortBy, filterImportance, showMinimap } = timelineControls || {
+    compactMode: 'medium',
+    sortBy: 'date',
+    filterImportance: 0,
+    showMinimap: true
+  };
 
   // Handle keyboard navigation
   useEffect(() => {
@@ -51,16 +57,26 @@ const EnhancedTimelineView = ({
           scrollToBottom();
           break;
         case 'm':
-          setShowMinimap(prev => !prev);
+          if (onTimelineControlsChange) {
+            onTimelineControlsChange({
+              ...timelineControls,
+              showMinimap: !showMinimap
+            });
+          }
           break;
         case 'c':
           // Cycle through compact modes
-          setCompactMode(prev => {
-            if (prev === 'none') return 'low';
-            if (prev === 'low') return 'medium';
-            if (prev === 'medium') return 'all';
-            return 'none';
-          });
+          if (onTimelineControlsChange) {
+            let nextMode = 'none';
+            if (compactMode === 'none') nextMode = 'low';
+            if (compactMode === 'low') nextMode = 'medium';
+            if (compactMode === 'medium') nextMode = 'all';
+            
+            onTimelineControlsChange({
+              ...timelineControls,
+              compactMode: nextMode
+            });
+          }
           break;
       }
     };
@@ -201,130 +217,40 @@ const EnhancedTimelineView = ({
         </div>
       )}
 
-      {/* Main Timeline */}
-      <div className="timeline-layout">
-        {/* Left Control Panel */}
-        <div className="timeline-control-panel">
-          <div className="control-section">
-            <h4>View Controls</h4>
-            
-            <div className="control-group">
-              <label>Sort</label>
-              <select 
-                value={sortBy} 
-                onChange={(e) => setSortBy(e.target.value)}
-                className="control-select"
-              >
-                <option value="date">By Date</option>
-                <option value="importance">By Importance</option>
-              </select>
-            </div>
-            
-            <div className="control-group">
-              <label>Filter</label>
-              <select 
-                value={filterImportance} 
-                onChange={(e) => setFilterImportance(Number(e.target.value))}
-                className="control-select"
-              >
-                <option value="0">All Events</option>
-                <option value="6">Important (6+)</option>
-                <option value="7">High Priority (7+)</option>
-                <option value="8">Critical (8+)</option>
-                <option value="9">Crisis (9+)</option>
-              </select>
-            </div>
-            
-            <div className="control-group">
-              <label>Display ({compactMode})</label>
-              <select 
-                value={compactMode} 
-                onChange={(e) => {
-                  console.log('Compact mode changed to:', e.target.value);
-                  setCompactMode(e.target.value);
+      {/* Main Timeline Content */}
+      <div className="timeline-scroll-container" ref={timelineRef}>
+        <div 
+          className="timeline-content"
+          style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left' }}
+        >
+          {Object.entries(timelineGroups)
+            .sort(([a], [b]) => b.localeCompare(a))
+            .map(([year, months]) => (
+              <EnhancedYearGroup
+                key={year}
+                year={year}
+                months={months}
+                onEventClick={onEventClick}
+                onTagClick={onTagClick}
+                onActorClick={onActorClick}
+                selectedTags={selectedTags}
+                selectedActors={selectedActors}
+                expandedEvents={expandedEvents}
+                setExpandedEvents={setExpandedEvents}
+                bookmarkedEvents={bookmarkedEvents}
+                onBookmark={handleBookmark}
+                onShare={shareEvent}
+                compactMode={compactMode}
+                onVisible={(visible) => {
+                  setVisibleYears(prev => {
+                    const newSet = new Set(prev);
+                    if (visible) newSet.add(year);
+                    else newSet.delete(year);
+                    return newSet;
+                  });
                 }}
-                className="control-select"
-                title="Press C to cycle"
-              >
-                <option value="none">Expand All</option>
-                <option value="low">Compact Low</option>
-                <option value="medium">Compact Med/Low</option>
-                <option value="all">Compact All</option>
-              </select>
-            </div>
-            
-            <div className="event-counter">
-              <strong>{processedEvents.length}</strong> events
-              {filterImportance > 0 && (
-                <span className="filter-info">Filtered from {events.length}</span>
-              )}
-            </div>
-          </div>
-          
-          {showMinimap && (
-            <TimelineMinimap 
-              events={processedEvents}
-              groups={timelineGroups}
-              onNavigate={(date) => {
-                // Scroll to date
-                const element = document.getElementById(`date-${date}`);
-                element?.scrollIntoView({ behavior: 'smooth', block: 'center' });
-              }}
-              onDateRangeSelect={(range) => {
-                // TODO: Pass this up to parent component for actual filtering
-                // For now, just log it
-                console.log(`Date range selected: ${range.start} to ${range.end}`);
-              }}
-            />
-          )}
-          
-          <button 
-            className="toggle-minimap-btn"
-            onClick={() => {
-              console.log('Toggling minimap from', showMinimap, 'to', !showMinimap);
-              setShowMinimap(!showMinimap);
-            }}
-            title="Toggle Minimap (M)"
-          >
-            {showMinimap ? 'Hide' : 'Show'} Minimap
-          </button>
-        </div>
-
-        {/* Timeline Content */}
-        <div className="timeline-scroll-container" ref={timelineRef}>
-          <div 
-            className="timeline-content"
-            style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left' }}
-          >
-            {Object.entries(timelineGroups)
-              .sort(([a], [b]) => b.localeCompare(a))
-              .map(([year, months]) => (
-                <EnhancedYearGroup
-                  key={year}
-                  year={year}
-                  months={months}
-                  onEventClick={onEventClick}
-                  onTagClick={onTagClick}
-                  onActorClick={onActorClick}
-                  selectedTags={selectedTags}
-                  selectedActors={selectedActors}
-                  expandedEvents={expandedEvents}
-                  setExpandedEvents={setExpandedEvents}
-                  bookmarkedEvents={bookmarkedEvents}
-                  onBookmark={handleBookmark}
-                  onShare={shareEvent}
-                  compactMode={compactMode}
-                  onVisible={(visible) => {
-                    setVisibleYears(prev => {
-                      const newSet = new Set(prev);
-                      if (visible) newSet.add(year);
-                      else newSet.delete(year);
-                      return newSet;
-                    });
-                  }}
-                />
-              ))}
-          </div>
+              />
+            ))}
         </div>
       </div>
 
@@ -714,15 +640,12 @@ const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
   const drawCanvas = useCallback(() => {
     const canvas = canvasRef.current;
     if (!canvas || years.length === 0) {
-      console.log('Canvas or years not available:', { canvas: !!canvas, yearsLength: years.length });
       return;
     }
     
     const ctx = canvas.getContext('2d');
     const width = canvas.width;
     const height = canvas.height;
-    
-    console.log(`Drawing minimap canvas: ${width}x${height}, years:`, years.length);
     
     // Clear canvas
     ctx.clearRect(0, 0, width, height);

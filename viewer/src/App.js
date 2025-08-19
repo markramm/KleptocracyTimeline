@@ -37,6 +37,14 @@ function App() {
   const [showStats, setShowStats] = useState(false);
   const [zoomLevel, setZoomLevel] = useState(1);
   
+  // Timeline view controls
+  const [timelineControls, setTimelineControls] = useState({
+    compactMode: 'medium',
+    sortBy: 'date',
+    filterImportance: 0,
+    showMinimap: true
+  });
+  
   // Metadata
   const [allTags, setAllTags] = useState([]);
   const [allActors, setAllActors] = useState([]);
@@ -138,12 +146,23 @@ function App() {
         : [...prev, actor]
     );
   }, []);
+  
+  const handleTimelineControlsChange = useCallback((newControls) => {
+    setTimelineControls(newControls);
+  }, []);
 
   const clearFilters = useCallback(() => {
     setSelectedTags([]);
     setSelectedActors([]);
     setDateRange({ start: null, end: null });
     setSearchQuery('');
+    // Reset timeline controls to defaults
+    setTimelineControls({
+      compactMode: 'medium',
+      sortBy: 'date',
+      filterImportance: 0,
+      showMinimap: true
+    });
   }, []);
 
   // Compute timeline groups for better visualization
@@ -243,6 +262,21 @@ function App() {
                 onClear={clearFilters}
                 eventCount={filteredEvents.length}
                 totalCount={events.length}
+                viewMode={viewMode}
+                timelineControls={timelineControls}
+                onTimelineControlsChange={handleTimelineControlsChange}
+                timelineData={viewMode === 'timeline' ? {
+                  events: filteredEvents,
+                  groups: timelineGroups,
+                  onNavigate: (date) => {
+                    // TODO: Implement navigation to date
+                    console.log('Navigate to date:', date);
+                  },
+                  onDateRangeSelect: (range) => {
+                    // TODO: Implement date range selection
+                    console.log('Date range selected:', range);
+                  }
+                } : null}
               />
             </motion.aside>
           )}
@@ -289,6 +323,8 @@ function App() {
               onActorClick={handleActorClick}
               selectedTags={selectedTags}
               selectedActors={selectedActors}
+              timelineControls={timelineControls}
+              onTimelineControlsChange={setTimelineControls}
             />
           )}
         </main>

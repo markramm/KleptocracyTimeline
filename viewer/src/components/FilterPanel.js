@@ -8,8 +8,12 @@ import {
   Tag, 
   RotateCcw,
   ChevronDown,
-  ChevronUp
+  ChevronUp,
+  Eye,
+  EyeOff,
+  Settings
 } from 'lucide-react';
+import TimelineMinimap from './TimelineMinimap';
 import './FilterPanel.css';
 
 const FilterPanel = ({
@@ -23,12 +27,19 @@ const FilterPanel = ({
   onDateRangeChange,
   onClear,
   eventCount,
-  totalCount
+  totalCount,
+  // Timeline view controls
+  viewMode,
+  timelineControls,
+  onTimelineControlsChange,
+  // Minimap data
+  timelineData
 }) => {
   const [expandedSections, setExpandedSections] = useState({
     tags: true,
     actors: true,
-    dates: true
+    dates: true,
+    timeline: viewMode === 'timeline'
   });
 
   const toggleSection = (section) => {
@@ -314,12 +325,112 @@ const FilterPanel = ({
             </div>
           )}
         </div>
+
+        {/* Timeline View Controls */}
+        {viewMode === 'timeline' && timelineControls && (
+          <div className="filter-section">
+            <button 
+              className="section-header"
+              onClick={() => toggleSection('timeline')}
+            >
+              <div className="header-title">
+                <Settings size={16} />
+                <span>Timeline View</span>
+              </div>
+              {expandedSections.timeline ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+            </button>
+            
+            {expandedSections.timeline && (
+              <div className="section-content">
+                <div className="control-group">
+                  <label>Display Mode</label>
+                  <select 
+                    value={timelineControls.compactMode} 
+                    onChange={(e) => onTimelineControlsChange({
+                      ...timelineControls,
+                      compactMode: e.target.value
+                    })}
+                    className="timeline-select"
+                  >
+                    <option value="none">Expand All</option>
+                    <option value="low">Compact Low Importance</option>
+                    <option value="medium">Compact Medium & Low</option>
+                    <option value="all">Compact All</option>
+                  </select>
+                </div>
+                
+                <div className="control-group">
+                  <label>Sort Events</label>
+                  <select 
+                    value={timelineControls.sortBy} 
+                    onChange={(e) => onTimelineControlsChange({
+                      ...timelineControls,
+                      sortBy: e.target.value
+                    })}
+                    className="timeline-select"
+                  >
+                    <option value="date">By Date</option>
+                    <option value="importance">By Importance</option>
+                  </select>
+                </div>
+                
+                <div className="control-group">
+                  <label>Filter by Importance</label>
+                  <select 
+                    value={timelineControls.filterImportance} 
+                    onChange={(e) => onTimelineControlsChange({
+                      ...timelineControls,
+                      filterImportance: Number(e.target.value)
+                    })}
+                    className="timeline-select"
+                  >
+                    <option value="0">All Events</option>
+                    <option value="6">Important (6+)</option>
+                    <option value="7">High Priority (7+)</option>
+                    <option value="8">Critical (8+)</option>
+                    <option value="9">Crisis (9+)</option>
+                  </select>
+                </div>
+                
+                <div className="control-group checkbox-group">
+                  <label className="checkbox-label">
+                    <input 
+                      type="checkbox" 
+                      checked={timelineControls.showMinimap}
+                      onChange={(e) => onTimelineControlsChange({
+                        ...timelineControls,
+                        showMinimap: e.target.checked
+                      })}
+                    />
+                    <span>Show Minimap</span>
+                  </label>
+                </div>
+                
+                {timelineControls.showMinimap && timelineData && (
+                  <div className="minimap-container">
+                    <TimelineMinimap 
+                      events={timelineData.events}
+                      groups={timelineData.groups}
+                      onNavigate={timelineData.onNavigate}
+                      onDateRangeSelect={timelineData.onDateRangeSelect}
+                    />
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        )}
       </div>
 
       <div className="filter-footer">
         <p className="help-text">
           Click on tags or actors in events to quickly filter
         </p>
+        {viewMode === 'timeline' && (
+          <p className="help-text">
+            Press M to toggle minimap, C to cycle display modes
+          </p>
+        )}
       </div>
     </div>
   );
