@@ -1,16 +1,15 @@
 {
-  "archived": [
+  "archived": [],
+  "failed": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
-  ],
-  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -81,27 +80,7 @@
     "https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/",
     "https://freedomhouse.org/report/freedom-world/2025/united-states",
     "https://georgiarecorder.com/2024/07/08/groups-readying-mass-voter-challenges-in-georgias-2024-elections-theres-an-app-for-that/",
-    "https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/",
-    "https://home.treasury.gov/news/press-releases/jy0126",
-    "https://home.treasury.gov/news/press-releases/tornado-cash-designation-lifted",
-    "https://kyivindependent.com/military-intelligence-russia-reportedly-buying-starlink-in-middle-east",
-    "https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine",
-    "https://laist.com/brief/news/la-immigration-raids-protests-huerta-charged",
-    "https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html",
-    "https://mitchthelawyer.substack.com/p/justin-sun-donald-trump-and-the-75",
-    "https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html",
-    "https://monitor.civicus.org/watchlist-march-2025/USA/",
-    "https://nasawatch.com/post/isaacman-nomination-withdrawn-2025",
-    "https://natlawreview.com/article/trump-revokes-biden-administrations-executive-order-antitrust-competition-other",
-    "https://news.bloomberglaw.com/litigation/musk-challenged-california-anti-deepfake-law-struck-by-judge",
-    "https://news.harvard.edu/gazette/story/2025/05/what-revoked-student-visa-status-means",
-    "https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles",
-    "https://nymag.com/nymetro/news/people/n_7912",
-    "https://oge.gov/web/oge.nsf/Resources/OGE+has+been+notified+that+the+President+is+removing+David+Huitema+as+the+Director+of+OGE.+OGE+is+reverting+to+an+Acting+Director.+Please+see+OGE's+Organizational+Leadership+webpage.++",
-    "https://ourpublicservice.org/press-release/partnership-for-public-service-releases-new-resources-measuring-the-impact-of-president-trumps-federal-government-reforms-during-first-100-days",
-    "https://oversight.house.gov/epstein-files-briefing",
-    "https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/",
-    "https://oversight.house.gov/trump-crypto-sar-request"
+    "https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/"
   ],
   "skipped": []
 }
