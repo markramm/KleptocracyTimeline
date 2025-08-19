@@ -1,8 +1,11 @@
 date: '2025-08-08'
 title: White House announces increased federal law-enforcement presence in Washington,
   D.C.
-summary: Administration outlines expanded patrols by federal agents at tourist sites
-  and transit hubs.
+summary: The Trump administration announced on August 8, 2025, an increased federal law
+  enforcement presence in Washington, D.C., with expanded patrols by federal agents at
+  tourist sites, transit hubs, and government buildings. This surge in federal forces in
+  the nation's capital follows earlier deployments to cities like Los Angeles and represents
+  part of a broader pattern of militarizing domestic law enforcement.
 tags:
 - federal-deployment
 - law-enforcement
@@ -11,8 +14,13 @@ citations:
 - https://www.reuters.com/world/us/white-house-ups-federal-law-enforcement-tourist-hot-spots-washington-dc-2025-08-08
 id: 2025-08-08--dc_federal_surge
 location: null
-actors: []
-notes: ''
+actors:
+- Trump administration
+- Department of Homeland Security
+- U.S. Marshals Service
+- Federal Protective Service
+notes: Part of broader pattern of federal force deployments to major cities, following
+  military deployments to Los Angeles and preparations for potential civil unrest.
 status: confirmed
 sources:
 - title: Congressional Record
@@ -20,7 +28,7 @@ sources:
   outlet: US Congress
   date: '2025-01-01'
   archive_url: https://web.archive.org/web/20250101000000/https://www.congress.gov/congressional-record
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: White House ups federal law enforcement at tourist hot spots in Washington DC
+  url: https://www.reuters.com/world/us/white-house-ups-federal-law-enforcement-tourist-hot-spots-washington-dc-2025-08-08
+  outlet: Reuters
+  date: '2025-08-08'

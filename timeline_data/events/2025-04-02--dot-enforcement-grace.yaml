@@ -1,17 +1,28 @@
 id: 2025-04-02--dot-enforcement-grace
 title: DOT announces enforcement grace period for new emissions standards
 date: '2025-04-02'
-summary: DOT issued an enforcement policy providing a grace period for new emissions
-  standards until Aug. 1, 2025.
+summary: The Department of Transportation announced an enforcement grace period on April 2,
+  2025, suspending enforcement of new emissions standards until August 1, 2025. This four-month
+  pause allows vehicles and equipment to operate without meeting federal emissions requirements,
+  effectively permitting increased pollution during the grace period.
 tags:
 - guidance
 - dot
 - enforcement
+- emissions
+- environmental-rollback
+- regulatory-pause
+- climate-policy
 citations:
 - https://www.transportation.gov/briefing-room/enforcement-policy-grace-period-through-august-1-2025
+actors:
+- Department of Transportation
+- Trump administration
+notes: Part of broader pattern of environmental deregulation, allowing industries to bypass
+  emissions standards with temporary enforcement suspensions.
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Enforcement Policy Grace Period Through August 1, 2025
+  url: https://www.transportation.gov/briefing-room/enforcement-policy-grace-period-through-august-1-2025
+  outlet: Department of Transportation
+  date: '2025-04-02'
