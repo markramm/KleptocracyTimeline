@@ -1,24 +1,35 @@
 id: 2017-2021-ice-shadow-detention-network
 date: '2017-01-01'
 title: ICE operates 1,000+ undisclosed detention sites in shadow network
-summary: ICE held detainees in over 1,000 facilities never publicly acknowledged,
-  ranging from hotels to military bases, operating hidden from public oversight with
-  systematic constitutional violations.
+summary: Between 2017-2021, ICE expanded its detention network through 40 new contracts and
+  agreements with minimal documentation or oversight. GAO found 28 of 40 facilities lacked proper
+  documentation showing need or local outreach. ICE used intergovernmental service agreements
+  to bypass procurement laws, paying $20.5 million monthly for 12,000+ unused beds by May 2020.
+  The network included family residential centers, hotels for transport, and facilities operated
+  900 miles from their contracting cities. Officers reported management hindered independent
+  oversight of detention contracts.
 location: United States
 actors:
 - ICE
-- Private contractors
-- Detainees
+- Private contractors (CoreCivic)
+- Department of Homeland Security
+- U.S. Marshals Service
+- State and local governments
+- Government Accountability Office
 tags:
-- hidden-detention
-- constitutional-violations
+- detention-network
+- procurement-violations
 - immigration-enforcement
-- shadow-operations
+- igsa-contracts
+- guaranteed-minimums
+- oversight-failure
 sources:
-- title: Government watchdog ICE detention report
+- title: 'Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight'
   url: https://www.gao.gov/products/gao-21-149
   outlet: Government Accountability Office
-  date: '2021-01-28'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.gao.gov/products/gao-21-149
-notes: Massive hidden detention network operating without oversight
+  date: '2021-02-12'
+notes: ICE increased contracts with guaranteed minimums by 38% from FY2017-2019. City of Eloy,
+  Arizona collected $400,000/year for a detention center 900 miles away in Texas, with CoreCivic
+  receiving $261 million from 2014-2016. DHS Inspector General found South Texas Family
+  Residential Center IGSA improper under federal procurement law.
 status: confirmed
