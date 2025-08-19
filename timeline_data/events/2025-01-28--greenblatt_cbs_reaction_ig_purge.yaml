@@ -1,23 +1,33 @@
 id: 2025-01-28--greenblatt_cbs_reaction_ig_purge
 title: 'Interior IG Mark Greenblatt reacts to firing: ''stunned'''
 date: '2025-01-28'
-summary: Days after being removed in the late‑January inspector general firings, Interior
-  IG Mark Greenblatt told CBS News he was 'stunned' and questioned the President’s
-  motives.
-location: null
+summary: Interior Inspector General Mark Greenblatt told CBS News on January 28, 2025,
+  that he was "stunned" by his firing as part of Trump's Friday night purge of 15
+  inspectors general on January 24. Greenblatt, who had served under both Trump and
+  Biden administrations, questioned the President's motives for the unprecedented
+  mass firing of independent watchdogs responsible for investigating fraud, waste,
+  and abuse in federal agencies.
+location: Washington, DC
 actors:
-- Mark Greenblatt
+- Mark Greenblatt (Interior Department IG)
 - CBS News
+- Donald Trump
+- Department of Interior
 tags:
-- igs
+- inspector-general
 - media
 - watchdogs
+- friday-night-massacre
+- interior-department
+- government-accountability
 citations:
 - https://www.cbsnews.com/news/inspector-general-mark-greenblatt-trump-firings-interview
-notes: If CBS changes URL, reference CBS News video segment aired late Jan 2025.
+notes: Greenblatt was one of 15 IGs fired without cause on Jan 24, 2025, in violation
+  of 30-day congressional notification requirement. He had previously served as Interior
+  IG during Trump's first term without incident, suggesting political motives for removal.
 status: confirmed
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Inspector General Mark Greenblatt speaks out after Trump firing
+  url: https://www.cbsnews.com/news/inspector-general-mark-greenblatt-trump-firings-interview
+  outlet: CBS News
+  date: '2025-01-28'
