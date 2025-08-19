@@ -7,6 +7,7 @@ import EventDetails from './components/EventDetails';
 import StatsPanel from './components/StatsPanel';
 import SearchBar from './components/SearchBar';
 import ViewToggle from './components/ViewToggle';
+import NetworkGraph from './components/NetworkGraph';
 import { API_ENDPOINTS, transformStaticData } from './config';
 import { 
   Filter, 
@@ -273,17 +274,23 @@ function App() {
             </div>
           </div>
 
-          <TimelineView
-            events={filteredEvents}
-            groups={timelineGroups}
-            viewMode={viewMode}
-            zoomLevel={zoomLevel}
-            onEventClick={handleEventClick}
-            onTagClick={handleTagClick}
-            onActorClick={handleActorClick}
-            selectedTags={selectedTags}
-            selectedActors={selectedActors}
-          />
+          {viewMode === 'graph' ? (
+            <NetworkGraph 
+              events={filteredEvents}
+            />
+          ) : (
+            <TimelineView
+              events={filteredEvents}
+              groups={timelineGroups}
+              viewMode={viewMode}
+              zoomLevel={zoomLevel}
+              onEventClick={handleEventClick}
+              onTagClick={handleTagClick}
+              onActorClick={handleActorClick}
+              selectedTags={selectedTags}
+              selectedActors={selectedActors}
+            />
+          )}
         </main>
 
         <AnimatePresence>
