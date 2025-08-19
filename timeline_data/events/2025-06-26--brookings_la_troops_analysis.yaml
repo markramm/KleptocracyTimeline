@@ -1,12 +1,12 @@
 id: 2025-06-26--brookings_la_troops_analysis
 title: Brookings warns on legal limits of putting soldiers on Los Angeles streets
 date: '2025-06-26'
-summary: Brookings Institution legal scholars published an analysis on June 26, 2025,
-  warning that the Trump administration's deployment of 700 Marines and federalized
-  National Guard to Los Angeles streets violates legal limits and the Posse Comitatus Act.
-  They analyzed the June 7 DOD memorandum authorizing military support for DHS immigration
-  operations, concluding it dangerously expands Insurrection Act interpretation and
-  normalizes using troops for domestic law enforcement without proper legal justification.
+summary: Brookings June 26, 2025, analysis warned Trump's deployment of 700 Marines and
+  4,000 federalized National Guard to LA violates Posse Comitatus Act. Trump invoked 10 USC
+  §12406 (not Insurrection Act) claiming "inherent constitutional authority" to protect
+  federal property. California alleged violations: Guard accompanied ICE on 75% of missions,
+  formed security perimeters, detained civilians. Ninth Circuit accepted Trump's "unable
+  with regular forces" claim despite no evidence ICE raids were thwarted.
 location: Washington, DC
 actors:
 - Brookings Institution
@@ -24,12 +24,27 @@ tags:
 - constitutional-law
 citations:
 - https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
-notes: This analysis came after federal courts found the LA deployment likely unlawful
-  (June 12) but the Ninth Circuit stayed that ruling (June 19). Brookings warned this
-  sets dangerous precedent for militarizing domestic law enforcement.
+notes: 'OLC claims Posse Comitatus doesn''t apply when protecting federal property, but
+  courts say PCA triggered when troops subject civilians to "regulatory, prescriptive, or
+  compulsory" military power. No court has addressed if §12406 allows Guard law enforcement.
+  Ninth Circuit applied "extremely deferential standard" in Trump''s favor. Newsom sued
+  alleging PCA violations. Brennan Center: deployment "legally dubious." Rolling Stone:
+  "Absolutely unprecedented." Key legal questions remain unanswered.'
 status: confirmed
 sources:
-- title: How can the president put soldiers on the streets of Los Angeles?
+- title: "How can the president put soldiers on the streets of Los Angeles?"
   url: https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
   outlet: Brookings Institution
   date: '2025-06-26'
+- title: "What to Know About the Los Angeles Military Deployment"
+  url: https://www.brennancenter.org/our-work/research-reports/what-know-about-los-angeles-military-deployment
+  outlet: Brennan Center for Justice
+  date: '2025-06-25'
+- title: "Is Donald Trump's Troop Deployment to Los Angeles Legal?"
+  url: https://www.rollingstone.com/politics/politics-features/trump-troop-deployment-los-angeles-is-it-legal-1235364017/
+  outlet: Rolling Stone
+  date: '2025-06-10'
+- title: "5 things to know as Newsom and Trump go back to court over the National Guard in LA"
+  url: https://calmatters.org/justice/2025/08/newsom-vs-trump-national-guard/
+  outlet: CalMatters
+  date: '2025-08-11'

@@ -1,11 +1,12 @@
 id: 2025-06-22--iran-strikes-saudi-business-benefits
 date: '2025-06-22'
 title: Iran Nuclear Strikes Deliver Strategic Benefits to Saudi Business Partners
-summary: Trump's June 2025 military strikes on Iranian nuclear facilities delivered
-  optimal strategic outcomes for Saudi Arabia while Trump maintained $530 million
-  in current Saudi business relationships, creating textbook emoluments violations
-  where foreign business interests potentially influenced presidential war powers
-  decisions.
+summary: Trump ordered Operation Midnight Hammer strikes on June 21-22, 2025, hitting
+  Iran's Fordow, Natanz, Isfahan nuclear sites with B-2 bombers carrying 14 GBU-57 30,000-lb
+  bunker busters and submarine Tomahawks. Strikes benefited Saudi strategic interests while
+  Trump maintained business ties. Saudi Arabia, UAE surprisingly condemned strikes as "violation
+  of sovereignty," citing business disruption concerns. DIA assessed strikes set Iran program
+  back "few months," not "obliterated."
 location: Iran, Middle East
 actors:
 - Donald Trump
@@ -22,15 +23,25 @@ tags:
 - constitutional_crisis
 status: confirmed
 sources:
-- title: Constitutional Crisis Assessment The Convergence of Foreign Emoluments, Federal
-    Overreach, and Popular Resistance
-  url: https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html
-  outlet: Washington Post
+- title: "U.S. warplanes strike three Iranian nuclear sites in sweeping attack"
+  url: https://www.washingtonpost.com/national-security/2025/06/21/b-2-bombers-iran-trump/
+  outlet: The Washington Post
+  date: '2025-06-21'
+- title: "U.S. launches strikes on 3 Iranian nuclear facilities, Trump says"
+  url: https://www.cbsnews.com/news/u-s-launches-strikes-iranian-nuclear-facilities-trump-says/
+  outlet: CBS News
   date: '2025-06-22'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
-notes: This represents the convergence of foreign business interests and presidential
-  military action that constitutional scholars identify as the most dangerous form
-  of corruption the Framers sought to prevent through emoluments prohibitions. Constitutional
-  Crisis Assessment identifies this as "textbook emoluments problem" representing
-  "exactly what the Framers feared" - foreign financial relationships potentially
-  compromising presidential judgment on matters of war and peace.
+- title: "Arab Gulf states fear cost of U.S. strikes on Iran's nuclear sites"
+  url: https://www.washingtonpost.com/world/2025/06/22/iran-strikes-arab-gulf-reaction/
+  outlet: The Washington Post
+  date: '2025-06-22'
+- title: "Inside Trump's Strike on Iran's Nuclear Program"
+  url: https://www.csis.org/analysis/inside-trumps-strike-irans-nuclear-program
+  outlet: CSIS
+  date: '2025-06-23'
+notes: 'Gulf states previously pushed Trump for new nuclear deal, not strikes. Saudi-Iran
+  restored diplomatic ties 2023 after China-brokered talks. 2019 Iran attack on Saudi oil
+  facilities was "turning point" pushing Saudis toward detente. Gulf states feared strikes
+  would disrupt oil production, block Strait of Hormuz shipping. Renad Mansour (Chatham House):
+  "The gulf largely has a business-first mindset, and instability is bad for business." Iran
+  threatened retaliation against US troops in Bahrain, Iraq, Kuwait, Saudi, UAE.'

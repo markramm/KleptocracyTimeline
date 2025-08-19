@@ -1,15 +1,16 @@
 {
-  "archived": [],
-  "failed": [
+  "archived": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
+  ],
+  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -40,7 +41,37 @@
     "https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders",
     "https://cloudfront-files-1.publicintegrity.org/legacy_projects/pdf_reports/THETORTURERSLOBBY.pdf",
     "https://cointelegraph.com/news/trump-calls-bitcoin-a-scam-advocates-for-dollar-hegemony",
-    "https://constitutioncenter.org/blog/looking-back-at-the-church-committee"
+    "https://constitutioncenter.org/blog/looking-back-at-the-church-committee",
+    "https://corpgov.law.harvard.edu/2024/07/11/jarkesy-supreme-court-ruling-limits-secs-enforcement-authority/",
+    "https://corpgov.law.harvard.edu/2025/02/24/takeaways-from-the-pause-on-foreign-corrupt-practices-act-enforcement/",
+    "https://cossa.org/president-trump-rescinds-executive-orders-impacting-executive-personnel-ethics-commitments-and-census-parameters/",
+    "https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests",
+    "https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests/",
+    "https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/",
+    "https://decrypt.co/117317/donald-trump-nft-collection-crypto-cant-even",
+    "https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations",
+    "https://decrypt.co/319837/house-democrats-treasury-reports-trump-crypto",
+    "https://democracyforward.org/updates/fbi-epstein-foia/",
+    "https://dossier.center/jeffreyepsteinrusconnect-en",
+    "https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs",
+    "https://en.wikipedia.org/wiki/2025_shootings_of_Minnesota_legislators",
+    "https://en.wikipedia.org/wiki/Anna_Chapman",
+    "https://en.wikipedia.org/wiki/Black,_Manafort,_Stone_and_Kelly",
+    "https://en.wikipedia.org/wiki/Federal_government_hiring_2025",
+    "https://en.wikipedia.org/wiki/Kingdom_5KR",
+    "https://en.wikipedia.org/wiki/Kroll_Inc.",
+    "https://en.wikipedia.org/wiki/Maison_de_L'Amitie",
+    "https://en.wikipedia.org/wiki/Operation_Berkshire",
+    "https://en.wikipedia.org/wiki/Project_2025",
+    "https://en.wikipedia.org/wiki/Siege:_Trump_Under_Fire",
+    "https://en.wikipedia.org/wiki/Stansfield_Turner",
+    "https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year",
+    "https://federalnewsnetwork.com/unions/2025/08/epa-terminates-federal-union-contracts-effective-immediately/",
+    "https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/",
+    "https://federalnewsnetwork.com/workforce/2025/02/deferred-resignation-program",
+    "https://federalnewsnetwork.com/workforce/2025/08/cfpb-can-proceed-with-mass-layoffs-federal-appeals-court-rules/",
+    "https://finance.yahoo.com/news/saudi-prince-helped-save-trump-170443885.html",
+    "https://finance.yahoo.com/news/trump-administrations-billionaires-worth-more-174500773.html"
   ],
   "skipped": []
 }
