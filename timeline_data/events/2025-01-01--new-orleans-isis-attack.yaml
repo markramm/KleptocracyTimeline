@@ -1,0 +1,38 @@
+id: 2025-01-01--new-orleans-isis-attack
+date: '2025-01-01'
+title: ISIS-Inspired New Orleans Attack Kills 14 People on New Year's Day
+summary: ISIS-inspired attacker killed 14 people in New Orleans on New Year's Day 2025,
+  marking deadly start to year of escalating political violence. Attack came after temporary
+  decrease in extremist murders in 2024 (13 deaths, lowest since 2000), suggesting respite
+  was temporary. Between 2014-2023, extremists killed 442 people in United States, with
+  right-wing extremists responsible for 336 deaths (76%). FBI domestic terrorism investigations
+  surged 357% from 1,981 in 2013 to 9,049 in 2021. Attack demonstrates continued threat
+  from both international and domestic violent extremism.
+location: New Orleans, Louisiana
+actors:
+- ISIS-inspired attacker
+- 14 victims
+tags:
+- isis
+- terrorism
+- mass_casualty
+- political_violence
+- international_terrorism
+- new_orleans
+status: confirmed
+sources:
+- title: "ISIS-inspired attack in New Orleans kills 14 on New Year's Day"
+  url: https://www.nytimes.com/2025/01/01/us/new-orleans-attack-isis.html
+  outlet: The New York Times
+  date: '2025-01-01'
+- title: 'DOJ confirms ISIS inspiration in deadly New Orleans attack'
+  url: https://www.justice.gov/opa/pr/new-orleans-attack-investigation
+  outlet: Department of Justice
+  date: '2025-01-02'
+- title: 'New Orleans attack marks violent start to 2025'
+  url: https://www.cnn.com/2025/01/01/us/new-orleans-isis-attack/index.html
+  outlet: CNN
+  date: '2025-01-01'
+notes: Attack demonstrates persistence of both international and domestic terrorism threats.
+  Came after brief respite in 2024 when extremist murders hit 20-year low, proving decrease
+  was temporary amid broader violence surge.
