@@ -1,4 +1,5 @@
 date: '2025-08-04'
+importance: 6
 title: Washington Post tests Meta's replacement for political fact-checking
 summary: Washington Post columnist tested Meta's Community Notes with 65 draft notes, finding system 'failed to make a dent' in addressing falsehoods. Testing revealed 73% of political notes never display, 500-character limits, and no A/B testing versus fact-checkers before April 7 shutdown.
 tags:

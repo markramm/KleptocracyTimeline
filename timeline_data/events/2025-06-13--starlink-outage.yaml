@@ -1,6 +1,7 @@
 id: 2025-06-13--starlink-outage
 title: Starlink global outage caused by configuration change
 date: '2025-06-13'
+importance: 6
 summary: Starlink suffered a global outage attributed to a configuration change, disrupting
   connectivity for users worldwide.
 tags:

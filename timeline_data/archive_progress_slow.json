@@ -1,16 +1,15 @@
 {
-  "archived": [
+  "archived": [],
+  "failed": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
-  ],
-  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -231,7 +230,27 @@
     "https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress",
     "https://www.cnn.com/us/live-news/minnesota-lawmaker-shootings-06-15-25/index.html",
     "https://www.coindesk.com/policy/2025/01/20/justin-sun-white-house-dinner",
-    "https://www.coindesk.com/policy/2025/05/14/top-democrats-demand-treasury-info-on-trumps-crypto-deals-citing-bribery-risks"
+    "https://www.coindesk.com/policy/2025/05/14/top-democrats-demand-treasury-info-on-trumps-crypto-deals-citing-bribery-risks",
+    "https://www.coindesk.com/web3/2022/12/15/trump-announces-99-digital-trading-card-nfts",
+    "https://www.commondreams.org/opinion/tariffs-economy-of-obedience",
+    "https://www.congress.gov/bill/117th-congress/ig-protection-act",
+    "https://www.congress.gov/congressional-record",
+    "https://www.congress.gov/member/mikie-sherrill",
+    "https://www.congresswoman-sherrill.com/starlink-contracts",
+    "https://www.corporatesecuritieslawblog.com/crypto-enforcement-dissolved",
+    "https://www.courthousenews.com/appeals-court-stays-order-halting-national-guard-in-los-angeles",
+    "https://www.courthousenews.com/california-gets-a-win-in-challenge-to-national-guard-deployment",
+    "https://www.courthousenews.com/federal-judge-rebukes-california-laws-targeting-misinformation",
+    "https://www.crunchbase.com/acquisition/marsh-mclennan-companies-inc-acquires-kroll--d66c9eb9",
+    "https://www.cryptoforinnovation.org/trumps-crypto-appointments-key-leaders-in-the-administration/",
+    "https://www.dcbar.org/election-results-2025",
+    "https://www.dcd.uscourts.gov/content/judge-cooper-opinions",
+    "https://www.defense.gov/News/Releases/california-guard-federalization",
+    "https://www.defense.gov/News/faithful-patriot",
+    "https://www.defense.gov/News/operation-guardian-support",
+    "https://www.defenseone.com/policy/2025/01/border-declaration-terrorist-designations-would-unlock-new-optionsand-new-risks/402352/",
+    "https://www.democracydocket.com/news-alerts/georgia-supreme-court-blocks-state-election-boards-anti-voting-rules/",
+    "https://www.democracyforward.org/overtime-analysis"
   ],
   "skipped": []
 }
