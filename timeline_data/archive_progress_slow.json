@@ -1,15 +1,16 @@
 {
-  "archived": [],
-  "failed": [
+  "archived": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
+  ],
+  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -60,7 +61,37 @@
     "https://en.wikipedia.org/wiki/Kingdom_5KR",
     "https://en.wikipedia.org/wiki/Kroll_Inc.",
     "https://en.wikipedia.org/wiki/Maison_de_L'Amitie",
-    "https://en.wikipedia.org/wiki/Operation_Berkshire"
+    "https://en.wikipedia.org/wiki/Operation_Berkshire",
+    "https://en.wikipedia.org/wiki/Project_2025",
+    "https://en.wikipedia.org/wiki/Siege:_Trump_Under_Fire",
+    "https://en.wikipedia.org/wiki/Stansfield_Turner",
+    "https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year",
+    "https://federalnewsnetwork.com/unions/2025/08/epa-terminates-federal-union-contracts-effective-immediately/",
+    "https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/",
+    "https://federalnewsnetwork.com/workforce/2025/02/deferred-resignation-program",
+    "https://federalnewsnetwork.com/workforce/2025/08/cfpb-can-proceed-with-mass-layoffs-federal-appeals-court-rules/",
+    "https://finance.yahoo.com/news/saudi-prince-helped-save-trump-170443885.html",
+    "https://finance.yahoo.com/news/trump-administrations-billionaires-worth-more-174500773.html",
+    "https://fortune.com/2025/02/26/elon-musk-companies-billion-government-funding-tesla-spacex-doge/",
+    "https://fortune.com/2025/03/13/bitcoin-trump-cabinet-finance-disclosures-digital-crypto-bessent-rfk-gabbard/",
+    "https://fortune.com/2025/04/09/securities-exchange-commission-elon-musk-lawsuit-twitter-x-resign-concerns/",
+    "https://fortune.com/2025/05/07/melania-trump-memecoin-anonymous-traders-100-million-payday/",
+    "https://fortune.com/article/doge-mass-federal-workforce-cuts-taxpayers-billions",
+    "https://fortune.com/crypto/2025/03/18/trump-backed-world-liberty-financial-raises-550-million-token-sales/",
+    "https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/",
+    "https://freedomhouse.org/report/freedom-world/2025/united-states",
+    "https://georgiarecorder.com/2024/07/08/groups-readying-mass-voter-challenges-in-georgias-2024-elections-theres-an-app-for-that/",
+    "https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/",
+    "https://home.treasury.gov/news/press-releases/jy0126",
+    "https://home.treasury.gov/news/press-releases/tornado-cash-designation-lifted",
+    "https://kyivindependent.com/military-intelligence-russia-reportedly-buying-starlink-in-middle-east",
+    "https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine",
+    "https://laist.com/brief/news/la-immigration-raids-protests-huerta-charged",
+    "https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html",
+    "https://mitchthelawyer.substack.com/p/justin-sun-donald-trump-and-the-75",
+    "https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html",
+    "https://monitor.civicus.org/watchlist-march-2025/USA/",
+    "https://nasawatch.com/post/isaacman-nomination-withdrawn-2025"
   ],
   "skipped": []
 }

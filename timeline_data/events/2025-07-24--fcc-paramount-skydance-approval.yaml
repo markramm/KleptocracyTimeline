@@ -16,19 +16,27 @@ tags:
 - merger
 - telecommunications
 - broadcast-ownership
-citations:
-- 'FCC — FCC Approves Skydance''s Acquisition of Paramount/CBS (News release; Jul
-  24, 2025) and docket page (MB Docket 24‑275): https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs'
-- 'Reuters — US clears way for $8B Paramount–Skydance merger; ~250‑day review (Jul
-  25, 2025): https://www.reuters.com/sustainability/boards-policy-regulation/us-clears-way-8-billion-paramount-skydance-merger-2025-07-25/'
-- 'Bloomberg — Skydance''s merger with Paramount wins FCC approval (Jul 24, 2025):
-  https://www.bloomberg.com/news/articles/2025-07-24/skydance-s-merger-with-paramount-global-wins-fcc-s-approval'
-- 'FCC — Commissioner Anna M. Gomez Statement/Dissent (Jul 24, 2025): https://www.fcc.gov/document/fcc-approves-skydance-paramount-cbs-transaction/gomez-statement'
-notes: Major media consolidation approved despite extended review period, with dissenting
-  opinion from Commissioner Gomez raising concerns.
+notes: 'David Ellison (son of Oracle''s Larry Ellison, Trump ally) takes control of CBS, Paramount+,
+  MTV, Comedy Central, Nickelodeon. Skydance committed to eliminate all DEI initiatives, hire
+  CBS News ombudsman for bias monitoring. Paramount paid $16M toward Trump library to resolve
+  CBS lawsuit. Gomez dissent: "vast power to pressure Paramount...never-before-seen controls
+  over newsroom decisions...direct violation of First Amendment." Carr: "Americans no longer
+  trust legacy media." Extended review despite dissenting opinion.'
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: "FCC approves $8 billion Paramount-Skydance merger after lengthy review"
+  url: https://www.washingtonpost.com/business/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger-after-lengthy-review/
+  outlet: Washington Post
+  date: '2025-07-24'
+- title: "FCC approves Paramount Skydance merger after concessions"
+  url: https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves
+  outlet: NPR
+  date: '2025-07-24'
+- title: "FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges"
+  url: https://variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/
+  outlet: Variety
+  date: '2025-07-24'
+- title: "FCC Commissioner Slams Paramount's New 'Truth Arbiter' for the Trump Regime"
+  url: https://gizmodo.com/fcc-commissioner-slams-paramounts-new-truth-arbiter-for-the-trump-regime-2000640818
+  outlet: Gizmodo
+  date: '2025-07-24'
 status: confirmed
