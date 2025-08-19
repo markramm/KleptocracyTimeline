@@ -1,15 +1,16 @@
 {
-  "archived": [],
-  "failed": [
+  "archived": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
+  ],
+  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -110,7 +111,32 @@
     "https://publicintegrity.org/politics/on-paul-manafort-and-foreign-lobbying-a-qa-with-the-author-of-the-torturers-lobby",
     "https://qz.com/1178875/trump-sold-1-5-billion-of-condos-to-potential-money-launderers",
     "https://reason.com/2024/10/25/how-to-avoid-paying-tariffs-have-a-friend-in-washington",
-    "https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts"
+    "https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts",
+    "https://rsf.org/en/usa-rsf-condemns-wave-violence-against-journalists-covering-los-angeles-protests",
+    "https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies",
+    "https://supreme.justia.com/cases/federal/us/602/23-235",
+    "https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost",
+    "https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content",
+    "https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads",
+    "https://techcrunch.com/2024/08/13/us-appeals-court-rules-geofence-warrants-are-unconstitutional",
+    "https://techcrunch.com/2025/07/09/musk-grok-epstein-flight-logs-trump/",
+    "https://thehill.com/homenews/administration/5136935-trump-fires-oge-chief/",
+    "https://thehill.com/homenews/administration/doj-epstein-client-list-memo",
+    "https://thehill.com/homenews/campaign/5275679-federal-election-commission-resignation-quorum/",
+    "https://thehill.com/lobbying/5101352-trump-axes-biden-era-ethics-order-lobbying-restrictions/",
+    "https://thehill.com/policy/energy-environment/5444115-epa-union-fight-court/",
+    "https://time.com/2025/08/fema-elimination-announcement",
+    "https://time.com/7209901/donald-trump-executive-actions-project-2025/",
+    "https://time.com/7266334/us-human-rights-watchlist-civil-liberties/",
+    "https://tracreports.org/whatsnew/email.250801.html",
+    "https://trumpfile.org/trump-epstein-mansion/",
+    "https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-reducing-regulation-controlling-regulatory-costs/",
+    "https://unlimitedhangout.com/2020/07/reports/alleged-salas-family-assailant-previously-worked-for-us-israeli-intelligence-linked-firm",
+    "https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions",
+    "https://wikispooks.com/wiki/Kroll_Inc.",
+    "https://www.aau.edu/newsroom/press-releases/aau-calls-transparency-reports-student-visa-revocations",
+    "https://www.aclu.org/news/education-department-cuts",
+    "https://www.aclu.org/press-releases/federal-court-blocks-trump-birthright-citizenship-executive-order"
   ],
   "skipped": []
 }
