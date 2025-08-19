@@ -96,6 +96,7 @@ lerna-debug.log*
 *.db
 
 # Documentation build
+# NOTE: docs/ folder is NOT ignored - it contains GitHub Pages site
 docs/_build/
 site/
 
@@ -123,6 +124,7 @@ viewer/.env.local
 # API specific
 api/__pycache__/
 api/*.pyc
+api/static_api/
 
 # Archive downloads (temporary)
 tools/archiving/downloads/

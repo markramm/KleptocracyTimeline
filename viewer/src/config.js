@@ -2,49 +2,45 @@
 // Automatically detects if running locally or on GitHub Pages
 
 const isDevelopment = process.env.NODE_ENV === 'development';
-const isGitHubPages = window.location.hostname.includes('github.io');
+const isGitHubPages = window.location.hostname.includes('github.io') || 
+                     window.location.pathname.includes('/kleptocracy-timeline');
 
 // Base URL configuration
 const getBaseUrl = () => {
   if (isDevelopment) {
     // Local development - use static JSON server
     return 'http://localhost:8081';
-  } else if (isGitHubPages) {
-    // GitHub Pages - use static JSON files
-    return `${window.location.origin}${process.env.PUBLIC_URL || ''}`;
   } else {
-    // Other production deployments
-    return process.env.REACT_APP_API_URL || window.location.origin;
+    // Production - always use relative paths for static files
+    // This works for GitHub Pages, local file://, and any static hosting
+    return '';
   }
 };
 
 const BASE_URL = getBaseUrl();
 
 // API endpoint configuration
+// In production, all files are served from /api/ folder relative to the app
 export const API_ENDPOINTS = {
   timeline: isDevelopment
     ? `${BASE_URL}/timeline.json`
-    : isGitHubPages 
-    ? `${BASE_URL}/timeline_index.json`
-    : `${BASE_URL}/api/timeline`,
+    : `${BASE_URL}/api/timeline.json`,
   
   tags: isDevelopment
     ? `${BASE_URL}/tags.json`
-    : isGitHubPages
-    ? `${BASE_URL}/api/tags.json`
-    : `${BASE_URL}/api/tags`,
+    : `${BASE_URL}/api/tags.json`,
   
   actors: isDevelopment
     ? `${BASE_URL}/actors.json`
-    : isGitHubPages
-    ? `${BASE_URL}/api/actors.json`
-    : `${BASE_URL}/api/actors`,
+    : `${BASE_URL}/api/actors.json`,
   
   stats: isDevelopment
     ? `${BASE_URL}/stats.json`
-    : isGitHubPages
-    ? `${BASE_URL}/api/stats.json`
-    : `${BASE_URL}/api/stats`,
+    : `${BASE_URL}/api/stats.json`,
+  
+  monitoring: isDevelopment
+    ? `${BASE_URL}/monitoring.json`
+    : `${BASE_URL}/api/monitoring.json`,
   
   // Raw data URL for GitHub
   rawData: `https://raw.githubusercontent.com/${process.env.REACT_APP_REPO || 'yourusername/kleptocracy-timeline'}/main/timeline_data`
