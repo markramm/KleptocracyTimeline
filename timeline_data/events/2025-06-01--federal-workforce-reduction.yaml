@@ -1,23 +1,39 @@
 id: 2025-06-01--federal-workforce-reduction
 date: '2025-06-01'
 title: Federal workforce shrinks by 59,000 jobs with 154,000 on paid leave
-summary: Federal workforce reduced by 59,000 jobs as of June 2025, with additional
-  154,000 employees on paid administrative leave through deferred resignation program
-  designed to accelerate exodus of career officials.
+summary: Department of Labor reported 59,000 federal jobs eliminated by June 2025
+  under DOGE initiative, with additional 154,000 employees (6% of 2.3 million civilian
+  workforce) participating in deferred resignation program paying full salary and
+  benefits through September 30, 2025 to accelerate exodus of career officials.
 location: Washington, DC
 actors:
 - Trump administration
+- DOGE (Department of Government Efficiency)
+- Elon Musk
+- Office of Personnel Management
+- Department of Labor
 - Federal employees
-- OMB
 tags:
 - federal-workforce
 - workforce-reduction
 - civil-service
 - project-2025
 sources:
-- title: Federal workforce shrinks dramatically
-  url: https://www.federalnewsnetwork.com/workforce/2025/06/federal-workforce-reduction
+- title: "Officially, 59,000 federal jobs are gone under Trump. There's more to the picture"
+  url: https://www.npr.org/2025/06/04/nx-s1-5421277/trump-federal-workers-layoffs-doge
+  outlet: NPR
+  date: '2025-06-04'
+- title: "Federal government paying 154,000 people not to work"
+  url: https://abcnews.go.com/Politics/federal-government-paying-154000-people-work/story?id=124249462
+  outlet: ABC News
+  date: '2025-07-31'
+- title: "At least 148,000 federal employees have left government under Trump, good government group reports"
+  url: https://www.govexec.com/workforce/2025/08/least-148000-federal-employees-have-left-government-under-trump-good-government-group-reports/407171/
+  outlet: Government Executive
+  date: '2025-08-01'
+- title: "Competing numbers emerge on federal workforce reductions"
+  url: https://federalnewsnetwork.com/federal-report/2025/08/competing-numbers-emerge-on-federal-workforce-reductions/
   outlet: Federal News Network
-  date: '2025-06-01'
-notes: Systematic purge of career civil servants per Project 2025 blueprint
+  date: '2025-08-04'
+notes: Labor Department confirmed 59,000 jobs lost by June 4, 2025, with 22,000 in May alone. OPM confirmed 154,000 employees opted into deferred resignation program (6% of civilian workforce), receiving full pay/benefits through fiscal year end Sept 30. Partnership for Public Service tracking shows 148,000 total separations by July 21.
 status: confirmed
