@@ -2,7 +2,26 @@
 
 ## Overview
 
-This directory contains 303+ chronological timeline events documenting kleptocratic capture patterns and democratic system failures from 1972 to present. Each event is stored as a YAML file with structured metadata, source citations, and verification status.
+This directory contains 318+ chronological timeline events documenting kleptocratic capture patterns and democratic system failures from 1972 to present. Each event is stored as a YAML file with structured metadata, source citations, and verification status.
+
+## 🗺️ Critical Project Resources Map
+
+### Primary Working Directories
+- **`/timeline_data/events/`** - 318+ YAML event files (main data)
+- **`/timeline_data/`** - Validation scripts and documentation
+- **`/DemocracyResearchDocs/queue/`** - PDFs to process (2 remaining)
+- **`/DemocracyResearchDocs/completed/`** - Processed PDFs (4 completed)
+
+### Key Scripts & Tools
+- **`validate_yaml.py`** - ⚠️ RUN FREQUENTLY - Validates all YAML syntax
+- **`archive_links_slow.py`** - Archives to archive.org (5/min rate limit)
+- **`find_broken_links.py`** - Identifies broken source URLs
+- **`fix_archive_urls.py`** - Repairs malformed archive URLs
+
+### Documentation
+- **`README.md`** - This file - Human documentation
+- **`agent.md`** - AI agent instructions & YAML escaping guide
+- **`CLAUDE.md`** - Claude-specific context and patterns
 
 ## Table of Contents
 
@@ -416,14 +435,16 @@ related_events:
 ## Current Statistics
 
 As of August 2025:
-- **Total Events**: 303
+- **Total Events**: 318
 - **Date Range**: 1972-01-01 to 2025-10-01
-- **Confirmed Events**: ~250
-- **Pending Verification**: ~50
+- **Confirmed Events**: ~260
+- **Pending Verification**: ~55
 - **Archive Coverage**: 60.8%
 - **Source Coverage**: 100%
 - **Unique Tags**: 548
 - **Active Patterns**: 15+
+- **Research Docs Processed**: 4 of 6
+- **New Events Added Today**: 18
 
 ### Coverage by Era
 - 1972-1990: Foundation/historical context

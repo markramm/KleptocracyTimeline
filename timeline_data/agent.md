@@ -272,6 +272,77 @@ Track these for quality assurance:
 - Duplicate detection: Must be 100%
 - Status accuracy: 0 future events as 'confirmed'
 
+## YAML Character Escaping Guidelines
+
+### Common YAML Validation Errors and Solutions
+
+The most frequent cause of YAML validation errors is improper escaping of apostrophes and quotes in titles and text fields.
+
+#### ❌ COMMON ERROR: Apostrophes in single-quoted strings
+```yaml
+# WRONG - Will cause validation error
+- title: 'Trump's Business Profits'
+- title: 'Trump raised $250 million to fight election fraud claims. Here's where that money went'
+```
+
+#### ✅ SOLUTION: Use double quotes for strings with apostrophes
+```yaml
+# CORRECT
+- title: "Trump's Business Profits"
+- title: "Trump raised $250 million to fight election fraud claims. Here's where that money went"
+```
+
+#### Alternative Solutions:
+```yaml
+# Option 1: Escape the apostrophe in single quotes
+- title: 'Trump\'s Business Profits'
+
+# Option 2: Use plain style (no quotes) when safe
+- title: Trump announces new policy
+
+# Option 3: Use literal block style for multi-line
+summary: |
+  Trump's administration announced new policies
+  that affect multiple sectors including finance
+```
+
+### Best Practices:
+1. **Default to double quotes** for all titles containing apostrophes
+2. **Use single quotes** only for strings without apostrophes
+3. **Always validate** after creating/editing YAML files
+4. **Watch for**: Contractions (don't, won't), possessives (Trump's, Congress's), and quotes within quotes
+
+## Critical Project Resources
+
+### Core Project Structure
+```
+/Users/markr/kleptocracy-timeline/
+├── timeline_data/
+│   ├── events/              # All timeline event YAML files (300+ files)
+│   ├── validate_yaml.py     # Main validation script - RUN THIS FREQUENTLY
+│   ├── agent.md            # This file - AI agent instructions
+│   └── README.md           # Human documentation
+├── DemocracyResearchDocs/   # Research document processing
+│   ├── queue/              # Documents to process
+│   └── completed/          # Processed documents
+└── tools/                  # QA and archiving tools
+```
+
+### Key Scripts and Tools
+1. **validate_yaml.py** - Critical validation script, run after every change
+2. **archive_links_slow.py** - Archives sources to archive.org (5 req/min limit)
+3. **find_broken_links.py** - Identifies broken source links
+4. **fix_archive_urls.py** - Fixes malformed archive.org URLs
+
+### Document Processing Workflow
+1. Read PDF from `DemocracyResearchDocs/queue/`
+2. Extract kleptocracy-related events
+3. Check timeline for duplicates
+4. Create new event YAML files
+5. Validate with `validate_yaml.py`
+6. Commit changes
+7. Move PDF to `completed/` folder
+
 ## Notes
 
 - **When in doubt**: Use `status: pending`
@@ -279,3 +350,4 @@ Track these for quality assurance:
 - **Document everything**: Use notes field
 - **Fail gracefully**: Better pending than wrong
 - **Archive immediately**: Sources disappear
+- **Escape apostrophes**: Use double quotes for titles with apostrophes
