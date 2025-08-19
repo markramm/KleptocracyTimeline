@@ -236,10 +236,13 @@ const EnhancedTimelineView = ({
             </div>
             
             <div className="control-group">
-              <label>Display</label>
+              <label>Display ({compactMode})</label>
               <select 
                 value={compactMode} 
-                onChange={(e) => setCompactMode(e.target.value)}
+                onChange={(e) => {
+                  console.log('Compact mode changed to:', e.target.value);
+                  setCompactMode(e.target.value);
+                }}
                 className="control-select"
                 title="Press C to cycle"
               >
@@ -277,7 +280,10 @@ const EnhancedTimelineView = ({
           
           <button 
             className="toggle-minimap-btn"
-            onClick={() => setShowMinimap(!showMinimap)}
+            onClick={() => {
+              console.log('Toggling minimap from', showMinimap, 'to', !showMinimap);
+              setShowMinimap(!showMinimap);
+            }}
             title="Toggle Minimap (M)"
           >
             {showMinimap ? 'Hide' : 'Show'} Minimap
@@ -707,14 +713,23 @@ const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
   
   const drawCanvas = useCallback(() => {
     const canvas = canvasRef.current;
-    if (!canvas) return;
+    if (!canvas || years.length === 0) {
+      console.log('Canvas or years not available:', { canvas: !!canvas, yearsLength: years.length });
+      return;
+    }
     
     const ctx = canvas.getContext('2d');
     const width = canvas.width;
     const height = canvas.height;
     
+    console.log(`Drawing minimap canvas: ${width}x${height}, years:`, years.length);
+    
     // Clear canvas
     ctx.clearRect(0, 0, width, height);
+    
+    // Simple background
+    ctx.fillStyle = '#1e293b';
+    ctx.fillRect(0, 0, width, height);
     
     // Draw timeline visualization
     const yearHeight = height / years.length;
@@ -762,7 +777,7 @@ const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
       ctx.lineWidth = 2;
       ctx.strokeRect(0, start, width, end - start);
     }
-  }, [events, groups, years, isDragging, dragStart, dragEnd, selectedRange]);
+  }, [groups, years, isDragging, dragStart, dragEnd, selectedRange]);
   
   useEffect(() => {
     drawCanvas();
