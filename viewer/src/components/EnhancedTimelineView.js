@@ -27,7 +27,7 @@ const EnhancedTimelineView = ({
   const [showMinimap, setShowMinimap] = useState(true);
   const [sortBy, setSortBy] = useState('date'); // date, importance
   const [filterImportance, setFilterImportance] = useState(0); // 0 = all
-  const [compactMode, setCompactMode] = useState(false);
+  const [compactMode, setCompactMode] = useState(true); // Default to compact
   const [stickyYear, setStickyYear] = useState(null);
 
   // Handle keyboard navigation
@@ -463,7 +463,7 @@ const EnhancedTimelineEvent = ({
     return '📌';
   };
 
-  if (compactMode && !isHighlighted && importance < 7) {
+  if (compactMode && !isHighlighted && importance < 6) { // Show compact for less important
     // Compact mode for less important events
     return (
       <div 
@@ -485,6 +485,13 @@ const EnhancedTimelineEvent = ({
             {format(parseISO(event.date), 'MMM d')}
           </span>
           <span className="compact-title">{event.title}</span>
+          {event.tags && event.tags.length > 0 && (
+            <span className="compact-tags">
+              {event.tags.slice(0, 2).map(tag => (
+                <span key={tag} className="tag-micro">#{tag}</span>
+              ))}
+            </span>
+          )}
           <span className="importance-badge" style={{ color: getImportanceColor(importance) }}>
             {importance}
           </span>
@@ -531,6 +538,25 @@ const EnhancedTimelineEvent = ({
               {getImportanceIcon(importance)}
               <span className="importance-value">{importance}</span>
             </div>
+            {event.tags && event.tags.length > 0 && (
+              <div className="event-tags-inline">
+                {event.tags.slice(0, 2).map(tag => (
+                  <span 
+                    key={tag}
+                    className="tag-chip-inline"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      onTagClick(tag);
+                    }}
+                  >
+                    #{tag}
+                  </span>
+                ))}
+                {event.tags.length > 2 && (
+                  <span className="more-tags-inline">+{event.tags.length - 2}</span>
+                )}
+              </div>
+            )}
           </div>
           
           <div className="event-actions">
@@ -562,7 +588,7 @@ const EnhancedTimelineEvent = ({
         </h4>
         
         <p className="event-summary">
-          {isExpanded ? event.summary : `${event.summary?.substring(0, 150)}...`}
+          {isExpanded ? event.summary : `${event.summary?.substring(0, 300)}...`}
         </p>
         
         {isExpanded && (
@@ -617,26 +643,6 @@ const EnhancedTimelineEvent = ({
           </AnimatePresence>
         )}
         
-        {event.tags && event.tags.length > 0 && (
-          <div className="event-tags">
-            {event.tags.slice(0, isExpanded ? undefined : 3).map(tag => (
-              <span 
-                key={tag}
-                className="tag-chip"
-                onClick={(e) => {
-                  e.stopPropagation();
-                  onTagClick(tag);
-                }}
-              >
-                #{tag}
-              </span>
-            ))}
-            {!isExpanded && event.tags.length > 3 && (
-              <span className="more-tags">+{event.tags.length - 3}</span>
-            )}
-          </div>
-        )}
-        
         <button 
           className="expand-button"
           onClick={(e) => {
@@ -651,10 +657,16 @@ const EnhancedTimelineEvent = ({
   );
 };
 
-const TimelineMinimap = ({ events, groups, onNavigate }) => {
+const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
   const canvasRef = useRef(null);
+  const [isDragging, setIsDragging] = useState(false);
+  const [dragStart, setDragStart] = useState(null);
+  const [dragEnd, setDragEnd] = useState(null);
+  const [selectedRange, setSelectedRange] = useState(null);
   
-  useEffect(() => {
+  const years = useMemo(() => Object.keys(groups).sort(), [groups]);
+  
+  const drawCanvas = useCallback(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
     
@@ -666,16 +678,14 @@ const TimelineMinimap = ({ events, groups, onNavigate }) => {
     ctx.clearRect(0, 0, width, height);
     
     // Draw timeline visualization
-    const years = Object.keys(groups).sort();
     const yearHeight = height / years.length;
     
     years.forEach((year, index) => {
       const y = index * yearHeight;
       const yearEvents = Object.values(groups[year]).flat();
-      const maxImportance = Math.max(...yearEvents.map(e => e.importance || 5));
       
       // Draw year background
-      ctx.fillStyle = index % 2 === 0 ? '#f8fafc' : '#ffffff';
+      ctx.fillStyle = index % 2 === 0 ? 'rgba(248, 250, 252, 0.1)' : 'rgba(255, 255, 255, 0.05)';
       ctx.fillRect(0, y, width, yearHeight);
       
       // Draw importance bars
@@ -696,40 +706,111 @@ const TimelineMinimap = ({ events, groups, onNavigate }) => {
       });
       
       // Draw year label
-      ctx.fillStyle = '#1f2937';
+      ctx.fillStyle = '#94a3b8';
       ctx.font = '10px sans-serif';
       ctx.fillText(year, 4, y + yearHeight / 2);
     });
-  }, [events, groups]);
+    
+    // Draw selection overlay if dragging or selected
+    if (selectedRange || (isDragging && dragStart !== null && dragEnd !== null)) {
+      const start = selectedRange ? selectedRange.start : Math.min(dragStart, dragEnd);
+      const end = selectedRange ? selectedRange.end : Math.max(dragStart, dragEnd);
+      
+      ctx.fillStyle = 'rgba(59, 130, 246, 0.2)';
+      ctx.fillRect(0, start, width, end - start);
+      
+      ctx.strokeStyle = '#3b82f6';
+      ctx.lineWidth = 2;
+      ctx.strokeRect(0, start, width, end - start);
+    }
+  }, [events, groups, years, isDragging, dragStart, dragEnd, selectedRange]);
   
-  const handleClick = (e) => {
+  useEffect(() => {
+    drawCanvas();
+  }, [drawCanvas]);
+  
+  const getDateFromY = (y) => {
+    const yearIndex = Math.floor(y / (canvasRef.current.height / years.length));
+    const yearProgress = (y % (canvasRef.current.height / years.length)) / (canvasRef.current.height / years.length);
+    const year = years[Math.min(yearIndex, years.length - 1)];
+    const month = Math.floor(yearProgress * 12) + 1;
+    return `${year}-${String(month).padStart(2, '0')}-01`;
+  };
+  
+  const handleMouseDown = (e) => {
     const canvas = canvasRef.current;
     const rect = canvas.getBoundingClientRect();
     const y = e.clientY - rect.top;
-    const yearIndex = Math.floor(y / (canvas.height / Object.keys(groups).length));
-    const years = Object.keys(groups).sort();
-    const year = years[yearIndex];
     
-    if (year) {
-      onNavigate(`${year}-01-01`);
+    setIsDragging(true);
+    setDragStart(y);
+    setDragEnd(y);
+  };
+  
+  const handleMouseMove = (e) => {
+    if (!isDragging) return;
+    
+    const canvas = canvasRef.current;
+    const rect = canvas.getBoundingClientRect();
+    const y = e.clientY - rect.top;
+    
+    setDragEnd(y);
+  };
+  
+  const handleMouseUp = (e) => {
+    if (!isDragging) return;
+    
+    const startDate = getDateFromY(Math.min(dragStart, dragEnd));
+    const endDate = getDateFromY(Math.max(dragStart, dragEnd));
+    
+    if (Math.abs(dragEnd - dragStart) > 5) {
+      // Range selection
+      setSelectedRange({ start: Math.min(dragStart, dragEnd), end: Math.max(dragStart, dragEnd) });
+      onDateRangeSelect({ start: startDate, end: endDate });
+    } else {
+      // Single click navigation
+      setSelectedRange(null);
+      onNavigate(startDate);
+      onDateRangeSelect({ start: null, end: null });
     }
+    
+    setIsDragging(false);
+    setDragStart(null);
+    setDragEnd(null);
+  };
+  
+  const handleClearSelection = () => {
+    setSelectedRange(null);
+    onDateRangeSelect({ start: null, end: null });
   };
   
   return (
     <div className="timeline-minimap">
-      <h4>Timeline Overview</h4>
+      <div className="minimap-header">
+        <h4>Timeline Navigation</h4>
+        {selectedRange && (
+          <button className="clear-selection-btn" onClick={handleClearSelection}>
+            Clear Range
+          </button>
+        )}
+      </div>
       <canvas 
         ref={canvasRef}
         width={200}
         height={400}
-        onClick={handleClick}
-        style={{ cursor: 'pointer' }}
+        onMouseDown={handleMouseDown}
+        onMouseMove={handleMouseMove}
+        onMouseUp={handleMouseUp}
+        onMouseLeave={handleMouseUp}
+        style={{ cursor: isDragging ? 'grabbing' : 'grab' }}
       />
+      <div className="minimap-instructions">
+        Click to jump • Drag to filter range
+      </div>
       <div className="minimap-legend">
-        <div><span style={{ background: '#dc2626' }}></span> Critical (8+)</div>
-        <div><span style={{ background: '#f59e0b' }}></span> High (7+)</div>
-        <div><span style={{ background: '#3b82f6' }}></span> Notable (6+)</div>
-        <div><span style={{ background: '#94a3b8' }}></span> Standard</div>
+        <div><span style={{ background: '#dc2626' }}></span> Critical</div>
+        <div><span style={{ background: '#f59e0b' }}></span> High</div>
+        <div><span style={{ background: '#3b82f6' }}></span> Notable</div>
       </div>
     </div>
   );
