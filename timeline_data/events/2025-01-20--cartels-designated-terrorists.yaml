@@ -1,25 +1,47 @@
 id: 2025-01-20--cartels-designated-terrorists
 date: '2025-01-20'
 title: Trump designates Mexican cartels as terrorist organizations
-summary: Trump's Day One executive orders designate Mexican drug cartels as terrorist
-  organizations, exactly as recommended in Project 2025, enabling military action
-  and expanded enforcement powers.
+summary: Trump signed an executive order on January 20, 2025, creating a process to designate
+  Mexican drug cartels as Foreign Terrorist Organizations and Specially Designated Global
+  Terrorists. The order directs cabinet officials to make recommendations within 14 days and
+  prepare to invoke the Alien Enemies Act. This enables material support prosecutions against
+  anyone providing assistance to cartels, with vast implications for cross-border trade and
+  migration. Mexican President Sheinbaum defended sovereignty while pledging coordination.
+  The designation was considered but rejected during Trump's first term and Obama administration
+  due to bilateral relations concerns.
 location: Washington, DC
 actors:
 - Donald Trump
-- Department of Defense
+- Secretary of State
+- Department of Treasury
 - Department of Justice
+- Department of Homeland Security
+- Director of National Intelligence
+- Claudia Sheinbaum (Mexican President)
 tags:
 - cartels
 - terrorism-designation
 - executive-order
 - project-2025
 - border-security
+- foreign-terrorist-organizations
+- alien-enemies-act
+- material-support
+- mexico-relations
 sources:
-- title: Cartels designated as terrorist organizations
-  url: https://www.npr.org/2025/01/cartels-terrorist-designation
-  outlet: NPR
+- title: Designating Cartels And Other Organizations As Foreign Terrorist Organizations
+  url: https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/
+  outlet: White House
   date: '2025-01-20'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/2025/01/cartels-terrorist-designation/
-notes: Precise implementation of Project 2025 recommendation
+- title: Trump wants to label drug cartels terrorist organizations
+  url: https://www.npr.org/2025/01/24/g-s1-44644/trump-drug-cartels
+  outlet: NPR
+  date: '2025-01-24'
+- title: Why Trump's designation of drug cartels as terrorists alarms Mexico
+  url: https://www.washingtonpost.com/world/2025/01/21/trump-cartels-terrorists-mexico/
+  outlet: Washington Post
+  date: '2025-01-21'
+notes: Precise implementation of Project 2025 recommendation. Order references Immigration and
+  Nationality Act section 219 and EO 13224 from 2001. Material support provisions could affect
+  street gangs selling narcotics and cross-border economic activity.
 status: confirmed
