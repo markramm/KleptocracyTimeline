@@ -463,13 +463,16 @@ const EnhancedTimelineEvent = ({
     return '📌';
   };
 
-  if (compactMode && !isHighlighted && importance < 6) { // Show compact for less important
+  if (compactMode && !isExpanded) { // Show compact for all non-expanded events
     // Compact mode for less important events
     return (
       <div 
-        className={`timeline-event compact ${side}`}
+        className={`timeline-event compact ${side} ${isHighlighted ? 'highlighted' : ''}`}
         id={`event-${event.id}`}
-        onClick={onClick}
+        onClick={(e) => {
+          e.stopPropagation();
+          onToggleExpand();
+        }}
       >
         <div className="event-connector" />
         <div 
@@ -480,11 +483,16 @@ const EnhancedTimelineEvent = ({
             height: `${8 + importance}px`
           }}
         />
-        <div className="compact-event-card">
+        <div className="compact-event-card" style={{ 
+          borderLeft: `3px solid ${getImportanceColor(importance)}`,
+          background: importance >= 7 ? 'rgba(30, 41, 59, 0.7)' : 'rgba(30, 41, 59, 0.5)'
+        }}>
           <span className="compact-date">
             {format(parseISO(event.date), 'MMM d')}
           </span>
-          <span className="compact-title">{event.title}</span>
+          <span className="compact-title" style={{
+            fontWeight: importance >= 7 ? '600' : '400'
+          }}>{event.title}</span>
           {event.tags && event.tags.length > 0 && (
             <span className="compact-tags">
               {event.tags.slice(0, 2).map(tag => (
@@ -492,7 +500,10 @@ const EnhancedTimelineEvent = ({
               ))}
             </span>
           )}
-          <span className="importance-badge" style={{ color: getImportanceColor(importance) }}>
+          <span className="importance-badge" style={{ 
+            color: getImportanceColor(importance),
+            fontWeight: '600'
+          }}>
             {importance}
           </span>
         </div>

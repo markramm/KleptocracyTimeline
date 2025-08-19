@@ -319,15 +319,22 @@
   align-items: center;
   gap: 0.75rem;
   background: rgba(30, 41, 59, 0.5);
-  padding: 0.375rem 0.75rem;
+  padding: 0.5rem 0.75rem;
   border-radius: 0.5rem;
   cursor: pointer;
   transition: all 0.2s;
+  position: relative;
 }
 
 .compact-event-card:hover {
-  background: rgba(30, 41, 59, 0.8);
+  background: rgba(30, 41, 59, 0.9) !important;
   transform: translateX(4px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.timeline-event.compact.highlighted .compact-event-card {
+  background: rgba(59, 130, 246, 0.1) !important;
+  border-color: #3b82f6;
 }
 
 .compact-date {

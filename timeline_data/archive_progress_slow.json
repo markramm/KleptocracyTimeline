@@ -1,15 +1,16 @@
 {
-  "archived": [],
-  "failed": [
+  "archived": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
+  ],
+  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -255,17 +256,7 @@
     "https://www.democracynow.org/2020/7/28/no_due_process_no_paper_trail",
     "https://www.dhs.gov/news/2025/01/21/statement-dhs-spokesperson-directives-expanding-law-enforcement-and-ending-abuse",
     "https://www.documentcloud.org/documents/24680123-sevp-foia-2025",
-    "https://www.economist.com/leaders/2025/04/01/americas-democratic-downgrade",
-    "https://www.eff.org/deeplinks/2024/07/supreme-court-dodges-key-question-murthy-v-missouri-and-dismisses-case-failing",
-    "https://www.eff.org/deeplinks/2024/08/federal-appeals-court-finds-geofence-warrants-are-categorically-unconstitutional",
-    "https://www.eff.org/press/releases/privacy-victory-judge-grants-preliminary-injunction-opmdoge-lawsuit",
-    "https://www.eiu.com/democracy-index-2025",
-    "https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html",
-    "https://www.epa.gov/chemicals-under-tsca/update-status-tsca-risk-management-rule-tce",
-    "https://www.epa.gov/climate-change",
-    "https://www.epa.gov/enforcement/pfas-enforcement-discretion-and-settlement-policy-under-cercla",
-    "https://www.epi.org/blog/trump-acting-director-russell-vought-ordered-cfpb-workers-to-stop-doing-their-jobs",
-    "https://www.esquire.com/news-politics/politics/a28580523/jeffrey-epstein-donald-trump-palm-beach-mansion-russian-oligarch/"
+    "https://www.economist.com/leaders/2025/04/01/americas-democratic-downgrade"
   ],
   "skipped": []
 }
