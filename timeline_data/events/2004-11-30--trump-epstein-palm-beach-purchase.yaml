@@ -1,14 +1,21 @@
 id: 2004-01-01--trump-epstein-palm-beach-purchase
 date: '2004-11-30'
 title: Trump Outbids Epstein for Palm Beach Mansion, Ending Friendship
-summary: Donald Trump purchases Maison de l'Amitié for $41.35 million at bankruptcy
-  auction, outbidding Jeffrey Epstein. The loss angers Epstein and marks the end of
-  their long friendship, with Trump later banning Epstein from Mar-a-Lago.
+summary: Donald Trump purchased Maison de l'Amitié for $41.35 million at a November 30,
+  2004 bankruptcy auction, outbidding Jeffrey Epstein who went up to $38.6 million.
+  During the auction, Epstein's attorneys tried to disqualify Trump over title insurance
+  demands, but Judge Steven Friedman rejected the objection. The trustee described it as
+  "two very large Palm Beach egos going at it." The loss angered Epstein and ended their
+  15-year friendship. Trump later sold the property to Russian oligarch Dmitry Rybolovlev
+  for $95 million in 2008.
 location: Palm Beach, Florida
 actors:
 - Donald Trump
 - Jeffrey Epstein
-- Dmitry Rybolovlev
+- Judge Steven Friedman
+- Joseph Luzinski (bankruptcy trustee)
+- Abraham Gosman (former owner)
+- Dmitry Rybolovlev (2008 purchaser)
 tags:
 - money-laundering
 - russian-money
@@ -27,5 +34,8 @@ sources:
   url: https://www.yahoo.com/news/remembering-auction-pitted-trump-against-193353746.html
   outlet: Yahoo News
   date: '2019-08-01'
-notes: Trump's outbidding of Epstein at this auction marked the definitive end of their friendship and social relationship.
+notes: The property was formerly owned by Leslie Wexner, Epstein's only publicly identified
+  client. Trump's $41.35 million purchase and 2008 sale for $95 million to Russian oligarch
+  Rybolovlev (then the most expensive U.S. residential sale) raises separate money laundering
+  concerns. This auction definitively ended the Trump-Epstein relationship.
 status: confirmed

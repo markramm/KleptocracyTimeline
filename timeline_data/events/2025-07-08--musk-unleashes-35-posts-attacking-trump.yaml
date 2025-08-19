@@ -1,11 +1,12 @@
 id: 2025-07-08--musk-unleashes-35-posts-attacking-trump
 date: '2025-07-08'
 title: Musk Unleashes 35+ Posts Criticizing Trump's Epstein Files Reversal
-summary: Following the DOJ's July 7 memo, Elon Musk unleashed more than 35 posts and
-  reposts criticizing the administration's handling, using his 200+ million followers
-  on X to amplify pressure. He deployed creative tactics including posting an "Epstein
-  Pedophile Arrest Counter" set to zero and using his AI chatbot Grok to highlight
-  government knowledge of flight logs.
+summary: Following the DOJ's July 7 memo declaring no Epstein client list exists,
+  Elon Musk unleashed more than 35 posts and reposts criticizing the Trump administration's
+  reversal on transparency. Using his 200+ million followers on X, he deployed tactics
+  including an "Epstein Pedophile Arrest Counter" set to zero and used his AI chatbot
+  Grok to highlight government knowledge of flight logs, creating unprecedented division
+  within the MAGA movement.
 actors:
 - Elon Musk
 - Donald Trump
@@ -14,6 +15,8 @@ tags:
 - musk-trump-feud
 - social-media-campaign
 - political-pressure
+- transparency-failure
+- x-platform
 status: confirmed
 sources:
 - title: Musk launches 35+ post barrage against Trump over Epstein files

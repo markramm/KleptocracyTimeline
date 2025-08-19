@@ -2,15 +2,18 @@ id: 2025-07-23--house-oversight-subpoenas-doj
 date: '2025-07-23'
 title: House Oversight Subcommittee Votes 8-2 to Subpoena DOJ for Epstein Files
 summary: The House Oversight subcommittee voted 8-2 to subpoena the DOJ for Epstein
-  files on July 23, 2025, with three Republicans—Nancy Mace, Scott Perry, and Brian
-  Jack—breaking ranks to join Democrats in demanding transparency. This marked extraordinary
-  bipartisan congressional rebellion against the Trump administration.
+  files on July 23, 2025, with three Republicans—Nancy Mace (R-SC), Scott Perry (R-PA),
+  and Brian Jack (R-GA)—breaking ranks to join Democrats in demanding transparency.
+  This bipartisan rebellion followed the DOJ's July 7 memo claiming no client list exists
+  and marked unprecedented congressional pushback against Trump's reversal on his campaign
+  promise of "100% transparency" on Epstein files.
 actors:
 - House Oversight Committee
-- Nancy Mace
-- Scott Perry
-- Brian Jack
+- Rep. Nancy Mace (R-SC)
+- Rep. Scott Perry (R-PA)
+- Rep. Brian Jack (R-GA)
 - Department of Justice
+- Pam Bondi (Attorney General)
 tags:
 - epstein-files
 - congressional-oversight
@@ -30,4 +33,6 @@ sources:
   outlet: The Guardian
   date: '2025-07-24'
   url: https://www.theguardian.com/us-news/2025/jul/24/congress-epstein-files-subpoena-republicans
-notes: Republicans breaking ranks showed the political damage from Trump's reversal.
+notes: The bipartisan vote demonstrated how Trump's reversal on Epstein transparency
+  fractured his own party's support. This followed Musk's explosive claims and public
+  pressure campaign that split the MAGA movement on the issue.

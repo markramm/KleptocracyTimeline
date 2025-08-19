@@ -25,8 +25,16 @@ citations:
 notes: Establishes platform conditions for Stage-5 coercion through domestic military
   deployment over state objection.
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: 700 Marines Deploying to Downtown Los Angeles
+  url: https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles
+  outlet: USNI News
+  date: '2025-06-09'
+- title: The Marines Are in Los Angeles
+  url: https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html
+  outlet: Military.com
+  date: '2025-06-13'
+- title: Trump says more National Guard troops would be deployed in California if needed
+  url: https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/
+  outlet: Reuters
+  date: '2025-06-09'
 status: confirmed

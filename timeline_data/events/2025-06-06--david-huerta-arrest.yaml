@@ -24,8 +24,16 @@ citations:
 notes: Part of broader crackdown on labor organizing and protest activity during immigration
   enforcement operations.
 sources:
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: California union leader charged with felony conspiracy after being arrested during protest
+  url: https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/
+  outlet: CBS News
+  date: '2025-06-06'
+- title: SEIU president charged
+  url: https://laist.com/brief/news/la-immigration-raids-protests-huerta-charged
+  outlet: LAist
+  date: '2025-06-06'
+- title: Who is David Huerta, the union leader arrested while protesting in Los Angeles?
+  url: https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679
+  outlet: ABC News
+  date: '2025-06-10'
 status: confirmed

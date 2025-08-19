@@ -1,20 +1,26 @@
 id: 2025-08-01--court-defiance-35-percent-pattern
 date: '2025-08-01'
 title: Trump administration defies court orders in 57 of 165 cases (35%)
-summary: According to Washington Post analysis, the Trump administration has defied
-  or frustrated court oversight in 57 of 165 cases where courts ruled against them
-  - almost 35 percent - an unprecedented pattern of systematic non-compliance with
-  judicial authority.
+summary: According to Washington Post analysis, the Trump administration has been accused
+  of flouting courts in about a third of more than 160 lawsuits where judges issued
+  substantive rulings against them. CNN reports the administration is "at war with the
+  federal judiciary," evading court orders blocking its agenda and suing judges for
+  alleged misconduct, with multiple federal judges warning this could precipitate a
+  constitutional crisis.
 location: United States
 actors:
 - Trump administration
-- Federal courts
+- Federal judiciary
 - U.S. District Judge James Boasberg
+- U.S. District Judge John McConnell
+- Judge Paula Xinis
 tags:
 - constitutional-crisis
 - court-defiance
 - rule-of-law-breakdown
 - systematic-non-compliance
+- judicial-authority
+- separation-of-powers
 sources:
 - title: Trump accused of defying about a third of major court orders since taking office
   url: https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/

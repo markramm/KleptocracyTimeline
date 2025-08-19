@@ -2,23 +2,30 @@ id: 2025-01-20--justin-sun-white-house-crypto-dinner
 date: '2025-01-20'
 title: Justin Sun Becomes First White House Crypto Dinner Guest After $75 Million
   Investment
-summary: Chinese crypto billionaire Justin Sun became the first guest at Trump's White
-  House crypto dinner immediately after investing $75 million in World Liberty Financial
-  while under SEC investigation for alleged fraud and market manipulation, with the
-  SEC case mysteriously stayed following his investment.
+summary: Chinese crypto billionaire Justin Sun invested $75 million in Trump's World
+  Liberty Financial (75% of proceeds go to Trump family as fees, netting them ~$56 million)
+  and over $20 million in $TRUMP memecoin, totaling $93+ million in Trump crypto ventures.
+  Sun attended a May 2025 black-tie gala at Trump's Virginia golf club where he received
+  a $100,000 Trump Golden Tourbillon watch. The SEC paused its 2023 fraud charges against
+  Sun after his investment announcement.
 location: White House, Washington DC
 actors:
 - Justin Sun
 - Donald Trump
-- SEC
+- Trump family
+- Securities and Exchange Commission (SEC)
 - World Liberty Financial
 - CIC Digital LLC
+- HTX exchange
 tags:
-- crypto_conflicts
-- foreign_investment
-- sec_investigation
-- white_house_access
-- chinese_influence
+- crypto-conflicts
+- foreign-investment
+- sec-investigation
+- pay-to-play
+- chinese-influence
+- emoluments-violation
+- regulatory-capture
+- trump-memecoin
 status: confirmed
 sources:
 - title: Justin Sun Attends White House Crypto Dinner After $75M Investment
@@ -33,9 +40,8 @@ sources:
   url: https://www.washingtonpost.com/world/2025/05/23/trump-crypto-dinner-justin-sun/
   outlet: The Washington Post
   date: '2025-05-23'
-notes: This event exemplifies how cryptocurrency enables foreign nationals to make
-  direct payments to sitting president while obscuring the transaction's nature and
-  gaining unprecedented access to White House policy-making. Direct payment from Chinese
-  national under federal investigation to sitting president, followed by immediate
-  White House access and favorable regulatory treatment, represents textbook emoluments
-  violation and potential obstruction of justice.
+notes: Sen. Richard Blumenthal called this "an unprecedented, pay-to-play scheme to provide
+  access to the presidency to the highest bidder." Bloomberg analysis showed most top
+  $TRUMP holders used foreign exchanges off-limits to US residents. The Trump family
+  directly earned up to $56 million from Sun's investment through their 75% fee structure.
+  SEC mysteriously paused fraud case after Sun's investment, suggesting quid pro quo.
