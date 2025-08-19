@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState, useMemo } from 'react';
 import * as d3 from 'd3';
 import './NetworkGraph.css';
 
@@ -11,6 +11,41 @@ const NetworkGraph = ({ events }) => {
   const [maxNodes, setMaxNodes] = useState(30); // Limit number of nodes displayed
   const [minConnectionStrength, setMinConnectionStrength] = useState(0.5); // Filter weak connections
   const [dateRange, setDateRange] = useState({ months: 6 }); // Show only recent events by default
+  
+  // New search and filter states
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedActor, setSelectedActor] = useState('');
+  const [selectedTag, setSelectedTag] = useState('');
+  const [highlightedNodeId, setHighlightedNodeId] = useState(null);
+  const [activeCategories, setActiveCategories] = useState(new Set(['all']));
+
+  // Extract unique actors and tags for dropdowns
+  const { uniqueActors, uniqueTags } = useMemo(() => {
+    const actors = new Set();
+    const tags = new Set();
+    
+    events?.forEach(event => {
+      event.actors?.forEach(actor => actors.add(actor));
+      event.tags?.forEach(tag => tags.add(tag));
+    });
+    
+    return {
+      uniqueActors: Array.from(actors).sort(),
+      uniqueTags: Array.from(tags).sort()
+    };
+  }, [events]);
+
+  // Category colors and definitions
+  const categories = [
+    { id: 'judicial', label: 'Judicial', color: '#e74c3c' },
+    { id: 'regulatory', label: 'Regulatory', color: '#3498db' },
+    { id: 'financial', label: 'Financial', color: '#2ecc71' },
+    { id: 'political', label: 'Political', color: '#f39c12' },
+    { id: 'intelligence', label: 'Intelligence', color: '#9b59b6' },
+    { id: 'criminal', label: 'Criminal', color: '#c0392b' },
+    { id: 'actor', label: 'Actor', color: '#95a5a6' },
+    { id: 'other', label: 'Other', color: '#7f8c8d' }
+  ];
 
   useEffect(() => {
     if (!events || events.length === 0) return;
@@ -57,6 +92,45 @@ const NetworkGraph = ({ events }) => {
       return events.filter(event => new Date(event.date) >= cutoffDate);
     };
 
+    // Apply search and filter criteria
+    const applySearchAndFilters = (events) => {
+      let filtered = [...events];
+      
+      // Search filter
+      if (searchQuery) {
+        const query = searchQuery.toLowerCase();
+        filtered = filtered.filter(event => 
+          event.title?.toLowerCase().includes(query) ||
+          event.summary?.toLowerCase().includes(query) ||
+          event.id?.toLowerCase().includes(query)
+        );
+      }
+      
+      // Actor filter
+      if (selectedActor) {
+        filtered = filtered.filter(event => 
+          event.actors?.includes(selectedActor)
+        );
+      }
+      
+      // Tag filter
+      if (selectedTag) {
+        filtered = filtered.filter(event => 
+          event.tags?.includes(selectedTag)
+        );
+      }
+      
+      // Category filter
+      if (!activeCategories.has('all') && activeCategories.size > 0) {
+        filtered = filtered.filter(event => {
+          const group = getEventGroup(event);
+          return activeCategories.has(group);
+        });
+      }
+      
+      return filtered;
+    };
+
     // Build graph data from events
     const buildGraphData = (events, filter) => {
       const nodes = [];
@@ -65,6 +139,9 @@ const NetworkGraph = ({ events }) => {
 
       // Filter events by date first
       let filteredEvents = filterEventsByDate(events);
+      
+      // Apply search and filters
+      filteredEvents = applySearchAndFilters(filteredEvents);
 
       // Sort events by impact and take only the most important ones
       if (filter === 'important' || filter === 'money') {
@@ -87,8 +164,10 @@ const NetworkGraph = ({ events }) => {
           fullTitle: event.title,
           date: event.date,
           tags: event.tags || [],
+          actors: event.actors || [],
           impact: getImpact(event),
-          group: getEventGroup(event)
+          group: getEventGroup(event),
+          highlighted: searchQuery && event.title?.toLowerCase().includes(searchQuery.toLowerCase())
         };
         nodes.push(eventNode);
         nodeMap.set(event.id, eventNode);
@@ -114,7 +193,8 @@ const NetworkGraph = ({ events }) => {
                 label: actor.length > 20 ? actor.substring(0, 18) + '...' : actor,
                 fullName: actor,
                 eventCount: actorEventCount.get(actor),
-                group: 'actor'
+                group: 'actor',
+                highlighted: selectedActor === actor
               };
               nodes.push(actorNode);
               nodeMap.set(actorNode.id, actorNode);
@@ -242,7 +322,8 @@ const NetworkGraph = ({ events }) => {
 
       // Show stats
       const statsText = `Showing ${graphData.nodes.length} nodes, ${graphData.links.length} connections`;
-      svg.append('text')
+      const statsG = svg.append('g').attr('class', 'stats-text');
+      statsG.append('text')
         .attr('x', 10)
         .attr('y', 20)
         .attr('font-size', 12)
@@ -324,12 +405,13 @@ const NetworkGraph = ({ events }) => {
           return 10 + Math.min(d.impact || 1, 8) * 2;
         })
         .attr('fill', d => colorScale(d.group))
-        .attr('stroke', '#fff')
-        .attr('stroke-width', 2)
+        .attr('stroke', d => d.highlighted ? '#ff0000' : '#fff')
+        .attr('stroke-width', d => d.highlighted ? 4 : 2)
         .style('cursor', 'pointer')
         .on('click', (event, d) => {
           event.stopPropagation();
           setSelectedNode(d);
+          setHighlightedNodeId(d.id);
           highlightConnections(d);
         })
         .on('mouseover', function(event, d) {
@@ -365,13 +447,20 @@ const NetworkGraph = ({ events }) => {
           .on('drag', dragged)
           .on('end', dragEnded));
 
+      // Highlight searched/filtered nodes
+      if (highlightedNodeId) {
+        nodes.filter(d => d.id === highlightedNodeId)
+          .attr('stroke', '#ff0000')
+          .attr('stroke-width', 4);
+      }
+
       // Add labels only for important nodes or when enabled
       let labels = null;
       if (showLabels) {
         labels = g.append('g')
           .selectAll('text')
           .data(graphData.nodes.filter(d => 
-            d.type === 'actor' || d.impact >= 5
+            d.type === 'actor' || d.impact >= 5 || d.highlighted
           ))
           .enter().append('text')
           .text(d => d.label)
@@ -445,6 +534,7 @@ const NetworkGraph = ({ events }) => {
           });
           nodes.style('opacity', 1);
           setSelectedNode(null);
+          setHighlightedNodeId(null);
         }
       });
     };
@@ -475,11 +565,103 @@ const NetworkGraph = ({ events }) => {
       default:
         renderForceLayout(graphData);
     }
-  }, [events, graphLayout, filterType, showLabels, maxNodes, minConnectionStrength, dateRange]);
+  }, [events, graphLayout, filterType, showLabels, maxNodes, minConnectionStrength, dateRange, 
+      searchQuery, selectedActor, selectedTag, highlightedNodeId, activeCategories]);
+
+  const handleCategoryToggle = (categoryId) => {
+    const newCategories = new Set(activeCategories);
+    
+    if (categoryId === 'all') {
+      // Toggle all on/off
+      if (newCategories.has('all')) {
+        newCategories.clear();
+      } else {
+        newCategories.clear();
+        newCategories.add('all');
+      }
+    } else {
+      // Remove 'all' if selecting specific category
+      newCategories.delete('all');
+      
+      if (newCategories.has(categoryId)) {
+        newCategories.delete(categoryId);
+      } else {
+        newCategories.add(categoryId);
+      }
+      
+      // If no categories selected, default to all
+      if (newCategories.size === 0) {
+        newCategories.add('all');
+      }
+    }
+    
+    setActiveCategories(newCategories);
+  };
+
+  const resetFilters = () => {
+    setSearchQuery('');
+    setSelectedActor('');
+    setSelectedTag('');
+    setActiveCategories(new Set(['all']));
+    setHighlightedNodeId(null);
+    setSelectedNode(null);
+    setFilterType('important');
+    setDateRange({ months: 6 });
+    setMaxNodes(30);
+  };
 
   return (
     <div className="network-graph-container">
       <div className="graph-controls">
+        {/* Search Box */}
+        <div className="control-group search-group">
+          <input
+            type="text"
+            placeholder="Search events..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="search-input"
+            style={{
+              padding: '6px 12px',
+              border: '1px solid #ddd',
+              borderRadius: '4px',
+              width: '200px'
+            }}
+          />
+        </div>
+
+        {/* Actor Filter */}
+        <div className="control-group">
+          <label>Actor:</label>
+          <select 
+            value={selectedActor} 
+            onChange={(e) => setSelectedActor(e.target.value)}
+            style={{ maxWidth: '150px' }}
+          >
+            <option value="">All Actors</option>
+            {uniqueActors.slice(0, 50).map(actor => (
+              <option key={actor} value={actor}>
+                {actor.length > 30 ? actor.substring(0, 28) + '...' : actor}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Tag Filter */}
+        <div className="control-group">
+          <label>Tag:</label>
+          <select 
+            value={selectedTag} 
+            onChange={(e) => setSelectedTag(e.target.value)}
+            style={{ maxWidth: '150px' }}
+          >
+            <option value="">All Tags</option>
+            {uniqueTags.slice(0, 50).map(tag => (
+              <option key={tag} value={tag}>{tag}</option>
+            ))}
+          </select>
+        </div>
+        
         <div className="control-group">
           <label>View:</label>
           <select value={filterType} onChange={(e) => setFilterType(e.target.value)}>
@@ -492,35 +674,25 @@ const NetworkGraph = ({ events }) => {
         </div>
         
         <div className="control-group">
-          <label>Time Range:</label>
+          <label>Time:</label>
           <select value={dateRange.months} onChange={(e) => setDateRange({ months: parseInt(e.target.value) })}>
-            <option value="1">Last Month</option>
-            <option value="3">Last 3 Months</option>
-            <option value="6">Last 6 Months</option>
-            <option value="12">Last Year</option>
-            <option value="24">Last 2 Years</option>
+            <option value="1">1 Month</option>
+            <option value="3">3 Months</option>
+            <option value="6">6 Months</option>
+            <option value="12">1 Year</option>
+            <option value="24">2 Years</option>
             <option value="">All Time</option>
           </select>
         </div>
 
         <div className="control-group">
-          <label>Max Nodes:</label>
+          <label>Nodes:</label>
           <select value={maxNodes} onChange={(e) => setMaxNodes(parseInt(e.target.value))}>
-            <option value="20">20 nodes</option>
-            <option value="30">30 nodes</option>
-            <option value="50">50 nodes</option>
-            <option value="75">75 nodes</option>
-            <option value="100">100 nodes</option>
-          </select>
-        </div>
-
-        <div className="control-group">
-          <label>Min Connection:</label>
-          <select value={minConnectionStrength} onChange={(e) => setMinConnectionStrength(parseFloat(e.target.value))}>
-            <option value="0">All</option>
-            <option value="0.3">Weak+</option>
-            <option value="0.5">Medium+</option>
-            <option value="0.7">Strong</option>
+            <option value="20">20</option>
+            <option value="30">30</option>
+            <option value="50">50</option>
+            <option value="75">75</option>
+            <option value="100">100</option>
           </select>
         </div>
 
@@ -531,8 +703,25 @@ const NetworkGraph = ({ events }) => {
               checked={showLabels}
               onChange={(e) => setShowLabels(e.target.checked)}
             />
-            Show Labels
+            Labels
           </label>
+        </div>
+
+        {/* Reset Button */}
+        <div className="control-group">
+          <button 
+            onClick={resetFilters}
+            style={{
+              padding: '6px 16px',
+              background: '#667eea',
+              color: 'white',
+              border: 'none',
+              borderRadius: '4px',
+              cursor: 'pointer'
+            }}
+          >
+            Reset
+          </button>
         </div>
       </div>
 
@@ -545,6 +734,9 @@ const NetworkGraph = ({ events }) => {
           {selectedNode.date && <p><strong>Date:</strong> {selectedNode.date}</p>}
           {selectedNode.impact && <p><strong>Impact Score:</strong> {selectedNode.impact}/10</p>}
           {selectedNode.eventCount && <p><strong>Connected Events:</strong> {selectedNode.eventCount}</p>}
+          {selectedNode.actors && selectedNode.actors.length > 0 && (
+            <p><strong>Actors:</strong> {selectedNode.actors.slice(0, 5).join(', ')}</p>
+          )}
           {selectedNode.tags && selectedNode.tags.length > 0 && (
             <p><strong>Tags:</strong> {selectedNode.tags.join(', ')}</p>
           )}
@@ -552,35 +744,61 @@ const NetworkGraph = ({ events }) => {
         </div>
       )}
 
-      <div className="graph-legend">
-        <h4>Legend</h4>
-        <div className="legend-item">
-          <span className="legend-color judicial"></span> Judicial
+      {/* Interactive Category Filter (replaces static legend) */}
+      <div className="graph-legend" style={{ maxWidth: '180px' }}>
+        <h4>Filter by Category</h4>
+        <div 
+          className="legend-item clickable"
+          onClick={() => handleCategoryToggle('all')}
+          style={{ 
+            cursor: 'pointer', 
+            opacity: activeCategories.has('all') ? 1 : 0.5,
+            fontWeight: activeCategories.has('all') ? 'bold' : 'normal'
+          }}
+        >
+          <span style={{
+            display: 'inline-block',
+            width: '16px',
+            height: '16px',
+            borderRadius: '3px',
+            background: 'linear-gradient(45deg, #e74c3c, #3498db, #2ecc71, #f39c12)',
+            marginRight: '8px'
+          }}></span>
+          All Categories
         </div>
-        <div className="legend-item">
-          <span className="legend-color regulatory"></span> Regulatory
-        </div>
-        <div className="legend-item">
-          <span className="legend-color financial"></span> Financial
-        </div>
-        <div className="legend-item">
-          <span className="legend-color political"></span> Political
-        </div>
-        <div className="legend-item">
-          <span className="legend-color criminal" style={{background: '#c0392b'}}></span> Criminal
-        </div>
-        <div className="legend-item">
-          <span className="legend-color actor"></span> Actor
-        </div>
-        <div className="legend-section" style={{marginTop: '10px', borderTop: '1px solid #ddd', paddingTop: '10px'}}>
-          <div className="legend-item">
-            <span style={{display: 'inline-block', width: '30px', height: '2px', background: '#ffd700'}}></span> Temporal
+        
+        {categories.filter(c => c.id !== 'other').map(category => (
+          <div 
+            key={category.id}
+            className="legend-item clickable"
+            onClick={() => handleCategoryToggle(category.id)}
+            style={{ 
+              cursor: 'pointer', 
+              opacity: activeCategories.has('all') || activeCategories.has(category.id) ? 1 : 0.3,
+              fontWeight: activeCategories.has(category.id) && !activeCategories.has('all') ? 'bold' : 'normal'
+            }}
+          >
+            <span 
+              className={`legend-color ${category.id}`}
+              style={{ background: category.color }}
+            ></span>
+            {category.label}
           </div>
-          <div className="legend-item">
-            <span style={{display: 'inline-block', width: '30px', height: '2px', background: '#87ceeb'}}></span> Thematic
+        ))}
+        
+        <div style={{ marginTop: '15px', paddingTop: '10px', borderTop: '1px solid #ddd' }}>
+          <h5 style={{ fontSize: '12px', marginBottom: '8px' }}>Connection Types</h5>
+          <div className="legend-item" style={{ fontSize: '11px' }}>
+            <span style={{display: 'inline-block', width: '25px', height: '2px', background: '#ffd700', marginRight: '5px'}}></span>
+            Temporal (≤3 days)
           </div>
-          <div className="legend-item">
-            <span style={{display: 'inline-block', width: '30px', height: '2px', background: '#ddd'}}></span> Actor Link
+          <div className="legend-item" style={{ fontSize: '11px' }}>
+            <span style={{display: 'inline-block', width: '25px', height: '2px', background: '#87ceeb', marginRight: '5px'}}></span>
+            Thematic (2+ tags)
+          </div>
+          <div className="legend-item" style={{ fontSize: '11px' }}>
+            <span style={{display: 'inline-block', width: '25px', height: '2px', background: '#ddd', marginRight: '5px'}}></span>
+            Actor-Event
           </div>
         </div>
       </div>

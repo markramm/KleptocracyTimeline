@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
-import TimelineView from './components/TimelineView';
+import EnhancedTimelineView from './components/EnhancedTimelineView';
 import FilterPanel from './components/FilterPanel';
 import EventDetails from './components/EventDetails';
 import StatsPanel from './components/StatsPanel';
@@ -279,7 +279,7 @@ function App() {
               events={filteredEvents}
             />
           ) : (
-            <TimelineView
+            <EnhancedTimelineView
               events={filteredEvents}
               groups={timelineGroups}
               viewMode={viewMode}
