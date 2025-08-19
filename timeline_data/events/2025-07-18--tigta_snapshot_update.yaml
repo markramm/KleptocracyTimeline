@@ -4,7 +4,10 @@ title: 'TIGTA update: IRS reductions and DRP effects as of July'
 summary: Follow-on TIGTA snapshot quantifies DRP and VERA/VSIP participation and implications
   for IRS operations and revenue.
 sources:
-- https://www.tigta.gov/sites/default/files/reports/2025-07/2025ier027fr.pdf
+- title: "TIGTA update: IRS reductions and DRP effects as of July"
+  url: https://www.tigta.gov/sites/default/files/reports/2025-07/2025ier027fr.pdf
+  outlet: Treasury Inspector General for Tax Administration
+  date: '2025-07-18'
 status: confirmed
 tags:
 - taxation

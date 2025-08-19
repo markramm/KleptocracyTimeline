@@ -22,4 +22,5 @@ sources:
   url: https://www.documentcloud.org/documents/24680123-sevp-foia-2025
   outlet: DocumentCloud
   date: '2025-06-01'
+  archive_url: https://web.archive.org/web/*/https://www.documentcloud.org/documents/24680123-sevp-foia-2025
 status: confirmed

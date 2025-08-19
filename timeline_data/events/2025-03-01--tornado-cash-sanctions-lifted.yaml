@@ -1,5 +1,5 @@
 id: 2025-03-01--tornado-cash-sanctions-lifted
-date: '2025-03-01'
+date: '2025-03-21'
 title: Treasury lifts Tornado Cash sanctions benefiting crypto money laundering
 summary: Treasury Department lifted sanctions on Tornado Cash crypto mixing service
   previously designated for laundering over $7 billion, removing barriers to anonymous
@@ -14,10 +14,17 @@ tags:
 - money-laundering
 - regulatory-rollback
 sources:
-- title: Tornado Cash sanctions removal
-  url: https://home.treasury.gov/news/press-releases/tornado-cash-designation-lifted
+- title: Tornado Cash Delisting
+  url: https://home.treasury.gov/news/press-releases/sb0057
   outlet: Treasury Department
-  date: '2025-03-01'
-  archive_url: https://web.archive.org/web/20250814000000/https://home.treasury.gov/news/press-releases/tornado-cash-designation-lifted
+  date: '2025-03-21'
+- title: U.S. Government Removes Tornado Cash Sanctions
+  url: https://www.coindesk.com/policy/2025/03/21/u-s-government-removes-tornado-cash-sanctions
+  outlet: CoinDesk
+  date: '2025-03-21'
+- title: U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe
+  url: https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html
+  outlet: The Hacker News
+  date: '2025-03-21'
 notes: Benefits illicit finance networks and reduces crypto transaction transparency
 status: confirmed

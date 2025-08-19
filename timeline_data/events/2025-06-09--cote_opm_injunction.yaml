@@ -5,9 +5,18 @@ title: Judge Denise Cote issues preliminary injunction restricting DOGE access t
 summary: Court finds privacy and cybersecurity laws violated in granting DOGE affiliates
   access to OPM systems; limits further access pending litigation.
 sources:
-- https://fedscoop.com/judge-grants-preliminary-injunction-challenge-doge-opm-record-access
-- https://federalnewsnetwork.com/management/2025/06/judge-finds-opm-broke-law-in-granting-data-access-to-doge
-- https://www.narfe.org/il/2025/06/19/judge-restricts-doge-access-to-opm-systems
+- title: Judge grants preliminary injunction challenging DOGE-OPM record access
+  url: https://fedscoop.com/judge-grants-preliminary-injunction-challenge-doge-opm-record-access
+  outlet: FedScoop
+  date: '2025-06-09'
+- title: Judge finds OPM broke law in granting data access to DOGE
+  url: https://federalnewsnetwork.com/management/2025/06/judge-finds-omp-broke-law-in-granting-data-access-to-doge
+  outlet: Federal News Network
+  date: '2025-06-09'
+- title: Judge restricts DOGE access to OPM systems
+  url: https://www.narfe.org/il/2025/06/19/judge-restricts-doge-access-to-opm-systems
+  outlet: NARFE
+  date: '2025-06-19'
 status: confirmed
 tags:
 - doge

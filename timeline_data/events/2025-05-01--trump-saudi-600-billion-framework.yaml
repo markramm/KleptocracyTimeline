@@ -1,5 +1,5 @@
 id: 2025-05-01--trump-saudi-600-billion-framework
-date: '2025-05-01'
+date: '2025-05-13'
 title: Trump announces $600 billion Saudi investment framework during May 2025 visit
 summary: During Trump's May 2025 visit to Saudi Arabia, the Kingdom announced a $600
   billion investment commitment in the United States, creating massive financial framework
@@ -19,12 +19,18 @@ tags:
 - business_conflicts
 status: confirmed
 sources:
-- title: The Hidden Winner How Saudi Arabia Benefits from Trump's Iran Strikes and
-    the Constitutional Questions It Raises
-  url: https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html
-  outlet: Washington Post
-  date: '2025-05-01'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+- title: Fact Sheet - President Donald J. Trump Secures Historic $600 Billion Investment Commitment in Saudi Arabia
+  url: https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-600-billion-investment-commitment-in-saudi-arabia/
+  outlet: White House
+  date: '2025-05-13'
+- title: US Says Trump Visit Secured $600 Billion in Investments From Saudi Arabia
+  url: https://www.bloomberg.com/news/articles/2025-05-13/us-says-it-secured-600-billion-in-investments-from-saudi-arabia
+  outlet: Bloomberg
+  date: '2025-05-13'
+- title: White House announces $600 billion Saudi investment in U.S. during Trump visit
+  url: https://www.cnbc.com/2025/05/13/trump-saudi-investment-speech.html
+  outlet: CNBC
+  date: '2025-05-13'
 notes: This massive investment framework was announced just one month before the June
   2025 Iran strikes that eliminated Saudi Arabia's primary security threat, raising
   questions about whether the investment commitments influenced subsequent military

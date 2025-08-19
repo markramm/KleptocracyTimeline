@@ -16,10 +16,21 @@ tags:
 - foreign-influence
 - corruption-investigation
 sources:
-- title: Blumenthal crypto investigation
-  url: https://www.senate.gov/committees/investigations/trump-crypto
-  outlet: U.S. Senate
-  date: '2025-03-15'
-  archive_url: https://web.archive.org/web/20250814000000/https://www.senate.gov/committees/investigations/trump-crypto
+- title: Permanent Subcommittee on Investigations Opens Inquiry into Trump Crypto Corruption
+  url: https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption
+  outlet: U.S. Senator Richard Blumenthal
+  date: '2025-05-06'
+- title: Senate Democrat Opens Investigation Into Trump's Crypto Businesses
+  url: https://www.coindesk.com/policy/2025/05/06/senate-democrat-says-hes-looking-into-trumps-crypto-businesses
+  outlet: CoinDesk
+  date: '2025-05-06'
+- title: Democrats push back against Trump's growing crypto empire
+  url: https://www.cnbc.com/2025/05/07/democrats-push-back-against-trumps-growing-crypto-empire.html
+  outlet: CNBC
+  date: '2025-05-07'
+- title: Trump Faces Senate Subcommittee Inquiry Over 'Crypto Corruption'
+  url: https://decrypt.co/318358/democratic-senator-investigates-trumps-chilling-crypto-ventures
+  outlet: Decrypt
+  date: '2025-05-07'
 notes: Congressional oversight targets unprecedented crypto conflicts
 status: confirmed

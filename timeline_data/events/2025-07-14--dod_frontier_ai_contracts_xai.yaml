@@ -12,7 +12,11 @@ tags:
 sources:
 - title: DoD CDAO press – Partnerships with frontier AI companies
   url: https://www.ai.mil/latest/news-press/pr-view/article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu
+  outlet: U.S. Department of Defense AI
+  date: '2025-07-14'
 - title: Reuters – Pentagon awards vendor list
   url: https://www.reuters.com/business/autos-transportation/us-department-defense-awards-contracts-google-xai-2025-07-14
+  outlet: Reuters
+  date: '2025-07-14'
   archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/
 status: confirmed

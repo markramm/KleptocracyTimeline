@@ -22,7 +22,7 @@ tags:
 - doge
 - civil-service-purge
 sources:
-- title: RIF watch: See which agencies are laying off federal workers
+- title: "RIF watch: See which agencies are laying off federal workers"
   url: https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/
   outlet: Government Executive
   date: '2025-02-28'
@@ -30,7 +30,7 @@ sources:
   url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
   outlet: Wikipedia
   date: '2025-08-01'
-notes: 'Elon Musk announced on X that GSA''s 18F technology team "has been deleted,"'
+notes: Elon Musk announced on X that GSA's 18F technology team "has been deleted",
   with roughly 90 federal technologists fired around midnight as part of reduction-in-force.
   This represents one of the most extreme targeted eliminations of federal expertise.
 status: confirmed

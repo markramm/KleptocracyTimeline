@@ -9,6 +9,18 @@ sources:
   outlet: Politico
   date: '2025-02-05'
   archive_url: https://web.archive.org/web/20250814194913/https://www.politico.com/
+- title: White House Says Musk Will Police His Own Conflicts of Interest
+  url: https://www.bloomberg.com/news/articles/2025-02-05/white-house-says-musk-will-police-his-own-conflicts-of-interest
+  outlet: Bloomberg
+  date: '2025-02-05'
+- title: Elon Musk will rule on his own DOGE conflict of interests, says White House
+  url: https://fortune.com/2025/02/06/elon-musk-conflicts-interest-doge-tesla-spacex/
+  outlet: Fortune
+  date: '2025-02-06'
+- title: White House Says Musk Will Decide His Own Conflicts of Interest. Uhhh …
+  url: https://www.rollingstone.com/politics/politics-news/elon-musk-conflict-interest-doge-1235257829/
+  outlet: Rolling Stone
+  date: '2025-02-06'
 status: confirmed
 tags:
 - doge

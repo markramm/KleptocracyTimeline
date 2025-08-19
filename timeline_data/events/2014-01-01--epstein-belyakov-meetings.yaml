@@ -1,14 +1,19 @@
 id: 2014-01-01--epstein-belyakov-meetings
 date: '2014-01-01'
 title: Epstein meets repeatedly with FSB Academy graduate Belyakov
-summary: Jeffrey Epstein held at least 5 documented meetings between 2014-2019 with
-  Artem Belyakov, FSB Academy graduate, suggesting Russian intelligence cultivation
-  of kompromat on Western elites.
+summary: Jeffrey Epstein maintained documented partnership with FSB Academy graduate
+  Sergei Belyakov (Deputy Minister of Economic Development, later SPIEF Director)
+  from 2014-2019. Belyakov facilitated Russian visa, high-level Moscow meetings,
+  and sought Epstein's help with sanctions evasion and money laundering expertise.
 location: New York/Virgin Islands
 actors:
 - Jeffrey Epstein
-- Artem Belyakov
-- FSB
+- Sergei Belyakov (FSB Academy graduate)
+- Russian Ministry of Economic Development
+- FSB Academy
+- Deputy Finance Minister Sergei Storchak
+- Central Bank Deputy Chairman Alexei Simanovsky
+- Minister Alexei Ulyukayev
 tags:
 - russian-intelligence
 - kompromat
@@ -21,5 +26,16 @@ sources:
   outlet: Dossier Center
   date: '2023-05-15'
   archive_url: https://web.archive.org/web/20250814000000/https://dossier.center/jeffreyepsteinrusconnect-en/
-notes: FSB Academy graduate cultivating intelligence asset with leverage over elites
+- title: 'The Cesspool and Chaos: the Russian Connection in the Epstein Affair'
+  url: https://european-security.com/the-cesspool-and-chaos-the-russian-connection-in-the-epstein-affair/
+  outlet: European Security
+  date: '2025-07-30'
+- title: How an American billionaire pedophile got along with the former deputy head of the Russian Ministry of Economic Development
+  url: https://ruscrime.com/how-an-american-billionaire-pedophile-got-along-with-the-former-deputy-head-of-the-russian-ministry-of-economic-development
+  outlet: Russian Crimes Daily News
+  date: '2023-05-16'
+notes: Belyakov graduated FSB Academy 1998, by 2008 became assistant to Minister Nabiullina.
+  2014 helped Epstein get Russian visa and arranged meetings with top financial officials.
+  2015 Epstein contacted Belyakov about Russian model blackmail scheme. Partnership
+  involved tax haven expertise exchange and cover for Russian agents.
 status: confirmed

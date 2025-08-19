@@ -20,5 +20,17 @@ sources:
   outlet: House Oversight Committee
   date: '2025-05-15'
   archive_url: https://web.archive.org/web/20250814000000/https://oversight.house.gov/epstein-files-briefing
+- title: Bondi briefed Trump that his name was in Epstein files
+  url: https://www.cnn.com/2025/07/23/politics/bondi-trump-epstein-list-files
+  outlet: CNN
+  date: '2025-07-23'
+- title: Trump was told by Bondi his name appeared multiple times in Epstein files
+  url: https://abcnews.go.com/US/trump-told-bondi-appeared-multiple-times-epstein-files/story?id=124014441
+  outlet: ABC News
+  date: '2025-07-23'
+- title: Trump was told his name was in Jeffrey Epstein files before DOJ withheld documents
+  url: https://www.cnbc.com/2025/07/23/trump-jeffrey-epstein-files-wsj.html
+  outlet: CNBC
+  date: '2025-07-23'
 notes: Reveals Trump's awareness of financial crime exposure in Epstein documents
 status: confirmed

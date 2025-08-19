@@ -21,5 +21,17 @@ sources:
   outlet: U.S. Senate Committee on Banking
   date: '2025-02-01'
   archive_url: https://web.archive.org/web/20250814000000/https://www.senate.gov/committees/banking/sacks-waiver
+- title: Trump Issues Ethics Waiver For His AI/Crypto Czar
+  url: https://www.levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar/
+  outlet: The Lever
+  date: '2025-03-06'
+- title: David Sacks sold $200 million in crypto-related holdings before taking White House job, ethics memo says
+  url: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html
+  outlet: CNBC
+  date: '2025-03-14'
+- title: Ahead of Trump Crypto Fundraiser, Warren Questions Government Ethics Agency on Crypto Czar David Sacks Conflicts of Interest
+  url: https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest
+  outlet: U.S. Senate Committee on Banking, Housing, and Urban Affairs
+  date: '2025-03-06'
 notes: Unprecedented waiver allows policy-making while maintaining financial interests
 status: confirmed

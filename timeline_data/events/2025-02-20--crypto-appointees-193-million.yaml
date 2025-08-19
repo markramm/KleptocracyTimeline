@@ -1,15 +1,20 @@
 id: 2025-02-20--crypto-appointees-193-million
 date: '2025-02-20'
 title: Over 70 Trump appointees hold $193 million in cryptocurrency
-summary: Over 70 Trump appointees held cryptocurrency or blockchain investments at
-  selection totaling at least $193 million in disclosed holdings, with Treasury Secretary
-  Bessent reporting $250,000-$500,000 in digital assets and Trump holding $51 million
-  in World Liberty Financial.
+summary: Washington Post found nearly 70 Trump nominees/officials held at least $193 million
+  in crypto assets (ranges make actual amount higher). Trump reported $51 million personal
+  stake, Vance and 7 Cabinet members disclosed $2 million+. Crypto czar David Sacks sold
+  $200 million in crypto holdings before taking job ($85 million directly attributable).
+  Treasury Secretary Bessent reported up to $500,000, divested before taking office.
+  Individual holdings ranged from small investments to $120 million.
 location: Washington, DC
 actors:
 - Trump appointees
 - Scott Bessent
 - Donald Trump
+- David Sacks
+- JD Vance
+- Brian Quintenz (CFTC nominee)
 - World Liberty Financial
 tags:
 - cryptocurrency
@@ -18,9 +23,25 @@ tags:
 - financial-disclosure
 - bitcoin
 sources:
-- title: Crypto holdings among appointees
-  url: https://www.cryptoforinnovation.org/trump-crypto-appointees
+- title: "Trump's Crypto Appointments - Key Leaders in the Administration"
+  url: https://www.cryptoforinnovation.org/trumps-crypto-appointments-key-leaders-in-the-administration/
   outlet: Crypto for Innovation
   date: '2025-02-20'
-notes: Strategic Bitcoin Reserve creation directly benefits appointee holdings
+- title: "1 in 5 top Trump picks held crypto, some worth millions, Post finds"
+  url: https://www.washingtonpost.com/politics/interactive/2025/trump-officials-cryptocurrency-holdings-bitcoin/
+  outlet: Washington Post
+  date: '2025-02-18'
+- title: "David Sacks sold $200 million in crypto-related holdings before taking White House job"
+  url: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html
+  outlet: CNBC
+  date: '2025-03-14'
+- title: "Trump crypto czar David Sacks says priority is stablecoin legislation"
+  url: https://www.cnbc.com/2025/02/04/trump-crypto-czar-david-sacks-says-priority-is-stablecoin-legislation.html
+  outlet: CNBC
+  date: '2025-02-04'
+notes: Strategic Bitcoin Reserve creation directly benefits appointee holdings.
+  Sacks held February 4 press conference on crypto regulation plans. Disclosure forms
+  report holdings in ranges, so full amount "almost certainly higher." Trump hosting
+  first-ever crypto summit at White House. Administration demonstrating "strong commitment
+  to this digital asset."
 status: confirmed

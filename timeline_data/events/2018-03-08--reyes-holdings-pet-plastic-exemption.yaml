@@ -18,6 +18,18 @@ sources:
   url: https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy
   outlet: ProPublica
   date: '2018-03-08'
+- title: Trump's tariff threats send U.S. companies scrambling for lobbyists and loopholes
+  url: https://www.nbcnews.com/business/business-news/trump-tariff-threats-companies-seek-lobbyists-loopholes-rcna179868
+  outlet: NBC News
+  date: '2024-11-12'
+- title: New Research Shows Trump Administration Helped Donor Companies
+  url: https://whowhatwhy.org/politics/us-politics/new-research-shows-trump-administration-helped-donor-companies/
+  outlet: WhoWhatWhy
+  date: '2024-04-15'
+- title: Politically Connected Firms Benefit From Trump Tariff Exemptions
+  url: https://truthout.org/articles/politically-connected-firms-benefit-from-trump-tariff-exemptions/
+  outlet: Truthout
+  date: '2025-04-10'
 actors:
 - Reyes Holdings
 - Trump administration
