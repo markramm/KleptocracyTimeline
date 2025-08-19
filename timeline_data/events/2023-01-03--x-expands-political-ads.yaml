@@ -11,16 +11,16 @@ tags:
 - advertising
 - elections
 citations:
-- url: https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03/
-  archived: http://web.archive.org/web/20231002045704/https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03/
+- url: https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03
+  archived: https://web.archive.org/web/*/https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03
 status: confirmed
 sources:
 - title: X Expands Political Advertising in the US
-  url: https://business.twitter.com/en/blog/political-content-advertising-policy-update.html
+  url: https://business.x.com/en/blog/political-content-advertising-policy-update.html
   outlet: X Business Blog
   date: '2023-01-03'
 - title: Twitter Lifts Political Ad Ban as Musk Seeks Revenue
-  url: https://www.reuters.com/technology/twitter-lift-political-advertising-ban-2023-01-03/
+  url: https://www.reuters.com/technology/twitter-lift-political-advertising-ban-2023-01-03
   outlet: Reuters
   date: '2023-01-03'
   archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/

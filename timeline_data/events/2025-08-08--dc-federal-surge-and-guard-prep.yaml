@@ -16,12 +16,12 @@ sources:
   outlet: Associated Press
   date: '2025-08-08'
 - title: 'Washington Post: FBI agents dispatched to D.C. streets'
-  url: https://www.washingtonpost.com/dc-md-va/2025/08/10/dc-crime-trump-crackdown/
+  url: https://www.washingtonpost.com/dc-md-va/2025/08/10/dc-crime-trump-crackdown
   outlet: Washington Post
   date: '2025-08-10'
   archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
 - title: 'Reuters: Military preparing Guard activation in D.C.'
-  url: https://www.reuters.com/world/us/us-military-preparing-national-guard-activation-washington-dc-officials-say-2025-08-11/
+  url: https://www.reuters.com/world/us/us-military-preparing-national-guard-activation-washington-dc-officials-say-2025-08-11
   outlet: Reuters
   date: '2025-08-11'
   archive_url: https://web.archive.org/web/20250814194913/https://www.reuters.com/

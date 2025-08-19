@@ -16,7 +16,7 @@ sources:
   outlet: AP News
   date: '2025-06-20'
 - title: Courthouse News on emergency stay
-  url: https://www.courthousenews.com/appeals-court-stays-order-halting-national-guard-in-los-angeles/
+  url: https://www.courthousenews.com/appeals-court-stays-order-halting-national-guard-in-los-angeles
   outlet: Courthouse News
   date: '2025-06-20'
 status: confirmed

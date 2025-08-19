@@ -15,11 +15,11 @@ sources:
   outlet: Los Angeles Times
   date: '2025-07-11'
 - title: 'CPJ: Law enforcement injure multiple journalists in LA'
-  url: https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests/
+  url: https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests
   outlet: Committee to Protect Journalists
   date: '2025-06-09'
 - title: RCFP coalition letter documenting incidents
-  url: https://www.rcfp.org/la-immigration-protests-press-rights-letter/
+  url: https://www.rcfp.org/la-immigration-protests-press-rights-letter
   outlet: Reporters Committee for Freedom of the Press
   date: '2025-06-13'
 status: confirmed

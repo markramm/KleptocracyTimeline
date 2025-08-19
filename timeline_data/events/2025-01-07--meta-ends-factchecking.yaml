@@ -1,12 +1,12 @@
 id: 2025-01-07--meta-ends-factchecking
 title: Meta ends third-party fact-checking for U.S. political content
 date: '2025-01-07'
-summary: Meta announced ending its third-party fact-checking program in the United States
-  on January 7, 2025, replacing it with a "Community Notes" system where users write
-  and rate notes about potentially misleading content. Mark Zuckerberg stated the previous
-  system "too often became a tool to censor," with the change applying specifically to
-  U.S. political content and phasing in over the following months, raising concerns about
-  misinformation ahead of the 2026 midterm elections.
+summary: Meta announced ending its third-party fact-checking program in the United
+  States on January 7, 2025, replacing it with a "Community Notes" system where users
+  write and rate notes about potentially misleading content. Mark Zuckerberg stated
+  the previous system "too often became a tool to censor," with the change applying
+  specifically to U.S. political content and phasing in over the following months,
+  raising concerns about misinformation ahead of the 2026 midterm elections.
 location: United States
 actors:
 - Meta
@@ -21,19 +21,19 @@ tags:
 status: confirmed
 sources:
 - title: More Speech and Fewer Mistakes
-  url: https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
+  url: https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes
   outlet: Meta Newsroom
   date: '2025-01-07'
   verified: true
   verified_date: '2025-08-17'
   archive_url: https://web.archive.org/web/20250107000000*/https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
   key_facts_confirmed:
-    - "Ending third-party fact-checking in the U.S."
-    - "Replacing with Community Notes system"
-    - "Zuckerberg quote about censorship concerns"
-    - "Phasing in over next couple months"
+  - Ending third-party fact-checking in the U.S.
+  - Replacing with Community Notes system
+  - Zuckerberg quote about censorship concerns
+  - Phasing in over next couple months
 - title: Meta to test Community Notes-style fact-checking
-  url: https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram/
+  url: https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram
   outlet: The Washington Post
   date: '2025-08-04'
 notes: This represents a major shift in content moderation policy affecting billions

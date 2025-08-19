@@ -15,21 +15,21 @@ tags:
 - subscriptions
 - pay-to-play
 citations:
-- url: https://twitter.com/elonmusk/status/1640490130543771650
+- url: https://x.com/elonmusk/status/1640490130543771650
   archived: https://nitter.net/elonmusk/status/1640490130543771650
 - url: https://x.com/elonmusk/status/1640502698549075972
   archived: https://nitter.net/elonmusk/status/1640502698549075972
 - url: https://www.theverge.com/2023/3/27/23659351/elon-musk-twitter-for-you-verified-accounts-polls
-  archived: https://web.archive.org/web/20230328232222/https://www.theverge.com/2023/3/27/23659351/elon-musk-twitter-for-you-verified-accounts-polls
+  archived: https://web.archive.org/web/*/https://www.theverge.com/2023/3/27/23659351/elon-musk-twitter-for-you-verified-accounts-polls
 - url: https://www.vanityfair.com/news/2023/03/elon-musk-getting-everyone-pay-for-twitter
-  archived: https://web.archive.org/web/20230328200738/https://www.vanityfair.com/news/2023/03/elon-musk-getting-everyone-pay-for-twitter
+  archived: https://web.archive.org/web/*/https://www.vanityfair.com/news/2023/03/elon-musk-getting-everyone-pay-for-twitter
 status: confirmed
 sources:
 - title: X Updates Recommendation Algorithm to Prioritize Verified Accounts
-  url: https://twitter.com/elonmusk/status/1640345967024504832
+  url: https://x.com/elonmusk/status/1640345967024504832
   outlet: X/Twitter
   date: '2023-03-27'
 - title: Twitter Blue Subscribers Get Boost in For You Timeline
-  url: https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost/
+  url: https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost
   outlet: TechCrunch
   date: '2023-03-27'

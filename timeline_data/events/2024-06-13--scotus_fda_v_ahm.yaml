@@ -13,18 +13,18 @@ tags:
 - courts
 - standing
 citations:
-- https://supreme.justia.com/cases/federal/us/602/23-235/
-- https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/
+- https://supreme.justia.com/cases/federal/us/602/23-235
+- https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2
 notes: ''
 status: confirmed
 sources:
 - title: FDA v. Alliance for Hippocratic Medicine, 602 U.S. ___ (2024)
-  url: https://supreme.justia.com/cases/federal/us/602/23-235/
+  url: https://supreme.justia.com/cases/federal/us/602/23-235
   outlet: Supreme Court via Justia
   date: '2024-06-13'
   archive_url: https://web.archive.org/web/20240614000000*/https://supreme.justia.com/cases/federal/us/602/23-235/
 - title: Food and Drug Administration v. Alliance for Hippocratic Medicine
-  url: https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/
+  url: https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2
   outlet: SCOTUSblog
   date: '2024-06-13'
   archive_url: https://web.archive.org/web/20240614000000*/https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/

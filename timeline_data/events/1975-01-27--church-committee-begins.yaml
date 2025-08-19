@@ -2,14 +2,14 @@ id: 1975-01-27--church-committee-begins
 date: '1975-01-27'
 title: Church Committee begins exposing illegal intelligence activities
 summary: The U.S. Senate voted 82-to-4 on January 27, 1975 to form the Select Committee
-  to Study Governmental Operations with Respect to Intelligence Activities, chaired by
-  Senator Frank Church of Idaho. Created after Seymour Hersh's December 1974 NYT revelations
-  about CIA assassination attempts, the committee exposed decades of illegal activities
-  including NSA's Project Shamrock (copying telegrams since 1947), Project Minaret (monitoring
-  MLK, Muhammad Ali, even Church himself), Operation MKULTRA (drugging/torturing citizens),
-  and HTLINGUAL (opening 215,000+ pieces of mail). The committee's April 1976 six-book
-  report triggered reforms including FISA (1978) and permanent oversight, inadvertently
-  creating opportunities for private intelligence firms.
+  to Study Governmental Operations with Respect to Intelligence Activities, chaired
+  by Senator Frank Church of Idaho. Created after Seymour Hersh's December 1974 NYT
+  revelations about CIA assassination attempts, the committee exposed decades of illegal
+  activities including NSA's Project Shamrock (copying telegrams since 1947), Project
+  Minaret (monitoring MLK, Muhammad Ali, even Church himself), Operation MKULTRA (drugging/torturing
+  citizens), and HTLINGUAL (opening 215,000+ pieces of mail). The committee's April
+  1976 six-book report triggered reforms including FISA (1978) and permanent oversight,
+  inadvertently creating opportunities for private intelligence firms.
 location: Washington, DC
 actors:
 - Senator Frank Church
@@ -39,17 +39,17 @@ sources:
   verified_date: '2025-08-17'
   archive_url: https://web.archive.org/web/20240101000000*/https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm
   key_facts_confirmed:
-    - "January 27, 1975 Senate vote 82-to-4"
-    - "Frank Church appointed chairman"
-    - "Exposed Project Shamrock, Minaret, MKULTRA"
-    - "Led to FISA and permanent oversight committee"
+  - January 27, 1975 Senate vote 82-to-4
+  - Frank Church appointed chairman
+  - Exposed Project Shamrock, Minaret, MKULTRA
+  - Led to FISA and permanent oversight committee
 - title: January 27, 1975 - The Church Committee Opens Its Investigation
-  url: https://www.thenation.com/article/archive/january-27-1975-church-committee-opens-investigation-us-intelligence-agencies/
+  url: https://www.thenation.com/article/archive/january-27-1975-church-committee-opens-investigation-us-intelligence-agencies
   outlet: The Nation
   date: '2015-01-27'
   verified: true
 - title: Frank Church and the Church Committee
-  url: https://www.levin-center.org/frank-church-and-the-church-committee/
+  url: https://www.levin-center.org/frank-church-and-the-church-committee
   outlet: Levin Center for Oversight
   date: '2024-01-01'
   verified: true
@@ -58,8 +58,8 @@ sources:
   outlet: Constitution Center
   date: '2024-01-01'
   verified: true
-notes: Church famously warned about intelligence technology capacity for tyranny - "the
-  abyss from which there is no return." While successfully exposing abuses, reforms
+notes: Church famously warned about intelligence technology capacity for tyranny -
+  "the abyss from which there is no return." While successfully exposing abuses, reforms
   inadvertently pushed operations into private sector. Public hearings September-October
   1975 were nationally televised. Final report called "most extensive review of intelligence
   activities ever made available to the public."

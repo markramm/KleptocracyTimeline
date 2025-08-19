@@ -1,7 +1,7 @@
 date: '2024-09-19'
 title: FEC declines AI rulemaking, adopts interpretive rule
-summary: Federal Election Commission voted not to open a rulemaking on AI in campaign 
-  ads, instead adopting an interpretive rule clarifying that existing fraud misrepresentation 
+summary: Federal Election Commission voted not to open a rulemaking on AI in campaign
+  ads, instead adopting an interpretive rule clarifying that existing fraud misrepresentation
   laws apply to AI-generated content.
 tags:
 - advertising
@@ -9,20 +9,22 @@ tags:
 - elections
 - fec
 citations:
-- https://www.fec.gov/updates/commission-approves-notification-of-disposition-interpretive-rule-on-artificial-intelligence-in-campaign-ads/
+- https://www.fec.gov/updates/commission-approves-notification-of-disposition-interpretive-rule-on-artificial-intelligence-in-campaign-ads
 id: 2024-08-15--fec_ai_rulemaking_opens
 location: null
 actors: []
 notes: ''
 status: confirmed
 sources:
-- title: Commission approves Notification of Disposition, Interpretive Rule on artificial intelligence in campaign ads
-  url: https://www.fec.gov/updates/commission-approves-notification-of-disposition-interpretive-rule-on-artificial-intelligence-in-campaign-ads/
+- title: Commission approves Notification of Disposition, Interpretive Rule on artificial
+    intelligence in campaign ads
+  url: https://www.fec.gov/updates/commission-approves-notification-of-disposition-interpretive-rule-on-artificial-intelligence-in-campaign-ads
   outlet: Federal Election Commission
   date: '2024-09-19'
   archive_url: https://web.archive.org/web/20240920000000*/https://www.fec.gov/updates/commission-approves-notification-of-disposition-interpretive-rule-on-artificial-intelligence-in-campaign-ads/
-- title: FEC makes public draft documents regarding artificial intelligence in campaign ads
-  url: https://www.fec.gov/updates/fec-makes-public-draft-documents-regarding-artificial-intelligence-in-campaign-ads/
+- title: FEC makes public draft documents regarding artificial intelligence in campaign
+    ads
+  url: https://www.fec.gov/updates/fec-makes-public-draft-documents-regarding-artificial-intelligence-in-campaign-ads
   outlet: Federal Election Commission
   date: '2024-09-10'
   archive_url: https://web.archive.org/web/20240911000000*/https://www.fec.gov/updates/fec-makes-public-draft-documents-regarding-artificial-intelligence-in-campaign-ads/

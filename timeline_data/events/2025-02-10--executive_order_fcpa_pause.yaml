@@ -6,8 +6,8 @@ tags:
 - executive-order
 - fcpa
 citations:
-- https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
-- https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10/
+- https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security
+- https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10
 id: 2025-02-10--executive_order_fcpa_pause
 location: null
 actors: []
@@ -15,7 +15,7 @@ notes: ''
 status: confirmed
 sources:
 - title: Executive Actions Archive
-  url: https://www.whitehouse.gov/presidential-actions/
+  url: https://www.whitehouse.gov/presidential-actions
   outlet: White House
   date: '2025-01-20'
   archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/

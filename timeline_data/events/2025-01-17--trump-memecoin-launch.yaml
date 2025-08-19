@@ -1,13 +1,13 @@
 id: 2025-01-17--trump-memecoin-launch
 date: '2025-01-17'
 title: Trump launches $TRUMP memecoin three days before inauguration
-summary: Donald Trump launched the $TRUMP memecoin on January 17, 2025 at 9 PM via TruthSocial,
-  three days before his inauguration. The token reached a $27 billion market cap within
-  24 hours, with Trump's 800 million tokens (held by CIC Digital LLC and Fight Fight Fight LLC)
-  briefly valued over $20 billion. While Trump entities earned $350 million in fees,
-  813,294 retail investors lost $2 billion according to NYT analysis, with the price
-  reaching $73 before dropping below $40 after inauguration. Ethics experts condemned
-  it as unprecedented monetization of the presidency.
+summary: Donald Trump launched the $TRUMP memecoin on January 17, 2025 at 9 PM via
+  TruthSocial, three days before his inauguration. The token reached a $27 billion
+  market cap within 24 hours, with Trump's 800 million tokens (held by CIC Digital
+  LLC and Fight Fight Fight LLC) briefly valued over $20 billion. While Trump entities
+  earned $350 million in fees, 813,294 retail investors lost $2 billion according
+  to NYT analysis, with the price reaching $73 before dropping below $40 after inauguration.
+  Ethics experts condemned it as unprecedented monetization of the presidency.
 location: United States
 actors:
 - Donald Trump
@@ -36,23 +36,24 @@ sources:
   outlet: Axios
   date: '2025-01-18'
   verified: true
-- title: Trump's crypto-frenzied inauguration weekend makes first family billions richer
+- title: Trump's crypto-frenzied inauguration weekend makes first family billions
+    richer
   url: https://www.cnbc.com/2025/01/20/trump-crypto-fueled-inauguration-makes-family-billions-of-dollars.html
   outlet: CNBC
   date: '2025-01-20'
   verified: true
 - title: Trump Memecoin Information Gaps in Crypto Finance
-  url: https://www.bloomberg.com/graphics/2025-trump-token-memecoin-crypto-finance/
+  url: https://www.bloomberg.com/graphics/2025-trump-token-memecoin-crypto-finance
   outlet: Bloomberg
   date: '2025-01-20'
   verified: true
   key_facts_confirmed:
-    - "9 PM January 17 TruthSocial announcement"
-    - "1 billion total coins, 800M Trump-owned, 200M public"
-    - "$27 billion market cap within 24 hours"
-    - "$350M profits for Trump entities (FT analysis)"
-    - "$2B losses for 813,294 investors (NYT analysis)"
-    - "Melania launched $MELANIA on Jan 19"
+  - 9 PM January 17 TruthSocial announcement
+  - 1 billion total coins, 800M Trump-owned, 200M public
+  - $27 billion market cap within 24 hours
+  - $350M profits for Trump entities (FT analysis)
+  - $2B losses for 813,294 investors (NYT analysis)
+  - Melania launched $MELANIA on Jan 19
 notes: FT analysis found $350M in fees earned by Trump entities while retail investors
   lost $2 billion. Melania launched her own $MELANIA coin on January 19. Described
   by analysts as potential pump and dump scheme.
