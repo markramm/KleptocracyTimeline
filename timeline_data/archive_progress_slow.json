@@ -1,15 +1,16 @@
 {
-  "archived": [],
-  "failed": [
+  "archived": [
     "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
     "https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679",
+    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842"
+  ],
+  "failed": [
     "https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317",
     "https://abcnews.go.com/Politics/timeline-trump-epsteins-relationship-trump-falling/story?id=124241038",
     "https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story",
     "https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093",
     "https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121",
     "https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078",
-    "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
     "https://abcnews.go.com/US/trump-tapped-unprecedented-13-billionaires-top-administration-roles/story?id=116872968",
     "https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555",
     "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
@@ -90,7 +91,32 @@
     "https://mitchthelawyer.substack.com/p/justin-sun-donald-trump-and-the-75",
     "https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html",
     "https://monitor.civicus.org/watchlist-march-2025/USA/",
-    "https://nasawatch.com/post/isaacman-nomination-withdrawn-2025"
+    "https://nasawatch.com/post/isaacman-nomination-withdrawn-2025",
+    "https://natlawreview.com/article/trump-revokes-biden-administrations-executive-order-antitrust-competition-other",
+    "https://news.bloomberglaw.com/litigation/musk-challenged-california-anti-deepfake-law-struck-by-judge",
+    "https://news.harvard.edu/gazette/story/2025/05/what-revoked-student-visa-status-means",
+    "https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles",
+    "https://nymag.com/nymetro/news/people/n_7912",
+    "https://oge.gov/web/oge.nsf/Resources/OGE+has+been+notified+that+the+President+is+removing+David+Huitema+as+the+Director+of+OGE.+OGE+is+reverting+to+an+Acting+Director.+Please+see+OGE's+Organizational+Leadership+webpage.++",
+    "https://ourpublicservice.org/press-release/partnership-for-public-service-releases-new-resources-measuring-the-impact-of-president-trumps-federal-government-reforms-during-first-100-days",
+    "https://oversight.house.gov/epstein-files-briefing",
+    "https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/",
+    "https://oversight.house.gov/trump-crypto-sar-request",
+    "https://oversightdemocrats.house.gov/news/press-releases/top-house-dems-demand-all-suspicious-activity-reports-related-trump-crypto",
+    "https://pfas.pillsburylaw.com/epa-rule-pfas-substances-hazardous-cercla",
+    "https://president.columbia.edu/news/resolution-federal-investigations-and-restoration-universitys-research-funding",
+    "https://pressfreedomtracker.us/all-incidents/reporter-struck-with-pepper-balls-while-covering-la-immigration-protest/",
+    "https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents",
+    "https://prospect.org/economy/2025-02-19-cfpb-shut-down-russell-vought",
+    "https://publicintegrity.org/politics/on-paul-manafort-and-foreign-lobbying-a-qa-with-the-author-of-the-torturers-lobby",
+    "https://qz.com/1178875/trump-sold-1-5-billion-of-condos-to-potential-money-launderers",
+    "https://reason.com/2024/10/25/how-to-avoid-paying-tariffs-have-a-friend-in-washington",
+    "https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts",
+    "https://rsf.org/en/usa-rsf-condemns-wave-violence-against-journalists-covering-los-angeles-protests",
+    "https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies",
+    "https://supreme.justia.com/cases/federal/us/602/23-235",
+    "https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost",
+    "https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content"
   ],
   "skipped": []
 }

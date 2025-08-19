@@ -19,11 +19,11 @@ sources:
   url: https://en.wikipedia.org/wiki/Anna_Chapman
   outlet: Wikipedia
   date: '2024-01-01'
-  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Anna_Chapman
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Anna_Chapman
 - title: The SoHo Spy - Stunning Anna Chapman Accused in Russian Spy Ring
   url: https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883
   outlet: ABC News
   date: '2010-06-28'
-  archive_url: https://web.archive.org/web/*/https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883
+  archive_url: https://web.archive.org/web/20240101000000/https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883
 notes: Intelligence asset positioning for future leverage operations
 status: confirmed

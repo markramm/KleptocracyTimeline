@@ -23,17 +23,17 @@ sources:
   url: https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
   outlet: CNN Money
   date: '2016-07-27'
-  archive_url: https://web.archive.org/web/*/https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+  archive_url: https://web.archive.org/web/20240101000000/https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
 - title: Maison de L'Amitie - Wikipedia
   url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie
   outlet: Wikipedia
   date: '2024-01-01'
-  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
 - title: Why did a Russian pay $95M to buy Trump's Palm Beach mansion?
   url: https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion
   outlet: Seattle Times
   date: '2018-01-01'
-  archive_url: https://web.archive.org/web/*/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/
+  archive_url: https://web.archive.org/web/20240101000000/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/
 notes: The $95 million sale price was remarkably high given the 2008 financial crisis
   when luxury real estate values were generally declining. Trump nearly doubled his
   investment in four years during a period when most property values fell. The property

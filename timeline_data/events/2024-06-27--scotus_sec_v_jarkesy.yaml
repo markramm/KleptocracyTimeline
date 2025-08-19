@@ -42,7 +42,7 @@ sources:
   url: https://www.supremecourt.gov/opinions/23pdf/22-859_1924.pdf
   outlet: Supreme Court
   date: '2024-06-27'
-  archive_url: https://web.archive.org/web/*/https://www.supremecourt.gov/opinions/23pdf/22-859_1924.pdf
+  archive_url: https://web.archive.org/web/20240101000000/https://www.supremecourt.gov/opinions/23pdf/22-859_1924.pdf
 - title: Securities and Exchange Commission v. Jarkesy
   url: https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy/
   outlet: SCOTUSblog

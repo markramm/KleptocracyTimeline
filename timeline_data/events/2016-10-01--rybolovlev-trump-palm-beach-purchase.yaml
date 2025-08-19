@@ -19,12 +19,12 @@ sources:
   url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie
   outlet: Wikipedia
   date: '2024-01-01'
-  archive_url: https://web.archive.org/web/*/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Maison_de_L'Amitie
 - title: That time a Russian billionaire paid Trump $95 million for a mansion
   url: https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
   outlet: CNN Money
   date: '2016-07-27'
-  archive_url: https://web.archive.org/web/*/https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
+  archive_url: https://web.archive.org/web/20240101000000/https://money.cnn.com/2016/07/27/news/donald-trump-russian-deal-mansion/index.html
 notes: The 8-year vacancy followed by demolition raised questions about whether the 
   original purchase was truly for investment purposes or served other functions. The 
   subdivision into three lots ultimately yielded over $108 million in total sales.
