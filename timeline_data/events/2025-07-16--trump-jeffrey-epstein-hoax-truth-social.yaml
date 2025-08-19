@@ -14,10 +14,17 @@ tags:
 - base-alienation
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Trump calls Epstein files issue a 'hoax,' attacks disappointed supporters
+  outlet: NBC News
   date: '2025-07-16'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://www.nbcnews.com/politics/donald-trump/trump-epstein-hoax-truth-social-supporters
+- title: Trump's Truth Social post alienates base over Epstein files reversal
+  outlet: The Daily Beast
+  date: '2025-07-16'
+  url: https://www.thedailybeast.com/trump-truth-social-epstein-hoax-attacks-supporters
+- title: Trump dismisses Epstein transparency demands as 'Jeffrey Epstein Hoax'
+  outlet: Axios
+  date: '2025-07-17'
+  url: https://www.axios.com/2025/07/17/trump-epstein-hoax-truth-social-base
 notes: Trump's attack on his own base for demanding he keep campaign promises marked
   unprecedented political self-harm.

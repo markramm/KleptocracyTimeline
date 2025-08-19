@@ -14,9 +14,13 @@ tags:
 - mass-layoffs
 - government-restructuring
 sources:
-- title: Federal layoff statistics
-  url: https://federalnewsnetwork.com/workforce/2025/06/layoff-statistics
-  outlet: Federal News Network
+- title: Trump is planning to slash 107,000 federal jobs next year. See where
+  url: https://www.govexec.com/workforce/2025/06/trump-planning-slash-107000-federal-jobs-next-year-see-where/405758/
+  outlet: Government Executive
   date: '2025-06-15'
+- title: 2025 United States federal mass layoffs
+  url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
+  outlet: Wikipedia
+  date: '2025-06-26'
 notes: Exceeds historical precedent for federal workforce transformation
 status: confirmed

@@ -26,8 +26,8 @@ sources:
   outlet: White House
   date: '2025-01-20'
   archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Fact Sheet on Federal Collective Bargaining Exclusions
+  url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/
+  outlet: White House
+  date: '2025-03-27'
 status: confirmed

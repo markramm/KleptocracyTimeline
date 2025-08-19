@@ -13,9 +13,13 @@ tags:
 - gsa
 - regional-targeting
 sources:
-- title: GSA workforce elimination
-  url: https://en.wikipedia.org/wiki/General_Services_Administration
+- title: RIF watch: See which agencies are laying off federal workers
+  url: https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/
+  outlet: Government Executive
+  date: '2025-02-28'
+- title: 2025 United States federal mass layoffs
+  url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
   outlet: Wikipedia
-  date: '2025-08-02'
+  date: '2025-08-01'
 notes: Targeted regional elimination of federal workforce
 status: confirmed

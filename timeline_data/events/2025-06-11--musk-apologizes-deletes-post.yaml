@@ -12,9 +12,16 @@ tags:
 - apology
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Musk apologizes for Epstein-Trump claim, deletes viral post
+  outlet: Reuters
   date: '2025-06-11'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://www.reuters.com/technology/musk-apologizes-epstein-trump-post-2025-06-11/
+- title: Elon Musk says Epstein comments 'went too far' in rare apology
+  outlet: Bloomberg
+  date: '2025-06-11'
+  url: https://www.bloomberg.com/news/articles/2025-06-11/musk-apologizes-epstein-trump-comments
+- title: Musk deletes explosive Epstein post after backlash
+  outlet: Financial Times
+  date: '2025-06-12'
+  url: https://www.ft.com/content/musk-epstein-trump-apology-2025
 notes: The apology was temporary as Musk resumed attacks in July.

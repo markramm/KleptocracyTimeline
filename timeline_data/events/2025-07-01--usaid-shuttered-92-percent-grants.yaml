@@ -14,13 +14,17 @@ tags:
 - government-restructuring
 - workforce-reduction
 sources:
-- title: USAID elimination analysis
-  url: https://foreignpolicy.com/2025/07/01/usaid-elimination-complete
-  outlet: Foreign Policy
-  date: '2025-07-01'
-- title: USAID workforce statistics
-  url: https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development
+- title: Federal agencies plan for mass layoffs as Trump's workforce cuts continue
+  url: https://www.npr.org/2025/03/15/nx-s1-5328721/reduction-in-force-rif-federal-workers-job-cuts-musk-doge-layoffs
+  outlet: NPR
+  date: '2025-03-15'
+- title: 2025 United States federal mass layoffs - USAID
+  url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
   outlet: Wikipedia
-  date: '2025-07-02'
+  date: '2025-07-01'
+- title: Sweeping cuts hit recent federal hires as Trump administration slashes workforce
+  url: https://www.npr.org/2025/02/13/nx-s1-5296928/layoffs-trump-doge-education-energy
+  outlet: NPR
+  date: '2025-02-13'
 notes: Faster than Project 2025 blueprint anticipated
 status: confirmed

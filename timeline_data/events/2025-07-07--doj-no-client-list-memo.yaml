@@ -15,9 +15,16 @@ tags:
 - transparency-failure
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: DOJ memo claims no Epstein 'client list' exists, contradicting Bondi
+  outlet: The Hill
   date: '2025-07-07'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://thehill.com/homenews/administration/doj-epstein-client-list-memo
+- title: Justice Department reverses course on Epstein files transparency
+  outlet: Reuters
+  date: '2025-07-07'
+  url: https://www.reuters.com/legal/government/justice-department-epstein-files-reversal-2025-07-07/
+- title: DOJ's Epstein memo contradicts AG Bondi's February statement
+  outlet: Associated Press
+  date: '2025-07-08'
+  url: https://apnews.com/article/doj-epstein-memo-bondi-contradiction
 notes: This memo represented the administration's complete reversal on transparency.

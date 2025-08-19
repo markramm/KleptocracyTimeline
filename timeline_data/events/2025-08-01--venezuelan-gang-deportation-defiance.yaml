@@ -16,9 +16,17 @@ tags:
 - willful-disregard
 - deportation-abuse
 sources:
-- title: Court order defiance on Venezuelan deportations
-  url: https://www.scotusblog.com/2025/08/deportation-court-defiance
-  outlet: SCOTUSblog
+- title: How Trump's White House defied a judge's order halting deportations
+  url: https://www.axios.com/2025/03/16/trump-white-house-defy-judge-deport-venezuelans
+  outlet: Axios
+  date: '2025-03-16'
+- title: What happens if a president and the federal government fail to follow a judge's orders?
+  url: https://www.nbcnews.com/politics/politics-news/president-defies-judges-orders-contempt-rcna201455
+  outlet: NBC News
+  date: '2025-08-01'
+- title: Inside Team Trump's Attacks on Judges and Defiance of Court Orders
+  url: https://www.rollingstone.com/politics/politics-features/inside-team-trump-attack-judges-defiance-court-orders-1235298463/
+  outlet: Rolling Stone
   date: '2025-08-01'
 notes: Direct admission of willful disregard for federal court order
 status: confirmed

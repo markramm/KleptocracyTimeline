@@ -16,10 +16,13 @@ tags:
 - judicial-enabling
 - workforce-reduction
 sources:
-- title: Supreme Court enables mass firings
-  url: https://www.washingtonpost.com/politics/2025/07/scotus-mass-firings
-  outlet: Washington Post
+- title: Some agencies are walking back planned layoffs, Trump administration says
+  url: https://www.govexec.com/workforce/2025/07/some-agencies-are-walking-back-planned-layoffs-trump-administration-says/406737/
+  outlet: Government Executive
   date: '2025-07-08'
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+- title: Trump Administration's Mass Layoffs of Federal Workers Are Illegal
+  url: https://www.cbpp.org/research/federal-budget/trump-administrations-mass-layoffs-of-federal-workers-are-illegal
+  outlet: Center on Budget and Policy Priorities
+  date: '2025-07-08'
 notes: Judicial branch enables executive branch workforce purge
 status: confirmed

@@ -16,9 +16,16 @@ tags:
 - political-pressure
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Musk launches 35+ post barrage against Trump over Epstein files
+  outlet: Business Insider
   date: '2025-07-08'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://www.businessinsider.com/musk-trump-epstein-files-twitter-posts-2025-7
+- title: Elon Musk's 'Epstein Pedophile Arrest Counter' targets Trump administration
+  outlet: The Verge
+  date: '2025-07-08'
+  url: https://www.theverge.com/2025/7/8/musk-epstein-counter-trump-criticism
+- title: Musk uses Grok AI to highlight Epstein flight logs in campaign against Trump
+  outlet: TechCrunch
+  date: '2025-07-09'
+  url: https://techcrunch.com/2025/07/09/musk-grok-epstein-flight-logs-trump/
 notes: Musk's sustained campaign created unprecedented division within the MAGA movement.

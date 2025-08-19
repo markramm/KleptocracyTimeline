@@ -28,8 +28,8 @@ sources:
   outlet: White House
   date: '2025-01-20'
   archive_url: https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/
-- title: 'Democracy on Trial: The Constitutional Crisis of 2025'
-  url: Research Document
-  outlet: Research Analysis
-  date: '2025-08-14'
+- title: Declaring a National Energy Emergency
+  url: https://www.federalregister.gov/documents/2025/01/29/2025-02003/declaring-a-national-energy-emergency
+  outlet: Federal Register
+  date: '2025-01-29'
 status: confirmed

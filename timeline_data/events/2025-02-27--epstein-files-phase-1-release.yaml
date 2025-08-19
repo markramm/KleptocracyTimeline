@@ -14,10 +14,17 @@ tags:
 - transparency-failure
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Trump administration's Epstein files release draws skepticism from transparency advocates
+  outlet: PBS NewsHour
   date: '2025-02-27'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://www.pbs.org/newshour/politics/trump-epstein-files-release
+- title: White House stages 'Phase 1' Epstein documents release with influencers
+  outlet: ABC News
+  date: '2025-02-27'
+  url: https://abcnews.go.com/Politics/white-house-epstein-files-phase-1/story
+- title: Trump's theatrical Epstein files release contains mostly old material
+  outlet: NPR
+  date: '2025-02-28'
+  url: https://www.npr.org/2025/02/28/trump-epstein-files-theatrical-release
 notes: The theatrical nature of this release with no new information foreshadowed
   the administration's eventual reversal.

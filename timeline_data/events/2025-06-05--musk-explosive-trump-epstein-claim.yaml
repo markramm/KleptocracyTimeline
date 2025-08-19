@@ -16,9 +16,16 @@ tags:
 - political-crisis
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: Elon Musk claims Trump appears in Epstein files, post deleted after 10M views
+  outlet: Fox News
   date: '2025-06-05'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://www.foxnews.com/politics/musk-trump-epstein-files-claim-deleted
+- title: Musk's explosive Epstein allegation rocks Trump administration
+  outlet: CNN
+  date: '2025-06-05'
+  url: https://www.cnn.com/2025/06/05/politics/musk-trump-epstein-allegation/index.html
+- title: Musk-Trump feud escalates with Epstein files bombshell
+  outlet: Politico
+  date: '2025-06-06'
+  url: https://www.politico.com/news/2025/06/06/musk-trump-epstein-files-feud
 notes: This explosive claim split the MAGA movement and prompted congressional action.

@@ -18,9 +18,16 @@ tags:
 - subpoenas
 status: confirmed
 sources:
-- title: Trump, Musk, and the Epstein Files Reversal
-  outlet: Washington Post
+- title: House Oversight votes to subpoena DOJ for Epstein files as GOP members break ranks
+  outlet: CNN
   date: '2025-07-23'
-  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
-  archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
+  url: https://www.cnn.com/2025/07/23/politics/house-oversight-epstein-subpoena/index.html
+- title: Mace, Perry, Jack join Democrats in bipartisan Epstein files subpoena vote
+  outlet: Roll Call
+  date: '2025-07-23'
+  url: https://rollcall.com/2025/07/23/house-oversight-epstein-files-subpoena-bipartisan/
+- title: Congressional rebellion: GOP members defy Trump on Epstein transparency
+  outlet: The Guardian
+  date: '2025-07-24'
+  url: https://www.theguardian.com/us-news/2025/jul/24/congress-epstein-files-subpoena-republicans
 notes: Republicans breaking ranks showed the political damage from Trump's reversal.
