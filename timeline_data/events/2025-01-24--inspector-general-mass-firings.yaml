@@ -49,4 +49,28 @@ sources:
   url: https://www.judiciary.senate.gov/press/rep/releases/grassley-durbin-seek-presidential-explanation-for-ig-dismissals
   outlet: Senate Judiciary Committee
   date: '2025-01-28'
+# Monitoring Configuration
+monitoring_status: active
+followup_schedule: weekly
+search_keywords:
+- "inspector general replacements Trump"
+- "IG lawsuit court ruling"
+- "congressional oversight investigation"
+- "bipartisan 2022 IG protections"
+- "30 day notice IG firing"
+related_events:
+- 2025-02-07--osc-dellinger-fired
+- 2025-02-10--oge-director-removed
+trigger_events:
+- "IG lawsuit ruling"
+- "congressional hearing"
+- "replacement appointments"
+- "oversight investigation launched"
+- "whistleblower retaliation"
+fallout_indicators:
+- "oversight vacuum created"
+- "accountability mechanisms disabled"
+- "corruption investigations halted"
+- "whistleblower protection eliminated"
+- "institutional capture accelerated"
 status: confirmed

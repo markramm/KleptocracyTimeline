@@ -1,0 +1,98 @@
+{
+  "total_events": 329,
+  "total_tags": 854,
+  "total_actors": 631,
+  "total_sources": 1033,
+  "date_range": {
+    "start": "1972-01-01",
+    "end": "2025-08-13"
+  },
+  "status_counts": {
+    "confirmed": 329
+  },
+  "top_tags": [
+    {
+      "name": "kleptocracy",
+      "count": 25
+    },
+    {
+      "name": "project-2025",
+      "count": 22
+    },
+    {
+      "name": "cryptocurrency",
+      "count": 21
+    },
+    {
+      "name": "elections",
+      "count": 19
+    },
+    {
+      "name": "courts",
+      "count": 17
+    },
+    {
+      "name": "regulatory-capture",
+      "count": 17
+    },
+    {
+      "name": "conflicts-of-interest",
+      "count": 16
+    },
+    {
+      "name": "doge",
+      "count": 16
+    },
+    {
+      "name": "epstein-files",
+      "count": 14
+    },
+    {
+      "name": "federal-workforce",
+      "count": 14
+    }
+  ],
+  "top_actors": [
+    {
+      "name": "Donald Trump",
+      "count": 85
+    },
+    {
+      "name": "Trump administration",
+      "count": 42
+    },
+    {
+      "name": "Elon Musk",
+      "count": 22
+    },
+    {
+      "name": "Department of Justice",
+      "count": 14
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 13
+    },
+    {
+      "name": "White House",
+      "count": 12
+    },
+    {
+      "name": "World Liberty Financial",
+      "count": 11
+    },
+    {
+      "name": "Trump Organization",
+      "count": 10
+    },
+    {
+      "name": "Department of Homeland Security",
+      "count": 9
+    },
+    {
+      "name": "OPM",
+      "count": 7
+    }
+  ],
+  "generated": "2025-08-19T13:06:30.393700"
+}

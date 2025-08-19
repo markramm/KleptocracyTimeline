@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import axios from 'axios';
-import { format, parseISO } from 'date-fns';
 import { motion, AnimatePresence } from 'framer-motion';
 import TimelineView from './components/TimelineView';
 import FilterPanel from './components/FilterPanel';
@@ -8,11 +7,10 @@ import EventDetails from './components/EventDetails';
 import StatsPanel from './components/StatsPanel';
 import SearchBar from './components/SearchBar';
 import ViewToggle from './components/ViewToggle';
+import { API_ENDPOINTS, transformStaticData } from './config';
 import { 
-  Calendar, 
   Filter, 
-  BarChart3, 
-  Search,
+  BarChart3,
   Loader2,
   AlertCircle 
 } from 'lucide-react';
@@ -52,20 +50,26 @@ function App() {
     try {
       setLoading(true);
       const [eventsRes, tagsRes, actorsRes, statsRes] = await Promise.all([
-        axios.get('/api/timeline'),
-        axios.get('/api/tags'),
-        axios.get('/api/actors'),
-        axios.get('/api/stats')
+        axios.get(API_ENDPOINTS.timeline),
+        axios.get(API_ENDPOINTS.tags),
+        axios.get(API_ENDPOINTS.actors),
+        axios.get(API_ENDPOINTS.stats)
       ]);
       
-      setEvents(eventsRes.data.events);
-      setFilteredEvents(eventsRes.data.events);
-      setAllTags(tagsRes.data.tags);
-      setAllActors(actorsRes.data.actors);
-      setStats(statsRes.data);
+      // Transform data if using static files
+      const eventsData = transformStaticData(eventsRes.data, 'timeline');
+      const tagsData = transformStaticData(tagsRes.data, 'tags');
+      const actorsData = transformStaticData(actorsRes.data, 'actors');
+      const statsData = transformStaticData(statsRes.data, 'stats');
+      
+      setEvents(eventsData.events || eventsData);
+      setFilteredEvents(eventsData.events || eventsData);
+      setAllTags(tagsData.tags || tagsData);
+      setAllActors(actorsData.actors || actorsData);
+      setStats(statsData);
       setError(null);
     } catch (err) {
-      setError('Failed to load timeline data. Please ensure the server is running.');
+      setError('Failed to load timeline data. Please ensure the server is running or check your connection.');
       console.error('Error loading data:', err);
     } finally {
       setLoading(false);

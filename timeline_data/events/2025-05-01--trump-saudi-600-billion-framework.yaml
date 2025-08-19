@@ -19,7 +19,8 @@ tags:
 - business_conflicts
 status: confirmed
 sources:
-- title: Fact Sheet - President Donald J. Trump Secures Historic $600 Billion Investment Commitment in Saudi Arabia
+- title: Fact Sheet - President Donald J. Trump Secures Historic $600 Billion Investment
+    Commitment in Saudi Arabia
   url: https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-600-billion-investment-commitment-in-saudi-arabia/
   outlet: White House
   date: '2025-05-13'
@@ -27,7 +28,8 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-05-13/us-says-it-secured-600-billion-in-investments-from-saudi-arabia
   outlet: Bloomberg
   date: '2025-05-13'
-- title: White House announces $600 billion Saudi investment in U.S. during Trump visit
+- title: White House announces $600 billion Saudi investment in U.S. during Trump
+    visit
   url: https://www.cnbc.com/2025/05/13/trump-saudi-investment-speech.html
   outlet: CNBC
   date: '2025-05-13'

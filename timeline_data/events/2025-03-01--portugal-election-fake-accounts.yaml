@@ -1,13 +1,15 @@
 id: 2025-03-01--portugal-election-fake-accounts
 date: '2025-03-01'
-title: Investigation Finds 58% of Accounts Supporting Far-Right Portuguese Parties Were Fake
+title: Investigation Finds 58% of Accounts Supporting Far-Right Portuguese Parties
+  Were Fake
 summary: Portugal election interference investigation by Cyabra found 58% of social
   media accounts supporting far-right parties were fake profiles. Discovery demonstrates
   global scale of social media manipulation in democratic elections, with coordinated
   bot networks amplifying extremist political messages. Pattern mirrors similar operations
   in US where Department of Justice disrupted Russian government-sponsored disinformation
   operations, seizing 32 internet domains used for covert election interference including
-  "Doppelganger" operation. Shows systematic weaponization of social media against democracy.
+  "Doppelganger" operation. Shows systematic weaponization of social media against
+  democracy.
 location: Portugal
 actors:
 - Cyabra (investigator)
@@ -24,15 +26,16 @@ tags:
 - international_pattern
 status: confirmed
 sources:
-- title: 'Cyabra finds 58% of accounts supporting Portuguese far-right were fake'
+- title: Cyabra finds 58% of accounts supporting Portuguese far-right were fake
   url: https://www.globenewswire.com/news-release/2025/03/01/cyabra-portugal-election-fake-accounts.html
   outlet: GlobeNewswire
   date: '2025-03-01'
-- title: 'Portugal election manipulation reveals global disinformation patterns'
+- title: Portugal election manipulation reveals global disinformation patterns
   url: https://www.politico.eu/article/portugal-election-fake-accounts-far-right/
   outlet: Politico Europe
   date: '2025-03-02'
-- title: 'DOJ disrupts Russian election interference operations targeting multiple countries'
+- title: DOJ disrupts Russian election interference operations targeting multiple
+    countries
   url: https://www.justice.gov/opa/pr/doj-disrupts-russian-doppelganger-operation
   outlet: Department of Justice
   date: '2025-03-01'

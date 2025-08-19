@@ -53,6 +53,44 @@ timeline_data/
 
 ## Naming Convention
 
+### CRITICAL: No Underscores Allowed
+
+**File names and IDs must use HYPHENS ONLY - NO UNDERSCORES**
+
+### File Names
+Event files must follow this strict naming pattern:
+```
+YYYY-MM-DD--event-id-with-hyphens.yaml
+```
+
+**Rules:**
+- Date format: `YYYY-MM-DD` (ISO 8601)
+- Separator: `--` (double hyphen between date and ID)
+- ID: lowercase letters, numbers, and **hyphens only**
+- **NO UNDERSCORES (_)** anywhere in filenames or IDs
+- Extension: `.yaml`
+
+**Examples:**
+- ✅ `2024-01-15--trump-cabinet-wealth-report.yaml`
+- ✅ `2025-03-01--scotus-ruling-chevron.yaml`  
+- ✅ `2024-06-27--scotus-sec-v-jarkesy.yaml`
+- ❌ `2024_01_15--event.yaml` (underscores in date)
+- ❌ `2024-01-15--event_name.yaml` (underscores in ID)
+- ❌ `2024-01-15--scotus_ruling.yaml` (underscores not allowed)
+
+### Event IDs
+The `id` field in the YAML must match the ID portion of the filename:
+```yaml
+id: trump-cabinet-wealth  # ✅ Correct - uses hyphens
+id: trump_cabinet_wealth  # ❌ Wrong - uses underscores
+```
+
+**ID Requirements:**
+- Use hyphens (-) not underscores (_)
+- Keep descriptive but concise
+- Must be unique across all events
+- Must exactly match the filename ID portion
+
 All timeline files follow strict naming format: `YYYY-MM-DD--event-description.yaml`
 
 ### Format Rules

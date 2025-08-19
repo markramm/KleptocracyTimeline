@@ -56,6 +56,12 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Source documentation guidelines
 - Archive process
 
+### ⚠️ IMPORTANT: Naming Convention
+**All event IDs and filenames must use HYPHENS (-) only. NO UNDERSCORES (_) allowed.**
+
+Example: `2024-01-15--trump-cabinet-wealth.yaml` ✅
+NOT: `2024-01-15--trump_cabinet_wealth.yaml` ❌
+
 ### Quick Contribution Guide
 
 Events must:

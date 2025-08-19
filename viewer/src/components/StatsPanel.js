@@ -1,9 +1,25 @@
 import React from 'react';
-import { BarChart3, TrendingUp, Calendar, Tag, Users, AlertCircle } from 'lucide-react';
+import { BarChart3, TrendingUp, Calendar, Tag, AlertCircle } from 'lucide-react';
 import './StatsPanel.css';
 
 const StatsPanel = ({ stats, events }) => {
+  // Ensure stats is defined
+  if (!stats) {
+    return (
+      <div className="stats-panel">
+        <div className="stats-header">
+          <h3>
+            <BarChart3 size={20} />
+            Analytics
+          </h3>
+        </div>
+        <p>Loading statistics...</p>
+      </div>
+    );
+  }
+
   const getTopItems = (items, limit = 5) => {
+    if (!items) return [];
     return Object.entries(items)
       .sort(([, a], [, b]) => b - a)
       .slice(0, limit);
@@ -11,26 +27,28 @@ const StatsPanel = ({ stats, events }) => {
 
   const getPatternInsights = () => {
     const insights = [];
-    const tagCounts = stats.tag_counts;
     
-    if (tagCounts['constitutional-crisis'] > 10) {
-      insights.push({
-        type: 'critical',
-        text: `${tagCounts['constitutional-crisis']} constitutional crisis events detected`
-      });
+    // Check monitoring status if available
+    if (stats.monitoring_summary) {
+      if (stats.monitoring_summary.active > 0) {
+        insights.push({
+          type: 'critical',
+          text: `${stats.monitoring_summary.active} events actively being monitored`
+        });
+      }
+      if (stats.monitoring_summary.total > 5) {
+        insights.push({
+          type: 'warning',
+          text: `${stats.monitoring_summary.total} total events flagged for monitoring`
+        });
+      }
     }
     
-    if (tagCounts['foreign-influence'] > 15) {
-      insights.push({
-        type: 'warning',
-        text: `High foreign influence activity: ${tagCounts['foreign-influence']} events`
-      });
-    }
-    
-    if (tagCounts['crypto'] > 20) {
+    // Check recent activity
+    if (stats.events_by_year && stats.events_by_year['2025'] > 50) {
       insights.push({
         type: 'info',
-        text: `Significant crypto-related activity: ${tagCounts['crypto']} events`
+        text: `High activity in 2025: ${stats.events_by_year['2025']} events`
       });
     }
     
@@ -54,29 +72,32 @@ const StatsPanel = ({ stats, events }) => {
           <h4>Overview</h4>
           <div className="stat-cards">
             <div className="stat-card">
-              <span className="stat-value">{stats.total_events}</span>
+              <span className="stat-value">{stats.total_events || 0}</span>
               <span className="stat-label">Total Events</span>
             </div>
             <div className="stat-card">
               <span className="stat-value">
-                {Object.keys(stats.events_by_year).length}
+                {stats.events_by_year ? Object.keys(stats.events_by_year).length : 0}
               </span>
               <span className="stat-label">Years Covered</span>
             </div>
+            {stats.date_range && (
             <div className="stat-card">
               <span className="stat-value">
-                {stats.date_range.start.substring(0, 4)} - {stats.date_range.end.substring(0, 4)}
+                {stats.date_range.start?.substring(0, 4) || '?'} - {stats.date_range.end?.substring(0, 4) || '?'}
               </span>
               <span className="stat-label">Date Range</span>
             </div>
+            )}
           </div>
         </div>
 
         {/* Events by Status */}
+        {stats.events_by_status && (
         <div className="stats-section">
           <h4>Verification Status</h4>
           <div className="status-bars">
-            {Object.entries(stats.status_counts).map(([status, count]) => (
+            {Object.entries(stats.events_by_status).map(([status, count]) => (
               <div key={status} className="status-bar">
                 <div className="status-header">
                   <span className="status-name">{status.replace('_', ' ')}</span>
@@ -94,23 +115,25 @@ const StatsPanel = ({ stats, events }) => {
             ))}
           </div>
         </div>
+        )}
 
-        {/* Top Categories */}
+        {/* Monitoring Summary */}
+        {stats.monitoring_summary && (
         <div className="stats-section">
           <h4>
             <Tag size={16} />
-            Top Categories
+            Monitoring Status
           </h4>
           <div className="top-list">
-            {getTopItems(stats.tag_counts).map(([tag, count]) => (
-              <div key={tag} className="top-item">
-                <span className="item-name">{tag.replace(/-/g, ' ')}</span>
+            {Object.entries(stats.monitoring_summary).map(([status, count]) => (
+              <div key={status} className="top-item">
+                <span className="item-name">{status.replace(/_/g, ' ')}</span>
                 <div className="item-bar">
                   <div 
                     className="bar-fill"
                     style={{ 
-                      width: `${(count / stats.total_events) * 100}%`,
-                      backgroundColor: getCategoryColor(tag)
+                      width: `${(count / Math.max(...Object.values(stats.monitoring_summary))) * 100}%`,
+                      backgroundColor: status === 'active' ? '#ef4444' : '#6b7280'
                     }}
                   />
                   <span className="item-count">{count}</span>
@@ -119,8 +142,10 @@ const StatsPanel = ({ stats, events }) => {
             ))}
           </div>
         </div>
+        )}
 
         {/* Events by Year */}
+        {stats.events_by_year && (
         <div className="stats-section">
           <h4>
             <Calendar size={16} />
@@ -147,6 +172,7 @@ const StatsPanel = ({ stats, events }) => {
               ))}
           </div>
         </div>
+        )}
 
         {/* Insights */}
         {insights.length > 0 && (
@@ -167,6 +193,7 @@ const StatsPanel = ({ stats, events }) => {
         )}
 
         {/* Recent Trends */}
+        {events && events.length > 0 && (
         <div className="stats-section">
           <h4>Recent Activity</h4>
           <div className="trend-info">
@@ -176,11 +203,14 @@ const StatsPanel = ({ stats, events }) => {
             <p>
               {events.filter(e => e.date?.startsWith('2024')).length} events in 2024
             </p>
+            {stats.events_by_year && (
             <p>
               Average: {Math.round(stats.total_events / Object.keys(stats.events_by_year).length)} events/year
             </p>
+            )}
           </div>
         </div>
+        )}
       </div>
     </div>
   );

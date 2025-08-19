@@ -1,0 +1,2526 @@
+[
+  {
+    "name": "Donald Trump",
+    "count": 85
+  },
+  {
+    "name": "Trump administration",
+    "count": 42
+  },
+  {
+    "name": "Elon Musk",
+    "count": 22
+  },
+  {
+    "name": "Department of Justice",
+    "count": 14
+  },
+  {
+    "name": "Jeffrey Epstein",
+    "count": 13
+  },
+  {
+    "name": "White House",
+    "count": 12
+  },
+  {
+    "name": "World Liberty Financial",
+    "count": 11
+  },
+  {
+    "name": "Trump Organization",
+    "count": 10
+  },
+  {
+    "name": "Department of Homeland Security",
+    "count": 9
+  },
+  {
+    "name": "OPM",
+    "count": 7
+  },
+  {
+    "name": "Federal agencies",
+    "count": 7
+  },
+  {
+    "name": "FBI",
+    "count": 6
+  },
+  {
+    "name": "Supreme Court of the United States",
+    "count": 6
+  },
+  {
+    "name": "DOGE",
+    "count": 6
+  },
+  {
+    "name": "Pam Bondi",
+    "count": 6
+  },
+  {
+    "name": "United States",
+    "count": 6
+  },
+  {
+    "name": "California National Guard",
+    "count": 6
+  },
+  {
+    "name": "Roger Stone",
+    "count": 5
+  },
+  {
+    "name": "Saudi Arabia",
+    "count": 5
+  },
+  {
+    "name": "ICE",
+    "count": 5
+  },
+  {
+    "name": "Heritage Foundation",
+    "count": 5
+  },
+  {
+    "name": "EPA",
+    "count": 5
+  },
+  {
+    "name": "Russell Vought",
+    "count": 5
+  },
+  {
+    "name": "Justin Sun",
+    "count": 5
+  },
+  {
+    "name": "SEC",
+    "count": 5
+  },
+  {
+    "name": "Vladimir Putin",
+    "count": 4
+  },
+  {
+    "name": "Jared Kushner",
+    "count": 4
+  },
+  {
+    "name": "SpaceX",
+    "count": 4
+  },
+  {
+    "name": "Pentagon",
+    "count": 4
+  },
+  {
+    "name": "Treasury Department",
+    "count": 4
+  },
+  {
+    "name": "X (Twitter)",
+    "count": 4
+  },
+  {
+    "name": "U.S. Supreme Court",
+    "count": 4
+  },
+  {
+    "name": "Trump family",
+    "count": 4
+  },
+  {
+    "name": "Department of Defense",
+    "count": 4
+  },
+  {
+    "name": "Texas Legislature",
+    "count": 4
+  },
+  {
+    "name": "CIA",
+    "count": 3
+  },
+  {
+    "name": "Paul Manafort",
+    "count": 3
+  },
+  {
+    "name": "Melania Trump",
+    "count": 3
+  },
+  {
+    "name": "Dmitry Rybolovlev",
+    "count": 3
+  },
+  {
+    "name": "Donald Trump Jr.",
+    "count": 3
+  },
+  {
+    "name": "Sergey Kislyak",
+    "count": 3
+  },
+  {
+    "name": "U.S. Marshals Service",
+    "count": 3
+  },
+  {
+    "name": "National Guard",
+    "count": 3
+  },
+  {
+    "name": "Congress",
+    "count": 3
+  },
+  {
+    "name": "Meta",
+    "count": 3
+  },
+  {
+    "name": "Securities and Exchange Commission",
+    "count": 3
+  },
+  {
+    "name": "Campaign Legal Center",
+    "count": 3
+  },
+  {
+    "name": "CIC Digital LLC",
+    "count": 3
+  },
+  {
+    "name": "Howard Lutnick",
+    "count": 3
+  },
+  {
+    "name": "FCC",
+    "count": 3
+  },
+  {
+    "name": "Trump appointees",
+    "count": 3
+  },
+  {
+    "name": "Tesla",
+    "count": 3
+  },
+  {
+    "name": "Starlink",
+    "count": 3
+  },
+  {
+    "name": "CFPB",
+    "count": 3
+  },
+  {
+    "name": "Associated Press",
+    "count": 3
+  },
+  {
+    "name": "Federal workforce",
+    "count": 3
+  },
+  {
+    "name": "Office of Personnel Management (OPM)",
+    "count": 3
+  },
+  {
+    "name": "Department of Labor",
+    "count": 3
+  },
+  {
+    "name": "Ninth Circuit Court of Appeals",
+    "count": 3
+  },
+  {
+    "name": "Paramount Global",
+    "count": 3
+  },
+  {
+    "name": "Environmental Protection Agency (EPA)",
+    "count": 3
+  },
+  {
+    "name": "Jules Kroll",
+    "count": 2
+  },
+  {
+    "name": "Kroll Associates",
+    "count": 2
+  },
+  {
+    "name": "NSA",
+    "count": 2
+  },
+  {
+    "name": "IRS",
+    "count": 2
+  },
+  {
+    "name": "Felix Sater",
+    "count": 2
+  },
+  {
+    "name": "Rod Rosenstein",
+    "count": 2
+  },
+  {
+    "name": "Elizabeth Warren",
+    "count": 2
+  },
+  {
+    "name": "Charles Kushner",
+    "count": 2
+  },
+  {
+    "name": "US Supreme Court",
+    "count": 2
+  },
+  {
+    "name": "House January 6th Committee",
+    "count": 2
+  },
+  {
+    "name": "U.S. Secret Service",
+    "count": 2
+  },
+  {
+    "name": "Eric Trump",
+    "count": 2
+  },
+  {
+    "name": "Kevin Roberts",
+    "count": 2
+  },
+  {
+    "name": "Paul Dans",
+    "count": 2
+  },
+  {
+    "name": "Russ Vought",
+    "count": 2
+  },
+  {
+    "name": "North Carolina Legislature",
+    "count": 2
+  },
+  {
+    "name": "House Oversight Committee",
+    "count": 2
+  },
+  {
+    "name": "Instagram",
+    "count": 2
+  },
+  {
+    "name": "Threads",
+    "count": 2
+  },
+  {
+    "name": "SpaceX/Starlink",
+    "count": 2
+  },
+  {
+    "name": "State of Texas",
+    "count": 2
+  },
+  {
+    "name": "Biden Administration",
+    "count": 2
+  },
+  {
+    "name": "Brennan Center for Justice",
+    "count": 2
+  },
+  {
+    "name": "Georgia State Election Board",
+    "count": 2
+  },
+  {
+    "name": "Georgia Supreme Court",
+    "count": 2
+  },
+  {
+    "name": "Federal judiciary",
+    "count": 2
+  },
+  {
+    "name": "Fight Fight Fight LLC",
+    "count": 2
+  },
+  {
+    "name": "JD Vance",
+    "count": 2
+  },
+  {
+    "name": "Department of Interior",
+    "count": 2
+  },
+  {
+    "name": "Department of Energy",
+    "count": 2
+  },
+  {
+    "name": "Scott Bessent",
+    "count": 2
+  },
+  {
+    "name": "Department of Education",
+    "count": 2
+  },
+  {
+    "name": "White House Personnel Office",
+    "count": 2
+  },
+  {
+    "name": "Department of Commerce",
+    "count": 2
+  },
+  {
+    "name": "NOAA",
+    "count": 2
+  },
+  {
+    "name": "OMB",
+    "count": 2
+  },
+  {
+    "name": "David Sacks",
+    "count": 2
+  },
+  {
+    "name": "FAA",
+    "count": 2
+  },
+  {
+    "name": "Trump Administration",
+    "count": 2
+  },
+  {
+    "name": "Freedom House",
+    "count": 2
+  },
+  {
+    "name": "V-Dem Institute",
+    "count": 2
+  },
+  {
+    "name": "Lee Zeldin",
+    "count": 2
+  },
+  {
+    "name": "Nancy Beck",
+    "count": 2
+  },
+  {
+    "name": "Lynn Dekleva",
+    "count": 2
+  },
+  {
+    "name": "American Chemistry Council",
+    "count": 2
+  },
+  {
+    "name": "State Department",
+    "count": 2
+  },
+  {
+    "name": "Challenger Gray & Christmas",
+    "count": 2
+  },
+  {
+    "name": "CIVICUS Monitor",
+    "count": 2
+  },
+  {
+    "name": "Richard Blumenthal",
+    "count": 2
+  },
+  {
+    "name": "U.S. District Court",
+    "count": 2
+  },
+  {
+    "name": "DOGE (Department of Government Efficiency)",
+    "count": 2
+  },
+  {
+    "name": "SEIU",
+    "count": 2
+  },
+  {
+    "name": "HHS",
+    "count": 2
+  },
+  {
+    "name": "Dar Global",
+    "count": 2
+  },
+  {
+    "name": "GAO",
+    "count": 2
+  },
+  {
+    "name": "Gavin Newsom",
+    "count": 2
+  },
+  {
+    "name": "Committee to Protect Journalists (CPJ)",
+    "count": 2
+  },
+  {
+    "name": "LAPD",
+    "count": 2
+  },
+  {
+    "name": "Journalists",
+    "count": 2
+  },
+  {
+    "name": "2nd Battalion, 7th Marines",
+    "count": 2
+  },
+  {
+    "name": "State of California",
+    "count": 2
+  },
+  {
+    "name": "Government Accountability Office (GAO)",
+    "count": 2
+  },
+  {
+    "name": "Senate Appropriations Committee",
+    "count": 2
+  },
+  {
+    "name": "House Republicans",
+    "count": 2
+  },
+  {
+    "name": "Texas House Democrats",
+    "count": 2
+  },
+  {
+    "name": "Republican Congress",
+    "count": 2
+  },
+  {
+    "name": "ICE (Immigration and Customs Enforcement)",
+    "count": 2
+  },
+  {
+    "name": "GSA",
+    "count": 2
+  },
+  {
+    "name": "Greg Abbott",
+    "count": 2
+  },
+  {
+    "name": "Skydance Media",
+    "count": 2
+  },
+  {
+    "name": "U.S. District Judge James Boasberg",
+    "count": 2
+  },
+  {
+    "name": "Mossad",
+    "count": 1
+  },
+  {
+    "name": "MI5",
+    "count": 1
+  },
+  {
+    "name": "Senator Frank Church",
+    "count": 1
+  },
+  {
+    "name": "Church Committee",
+    "count": 1
+  },
+  {
+    "name": "Mike Mansfield",
+    "count": 1
+  },
+  {
+    "name": "Seymour Hersh",
+    "count": 1
+  },
+  {
+    "name": "British American Tobacco",
+    "count": 1
+  },
+  {
+    "name": "Tobacco Industry",
+    "count": 1
+  },
+  {
+    "name": "Front Organizations",
+    "count": 1
+  },
+  {
+    "name": "Stansfield Turner",
+    "count": 1
+  },
+  {
+    "name": "Charlie Black",
+    "count": 1
+  },
+  {
+    "name": "Prince Alwaleed bin Talal",
+    "count": 1
+  },
+  {
+    "name": "Marla Maples",
+    "count": 1
+  },
+  {
+    "name": "Ghislaine Maxwell",
+    "count": 1
+  },
+  {
+    "name": "Trump World Tower",
+    "count": 1
+  },
+  {
+    "name": "Marsh & McLennan",
+    "count": 1
+  },
+  {
+    "name": "Judge Steven Friedman",
+    "count": 1
+  },
+  {
+    "name": "Joseph Luzinski (bankruptcy trustee)",
+    "count": 1
+  },
+  {
+    "name": "Abraham Gosman (former owner)",
+    "count": 1
+  },
+  {
+    "name": "Dmitry Rybolovlev (2008 purchaser)",
+    "count": 1
+  },
+  {
+    "name": "Anonymous shell companies",
+    "count": 1
+  },
+  {
+    "name": "Delaware LLCs",
+    "count": 1
+  },
+  {
+    "name": "British Virgin Islands corporations",
+    "count": 1
+  },
+  {
+    "name": "Panama corporations",
+    "count": 1
+  },
+  {
+    "name": "Bayrock Group",
+    "count": 1
+  },
+  {
+    "name": "Tevfik Arif",
+    "count": 1
+  },
+  {
+    "name": "Khrapunov family",
+    "count": 1
+  },
+  {
+    "name": "Mukhtar Ablyazov",
+    "count": 1
+  },
+  {
+    "name": "Anna Chapman",
+    "count": 1
+  },
+  {
+    "name": "Russian Intelligence",
+    "count": 1
+  },
+  {
+    "name": "Intelligence Community",
+    "count": 1
+  },
+  {
+    "name": "Private contractors",
+    "count": 1
+  },
+  {
+    "name": "Edward Snowden",
+    "count": 1
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "count": 1
+  },
+  {
+    "name": "Ronald Sanders (Associate DNI)",
+    "count": 1
+  },
+  {
+    "name": "Sergei Belyakov (FSB Academy graduate)",
+    "count": 1
+  },
+  {
+    "name": "Russian Ministry of Economic Development",
+    "count": 1
+  },
+  {
+    "name": "FSB Academy",
+    "count": 1
+  },
+  {
+    "name": "Deputy Finance Minister Sergei Storchak",
+    "count": 1
+  },
+  {
+    "name": "Central Bank Deputy Chairman Alexei Simanovsky",
+    "count": 1
+  },
+  {
+    "name": "Minister Alexei Ulyukayev",
+    "count": 1
+  },
+  {
+    "name": "Michael Cohen",
+    "count": 1
+  },
+  {
+    "name": "VTB Group",
+    "count": 1
+  },
+  {
+    "name": "Yevgeny Dvoskin",
+    "count": 1
+  },
+  {
+    "name": "Natalia Veselnitskaya",
+    "count": 1
+  },
+  {
+    "name": "Rinat Akhmetshin",
+    "count": 1
+  },
+  {
+    "name": "Rob Goldstone",
+    "count": 1
+  },
+  {
+    "name": "Russian GRU intelligence",
+    "count": 1
+  },
+  {
+    "name": "Guccifer 2.0 persona",
+    "count": 1
+  },
+  {
+    "name": "Konstantin Kilimnik",
+    "count": 1
+  },
+  {
+    "name": "Russian Intelligence Services",
+    "count": 1
+  },
+  {
+    "name": "John Podesta",
+    "count": 1
+  },
+  {
+    "name": "WikiLeaks",
+    "count": 1
+  },
+  {
+    "name": "Sergey Gorkov",
+    "count": 1
+  },
+  {
+    "name": "VEB Bank",
+    "count": 1
+  },
+  {
+    "name": "Suleyman Kerimov (Russian Federation Council member)",
+    "count": 1
+  },
+  {
+    "name": "Heritage Trust (Delaware)",
+    "count": 1
+  },
+  {
+    "name": "Citigroup",
+    "count": 1
+  },
+  {
+    "name": "U.S. Treasury Department",
+    "count": 1
+  },
+  {
+    "name": "DOJ/FBI/IRS investigation",
+    "count": 1
+  },
+  {
+    "name": "Private contractors (CoreCivic)",
+    "count": 1
+  },
+  {
+    "name": "State and local governments",
+    "count": 1
+  },
+  {
+    "name": "Government Accountability Office",
+    "count": 1
+  },
+  {
+    "name": "Erik Prince",
+    "count": 1
+  },
+  {
+    "name": "Kirill Dmitriev",
+    "count": 1
+  },
+  {
+    "name": "George Nader",
+    "count": 1
+  },
+  {
+    "name": "Steve Bannon",
+    "count": 1
+  },
+  {
+    "name": "Office of Information and Regulatory Affairs (OIRA)",
+    "count": 1
+  },
+  {
+    "name": "Public Citizen (plaintiff)",
+    "count": 1
+  },
+  {
+    "name": "Natural Resources Defense Council (plaintiff)",
+    "count": 1
+  },
+  {
+    "name": "Judge Randolph D. Moss",
+    "count": 1
+  },
+  {
+    "name": "Joe Biden (rescinded order)",
+    "count": 1
+  },
+  {
+    "name": "James Comey",
+    "count": 1
+  },
+  {
+    "name": "Sergey Lavrov",
+    "count": 1
+  },
+  {
+    "name": "Don McGahn",
+    "count": 1
+  },
+  {
+    "name": "Rob Porter",
+    "count": 1
+  },
+  {
+    "name": "Accenture Federal Services",
+    "count": 1
+  },
+  {
+    "name": "Customs and Border Protection (CBP)",
+    "count": 1
+  },
+  {
+    "name": "DHS Office of Inspector General",
+    "count": 1
+  },
+  {
+    "name": "Tim Cook",
+    "count": 1
+  },
+  {
+    "name": "Apple Inc.",
+    "count": 1
+  },
+  {
+    "name": "Russian oligarch",
+    "count": 1
+  },
+  {
+    "name": "Peter Thiel",
+    "count": 1
+  },
+  {
+    "name": "Daniil Bisslinger",
+    "count": 1
+  },
+  {
+    "name": "Reyes Holdings",
+    "count": 1
+  },
+  {
+    "name": "Republican donors",
+    "count": 1
+  },
+  {
+    "name": "Border Patrol",
+    "count": 1
+  },
+  {
+    "name": "Argentina",
+    "count": 1
+  },
+  {
+    "name": "Kushner Companies",
+    "count": 1
+  },
+  {
+    "name": "Brookfield Asset Management",
+    "count": 1
+  },
+  {
+    "name": "Qatar Investment Authority",
+    "count": 1
+  },
+  {
+    "name": "101st Airborne Division",
+    "count": 1
+  },
+  {
+    "name": "Military police battalions",
+    "count": 1
+  },
+  {
+    "name": "Combat engineers",
+    "count": 1
+  },
+  {
+    "name": "Ivanka Trump",
+    "count": 1
+  },
+  {
+    "name": "Chinese government",
+    "count": 1
+  },
+  {
+    "name": "China National Intellectual Property Administration",
+    "count": 1
+  },
+  {
+    "name": "Xi Jinping",
+    "count": 1
+  },
+  {
+    "name": "Bruce Zoldan",
+    "count": 1
+  },
+  {
+    "name": "Phantom Fireworks",
+    "count": 1
+  },
+  {
+    "name": "Michael Wolff",
+    "count": 1
+  },
+  {
+    "name": "Federal prosecutors",
+    "count": 1
+  },
+  {
+    "name": "ICE agents",
+    "count": 1
+  },
+  {
+    "name": "Detained workers",
+    "count": 1
+  },
+  {
+    "name": "Mississippi employers",
+    "count": 1
+  },
+  {
+    "name": "Mike Pence",
+    "count": 1
+  },
+  {
+    "name": "Trump International Golf Links & Hotel Doonbeg",
+    "count": 1
+  },
+  {
+    "name": "Secret Service",
+    "count": 1
+  },
+  {
+    "name": "US State Department",
+    "count": 1
+  },
+  {
+    "name": "Vera Institute",
+    "count": 1
+  },
+  {
+    "name": "Government investigators",
+    "count": 1
+  },
+  {
+    "name": "Texas Civil Rights Project",
+    "count": 1
+  },
+  {
+    "name": "MVM Inc.",
+    "count": 1
+  },
+  {
+    "name": "ICE contractors",
+    "count": 1
+  },
+  {
+    "name": "Detained families",
+    "count": 1
+  },
+  {
+    "name": "Facebook",
+    "count": 1
+  },
+  {
+    "name": "Jeffrey Clark",
+    "count": 1
+  },
+  {
+    "name": "Jeffrey Rosen (Acting Attorney General)",
+    "count": 1
+  },
+  {
+    "name": "Richard Donoghue (Acting Deputy Attorney General)",
+    "count": 1
+  },
+  {
+    "name": "Steven Engel (Office of Legal Counsel head)",
+    "count": 1
+  },
+  {
+    "name": "Pat Cipollone (White House Counsel)",
+    "count": 1
+  },
+  {
+    "name": "CREW (Citizens for Responsibility and Ethics in Washington)",
+    "count": 1
+  },
+  {
+    "name": "District of Columbia",
+    "count": 1
+  },
+  {
+    "name": "Maryland",
+    "count": 1
+  },
+  {
+    "name": "Congressional Democrats",
+    "count": 1
+  },
+  {
+    "name": "Bitcoin",
+    "count": 1
+  },
+  {
+    "name": "Trump Campaign",
+    "count": 1
+  },
+  {
+    "name": "Save America PAC",
+    "count": 1
+  },
+  {
+    "name": "Zoe Lofgren",
+    "count": 1
+  },
+  {
+    "name": "Amanda Wick",
+    "count": 1
+  },
+  {
+    "name": "Joseph Cuffari (DHS Inspector General)",
+    "count": 1
+  },
+  {
+    "name": "James Murray (Secret Service Director)",
+    "count": 1
+  },
+  {
+    "name": "Bennie Thompson (J6 Committee Chair)",
+    "count": 1
+  },
+  {
+    "name": "Liz Cheney (J6 Committee Vice Chair)",
+    "count": 1
+  },
+  {
+    "name": "Twitter/X",
+    "count": 1
+  },
+  {
+    "name": "Facebook/Meta",
+    "count": 1
+  },
+  {
+    "name": "Glenn Beck",
+    "count": 1
+  },
+  {
+    "name": "Gateway Pundit",
+    "count": 1
+  },
+  {
+    "name": "Inspectors General",
+    "count": 1
+  },
+  {
+    "name": "Senator Ron Wyden",
+    "count": 1
+  },
+  {
+    "name": "Russian banks",
+    "count": 1
+  },
+  {
+    "name": "Mark Meadows",
+    "count": 1
+  },
+  {
+    "name": "Stephen Miller",
+    "count": 1
+  },
+  {
+    "name": "Chris Miller",
+    "count": 1
+  },
+  {
+    "name": "Roger Severino",
+    "count": 1
+  },
+  {
+    "name": "Conservative organizations",
+    "count": 1
+  },
+  {
+    "name": "YouTube",
+    "count": 1
+  },
+  {
+    "name": "Google",
+    "count": 1
+  },
+  {
+    "name": "Alabama Legislature",
+    "count": 1
+  },
+  {
+    "name": "Federal District Court",
+    "count": 1
+  },
+  {
+    "name": "Democracy advocates",
+    "count": 1
+  },
+  {
+    "name": "China (ICBC)",
+    "count": 1
+  },
+  {
+    "name": "Qatar",
+    "count": 1
+  },
+  {
+    "name": "Malaysia",
+    "count": 1
+  },
+  {
+    "name": "Russian military",
+    "count": 1
+  },
+  {
+    "name": "Ukrainian intelligence",
+    "count": 1
+  },
+  {
+    "name": "Fifth Circuit Court of Appeals",
+    "count": 1
+  },
+  {
+    "name": "Chief Judge Priscilla Richman",
+    "count": 1
+  },
+  {
+    "name": "Trump campaign",
+    "count": 1
+  },
+  {
+    "name": "Cryptocurrency industry",
+    "count": 1
+  },
+  {
+    "name": "Food and Drug Administration",
+    "count": 1
+  },
+  {
+    "name": "Justice Amy Coney Barrett (majority opinion)",
+    "count": 1
+  },
+  {
+    "name": "Justice Samuel Alito (dissent)",
+    "count": 1
+  },
+  {
+    "name": "Justice Clarence Thomas (dissent)",
+    "count": 1
+  },
+  {
+    "name": "Justice Neil Gorsuch (dissent)",
+    "count": 1
+  },
+  {
+    "name": "Missouri (plaintiff state)",
+    "count": 1
+  },
+  {
+    "name": "Louisiana (plaintiff state)",
+    "count": 1
+  },
+  {
+    "name": "Chief Justice John Roberts (majority opinion)",
+    "count": 1
+  },
+  {
+    "name": "Justice Neil Gorsuch (concurring)",
+    "count": 1
+  },
+  {
+    "name": "Justice Clarence Thomas (concurring)",
+    "count": 1
+  },
+  {
+    "name": "Justice Sonia Sotomayor (dissent)",
+    "count": 1
+  },
+  {
+    "name": "Justice Elena Kagan (dissent)",
+    "count": 1
+  },
+  {
+    "name": "Justice Ketanji Brown Jackson (dissent)",
+    "count": 1
+  },
+  {
+    "name": "George Jarkesy (respondent)",
+    "count": 1
+  },
+  {
+    "name": "Justice Neil Gorsuch (majority opinion)",
+    "count": 1
+  },
+  {
+    "name": "Justice Amy Coney Barrett (dissent)",
+    "count": 1
+  },
+  {
+    "name": "State of Ohio (applicant)",
+    "count": 1
+  },
+  {
+    "name": "State of Indiana (applicant)",
+    "count": 1
+  },
+  {
+    "name": "State of West Virginia (applicant)",
+    "count": 1
+  },
+  {
+    "name": "Georgia Legislature",
+    "count": 1
+  },
+  {
+    "name": "True the Vote",
+    "count": 1
+  },
+  {
+    "name": "Right-wing activists",
+    "count": 1
+  },
+  {
+    "name": "County election boards",
+    "count": 1
+  },
+  {
+    "name": "Janelle King",
+    "count": 1
+  },
+  {
+    "name": "Janice Johnston",
+    "count": 1
+  },
+  {
+    "name": "Rick Jeffares",
+    "count": 1
+  },
+  {
+    "name": "Republican National Committee",
+    "count": 1
+  },
+  {
+    "name": "ACLU of Georgia",
+    "count": 1
+  },
+  {
+    "name": "Lawyers' Committee for Civil Rights Under Law",
+    "count": 1
+  },
+  {
+    "name": "Georgia election officials",
+    "count": 1
+  },
+  {
+    "name": "Brad Raffensperger (Georgia Secretary of State)",
+    "count": 1
+  },
+  {
+    "name": "Tucker Carlson",
+    "count": 1
+  },
+  {
+    "name": "Peggy Judd",
+    "count": 1
+  },
+  {
+    "name": "Arizona Attorney General",
+    "count": 1
+  },
+  {
+    "name": "Chief Justice Nels Peterson",
+    "count": 1
+  },
+  {
+    "name": "NAACP Georgia",
+    "count": 1
+  },
+  {
+    "name": "Glenn Youngkin (Governor)",
+    "count": 1
+  },
+  {
+    "name": "Virginia Coalition for Immigrant Rights",
+    "count": 1
+  },
+  {
+    "name": "Dark money groups",
+    "count": 1
+  },
+  {
+    "name": "Fidelity",
+    "count": 1
+  },
+  {
+    "name": "Charles Schwab",
+    "count": 1
+  },
+  {
+    "name": "Vanguard",
+    "count": 1
+  },
+  {
+    "name": "Project 2025 groups",
+    "count": 1
+  },
+  {
+    "name": "Super PACs",
+    "count": 1
+  },
+  {
+    "name": "Thomasz Szabo",
+    "count": 1
+  },
+  {
+    "name": "50+ Congress members (victims)",
+    "count": 1
+  },
+  {
+    "name": "International swatting network",
+    "count": 1
+  },
+  {
+    "name": "Josh Stein (Governor-elect)",
+    "count": 1
+  },
+  {
+    "name": "Roy Cooper (Governor)",
+    "count": 1
+  },
+  {
+    "name": "Dave Boliek (State Auditor)",
+    "count": 1
+  },
+  {
+    "name": "Law firms",
+    "count": 1
+  },
+  {
+    "name": "Paul Weiss",
+    "count": 1
+  },
+  {
+    "name": "Kirkland & Ellis",
+    "count": 1
+  },
+  {
+    "name": "Latham & Watkins",
+    "count": 1
+  },
+  {
+    "name": "ISIS-inspired attacker",
+    "count": 1
+  },
+  {
+    "name": "14 victims",
+    "count": 1
+  },
+  {
+    "name": "Industry lobbyists",
+    "count": 1
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "count": 1
+  },
+  {
+    "name": "TruthSocial",
+    "count": 1
+  },
+  {
+    "name": "Anonymous traders (24 wallets)",
+    "count": 1
+  },
+  {
+    "name": "Elon Musk (DOGE leader)",
+    "count": 1
+  },
+  {
+    "name": "United Nations",
+    "count": 1
+  },
+  {
+    "name": "World Health Organization",
+    "count": 1
+  },
+  {
+    "name": "Trump cabinet",
+    "count": 1
+  },
+  {
+    "name": "Warren Stephens",
+    "count": 1
+  },
+  {
+    "name": "Secretary of State",
+    "count": 1
+  },
+  {
+    "name": "Department of Treasury",
+    "count": 1
+  },
+  {
+    "name": "Director of National Intelligence",
+    "count": 1
+  },
+  {
+    "name": "Claudia Sheinbaum (Mexican President)",
+    "count": 1
+  },
+  {
+    "name": "Office of Government Ethics (OGE)",
+    "count": 1
+  },
+  {
+    "name": "Public Citizen",
+    "count": 1
+  },
+  {
+    "name": "Craig Holman (Public Citizen lobbyist)",
+    "count": 1
+  },
+  {
+    "name": "Political appointees",
+    "count": 1
+  },
+  {
+    "name": "Domestic Policy Council",
+    "count": 1
+  },
+  {
+    "name": "National Economic Council",
+    "count": 1
+  },
+  {
+    "name": "Securities and Exchange Commission (SEC)",
+    "count": 1
+  },
+  {
+    "name": "HTX exchange",
+    "count": 1
+  },
+  {
+    "name": "Enrique Tarrio",
+    "count": 1
+  },
+  {
+    "name": "Joe Biggs",
+    "count": 1
+  },
+  {
+    "name": "Proud Boys",
+    "count": 1
+  },
+  {
+    "name": "January 6 defendants",
+    "count": 1
+  },
+  {
+    "name": "US Army Corps of Engineers",
+    "count": 1
+  },
+  {
+    "name": "Senator Lisa Murkowski",
+    "count": 1
+  },
+  {
+    "name": "Mexican President Claudia Sheinbaum",
+    "count": 1
+  },
+  {
+    "name": "Trump Inaugural Committee",
+    "count": 1
+  },
+  {
+    "name": "Corporate donors",
+    "count": 1
+  },
+  {
+    "name": "Trump loyalists",
+    "count": 1
+  },
+  {
+    "name": "Multiple Inspectors General",
+    "count": 1
+  },
+  {
+    "name": "Congress (Grassley, Durbin)",
+    "count": 1
+  },
+  {
+    "name": "Project 2025 authors",
+    "count": 1
+  },
+  {
+    "name": "Brendan Carr",
+    "count": 1
+  },
+  {
+    "name": "Trump inaugural committee",
+    "count": 1
+  },
+  {
+    "name": "Pilgrim's Pride Corp. ($5 million)",
+    "count": 1
+  },
+  {
+    "name": "Ripple Labs ($4.9 million)",
+    "count": 1
+  },
+  {
+    "name": "Warren Stephens ($4 million, appointed UK Ambassador)",
+    "count": 1
+  },
+  {
+    "name": "Corporate donors (104 at $1M+)",
+    "count": 1
+  },
+  {
+    "name": "Kimberly Guilfoyle",
+    "count": 1
+  },
+  {
+    "name": "Massad Boulos",
+    "count": 1
+  },
+  {
+    "name": "Mark Greenblatt (Interior Department IG)",
+    "count": 1
+  },
+  {
+    "name": "CBS News",
+    "count": 1
+  },
+  {
+    "name": "U.S. Global Change Research Program",
+    "count": 1
+  },
+  {
+    "name": "David Legates",
+    "count": 1
+  },
+  {
+    "name": "Elon Musk (DOGE)",
+    "count": 1
+  },
+  {
+    "name": "ICF International",
+    "count": 1
+  },
+  {
+    "name": "Ethics watchdogs",
+    "count": 1
+  },
+  {
+    "name": "Chris Wright",
+    "count": 1
+  },
+  {
+    "name": "Liberty Energy",
+    "count": 1
+  },
+  {
+    "name": "Russell Vought (OMB Director)",
+    "count": 1
+  },
+  {
+    "name": "Office for Civil Rights",
+    "count": 1
+  },
+  {
+    "name": "Cantor Fitzgerald",
+    "count": 1
+  },
+  {
+    "name": "CDC",
+    "count": 1
+  },
+  {
+    "name": "Environmental Data and Governance Initiative",
+    "count": 1
+  },
+  {
+    "name": "Senate Democrats",
+    "count": 1
+  },
+  {
+    "name": "Chuck Schumer",
+    "count": 1
+  },
+  {
+    "name": "Adam Schiff",
+    "count": 1
+  },
+  {
+    "name": "President Donald Trump",
+    "count": 1
+  },
+  {
+    "name": "Hampton Dellinger (Special Counsel)",
+    "count": 1
+  },
+  {
+    "name": "Office of Special Counsel (OSC)",
+    "count": 1
+  },
+  {
+    "name": "Judge Amy Berman Jackson",
+    "count": 1
+  },
+  {
+    "name": "U.S. Senate (confirmed Dellinger 2024)",
+    "count": 1
+  },
+  {
+    "name": "U.S. corporations",
+    "count": 1
+  },
+  {
+    "name": "Attorney General Pam Bondi",
+    "count": 1
+  },
+  {
+    "name": "U.S. businesses abroad",
+    "count": 1
+  },
+  {
+    "name": "Rohit Chopra (fired director)",
+    "count": 1
+  },
+  {
+    "name": "Brian Quintenz (CFTC nominee)",
+    "count": 1
+  },
+  {
+    "name": "Unknown wallet holders",
+    "count": 1
+  },
+  {
+    "name": "Financial Times",
+    "count": 1
+  },
+  {
+    "name": "John Roberts",
+    "count": 1
+  },
+  {
+    "name": "Fox News",
+    "count": 1
+  },
+  {
+    "name": "Hampton Dellinger",
+    "count": 1
+  },
+  {
+    "name": "Verizon",
+    "count": 1
+  },
+  {
+    "name": "International IDEA",
+    "count": 1
+  },
+  {
+    "name": "Varieties of Democracy Project",
+    "count": 1
+  },
+  {
+    "name": "Abu Dhabi MGX",
+    "count": 1
+  },
+  {
+    "name": "Alex Gibney (filmmaker)",
+    "count": 1
+  },
+  {
+    "name": "HBO",
+    "count": 1
+  },
+  {
+    "name": "Unnamed officials (wiretapped)",
+    "count": 1
+  },
+  {
+    "name": "Cyabra (investigator)",
+    "count": 1
+  },
+  {
+    "name": "Far-right Portuguese parties",
+    "count": 1
+  },
+  {
+    "name": "Fake account networks",
+    "count": 1
+  },
+  {
+    "name": "Russian disinformation operations",
+    "count": 1
+  },
+  {
+    "name": "Commerce Department",
+    "count": 1
+  },
+  {
+    "name": "David Warrington (White House Counsel)",
+    "count": 1
+  },
+  {
+    "name": "Sen. Elizabeth Warren",
+    "count": 1
+  },
+  {
+    "name": "Craft Ventures",
+    "count": 1
+  },
+  {
+    "name": "Office of Government Ethics",
+    "count": 1
+  },
+  {
+    "name": "International civil society organizations",
+    "count": 1
+  },
+  {
+    "name": "Judge Christopher Cooper",
+    "count": 1
+  },
+  {
+    "name": "Citizens for Responsibility and Ethics in Washington (CREW)",
+    "count": 1
+  },
+  {
+    "name": "Linda McMahon",
+    "count": 1
+  },
+  {
+    "name": "Senate Permanent Subcommittee on Investigations",
+    "count": 1
+  },
+  {
+    "name": "International democracy community",
+    "count": 1
+  },
+  {
+    "name": "Paul Weiss law firm",
+    "count": 1
+  },
+  {
+    "name": "Law firm chair",
+    "count": 1
+  },
+  {
+    "name": "OFAC",
+    "count": 1
+  },
+  {
+    "name": "Economist Intelligence Unit",
+    "count": 1
+  },
+  {
+    "name": "International observers",
+    "count": 1
+  },
+  {
+    "name": "Josh Shapiro (Governor, victim)",
+    "count": 1
+  },
+  {
+    "name": "Unknown arsonist",
+    "count": 1
+  },
+  {
+    "name": "Reuters",
+    "count": 1
+  },
+  {
+    "name": "Wall Street Journal",
+    "count": 1
+  },
+  {
+    "name": "Boston Globe",
+    "count": 1
+  },
+  {
+    "name": "Organized Crime and Corruption Reporting Project",
+    "count": 1
+  },
+  {
+    "name": "All Voting Is Local (voting rights organization)",
+    "count": 1
+  },
+  {
+    "name": "Ohio Secretary of State",
+    "count": 1
+  },
+  {
+    "name": "Ohio Legislature",
+    "count": 1
+  },
+  {
+    "name": "Affected voters",
+    "count": 1
+  },
+  {
+    "name": "Department of Transportation",
+    "count": 1
+  },
+  {
+    "name": "U.S. Space Force",
+    "count": 1
+  },
+  {
+    "name": "Rep. Stephen Lynch",
+    "count": 1
+  },
+  {
+    "name": "Rep. Gerry Connolly",
+    "count": 1
+  },
+  {
+    "name": "The White House",
+    "count": 1
+  },
+  {
+    "name": "Todd Blanche (Deputy Attorney General)",
+    "count": 1
+  },
+  {
+    "name": "National Cryptocurrency Enforcement Team (NCET)",
+    "count": 1
+  },
+  {
+    "name": "Computer Crime and Intellectual Property Section (CCIPS)",
+    "count": 1
+  },
+  {
+    "name": "U.S. Citizenship and Immigration Services (USCIS)",
+    "count": 1
+  },
+  {
+    "name": "Civil liberties groups",
+    "count": 1
+  },
+  {
+    "name": "WHCA",
+    "count": 1
+  },
+  {
+    "name": "Wire services",
+    "count": 1
+  },
+  {
+    "name": "U.S. Press Freedom Tracker",
+    "count": 1
+  },
+  {
+    "name": "White House Correspondents' Association (WHCA)",
+    "count": 1
+  },
+  {
+    "name": "Judge John D. Bates (D.D.C.)",
+    "count": 1
+  },
+  {
+    "name": "AFL-CIO",
+    "count": 1
+  },
+  {
+    "name": "AFGE (American Federation of Government Employees)",
+    "count": 1
+  },
+  {
+    "name": "AFSCME",
+    "count": 1
+  },
+  {
+    "name": "AFT",
+    "count": 1
+  },
+  {
+    "name": "CWA",
+    "count": 1
+  },
+  {
+    "name": "Federal Election Commission (FEC)",
+    "count": 1
+  },
+  {
+    "name": "Commissioner Allen Dickerson (resigned)",
+    "count": 1
+  },
+  {
+    "name": "Commissioner Ellen Weintraub (fired by Trump)",
+    "count": 1
+  },
+  {
+    "name": "Commissioner Sean Cooksey (resigned)",
+    "count": 1
+  },
+  {
+    "name": "Trey Trainor (remaining commissioner)",
+    "count": 1
+  },
+  {
+    "name": "Shana Broussard (remaining commissioner)",
+    "count": 1
+  },
+  {
+    "name": "Dara Lindenbaum (remaining commissioner)",
+    "count": 1
+  },
+  {
+    "name": "House Democrats",
+    "count": 1
+  },
+  {
+    "name": "Citizens for Responsibility and Ethics in Washington",
+    "count": 1
+  },
+  {
+    "name": "MGX sovereign fund",
+    "count": 1
+  },
+  {
+    "name": "Tahnoun bin Zayed Al Nahyan",
+    "count": 1
+  },
+  {
+    "name": "Thomas Crosby (Cochise County Supervisor)",
+    "count": 1
+  },
+  {
+    "name": "Peggy Judd (Co-supervisor, pleaded guilty)",
+    "count": 1
+  },
+  {
+    "name": "Arizona Secretary of State",
+    "count": 1
+  },
+  {
+    "name": "Arizona appeals court",
+    "count": 1
+  },
+  {
+    "name": "Cochise County",
+    "count": 1
+  },
+  {
+    "name": "Treasury Inspector General for Tax Administration (TIGTA)",
+    "count": 1
+  },
+  {
+    "name": "Internal Revenue Service (IRS)",
+    "count": 1
+  },
+  {
+    "name": "University of Gothenburg",
+    "count": 1
+  },
+  {
+    "name": "Rep. Gerald Connolly (Ranking Member, Oversight)",
+    "count": 1
+  },
+  {
+    "name": "Rep. Joe Morelle (Ranking Member, House Admin)",
+    "count": 1
+  },
+  {
+    "name": "Rep. Jamie Raskin (Ranking Member, Judiciary)",
+    "count": 1
+  },
+  {
+    "name": "Treasury Secretary Scott Bessent",
+    "count": 1
+  },
+  {
+    "name": "Permanent Subcommittee on Investigations",
+    "count": 1
+  },
+  {
+    "name": "DOT",
+    "count": 1
+  },
+  {
+    "name": "FHWA",
+    "count": 1
+  },
+  {
+    "name": "Federal judges",
+    "count": 1
+  },
+  {
+    "name": "Trump supporters",
+    "count": 1
+  },
+  {
+    "name": "Office of Personnel Management",
+    "count": 1
+  },
+  {
+    "name": "Federal employees",
+    "count": 1
+  },
+  {
+    "name": "Melissa Hortman (victim)",
+    "count": 1
+  },
+  {
+    "name": "Vance Luther Boelter (perpetrator)",
+    "count": 1
+  },
+  {
+    "name": "John Hoffman (victim)",
+    "count": 1
+  },
+  {
+    "name": "David Huerta",
+    "count": 1
+  },
+  {
+    "name": "Federal Law Enforcement",
+    "count": 1
+  },
+  {
+    "name": "US Marines (2/7)",
+    "count": 1
+  },
+  {
+    "name": "Governor of California",
+    "count": 1
+  },
+  {
+    "name": "Federal law enforcement",
+    "count": 1
+  },
+  {
+    "name": "Journalists and reporters",
+    "count": 1
+  },
+  {
+    "name": "DC Bar Association",
+    "count": 1
+  },
+  {
+    "name": "Bradley Bondi (Paul Hastings, brother of AG Pam Bondi)",
+    "count": 1
+  },
+  {
+    "name": "Diane Seltzer (employment attorney, winner)",
+    "count": 1
+  },
+  {
+    "name": "Alicia Long (DOJ attorney)",
+    "count": 1
+  },
+  {
+    "name": "Amanda Molina (Microsoft attorney, winner)",
+    "count": 1
+  },
+  {
+    "name": "38,600 voting members",
+    "count": 1
+  },
+  {
+    "name": "Deputy Attorney General",
+    "count": 1
+  },
+  {
+    "name": "Law Enforcement",
+    "count": 1
+  },
+  {
+    "name": "Reporters Sans Frontières (RSF)",
+    "count": 1
+  },
+  {
+    "name": "RCFP Coalition",
+    "count": 1
+  },
+  {
+    "name": "USMC",
+    "count": 1
+  },
+  {
+    "name": "USNORTHCOM",
+    "count": 1
+  },
+  {
+    "name": "Defense Secretary Pete Hegseth",
+    "count": 1
+  },
+  {
+    "name": "U.S. Northern Command",
+    "count": 1
+  },
+  {
+    "name": "Task Force 51",
+    "count": 1
+  },
+  {
+    "name": "Maj. Gen. Scott Sherman",
+    "count": 1
+  },
+  {
+    "name": "Kristi Noem",
+    "count": 1
+  },
+  {
+    "name": "FEMA",
+    "count": 1
+  },
+  {
+    "name": "DHS",
+    "count": 1
+  },
+  {
+    "name": "FEMA Review Council",
+    "count": 1
+  },
+  {
+    "name": "Senator Alex Padilla (D-CA)",
+    "count": 1
+  },
+  {
+    "name": "DHS Secretary Kristi Noem",
+    "count": 1
+  },
+  {
+    "name": "FBI police officers",
+    "count": 1
+  },
+  {
+    "name": "Gen. Gregory Michael Guillot (NORTHCOM)",
+    "count": 1
+  },
+  {
+    "name": "U.S. District Court (N.D. Cal.)",
+    "count": 1
+  },
+  {
+    "name": "Governor Gavin Newsom",
+    "count": 1
+  },
+  {
+    "name": "U.S. Department of Defense",
+    "count": 1
+  },
+  {
+    "name": "Judge Charles Breyer",
+    "count": 1
+  },
+  {
+    "name": "US Marines",
+    "count": 1
+  },
+  {
+    "name": "Civil society organizations",
+    "count": 1
+  },
+  {
+    "name": "Protest movements",
+    "count": 1
+  },
+  {
+    "name": "Department of Government Efficiency (DOGE)",
+    "count": 1
+  },
+  {
+    "name": "Vivek Ramaswamy",
+    "count": 1
+  },
+  {
+    "name": "Ninth Circuit",
+    "count": 1
+  },
+  {
+    "name": "DOJ",
+    "count": 1
+  },
+  {
+    "name": "U.S. Court of Appeals for the Ninth Circuit",
+    "count": 1
+  },
+  {
+    "name": "Iran",
+    "count": 1
+  },
+  {
+    "name": "US House of Representatives",
+    "count": 1
+  },
+  {
+    "name": "Brookings Institution",
+    "count": 1
+  },
+  {
+    "name": "Legal scholars",
+    "count": 1
+  },
+  {
+    "name": "House Appropriations Committee",
+    "count": 1
+  },
+  {
+    "name": "GAO (Government Accountability Office)",
+    "count": 1
+  },
+  {
+    "name": "U.S. Election Assistance Commission",
+    "count": 1
+  },
+  {
+    "name": "Greg Abbott (Governor)",
+    "count": 1
+  },
+  {
+    "name": "USAID",
+    "count": 1
+  },
+  {
+    "name": "American Foreign Service Association",
+    "count": 1
+  },
+  {
+    "name": "Mike Johnson (House Speaker)",
+    "count": 1
+  },
+  {
+    "name": "Office of Management and Budget",
+    "count": 1
+  },
+  {
+    "name": "Senate Republicans",
+    "count": 1
+  },
+  {
+    "name": "American Federation of Government Employees",
+    "count": 1
+  },
+  {
+    "name": "Partnership for Public Service",
+    "count": 1
+  },
+  {
+    "name": "Private prison contractors",
+    "count": 1
+  },
+  {
+    "name": "Anna Gomez (FCC Commissioner)",
+    "count": 1
+  },
+  {
+    "name": "NPR",
+    "count": 1
+  },
+  {
+    "name": "PBS",
+    "count": 1
+  },
+  {
+    "name": "USDA",
+    "count": 1
+  },
+  {
+    "name": "Department of Health and Human Services",
+    "count": 1
+  },
+  {
+    "name": "Laura Loomer",
+    "count": 1
+  },
+  {
+    "name": "Karoline Leavitt",
+    "count": 1
+  },
+  {
+    "name": "Supreme Court",
+    "count": 1
+  },
+  {
+    "name": "US Senate",
+    "count": 1
+  },
+  {
+    "name": "Illinois Governor",
+    "count": 1
+  },
+  {
+    "name": "AWS",
+    "count": 1
+  },
+  {
+    "name": "Senate",
+    "count": 1
+  },
+  {
+    "name": "TIGTA",
+    "count": 1
+  },
+  {
+    "name": "California Legislature",
+    "count": 1
+  },
+  {
+    "name": "California Democratic Party",
+    "count": 1
+  },
+  {
+    "name": "Democratic Governors Association",
+    "count": 1
+  },
+  {
+    "name": "State Legislatures",
+    "count": 1
+  },
+  {
+    "name": "Democratic Party",
+    "count": 1
+  },
+  {
+    "name": "Rep. Nancy Mace (R-SC)",
+    "count": 1
+  },
+  {
+    "name": "Rep. Scott Perry (R-PA)",
+    "count": 1
+  },
+  {
+    "name": "Rep. Brian Jack (R-GA)",
+    "count": 1
+  },
+  {
+    "name": "Pam Bondi (Attorney General)",
+    "count": 1
+  },
+  {
+    "name": "CPSC Commissioners",
+    "count": 1
+  },
+  {
+    "name": "Justice Kagan",
+    "count": 1
+  },
+  {
+    "name": "Federal Communications Commission (FCC)",
+    "count": 1
+  },
+  {
+    "name": "Commissioner Anna Gomez (dissented)",
+    "count": 1
+  },
+  {
+    "name": "Texas Republicans",
+    "count": 1
+  },
+  {
+    "name": "Lee Zeldin (EPA Administrator)",
+    "count": 1
+  },
+  {
+    "name": "U.S. District Judge John McConnell",
+    "count": 1
+  },
+  {
+    "name": "Judge Paula Xinis",
+    "count": 1
+  },
+  {
+    "name": "General Services Administration (GSA)",
+    "count": 1
+  },
+  {
+    "name": "Stephen Ehikian (Acting Administrator)",
+    "count": 1
+  },
+  {
+    "name": "Public Buildings Service",
+    "count": 1
+  },
+  {
+    "name": "18F federal technology team",
+    "count": 1
+  },
+  {
+    "name": "Emil Bove (DOJ official)",
+    "count": 1
+  },
+  {
+    "name": "Venezuelan deportees",
+    "count": 1
+  },
+  {
+    "name": "El Salvador government",
+    "count": 1
+  },
+  {
+    "name": "TRAC Syracuse University",
+    "count": 1
+  },
+  {
+    "name": "DHS (Department of Homeland Security)",
+    "count": 1
+  },
+  {
+    "name": "CBP (Customs and Border Protection)",
+    "count": 1
+  },
+  {
+    "name": "Stephen Miller (White House senior adviser)",
+    "count": 1
+  },
+  {
+    "name": "Federal Judge",
+    "count": 1
+  },
+  {
+    "name": "California",
+    "count": 1
+  },
+  {
+    "name": "James Comer",
+    "count": 1
+  },
+  {
+    "name": "Bill Clinton",
+    "count": 1
+  },
+  {
+    "name": "Hillary Clinton",
+    "count": 1
+  },
+  {
+    "name": "NIH",
+    "count": 1
+  },
+  {
+    "name": "Skydance",
+    "count": 1
+  },
+  {
+    "name": "David Ellison",
+    "count": 1
+  },
+  {
+    "name": "Federal Protective Service",
+    "count": 1
+  },
+  {
+    "name": "Democracy Forward",
+    "count": 1
+  },
+  {
+    "name": "AFGE Council 238 (8,000+ EPA workers)",
+    "count": 1
+  },
+  {
+    "name": "Justin Chen (AFGE Council 238 President)",
+    "count": 1
+  },
+  {
+    "name": "NAGE, ESC, NAIL unions",
+    "count": 1
+  },
+  {
+    "name": "DC Metropolitan Police",
+    "count": 1
+  },
+  {
+    "name": "DC National Guard",
+    "count": 1
+  },
+  {
+    "name": "West Virginia National Guard",
+    "count": 1
+  },
+  {
+    "name": "South Carolina National Guard",
+    "count": 1
+  },
+  {
+    "name": "Ohio National Guard",
+    "count": 1
+  },
+  {
+    "name": "Department of Justice Antitrust Division",
+    "count": 1
+  },
+  {
+    "name": "Federal Trade Commission",
+    "count": 1
+  }
+]

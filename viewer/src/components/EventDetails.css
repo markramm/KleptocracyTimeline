@@ -33,6 +33,12 @@
   border-bottom: 1px solid #334155;
 }
 
+.modal-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
 .modal-title-group h2 {
   color: #e5e7eb;
   font-size: 1.5rem;

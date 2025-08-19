@@ -33,8 +33,34 @@ sources:
   url: https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html
   outlet: Military.com
   date: '2025-06-13'
-- title: Trump says more National Guard troops would be deployed in California if needed
+- title: Trump says more National Guard troops would be deployed in California if
+    needed
   url: https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/
   outlet: Reuters
   date: '2025-06-09'
+# Monitoring Configuration
+monitoring_status: active
+followup_schedule: weekly
+search_keywords:
+- "Los Angeles deployment"
+- "California National Guard federalized"
+- "Marines Los Angeles downtown"
+- "Trump California military"
+- "domestic military operations"
+related_events:
+- 2025-06-09--marines-los-angeles
+- 2025-06-12--la-deployment-unlawful-district-ruling
+- 2025-06-13--ninth-circuit-stays-la-deployment-ruling
+trigger_events:
+- "court ruling"
+- "troop level changes"
+- "congressional hearing"
+- "casualty reports"
+- "state government response"
+fallout_indicators:
+- "federal troops deployed"
+- "posse comitatus violation"
+- "state resistance"
+- "constitutional crisis"
+- "military domestic operations"
 status: confirmed

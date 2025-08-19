@@ -3,6 +3,36 @@
 ## Purpose
 This document provides AI-specific guidance for performing CRUD (Create, Read, Update, Delete) and QA (Quality Assurance) operations on timeline data. For general requirements and human-readable documentation, see README.md first.
 
+## CRITICAL: Naming Convention - NO UNDERSCORES
+
+### ⚠️ NEVER USE UNDERSCORES IN IDs OR FILENAMES ⚠️
+
+**All IDs and filenames must use HYPHENS (-) only. Underscores (_) will cause validation failures.**
+
+### Correct Naming Pattern
+```
+YYYY-MM-DD--event-id-with-hyphens.yaml
+```
+
+### Examples
+```yaml
+# ✅ CORRECT - Uses hyphens
+id: scotus-chevron-ruling
+id: trump-cabinet-wealth
+id: fec-ai-rulemaking
+
+# ❌ WRONG - Uses underscores (WILL FAIL VALIDATION)
+id: scotus_chevron_ruling
+id: trump_cabinet_wealth
+id: fec_ai_rulemaking
+```
+
+### Common Naming Patterns to Use
+- Court cases: `scotus-case-name` NOT `scotus_case_name`
+- Government agencies: `fec-ruling` NOT `fec_ruling`
+- Multi-word concepts: `dark-money-disclosure` NOT `dark_money_disclosure`
+- Names with initials: `trump-eo-13771` NOT `trump_eo_13771`
+
 ## CRITICAL: Mandatory Verification Protocol
 
 ### ⚠️ VERIFICATION IS MANDATORY - NOT OPTIONAL ⚠️

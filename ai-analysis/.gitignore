@@ -1,0 +1,14 @@
+# AI Analysis Working Files
+*.draft
+*.tmp
+.DS_Store
+working/
+drafts/
+notes/
+*.bak
+
+# Keep main analysis files
+!chronological-discovery/*.md
+!pattern-emergence/*.md
+!synthesis/*.md
+!README.md

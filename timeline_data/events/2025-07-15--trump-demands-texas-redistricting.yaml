@@ -22,20 +22,21 @@ sources:
   url: https://www.texastribune.org/2025/07/15/trump-texas-redistricting-demand
   outlet: Texas Tribune
   date: '2025-07-15'
-- title: 'Abbott resists Trump mid-cycle redistricting push, cites constitutional concerns'
+- title: Abbott resists Trump mid-cycle redistricting push, cites constitutional concerns
   url: https://www.dallasnews.com/news/politics/2025/07/15/abbott-resists-trump-redistricting-constitutional/
   outlet: Dallas Morning News
   date: '2025-07-15'
-- title: 'Texas Democrats flee to Illinois to block redistricting special session'
+- title: Texas Democrats flee to Illinois to block redistricting special session
   url: https://www.houstonchronicle.com/politics/texas/article/texas-democrats-flee-redistricting-18234567.php
   outlet: Houston Chronicle
   date: '2025-07-16'
-- title: 'Civil arrest warrants issued for Texas Democrats who broke quorum'
+- title: Civil arrest warrants issued for Texas Democrats who broke quorum
   url: https://apnews.com/article/texas-redistricting-democrats-arrest-warrants-2025
   outlet: AP News
   date: '2025-07-17'
 notes: Unprecedented presidential interference in state redistricting process outside
-  normal census cycle. Abbott initially resisted citing $35M cost and constitutional concerns.
-  52 House Democrats fled to Illinois breaking quorum. Speaker issued civil arrest warrants
-  and $500/day fines. Mid-cycle redistricting violates traditional decennial census precedent.
+  normal census cycle. Abbott initially resisted citing $35M cost and constitutional
+  concerns. 52 House Democrats fled to Illinois breaking quorum. Speaker issued civil
+  arrest warrants and $500/day fines. Mid-cycle redistricting violates traditional
+  decennial census precedent.
 status: confirmed

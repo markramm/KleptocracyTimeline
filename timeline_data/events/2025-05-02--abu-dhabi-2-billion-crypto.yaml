@@ -1,9 +1,7 @@
-id: 2025-01-15--abu-dhabi-2-billion-crypto
+id: 2025-05-02--abu-dhabi-2-billion-crypto
 date: '2025-05-02'
 title: Abu Dhabi sovereign fund commits $2 billion to Trump crypto venture
-summary: Abu Dhabi's sovereign wealth fund MGX, led by royal family member Tahnoun
-  bin Zayed Al Nahyan, commits $2 billion to purchase WLF's USD1 stablecoin for investing
-  in Binance, with funds flowing directly to Trump-controlled entities.
+summary: Abu Dhabi's sovereign wealth fund MGX, led by royal family member Tahnoun bin Zayed Al Nahyan, commits $2 billion to purchase WLF's USD1 stablecoin for investing in Binance, with funds flowing directly to Trump-controlled entities.
 location: Abu Dhabi, UAE
 actors:
 - MGX sovereign fund
@@ -28,4 +26,4 @@ sources:
   date: '2025-05-02'
   archive_url: https://web.archive.org/web/20250815000000/https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
 notes: Massive foreign sovereign investment in Trump family crypto business
-status: developing
+status: confirmed

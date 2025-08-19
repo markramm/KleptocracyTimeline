@@ -20,27 +20,13 @@ const getBaseUrl = () => {
 const BASE_URL = getBaseUrl();
 
 // API endpoint configuration
-// In production, all files are served from /api/ folder relative to the app
+// All files are served from /api/ folder relative to the app
 export const API_ENDPOINTS = {
-  timeline: isDevelopment
-    ? `${BASE_URL}/timeline.json`
-    : `${BASE_URL}/api/timeline.json`,
-  
-  tags: isDevelopment
-    ? `${BASE_URL}/tags.json`
-    : `${BASE_URL}/api/tags.json`,
-  
-  actors: isDevelopment
-    ? `${BASE_URL}/actors.json`
-    : `${BASE_URL}/api/actors.json`,
-  
-  stats: isDevelopment
-    ? `${BASE_URL}/stats.json`
-    : `${BASE_URL}/api/stats.json`,
-  
-  monitoring: isDevelopment
-    ? `${BASE_URL}/monitoring.json`
-    : `${BASE_URL}/api/monitoring.json`,
+  timeline: '/api/timeline.json',
+  tags: '/api/tags.json',
+  actors: '/api/actors.json',
+  stats: '/api/stats.json',
+  monitoring: '/api/monitoring.json',
   
   // Raw data URL for GitHub
   rawData: `https://raw.githubusercontent.com/${process.env.REACT_APP_REPO || 'yourusername/kleptocracy-timeline'}/main/timeline_data`
@@ -48,7 +34,8 @@ export const API_ENDPOINTS = {
 
 // Helper to transform static JSON to match API format
 export const transformStaticData = (data, endpoint) => {
-  if (!isGitHubPages) return data;
+  // Always return data as-is since our static files have the correct format
+  return data;
   
   switch (endpoint) {
     case 'timeline':
@@ -81,10 +68,12 @@ export const transformStaticData = (data, endpoint) => {
   }
 };
 
-export default {
+const config = {
   BASE_URL,
   API_ENDPOINTS,
   transformStaticData,
   isDevelopment,
   isGitHubPages
 };
+
+export default config;

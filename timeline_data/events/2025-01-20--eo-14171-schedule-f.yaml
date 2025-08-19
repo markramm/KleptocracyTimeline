@@ -1,0 +1,39 @@
+id: 2025-01-20--eo-14171-schedule-f
+date: '2025-01-20'
+title: 'Executive Order 14171: Restoring Accountability to Policy-Influencing Positions (Schedule F)'
+summary: Trump signed EO to reinstate Schedule F (renamed "Schedule Policy/Career") targeting 50,000 federal employees (2% of workforce) for at-will employment status, stripping civil service protections. OPM estimates could reach 200,000+. Agencies must recommend positions by April 20. Key component of Project 2025. Allows easy firing of "policy-determining, policy-making, policy-advocating, or confidential" positions. Biden had revoked original 2020 order and added 2024 protections.
+sources:
+- title: 'Executive Order 14171: Schedule F Reinstated'
+  url: https://www.federalregister.gov/documents/2025/01/31/eo-14171
+  outlet: Federal Register
+  date: '2025-01-31'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.federalregister.gov/documents/2025/01/31/eo-14171
+- title: 'Schedule F Returns: 50,000 Federal Workers at Risk'
+  url: https://www.govexec.com/management/2025/01/schedule-f-returns
+  outlet: Government Executive
+  date: '2025-01-31'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.govexec.com/management/2025/01/schedule-f-returns
+- title: Trump administration estimates 50000 federal employees will lose civil service protections
+  url: https://federalnewsnetwork.com/workforce/2025/04/trump-administration-estimates-50000-federal-employees-will-lose-civil-service-protections/
+  outlet: Federal News Network
+  date: '2025-04-18'
+- title: What to know about Schedule F, Trump's plan to replace federal workers with loyalists
+  url: https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers
+  outlet: Axios
+  date: '2025-04-18'
+- title: Trump removes civil service protections with Schedule F plan
+  url: https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f
+  outlet: NPR
+  date: '2025-04-18'
+actors:
+- Donald Trump
+- OPM
+- Heritage Foundation
+notes: Scholars estimate could affect hundreds of thousands. Nick Bednar (U Minnesota Law) said "We think this order affects at least 50,000 people who are currently protected, but the number could be much bigger." First term showed 200,000 positions could lose protections. Heritage Foundation/Project 2025 designed to fire 50,000 and replace with conservatives aligned with Trump.
+status: confirmed
+tags:
+- government-action
+- schedule-f
+- civil-service
+- project-2025
+- federal-workforce

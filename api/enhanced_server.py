@@ -67,8 +67,9 @@ def load_timeline_events():
     events = []
     events_by_id = {}
     
-    if TIMELINE_DIR.exists():
-        for yaml_file in TIMELINE_DIR.glob("*.yaml"):
+    events_dir = TIMELINE_DIR / "events"
+    if events_dir.exists():
+        for yaml_file in events_dir.glob("*.yaml"):
             try:
                 with open(yaml_file, 'r', encoding='utf-8') as f:
                     event = yaml.safe_load(f)

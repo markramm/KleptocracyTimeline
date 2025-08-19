@@ -1,13 +1,14 @@
 id: 2025-02-11--foreign-bribery-enforcement-loosened
 date: '2025-02-10'
 title: U.S. pauses enforcement of foreign official bribery laws
-summary: Trump signed an executive order on February 10, 2025, "Pausing Foreign Corrupt Practices
-  Act Enforcement," directing DOJ to cease all new FCPA investigations and review existing cases.
-  AG Pam Bondi had already issued a February 5 memo prioritizing only cartel-related foreign
-  bribery. The AG has 180-360 days to create new guidelines to "restore proper bounds" and
-  "prioritize American interests." The order doesn't affect SEC civil enforcement or other
-  bribery laws. During Trump's first term, DOJ reached some of the largest-ever FCPA settlements,
-  and 2024 was a "banner year" for enforcement, making this reversal particularly significant.
+summary: Trump signed an executive order on February 10, 2025, "Pausing Foreign Corrupt
+  Practices Act Enforcement," directing DOJ to cease all new FCPA investigations and
+  review existing cases. AG Pam Bondi had already issued a February 5 memo prioritizing
+  only cartel-related foreign bribery. The AG has 180-360 days to create new guidelines
+  to "restore proper bounds" and "prioritize American interests." The order doesn't
+  affect SEC civil enforcement or other bribery laws. During Trump's first term, DOJ
+  reached some of the largest-ever FCPA settlements, and 2024 was a "banner year"
+  for enforcement, making this reversal particularly significant.
 location: Washington, DC
 actors:
 - Donald Trump
@@ -24,7 +25,8 @@ tags:
 - cartel-exemption
 - corporate-compliance
 sources:
-- title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic and National Security
+- title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic
+    and National Security
   url: https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
   outlet: White House
   date: '2025-02-10'
@@ -36,7 +38,7 @@ sources:
   url: https://corpgov.law.harvard.edu/2025/02/24/takeaways-from-the-pause-on-foreign-corrupt-practices-act-enforcement/
   outlet: Harvard Law School Forum
   date: '2025-02-24'
-notes: Enables U.S. companies to engage in previously illegal foreign corruption during pause.
-  Five-year statute of limitations means violations could still be prosecuted by future
-  administrations. Foreign governments' anti-bribery laws still apply.
+notes: Enables U.S. companies to engage in previously illegal foreign corruption during
+  pause. Five-year statute of limitations means violations could still be prosecuted
+  by future administrations. Foreign governments' anti-bribery laws still apply.
 status: confirmed

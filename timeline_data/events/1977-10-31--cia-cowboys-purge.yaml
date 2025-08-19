@@ -1,10 +1,7 @@
-id: 1977-01-01--cia-cowboys-purge
+id: 1977-10-31--cia-cowboys-purge
 date: '1977-10-31'
 title: CIA "cowboys" purge drives intelligence operations private
-summary: CIA Director Stansfield Turner's "Halloween Massacre" eliminated 820 positions
-  in the clandestine service on October 31, 1977, firing veteran officers he considered
-  "cowboys" as part of post-Watergate reforms to increase oversight and shift focus
-  from human to technical intelligence.
+summary: CIA Director Stansfield Turner's "Halloween Massacre" eliminated 820 positions in the clandestine service on October 31, 1977, firing veteran officers he considered "cowboys" as part of post-Watergate reforms to increase oversight and shift focus from human to technical intelligence.
 location: Langley, Virginia
 actors:
 - Stansfield Turner
@@ -19,8 +16,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Stansfield_Turner
   outlet: Wikipedia
   date: '2024-01-01'
-- title: Adm. Stansfield Turner, who led major CIA overhaul as director of central
-    intelligence, dies at 94
+- title: Adm. Stansfield Turner, who led major CIA overhaul as director of central intelligence, dies at 94
   url: https://www.washingtonpost.com/local/obituaries/adm-stansfield-turner-who-led-major-cia-overhaul-as-director-of-central-intelligence-dies-94/2018/01/18/eac46390-fc99-11e7-ad8c-ecbb62019393_story.html
   outlet: The Washington Post
   date: '2018-01-18'
@@ -28,11 +24,5 @@ sources:
   url: https://www.muckrock.com/news/archives/2018/nov/01/cia-massacre
   outlet: MuckRock
   date: '2018-11-01'
-notes: The purge followed congressional investigations into CIA abuses revealed during
-  Watergate. Turner believed many officers were "still playing cowboy" outside proper
-  controls. Of the 820 eliminated positions, 649 were cut through attrition, 154 through
-  involuntary retirement, and 17 were directly fired. Some dismissed officers later
-  moved to private security firms, though the major intelligence privatization surge
-  would not occur until after 9/11. The cuts created significant institutional memory
-  loss and ongoing tensions within the CIA.
+notes: The purge followed congressional investigations into CIA abuses revealed during Watergate. Turner believed many officers were "still playing cowboy" outside proper controls. Of the 820 eliminated positions, 649 were cut through attrition, 154 through involuntary retirement, and 17 were directly fired. Some dismissed officers later moved to private security firms, though the major intelligence privatization surge would not occur until after 9/11. The cuts created significant institutional memory loss and ongoing tensions within the CIA.
 status: confirmed

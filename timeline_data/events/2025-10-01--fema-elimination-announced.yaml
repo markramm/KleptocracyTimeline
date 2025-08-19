@@ -5,8 +5,9 @@ summary: Trump announced June 2025 that FEMA would be eliminated by December 202
   after Atlantic hurricane season ends in November. DHS Secretary Kristi Noem confirmed
   elimination plans. 20-member FEMA Review Council formed May 2025 to recommend changes
   by mid-November. Trump wants states to handle disasters with federal reimbursement.
-  Agency projected to lose 30% of workforce (26,000 to 18,000) by year end. Project 2025
-  calls for reducing federal disaster relief from 75% to 25%, privatizing flood insurance.
+  Agency projected to lose 30% of workforce (26,000 to 18,000) by year end. Project
+  2025 calls for reducing federal disaster relief from 75% to 25%, privatizing flood
+  insurance.
 location: Washington, DC
 actors:
 - Donald Trump
@@ -21,19 +22,20 @@ tags:
 - project-2025
 - emergency-management
 sources:
-- title: "Trump says he plans to phase out FEMA after 2025 hurricane season"
+- title: Trump says he plans to phase out FEMA after 2025 hurricane season
   url: https://www.cnn.com/2025/06/11/politics/fema-hurricane-season-phase-out-trump
   outlet: CNN
   date: '2025-06-11'
-- title: "The Trump administration says it wants to eliminate FEMA. Here's what we know"
+- title: The Trump administration says it wants to eliminate FEMA. Here's what we
+    know
   url: https://www.npr.org/2025/06/26/nx-s1-5430469/faq-fema-elimination
   outlet: NPR
   date: '2025-06-26'
-- title: "FEMA set for elimination, Noem says, amid bipartisan House reform proposal"
+- title: FEMA set for elimination, Noem says, amid bipartisan House reform proposal
   url: https://www.govexec.com/management/2025/03/fema-set-elimination-noem-says-amid-bipartisan-house-reform-proposal/404008/
   outlet: Government Executive
   date: '2025-03-26'
-- title: "Trump Moves to Abolish FEMA, Shift Disaster Response to States"
+- title: Trump Moves to Abolish FEMA, Shift Disaster Response to States
   url: https://www.governing.com/resilience/trump-moves-to-abolish-fema-shift-disaster-response-to-states
   outlet: Governing
   date: '2025-03-21'

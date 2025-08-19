@@ -14,7 +14,8 @@ tags:
 - transparency-failure
 status: confirmed
 sources:
-- title: Trump administration's Epstein files release draws skepticism from transparency advocates
+- title: Trump administration's Epstein files release draws skepticism from transparency
+    advocates
   outlet: PBS NewsHour
   date: '2025-02-27'
   url: https://www.pbs.org/newshour/politics/trump-epstein-files-release
@@ -28,3 +29,28 @@ sources:
   url: https://www.npr.org/2025/02/28/trump-epstein-files-theatrical-release
 notes: The theatrical nature of this release with no new information foreshadowed
   the administration's eventual reversal.
+# Monitoring Configuration
+monitoring_status: active
+followup_schedule: weekly
+search_keywords:
+- "Epstein files release Phase 2"
+- "Pam Bondi Epstein documents"
+- "Trump Epstein files complete"
+- "Jeffrey Epstein client list"
+- "DOJ blocks Epstein files"
+related_events:
+- 2025-02-21--bondi-epstein-files-on-desk
+- 2025-05-01--bondi-briefs-trump-epstein-files
+- 2025-07-01--doj-blocks-epstein-releases
+trigger_events:
+- "Phase 2 announcement"
+- "court order release"
+- "congressional subpoena"
+- "DOJ reversal"
+- "transparency advocate pressure"
+fallout_indicators:
+- "client list revelation"
+- "high-profile implicated"
+- "investigation reopened"
+- "political scandal"
+- "obstruction of justice"

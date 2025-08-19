@@ -2628,7 +2628,7 @@
       "last_error": "HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /save/https://georgiarecorder.com/2024/07/08/groups-readying-mass-voter-challenges-in-georgias-2024-elections-theres-an-app-for-that/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x103197eb0>: Failed to establish a new connection: [Errno 61] Connection refused'))"
     }
   },
-  "last_run": "2025-08-19T03:38:51.354143",
+  "last_run": "2025-08-19T15:15:57.125972",
   "total_processed": 526,
   "total_success": 5,
   "total_failed": 521,

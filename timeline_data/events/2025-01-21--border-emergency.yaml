@@ -15,23 +15,25 @@ tags:
 - immigration
 - capture-patterns
 sources:
-- title: "Declaring A National Emergency At The Southern Border Of The United States"
+- title: Declaring A National Emergency At The Southern Border Of The United States
   url: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/
   outlet: White House
   date: '2025-01-21'
-- title: "Trump Signs Directive That Could Deploy US Military in Mexico: Report"
+- title: 'Trump Signs Directive That Could Deploy US Military in Mexico: Report'
   url: https://www.newsweek.com/trump-military-directive-cartels-mexico-venezuela-2110960
   outlet: Newsweek
   date: '2025-01-21'
-- title: "Trump orders military to devise a security plan for US-Mexico border that could include more troops"
+- title: Trump orders military to devise a security plan for US-Mexico border that
+    could include more troops
   url: https://www.stripes.com/theaters/us/2025-01-20/mexico-border-security-pentagon-troops-16549919.html
   outlet: Stars and Stripes
   date: '2025-01-20'
-- title: "Trump Orders 1,500 Active-Duty Troops to Border Ahead of Pentagon Security Plan Deadline"
+- title: Trump Orders 1,500 Active-Duty Troops to Border Ahead of Pentagon Security
+    Plan Deadline
   url: https://www.military.com/daily-news/2025/01/22/1500-active-duty-troops-being-deployed-border-under-orders-trump.html
   outlet: Military.com
   date: '2025-01-22'
-- title: "Border declaration, terrorist designations unlock new options—and new risks"
+- title: Border declaration, terrorist designations unlock new options—and new risks
   url: https://www.defenseone.com/policy/2025/01/border-declaration-terrorist-designations-would-unlock-new-optionsand-new-risks/402352/
   outlet: Defense One
   date: '2025-01-21'
@@ -46,4 +48,28 @@ notes: Mexican President Sheinbaum criticized FTO designation as infringing on M
   sovereignty. Order opens door to American troops potentially crossing into Mexico.
   National emergency allows deployment of armed forces, erection of physical barriers,
   and counter-UAS capabilities.
+# Monitoring Configuration
+monitoring_status: active
+followup_schedule: daily
+search_keywords:
+- "border emergency troops deployment"
+- "Mexico military operations cartels"
+- "Remain in Mexico policy"
+- "active duty border deployment"
+- "cartel terrorist designation"
+related_events:
+- 2025-01-20--cartels-designated-terrorists
+- 2025-01-20--mass-pardons-january-6-defendants
+trigger_events:
+- "troop deployment increases"
+- "cross-border incidents"
+- "Mexico diplomatic response"
+- "cartel violence escalation"
+- "court challenges emergency"
+fallout_indicators:
+- "military operations Mexico"
+- "diplomatic crisis Mexico"
+- "border militarization"
+- "posse comitatus concerns"
+- "emergency powers expansion"
 status: confirmed

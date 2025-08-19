@@ -1,11 +1,12 @@
 id: 2025-08-01--gsa-northwest-90-percent-fired
 date: '2025-08-01'
 title: GSA northwest region sees 90% of employees fired
-summary: By March 2025, entire regions of GSA were effectively fired, with 90% of roughly
-  200 employees in the northwest region's Public Buildings Service terminated. GSA also
-  fired all 100 employees in the Office of the Chief Financial Officer and at least 600
-  more in late February. Acting Administrator Stephen Ehikian created a "murder board"
-  to identify positions to cut, targeting a 63% total workforce reduction (3,557 positions).
+summary: By March 2025, entire regions of GSA were effectively fired, with 90% of
+  roughly 200 employees in the northwest region's Public Buildings Service terminated.
+  GSA also fired all 100 employees in the Office of the Chief Financial Officer and
+  at least 600 more in late February. Acting Administrator Stephen Ehikian created
+  a "murder board" to identify positions to cut, targeting a 63% total workforce reduction
+  (3,557 positions).
 location: Pacific Northwest
 actors:
 - General Services Administration (GSA)
@@ -22,7 +23,7 @@ tags:
 - doge
 - civil-service-purge
 sources:
-- title: "RIF watch: See which agencies are laying off federal workers"
+- title: 'RIF watch: See which agencies are laying off federal workers'
   url: https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/
   outlet: Government Executive
   date: '2025-02-28'

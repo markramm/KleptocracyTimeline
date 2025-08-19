@@ -1,0 +1,20 @@
+id: 2025-02-09--bead-policy-shift-starlink
+date: '2025-02-09'
+title: BEAD guidance tweak expands eligibility for LEO satellites (Starlink)
+summary: Commerce/NTIA adjustments expanded scenarios in which LEO satellite service could qualify for BEAD funding, drawing criticism from fiber advocates.
+tags:
+- broadband
+- bead
+- commerce
+- starlink
+- infrastructure
+sources:
+- title: Ars Technica – Changes could steer tens of billions to Starlink
+  url: https://arstechnica.com/tech-policy/2025/02/commerce-dept-changes-could-steer-20b-in-broadband-funding-to-starlink
+  outlet: Ars Technica
+  date: '2025-02-09'
+- title: The Verge – Eligibility change draws backlash
+  url: https://www.theverge.com/2025/2/10/24112323/starlink-bead-broadband-eligibility-change
+  outlet: The Verge
+  date: '2025-02-10'
+status: confirmed

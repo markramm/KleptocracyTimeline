@@ -3,8 +3,8 @@ date: '2017-01-01'
 title: Sanctioned oligarch Kerimov holds 1% SpaceX stake worth billions
 summary: Russian oligarch/senator Suleyman Kerimov acquired 1% SpaceX stake through
   Delaware-based Heritage Trust in 2017 worth $210M. Despite 2018 sanctions, Citigroup
-  administered trust until Treasury blocked it June 2022. Stake now worth $3.5B.
-  DOJ, FBI, IRS investigating Citigroup over sanctions compliance.
+  administered trust until Treasury blocked it June 2022. Stake now worth $3.5B. DOJ,
+  FBI, IRS investigating Citigroup over sanctions compliance.
 location: United States
 actors:
 - Suleyman Kerimov (Russian Federation Council member)
@@ -20,7 +20,7 @@ tags:
 - sanctions-evasion
 - critical-infrastructure
 sources:
-- title: "Russian Senator Held Stake in SpaceX While He Was Sanctioned – Bloomberg"
+- title: Russian Senator Held Stake in SpaceX While He Was Sanctioned – Bloomberg
   url: https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798
   outlet: The Moscow Times
   date: '2025-01-30'
@@ -33,7 +33,8 @@ sources:
   url: https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/
   outlet: Kyiv Independent
   date: '2025-01-30'
-- title: Russian oligarch and politician retained stake in SpaceX for 4 years under US sanctions
+- title: Russian oligarch and politician retained stake in SpaceX for 4 years under
+    US sanctions
   url: https://www.pravda.com.ua/eng/news/2025/01/30/7495952/
   outlet: Ukrainska Pravda
   date: '2025-01-30'
@@ -41,5 +42,6 @@ notes: Heritage Trust acquired SpaceX stake 2017 ($210M when SpaceX valued $21B)
   Kerimov sanctioned 2018. Citigroup consulted Treasury, determined trust not subject
   to blocking. Treasury finally blocked $1B Heritage Trust June 2022 - 4 years after
   sanctions. SpaceX stake disposed before 2022 blocking. Kerimov has $9.84B net worth,
-  17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner circle.
+  17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner
+  circle.
 status: confirmed

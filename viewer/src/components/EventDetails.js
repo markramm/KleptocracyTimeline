@@ -13,6 +13,7 @@ import {
   AlertCircle,
   XCircle
 } from 'lucide-react';
+import ContributeButton from './ContributeButton';
 import './EventDetails.css';
 
 const EventDetails = ({ event, onClose, onTagClick, onActorClick }) => {
@@ -60,9 +61,15 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick }) => {
               <span>{event.status?.replace('_', ' ')}</span>
             </div>
           </div>
-          <button className="close-button" onClick={onClose}>
-            <X size={24} />
-          </button>
+          <div className="modal-actions">
+            <ContributeButton 
+              eventId={event.id} 
+              eventTitle={event.title}
+            />
+            <button className="close-button" onClick={onClose}>
+              <X size={24} />
+            </button>
+          </div>
         </div>
 
         <div className="modal-body">

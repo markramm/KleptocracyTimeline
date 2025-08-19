@@ -19,15 +19,16 @@ sources:
   url: https://www.newsweek.com/2025/02/paul-weiss-trump-settlement
   outlet: Newsweek
   date: '2025-02-01'
-- title: "Law firm Paul Weiss agrees to deal with Trump, prompting criticism"
+- title: Law firm Paul Weiss agrees to deal with Trump, prompting criticism
   url: https://www.washingtonpost.com/politics/2025/03/21/paul-weiss-trump-executive-action/
   outlet: The Washington Post
   date: '2025-03-21'
-- title: "White House rescinds executive order targeting law firm Paul, Weiss after $40 million pledge"
+- title: White House rescinds executive order targeting law firm Paul, Weiss after
+    $40 million pledge
   url: https://www.cbsnews.com/news/paul-weiss-executive-order-rescinded-white-house-trump/
   outlet: CBS News
   date: '2025-03-20'
-- title: "Law firms are scared to speak out amid Trump's attacks on their livelihood"
+- title: Law firms are scared to speak out amid Trump's attacks on their livelihood
   url: https://www.cnn.com/2025/03/27/politics/law-firms-trump-attacks/index.html
   outlet: CNN Politics
   date: '2025-03-27'

@@ -1,0 +1,177 @@
+name: Generate Static API Data
+
+on:
+  push:
+    paths:
+      - 'timeline_data/events/*.yaml'
+      - 'tools/generation/*.py'
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+          
+      - name: Generate timeline index
+        run: |
+          python tools/generation/build_timeline_index.py
+          
+      - name: Generate API endpoints as static JSON
+        run: |
+          # Create API directory
+          mkdir -p timeline_data/api
+          
+          # Generate timeline.json
+          python -c "
+import json
+import yaml
+from pathlib import Path
+
+events = []
+events_dir = Path('timeline_data/events')
+
+for yaml_file in sorted(events_dir.glob('*.yaml')):
+    with open(yaml_file, 'r') as f:
+        event = yaml.safe_load(f)
+        if event:
+            events.append(event)
+
+# Sort by date
+events.sort(key=lambda x: x.get('date', ''))
+
+with open('timeline_data/api/timeline.json', 'w') as f:
+    json.dump(events, f, indent=2)
+print(f'Generated timeline.json with {len(events)} events')
+"
+          
+      - name: Generate tags.json
+        run: |
+          python -c "
+import json
+import yaml
+from pathlib import Path
+from collections import Counter
+
+tags = Counter()
+events_dir = Path('timeline_data/events')
+
+for yaml_file in events_dir.glob('*.yaml'):
+    with open(yaml_file, 'r') as f:
+        event = yaml.safe_load(f)
+        if event and 'tags' in event:
+            for tag in event['tags']:
+                tags[tag] += 1
+
+tags_list = [{'name': tag, 'count': count} for tag, count in tags.most_common()]
+
+with open('timeline_data/api/tags.json', 'w') as f:
+    json.dump(tags_list, f, indent=2)
+print(f'Generated tags.json with {len(tags_list)} tags')
+"
+          
+      - name: Generate actors.json
+        run: |
+          python -c "
+import json
+import yaml
+from pathlib import Path
+from collections import Counter
+
+actors = Counter()
+events_dir = Path('timeline_data/events')
+
+for yaml_file in events_dir.glob('*.yaml'):
+    with open(yaml_file, 'r') as f:
+        event = yaml.safe_load(f)
+        if event and 'actors' in event:
+            for actor in event['actors']:
+                actors[actor] += 1
+
+actors_list = [{'name': actor, 'count': count} for actor, count in actors.most_common()]
+
+with open('timeline_data/api/actors.json', 'w') as f:
+    json.dump(actors_list, f, indent=2)
+print(f'Generated actors.json with {len(actors_list)} actors')
+"
+          
+      - name: Generate stats.json
+        run: |
+          python -c "
+import json
+import yaml
+from pathlib import Path
+from collections import Counter
+from datetime import datetime
+
+events_dir = Path('timeline_data/events')
+events = []
+tags = Counter()
+actors = Counter()
+sources_count = 0
+
+for yaml_file in events_dir.glob('*.yaml'):
+    with open(yaml_file, 'r') as f:
+        event = yaml.safe_load(f)
+        if event:
+            events.append(event)
+            if 'tags' in event:
+                for tag in event['tags']:
+                    tags[tag] += 1
+            if 'actors' in event:
+                for actor in event['actors']:
+                    actors[actor] += 1
+            if 'sources' in event:
+                sources_count += len(event['sources'])
+
+# Calculate date range
+dates = [e.get('date', '') for e in events if e.get('date')]
+if dates:
+    dates.sort()
+    start_date = dates[0]
+    end_date = dates[-1]
+else:
+    start_date = end_date = ''
+
+# Status counts
+status_counts = Counter(e.get('status', 'unknown') for e in events)
+
+stats = {
+    'total_events': len(events),
+    'total_tags': len(tags),
+    'total_actors': len(actors),
+    'total_sources': sources_count,
+    'date_range': {
+        'start': start_date,
+        'end': end_date
+    },
+    'status_counts': dict(status_counts),
+    'top_tags': [{'name': tag, 'count': count} for tag, count in tags.most_common(10)],
+    'top_actors': [{'name': actor, 'count': count} for actor, count in actors.most_common(10)]
+}
+
+with open('timeline_data/api/stats.json', 'w') as f:
+    json.dump(stats, f, indent=2)
+print(f'Generated stats.json')
+"
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add timeline_data/api/*.json timeline_data/timeline_index.json
+          git diff --staged --quiet || (git commit -m "Update static API data [skip ci]" && git push)
