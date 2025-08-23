@@ -16,6 +16,8 @@ tags:
 - election-interference
 - intelligence-sharing
 - campaign-2016
+capture_lanes:
+- Election System Attack
 sources:
 - title: Senate Intelligence Committee Report Volume 5
   url: https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf

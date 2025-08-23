@@ -60,6 +60,17 @@ def extract_all_actors(events):
                 actors.add(event['actors'])
     return sorted(list(actors))
 
+def extract_all_capture_lanes(events):
+    """Extract all unique capture lanes from events"""
+    capture_lanes = set()
+    for event in events:
+        if 'capture_lanes' in event:
+            if isinstance(event['capture_lanes'], list):
+                capture_lanes.update(event['capture_lanes'])
+            else:
+                capture_lanes.add(event['capture_lanes'])
+    return sorted(list(capture_lanes))
+
 def generate_stats(events):
     """Generate statistics from events"""
     events_by_year = defaultdict(int)
@@ -133,6 +144,16 @@ def main():
         }, f, indent=2, ensure_ascii=False)
     print(f"Generated: {actors_file}")
     
+    # Generate capture_lanes.json
+    capture_lanes = extract_all_capture_lanes(events)
+    capture_lanes_file = OUTPUT_DIR / "capture_lanes.json"
+    with open(capture_lanes_file, 'w', encoding='utf-8') as f:
+        json.dump({
+            'capture_lanes': capture_lanes,
+            'total': len(capture_lanes)
+        }, f, indent=2, ensure_ascii=False)
+    print(f"Generated: {capture_lanes_file}")
+    
     # Generate stats.json
     stats = generate_stats(events)
     stats_file = OUTPUT_DIR / "stats.json"
@@ -150,7 +171,7 @@ def main():
         }, f, indent=2, ensure_ascii=False)
     print(f"Generated: {monitoring_file}")
     
-    print(f"\nSuccess! Generated 5 static API files in {OUTPUT_DIR}")
+    print(f"\nSuccess! Generated 6 static API files in {OUTPUT_DIR}")
     print("\nTo use these files:")
     print("1. Serve them with any static web server")
     print("2. Or copy them to your React app's public folder")

@@ -25,6 +25,7 @@ export const API_ENDPOINTS = {
   timeline: '/api/timeline.json',
   tags: '/api/tags.json',
   actors: '/api/actors.json',
+  capture_lanes: '/api/capture_lanes.json',
   stats: '/api/stats.json',
   monitoring: '/api/monitoring.json',
   

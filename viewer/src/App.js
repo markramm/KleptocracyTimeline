@@ -33,6 +33,7 @@ function App() {
   // Filter states - initialize from URL or defaults
   const [selectedTags, setSelectedTags] = useState([]);
   const [selectedActors, setSelectedActors] = useState([]);
+  const [selectedCaptureLanes, setSelectedCaptureLanes] = useState([]);
   const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [searchQuery, setSearchQuery] = useState('');
   const [viewMode, setViewMode] = useState('timeline');
@@ -53,20 +54,27 @@ function App() {
   // Metadata
   const [allTags, setAllTags] = useState([]);
   const [allActors, setAllActors] = useState([]);
+  const [allCaptureLanes, setAllCaptureLanes] = useState([]);
   const [stats, setStats] = useState(null);
 
   // Initialize state from URL when urlState is available
   useEffect(() => {
     if (urlState) {
-      setSelectedTags(urlState.selectedTags);
-      setSelectedActors(urlState.selectedActors);
-      setDateRange(urlState.dateRange);
-      setSearchQuery(urlState.searchQuery);
-      setViewMode(urlState.viewMode);
-      setTimelineControls(urlState.timelineControls);
-      setZoomLevel(urlState.zoomLevel);
-      setShowFilters(urlState.showFilters);
-      setShowStats(urlState.showStats);
+      setSelectedCaptureLanes(urlState.selectedCaptureLanes || []);
+      setSelectedTags(urlState.selectedTags || []);
+      setSelectedActors(urlState.selectedActors || []);
+      setDateRange(urlState.dateRange || { start: null, end: null });
+      setSearchQuery(urlState.searchQuery || '');
+      setViewMode(urlState.viewMode || 'timeline');
+      setTimelineControls(urlState.timelineControls || {
+        compactMode: 'medium',
+        sortBy: 'date',
+        filterImportance: 0,
+        showMinimap: true
+      });
+      setZoomLevel(urlState.zoomLevel || 1);
+      setShowFilters(urlState.showFilters !== false);
+      setShowStats(urlState.showStats || false);
     }
   }, [urlState]);
 
@@ -78,10 +86,11 @@ function App() {
   const loadData = async () => {
     try {
       setLoading(true);
-      const [eventsRes, tagsRes, actorsRes, statsRes] = await Promise.all([
+      const [eventsRes, tagsRes, actorsRes, captureLanesRes, statsRes] = await Promise.all([
         axios.get(API_ENDPOINTS.timeline),
         axios.get(API_ENDPOINTS.tags),
         axios.get(API_ENDPOINTS.actors),
+        axios.get(API_ENDPOINTS.capture_lanes),
         axios.get(API_ENDPOINTS.stats)
       ]);
       
@@ -89,12 +98,14 @@ function App() {
       const eventsData = transformStaticData(eventsRes.data, 'timeline');
       const tagsData = transformStaticData(tagsRes.data, 'tags');
       const actorsData = transformStaticData(actorsRes.data, 'actors');
+      const captureLanesData = transformStaticData(captureLanesRes.data, 'capture_lanes');
       const statsData = transformStaticData(statsRes.data, 'stats');
       
       setEvents(eventsData.events || eventsData);
       setFilteredEvents(eventsData.events || eventsData);
       setAllTags(tagsData.tags || tagsData);
       setAllActors(actorsData.actors || actorsData);
+      setAllCaptureLanes(captureLanesData.capture_lanes || captureLanesData);
       setStats(statsData);
       setError(null);
     } catch (err) {
@@ -108,6 +119,13 @@ function App() {
   // Apply filters
   useEffect(() => {
     let filtered = [...events];
+
+    // Capture lanes filter (primary filter)
+    if (selectedCaptureLanes.length > 0) {
+      filtered = filtered.filter(event => 
+        event.capture_lanes && selectedCaptureLanes.some(lane => event.capture_lanes.includes(lane))
+      );
+    }
 
     // Tag filter
     if (selectedTags.length > 0) {
@@ -144,7 +162,7 @@ function App() {
     }
 
     setFilteredEvents(filtered);
-  }, [events, selectedTags, selectedActors, dateRange, searchQuery]);
+  }, [events, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery]);
 
   // Event handlers
   const handleEventClick = useCallback((event) => {
@@ -161,6 +179,7 @@ function App() {
     // Update URL with new tags
     if (updateUrl) {
       updateUrl({
+        selectedCaptureLanes,
         selectedTags: newTags,
         selectedActors,
         dateRange,
@@ -184,6 +203,7 @@ function App() {
     // Update URL with new actors
     if (updateUrl) {
       updateUrl({
+        selectedCaptureLanes,
         selectedTags,
         selectedActors: newActors,
         dateRange,
@@ -195,13 +215,38 @@ function App() {
         showStats
       });
     }
-  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
+
+  const handleCaptureLaneClick = useCallback((lane) => {
+    const newLanes = selectedCaptureLanes.includes(lane)
+      ? selectedCaptureLanes.filter(l => l !== lane)
+      : [...selectedCaptureLanes, lane];
+    
+    setSelectedCaptureLanes(newLanes);
+    
+    // Update URL with new capture lanes
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes: newLanes,
+        selectedTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
   
   const handleTimelineControlsChange = useCallback((newControls) => {
     setTimelineControls(newControls);
     // Update URL with new timeline controls
     if (updateUrl) {
       updateUrl({
+        selectedCaptureLanes,
         selectedTags,
         selectedActors,
         dateRange,
@@ -217,6 +262,7 @@ function App() {
 
   const clearFilters = useCallback(() => {
     const defaultState = {
+      selectedCaptureLanes: [],
       selectedTags: [],
       selectedActors: [],
       dateRange: { start: null, end: null },
@@ -233,6 +279,7 @@ function App() {
       showStats
     };
     
+    setSelectedCaptureLanes(defaultState.selectedCaptureLanes);
     setSelectedTags(defaultState.selectedTags);
     setSelectedActors(defaultState.selectedActors);
     setDateRange(defaultState.dateRange);
@@ -295,6 +342,7 @@ function App() {
               setSearchQuery(newQuery);
               if (updateUrl) {
                 updateUrl({
+                  selectedCaptureLanes,
                   selectedTags,
                   selectedActors,
                   dateRange,
@@ -345,6 +393,7 @@ function App() {
               setViewMode(newViewMode);
               if (updateUrl) {
                 updateUrl({
+                  selectedCaptureLanes,
                   selectedTags,
                   selectedActors,
                   dateRange,
@@ -374,14 +423,35 @@ function App() {
               <FilterPanel
                 allTags={allTags}
                 allActors={allActors}
+                allCaptureLanes={allCaptureLanes}
                 selectedTags={selectedTags}
                 selectedActors={selectedActors}
+                selectedCaptureLanes={selectedCaptureLanes}
                 dateRange={dateRange}
+                events={events}
                 onTagsChange={(newTags) => {
                   setSelectedTags(newTags);
                   if (updateUrl) {
                     updateUrl({
+                      selectedCaptureLanes,
                       selectedTags: newTags,
+                      selectedActors,
+                      dateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onCaptureLanesChange={(newLanes) => {
+                  setSelectedCaptureLanes(newLanes);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedCaptureLanes: newLanes,
+                      selectedTags,
                       selectedActors,
                       dateRange,
                       searchQuery,
@@ -397,6 +467,7 @@ function App() {
                   setSelectedActors(newActors);
                   if (updateUrl) {
                     updateUrl({
+                      selectedCaptureLanes,
                       selectedTags,
                       selectedActors: newActors,
                       dateRange,
@@ -413,6 +484,7 @@ function App() {
                   setDateRange(newDateRange);
                   if (updateUrl) {
                     updateUrl({
+                      selectedCaptureLanes,
                       selectedTags,
                       selectedActors,
                       dateRange: newDateRange,
@@ -435,13 +507,33 @@ function App() {
                   events: filteredEvents,
                   groups: timelineGroups,
                   onNavigate: (date) => {
-                    // TODO: Implement navigation to date
-                    console.log('Navigate to date:', date);
+                    // Navigate to specific date by setting it as center of view
+                    if (date) {
+                      const targetDate = new Date(date);
+                      const beforeDate = new Date(targetDate);
+                      const afterDate = new Date(targetDate);
+                      beforeDate.setMonth(beforeDate.getMonth() - 3);
+                      afterDate.setMonth(afterDate.getMonth() + 3);
+                      
+                      setDateRange({
+                        start: beforeDate.toISOString().split('T')[0],
+                        end: afterDate.toISOString().split('T')[0]
+                      });
+                    }
                   },
                   onDateRangeSelect: (range) => {
-                    // TODO: Implement date range selection
-                    console.log('Date range selected:', range);
-                  }
+                    // Update date range from minimap selection
+                    if (range && range.start && range.end) {
+                      setDateRange({
+                        start: range.start,
+                        end: range.end
+                      });
+                    } else {
+                      // Clear date range if null selection
+                      setDateRange({ start: '', end: '' });
+                    }
+                  },
+                  currentDateRange: dateRange
                 } : null}
               />
             </motion.aside>
@@ -487,6 +579,7 @@ function App() {
               onEventClick={handleEventClick}
               onTagClick={handleTagClick}
               onActorClick={handleActorClick}
+              onCaptureLaneClick={handleCaptureLaneClick}
               selectedTags={selectedTags}
               selectedActors={selectedActors}
               timelineControls={timelineControls}
@@ -520,6 +613,7 @@ function App() {
             onClose={() => setSelectedEvent(null)}
             onTagClick={handleTagClick}
             onActorClick={handleActorClick}
+            onCaptureLaneClick={handleCaptureLaneClick}
           />
         )}
       </AnimatePresence>

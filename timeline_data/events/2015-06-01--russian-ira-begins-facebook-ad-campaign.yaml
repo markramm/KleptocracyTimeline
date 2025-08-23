@@ -18,6 +18,8 @@ tags:
 - election-manipulation
 - foreign-influence
 - ira-operations
+capture_lanes:
+- Foreign Influence Operations
 sources:
 - title: Russian interference in 2016 election
   url: https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections

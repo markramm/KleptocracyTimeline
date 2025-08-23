@@ -10,6 +10,8 @@ tags:
 - voter-suppression
 - mass-challenges
 - election-integrity
+capture_lanes:
+- Election System Attack
 citations:
 - https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility
 id: 2024-07-09--ga-sb189-brennan-analysis

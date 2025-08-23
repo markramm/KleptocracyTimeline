@@ -17,6 +17,9 @@ tags:
 - workforce-reduction
 - agency-elimination
 - project-2025
+capture_lanes:
+- Executive Power & Emergency Authority
+- Federal Workforce Capture
 sources:
 - title: U.S. Department of Education Initiates Reduction in Force
   url: https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-reduction-force

@@ -18,6 +18,8 @@ tags:
 - felony-charges
 - conspiracy
 - 2022-midterms
+capture_lanes:
+- Election System Attack
 citations:
 - https://www.azcentral.com/story/news/politics/elections/2025/05/02/cochise-county-supervisor-thomas-crosby-court-hearing-election-certification
 notes: Crosby was the only Arizona county supervisor to miss the Nov 28, 2022 certification deadline. He claimed voting machines weren't properly accredited. This case sets precedent for whether local officials can refuse to certify election results they disagree with.

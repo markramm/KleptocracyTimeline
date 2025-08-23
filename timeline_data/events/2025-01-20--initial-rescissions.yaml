@@ -22,6 +22,10 @@ tags:
 - dei-rollback
 - immigration
 - capture-patterns
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
+- Executive Power & Emergency Authority
+- Immigration & Border Militarization
 sources:
 - title: Initial Rescissions Of Harmful Executive Orders And Actions
   url: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions

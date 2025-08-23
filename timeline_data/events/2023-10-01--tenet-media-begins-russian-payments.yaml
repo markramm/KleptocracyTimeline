@@ -20,6 +20,8 @@ tags:
 - covert-operation
 - influencer-payments
 - information-warfare
+capture_lanes:
+- Foreign Influence Operations
 sources:
 - title: DOJ alleges Russia funded company linked to Tim Pool
   url: https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html

@@ -8,6 +8,8 @@ tags:
 - cfpb
 - regulatory-capture
 - shutdown
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
 sources:
 - title: American Prospect – How the CFPB Was Shut Down
   url: https://prospect.org/economy/2025-02-19-cfpb-shut-down-russell-vought

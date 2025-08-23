@@ -16,6 +16,8 @@ tags:
 - revenue
 - foreign-investment
 - financial-disclosure
+capture_lanes:
+- Financial Corruption & Kleptocracy
 sources:
 - title: Trump crypto revenue analysis
   url: https://www.ft.com/content/trump-crypto-revenue

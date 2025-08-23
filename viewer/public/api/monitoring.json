@@ -24,6 +24,10 @@
         "conservative-blueprint",
         "government-transformation"
       ],
+      "capture_lanes": [
+        "Corporate Capture & Regulatory Breakdown",
+        "Executive Power & Emergency Authority"
+      ],
       "sources": [
         {
           "title": "Project 2025 Implementation Analysis",
@@ -99,6 +103,11 @@
         "deregulation",
         "cost-cutting"
       ],
+      "capture_lanes": [
+        "Corporate Capture & Regulatory Breakdown",
+        "Executive Power & Emergency Authority",
+        "Federal Workforce Capture"
+      ],
       "sources": [
         {
           "title": "Trump creates DOGE with an executive order",
@@ -160,6 +169,10 @@
         "border",
         "immigration",
         "capture-patterns"
+      ],
+      "capture_lanes": [
+        "Executive Power & Emergency Authority",
+        "Immigration & Border Militarization"
       ],
       "sources": [
         {
@@ -248,6 +261,9 @@
         "inspector-general",
         "legal-violations",
         "bipartisan-opposition"
+      ],
+      "capture_lanes": [
+        "Federal Workforce Capture"
       ],
       "citations": [
         "CRS (Congressional Research Service) — Removal of Inspectors General: Rules, Practice, and Considerations (Jan 27, 2025): https://www.congress.gov/crs-product/IF11546",
@@ -339,6 +355,10 @@
         "regulatory-capture",
         "project-2025"
       ],
+      "capture_lanes": [
+        "Corporate Capture & Regulatory Breakdown",
+        "Executive Power & Emergency Authority"
+      ],
       "sources": [
         {
           "title": "Russell Vought closes CFPB HQ, tells staff to stop work",
@@ -404,6 +424,9 @@
         "epstein-files",
         "political-theater",
         "transparency-failure"
+      ],
+      "capture_lanes": [
+        "Epstein Network & Kompromat"
       ],
       "status": "confirmed",
       "sources": [
@@ -476,6 +499,9 @@
         "domestic-operations",
         "state-federal-conflict",
         "marines"
+      ],
+      "capture_lanes": [
+        "Executive Power & Emergency Authority"
       ],
       "citations": [
         "USNI News — 700 Marines Deploying to Downtown Los Angeles (Jun 9, 2025): https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles",

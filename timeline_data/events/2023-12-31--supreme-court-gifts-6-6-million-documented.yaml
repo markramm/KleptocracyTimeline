@@ -19,6 +19,8 @@ tags:
 - ethics-violations
 - systematic-corruption
 - investigation-findings
+capture_lanes:
+- Financial Corruption & Kleptocracy
 sources:
 - title: Fix the Court Gift Database
   url: https://fixthecourt.com/supreme-court-gifts/

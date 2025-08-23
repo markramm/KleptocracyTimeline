@@ -6,6 +6,8 @@ tags:
 - elections
 - funding
 - states
+capture_lanes:
+- Election System Attack
 citations:
 - https://www.ncsl.org/elections-and-campaigns/prohibiting-private-funding-of-elections
 id: 2025-07-11--ncsl-private-funding-bans

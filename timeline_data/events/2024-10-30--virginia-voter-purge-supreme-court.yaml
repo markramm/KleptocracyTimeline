@@ -24,6 +24,8 @@ tags:
 - voter_suppression
 - emergency_ruling
 - kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
 status: confirmed
 sources:
 - title: Supreme Court allows Virginia to purge voter rolls ahead of election

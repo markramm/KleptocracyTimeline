@@ -23,6 +23,8 @@ tags:
 - reduction-in-force
 - doge
 - civil-service-purge
+capture_lanes:
+- Federal Workforce Capture
 sources:
 - title: 'RIF watch: See which agencies are laying off federal workers'
   url: https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/

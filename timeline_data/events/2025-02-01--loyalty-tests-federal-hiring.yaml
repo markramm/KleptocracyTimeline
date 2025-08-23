@@ -14,6 +14,8 @@ tags:
 - loyalty-tests
 - political-screening
 - hiring-practices
+capture_lanes:
+- Federal Workforce Capture
 sources:
 - title: Federal hiring loyalty requirements
   url: https://en.wikipedia.org/wiki/Federal_government_hiring_2025

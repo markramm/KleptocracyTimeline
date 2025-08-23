@@ -16,6 +16,8 @@ tags:
 - border-militarization
 - active-duty-troops
 - posse-comitatus
+capture_lanes:
+- Executive Power & Emergency Authority
 sources:
 - title: Pentagon deployment orders
   url: https://www.defense.gov/News/faithful-patriot

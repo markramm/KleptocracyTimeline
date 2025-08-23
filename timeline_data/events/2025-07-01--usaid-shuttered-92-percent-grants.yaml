@@ -21,6 +21,8 @@ tags:
 - mass-layoffs
 - humanitarian-crisis
 - civil-service
+capture_lanes:
+- Federal Workforce Capture
 sources:
 - title: Federal agencies plan for mass layoffs as Trump's workforce cuts continue
   url: https://www.npr.org/2025/03/15/nx-s1-5328721/reduction-in-force-rif-federal-workers-job-cuts-musk-doge-layoffs

@@ -17,6 +17,9 @@ tags:
 - quorum-break
 - interstate-politics
 - constitutional-crisis
+capture_lanes:
+- Election System Attack
+- Executive Power & Emergency Authority
 sources:
 - title: Texas Democrats flee to Illinois over redistricting fight
   url: https://www.texastribune.org/2025/07/17/texas-democrats-illinois-redistricting

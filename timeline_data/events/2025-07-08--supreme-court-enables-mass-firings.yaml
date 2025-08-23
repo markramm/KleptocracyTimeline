@@ -16,6 +16,9 @@ tags:
 - federal-workforce
 - judicial-enabling
 - workforce-reduction
+capture_lanes:
+- Federal Workforce Capture
+- Judicial Capture & Corruption
 sources:
 - title: Some agencies are walking back planned layoffs, Trump administration says
   url: https://www.govexec.com/workforce/2025/07/some-agencies-are-walking-back-planned-layoffs-trump-administration-says/406737/

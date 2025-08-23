@@ -22,6 +22,8 @@ tags:
 - mass_incarceration
 - government_contracts
 - kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
 status: confirmed
 sources:
 - title: Budget bill massively expands private immigration detention

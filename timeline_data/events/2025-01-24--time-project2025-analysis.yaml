@@ -18,6 +18,8 @@ tags:
 - capture-patterns
 - executive-orders
 - policy-alignment
+capture_lanes:
+- Executive Power & Emergency Authority
 sources:
 - title: Trump's Early Actions Mirror Project 2025
   url: https://time.com/7209901/donald-trump-executive-actions-project-2025/

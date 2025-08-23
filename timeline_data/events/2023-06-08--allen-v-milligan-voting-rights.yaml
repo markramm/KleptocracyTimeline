@@ -24,6 +24,8 @@ tags:
 - alabama
 - section_2_vra
 - democratic_protection
+capture_lanes:
+- Election System Attack
 status: confirmed
 sources:
 - title: Supreme Court rules in favor of Black voters in Alabama redistricting case

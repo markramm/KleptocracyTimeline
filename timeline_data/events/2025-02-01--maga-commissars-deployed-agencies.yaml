@@ -14,6 +14,8 @@ tags:
 - federal-workforce
 - loyalty-monitoring
 - commissars
+capture_lanes:
+- Federal Workforce Capture
 sources:
 - title: MAGA commissars in federal agencies
   url: https://www.usnews.com/news/politics/maga-commissars-agencies

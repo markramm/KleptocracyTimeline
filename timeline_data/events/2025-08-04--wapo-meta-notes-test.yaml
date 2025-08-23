@@ -8,6 +8,9 @@ tags:
 - meta
 - platform-policy
 - research
+capture_lanes:
+- Election System Attack
+- Information & Media Control
 citations:
 - https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram
 id: 2025-08-04--wapo-meta-notes-test

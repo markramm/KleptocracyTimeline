@@ -16,6 +16,9 @@ tags:
 - quorum-violation
 - constitutional-crisis
 - electoral-manipulation
+capture_lanes:
+- Election System Attack
+- Executive Power & Emergency Authority
 sources:
 - title: Texas passes new maps despite Democratic absence
   url: https://www.texastribune.org/2025/07/25/texas-redistricting-passes-no-democrats

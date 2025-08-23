@@ -1,15 +1,42 @@
 import React, { useRef, useEffect, useState, useMemo, useCallback } from 'react';
 import './TimelineMinimap.css';
 
-const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSelect }) => {
+const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSelect, currentDateRange }) => {
   const canvasRef = useRef(null);
   const [isDragging, setIsDragging] = useState(false);
   const [dragStart, setDragStart] = useState(null);
   const [dragEnd, setDragEnd] = useState(null);
   const [selectedRange, setSelectedRange] = useState(null);
   
-  const years = useMemo(() => Object.keys(groups || {}).sort(), [groups]);
+  // Create properly structured groups from events
+  const structuredGroups = useMemo(() => {
+    const result = {};
+    events.forEach(event => {
+      if (!event.date) return;
+      const year = event.date.substring(0, 4);
+      const month = event.date.substring(5, 7);
+      if (!result[year]) result[year] = {};
+      if (!result[year][month]) result[year][month] = [];
+      result[year][month].push(event);
+    });
+    return result;
+  }, [events]);
+
+  const years = useMemo(() => Object.keys(structuredGroups).sort(), [structuredGroups]);
   
+  // Convert date range to Y coordinates
+  const getYFromDate = useCallback((dateStr) => {
+    if (!dateStr || !canvasRef.current || years.length === 0) return null;
+    const year = dateStr.substring(0, 4);
+    const month = parseInt(dateStr.substring(5, 7)) || 1;
+    const yearIndex = years.indexOf(year);
+    if (yearIndex === -1) return null;
+    
+    const yearHeight = canvasRef.current.height / years.length;
+    const monthProgress = (month - 1) / 12;
+    return yearIndex * yearHeight + monthProgress * yearHeight;
+  }, [years]);
+
   const drawCanvas = useCallback(() => {
     const canvas = canvasRef.current;
     if (!canvas || years.length === 0) {
@@ -32,7 +59,7 @@ const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSele
     
     years.forEach((year, index) => {
       const y = index * yearHeight;
-      const yearEvents = Object.values(groups[year] || {}).flat().filter(Boolean);
+      const yearEvents = Object.values(structuredGroups[year] || {}).flat().filter(Boolean);
       
       // Draw year background
       ctx.fillStyle = index % 2 === 0 ? 'rgba(248, 250, 252, 0.1)' : 'rgba(255, 255, 255, 0.05)';
@@ -40,7 +67,7 @@ const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSele
       
       // Draw importance bars
       const monthWidth = width / 12;
-      Object.entries(groups[year] || {}).forEach(([month, monthEvents]) => {
+      Object.entries(structuredGroups[year] || {}).forEach(([month, monthEvents]) => {
         // Ensure monthEvents is an array
         const eventsArray = Array.isArray(monthEvents) ? monthEvents : [];
         if (eventsArray.length === 0) return;
@@ -65,19 +92,34 @@ const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSele
       ctx.fillText(year, 4, y + yearHeight / 2);
     });
     
-    // Draw selection overlay if dragging or selected
-    if (selectedRange || (isDragging && dragStart !== null && dragEnd !== null)) {
-      const start = selectedRange ? selectedRange.start : Math.min(dragStart, dragEnd);
-      const end = selectedRange ? selectedRange.end : Math.max(dragStart, dragEnd);
+    // Draw current date range selection from filter
+    if (currentDateRange && currentDateRange.start && currentDateRange.end) {
+      const startY = getYFromDate(currentDateRange.start);
+      const endY = getYFromDate(currentDateRange.end);
       
-      ctx.fillStyle = 'rgba(59, 130, 246, 0.2)';
+      if (startY !== null && endY !== null) {
+        ctx.fillStyle = 'rgba(59, 130, 246, 0.2)';
+        ctx.fillRect(0, startY, width, endY - startY);
+        
+        ctx.strokeStyle = '#3b82f6';
+        ctx.lineWidth = 2;
+        ctx.strokeRect(0, startY, width, endY - startY);
+      }
+    }
+    
+    // Draw drag selection overlay
+    if (isDragging && dragStart !== null && dragEnd !== null) {
+      const start = Math.min(dragStart, dragEnd);
+      const end = Math.max(dragStart, dragEnd);
+      
+      ctx.fillStyle = 'rgba(251, 191, 36, 0.2)';
       ctx.fillRect(0, start, width, end - start);
       
-      ctx.strokeStyle = '#3b82f6';
+      ctx.strokeStyle = '#fbbf24';
       ctx.lineWidth = 2;
       ctx.strokeRect(0, start, width, end - start);
     }
-  }, [groups, years, isDragging, dragStart, dragEnd, selectedRange]);
+  }, [structuredGroups, years, isDragging, dragStart, dragEnd, currentDateRange, getYFromDate]);
   
   useEffect(() => {
     drawCanvas();
@@ -142,7 +184,7 @@ const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSele
     <div className="timeline-minimap">
       <div className="minimap-header">
         <h5>Timeline Navigation</h5>
-        {selectedRange && (
+        {(selectedRange || (currentDateRange && currentDateRange.start && currentDateRange.end)) && (
           <button className="clear-selection-btn" onClick={handleClearSelection}>
             Clear Range
           </button>

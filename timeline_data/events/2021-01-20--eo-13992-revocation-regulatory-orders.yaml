@@ -5,6 +5,8 @@ summary: Rescinded EO 13771 and related orders, reversing the two-for-one regula
 tags:
 - executive-order
 - regulation
+capture_lanes:
+- Executive Power & Emergency Authority
 citations:
 - https://www.federalregister.gov/documents/2021/01/25/2021-01767/revocation-of-certain-executive-orders-concerning-federal-regulation
 id: 2021-01-20--eo-13992-revocation-regulatory-orders

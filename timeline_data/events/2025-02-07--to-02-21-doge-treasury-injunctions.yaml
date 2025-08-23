@@ -11,6 +11,9 @@ tags:
 - opm
 - injunctions
 - courts
+capture_lanes:
+- Federal Workforce Capture
+- Judicial Capture & Corruption
 sources:
 - title: Reuters – Judge extends block on DOGE access to Treasury systems (Feb 21)
   url: https://www.reuters.com/world/us/judge-extends-block-musks-doge-treasury-systems-2025-02-21

@@ -24,6 +24,8 @@ tags:
 - fbi
 - institutional_capture
 - kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
 status: confirmed
 sources:
 - title: 'Mueller Report Volume II: Firing of James Comey'

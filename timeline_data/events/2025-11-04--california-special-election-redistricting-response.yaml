@@ -1,0 +1,45 @@
+id: 2025-11-04--california-special-election-redistricting-response
+date: '2025-11-04'
+importance: 8
+title: California Special Election on Redistricting to Counter Texas GOP Gerrymandering
+summary: California voters decide Proposition 50 authorizing new congressional maps
+  to flip 5 Republican seats Democratic, directly countering Trump-ordered Texas
+  redistricting. Newsom's "Election Rigging Response Act" bypasses independent
+  commission through 2030 if any Republican state redistricts mid-decade.
+location: California
+actors:
+- Gavin Newsom
+- California Legislature
+- Donald Trump
+- California Redistricting Commission
+tags:
+- redistricting
+- gerrymandering
+- special-election
+- democratic-response
+- proposition-50
+- congressional-control
+capture_lanes:
+- Election System Attack
+sources:
+- title: Governor Newsom launches statewide response to Trump rigging Texas' elections
+  url: https://www.gov.ca.gov/2025/08/14/governor-newsom-launches-statewide-response-to-trump-rigging-texas-elections/
+  outlet: Governor of California
+  date: '2025-08-14'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.gov.ca.gov/2025/08/14/governor-newsom-launches-statewide-response-to-trump-rigging-texas-elections/
+- title: California will move forward with redistricting vote to counter Texas
+  url: https://abcnews.go.com/Politics/newsom-make-announcement-redistricting-after-threatening-end-trumps/story?id=124651447
+  outlet: ABC News
+  date: '2025-08-14'
+  archive_url: https://web.archive.org/web/20250814000000/https://abcnews.go.com/Politics/newsom-make-announcement-redistricting-after-threatening-end-trumps/story?id=124651447
+- title: Firing Back at Texas Redistricting, Newsom Calls Special Election
+  url: https://www.democracydocket.com/news-alerts/firing-back-at-texas-redistricting-newsom-calls-special-election-to-authorize-california-countermove/
+  outlet: Democracy Docket
+  date: '2025-08-14'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.democracydocket.com/news-alerts/firing-back-at-texas-redistricting-newsom-calls-special-election-to-authorize-california-countermove/
+notes: Maps would flip 5 Republican-held seats Democratic, moving from 43-9 to 48-4
+  Democratic advantage in 52-seat delegation. Temporary measure through 2030 census,
+  then returns to nonpartisan commission. Part of national redistricting war with
+  7 other states considering responsive map changes. Demonstrates escalating
+  partisan warfare over congressional control.
+status: confirmed

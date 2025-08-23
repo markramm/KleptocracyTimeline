@@ -18,6 +18,8 @@ tags:
 - foreign-influence
 - media-control
 - financial-conflicts
+capture_lanes:
+- Foreign Influence Operations
 sources:
 - title: Trump's new social media backer tied to China lifestyle venture
   url: https://www.aljazeera.com/news/2021/10/22/trumps-new-social-media-backer-tied-to-china-lifestyle-venture

@@ -17,6 +17,8 @@ tags:
 - transition-meetings
 - fsb-connections
 - epstein-network
+capture_lanes:
+- Epstein Network & Kompromat
 sources:
 - title: Senate Intelligence Committee investigation
   url: https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf

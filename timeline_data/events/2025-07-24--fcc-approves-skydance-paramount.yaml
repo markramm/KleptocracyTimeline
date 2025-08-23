@@ -9,6 +9,8 @@ tags:
 - regulators
 - mergers
 - press-freedom
+capture_lanes:
+- Information & Media Control
 sources:
 - title: FCC news release on approval
   url: https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs

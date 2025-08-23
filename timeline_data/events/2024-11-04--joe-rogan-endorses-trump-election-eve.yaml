@@ -19,6 +19,8 @@ tags:
 - trump-endorsement
 - election-eve
 - media-capture
+capture_lanes:
+- Information & Media Control
 sources:
 - title: Joe Rogan endorses Trump after Elon Musk interview
   url: https://www.cnn.com/2024/11/05/politics/joe-rogan-endorses-donald-trump-2024-election/index.html

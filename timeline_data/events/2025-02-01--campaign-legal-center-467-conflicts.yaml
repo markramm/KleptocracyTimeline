@@ -16,6 +16,8 @@ tags:
 - government-accountability
 - watchdog-analysis
 - kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
 sources:
 - title: Trump's Nominees and the Conflicts They Carry
   url: https://campaignlegal.org/update/trumps-nominees-and-conflicts-they-carry

@@ -12,6 +12,8 @@ tags:
 - real-estate
 - money-laundering
 - oligarchs
+capture_lanes:
+- Financial Corruption & Kleptocracy
 sources:
 - title: Maison de L'Amitie - Wikipedia
   url: https://en.wikipedia.org/wiki/Maison_de_L'Amitie

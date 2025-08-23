@@ -17,6 +17,9 @@ tags:
 - project-2025
 - executive-order
 - capture-patterns
+capture_lanes:
+- Executive Power & Emergency Authority
+- Federal Workforce Capture
 sources:
 - title: Restoring Accountability To Policy-Influencing Positions Within the Federal
     Workforce

@@ -7,6 +7,8 @@ tags:
 - georgia
 - legislation
 - voter-challenges
+capture_lanes:
+- Election System Attack
 citations:
 - https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co
 id: 2024-03-29--guardian-ga-sb189

@@ -18,6 +18,8 @@ tags:
 - executive-power
 - personnel-appointments
 - blueprint-implementation
+capture_lanes:
+- Executive Power & Emergency Authority
 sources:
 - title: Vought implements own Project 2025 recommendations
   url: https://www.afge.org/news/omb-director-project-2025

@@ -28,6 +28,8 @@ tags:
 - unions
 - apa-violation
 - data-access
+capture_lanes:
+- Federal Workforce Capture
 location: Washington, DC
 actors:
 - Judge John D. Bates (D.D.C.)

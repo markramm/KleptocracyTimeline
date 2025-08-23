@@ -19,6 +19,9 @@ tags:
 - elections
 - content-moderation
 - misinformation
+capture_lanes:
+- Election System Attack
+- Information & Media Control
 status: confirmed
 sources:
 - title: More Speech and Fewer Mistakes

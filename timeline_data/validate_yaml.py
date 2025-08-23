@@ -14,8 +14,23 @@ class TimelineEventValidator:
     """Validates timeline event YAML files against schema"""
     
     REQUIRED_FIELDS = ['id', 'date', 'title', 'summary', 'sources', 'status']
-    OPTIONAL_FIELDS = ['location', 'actors', 'tags', 'notes', 'citations']
+    OPTIONAL_FIELDS = ['location', 'actors', 'tags', 'capture_lanes', 'notes', 'citations']
     VALID_STATUSES = ['confirmed', 'disputed', 'developing', 'retracted']
+    VALID_CAPTURE_LANES = [
+        'Executive Power & Emergency Authority',
+        'Judicial Capture & Corruption', 
+        'Financial Corruption & Kleptocracy',
+        'Foreign Influence Operations',
+        'Federal Workforce Capture',
+        'Corporate Capture & Regulatory Breakdown',
+        'Law Enforcement Weaponization',
+        'Election System Attack',
+        'Information & Media Control',
+        'Constitutional & Democratic Breakdown',
+        'Epstein Network & Kompromat',
+        'Immigration & Border Militarization',
+        'International Democracy Impact'
+    ]
     
     def __init__(self):
         self.errors = []
@@ -77,10 +92,19 @@ class TimelineEventValidator:
                     self.warnings.append("Source contains 'Research Document' placeholder - needs real URL")
                     
         # Validate lists are actually lists
-        list_fields = ['actors', 'tags', 'citations']
+        list_fields = ['actors', 'tags', 'citations', 'capture_lanes']
         for field in list_fields:
             if field in data and data[field] is not None and not isinstance(data[field], list):
                 self.errors.append(f"{field} must be a list")
+                
+        # Validate capture_lanes values
+        if 'capture_lanes' in data and data['capture_lanes'] is not None:
+            if isinstance(data['capture_lanes'], list):
+                for lane in data['capture_lanes']:
+                    if lane not in self.VALID_CAPTURE_LANES:
+                        self.errors.append(f"Invalid capture lane: '{lane}' (must be one of {self.VALID_CAPTURE_LANES})")
+            else:
+                self.errors.append("capture_lanes must be a list")
                 
         # Check for vulnerable single sources
         if 'sources' in data and isinstance(data['sources'], list) and len(data['sources']) == 1:

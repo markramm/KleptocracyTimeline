@@ -25,6 +25,8 @@ tags:
 - electoral_corruption
 - donor_advised_funds
 - kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
 status: confirmed
 sources:
 - title: Dark money spending in 2024 federal elections reaches record $1.9 billion

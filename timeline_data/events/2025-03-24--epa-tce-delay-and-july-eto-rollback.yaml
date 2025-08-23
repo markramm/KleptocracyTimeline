@@ -9,6 +9,8 @@ tags:
 - tce
 - ethylene-oxide
 - deregulation
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
 sources:
 - title: EPA – Status update on TSCA TCE rule
   url: https://www.epa.gov/chemicals-under-tsca/update-status-tsca-risk-management-rule-tce

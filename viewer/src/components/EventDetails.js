@@ -16,7 +16,7 @@ import {
 import ContributeButton from './ContributeButton';
 import './EventDetails.css';
 
-const EventDetails = ({ event, onClose, onTagClick, onActorClick }) => {
+const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneClick }) => {
   const getStatusIcon = (status) => {
     switch(status) {
       case 'confirmed': 
@@ -36,6 +36,35 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick }) => {
     } catch {
       return dateStr;
     }
+  };
+
+  const getCaptureLaneColor = (lane) => {
+    const colors = {
+      // Critical (Red)
+      'Executive Power & Emergency Authority': '#dc2626',
+      'Judicial Capture & Corruption': '#b91c1c',
+      'Election System Attack': '#991b1b',
+      'Law Enforcement Weaponization': '#7f1d1d',
+      
+      // High (Orange)  
+      'Financial Corruption & Kleptocracy': '#ea580c',
+      'Foreign Influence Operations': '#c2410c',
+      'Constitutional & Democratic Breakdown': '#9a3412',
+      
+      // Medium (Yellow)
+      'Federal Workforce Capture': '#ca8a04',
+      'Information & Media Control': '#a16207',
+      'Corporate Capture & Regulatory Breakdown': '#854d0e',
+      
+      // Monitoring (Blue)
+      'Immigration & Border Militarization': '#1d4ed8',
+      'International Democracy Impact': '#1e40af',
+      
+      // Specialized (Purple)
+      'Epstein Network & Kompromat': '#7c3aed'
+    };
+    
+    return colors[lane] || '#6b7280';
   };
 
   return (
@@ -123,6 +152,30 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick }) => {
                     }}
                   >
                     {actor}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {event.capture_lanes && event.capture_lanes.length > 0 && (
+            <div className="detail-section">
+              <h3>
+                <FileText size={18} />
+                Capture Lanes
+              </h3>
+              <div className="capture-lanes-grid">
+                {event.capture_lanes.map(lane => (
+                  <button
+                    key={lane}
+                    className="capture-lane-button"
+                    onClick={() => {
+                      onCaptureLaneClick(lane);
+                      onClose();
+                    }}
+                    style={{ backgroundColor: getCaptureLaneColor(lane) }}
+                  >
+                    {lane}
                   </button>
                 ))}
               </div>

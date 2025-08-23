@@ -19,11 +19,14 @@ import './FilterPanel.css';
 const FilterPanel = ({
   allTags,
   allActors,
+  allCaptureLanes,
   selectedTags,
   selectedActors,
+  selectedCaptureLanes,
   dateRange,
   onTagsChange,
   onActorsChange,
+  onCaptureLanesChange,
   onDateRangeChange,
   onClear,
   eventCount,
@@ -33,11 +36,14 @@ const FilterPanel = ({
   timelineControls,
   onTimelineControlsChange,
   // Minimap data
-  timelineData
+  timelineData,
+  // Events data for calculating counts
+  events
 }) => {
   const [expandedSections, setExpandedSections] = useState({
-    tags: true,
-    actors: true,
+    captureLanes: true,
+    tags: false,
+    actors: false,
     dates: true,
     timeline: viewMode === 'timeline'
   });
@@ -49,17 +55,43 @@ const FilterPanel = ({
     }));
   };
 
+  // Calculate counts for each filter option
+  const getTagCount = (tag) => {
+    return events ? events.filter(event => 
+      event.tags && event.tags.includes(tag)
+    ).length : 0;
+  };
+
+  const getActorCount = (actor) => {
+    return events ? events.filter(event => 
+      event.actors && event.actors.includes(actor)
+    ).length : 0;
+  };
+
+  const getCaptureLaneCount = (lane) => {
+    return events ? events.filter(event => 
+      event.capture_lanes && event.capture_lanes.includes(lane)
+    ).length : 0;
+  };
+
+  // Create options with counts and sort by popularity (count desc)
   const tagOptions = allTags.map(tag => ({
     value: tag,
     label: tag.replace(/-/g, ' '),
-    count: 0 // Would need to calculate from events
-  }));
+    count: getTagCount(tag)
+  })).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
 
   const actorOptions = allActors.map(actor => ({
     value: actor,
     label: actor,
-    count: 0 // Would need to calculate from events
-  }));
+    count: getActorCount(actor)
+  })).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+  const captureLaneOptions = allCaptureLanes.map(lane => ({
+    value: lane,
+    label: lane,
+    count: getCaptureLaneCount(lane)
+  })).sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
 
   const customStyles = {
     control: (base) => ({
@@ -77,7 +109,10 @@ const FilterPanel = ({
       ...base,
       backgroundColor: state.isFocused ? '#374151' : '#1f2937',
       color: '#e5e7eb',
-      cursor: 'pointer'
+      cursor: 'pointer',
+      display: 'flex',
+      justifyContent: 'space-between',
+      alignItems: 'center'
     }),
     multiValue: (base) => ({
       ...base,
@@ -99,6 +134,23 @@ const FilterPanel = ({
     })
   };
 
+  // Custom option component to display counts
+  const formatOptionLabel = ({ label, count }) => (
+    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
+      <span>{label}</span>
+      <span style={{ 
+        backgroundColor: '#374151', 
+        color: '#9ca3af', 
+        fontSize: '12px', 
+        padding: '2px 6px', 
+        borderRadius: '10px',
+        fontWeight: '500'
+      }}>
+        {count}
+      </span>
+    </div>
+  );
+
   const getCategoryColor = (tag) => {
     const colors = {
       'constitutional-crisis': '#ef4444',
@@ -116,6 +168,35 @@ const FilterPanel = ({
     return '#6b7280';
   };
 
+  const getCaptureLaneColor = (lane) => {
+    const colors = {
+      // Critical (Red)
+      'Executive Power & Emergency Authority': '#dc2626',
+      'Judicial Capture & Corruption': '#b91c1c',
+      'Election System Attack': '#991b1b',
+      'Law Enforcement Weaponization': '#7f1d1d',
+      
+      // High (Orange)  
+      'Financial Corruption & Kleptocracy': '#ea580c',
+      'Foreign Influence Operations': '#c2410c',
+      'Constitutional & Democratic Breakdown': '#9a3412',
+      
+      // Medium (Yellow)
+      'Federal Workforce Capture': '#ca8a04',
+      'Information & Media Control': '#a16207',
+      'Corporate Capture & Regulatory Breakdown': '#854d0e',
+      
+      // Monitoring (Blue)
+      'Immigration & Border Militarization': '#1d4ed8',
+      'International Democracy Impact': '#1e40af',
+      
+      // Specialized (Purple)
+      'Epstein Network & Kompromat': '#7c3aed'
+    };
+    
+    return colors[lane] || '#6b7280';
+  };
+
   return (
     <div className="filter-panel">
       <div className="filter-header">
@@ -123,7 +204,7 @@ const FilterPanel = ({
           <Filter size={20} />
           Filters
         </h3>
-        {(selectedTags.length > 0 || selectedActors.length > 0 || 
+        {(selectedCaptureLanes.length > 0 || selectedTags.length > 0 || selectedActors.length > 0 || 
           dateRange.start || dateRange.end) && (
           <button className="clear-filters-button" onClick={onClear}>
             <RotateCcw size={16} />
@@ -150,6 +231,58 @@ const FilterPanel = ({
       </div>
 
       <div className="filter-sections">
+        {/* Capture Lanes Section */}
+        <div className="filter-section">
+          <button 
+            className="section-header"
+            onClick={() => toggleSection('captureLanes')}
+          >
+            <div className="header-title">
+              <Filter size={16} />
+              <span>Capture Lanes</span>
+              {selectedCaptureLanes.length > 0 && (
+                <span className="badge">{selectedCaptureLanes.length}</span>
+              )}
+            </div>
+            {expandedSections.captureLanes ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+          </button>
+          
+          {expandedSections.captureLanes && (
+            <div className="section-content">
+              <Select
+                isMulti
+                options={captureLaneOptions}
+                value={captureLaneOptions.filter(opt => selectedCaptureLanes.includes(opt.value))}
+                onChange={(selected) => onCaptureLanesChange(selected.map(s => s.value))}
+                placeholder="Select capture lanes..."
+                styles={customStyles}
+                className="filter-select"
+                classNamePrefix="select"
+                formatOptionLabel={formatOptionLabel}
+              />
+              
+              {selectedCaptureLanes.length > 0 && (
+                <div className="selected-items">
+                  {selectedCaptureLanes.map(lane => (
+                    <div 
+                      key={lane}
+                      className="selected-item capture-lane-item"
+                      style={{ backgroundColor: getCaptureLaneColor(lane) }}
+                    >
+                      <span>{lane}</span>
+                      <button
+                        onClick={() => onCaptureLanesChange(selectedCaptureLanes.filter(l => l !== lane))}
+                      >
+                        <X size={14} />
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
         {/* Tags Section */}
         <div className="filter-section">
           <button 
@@ -177,6 +310,7 @@ const FilterPanel = ({
                 styles={customStyles}
                 className="filter-select"
                 classNamePrefix="select"
+                formatOptionLabel={formatOptionLabel}
               />
               
               {selectedTags.length > 0 && (
@@ -228,6 +362,7 @@ const FilterPanel = ({
                 styles={customStyles}
                 className="filter-select"
                 classNamePrefix="select"
+                formatOptionLabel={formatOptionLabel}
               />
               
               {selectedActors.length > 0 && (
@@ -413,6 +548,7 @@ const FilterPanel = ({
                       groups={timelineData.groups}
                       onNavigate={timelineData.onNavigate}
                       onDateRangeSelect={timelineData.onDateRangeSelect}
+                      currentDateRange={timelineData.currentDateRange}
                     />
                   </div>
                 )}

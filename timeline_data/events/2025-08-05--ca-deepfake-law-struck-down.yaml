@@ -9,6 +9,8 @@ tags:
 - elections
 - speech
 - platforms
+capture_lanes:
+- Election System Attack
 sources:
 - title: 'Politico: Elon Musk and X notch court win'
   url: https://www.politico.com/news/2025/08/05/elon-musk-x-court-win-california-deepfake-law-00494936

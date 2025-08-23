@@ -10,6 +10,8 @@ tags:
 - immigration
 - universities
 - protest
+capture_lanes:
+- Immigration & Border Militarization
 sources:
 - title: 'CNN: DHS revoking student visas linked to protests'
   url: https://www.cnn.com/2025/05/20/politics/student-visa-revocations-protests/index.html

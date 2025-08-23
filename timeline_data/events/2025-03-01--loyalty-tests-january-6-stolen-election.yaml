@@ -16,6 +16,8 @@ tags:
 - election-denial
 - political-screening
 - federal-employment
+capture_lanes:
+- Federal Workforce Capture
 sources:
 - title: U.S. intelligence, law enforcement candidates face Trump loyalty test
   url: https://www.washingtonpost.com/national-security/2025/02/08/trump-administration-job-candidates-loyalty-screening/

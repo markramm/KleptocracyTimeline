@@ -19,6 +19,8 @@ tags:
 - election-interference
 - kompromat-payment
 - wire-fraud
+capture_lanes:
+- Election System Attack
 sources:
 - title: Michael Cohen pleads guilty to eight counts
   url: https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax

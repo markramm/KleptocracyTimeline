@@ -24,6 +24,8 @@ tags:
 - self-dealing
 - financial-disclosure
 - bitcoin
+capture_lanes:
+- Financial Corruption & Kleptocracy
 sources:
 - title: Trump's Crypto Appointments - Key Leaders in the Administration
   url: https://www.cryptoforinnovation.org/trumps-crypto-appointments-key-leaders-in-the-administration/

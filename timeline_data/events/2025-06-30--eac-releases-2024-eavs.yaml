@@ -10,6 +10,8 @@ tags:
 - administration
 - data
 - elections
+capture_lanes:
+- Election System Attack
 citations:
 - https://www.eac.gov/news/2025/06/30/us-election-assistance-commission-releases-2024-election-administration-and-voting
 - https://www.eac.gov/sites/default/files/2025-06/2024_EAVS_Report_508c.pdf

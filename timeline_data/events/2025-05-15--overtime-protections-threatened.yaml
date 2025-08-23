@@ -17,6 +17,8 @@ tags:
 - regulatory-rollback
 - project-2025
 - worker-protections
+capture_lanes:
+- Executive Power & Emergency Authority
 sources:
 - title: Project 2025 would strip federal overtime protections from at least 8 million
     workers

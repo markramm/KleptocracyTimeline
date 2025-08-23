@@ -8,6 +8,8 @@ tags:
 - redistricting
 - federal-involvement
 - law-enforcement
+capture_lanes:
+- Election System Attack
 sources:
 - title: Cornyn says FBI will help locate absent Texas Democrats, but scope of feds' role unclear
   url: https://www.texastribune.org/2025/08/07/john-cornyn-fbi-texas-democrats-illinois-quorum-break-redistricting/

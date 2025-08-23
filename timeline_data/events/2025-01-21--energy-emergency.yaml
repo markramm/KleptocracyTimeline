@@ -8,6 +8,8 @@ tags:
 - national-emergency
 - energy
 - capture-patterns
+capture_lanes:
+- Executive Power & Emergency Authority
 sources:
 - title: White House – Declaring a National Energy Emergency
   url: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency

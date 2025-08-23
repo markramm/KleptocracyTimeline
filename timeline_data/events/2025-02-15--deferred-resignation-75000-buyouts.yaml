@@ -16,6 +16,8 @@ tags:
 - civil-service
 - schedule-f
 - government-restructuring
+capture_lanes:
+- Federal Workforce Capture
 sources:
 - title: Federal workforce reduction update
   url: https://federalnewsnetwork.com/workforce/2025/02/deferred-resignation-program

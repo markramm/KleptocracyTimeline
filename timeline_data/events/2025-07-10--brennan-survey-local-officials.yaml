@@ -6,6 +6,8 @@ tags:
 - admin-capacity
 - elections
 - funding
+capture_lanes:
+- Election System Attack
 citations:
 - https://www.brennancenter.org/our-work/research-reports/local-election-officials-survey-july-2025
 id: 2025-07-10--brennan-survey-local-officials

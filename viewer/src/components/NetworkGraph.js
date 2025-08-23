@@ -332,14 +332,36 @@ const NetworkGraph = ({ events }) => {
         .attr('fill', '#666')
         .text(statsText);
 
+      // Find and center Trump node
+      const trumpNode = graphData.nodes.find(node => 
+        node.type === 'actor' && 
+        (node.fullName?.includes('Donald Trump') || node.label?.includes('Donald Trump') || 
+         node.fullName === 'Trump' || node.label === 'Trump' ||
+         node.fullName === 'Donald Trump' || node.label === 'Donald Trump')
+      );
+
+      // If Trump exists, fix him at the center
+      if (trumpNode) {
+        console.log('Centering Trump node:', trumpNode.fullName || trumpNode.label);
+        trumpNode.fx = width / 2;
+        trumpNode.fy = height / 2;
+      } else {
+        console.log('Trump node not found in graph');
+        console.log('Available actors:', graphData.nodes.filter(n => n.type === 'actor').map(n => n.fullName || n.label));
+      }
+
       // Create force simulation with better parameters for fewer nodes
       const simulation = d3.forceSimulation(graphData.nodes)
         .force('link', d3.forceLink(graphData.links)
           .id(d => d.id)
-          .distance(d => 80 + (40 * (1 - (d.strength || 0))))
+          .distance(d => trumpNode && (d.source.id === trumpNode.id || d.target.id === trumpNode.id) ? 60 : 80 + (40 * (1 - (d.strength || 0))))
         )
         .force('charge', d3.forceManyBody()
-          .strength(d => d.type === 'actor' ? -400 : -600)
+          .strength(d => {
+            // Make Trump more attractive to pull other nodes toward him
+            if (trumpNode && d.id === trumpNode.id) return -800;
+            return d.type === 'actor' ? -400 : -600;
+          })
         )
         .force('center', d3.forceCenter(width / 2, height / 2))
         .force('collision', d3.forceCollide().radius(d => {

@@ -26,6 +26,8 @@ tags:
 - illegal_rules
 - certification_delay
 - kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
 status: confirmed
 sources:
 - title: Georgia Supreme Court strikes down election board rules

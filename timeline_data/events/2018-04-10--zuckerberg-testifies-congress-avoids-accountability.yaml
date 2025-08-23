@@ -19,6 +19,8 @@ tags:
 - zuckerberg
 - facebook-scandal
 - accountability-failure
+capture_lanes:
+- Foreign Influence Operations
 sources:
 - title: Zuckerberg testimony to Congress
   url: https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/

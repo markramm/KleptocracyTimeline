@@ -18,6 +18,8 @@ tags:
 - facebook-breach
 - privacy-violation
 - election-interference
+capture_lanes:
+- Election System Attack
 sources:
 - title: Facebook Cambridge Analytica data scandal
   url: https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal

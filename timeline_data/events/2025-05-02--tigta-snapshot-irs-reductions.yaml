@@ -29,6 +29,8 @@ tags:
 - tigta
 - federal-layoffs
 - deferred-resignation
+capture_lanes:
+- Federal Workforce Capture
 location: National
 actors:
 - Treasury Inspector General for Tax Administration (TIGTA)

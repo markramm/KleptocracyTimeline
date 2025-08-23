@@ -25,6 +25,8 @@ tags:
 - executive-order
 - cartel-exemption
 - corporate-compliance
+capture_lanes:
+- Executive Power & Emergency Authority
 sources:
 - title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic
     and National Security
