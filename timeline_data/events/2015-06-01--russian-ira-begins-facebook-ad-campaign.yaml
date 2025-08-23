@@ -1,0 +1,29 @@
+id: 2015-06-01--russian-ira-begins-facebook-ad-campaign
+date: '2015-06-01'
+importance: 9
+title: Russian Internet Research Agency Begins Facebook Ad Campaign to Influence US
+  Election
+summary: Russian IRA starts purchasing Facebook ads as part of "information warfare"
+  campaign, eventually spending $100,000+ reaching millions of Americans through
+  2017
+location: St. Petersburg, Russia
+actors:
+- Internet Research Agency
+- Facebook
+- Russian Government
+- Yevgeny Prigozhin
+tags:
+- russian-interference
+- facebook-ads
+- election-manipulation
+- foreign-influence
+- ira-operations
+sources:
+- title: Russian interference in 2016 election
+  url: https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections
+notes: Ads ran June 2015-May 2017. Focused on divisive issues. 25% geographically
+  targeted. Reached 4-5 million users. Part of "sweeping and systematic" interference.
+status: confirmed

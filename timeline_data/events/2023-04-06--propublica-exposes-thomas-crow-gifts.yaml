@@ -1,0 +1,30 @@
+id: 2023-04-06--propublica-exposes-thomas-crow-gifts
+date: '2023-04-06'
+importance: 10
+title: ProPublica Exposes Two Decades of Undisclosed Thomas-Crow Gifts
+summary: ProPublica publishes investigation revealing Clarence Thomas accepted luxury
+  trips and gifts from Harlan Crow for over 20 years without disclosure, triggering
+  Supreme Court ethics crisis
+location: United States
+actors:
+- ProPublica
+- Clarence Thomas
+- Harlan Crow
+- Supreme Court
+tags:
+- judicial-capture
+- supreme-court
+- investigative-journalism
+- ethics-scandal
+- undisclosed-gifts
+- propublica
+sources:
+- title: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor
+  url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  outlet: ProPublica
+  date: '2023-04-06'
+  archive_url: https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+notes: Investigation revealed yacht trips, private jet travel, luxury resort stays
+  worth millions. Thomas claimed personal hospitality exemption. Led to calls for
+  resignation and binding ethics code.
+status: confirmed

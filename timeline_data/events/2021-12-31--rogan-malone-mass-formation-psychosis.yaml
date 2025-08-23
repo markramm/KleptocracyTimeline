@@ -1,0 +1,35 @@
+id: 2021-12-31--rogan-malone-mass-formation-psychosis
+date: '2021-12-31'
+importance: 9
+title: Rogan Hosts Vaccine Skeptic Dr. Robert Malone Who Claims "Mass Formation Psychosis"
+summary: Dr. Robert Malone on Rogan's podcast falsely claims vaccines increase COVID
+  risk and compares pandemic response to Nazi Germany through "mass formation psychosis"
+  theory, reaching 11 million listeners
+location: United States
+actors:
+- Joe Rogan
+- Dr. Robert Malone
+- Spotify
+- The Joe Rogan Experience
+tags:
+- covid-misinformation
+- vaccine-disinformation
+- mass-formation-psychosis
+- podcast-influence
+- medical-misinformation
+- nazi-comparison
+sources:
+- title: 270 doctors demand Spotify take action over Joe Rogan vaccine misinformation
+  url: https://www.cnn.com/2022/01/13/tech/spotify-joe-rogan-doctors-covid-vaccine/index.html
+  outlet: CNN
+  date: '2022-01-13'
+  archive_url: https://web.archive.org/web/20220113000000/https://www.cnn.com/2022/01/13/tech/spotify-joe-rogan-doctors-covid-vaccine/index.html
+- title: Joe Rogan's Malone interview breaks the internet
+  url: https://www.politifact.com/article/2022/jan/06/who-robert-malone-joe-rogans-guest-was-vaccine-sc/
+  outlet: PolitiFact
+  date: '2022-01-06'
+  archive_url: https://web.archive.org/web/20220106000000/https://www.politifact.com/article/2022/jan/06/who-robert-malone-joe-rogans-guest-was-vaccine-sc/
+notes: Malone claimed he invented mRNA vaccines (false). Said vaccines make COVID
+  worse. Compared US to Nazi Germany. 270 doctors wrote open letter. Neil Young, Joni
+  Mitchell pulled music from Spotify in protest.
+status: confirmed

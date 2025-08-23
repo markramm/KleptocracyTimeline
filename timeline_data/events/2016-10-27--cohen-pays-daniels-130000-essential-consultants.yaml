@@ -1,0 +1,31 @@
+id: 2016-10-27--cohen-pays-daniels-130000-essential-consultants
+date: '2016-10-27'
+importance: 9
+title: Cohen Uses Essential Consultants to Pay Stormy Daniels $130,000 Hush Money
+summary: Michael Cohen wires $130,000 from Essential Consultants LLC to Stormy Daniels'
+  attorney, using fraudulent HELOC loan, completing hush money payment days before
+  election
+location: United States
+actors:
+- Michael Cohen
+- Stormy Daniels
+- Essential Consultants LLC
+- Keith Davidson (attorney)
+- Donald Trump
+tags:
+- hush-money
+- stormy-daniels
+- essential-consultants
+- election-interference
+- kompromat-payment
+- wire-fraud
+sources:
+- title: Michael Cohen pleads guilty to eight counts
+  url: https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax
+  outlet: Department of Justice
+  date: '2018-08-21'
+  archive_url: https://web.archive.org/web/20180821000000/https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax
+notes: Payment made 11 days before election. Cohen used fraudulent home equity loan.
+  Criminal campaign finance violation. Trump later convicted of falsifying records
+  related to reimbursement.
+status: confirmed

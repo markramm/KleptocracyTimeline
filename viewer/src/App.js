@@ -9,15 +9,20 @@ import SearchBar from './components/SearchBar';
 import ViewToggle from './components/ViewToggle';
 import NetworkGraph from './components/NetworkGraph';
 import { API_ENDPOINTS, transformStaticData } from './config';
+import { useUrlState } from './hooks/useUrlState';
 import { 
   Filter, 
   BarChart3,
   Loader2,
-  AlertCircle 
+  AlertCircle,
+  Share2
 } from 'lucide-react';
 import './App.css';
 
 function App() {
+  // URL state management
+  const { urlState, updateUrl } = useUrlState();
+  
   // State management
   const [events, setEvents] = useState([]);
   const [filteredEvents, setFilteredEvents] = useState([]);
@@ -25,19 +30,19 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   
-  // Filter states
+  // Filter states - initialize from URL or defaults
   const [selectedTags, setSelectedTags] = useState([]);
   const [selectedActors, setSelectedActors] = useState([]);
   const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [searchQuery, setSearchQuery] = useState('');
-  const [viewMode, setViewMode] = useState('timeline'); // timeline, grid, list, graph
+  const [viewMode, setViewMode] = useState('timeline');
   
-  // UI states
+  // UI states - initialize from URL or defaults
   const [showFilters, setShowFilters] = useState(true);
   const [showStats, setShowStats] = useState(false);
   const [zoomLevel, setZoomLevel] = useState(1);
   
-  // Timeline view controls
+  // Timeline view controls - initialize from URL or defaults
   const [timelineControls, setTimelineControls] = useState({
     compactMode: 'medium',
     sortBy: 'date',
@@ -49,6 +54,21 @@ function App() {
   const [allTags, setAllTags] = useState([]);
   const [allActors, setAllActors] = useState([]);
   const [stats, setStats] = useState(null);
+
+  // Initialize state from URL when urlState is available
+  useEffect(() => {
+    if (urlState) {
+      setSelectedTags(urlState.selectedTags);
+      setSelectedActors(urlState.selectedActors);
+      setDateRange(urlState.dateRange);
+      setSearchQuery(urlState.searchQuery);
+      setViewMode(urlState.viewMode);
+      setTimelineControls(urlState.timelineControls);
+      setZoomLevel(urlState.zoomLevel);
+      setShowFilters(urlState.showFilters);
+      setShowStats(urlState.showStats);
+    }
+  }, [urlState]);
 
   // Load initial data
   useEffect(() => {
@@ -132,38 +152,98 @@ function App() {
   }, []);
 
   const handleTagClick = useCallback((tag) => {
-    setSelectedTags(prev => 
-      prev.includes(tag) 
-        ? prev.filter(t => t !== tag)
-        : [...prev, tag]
-    );
-  }, []);
+    const newTags = selectedTags.includes(tag) 
+      ? selectedTags.filter(t => t !== tag)
+      : [...selectedTags, tag];
+    
+    setSelectedTags(newTags);
+    
+    // Update URL with new tags
+    if (updateUrl) {
+      updateUrl({
+        selectedTags: newTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
 
   const handleActorClick = useCallback((actor) => {
-    setSelectedActors(prev =>
-      prev.includes(actor)
-        ? prev.filter(a => a !== actor)
-        : [...prev, actor]
-    );
-  }, []);
+    const newActors = selectedActors.includes(actor)
+      ? selectedActors.filter(a => a !== actor)
+      : [...selectedActors, actor];
+    
+    setSelectedActors(newActors);
+    
+    // Update URL with new actors
+    if (updateUrl) {
+      updateUrl({
+        selectedTags,
+        selectedActors: newActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
   
   const handleTimelineControlsChange = useCallback((newControls) => {
     setTimelineControls(newControls);
-  }, []);
+    // Update URL with new timeline controls
+    if (updateUrl) {
+      updateUrl({
+        selectedTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls: newControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, zoomLevel, showFilters, showStats]);
 
   const clearFilters = useCallback(() => {
-    setSelectedTags([]);
-    setSelectedActors([]);
-    setDateRange({ start: null, end: null });
-    setSearchQuery('');
-    // Reset timeline controls to defaults
-    setTimelineControls({
-      compactMode: 'medium',
-      sortBy: 'date',
-      filterImportance: 0,
-      showMinimap: true
-    });
-  }, []);
+    const defaultState = {
+      selectedTags: [],
+      selectedActors: [],
+      dateRange: { start: null, end: null },
+      searchQuery: '',
+      viewMode,
+      timelineControls: {
+        compactMode: 'medium',
+        sortBy: 'date',
+        filterImportance: 0,
+        showMinimap: true
+      },
+      zoomLevel,
+      showFilters,
+      showStats
+    };
+    
+    setSelectedTags(defaultState.selectedTags);
+    setSelectedActors(defaultState.selectedActors);
+    setDateRange(defaultState.dateRange);
+    setSearchQuery(defaultState.searchQuery);
+    setTimelineControls(defaultState.timelineControls);
+    
+    // Update URL to reflect cleared state
+    if (updateUrl) {
+      updateUrl(defaultState);
+    }
+  }, [updateUrl, viewMode, zoomLevel, showFilters, showStats]);
 
   // Compute timeline groups for better visualization
   const timelineGroups = useMemo(() => {
@@ -211,7 +291,22 @@ function App() {
         <div className="header-controls">
           <SearchBar 
             value={searchQuery}
-            onChange={setSearchQuery}
+            onChange={(newQuery) => {
+              setSearchQuery(newQuery);
+              if (updateUrl) {
+                updateUrl({
+                  selectedTags,
+                  selectedActors,
+                  dateRange,
+                  searchQuery: newQuery,
+                  viewMode,
+                  timelineControls,
+                  zoomLevel,
+                  showFilters,
+                  showStats
+                });
+              }
+            }}
             placeholder="Search events, actors, tags..."
           />
           
@@ -231,11 +326,37 @@ function App() {
             >
               <BarChart3 size={20} />
             </button>
+            
+            <button 
+              className="icon-button"
+              onClick={() => {
+                navigator.clipboard.writeText(window.location.href);
+                // Could add a toast notification here
+              }}
+              title="Copy link to share this view"
+            >
+              <Share2 size={20} />
+            </button>
           </div>
           
           <ViewToggle 
             currentView={viewMode}
-            onViewChange={setViewMode}
+            onViewChange={(newViewMode) => {
+              setViewMode(newViewMode);
+              if (updateUrl) {
+                updateUrl({
+                  selectedTags,
+                  selectedActors,
+                  dateRange,
+                  searchQuery,
+                  viewMode: newViewMode,
+                  timelineControls,
+                  zoomLevel,
+                  showFilters,
+                  showStats
+                });
+              }
+            }}
           />
         </div>
       </header>
@@ -256,9 +377,54 @@ function App() {
                 selectedTags={selectedTags}
                 selectedActors={selectedActors}
                 dateRange={dateRange}
-                onTagsChange={setSelectedTags}
-                onActorsChange={setSelectedActors}
-                onDateRangeChange={setDateRange}
+                onTagsChange={(newTags) => {
+                  setSelectedTags(newTags);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedTags: newTags,
+                      selectedActors,
+                      dateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onActorsChange={(newActors) => {
+                  setSelectedActors(newActors);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedTags,
+                      selectedActors: newActors,
+                      dateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onDateRangeChange={(newDateRange) => {
+                  setDateRange(newDateRange);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedTags,
+                      selectedActors,
+                      dateRange: newDateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
                 onClear={clearFilters}
                 eventCount={filteredEvents.length}
                 totalCount={events.length}

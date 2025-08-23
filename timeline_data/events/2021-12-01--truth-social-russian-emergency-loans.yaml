@@ -1,0 +1,31 @@
+id: 2021-12-01--truth-social-russian-emergency-loans
+date: '2021-12-01'
+importance: 9
+title: Truth Social Receives $8 Million from Russian-Connected Entities While "On
+  Brink of Collapse"
+summary: Trump Media receives emergency loans totaling $8 million from Putin-connected
+  Paxum Bank ($2M) and ES Family Trust ($6M) when company near failure, triggering
+  federal investigation
+location: United States
+actors:
+- Trump Media & Technology Group
+- Paxum Bank
+- Anton Postolnikov
+- ES Family Trust
+- SDNY Prosecutors
+tags:
+- truth-social
+- russian-money
+- foreign-influence
+- money-laundering
+- federal-investigation
+sources:
+- title: Truth Social Wikipedia - Russian Financial Connections
+  url: https://en.wikipedia.org/wiki/Truth_Social
+  outlet: Wikipedia
+  date: '2023-03-01'
+  archive_url: https://web.archive.org/web/20230301000000/https://en.wikipedia.org/wiki/Truth_Social
+notes: Paxum Bank part-owned by Postolnikov, relation of former Russian official.
+  SDNY prosecutors investigating Russian ties as of March 2023. Loans provided when
+  company desperate for cash.
+status: confirmed

@@ -1,0 +1,34 @@
+id: 2022-10-01--sinclair-reaches-40-percent-households
+date: '2022-10-01'
+importance: 8
+title: Sinclair Broadcasting Reaches 40% of US Households Through Local News Monopoly
+summary: Sinclair Broadcast Group now operates 193 TV stations reaching 40% of American
+  households, using local news infrastructure to push synchronized conservative propaganda
+  through must-run segments
+location: United States
+actors:
+- Sinclair Broadcast Group
+- David Smith
+- Chris Ripley
+- Local news stations
+tags:
+- sinclair-broadcasting
+- local-news-capture
+- media-consolidation
+- propaganda-infrastructure
+- must-run-segments
+sources:
+- title: Sinclair Broadcast Group Wikipedia
+  url: https://en.wikipedia.org/wiki/Sinclair_Broadcast_Group
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Sinclair_Broadcast_Group
+- title: This is Sinclair, the most dangerous US company
+  url: https://www.theguardian.com/media/2017/aug/17/sinclair-news-media-broadcast-trump-white-house-circa-breitbart-news
+  outlet: The Guardian
+  date: '2017-08-17'
+  archive_url: https://web.archive.org/web/20170817000000/https://www.theguardian.com/media/2017/aug/17/sinclair-news-media-broadcast-trump-white-house-circa-breitbart-news
+notes: Largest owner of local TV stations. Forces local anchors to read identical
+  scripts. Must-run segments from Boris Epshteyn. Uses trusted local news format for
+  political propaganda. Scale enables information control.
+status: confirmed

@@ -4,6 +4,7 @@ import './NetworkGraph.css';
 
 const NetworkGraph = ({ events }) => {
   const svgRef = useRef(null);
+  const simulationRef = useRef(null);
   const [selectedNode, setSelectedNode] = useState(null);
   const [graphLayout, setGraphLayout] = useState('force'); // force, timeline, circular
   const [showLabels, setShowLabels] = useState(false); // Default to false for less clutter
@@ -11,6 +12,7 @@ const NetworkGraph = ({ events }) => {
   const [maxNodes, setMaxNodes] = useState(30); // Limit number of nodes displayed
   const [minConnectionStrength, setMinConnectionStrength] = useState(0.5); // Filter weak connections
   const [dateRange, setDateRange] = useState({ months: 6 }); // Show only recent events by default
+  const [isLayoutFrozen, setIsLayoutFrozen] = useState(false); // Track frozen state
   
   // New search and filter states
   const [searchQuery, setSearchQuery] = useState('');
@@ -347,6 +349,14 @@ const NetworkGraph = ({ events }) => {
         .force('x', d3.forceX(width / 2).strength(0.05))
         .force('y', d3.forceY(height / 2).strength(0.05));
 
+      // Store simulation reference for freeze/unfreeze functionality
+      simulationRef.current = simulation;
+
+      // If layout is frozen, stop the simulation immediately
+      if (isLayoutFrozen) {
+        simulation.stop();
+      }
+
       // Create container groups
       const g = svg.append('g');
 
@@ -491,7 +501,7 @@ const NetworkGraph = ({ events }) => {
 
       // Drag functions
       function dragStarted(event) {
-        if (!event.active) simulation.alphaTarget(0.3).restart();
+        if (!isLayoutFrozen && !event.active) simulation.alphaTarget(0.3).restart();
         event.subject.fx = event.subject.x;
         event.subject.fy = event.subject.y;
       }
@@ -502,9 +512,15 @@ const NetworkGraph = ({ events }) => {
       }
 
       function dragEnded(event) {
-        if (!event.active) simulation.alphaTarget(0);
-        event.subject.fx = null;
-        event.subject.fy = null;
+        if (!isLayoutFrozen && !event.active) simulation.alphaTarget(0);
+        // Keep nodes fixed if layout is frozen
+        if (isLayoutFrozen) {
+          event.subject.fx = event.x;
+          event.subject.fy = event.y;
+        } else {
+          event.subject.fx = null;
+          event.subject.fy = null;
+        }
       }
 
       function highlightConnections(node) {
@@ -540,9 +556,277 @@ const NetworkGraph = ({ events }) => {
     };
 
     const renderTimelineLayout = (graphData) => {
-      // Timeline layout: arrange nodes by date horizontally
-      console.log('Timeline layout not yet implemented');
-      renderForceLayout(graphData); // Fallback to force layout
+      const width = svgRef.current.clientWidth || 800;
+      const height = 600;
+      const svg = d3.select(svgRef.current)
+        .attr('width', width)
+        .attr('height', height);
+
+      // Clear previous graph
+      svg.selectAll('*').remove();
+
+      // Show stats
+      const statsText = `Timeline: ${graphData.nodes.length} nodes, ${graphData.links.length} connections`;
+      const statsG = svg.append('g').attr('class', 'stats-text');
+      statsG.append('text')
+        .attr('x', 10)
+        .attr('y', 20)
+        .attr('font-size', 12)
+        .attr('fill', '#666')
+        .text(statsText);
+
+      // Filter and sort nodes by date
+      const eventNodes = graphData.nodes
+        .filter(n => n.type === 'event' && n.date)
+        .sort((a, b) => new Date(a.date) - new Date(b.date));
+
+      const actorNodes = graphData.nodes.filter(n => n.type === 'actor');
+
+      // Create date scale for horizontal positioning
+      const dates = eventNodes.map(n => new Date(n.date));
+      const xScale = d3.scaleTime()
+        .domain(d3.extent(dates))
+        .range([80, width - 80]);
+
+      // Create container group
+      const g = svg.append('g');
+
+      // Add zoom behavior
+      const zoom = d3.zoom()
+        .scaleExtent([0.3, 3])
+        .on('zoom', (event) => {
+          g.attr('transform', event.transform);
+        });
+      
+      svg.call(zoom);
+
+      // Color scale
+      const colorScale = d3.scaleOrdinal()
+        .domain(['judicial', 'regulatory', 'financial', 'political', 'intelligence', 'criminal', 'actor', 'other'])
+        .range(['#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6', '#c0392b', '#95a5a6', '#7f8c8d']);
+
+      // Position event nodes chronologically
+      eventNodes.forEach((node, i) => {
+        node.x = xScale(new Date(node.date));
+        // Arrange in multiple rows to prevent overlap, grouped by importance
+        const importance = node.impact || 5;
+        if (importance >= 8) {
+          node.y = 150; // Top row for critical events
+        } else if (importance >= 6) {
+          node.y = 200; // Middle row for important events
+        } else {
+          node.y = 250; // Bottom row for regular events
+        }
+        
+        // Add slight vertical jitter to prevent exact overlap
+        node.y += (i % 3 - 1) * 15;
+        
+        // Fix positions for timeline layout
+        node.fx = node.x;
+        node.fy = node.y;
+      });
+
+      // Position actor nodes at the top
+      actorNodes.forEach((node, i) => {
+        node.x = 100 + (i * 120) % (width - 200);
+        node.y = 80;
+        node.fx = node.x;
+        node.fy = node.y;
+      });
+
+      // Draw timeline axis
+      const timelineAxis = g.append('g').attr('class', 'timeline-axis');
+      
+      // Add horizontal timeline line
+      timelineAxis.append('line')
+        .attr('x1', 80)
+        .attr('y1', 300)
+        .attr('x2', width - 80)
+        .attr('y2', 300)
+        .attr('stroke', '#ddd')
+        .attr('stroke-width', 2);
+
+      // Add date ticks
+      const tickCount = Math.min(8, eventNodes.length);
+      const tickDates = xScale.ticks(tickCount);
+      
+      timelineAxis.selectAll('.tick')
+        .data(tickDates)
+        .enter().append('g')
+        .attr('class', 'tick')
+        .attr('transform', d => `translate(${xScale(d)}, 300)`)
+        .each(function(d) {
+          const tick = d3.select(this);
+          tick.append('line')
+            .attr('y1', -5)
+            .attr('y2', 5)
+            .attr('stroke', '#999');
+          tick.append('text')
+            .attr('y', 20)
+            .attr('text-anchor', 'middle')
+            .attr('font-size', 10)
+            .attr('fill', '#666')
+            .text(d3.timeFormat('%Y-%m')(d));
+        });
+
+      // Draw links with temporal emphasis
+      const links = g.append('g')
+        .selectAll('line')
+        .data(graphData.links)
+        .enter().append('line')
+        .attr('class', d => `link ${d.type}`)
+        .attr('x1', d => d.source.x || 0)
+        .attr('y1', d => d.source.y || 0)
+        .attr('x2', d => d.target.x || 0)
+        .attr('y2', d => d.target.y || 0)
+        .attr('stroke', d => {
+          if (d.type === 'temporal') return '#ffd700';
+          if (d.type === 'thematic') return '#87ceeb';
+          if (d.type === 'involved') return '#ddd';
+          return '#999';
+        })
+        .attr('stroke-opacity', d => {
+          if (d.type === 'temporal') return 0.8; // Emphasize temporal connections in timeline
+          if (d.type === 'involved') return 0.4;
+          return 0.3;
+        })
+        .attr('stroke-width', d => {
+          if (d.type === 'temporal') return 3; // Thicker for temporal in timeline
+          if (d.type === 'involved') return 1;
+          return 1.5;
+        });
+
+      // Add link tooltips
+      links.append('title')
+        .text(d => {
+          if (d.type === 'temporal') return `${d.daysDiff} days apart`;
+          if (d.type === 'thematic') return `Shared: ${d.tags?.join(', ') || ''}`;
+          if (d.type === 'involved') return 'Actor involved';
+          return '';
+        });
+
+      // Draw nodes
+      const nodes = g.append('g')
+        .selectAll('circle')
+        .data([...eventNodes, ...actorNodes])
+        .enter().append('circle')
+        .attr('class', d => `node ${d.type}`)
+        .attr('cx', d => d.x)
+        .attr('cy', d => d.y)
+        .attr('r', d => {
+          if (d.type === 'actor') return 8 + Math.min(d.eventCount || 1, 5) * 2;
+          return 8 + Math.min(d.impact || 1, 8) * 1.5;
+        })
+        .attr('fill', d => colorScale(d.group))
+        .attr('stroke', d => d.highlighted ? '#ff0000' : '#fff')
+        .attr('stroke-width', d => d.highlighted ? 3 : 2)
+        .style('cursor', 'pointer')
+        .on('click', (event, d) => {
+          event.stopPropagation();
+          setSelectedNode(d);
+          setHighlightedNodeId(d.id);
+          highlightConnections(d);
+        })
+        .on('mouseover', function(event, d) {
+          // Show tooltip
+          const tooltip = d3.select('body').append('div')
+            .attr('class', 'node-tooltip')
+            .style('position', 'absolute')
+            .style('padding', '10px')
+            .style('background', 'rgba(0,0,0,0.8)')
+            .style('color', 'white')
+            .style('border-radius', '4px')
+            .style('pointer-events', 'none')
+            .style('font-size', '12px')
+            .style('max-width', '300px')
+            .html(() => {
+              if (d.type === 'actor') {
+                return `<strong>${d.fullName || d.label}</strong><br/>Events: ${d.eventCount || 0}`;
+              }
+              return `<strong>${d.fullTitle || d.label}</strong><br/>
+                      Date: ${d.date}<br/>
+                      Impact: ${d.impact}/10<br/>
+                      ${d.tags?.length ? `Tags: ${d.tags.slice(0,3).join(', ')}` : ''}`;
+            });
+          
+          tooltip.style('left', (event.pageX + 10) + 'px')
+                 .style('top', (event.pageY - 10) + 'px');
+        })
+        .on('mouseout', function() {
+          d3.selectAll('.node-tooltip').remove();
+        })
+        .call(d3.drag()
+          .on('start', dragStarted)
+          .on('drag', dragged)
+          .on('end', dragEnded));
+
+      // Add labels for important events and all actors
+      const labels = g.append('g')
+        .selectAll('text')
+        .data([...eventNodes, ...actorNodes].filter(d => 
+          d.type === 'actor' || d.impact >= 7 || d.highlighted || showLabels
+        ))
+        .enter().append('text')
+        .text(d => d.type === 'actor' ? d.label : d.label.substring(0, 20))
+        .attr('x', d => d.x)
+        .attr('y', d => d.y - (d.type === 'actor' ? 20 : 15))
+        .attr('text-anchor', 'middle')
+        .attr('font-size', d => d.type === 'actor' ? 11 : 9)
+        .attr('fill', d => d.type === 'actor' ? '#333' : '#666')
+        .attr('font-weight', d => d.type === 'actor' ? 'bold' : 'normal')
+        .style('pointer-events', 'none')
+        .style('user-select', 'none');
+
+      // Store reference to simulation (null for timeline layout)
+      simulationRef.current = null;
+
+      // Drag functions for timeline (constrained movement)
+      function dragStarted(event) {
+        event.subject.fx = event.subject.x;
+        event.subject.fy = event.subject.y;
+      }
+
+      function dragged(event) {
+        // Allow limited vertical movement only
+        event.subject.fy = Math.max(50, Math.min(height - 50, event.y));
+        d3.select(this).attr('cy', event.subject.fy);
+      }
+
+      function dragEnded(event) {
+        // Keep the new position
+        event.subject.fy = event.y;
+      }
+
+      function highlightConnections(node) {
+        const connectedNodes = new Set([node.id]);
+        
+        links.style('opacity', function(link) {
+          if (link.source.id === node.id || link.target.id === node.id) {
+            connectedNodes.add(link.source.id);
+            connectedNodes.add(link.target.id);
+            return 1;
+          }
+          return 0.1;
+        });
+
+        nodes.style('opacity', n => 
+          connectedNodes.has(n.id) ? 1 : 0.2
+        );
+      }
+
+      // Click on background to reset highlighting  
+      svg.on('click', function(event) {
+        if (event.target === this) {
+          links.style('opacity', d => {
+            if (d.type === 'temporal') return 0.8;
+            if (d.type === 'involved') return 0.4;
+            return 0.3;
+          });
+          nodes.style('opacity', 1);
+          setSelectedNode(null);
+          setHighlightedNodeId(null);
+        }
+      });
     };
 
     const renderCircularLayout = (graphData) => {
@@ -566,7 +850,7 @@ const NetworkGraph = ({ events }) => {
         renderForceLayout(graphData);
     }
   }, [events, graphLayout, filterType, showLabels, maxNodes, minConnectionStrength, dateRange, 
-      searchQuery, selectedActor, selectedTag, highlightedNodeId, activeCategories]);
+      searchQuery, selectedActor, selectedTag, highlightedNodeId, activeCategories, isLayoutFrozen]);
 
   const handleCategoryToggle = (categoryId) => {
     const newCategories = new Set(activeCategories);
@@ -598,6 +882,20 @@ const NetworkGraph = ({ events }) => {
     setActiveCategories(newCategories);
   };
 
+  const toggleLayoutFreeze = () => {
+    if (simulationRef.current) {
+      if (isLayoutFrozen) {
+        // Unfreeze: restart the simulation
+        simulationRef.current.alphaTarget(0.3).restart();
+        setIsLayoutFrozen(false);
+      } else {
+        // Freeze: stop the simulation
+        simulationRef.current.stop();
+        setIsLayoutFrozen(true);
+      }
+    }
+  };
+
   const resetFilters = () => {
     setSearchQuery('');
     setSelectedActor('');
@@ -608,6 +906,8 @@ const NetworkGraph = ({ events }) => {
     setFilterType('important');
     setDateRange({ months: 6 });
     setMaxNodes(30);
+    setIsLayoutFrozen(false);
+    setGraphLayout('force');
   };
 
   return (
@@ -663,6 +963,15 @@ const NetworkGraph = ({ events }) => {
         </div>
         
         <div className="control-group">
+          <label>Layout:</label>
+          <select value={graphLayout} onChange={(e) => setGraphLayout(e.target.value)}>
+            <option value="force">Force-Directed</option>
+            <option value="timeline">Timeline</option>
+            <option value="circular">Circular (Coming Soon)</option>
+          </select>
+        </div>
+
+        <div className="control-group">
           <label>View:</label>
           <select value={filterType} onChange={(e) => setFilterType(e.target.value)}>
             <option value="important">Most Important</option>
@@ -706,6 +1015,27 @@ const NetworkGraph = ({ events }) => {
             Labels
           </label>
         </div>
+
+        {/* Freeze/Unfreeze Button - Only show for force layout */}
+        {graphLayout === 'force' && (
+          <div className="control-group">
+            <button 
+              onClick={toggleLayoutFreeze}
+              style={{
+                padding: '6px 16px',
+                background: isLayoutFrozen ? '#e74c3c' : '#27ae60',
+                color: 'white',
+                border: 'none',
+                borderRadius: '4px',
+                cursor: 'pointer',
+                fontWeight: 'bold'
+              }}
+              title={isLayoutFrozen ? 'Unfreeze layout animation' : 'Freeze layout animation'}
+            >
+              {isLayoutFrozen ? '❄️ Frozen' : '🌊 Live'}
+            </button>
+          </div>
+        )}
 
         {/* Reset Button */}
         <div className="control-group">

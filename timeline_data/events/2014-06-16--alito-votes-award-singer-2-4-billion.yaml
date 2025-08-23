@@ -1,0 +1,36 @@
+id: 2014-06-16--alito-votes-award-singer-2-4-billion
+date: '2014-06-16'
+importance: 10
+title: Alito Votes to Award Paul Singer $2.4 Billion in Argentina Case
+summary: Justice Alito votes with 7-1 majority to award Paul Singer's hedge fund
+  $2.4 billion from Argentina, six years after Singer gave Alito luxury Alaska trip
+  worth over $100,000
+location: Washington D.C.
+actors:
+- Samuel Alito
+- Paul Singer
+- Elliott Management
+- Republic of Argentina
+- Supreme Court
+tags:
+- judicial-capture
+- supreme-court
+- conflicts-of-interest
+- paul-singer
+- argentina-debt
+- quid-pro-quo
+sources:
+- title: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer
+  url: https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+  outlet: ProPublica
+  date: '2023-06-20'
+  archive_url: https://web.archive.org/web/20230620000000/https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+- title: Republic of Argentina v. NML Capital Ltd
+  url: https://www.supremecourt.gov/opinions/13pdf/12-842_9ol1.pdf
+  outlet: Supreme Court
+  date: '2014-06-16'
+  archive_url: https://web.archive.org/web/20140616000000/https://www.supremecourt.gov/opinions/13pdf/12-842_9ol1.pdf
+notes: Alito did not recuse despite Singer's gifts. Singer's fund bought distressed
+  Argentine debt for pennies on dollar. Decision forced Argentina to pay full value.
+  Clear appearance of corruption.
+status: confirmed

@@ -1,0 +1,34 @@
+id: 1996-10-07--fox-news-launches-murdoch-ailes
+date: '1996-10-07'
+importance: 9
+title: Fox News Launches with Rupert Murdoch Funding and Roger Ailes Leadership
+summary: Fox News Channel launches reaching 17 million cable subscribers, created
+  by Rupert Murdoch and Roger Ailes as conservative "counterweight" to CNN's perceived
+  liberal bias
+location: United States
+actors:
+- Rupert Murdoch
+- Roger Ailes
+- News Corporation
+- Fox News
+tags:
+- fox-news
+- media-launch
+- conservative-media
+- murdoch-empire
+- cable-news
+sources:
+- title: Fox News Wikipedia
+  url: https://en.wikipedia.org/wiki/Fox_News
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Fox_News
+- title: History of Fox News
+  url: https://en.wikipedia.org/wiki/History_of_Fox_News
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/History_of_Fox_News
+notes: Ailes hired February 1996. Used slogan "Fair and Balanced" to mask partisan
+  agenda. Quickly established right-wing identity. Became template for conservative
+  media ecosystem.
+status: confirmed

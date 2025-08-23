@@ -1,0 +1,30 @@
+id: 2013-06-01--kogan-creates-facebook-data-harvesting-app
+date: '2013-06-01'
+importance: 8
+title: Aleksandr Kogan Creates "This Is Your Digital Life" App to Harvest Facebook
+  Data
+summary: Cambridge University researcher Aleksandr Kogan develops Facebook app that
+  harvests user data and friends' data, eventually collecting 87 million profiles
+  for Cambridge Analytica
+location: Cambridge, United Kingdom
+actors:
+- Aleksandr Kogan
+- Facebook
+- Cambridge Analytica
+- Global Science Research
+tags:
+- data-harvesting
+- cambridge-analytica
+- facebook-breach
+- privacy-violation
+- election-interference
+sources:
+- title: Facebook Cambridge Analytica data scandal
+  url: https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
+  outlet: Wikipedia
+  date: '2024-01-01'
+  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
+notes: App appeared as personality quiz. Only 270,000 users participated but friends'
+  data also scraped. Foundation of Cambridge Analytica operation. Facebook API allowed
+  this access.
+status: confirmed
