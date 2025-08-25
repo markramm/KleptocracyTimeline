@@ -26,6 +26,26 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections
+- title: Grand Jury Indicts Thirteen Russian Individuals and Three Russian Companies for Scheme to Interfere in the United States Political System
+  url: https://www.justice.gov/archives/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere
+  outlet: Department of Justice
+  date: '2018-02-16'
+  archive_url: https://web.archive.org/web/20180216000000/https://www.justice.gov/archives/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere
+- title: The Russia Investigations - Mueller Indicts The 'Internet Research Agency'
+  url: https://www.npr.org/2018/02/17/586698361/the-russia-investigations-mueller-indicts-the-internet-research-agency
+  outlet: NPR
+  date: '2018-02-17'
+  archive_url: https://web.archive.org/web/20180217000000/https://www.npr.org/2018/02/17/586698361/the-russia-investigations-mueller-indicts-the-internet-research-agency
+- title: Exposing Russia's Effort to Sow Discord Online - The Internet Research Agency and Advertisements
+  url: https://democrats-intelligence.house.gov/social-media-content/
+  outlet: House Intelligence Committee Democrats
+  date: '2018-02-16'
+  archive_url: https://web.archive.org/web/20180216000000/https://democrats-intelligence.house.gov/social-media-content/
+- title: Here's A Detailed Look At How Russian Trolls Used Social Media To Meddle In The 2016 Election
+  url: https://www.buzzfeednews.com/article/ryanhatesthis/mueller-report-internet-research-agency-detailed-2016
+  outlet: BuzzFeed News
+  date: '2019-04-18'
+  archive_url: https://web.archive.org/web/20190418000000/https://www.buzzfeednews.com/article/ryanhatesthis/mueller-report-internet-research-agency-detailed-2016
 notes: Ads ran June 2015-May 2017. Focused on divisive issues. 25% geographically
   targeted. Reached 4-5 million users. Part of "sweeping and systematic" interference.
 status: confirmed

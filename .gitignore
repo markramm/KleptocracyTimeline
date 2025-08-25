@@ -159,3 +159,6 @@ models/
 # QA artifacts
 timeline_data/qa_reports/temp_*.json
 timeline_data/.qa_cache/
+
+# Source archives (hidden folder with scraped sources)
+timeline_data/events/.sources/

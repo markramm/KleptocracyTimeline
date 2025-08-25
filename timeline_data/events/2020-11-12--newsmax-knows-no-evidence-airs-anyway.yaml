@@ -25,6 +25,18 @@ sources:
   outlet: CNN
   date: '2024-08-22'
   archive_url: https://web.archive.org/web/20240822000000/https://edition.cnn.com/2024/08/22/media/newsmax-smartmatic-chris-ruddy-no-evidence-2020-election-rigged/index.html
+- title: Newsmax, Smartmatic settle 2020 election defamation lawsuit
+  url: https://www.npr.org/2024/09/26/nx-s1-5130183/newsmax-smartmatic-settlement-defamation-election-lawsuit
+  outlet: NPR
+  date: '2024-09-26'
+- title: Newsmax faces 'bet-your-company' defamation trial over 2020 election lies
+  url: https://edition.cnn.com/2024/09/26/media/newsmax-smartmatic-trial-2020-election-defamation/index.html
+  outlet: CNN
+  date: '2024-09-26'
+- title: Smartmatic's suit against Newsmax over 2020 election reporting appears headed for trial
+  url: https://abcnews.go.com/Politics/wireStory/smartmatics-suit-newsmax-2020-election-reporting-appears-headed-113644635
+  outlet: ABC News
+  date: '2024-09-18'
 notes: Proves deliberate deception. Ruddy called Sidney Powell crazy privately while
   promoting her publicly. Led to $107 million defamation settlement. Shows media knowingly
   spread election lies for profit.

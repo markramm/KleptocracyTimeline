@@ -33,6 +33,22 @@ python3 api/enhanced_server.py
 # Visit http://localhost:8080
 ```
 
+### Validate Events (NEW!)
+
+**Community Validation Tool**
+```bash
+# Start the validation interface
+cd timeline_data && python3 validation_app_enhanced.py
+# Visit http://localhost:8082
+```
+
+This tool allows you to:
+- ✅ Verify each event against its sources
+- 🔍 Check if sources are still accessible
+- 📁 Cache sources locally to prevent link rot
+- 🗄️ Submit sources to Archive.org
+- 📊 Track validation progress
+
 ### Add an Event
 
 1. Fork this repository
@@ -40,11 +56,53 @@ python3 api/enhanced_server.py
 3. Follow the schema in [`timeline_data/README.md`](timeline_data/README.md)
 4. Submit a pull request
 
+## ✅ Community Validation Initiative
+
+**Help us verify every event!** We've built tools to make validation easy:
+
+### How to Validate
+
+1. **Start the validation tool**:
+   ```bash
+   cd timeline_data
+   python3 validation_app_enhanced.py
+   # Open http://localhost:8082
+   ```
+
+2. **Pick an event** - Filter by "Not Validated" to find events needing review
+
+3. **Check each source**:
+   - Click "View Live" to open the source
+   - Verify it confirms the event's key claims
+   - Use "Check Status" to see if sources are accessible
+   - "Scrape" sources locally to prevent link rot
+   - "Archive" to submit to Archive.org
+
+4. **Mark as validated** once all sources check out
+
+### Validation Features
+
+- 🌐 **Click-through verification** - Direct links to all sources
+- 📊 **Progress tracking** - See validation statistics in real-time
+- 📁 **Local caching** - Scrape sources to `.sources/` folder
+- 🗄️ **Archive.org integration** - Preserve sources permanently
+- 🎚️ **Smart filters** - Find events by validation status or importance
+- 💾 **Persistent tracking** - Your work is saved in `validation_status.json`
+
+### Why This Matters
+
+Independent verification by multiple community members:
+- Ensures accuracy of the historical record
+- Protects against misinformation
+- Creates redundant source preservation
+- Builds trust through transparency
+
 ## 📊 Statistics
 
-- **Events**: 303+ documented incidents
-- **Date Range**: 1972-2025
-- **Sources**: 500+ verified sources
+- **Events**: 395+ documented incidents
+- **Date Range**: 1970-2025
+- **Sources**: 1000+ verified sources
+- **Validation Progress**: 6 events fully validated (growing daily)
 - **Archive Coverage**: 60%+ protection against link rot
 - **Tags**: 548 unique categorizations
 
@@ -55,6 +113,18 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Verification requirements
 - Source documentation guidelines
 - Archive process
+
+### 🔍 Help Validate Events!
+
+**Easy way to contribute**: Help validate existing events!
+
+1. Run the validation tool: `cd timeline_data && python3 validation_app_enhanced.py`
+2. Pick any unvalidated event
+3. Click through to each source
+4. Verify the source confirms the event's claims
+5. Mark as validated if all sources check out
+
+Your validation work is tracked in `validation_status.json` and helps ensure accuracy.
 
 ### ⚠️ IMPORTANT: Naming Convention
 **All event IDs and filenames must use HYPHENS (-) only. NO UNDERSCORES (_) allowed.**
@@ -75,9 +145,12 @@ Events must:
 ```
 kleptocracy-timeline/
 ├── timeline_data/
-│   ├── events/         # 303+ YAML event files
-│   ├── archive/        # Archived sources (coming soon)
+│   ├── events/         # 395+ YAML event files
+│   │   └── .sources/   # Locally cached source HTML
+│   ├── static/         # CSS/JS for validation app
 │   ├── reports/        # Validation reports
+│   ├── validation_status.json  # Community validation tracking
+│   ├── validation_app_enhanced.py  # Web validation interface
 │   ├── README.md       # Event schema documentation
 │   └── agent.md        # AI/verification guidance
 ├── tools/
@@ -92,7 +165,15 @@ kleptocracy-timeline/
 
 ## 🛠️ Tools Included
 
-### Validation
+### Interactive Validation Tool (NEW!)
+- `validation_app_enhanced.py` - Web interface for community validation
+  - View all events with their sources
+  - Click through to verify each source
+  - Track validation progress
+  - Scrape and archive sources
+  - Filter by validation status
+
+### Validation Scripts
 - `validate_timeline_dates.py` - Check for future-dated confirmed events
 - `check_whitespace.py` - Code quality checks
 - `fix_timeline_ids.py` - Ensure ID/filename consistency
@@ -100,6 +181,8 @@ kleptocracy-timeline/
 ### Archiving
 - `link_check.py` - Detect broken links
 - `gen_archive_qa.py` - Archive quality assurance
+- `scrape_sources.py` - Bulk scrape sources to local cache
+- `archive_links_slow.py` - Submit sources to Archive.org
 
 ### Generation
 - `build_timeline_index.py` - Generate searchable JSON index
@@ -129,10 +212,17 @@ All sources are being archived using:
 
 ## 🚦 Verification Status Levels
 
+### Event Status
 - **confirmed** - Multiple sources verified, date in past
 - **pending** - Awaiting verification
 - **predicted** - Future events based on announcements
 - **disputed** - Conflicting accounts exist
+
+### Validation Status (Community Review)
+- **validated** ✅ - Sources manually checked and confirm claims
+- **in_review** 🔍 - Currently being validated
+- **needs_review** ⚠️ - Flagged for additional review
+- **problematic** ❌ - Issues found with sources
 
 ## 🏷️ Key Pattern Tags
 

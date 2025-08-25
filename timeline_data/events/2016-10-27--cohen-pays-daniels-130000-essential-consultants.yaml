@@ -27,6 +27,21 @@ sources:
   outlet: Department of Justice
   date: '2018-08-21'
   archive_url: https://web.archive.org/web/20180821000000/https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax
+- title: Timeline - Donald Trump, Stormy Daniels and the $130,000 payment
+  url: https://www.cbsnews.com/news/donald-trump-stormy-daniels-indictment-investigation-timeline-manhattan-district-attorney/
+  outlet: CBS News
+  date: '2023-03-30'
+  archive_url: https://web.archive.org/web/20230330000000/https://www.cbsnews.com/news/donald-trump-stormy-daniels-indictment-investigation-timeline-manhattan-district-attorney/
+- title: Banker details Michael Cohen's $130K payment to Stormy Daniels
+  url: https://abcnews.go.com/US/live-updates/trump-hush-money-trial/banker-details-michael-cohens-130k-payment-to-stormy-daniels-109786261
+  outlet: ABC News
+  date: '2024-04-30'
+  archive_url: https://web.archive.org/web/20240430000000/https://abcnews.go.com/US/live-updates/trump-hush-money-trial/banker-details-michael-cohens-130k-payment-to-stormy-daniels-109786261
+- title: Trump hush money trial highlights - Michael Cohen testifies about directed payment
+  url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
+  outlet: NBC News
+  date: '2024-05-13'
+  archive_url: https://web.archive.org/web/20240513000000/https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
 notes: Payment made 11 days before election. Cohen used fraudulent home equity loan.
   Criminal campaign finance violation. Trump later convicted of falsifying records
   related to reimbursement.

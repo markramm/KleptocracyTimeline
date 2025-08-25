@@ -27,6 +27,21 @@ sources:
   outlet: ProPublica
   date: '2023-04-13'
   archive_url: https://web.archive.org/web/20230413000000/https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus
+- title: Justice Clarence Thomas failed to disclose 2014 real estate deal with GOP megadonor
+  url: https://www.cnn.com/2023/04/13/politics/clarence-thomas-harlan-crow-real-estate-deal/index.html
+  outlet: CNN
+  date: '2023-04-13'
+  archive_url: https://web.archive.org/web/20230413000000/https://www.cnn.com/2023/04/13/politics/clarence-thomas-harlan-crow-real-estate-deal/index.html
+- title: Billionaire Harlan Crow bought property from Clarence Thomas
+  url: https://www.gpb.org/news/2023/04/13/billionaire-harlan-crow-bought-property-clarence-thomas-the-justice-didnt-disclose
+  outlet: Georgia Public Broadcasting
+  date: '2023-04-13'
+  archive_url: https://web.archive.org/web/20230413000000/https://www.gpb.org/news/2023/04/13/billionaire-harlan-crow-bought-property-clarence-thomas-the-justice-didnt-disclose
+- title: Supreme Court Justice Clarence Thomas Secretly Sold Property to Harlan Crow
+  url: https://www.thedailybeast.com/supreme-court-justice-clarence-thomas-secretly-sold-property-to-harlan-crow-report-says
+  outlet: The Daily Beast
+  date: '2023-04-13'
+  archive_url: https://web.archive.org/web/20230413000000/https://www.thedailybeast.com/supreme-court-justice-clarence-thomas-secretly-sold-property-to-harlan-crow-report-says
 notes: Crow continues to own the house where Thomas's 94-year-old mother lives. Crow
   Holdings pays $1,500 annual property taxes. Transaction never disclosed on financial
   forms.

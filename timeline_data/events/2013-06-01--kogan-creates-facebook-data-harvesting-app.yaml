@@ -26,6 +26,21 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
+- title: Aleksandr Kogan - The link between Cambridge Analytica and the Facebook data breach
+  url: https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/
+  outlet: CBS News
+  date: '2018-04-22'
+  archive_url: https://web.archive.org/web/20180422000000/https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/
+- title: Facebook-Cambridge Analytica - A timeline of the data hijacking scandal
+  url: https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html
+  outlet: CNBC
+  date: '2018-04-10'
+  archive_url: https://web.archive.org/web/20180410000000/https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html
+- title: Aleksandr Kogan fires back - Facebook data collection was 'business as usual'
+  url: https://www.nbcnews.com/tech/social-media/business-usual-aleksandr-kogan-fires-back-facebook-over-cambridge-analytica-n868321
+  outlet: NBC News
+  date: '2018-04-25'
+  archive_url: https://web.archive.org/web/20180425000000/https://www.nbcnews.com/tech/social-media/business-usual-aleksandr-kogan-fires-back-facebook-over-cambridge-analytica-n868321
 notes: App appeared as personality quiz. Only 270,000 users participated but friends'
   data also scraped. Foundation of Cambridge Analytica operation. Facebook API allowed
   this access.

@@ -28,6 +28,22 @@ sources:
   outlet: Wikipedia
   date: '2023-03-01'
   archive_url: https://web.archive.org/web/20230301000000/https://en.wikipedia.org/wiki/Truth_Social
+- title: Trump Media took $8 million loan from porn-tied bank, unknown trust
+  url: https://www.washingtonpost.com/technology/2023/05/13/trump-truth-social-loan-questions/
+  outlet: Washington Post
+  date: '2023-05-13'
+- title: Trump Media Got Millions in Loans from Foreign Sources with Russian Ties
+  url: https://www.esquire.com/news-politics/politics/a43329318/russian-investment-trump-media/
+  outlet: Esquire
+  date: '2023-03-15'
+- title: Who Is Anton Postolnikov? Kremlin-Linked Fintech Guru 'Saved Trump Media'
+  url: https://www.newsweek.com/postolnikov-putin-trump-kremlin-1886745
+  outlet: Newsweek
+  date: '2024-03-25'
+- title: US investigators 'examined Trump Media for possible money laundering'
+  url: https://www.irishtimes.com/world/us/2023/03/15/us-investigators-examined-trump-media-for-possible-money-laundering/
+  outlet: Irish Times
+  date: '2023-03-15'
 notes: Paxum Bank part-owned by Postolnikov, relation of former Russian official.
   SDNY prosecutors investigating Russian ties as of March 2023. Loans provided when
   company desperate for cash.

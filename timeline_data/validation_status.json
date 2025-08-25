@@ -1,0 +1,42 @@
+{
+  "validated": {
+    "2008-01-01--acosta-told-epstein-intelligence-above-paygrade": {
+      "validator": "web_ui",
+      "timestamp": "2025-08-23T12:32:56.424700",
+      "notes": ""
+    },
+    "2010-01-21--citizens-united-unlimited-corporate-spending": {
+      "validator": "web_ui",
+      "timestamp": "2025-08-23T12:33:12.408798",
+      "notes": ""
+    },
+    "1971-08-23--powell-memo-corporate-blueprint": {
+      "validator": "web_ui",
+      "timestamp": "2025-08-23T13:34:34.782189",
+      "notes": ""
+    },
+    "1970-01-01--ailes-nixon-gop-tv-network-plan": {
+      "validator": "web_ui",
+      "timestamp": "2025-08-23T13:34:24.665645",
+      "notes": ""
+    },
+    "2008-01-01--kroll-marsh-mclennan-sale": {
+      "validator": "web_ui",
+      "timestamp": "2025-08-23T13:34:09.164021",
+      "notes": ""
+    },
+    "1971-10-21--powell-supreme-court-nomination": {
+      "validator": "web_ui",
+      "timestamp": "2025-08-23T13:34:42.665776",
+      "notes": ""
+    }
+  },
+  "in_review": {},
+  "needs_review": {},
+  "problematic": {},
+  "stats": {
+    "total_events": 395,
+    "validated_count": 6,
+    "last_updated": "2025-08-23T13:34:42.670001"
+  }
+}
