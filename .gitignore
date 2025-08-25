@@ -89,6 +89,11 @@ lerna-debug.log*
 
 # Generated files
 *.generated.*
+timeline_data/timeline_complete.json
+timeline_data/COMPLETE_TIMELINE.md
+timeline_data/validation_status.json
+timeline_data/archive_progress_slow.json
+importance_distribution.json
 
 # Database
 *.sqlite
@@ -162,3 +167,9 @@ timeline_data/.qa_cache/
 
 # Source archives (hidden folder with scraped sources)
 timeline_data/events/.sources/
+
+# Archive folder (old files)
+archive/
+
+# Flask app files
+timeline_data/static/
