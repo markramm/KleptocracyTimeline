@@ -207,7 +207,7 @@ function App() {
         showStats
       });
     }
-  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats, selectedCaptureLanes]);
 
   const handleActorClick = useCallback((actor) => {
     const newActors = selectedActors.includes(actor)
@@ -274,7 +274,7 @@ function App() {
         showStats
       });
     }
-  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, zoomLevel, showFilters, showStats]);
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, zoomLevel, showFilters, showStats, selectedCaptureLanes]);
 
   const clearFilters = useCallback(() => {
     const defaultState = {

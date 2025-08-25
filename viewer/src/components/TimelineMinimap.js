@@ -59,7 +59,7 @@ const TimelineMinimap = ({ events = [], groups = {}, onNavigate, onDateRangeSele
     
     years.forEach((year, index) => {
       const y = index * yearHeight;
-      const yearEvents = Object.values(structuredGroups[year] || {}).flat().filter(Boolean);
+      // const yearEvents = Object.values(structuredGroups[year] || {}).flat().filter(Boolean);
       
       // Draw year background
       ctx.fillStyle = index % 2 === 0 ? 'rgba(248, 250, 252, 0.1)' : 'rgba(255, 255, 255, 0.05)';

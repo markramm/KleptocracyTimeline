@@ -10,7 +10,7 @@ const NetworkGraph = ({ events }) => {
   const [showLabels, setShowLabels] = useState(false); // Default to false for less clutter
   const [filterType, setFilterType] = useState('important'); // Changed default from 'all' to 'important'
   const [maxNodes, setMaxNodes] = useState(30); // Limit number of nodes displayed
-  const [minConnectionStrength, setMinConnectionStrength] = useState(0.5); // Filter weak connections
+  const [minConnectionStrength] = useState(0.5); // Filter weak connections
   const [dateRange, setDateRange] = useState({ months: 6 }); // Show only recent events by default
   const [isLayoutFrozen, setIsLayoutFrozen] = useState(false); // Track frozen state
   
@@ -281,7 +281,7 @@ const NetworkGraph = ({ events }) => {
 
       if (filter === 'actors') {
         // Show only nodes with actor connections
-        const actorNodeIds = new Set(nodes.filter(n => n.type === 'actor').map(n => n.id));
+        // const actorNodeIds = new Set(nodes.filter(n => n.type === 'actor').map(n => n.id));
         const connectedEventIds = new Set(
           links
             .filter(l => l.type === 'involved')
@@ -783,7 +783,7 @@ const NetworkGraph = ({ events }) => {
           .on('end', dragEnded));
 
       // Add labels for important events and all actors
-      const labels = g.append('g')
+      /* const labels = g.append('g')
         .selectAll('text')
         .data([...eventNodes, ...actorNodes].filter(d => 
           d.type === 'actor' || d.impact >= 7 || d.highlighted || showLabels
@@ -797,7 +797,7 @@ const NetworkGraph = ({ events }) => {
         .attr('fill', d => d.type === 'actor' ? '#333' : '#666')
         .attr('font-weight', d => d.type === 'actor' ? 'bold' : 'normal')
         .style('pointer-events', 'none')
-        .style('user-select', 'none');
+        .style('user-select', 'none'); */
 
       // Store reference to simulation (null for timeline layout)
       simulationRef.current = null;

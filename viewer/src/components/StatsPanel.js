@@ -18,12 +18,12 @@ const StatsPanel = ({ stats, events }) => {
     );
   }
 
-  const getTopItems = (items, limit = 5) => {
-    if (!items) return [];
-    return Object.entries(items)
-      .sort(([, a], [, b]) => b - a)
-      .slice(0, limit);
-  };
+  // const getTopItems = (items, limit = 5) => {
+  //   if (!items) return [];
+  //   return Object.entries(items)
+  //     .sort(([, a], [, b]) => b - a)
+  //     .slice(0, limit);
+  // };
 
   const getPatternInsights = () => {
     const insights = [];
@@ -216,7 +216,7 @@ const StatsPanel = ({ stats, events }) => {
   );
 };
 
-const getCategoryColor = (tag) => {
+/* const getCategoryColor = (tag) => {
   const colors = {
     'constitutional-crisis': '#ef4444',
     'foreign-influence': '#f59e0b',
@@ -231,6 +231,6 @@ const getCategoryColor = (tag) => {
     if (tag.includes(key)) return color;
   }
   return '#6b7280';
-};
+}; */
 
 export default StatsPanel;

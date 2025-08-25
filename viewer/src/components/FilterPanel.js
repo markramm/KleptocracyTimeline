@@ -9,8 +9,6 @@ import {
   RotateCcw,
   ChevronDown,
   ChevronUp,
-  Eye,
-  EyeOff,
   Settings
 } from 'lucide-react';
 import TimelineMinimap from './TimelineMinimap';

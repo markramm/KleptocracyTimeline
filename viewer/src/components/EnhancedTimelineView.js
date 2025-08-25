@@ -1,10 +1,10 @@
 import React, { useRef, useEffect, useState, useCallback, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { format, parseISO, differenceInDays, startOfMonth, endOfMonth } from 'date-fns';
+import { format, parseISO } from 'date-fns';
 import { 
-  Calendar, MapPin, Users, Tag, ExternalLink, AlertCircle, 
+  Calendar, MapPin, Users, ExternalLink, AlertCircle, 
   ChevronUp, ChevronDown, Clock, TrendingUp, Shield, AlertTriangle,
-  Search, Filter, ArrowUp, Eye, EyeOff, Bookmark, Share2
+  Bookmark, Share2
 } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 import './EnhancedTimelineView.css';
@@ -78,12 +78,14 @@ const EnhancedTimelineView = ({
             });
           }
           break;
+        default:
+          break;
       }
     };
 
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, []);
+  }, [showMinimap, compactMode, timelineControls, onTimelineControlsChange]);
 
   // Sort and filter events
   const processedEvents = useMemo(() => {
@@ -110,7 +112,7 @@ const EnhancedTimelineView = ({
     processedEvents.forEach(event => {
       const year = event.date?.substring(0, 4) || 'Unknown';
       const month = event.date?.substring(5, 7) || '01';
-      const key = `${year}-${month}`;
+      // const key = `${year}-${month}`;
       
       if (!groups[year]) {
         groups[year] = {};
@@ -166,7 +168,7 @@ const EnhancedTimelineView = ({
     const handleScroll = () => {
       if (!timelineRef.current) return;
       
-      const scrollTop = timelineRef.current.scrollTop;
+      // const scrollTop = timelineRef.current.scrollTop;
       const yearElements = timelineRef.current.querySelectorAll('.year-group');
       
       for (const yearEl of yearElements) {
@@ -381,14 +383,14 @@ const EnhancedTimelineEvent = ({
   const side = index % 2 === 0 ? 'left' : 'right';
   const importance = event.importance || 5;
   
-  const getStatusColor = (status) => {
-    switch(status) {
-      case 'confirmed': return '#10b981';
-      case 'pending_verification': return '#f59e0b';
-      case 'disputed': return '#ef4444';
-      default: return '#6b7280';
-    }
-  };
+  // const getStatusColor = (status) => {
+  //   switch(status) {
+  //     case 'confirmed': return '#10b981';
+  //     case 'pending_verification': return '#f59e0b';
+  //     case 'disputed': return '#ef4444';
+  //     default: return '#6b7280';
+  //   }
+  // };
 
   const getImportanceColor = (importance) => {
     if (importance >= 9) return '#dc2626'; // Red for crisis
@@ -628,7 +630,7 @@ const EnhancedTimelineEvent = ({
   );
 };
 
-const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
+/* const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
   const canvasRef = useRef(null);
   const [isDragging, setIsDragging] = useState(false);
   const [dragStart, setDragStart] = useState(null);
@@ -659,7 +661,7 @@ const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
     
     years.forEach((year, index) => {
       const y = index * yearHeight;
-      const yearEvents = Object.values(groups[year]).flat();
+      // const yearEvents = Object.values(groups[year]).flat();
       
       // Draw year background
       ctx.fillStyle = index % 2 === 0 ? 'rgba(248, 250, 252, 0.1)' : 'rgba(255, 255, 255, 0.05)';
@@ -791,7 +793,7 @@ const TimelineMinimap = ({ events, groups, onNavigate, onDateRangeSelect }) => {
       </div>
     </div>
   );
-};
+}; */
 
 const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, compactMode }) => {
   return (

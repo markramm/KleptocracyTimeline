@@ -38,6 +38,7 @@ export const transformStaticData = (data, endpoint) => {
   // Always return data as-is since our static files have the correct format
   return data;
   
+  /* Unreachable code - keeping for reference
   switch (endpoint) {
     case 'timeline':
       // Static timeline_index.json might have different structure
@@ -67,6 +68,7 @@ export const transformStaticData = (data, endpoint) => {
     default:
       return data;
   }
+  */
 };
 
 const config = {

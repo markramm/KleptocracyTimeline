@@ -1,7 +1,7 @@
 // GitHub integration utilities for timeline events
 
 const GITHUB_REPO = 'https://github.com/markramm/KleptocracyTimeline';
-const GITHUB_RAW = 'https://raw.githubusercontent.com/markramm/KleptocracyTimeline/main';
+// const GITHUB_RAW = 'https://raw.githubusercontent.com/markramm/KleptocracyTimeline/main';
 
 /**
  * Generate GitHub edit URL for an event YAML file
@@ -102,7 +102,7 @@ export const createEventPR = (eventId) => {
 export const checkLinkStatus = async (url) => {
   try {
     // Try to fetch with no-cors mode (limited but won't trigger CORS errors)
-    const response = await fetch(url, {
+    await fetch(url, {
       method: 'HEAD',
       mode: 'no-cors'
     });
