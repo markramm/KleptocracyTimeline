@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState, useCallback, useMemo } from 'react';
+import React, { useRef, useEffect, useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { format, parseISO } from 'date-fns';
 import { 
@@ -23,7 +23,7 @@ const EnhancedTimelineView = ({
   onTimelineControlsChange
 }) => {
   const timelineRef = useRef(null);
-  const [visibleYears, setVisibleYears] = useState(new Set());
+  const [, setVisibleYears] = useState(new Set());
   const [expandedEvents, setExpandedEvents] = useState(new Set());
   const [bookmarkedEvents, setBookmarkedEvents] = useState(new Set());
   const [stickyYear, setStickyYear] = useState(null);
