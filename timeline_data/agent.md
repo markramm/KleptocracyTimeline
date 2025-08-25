@@ -373,6 +373,17 @@ summary: |
 6. Commit changes
 7. Move PDF to `completed/` folder
 
+## AI Tool Integration
+
+### Using Multiple AI Tools
+For comprehensive instructions on using ChatGPT, Claude, Cursor, and other AI tools with this timeline, see `/AI_INTEGRATION.md`.
+
+### Quick Setup for Any AI Tool
+1. Provide this context: "Working on Kleptocracy Timeline, following timeline_data/AGENT.md standards"
+2. Share the naming convention: `YYYY-MM-DD--event-name-with-hyphens` (NO underscores)
+3. Emphasize: 2+ sources required for 'confirmed' status
+4. Request: Source verification and archive creation
+
 ## Notes
 
 - **When in doubt**: Use `status: pending`
@@ -381,3 +392,4 @@ summary: |
 - **Fail gracefully**: Better pending than wrong
 - **Archive immediately**: Sources disappear
 - **Escape apostrophes**: Use double quotes for titles with apostrophes
+- **Multiple AI tools**: See `/AI_INTEGRATION.md` for tool-specific guides

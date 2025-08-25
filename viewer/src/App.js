@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
+import LandingPage from './components/LandingPage';
 import EnhancedTimelineView from './components/EnhancedTimelineView';
 import FilterPanel from './components/FilterPanel';
 import EventDetails from './components/EventDetails';
@@ -10,12 +11,15 @@ import ViewToggle from './components/ViewToggle';
 import NetworkGraph from './components/NetworkGraph';
 import { API_ENDPOINTS, transformStaticData } from './config';
 import { useUrlState } from './hooks/useUrlState';
+import { shareEvent, shareFilteredView } from './utils/shareUtils';
+import { createNewEventIssue, openGitHub } from './utils/githubUtils';
 import { 
   Filter, 
   BarChart3,
   Loader2,
   AlertCircle,
-  Share2
+  Share2,
+  Plus
 } from 'lucide-react';
 import './App.css';
 
@@ -29,6 +33,8 @@ function App() {
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [showLanding, setShowLanding] = useState(true);
+  const [shareNotification, setShareNotification] = useState(null);
   
   // Filter states - initialize from URL or defaults
   const [selectedTags, setSelectedTags] = useState([]);
@@ -75,8 +81,18 @@ function App() {
       setZoomLevel(urlState.zoomLevel || 1);
       setShowFilters(urlState.showFilters !== false);
       setShowStats(urlState.showStats || false);
+      setShowLanding(urlState.showLanding || false);
+      
+      // Handle deep link to specific event
+      if (urlState.selectedEventId && events.length > 0) {
+        const event = events.find(e => e.id === urlState.selectedEventId);
+        if (event) {
+          setSelectedEvent(event);
+          setShowLanding(false);
+        }
+      }
     }
-  }, [urlState]);
+  }, [urlState, events]);
 
   // Load initial data
   useEffect(() => {
@@ -305,6 +321,82 @@ function App() {
     return groups;
   }, [filteredEvents]);
 
+  // Handler for entering timeline from landing page
+  const handleEnterTimeline = useCallback(() => {
+    setShowLanding(false);
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes,
+        selectedTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats,
+        showLanding: false
+      });
+    }
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
+
+  // Handler for sharing an event
+  const handleShareEvent = useCallback(async (event) => {
+    const result = await shareEvent(event, {
+      selectedCaptureLanes,
+      selectedTags,
+      selectedActors,
+      dateRange,
+      searchQuery,
+      viewMode
+    });
+    
+    if (result.success) {
+      setShareNotification({
+        type: 'success',
+        message: result.method === 'clipboard' 
+          ? 'Link copied to clipboard!' 
+          : 'Event shared successfully!'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    } else {
+      setShareNotification({
+        type: 'error',
+        message: 'Failed to share event'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    }
+  }, [selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode]);
+
+  // Handler for sharing filtered view
+  const handleShareView = useCallback(async () => {
+    const result = await shareFilteredView({
+      selectedCaptureLanes,
+      selectedTags,
+      selectedActors,
+      dateRange,
+      searchQuery,
+      viewMode
+    });
+    
+    if (result.success) {
+      setShareNotification({
+        type: 'success',
+        message: result.method === 'clipboard' 
+          ? 'Link copied to clipboard!' 
+          : 'View shared successfully!'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    } else {
+      setShareNotification({
+        type: 'error',
+        message: 'Failed to share view'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    }
+  }, [selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode]);
+
   if (loading) {
     return (
       <div className="loading-container">
@@ -327,8 +419,20 @@ function App() {
     );
   }
 
+  // Show landing page if it's the initial visit or explicitly requested
+  if (showLanding) {
+    return <LandingPage onEnterTimeline={handleEnterTimeline} />;
+  }
+
   return (
     <div className="app">
+      {/* Share notification */}
+      {shareNotification && (
+        <div className={`share-notification ${shareNotification.type}`}>
+          {shareNotification.message}
+        </div>
+      )}
+      
       <header className="app-header">
         <div className="header-content">
           <h1>Democracy Timeline</h1>
@@ -386,6 +490,24 @@ function App() {
               <Share2 size={20} />
             </button>
           </div>
+          
+          <button 
+            className="share-view-button"
+            onClick={handleShareView}
+            title="Share current view"
+          >
+            <Share2 size={18} />
+            <span>Share View</span>
+          </button>
+          
+          <button
+            className="submit-event-button"
+            onClick={() => openGitHub(createNewEventIssue())}
+            title="Submit new event"
+          >
+            <Plus size={18} />
+            <span>Submit Event</span>
+          </button>
           
           <ViewToggle 
             currentView={viewMode}
@@ -612,6 +734,7 @@ function App() {
             event={selectedEvent}
             onClose={() => setSelectedEvent(null)}
             onTagClick={handleTagClick}
+            onShare={handleShareEvent}
             onActorClick={handleActorClick}
             onCaptureLaneClick={handleCaptureLaneClick}
           />

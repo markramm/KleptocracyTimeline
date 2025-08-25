@@ -1,0 +1,71 @@
+name: Suggest Event Correction
+description: Suggest corrections or improvements to an existing event
+title: "[Correction] "
+labels: ["correction", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us maintain accuracy! If you've found an error or have additional information about an event, please let us know.
+  
+  - type: input
+    id: event_id
+    attributes:
+      label: Event ID
+      description: The ID of the event that needs correction
+      placeholder: "yyyy-mm-dd--event-name"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: correction_type
+    attributes:
+      label: Type of Correction
+      description: What kind of correction are you suggesting?
+      options:
+        - Factual Error
+        - Date Correction
+        - Missing Sources
+        - Better Sources Available
+        - Additional Context Needed
+        - Importance Rating Wrong
+        - Wrong Capture Lane
+        - Other
+    validations:
+      required: true
+  
+  - type: textarea
+    id: current_content
+    attributes:
+      label: Current Content
+      description: What does the event currently say? (copy the relevant portion)
+    validations:
+      required: true
+  
+  - type: textarea
+    id: suggested_correction
+    attributes:
+      label: Suggested Correction
+      description: What should it say instead?
+    validations:
+      required: true
+  
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence/Sources
+      description: Provide sources or evidence supporting your correction
+      placeholder: |
+        - URL: https://example.com/correct-info
+        - Court Document: Case No. 123-456
+        - Official Statement: [link]
+    validations:
+      required: true
+  
+  - type: textarea
+    id: additional_notes
+    attributes:
+      label: Additional Notes
+      description: Any other context or explanation for the correction
+    validations:
+      required: false

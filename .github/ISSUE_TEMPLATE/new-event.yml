@@ -1,0 +1,124 @@
+name: Submit New Event
+description: Propose a new event to add to the timeline
+title: "[New Event] "
+labels: ["new-event", "needs-validation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the timeline! Please provide as much detail as possible.
+        All events must be verifiable through credible sources.
+  
+  - type: input
+    id: date
+    attributes:
+      label: Event Date
+      description: When did this event occur? (YYYY-MM-DD format)
+      placeholder: "2025-01-20"
+    validations:
+      required: true
+  
+  - type: input
+    id: title
+    attributes:
+      label: Event Title
+      description: A concise, descriptive title for the event
+      placeholder: "Supreme Court Rules on XYZ Case"
+    validations:
+      required: true
+  
+  - type: textarea
+    id: summary
+    attributes:
+      label: Event Summary
+      description: A brief, factual description of what happened (2-3 sentences)
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: importance
+    attributes:
+      label: Importance (1-10)
+      description: How significant is this event to democratic capture?
+      options:
+        - "10 - Catastrophic/Foundational"
+        - "9 - Extremely High"
+        - "8 - Very High"
+        - "7 - High"
+        - "6 - Moderate-High"
+        - "5 - Moderate"
+        - "4 - Moderate-Low"
+        - "3 - Low"
+        - "2 - Very Low"
+        - "1 - Minor"
+    validations:
+      required: true
+  
+  - type: checkboxes
+    id: capture_lanes
+    attributes:
+      label: Capture Lanes
+      description: Which capture lanes does this event relate to?
+      options:
+        - label: Executive Power & Emergency Authority
+        - label: Judicial Capture & Corruption
+        - label: Financial Corruption & Kleptocracy
+        - label: Foreign Influence Operations
+        - label: Federal Workforce Capture
+        - label: Corporate Capture & Regulatory Breakdown
+        - label: Law Enforcement Weaponization
+        - label: Election System Attack
+        - label: Information & Media Control
+        - label: Constitutional & Democratic Breakdown
+        - label: Epstein Network & Kompromat
+        - label: Immigration & Border Militarization
+        - label: International Democracy Impact
+  
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: |
+        Provide at least 2 credible sources. For each source include:
+        - Title
+        - URL
+        - Publication/Outlet
+        - Date
+      placeholder: |
+        1. Title: "Article Title Here"
+           URL: https://example.com/article
+           Outlet: Washington Post
+           Date: 2025-01-20
+        
+        2. Title: "Second Source Title"
+           URL: https://example2.com/article
+           Outlet: Reuters
+           Date: 2025-01-21
+    validations:
+      required: true
+  
+  - type: input
+    id: actors
+    attributes:
+      label: Key Actors
+      description: People or organizations involved (comma-separated)
+      placeholder: "John Doe, Organization XYZ, Jane Smith"
+    validations:
+      required: false
+  
+  - type: input
+    id: tags
+    attributes:
+      label: Tags
+      description: Relevant tags for categorization (comma-separated)
+      placeholder: "supreme-court, voting-rights, georgia"
+    validations:
+      required: false
+  
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any additional context or connections to other events
+    validations:
+      required: false

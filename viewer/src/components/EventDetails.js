@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { format, parseISO } from 'date-fns';
 import { 
@@ -11,12 +11,25 @@ import {
   FileText,
   CheckCircle,
   AlertCircle,
-  XCircle
+  XCircle,
+  Share2,
+  Github,
+  Edit3,
+  AlertTriangle
 } from 'lucide-react';
 import ContributeButton from './ContributeButton';
+import { 
+  getEventEditUrl, 
+  getEventViewUrl, 
+  createBrokenLinkIssue,
+  createCorrectionIssue,
+  getArchiveUrl,
+  openGitHub
+} from '../utils/githubUtils';
 import './EventDetails.css';
 
-const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneClick }) => {
+const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneClick, onShare }) => {
+  const [brokenLinks, setBrokenLinks] = useState({});
   const getStatusIcon = (status) => {
     switch(status) {
       case 'confirmed': 
@@ -95,6 +108,15 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
               eventId={event.id} 
               eventTitle={event.title}
             />
+            {onShare && (
+              <button 
+                className="share-button" 
+                onClick={() => onShare(event)}
+                title="Share this event"
+              >
+                <Share2 size={20} />
+              </button>
+            )}
             <button className="close-button" onClick={onClose}>
               <X size={24} />
             </button>
@@ -226,16 +248,39 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
                       <span className="source-outlet">{source.outlet}</span>
                     )}
                     {source.url && (
-                      <a 
-                        href={source.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="source-link"
-                        onClick={(e) => e.stopPropagation()}
-                      >
-                        <ExternalLink size={14} />
-                        View Source
-                      </a>
+                      <div className="source-links">
+                        <a 
+                          href={source.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="source-link"
+                          onClick={(e) => e.stopPropagation()}
+                        >
+                          <ExternalLink size={14} />
+                          View Source
+                        </a>
+                        {brokenLinks[source.url] && (
+                          <a
+                            href={getArchiveUrl(source.url, source.date)}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="archive-link"
+                            onClick={(e) => e.stopPropagation()}
+                          >
+                            Try Archive
+                          </a>
+                        )}
+                        <button
+                          className="report-broken-link"
+                          onClick={() => {
+                            setBrokenLinks({...brokenLinks, [source.url]: true});
+                            openGitHub(createBrokenLinkIssue(event.id, source.url));
+                          }}
+                          title="Report broken link"
+                        >
+                          <AlertTriangle size={14} />
+                        </button>
+                      </div>
                     )}
                   </div>
                 ))}
@@ -244,8 +289,36 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
           )}
 
           <div className="modal-footer">
-            <div className="event-id">
-              ID: {event.id}
+            <div className="footer-left">
+              <div className="event-id">
+                ID: {event.id}
+              </div>
+            </div>
+            <div className="github-links">
+              <button
+                className="github-link"
+                onClick={() => openGitHub(getEventViewUrl(event.id))}
+                title="View event source on GitHub"
+              >
+                <Github size={16} />
+                View Source
+              </button>
+              <button
+                className="github-link"
+                onClick={() => openGitHub(getEventEditUrl(event.id))}
+                title="Edit event on GitHub"
+              >
+                <Edit3 size={16} />
+                Edit Event
+              </button>
+              <button
+                className="github-link"
+                onClick={() => openGitHub(createCorrectionIssue(event.id))}
+                title="Suggest correction"
+              >
+                <AlertCircle size={16} />
+                Report Issue
+              </button>
             </div>
             <button className="action-button" onClick={onClose}>
               Close

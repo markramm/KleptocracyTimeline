@@ -108,11 +108,9 @@ Independent verification by multiple community members:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- Event criteria and standards
-- Verification requirements
-- Source documentation guidelines
-- Archive process
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+📖 **Have questions?** Check our [FAQ.md](FAQ.md) for common questions about the project, data, contributing, and technical details.
 
 ### 🔍 Help Validate Events!
 

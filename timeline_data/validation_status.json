@@ -29,6 +29,16 @@
       "validator": "web_ui",
       "timestamp": "2025-08-23T13:34:42.665776",
       "notes": ""
+    },
+    "1977-10-31--cia-cowboys-purge": {
+      "validator": "user",
+      "timestamp": "2025-08-24T23:39:33.229594",
+      "notes": ""
+    },
+    "1980-01-01--black-manafort-stone-founded": {
+      "validator": "user",
+      "timestamp": "2025-08-24T23:40:47.696484",
+      "notes": ""
     }
   },
   "in_review": {},
@@ -36,7 +46,7 @@
   "problematic": {},
   "stats": {
     "total_events": 395,
-    "validated_count": 6,
-    "last_updated": "2025-08-23T13:34:42.670001"
+    "validated_count": 8,
+    "last_updated": "2025-08-24T23:40:47.700987"
   }
 }

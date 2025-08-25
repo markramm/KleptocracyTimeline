@@ -1,0 +1,128 @@
+#!/usr/bin/env python3
+"""
+Generate static API JSON files for the timeline viewer
+"""
+
+import json
+import yaml
+import os
+from pathlib import Path
+from collections import defaultdict
+from datetime import datetime, date
+
+def get_sort_date(event):
+    """Get sortable date from event, handling both string and date objects"""
+    event_date = event.get('date', '')
+    if isinstance(event_date, date):
+        return event_date.isoformat()
+    elif isinstance(event_date, str):
+        return event_date
+    else:
+        return str(event_date)
+
+def main():
+    events_dir = Path('events')
+    output_dir = Path('../viewer/public/api')
+    output_dir.mkdir(exist_ok=True, parents=True)
+
+    # Load all events
+    events = []
+    all_tags = set()
+    all_actors = set()
+    all_capture_lanes = set()
+
+    for yaml_file in events_dir.glob('*.yaml'):
+        try:
+            with open(yaml_file, 'r') as f:
+                event = yaml.safe_load(f)
+                if event:
+                    # Add ID from filename
+                    event['id'] = yaml_file.stem
+                    
+                    # Convert date to string if it's a date object
+                    if 'date' in event and isinstance(event['date'], date):
+                        event['date'] = event['date'].isoformat()
+                    
+                    events.append(event)
+                    
+                    # Collect metadata
+                    if event.get('tags'):
+                        all_tags.update(event['tags'])
+                    if event.get('actors'):
+                        all_actors.update(event['actors'])
+                    if event.get('capture_lanes'):
+                        all_capture_lanes.update(event['capture_lanes'])
+        except Exception as e:
+            print(f'Error loading {yaml_file}: {e}')
+
+    # Sort events by date
+    events.sort(key=get_sort_date)
+
+    # Generate timeline.json
+    with open(output_dir / 'timeline.json', 'w') as f:
+        json.dump({'events': events}, f, indent=2, default=str)
+
+    # Generate tags.json
+    with open(output_dir / 'tags.json', 'w') as f:
+        json.dump({'tags': sorted(list(all_tags))}, f, indent=2)
+
+    # Generate actors.json
+    with open(output_dir / 'actors.json', 'w') as f:
+        json.dump({'actors': sorted(list(all_actors))}, f, indent=2)
+
+    # Generate capture_lanes.json
+    capture_lanes_data = {
+        'capture_lanes': [
+            'Executive Power & Emergency Authority',
+            'Judicial Capture & Corruption',
+            'Financial Corruption & Kleptocracy',
+            'Foreign Influence Operations',
+            'Federal Workforce Capture',
+            'Corporate Capture & Regulatory Breakdown',
+            'Law Enforcement Weaponization',
+            'Election System Attack',
+            'Information & Media Control',
+            'Constitutional & Democratic Breakdown',
+            'Epstein Network & Kompromat',
+            'Immigration & Border Militarization',
+            'International Democracy Impact'
+        ]
+    }
+    with open(output_dir / 'capture_lanes.json', 'w') as f:
+        json.dump(capture_lanes_data, f, indent=2)
+
+    # Generate stats.json
+    stats = {
+        'total_events': len(events),
+        'years_covered': len(set(get_sort_date(e)[:4] for e in events if e.get('date'))),
+        'total_sources': sum(len(e.get('sources', [])) for e in events),
+        'events_by_year': {},
+        'events_by_importance': {}
+    }
+
+    # Count events by year
+    year_counts = defaultdict(int)
+    importance_counts = defaultdict(int)
+    
+    for event in events:
+        if event.get('date'):
+            year = get_sort_date(event)[:4]
+            year_counts[year] += 1
+        if event.get('importance'):
+            importance_counts[str(event['importance'])] += 1
+    
+    stats['events_by_year'] = dict(year_counts)
+    stats['events_by_importance'] = dict(importance_counts)
+
+    with open(output_dir / 'stats.json', 'w') as f:
+        json.dump(stats, f, indent=2, default=str)
+
+    print(f'✅ Generated static API data:')
+    print(f'  - {len(events)} events')
+    print(f'  - {len(all_tags)} unique tags')
+    print(f'  - {len(all_actors)} unique actors')
+    print(f'  - 13 capture lanes')
+    print(f'  - Files saved to: {output_dir.absolute()}')
+
+if __name__ == '__main__':
+    main()

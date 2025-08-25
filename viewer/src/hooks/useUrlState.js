@@ -49,13 +49,16 @@ export const useUrlState = () => {
     return {
       selectedTags: decodeArrayParam(params.get('tags')),
       selectedActors: decodeArrayParam(params.get('actors')),
+      selectedCaptureLanes: decodeArrayParam(params.get('lanes')),
       dateRange: decodeDateRange(params.get('dateRange')),
       searchQuery: params.get('search') || '',
       viewMode: params.get('view') || 'timeline',
       timelineControls: decodeTimelineControls(params.get('timeline')),
       zoomLevel: parseFloat(params.get('zoom')) || 1,
       showFilters: params.get('filters') !== 'false',
-      showStats: params.get('stats') === 'true'
+      showStats: params.get('stats') === 'true',
+      selectedEventId: params.get('event') || null,
+      showLanding: params.get('landing') === 'true' || (!params.toString() && !window.location.hash)
     };
   }, []);
 
@@ -69,6 +72,9 @@ export const useUrlState = () => {
     }
     if (state.selectedActors?.length > 0) {
       params.set('actors', encodeArrayParam(state.selectedActors));
+    }
+    if (state.selectedCaptureLanes?.length > 0) {
+      params.set('lanes', encodeArrayParam(state.selectedCaptureLanes));
     }
     if (state.dateRange?.start || state.dateRange?.end) {
       params.set('dateRange', encodeDateRange(state.dateRange));
@@ -94,6 +100,12 @@ export const useUrlState = () => {
     }
     if (state.showStats === true) {
       params.set('stats', 'true');
+    }
+    if (state.selectedEventId) {
+      params.set('event', state.selectedEventId);
+    }
+    if (state.showLanding === true) {
+      params.set('landing', 'true');
     }
 
     const newUrl = params.toString() ? `${window.location.pathname}?${params.toString()}` : window.location.pathname;

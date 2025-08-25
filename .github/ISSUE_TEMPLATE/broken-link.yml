@@ -1,0 +1,59 @@
+name: Report Broken Link
+description: Report a broken or inaccessible source link
+title: "[Broken Link] "
+labels: ["broken-link", "sources"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping maintain the timeline's sources! Link rot is a constant challenge.
+  
+  - type: input
+    id: event_id
+    attributes:
+      label: Event ID
+      description: The ID of the event with the broken link (e.g., "2025-01-20--executive-order-spree")
+      placeholder: "yyyy-mm-dd--event-name"
+    validations:
+      required: true
+  
+  - type: input
+    id: broken_url
+    attributes:
+      label: Broken URL
+      description: The URL that is no longer accessible
+      placeholder: "https://example.com/article"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: error_type
+    attributes:
+      label: Error Type
+      description: What kind of error are you encountering?
+      options:
+        - 404 Not Found
+        - 403 Forbidden
+        - Paywall
+        - Site No Longer Exists
+        - Content Removed
+        - Other
+    validations:
+      required: true
+  
+  - type: input
+    id: alternative_url
+    attributes:
+      label: Alternative URL (if found)
+      description: If you found an alternative source or archive link, please provide it
+      placeholder: "https://web.archive.org/..."
+    validations:
+      required: false
+  
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information
+      description: Any other relevant details about the broken link
+    validations:
+      required: false
