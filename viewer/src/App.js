@@ -13,6 +13,7 @@ import { API_ENDPOINTS, transformStaticData } from './config';
 import { useUrlState } from './hooks/useUrlState';
 import { shareEvent, shareFilteredView } from './utils/shareUtils';
 import { createNewEventIssue, openGitHub } from './utils/githubUtils';
+import { initAnalytics, trackEvent, trackFilter, AnalyticsEvents } from './utils/analytics';
 import { 
   Filter, 
   BarChart3,
@@ -94,8 +95,9 @@ function App() {
     }
   }, [urlState, events]);
 
-  // Load initial data
+  // Initialize analytics and load data
   useEffect(() => {
+    initAnalytics();
     loadData();
   }, []);
 
@@ -183,6 +185,10 @@ function App() {
   // Event handlers
   const handleEventClick = useCallback((event) => {
     setSelectedEvent(event);
+    trackEvent(AnalyticsEvents.VIEW_EVENT_DETAILS, {
+      event_year: event.date?.substring(0, 4),
+      event_importance: event.importance
+    });
   }, []);
 
   const handleTagClick = useCallback((tag) => {
@@ -191,6 +197,7 @@ function App() {
       : [...selectedTags, tag];
     
     setSelectedTags(newTags);
+    trackFilter('tag', tag);
     
     // Update URL with new tags
     if (updateUrl) {
