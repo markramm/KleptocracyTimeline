@@ -1,14 +1,11 @@
 id: 1972-01-01--kroll-associates-founded
 date: '1972-01-01'
 importance: 5
-title: Jules Kroll founds Kroll Associates, pioneering private intelligence industry
-summary: Jules Kroll founded Kroll Associates in 1972 in New York, initially as a
-  consultancy serving corporate purchasing departments before expanding into financial
-  investigations in the 1980s. The firm earned the nickname "CIA of Wall Street" and
-  "Wall Street's Private Eye" by systematically recruiting former CIA, FBI, Mossad,
-  and MI5 employees, creating a private intelligence capability that paralleled government
-  operations while serving corporate clients. French intelligence alleged it was a
-  CIA front, establishing the template for the modern private intelligence industry.
+title: Jules Kroll founds private intelligence firm Kroll Associates
+summary: Jules Kroll established Kroll Associates in 1972 in New York, widely credited
+  as the first corporate intelligence firm. By systematically hiring former CIA and FBI
+  officers, the firm built private intelligence capabilities paralleling government agencies,
+  leading to nicknames like the 'CIA of Wall Street'.
 location: New York, NY
 actors:
 - Jules Kroll
@@ -24,30 +21,18 @@ tags:
 - cia_wall_street
 status: confirmed
 sources:
-- title: Kroll Inc. - Company History and Intelligence Connections
-  url: https://en.wikipedia.org/wiki/Kroll_Inc.
-  outlet: Wikipedia
-  date: '2024-01-01'
+- title: The Secret Keeper
+  url: https://www.newyorker.com/magazine/2009/10/19/the-secret-keeper
+  outlet: The New Yorker
+  date: '2009-10-19'
   verified: true
-  verified_date: '2025-08-17'
-  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Kroll_Inc.
-  key_facts_confirmed:
-  - Founded 1972 by Jules Kroll
-  - Nicknamed 'CIA of Wall Street'
-  - Hired former CIA, FBI, Mossad, MI5 employees
-  - French intelligence alleged CIA front
-- title: Kroll Associates - Private Intelligence Agency Profile
-  url: https://wikispooks.com/wiki/Kroll_Inc.
-  outlet: Wikispooks
-  date: '2024-01-01'
+- title: The French, the CIA and the Man Who Sued Too Much
+  url: https://www.washingtonpost.com/archive/politics/1996/01/08/the-french-the-cia-and-the-man-who-sued-too-much/d81e2a2b-96e7-4a75-8680-1a76b24c9f36/
+  outlet: The Washington Post
+  date: '1996-01-08'
   verified: true
-- title: US/Israeli Intelligence-Linked Firm Investigation
-  url: https://unlimitedhangout.com/2020/07/reports/alleged-salas-family-assailant-previously-worked-for-us-israeli-intelligence-linked-firm
-  outlet: Unlimited Hangout
-  date: '2020-07-01'
-  verified: true
-notes: Kroll Associates demonstrated the commercial viability of private intelligence
-  operations following post-Watergate reforms. The firm expanded beyond its 1972 founding
-  into financial sector investigations in the 1980s when corporations approached them
-  to profile investors and takeover targets. This established the template for modern
-  private intelligence firms operating outside government restrictions.
+notes: French intelligence officials reportedly suspected Kroll's Paris branch was a
+  CIA front and even bugged its offices, though Kroll's chairman denied any CIA involvement.
+  Kroll's growth during the post-Watergate era demonstrated how private-sector investigations
+  and security services could expand to fill roles once handled by government agencies,
+  setting the template for modern corporate intelligence firms.

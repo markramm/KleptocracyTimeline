@@ -2,10 +2,12 @@ id: 1991-01-01--saudi-prince-yacht-purchase
 date: '1991-01-01'
 importance: 6
 title: Saudi Prince Alwaleed bin Talal purchases Trump yacht during financial crisis
-summary: Saudi Prince Alwaleed bin Talal purchases Trump's yacht "Trump Princess"
-  for $18-20 million during Trump's debt crisis when he owed $900 million. Trump had
-  originally paid $29 million for the yacht in 1988, representing a significant loss.
-  This was the first of two major Saudi financial rescues of Trump's business empire.
+summary: Saudi Prince Alwaleed bin Talal purchased Trump's yacht "Trump Princess"
+  for $20 million in 1991, providing crucial liquidity during Trump's severe financial
+  crisis. Trump had bought the 282-foot yacht (originally owned by arms dealer Adnan
+  Khashoggi) for $29 million in 1988, taking a $9 million loss. This bailout occurred
+  when Trump faced personal guarantees on $900 million in debt, marking the beginning
+  of decades of Saudi financial entanglements with Trump's business empire.
 actors:
 - Prince Alwaleed bin Talal
 - Donald Trump
@@ -23,10 +25,10 @@ sources:
   url: https://finance.yahoo.com/news/saudi-prince-helped-save-trump-170443885.html
   outlet: Yahoo Finance
   date: '2018-11-20'
-- title: Kingdom 5KR - Wikipedia
-  url: https://en.wikipedia.org/wiki/Kingdom_5KR
-  outlet: Wikipedia
-  date: '2024-01-01'
+- title: Trump's Financial Troubles? How About That Yacht
+  url: https://www.nytimes.com/1991/07/07/business/trump-s-financial-troubles-how-about-that-yacht.html
+  outlet: The New York Times
+  date: '1991-07-07'
 - title: Trump's Conflicts of Interest in Saudi Arabia
   url: https://www.americanprogress.org/article/trumps-conflicts-interest-saudi-arabia/
   outlet: Center for American Progress
