@@ -1,0 +1,55 @@
+id: 2025-01-20--howard-lutnick-600-million-tether-conflict
+date: 2025-01-20
+title: Commerce Secretary Lutnick Maintains $600 Million Tether Stake Despite DOJ
+  Investigation
+summary: Commerce Secretary Howard Lutnick refuses to recuse from Trump's Digital
+  Asset Working Group despite maintaining $600 million stake in Tether, cryp...
+description: Commerce Secretary Howard Lutnick refuses to recuse from Trump's Digital
+  Asset Working Group despite maintaining $600 million stake in Tether, cryptocurrency
+  under DOJ investigation for money laundering and sanctions evasion. His firm Cantor
+  Fitzgerald recently settled $6.75 million SEC fraud charges. Lutnick's family continues
+  benefiting through Bitcoin investments after his nominal divestiture to sons.
+importance: 8
+tags:
+- howard-lutnick
+- tether
+- cryptocurrency
+- money-laundering
+- conflict-of-interest
+- commerce-department
+- financial-crimes
+- regulatory-capture
+actors:
+- howard-lutnick
+- cantor-fitzgerald
+- tether
+- department-of-justice
+- commerce-department
+capture_lane: economic
+status: confirmed
+sources:
+- outlet: Wall Street Journal
+  date: 2025-01-20
+  url: https://www.wsj.com/politics/policy/lutnick-tether-stake-commerce-secretary
+  title: Lutnick's $600 Million Tether Conflict at Commerce
+  archive_url: null
+- outlet: Bloomberg
+  date: 2025-01-21
+  url: https://www.bloomberg.com/news/articles/2025-01-21/lutnick-tether-stake-raises-conflict-concerns
+  title: Commerce Secretary's Tether stake under scrutiny
+  archive_url: null
+connections:
+- 2025-01-19--melania-memecoin
+- 2025-02-20--crypto-appointees-193-million
+- 2025-01-20--digital-asset-working-group
+patterns:
+- regulatory-capture
+- cryptocurrency-corruption
+- conflict-of-interest
+notes: Lutnick's massive Tether stake represents one of the largest financial conflicts
+  in cabinet history. Tether, the world's largest stablecoin, faces DOJ investigation
+  for facilitating money laundering, terrorism financing, and sanctions evasion. As
+  Commerce Secretary overseeing trade and technology policy while serving on the Digital
+  Asset Working Group, Lutnick can directly influence cryptocurrency regulation benefiting
+  his $600 million position. His refusal to recuse demonstrates open defiance of ethics
+  norms.

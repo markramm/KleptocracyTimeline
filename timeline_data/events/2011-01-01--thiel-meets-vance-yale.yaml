@@ -1,0 +1,50 @@
+id: 2011-01-01--thiel-meets-vance-yale
+date: 2011-01-01
+title: J.D. Vance Meets Peter Thiel at Yale Law School, Beginning Political Pipeline
+summary: J.D. Vance first meets Peter Thiel during Thiel's talk at Yale Law School,
+  initiating relationship that would transform Vance from law student to v...
+description: J.D. Vance first meets Peter Thiel during Thiel's talk at Yale Law School,
+  initiating relationship that would transform Vance from law student to venture capitalist
+  to U.S. Senator and Vice President. Thiel, promoting his anti-establishment views
+  and fellowship program, identifies Vance as potential protégé in his project to
+  create alternative elite networks outside traditional institutions.
+importance: 6
+tags:
+- jd-vance
+- peter-thiel
+- yale-law-school
+- political-pipeline
+- tech-politics
+- mentorship
+- elite-networks
+actors:
+- jd-vance
+- peter-thiel
+- yale-law-school
+capture_lane: political
+status: confirmed
+sources:
+- outlet: The Atlantic
+  date: 2024-07-15
+  url: https://www.theatlantic.com/politics/archive/2024/07/jd-vance-peter-thiel-relationship/678981/
+  title: How Peter Thiel Made J.D. Vance
+  archive_url: null
+- outlet: New York Magazine
+  date: 2022-04-15
+  url: https://nymag.com/intelligencer/2022/04/peter-thiels-candidates.html
+  title: Peter Thiel's Political Investments
+  archive_url: null
+connections:
+- 2016-01-01--vance-joins-mithril-capital
+- 2019-01-01--thiel-funds-narya-capital
+- 2022-04-01--thiel-funds-vance-senate
+patterns:
+- elite-capture
+- political-pipeline
+- billionaire-influence
+notes: This meeting represents the beginning of Thiel's systematic cultivation of
+  political talent aligned with his anti-democratic vision. Vance, then a Yale Law
+  student from a working-class background, becomes Thiel's most successful political
+  investment. The relationship demonstrates how tech billionaires build parallel power
+  structures by identifying and funding ambitious individuals willing to advance their
+  ideological agenda.

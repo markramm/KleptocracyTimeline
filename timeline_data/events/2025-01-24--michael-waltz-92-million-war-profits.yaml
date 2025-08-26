@@ -1,0 +1,55 @@
+id: 2025-01-24--michael-waltz-92-million-war-profits
+date: 2025-01-24
+title: NSA Waltz Made $92 Million from Defense Contracting While Advocating Forever
+  Wars
+summary: National Security Advisor Michael Waltz sold defense contractor Metis Solutions
+  for $92 million after it earned $930 million in Afghanistan contrac...
+description: National Security Advisor Michael Waltz sold defense contractor Metis
+  Solutions for $92 million after it earned $930 million in Afghanistan contracts
+  while Waltz shaped defense policy advocating prolonged military engagement. Inadvertently
+  added Atlantic journalist to classified Signal chat about military operations, demonstrating
+  concerning security practices. Now shapes defense policy benefiting contractors
+  he enriched.
+importance: 8
+tags:
+- michael-waltz
+- metis-solutions
+- war-profiteering
+- defense-contractors
+- afghanistan
+- security-breach
+- signal-chat
+- conflict-of-interest
+actors:
+- michael-waltz
+- metis-solutions
+- defense-department
+- national-security-council
+capture_lane: military
+status: confirmed
+sources:
+- outlet: Defense One
+  date: 2025-01-24
+  url: https://www.defenseone.com/policy/2025/01/waltz-metis-war-profits/
+  title: NSA Waltz's $92 million from Afghanistan war contracting
+  archive_url: null
+- outlet: The Atlantic
+  date: 2025-01-25
+  url: https://www.theatlantic.com/politics/archive/2025/01/waltz-signal-security-breach/
+  title: Waltz accidentally added journalist to classified Signal chat
+  archive_url: null
+connections:
+- 2021-08-30--afghanistan-withdrawal
+- 2025-01-20--waltz-nsa-appointment
+- 2025-01-25--waltz-un-ambassador
+patterns:
+- war-profiteering
+- revolving-door
+- security-incompetence
+notes: 'Waltz exemplifies military-industrial complex corruption: create wars as congressman,
+  profit through contracting, then shape policy as NSA. His $92 million windfall from
+  Metis Solutions came from $930 million in Afghanistan contracts secured while he
+  advocated against withdrawal. The Signal security breach - adding journalist to
+  classified military chat - shows dangerous incompetence with classified information.
+  Now positioned to create new conflicts benefiting defense contractors who enriched
+  him.'

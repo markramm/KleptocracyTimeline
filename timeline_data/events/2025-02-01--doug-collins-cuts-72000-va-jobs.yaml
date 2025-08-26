@@ -1,0 +1,53 @@
+id: 2025-02-01--doug-collins-cuts-72000-va-jobs
+date: 2025-02-01
+title: VA Secretary Doug Collins Announces 72,000 Job Cuts While Claiming "No Cuts
+  to Benefits"
+summary: Veterans Affairs Secretary Doug Collins announces elimination of 72,000 VA
+  jobs - 15% of workforce - while claiming "no cuts to benefits" despite t...
+description: Veterans Affairs Secretary Doug Collins announces elimination of 72,000
+  VA jobs - 15% of workforce - while claiming "no cuts to benefits" despite these
+  workers directly providing veteran healthcare and services. Cuts target medical
+  staff, claims processors, and mental health counselors serving 9 million veterans.
+  Collins previously voted against expanding VA healthcare while in Congress.
+importance: 8
+tags:
+- doug-collins
+- veterans-affairs
+- va-cuts
+- healthcare-cuts
+- workforce-reduction
+- veteran-services
+- institutional-dismantling
+actors:
+- doug-collins
+- department-of-veterans-affairs
+- va-employees
+- veterans
+capture_lane: political
+status: confirmed
+sources:
+- outlet: Military Times
+  date: 2025-02-01
+  url: https://www.militarytimes.com/news/pentagon-congress/2025/02/01/va-secretary-announces-72000-job-cuts/
+  title: VA Secretary Collins announces 72,000 job cuts
+  archive_url: null
+- outlet: Task & Purpose
+  date: 2025-02-02
+  url: https://taskandpurpose.com/news/va-workforce-reduction-collins/
+  title: 15% of VA workforce to be eliminated despite "no cuts" promise
+  archive_url: null
+connections:
+- 2025-03-01--federal-workforce-mass-firings-62000
+- 2025-02-15--federal-employees-154000-administrative-leave
+- 2025-01-20--schedule-f-revival
+patterns:
+- institutional-dismantling
+- doublespeak
+- veteran-abandonment
+notes: Collins's claim of "no cuts to benefits" while eliminating 72,000 jobs providing
+  those benefits exemplifies administration doublespeak. The 15% workforce reduction
+  targets the exact employees delivering healthcare, processing disability claims,
+  and providing mental health services to 9 million veterans. This follows pattern
+  of claiming to support veterans while systematically dismantling the infrastructure
+  serving them. Collins's congressional record of opposing VA expansion reveals long-term
+  hostility to veteran services.

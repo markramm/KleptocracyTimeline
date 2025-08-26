@@ -1,6 +1,8 @@
 # Kleptocracy Timeline
 
-An open-source, collaborative timeline documenting democratic erosion and kleptocratic capture in the United States (1972-present).
+An open-source, collaborative timeline documenting democratic erosion and kleptocratic capture in the United States (1970-present).
+
+**📊 Current Status: 421 documented events**
 
 **🌐 View the timeline: [https://markramm.github.io/KleptocracyTimeline/](https://markramm.github.io/KleptocracyTimeline/)**
 
