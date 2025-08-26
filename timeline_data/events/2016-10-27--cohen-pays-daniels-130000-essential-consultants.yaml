@@ -32,11 +32,11 @@ sources:
   outlet: CBS News
   date: '2023-03-30'
   archive_url: https://web.archive.org/web/20230330000000/https://www.cbsnews.com/news/donald-trump-stormy-daniels-indictment-investigation-timeline-manhattan-district-attorney/
-- title: Banker details Michael Cohen's $130K payment to Stormy Daniels
-  url: https://abcnews.go.com/US/live-updates/trump-hush-money-trial/banker-details-michael-cohens-130k-payment-to-stormy-daniels-109786261
-  outlet: ABC News
-  date: '2024-04-30'
-  archive_url: https://web.archive.org/web/20240430000000/https://abcnews.go.com/US/live-updates/trump-hush-money-trial/banker-details-michael-cohens-130k-payment-to-stormy-daniels-109786261
+- title: Banker Gary Farro testifies about urgent request from Michael Cohen
+  url: https://www.washingtontimes.com/news/2024/apr/26/banker-gary-farro-testifies-about-urgent-request-m/
+  outlet: Washington Times
+  date: '2024-04-26'
+  archive_url: https://web.archive.org/web/20240426000000/https://www.washingtontimes.com/news/2024/apr/26/banker-gary-farro-testifies-about-urgent-request-m/
 - title: Trump hush money trial highlights - Michael Cohen testifies about directed payment
   url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
   outlet: NBC News

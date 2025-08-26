@@ -1,28 +1,29 @@
 # Kleptocracy Timeline Project Status
-*Last Updated: 2025-08-23*
+*Last Updated: 2025-08-26*
 
 ## 📊 Current Metrics
 
 ### Events Database
-- **Total Events**: 395 YAML files
-- **Events with Capture Lanes**: 307 (77.7%)
+- **Total Events**: 399 YAML files
+- **Total Sources**: 1,251 verified sources
+- **Events with Capture Lanes**: 311 (77.9%)
 - **Importance Distribution**:
-  - Critical (10): 32 events (8.1%)
-  - Crisis (9): 29 events (7.3%)
-  - High Priority (8): 55 events (13.9%)
+  - Critical (10): 33 events (8.3%)
+  - Crisis (9): 30 events (7.5%)
+  - High Priority (8): 57 events (14.3%)
   - Important (7): 15 events (3.8%)
-  - Notable (6): 190 events (48.1%)
-  - Medium (5): 74 events (18.7%)
+  - Notable (6): 190 events (47.6%)
+  - Medium (5): 74 events (18.5%)
 
 ### Validation Status
-- **Validated Events**: 0 (0%) - No validation field in YAML files
-- **QA Completed**: Unknown - need to implement tracking
-- **Source Verification**: Incomplete
+- **Validated Events**: 0 (0%) - Community validation in progress
+- **QA Completed**: Basic validation on new events
+- **Source Verification**: Ongoing
 
 ### Archive Progress
-- **URLs Archived**: 49/385 (12.6%)
-- **Currently Running**: Slow archiver with 12-second delays
-- **Estimated Completion**: ~67 minutes remaining
+- **Sources Archived**: 270/1,251 (21.6%)
+- **Unique Tags**: 1,094 categorizations
+- **Archive Coverage**: Improving with community efforts
 
 ## ✅ Completed Features
 

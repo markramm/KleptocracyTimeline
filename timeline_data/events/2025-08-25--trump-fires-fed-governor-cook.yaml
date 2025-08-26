@@ -1,0 +1,50 @@
+date: 2025-08-25
+title: Trump Fires Federal Reserve Governor Lisa Cook
+description: In unprecedented move, Trump attempts to fire Fed Governor Lisa Cook citing mortgage fraud allegations, marking first time in Fed's 111-year history a president has tried to remove a central bank governor. Cook refuses to step down, stating Trump has no legal authority for the firing.
+importance: 10
+tags:
+  - federal-reserve
+  - institutional-capture
+  - regulatory-capture
+  - democratic-erosion
+  - rule-of-law
+  - economic-policy
+  - authoritarian-tactics
+  - neutralize-referees
+actors:
+  - donald-trump
+  - lisa-cook
+  - elizabeth-warren
+capture_lane: regulatory
+status: confirmed
+sources:
+  - outlet: CNN Business
+    date: 2025-08-25
+    url: https://www.cnn.com/2025/08/25/business/trump-fire-fed-governor
+    title: Trump says he has fired Fed governor Lisa Cook. She says he has no 'authority' to fire her
+    archive_url: 
+  - outlet: CNBC
+    date: 2025-08-25
+    url: https://www.cnbc.com/2025/08/25/trump-fires-lisa-cook-fed-powell.html
+    title: Trump fires Fed Governor Lisa Cook, cites mortgage fraud claim
+    archive_url: 
+  - outlet: The Washington Post
+    date: 2025-08-26
+    url: https://www.washingtonpost.com/business/2025/08/26/lisa-cook-trump-federal-reserve-governor-who-is/
+    title: Who is Lisa Cook, the Fed Reserve Board governor Trump wants to fire?
+    archive_url: 
+  - outlet: Axios
+    date: 2025-08-26
+    url: https://www.axios.com/2025/08/26/trump-fires-federal-reserve-lisa-cook
+    title: Fed governor Cook responds to Trump firing - I will not resign
+    archive_url: 
+connections:
+  - 2024-11-14--trump-treasury-pick-attacks-fed
+  - 2025-01-31--trump-fed-chair-ultimatum
+  - 2025-02-13--trump-threatens-fire-fed-chair
+patterns:
+  - neutralize-referees
+  - institutional-capture
+  - authoritarian-consolidation
+notes: |
+  This represents a dramatic escalation in Trump's efforts to control the Federal Reserve. The Fed was specifically designed to be independent from political pressure, with governors serving 14-year terms that span multiple presidencies. Trump's claim of "mortgage fraud" as cause for firing appears to be a pretext for removing a governor who might oppose his preferred monetary policies. Cook's refusal to step down sets up a constitutional crisis over the independence of monetary policy.

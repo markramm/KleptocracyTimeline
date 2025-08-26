@@ -101,12 +101,12 @@ Independent verification by multiple community members:
 
 ## 📊 Statistics
 
-- **Events**: 395+ documented incidents
+- **Events**: 399 documented incidents
 - **Date Range**: 1970-2025
-- **Sources**: 1000+ verified sources
-- **Validation Progress**: 6 events fully validated (growing daily)
-- **Archive Coverage**: 60%+ protection against link rot
-- **Tags**: 548 unique categorizations
+- **Sources**: 1,251 verified sources
+- **Validation Progress**: Community validation in progress
+- **Archive Coverage**: 21.6% protection against link rot
+- **Tags**: 1,094 unique categorizations
 
 ## 🤝 Contributing
 

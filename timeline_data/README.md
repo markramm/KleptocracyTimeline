@@ -1,16 +1,18 @@
 # Timeline Data Documentation
 
+*Last Updated: August 26, 2025*
+
 ## Overview
 
-This directory contains 318+ chronological timeline events documenting kleptocratic capture patterns and democratic system failures from 1972 to present. Each event is stored as a YAML file with structured metadata, source citations, and verification status.
+This directory contains 399 chronological timeline events documenting kleptocratic capture patterns and democratic system failures from 1970 to present. Each event is stored as a YAML file with structured metadata, source citations, and verification status.
 
 ## 🗺️ Critical Project Resources Map
 
 ### Primary Working Directories
-- **`/timeline_data/events/`** - 318+ YAML event files (main data)
+- **`/timeline_data/events/`** - 399 YAML event files (main data)
 - **`/timeline_data/`** - Validation scripts and documentation
-- **`/DemocracyResearchDocs/queue/`** - PDFs to process (2 remaining)
-- **`/DemocracyResearchDocs/completed/`** - Processed PDFs (4 completed)
+- **Total Sources**: 1,251 verified sources
+- **Archive Coverage**: 21.6% (270 sources archived)
 
 ### Key Scripts & Tools
 - **`validate_yaml.py`** - ⚠️ RUN FREQUENTLY - Validates all YAML syntax
