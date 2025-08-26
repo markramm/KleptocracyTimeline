@@ -21,13 +21,20 @@ const BASE_URL = getBaseUrl();
 
 // API endpoint configuration
 // All files are served from /api/ folder relative to the app
+// Use relative paths for GitHub Pages compatibility
+const getApiPath = (filename) => {
+  // Use PUBLIC_URL if available (set during build for GitHub Pages)
+  const publicUrl = process.env.PUBLIC_URL || '';
+  return `${publicUrl}/api/${filename}`;
+};
+
 export const API_ENDPOINTS = {
-  timeline: '/api/timeline.json',
-  tags: '/api/tags.json',
-  actors: '/api/actors.json',
-  capture_lanes: '/api/capture_lanes.json',
-  stats: '/api/stats.json',
-  monitoring: '/api/monitoring.json',
+  timeline: getApiPath('timeline.json'),
+  tags: getApiPath('tags.json'),
+  actors: getApiPath('actors.json'),
+  capture_lanes: getApiPath('capture_lanes.json'),
+  stats: getApiPath('stats.json'),
+  monitoring: getApiPath('monitoring.json'),
   
   // Raw data URL for GitHub
   rawData: `https://raw.githubusercontent.com/${process.env.REACT_APP_REPO || 'yourusername/kleptocracy-timeline'}/main/timeline_data`
