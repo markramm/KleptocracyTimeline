@@ -23,9 +23,12 @@ const BASE_URL = getBaseUrl();
 // All files are served from /api/ folder relative to the app
 // Use relative paths for GitHub Pages compatibility
 const getApiPath = (filename) => {
-  // Use PUBLIC_URL if available (set during build for GitHub Pages)
-  const publicUrl = process.env.PUBLIC_URL || '';
-  return `${publicUrl}/api/${filename}`;
+  // For GitHub Pages, detect the base path from the current URL
+  if (window.location.hostname === 'markramm.github.io') {
+    return `/KleptocracyTimeline/api/${filename}`;
+  }
+  // For local development or other hosting
+  return `/api/${filename}`;
 };
 
 export const API_ENDPOINTS = {
