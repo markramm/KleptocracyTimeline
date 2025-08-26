@@ -2,7 +2,7 @@
 
 An open-source, collaborative timeline documenting democratic erosion and kleptocratic capture in the United States (1970-present).
 
-**📊 Current Status: 421 documented events**
+**📊 Current Status: 753 documented events**
 
 **🌐 View the timeline: [https://markramm.github.io/KleptocracyTimeline/](https://markramm.github.io/KleptocracyTimeline/)**
 
@@ -18,13 +18,24 @@ This repository provides a factual, verified, and archived timeline of events sh
 
 ## 🚀 Quick Start
 
+### Development Setup
+
+See [DEVELOPMENT_SETUP.md](DEVELOPMENT_SETUP.md) for detailed setup instructions including:
+- Python virtual environment setup
+- Installing dependencies
+- Running tests
+- Troubleshooting
+
 ### View the Timeline
 
 **Option 1: React App (Full Interactive Experience)**
 ```bash
+# Setup virtual environment first (see DEVELOPMENT_SETUP.md)
+source venv/bin/activate
+
 # Terminal 1: Start the API server
-cd api && python3 server.py
-# Runs on http://localhost:5173
+python api/server.py
+# Runs on http://localhost:5000
 
 # Terminal 2: Start the React app  
 cd viewer && npm install && npm start
@@ -33,7 +44,8 @@ cd viewer && npm install && npm start
 
 **Option 2: Enhanced Server (Simple Browsing)**
 ```bash
-python3 api/enhanced_server.py
+source venv/bin/activate
+python api/enhanced_server.py
 # Visit http://localhost:8080
 ```
 
