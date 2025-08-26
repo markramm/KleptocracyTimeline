@@ -1,0 +1,29 @@
+id: 2025-03-18--it-s-a-heist-real-federal-auditors-are-horrified-by-doge
+date: '2025-03-18'
+title: '‘It’s a heist’: real federal auditors are horrified by DOGE'
+summary: DOGE's faux audits have targeted non-Musk government contractors while pushing
+  more contracts to Elon Musk's businesses
+description: DOGE's faux audits have targeted non-Musk government contractors while
+  pushing more contracts to Elon Musk's businesses
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: '‘It’s a heist’: real federal auditors are horrified by DOGE'
+  url: https://www.wired.com/story/federal-auditors-doge-elon-musk/
+  outlet: Wired
+  date: '2025-03-18'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-18'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

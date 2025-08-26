@@ -1,0 +1,30 @@
+id: 2025-04-11--meta-adds-former-trump-advisor-to-its-board
+date: '2025-04-11'
+title: Meta adds former Trump advisor to its board
+summary: Meta has appointed Dina Powell McCormick, former Trump deputy national security
+  advisor and wife of Republican Sen. Dave McCormick, to its board of directors
+description: Meta has appointed Dina Powell McCormick, former Trump deputy national
+  security advisor and wife of Republican Sen. Dave McCormick, to its board of directors
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- media-control
+- regulatory-capture
+capture_type: regulatory_capture
+sources:
+- title: Meta adds former Trump advisor to its board
+  url: https://www.cnbc.com/2025/04/11/meta-adds-former-trump-advisor-to-its-board.html
+  outlet: CNBC
+  date: '2025-04-11'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-11'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

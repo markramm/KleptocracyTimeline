@@ -1,0 +1,30 @@
+id: 2025-04-29--federal-watchdog-reveals-dozens-of-inquiries-into-trump-s-wi
+date: '2025-04-29'
+title: Federal watchdog reveals dozens of inquiries Into Trump’s withholding of funds
+summary: The Government Accountability Office is investigating whether Trump illegally
+  withheld over $430 billion in congressional appropriations from a variety of agencies
+description: The Government Accountability Office is investigating whether Trump illegally
+  withheld over $430 billion in congressional appropriations from a variety of agencies
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Federal watchdog reveals dozens of inquiries Into Trump’s withholding of
+    funds
+  url: https://www.nytimes.com/2025/04/29/us/politics/trump-funds-gao.html
+  outlet: New York Times
+  date: '2025-04-29'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-29'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

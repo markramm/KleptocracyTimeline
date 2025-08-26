@@ -1,0 +1,31 @@
+id: 2025-03-20--trump-rescinds-executive-order-after-law-firm-agrees-to-prov
+date: '2025-03-20'
+title: Trump rescinds executive order after law firm agrees to provide $40m in free
+  services
+summary: Trump rescinded an executive order targeting Paul Weiss after the firm pledged
+  $40 million in pro bono services
+description: Trump rescinded an executive order targeting Paul Weiss after the firm
+  pledged $40 million in pro bono services
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump rescinds executive order after law firm agrees to provide $40m in free
+    services
+  url: https://www.theguardian.com/us-news/2025/mar/20/trump-rescinds-executive-order-paul-weiss
+  outlet: The Guardian
+  date: '2025-03-20'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-20'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

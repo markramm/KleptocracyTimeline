@@ -44,6 +44,16 @@ jobs:
           cd timeline_data
           python generate_static_api.py
           
+      - name: Generate CSV and JSON exports
+        run: |
+          python scripts/generate_csv.py --json --viewer-dir viewer/
+          echo "CSV and JSON exports generated successfully"
+          
+      - name: Generate YAML exports
+        run: |
+          python scripts/generate_yaml_export.py --viewer-dir viewer/
+          echo "YAML exports generated successfully"
+          
       - name: Install Node dependencies
         run: |
           cd viewer

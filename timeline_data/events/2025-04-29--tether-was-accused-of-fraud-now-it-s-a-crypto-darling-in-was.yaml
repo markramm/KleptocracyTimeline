@@ -1,0 +1,33 @@
+id: 2025-04-29--tether-was-accused-of-fraud-now-it-s-a-crypto-darling-in-was
+date: '2025-04-29'
+title: Tether was accused of fraud. Now it’s a crypto darling in Washington
+summary: Tether–a cryptocurrency firm that previously settled a fraud investigation
+  and has since endeared itself to Republican lawmakers and Commerce Secretary Howard
+  Lutnick–is pushing to shape legislation that seeks to set rules for stablecoins
+description: Tether–a cryptocurrency firm that previously settled a fraud investigation
+  and has since endeared itself to Republican lawmakers and Commerce Secretary Howard
+  Lutnick–is pushing to shape legislation that seeks to set rules for stablecoins
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- corruption
+- regulatory-capture
+capture_type: regulatory_capture
+sources:
+- title: Tether was accused of fraud. Now it’s a crypto darling in Washington
+  url: https://www.nytimes.com/2025/04/29/technology/trump-crypto-tether.html
+  outlet: New York Times
+  date: '2025-04-29'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-29'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

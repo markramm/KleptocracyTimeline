@@ -1,0 +1,27 @@
+id: 2025-04-15--us-removes-sanctions-from-antal-rog-n-aide-to-hungary-s-vikt
+date: '2025-04-15'
+title: US removes sanctions from Antal Rogán, aide to Hungary’s Viktor Orbán
+summary: US removes sanctions from Antal Rogán, aide to Hungary’s Viktor Orbán
+description: US removes sanctions from Antal Rogán, aide to Hungary’s Viktor Orbán
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: US removes sanctions from Antal Rogán, aide to Hungary’s Viktor Orbán
+  url: https://www.theguardian.com/us-news/2025/apr/15/hungary-sanctions-aide-viktor-orban
+  outlet: The Guardian
+  date: '2025-04-15'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-15'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

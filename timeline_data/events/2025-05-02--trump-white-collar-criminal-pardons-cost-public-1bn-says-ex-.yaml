@@ -1,0 +1,31 @@
+id: 2025-05-02--trump-white-collar-criminal-pardons-cost-public-1bn-says-ex-
+date: '2025-05-02'
+title: Trump white-collar criminal pardons cost public $1bn, says ex-DoJ official
+summary: Trump's many pardons of white-collar criminals have so far cost the public
+  $1 billion in lost revenue from forgiven fines
+description: Trump's many pardons of white-collar criminals have so far cost the public
+  $1 billion in lost revenue from forgiven fines
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- pardons
+- government-contracts
+- justice-weaponization
+capture_type: monetizing_position
+sources:
+- title: Trump white-collar criminal pardons cost public $1bn, says ex-DoJ official
+  url: https://www.theguardian.com/us-news/2025/may/02/trump-pardons-cost-liz-oyer
+  outlet: The Guardian
+  date: '2025-05-02'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-02'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

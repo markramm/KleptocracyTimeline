@@ -1,0 +1,29 @@
+id: 2025-04-21--circle-bitgo-and-other-crypto-firms-plan-to-apply-for-bank-c
+date: '2025-04-21'
+title: Circle, BitGo and other crypto firms plan to apply for bank charters or licenses
+summary: With Trump’s pro-bitcoin agenda, crypto firms like Circle, BitGo, and Coinbase
+  are seeking bank charters to move deeper into the US financial system
+description: With Trump’s pro-bitcoin agenda, crypto firms like Circle, BitGo, and
+  Coinbase are seeking bank charters to move deeper into the US financial system
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Circle, BitGo and other crypto firms plan to apply for bank charters or licenses
+  url: https://www.wsj.com/finance/currencies/crypto-knocks-on-the-door-of-a-banking-world-that-shut-it-out-082b3968?mod=hp_lead_pos10
+  outlet: Wall Street Journal
+  date: '2025-04-21'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-21'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,32 @@
+id: 2025-07-14--defense-department-to-begin-using-grok-musk-s-controversial-
+date: '2025-07-14'
+title: Defense Department to begin using Grok, Musk’s controversial AI model
+summary: The Department of Defense awarded xAI, Elon Musk’s AI company, a $200 million
+  contract for its Grok AI tool–which just generated a slew of antisemitic posts on
+  X
+description: The Department of Defense awarded xAI, Elon Musk’s AI company, a $200
+  million contract for its Grok AI tool–which just generated a slew of antisemitic
+  posts on X
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Defense Department to begin using Grok, Musk’s controversial AI model
+  url: https://www.washingtonpost.com/technology/2025/07/14/elon-musk-grok-defense-department/
+  outlet: Washington Post
+  date: '2025-07-14'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-07-14'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

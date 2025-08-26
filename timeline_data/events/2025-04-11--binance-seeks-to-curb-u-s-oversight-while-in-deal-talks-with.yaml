@@ -1,0 +1,37 @@
+id: 2025-04-11--binance-seeks-to-curb-u-s-oversight-while-in-deal-talks-with
+date: '2025-04-11'
+title: Binance seeks to curb U.S. oversight while in deal talks with Trump’s crypto
+  company
+summary: Recently fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya sounded
+  the alarm over Elon Musk’s operatives gaining potential access to confidential merger
+  files and nonpublic business data–which could be exploited to manipulate markets
+  or benefit Musk’s companies
+description: Recently fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya
+  sounded the alarm over Elon Musk’s operatives gaining potential access to confidential
+  merger files and nonpublic business data–which could be exploited to manipulate
+  markets or benefit Musk’s companies
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- regulatory-capture
+- government-contracts
+capture_type: personnel_rewiring
+sources:
+- title: Binance seeks to curb U.S. oversight while in deal talks with Trump’s crypto
+    company
+  url: https://www.wsj.com/finance/regulation/binance-world-liberty-financial-crypto-deals-70c817c3?mod=hp_lead_pos6
+  outlet: Wall Street Journal
+  date: '2025-04-11'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-11'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

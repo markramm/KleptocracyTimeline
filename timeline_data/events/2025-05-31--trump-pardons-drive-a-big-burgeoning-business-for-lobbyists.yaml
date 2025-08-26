@@ -1,0 +1,30 @@
+id: 2025-05-31--trump-pardons-drive-a-big-burgeoning-business-for-lobbyists
+date: '2025-05-31'
+title: Trump pardons drive a big, burgeoning business for lobbyists
+summary: Trump-allied lobbying and consulting firms have received offers as high as
+  $5 million for assistance in soliciting a pardon from the president
+description: Trump-allied lobbying and consulting firms have received offers as high
+  as $5 million for assistance in soliciting a pardon from the president
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- pardons
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump pardons drive a big, burgeoning business for lobbyists
+  url: https://www.nbcnews.com/politics/donald-trump/trump-pardons-drive-big-burgeoning-business-lobbyists-rcna209801
+  outlet: NBC News
+  date: '2025-05-31'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,29 @@
+id: 2025-01-31--russian-oligarch-held-stake-in-spacex-via-trust-while-sancti
+date: '2025-01-31'
+title: Russian oligarch held stake in SpaceX via trust while sanctioned
+summary: Russian oligarch Suleyman Kerimov maintained at least a 1% stake in SpaceX
+  through a Citigroup-managed trust—even after US sanctions
+description: Russian oligarch Suleyman Kerimov maintained at least a 1% stake in SpaceX
+  through a Citigroup-managed trust—even after US sanctions
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: Russian oligarch held stake in SpaceX via trust while sanctioned
+  url: https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/
+  outlet: Kyiv Independent
+  date: '2025-01-31'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-01-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

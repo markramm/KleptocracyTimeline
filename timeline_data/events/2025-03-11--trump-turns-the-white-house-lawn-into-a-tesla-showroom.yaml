@@ -1,0 +1,29 @@
+id: 2025-03-11--trump-turns-the-white-house-lawn-into-a-tesla-showroom
+date: '2025-03-11'
+title: Trump turns the White House lawn into a Tesla showroom
+summary: Trump showcased Tesla vehicles on the White House lawn to push sales of the
+  car amid the growing popularity of the Tesla boycott movement
+description: Trump showcased Tesla vehicles on the White House lawn to push sales
+  of the car amid the growing popularity of the Tesla boycott movement
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: Trump turns the White House lawn into a Tesla showroom
+  url: https://www.cnbc.com/2025/03/11/trump-turns-the-white-house-lawn-into-a-tesla-showroom.html
+  outlet: CNBC
+  date: '2025-03-11'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-11'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

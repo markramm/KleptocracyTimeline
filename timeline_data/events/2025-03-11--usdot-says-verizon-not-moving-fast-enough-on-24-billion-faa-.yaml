@@ -1,0 +1,29 @@
+id: 2025-03-11--usdot-says-verizon-not-moving-fast-enough-on-24-billion-faa-
+date: '2025-03-11'
+title: USDOT says Verizon not moving fast enough on $24 billion FAA contract
+summary: The FAA placed its Verizon deal under review as Elon Musk pushed Starlink
+  as an alternative vendor
+description: The FAA placed its Verizon deal under review as Elon Musk pushed Starlink
+  as an alternative vendor
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: USDOT says Verizon not moving fast enough on $24 billion FAA contract
+  url: https://www.reuters.com/business/media-telecom/usdot-says-verizon-not-moving-fast-enough-24-billion-faa-contract-2025-03-11/
+  outlet: REUTERS
+  date: '2025-03-11'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-11'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

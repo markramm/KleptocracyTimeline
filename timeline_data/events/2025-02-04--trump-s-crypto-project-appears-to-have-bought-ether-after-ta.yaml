@@ -1,0 +1,32 @@
+id: 2025-02-04--trump-s-crypto-project-appears-to-have-bought-ether-after-ta
+date: '2025-02-04'
+title: Trump's crypto project appears to have bought Ether after tariff meltdown
+summary: World Liberty Financial, a decentralized finance project linked to Trump’s
+  family, added approximately $55 million worth of Ether (ETH) after crypto markets
+  crashed following Trump’s brief imposition of tariffs on Mexico and Canada
+description: World Liberty Financial, a decentralized finance project linked to Trump’s
+  family, added approximately $55 million worth of Ether (ETH) after crypto markets
+  crashed following Trump’s brief imposition of tariffs on Mexico and Canada
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump's crypto project appears to have bought Ether after tariff meltdown
+  url: https://financialpost.com/pmn/business-pmn/trumps-crypto-project-appears-to-have-bought-ether-after-tariff-meltdown
+  outlet: Financial Post
+  date: '2025-02-04'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-04'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

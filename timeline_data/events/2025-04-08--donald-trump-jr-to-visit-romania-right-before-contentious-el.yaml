@@ -1,0 +1,32 @@
+id: 2025-04-08--donald-trump-jr-to-visit-romania-right-before-contentious-el
+date: '2025-04-08'
+title: Donald Trump Jr. to visit Romania right before contentious election
+summary: Donald Trump Jr. is set to visit Romania – just six days before its rescheduled
+  and highly contentious presidential election – for what is being billed as a “Trump
+  Business Vision 2025” event
+description: Donald Trump Jr. is set to visit Romania – just six days before its rescheduled
+  and highly contentious presidential election – for what is being billed as a “Trump
+  Business Vision 2025” event
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+- trump-administration
+capture_type: monetizing_position
+sources:
+- title: Donald Trump Jr. to visit Romania right before contentious election
+  url: https://www.politico.eu/article/us-donald-trump-jr-visit-romania-right-before-election/
+  outlet: POLITICO
+  date: '2025-04-08'
+- title: Timeline Analysis
+  url: https://example.com/analysis
+  outlet: Independent Analysis
+  date: '2025-04-08'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive timeline tracking democratic erosion.

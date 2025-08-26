@@ -1,0 +1,28 @@
+id: 2025-02-01--trump-fires-the-director-of-the-consumer-financial-protectio
+date: '2025-02-01'
+title: Trump fires the director of the Consumer Financial Protection Bureau
+summary: Trump fired Consumer Financial Protection Bureau (CFPB) director Rohit Chopra
+description: Trump fired Consumer Financial Protection Bureau (CFPB) director Rohit
+  Chopra
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+capture_type: personnel_rewiring
+sources:
+- title: Trump fires the director of the Consumer Financial Protection Bureau
+  url: https://apnews.com/article/trump-chopra-consumer-financial-protection-bureau-47b6b39d0eff05ea0c9bca4eacf55b79
+  outlet: Associated Press
+  date: '2025-02-01'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-01'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

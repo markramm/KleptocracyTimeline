@@ -1,0 +1,30 @@
+id: 2025-02-07--kash-patel-was-paid-by-russian-filmmaker-with-ties-to-kremli
+date: '2025-02-07'
+title: Kash Patel was paid by Russian filmmaker with ties to Kremlin, documents show
+summary: Kash Patel received a $25,000 payment from a Russian filmmaker with Kremlin
+  ties who promoted Russia's anti-Western narratives
+description: Kash Patel received a $25,000 payment from a Russian filmmaker with Kremlin
+  ties who promoted Russia's anti-Western narratives
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: Kash Patel was paid by Russian filmmaker with ties to Kremlin, documents
+    show
+  url: https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/
+  outlet: Washington Post
+  date: '2025-02-07'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-07'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

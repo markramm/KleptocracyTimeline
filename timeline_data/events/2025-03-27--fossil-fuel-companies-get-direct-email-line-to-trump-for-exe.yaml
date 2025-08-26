@@ -1,0 +1,29 @@
+id: 2025-03-27--fossil-fuel-companies-get-direct-email-line-to-trump-for-exe
+date: '2025-03-27'
+title: Fossil fuel companies get direct email line to Trump for exemption requests
+summary: Trump's EPA created an email portal allowing fossil fuel companies to request
+  presidential exemptions from Clean Air Act regulations
+description: Trump's EPA created an email portal allowing fossil fuel companies to
+  request presidential exemptions from Clean Air Act regulations
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+capture_type: monetizing_position
+sources:
+- title: Fossil fuel companies get direct email line to Trump for exemption requests
+  url: https://www.theguardian.com/us-news/2025/mar/27/epa-trump-email-fossil-fuel-exemptions
+  outlet: The Guardian
+  date: '2025-03-27'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-27'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

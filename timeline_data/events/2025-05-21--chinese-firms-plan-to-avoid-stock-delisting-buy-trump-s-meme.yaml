@@ -1,0 +1,31 @@
+id: 2025-05-21--chinese-firms-plan-to-avoid-stock-delisting-buy-trump-s-meme
+date: '2025-05-21'
+title: 'Chinese firms’ plan to avoid stock delisting: buy Trump’s memecoin'
+summary: More Chinese firms are purchasing hundreds of millions of dollars in Trump’s
+  memecoin in an effort to boost their shares and save their places on US stock exchanges
+description: More Chinese firms are purchasing hundreds of millions of dollars in
+  Trump’s memecoin in an effort to boost their shares and save their places on US
+  stock exchanges
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: 'Chinese firms’ plan to avoid stock delisting: buy Trump’s memecoin'
+  url: https://www.wsj.com/finance/stocks/chinese-firms-plan-to-avoid-stock-delisting-buy-trumps-memecoin-172b129c
+  outlet: Wall Street Journal
+  date: '2025-05-21'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-21'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

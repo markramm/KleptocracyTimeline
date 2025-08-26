@@ -1,0 +1,31 @@
+id: 2025-03-24--trump-media-shares-jump-on-announcement-of-etf-deal-with-cry
+date: '2025-03-24'
+title: Trump Media shares jump on announcement of ETF deal with Crypto.com
+summary: Trump Media Group's stock price surged after announcing a partnership with
+  Crypto.com for "Made in America" ETF
+description: Trump Media Group's stock price surged after announcing a partnership
+  with Crypto.com for "Made in America" ETF
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- media-control
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump Media shares jump on announcement of ETF deal with Crypto.com
+  url: https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html
+  outlet: CNBC
+  date: '2025-03-24'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-24'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,34 @@
+id: 2025-06-10--justice-dept-to-take-narrow-approach-to-prosecuting-corporat
+date: '2025-06-10'
+title: Justice Dept. to take narrow approach to prosecuting corporate bribery abroad
+summary: DOJ has closed about half of its open cases investigating bribery by US entities
+  abroad, narrowing prosecutions to focus on misconduct that harms US companies’ ability
+  to compete with foreign organizations
+description: DOJ has closed about half of its open cases investigating bribery by
+  US entities abroad, narrowing prosecutions to focus on misconduct that harms US
+  companies’ ability to compete with foreign organizations
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- corruption
+- foreign-influence
+- regulatory-capture
+- justice-weaponization
+capture_type: regulatory_capture
+sources:
+- title: Justice Dept. to take narrow approach to prosecuting corporate bribery abroad
+  url: https://www.nytimes.com/2025/06/10/us/politics/justice-prosecuting-corporate-bribery.html
+  outlet: New York Times
+  date: '2025-06-10'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-06-10'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

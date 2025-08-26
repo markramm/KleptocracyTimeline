@@ -110,6 +110,34 @@ python3 scripts/generate.py [--all] [--index] [--api] [--citations FORMAT] [--st
 
 The `utils/` directory contains shared functionality:
 
+### utils/events.py (NEW)
+- `EventManager` - Centralized event loading and management
+  - `load_all_events()` - Load and cache all events
+  - `get_sorted_events()` - Get events sorted by date
+  - `get_events_by_date_range()` - Filter by date range
+  - `get_events_by_tags()` - Filter by tags
+  - `get_events_by_actors()` - Filter by actors
+  - `calculate_statistics()` - Comprehensive event statistics
+  - `find_events_missing_field()` - Find incomplete events
+  - `normalize_date()` - Consistent date handling
+
+### utils/cli.py (NEW)
+- `create_base_parser()` - Standard argument parser creation
+- `add_output_arguments()` - Common output options
+- `add_filter_arguments()` - Date/tag/actor filters
+- `add_verbosity_arguments()` - Verbose/quiet flags
+- `setup_output_path()` - Output file handling
+- `copy_to_viewer()` - Copy files to viewer directory
+- `print_statistics()` - Formatted statistics output
+
+### utils/exporters.py (NEW)
+- `BaseExporter` - Abstract base class for exporters
+- `CSVExporter` - Export to CSV format
+- `JSONExporter` - Export to JSON with date serialization
+- `YAMLExporter` - Full YAML export with metadata
+- `MinimalYAMLExporter` - Lightweight YAML export
+- `ExporterFactory` - Create exporters by format
+
 ### utils/io.py
 - `load_yaml_file()` - Load YAML files
 - `save_json_file()` - Save JSON files
@@ -142,6 +170,39 @@ Most scripts accept these common arguments:
 - `--output-dir PATH` - Output directory (default: timeline_data)
 - `--verbose` - Enable detailed output
 - `--help` - Show help message
+
+## Using the New Utilities
+
+The new utility modules make it easy to create custom scripts:
+
+```python
+#!/usr/bin/env python3
+from utils.events import EventManager
+from utils.cli import create_base_parser, add_filter_arguments
+from utils.exporters import ExporterFactory
+
+# Setup CLI
+parser = create_base_parser('Export filtered events')
+add_filter_arguments(parser)
+parser.add_argument('--format', choices=['csv', 'json', 'yaml'])
+args = parser.parse_args()
+
+# Load and filter events
+manager = EventManager()
+events = manager.load_all_events()
+
+if args.tags:
+    events = manager.get_events_by_tags(args.tags)
+
+# Export
+exporter = ExporterFactory.create_exporter(args.format, events)
+exporter.export('output.' + args.format)
+
+# Show statistics
+stats = manager.calculate_statistics()
+print(f"Exported {len(events)} events")
+print(f"Top tags: {stats['tag_counts'].most_common(5)}")
+```
 
 ## Examples
 

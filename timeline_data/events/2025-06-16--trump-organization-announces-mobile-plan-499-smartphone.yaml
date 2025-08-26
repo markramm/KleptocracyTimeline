@@ -1,0 +1,25 @@
+id: 2025-06-16--trump-organization-announces-mobile-plan-499-smartphone
+date: '2025-06-16'
+title: Trump Organization announces mobile plan, $499 smartphone
+summary: The Trump Organization announced a new mobile phone offering–dubbed Trump
+  mobile–and smartphone, capitalizing on the firm’s association with the president
+description: The Trump Organization announced a new mobile phone offering–dubbed Trump
+  mobile–and smartphone, capitalizing on the firm’s association with the president
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+tags:
+- kleptocracy
+- trump-administration
+capture_type: monetizing_position
+sources:
+- title: Trump Organization announces mobile plan, $499 smartphone
+  url: https://www.cnbc.com/2025/06/16/trump-mobile-phone-plan.html
+  outlet: CNBC
+  date: '2025-06-16'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event extracted from comprehensive timeline tracking kleptocratic patterns.

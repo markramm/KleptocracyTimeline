@@ -1,0 +1,34 @@
+id: 2025-06-03--trump-s-truth-social-takes-step-toward-launching-bitcoin-etf
+date: '2025-06-03'
+title: Trump’s Truth Social takes step toward launching bitcoin ETF with NYSE Arca
+  filing
+summary: A division of the New York Stock Exchange has filed to list Trump's Truth
+  Social Bitcoin ETF, a fund launched by Trump Media and Crypto.com that is designed
+  to track the price of bitcoin
+description: A division of the New York Stock Exchange has filed to list Trump's Truth
+  Social Bitcoin ETF, a fund launched by Trump Media and Crypto.com that is designed
+  to track the price of bitcoin
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- media-control
+capture_type: monetizing_position
+sources:
+- title: Trump’s Truth Social takes step toward launching bitcoin ETF with NYSE Arca
+    filing
+  url: https://www.cnbc.com/2025/06/03/trump-truth-social-step-toward-bitcoin-etf-launch-with-new-nyse-filing.html
+  outlet: CNBC
+  date: '2025-06-03'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-06-03'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

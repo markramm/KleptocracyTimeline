@@ -1,0 +1,33 @@
+id: 2025-03-25--trump-s-crypto-empire-set-to-expand-with-new-stablecoin-and-
+date: '2025-03-25'
+title: Trump’s crypto empire set to expand with new stablecoin and investment fund
+  offerings
+summary: World Liberty Financial, a cryptocurrency venture Trump co-found last year,
+  announced Tuesday that it plans to launch USD1, a stablecoin pegged at a 1-to-1
+  ratio to the dollar
+description: World Liberty Financial, a cryptocurrency venture Trump co-found last
+  year, announced Tuesday that it plans to launch USD1, a stablecoin pegged at a 1-to-1
+  ratio to the dollar
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Trump’s crypto empire set to expand with new stablecoin and investment fund
+    offerings
+  url: https://apnews.com/article/trump-crypto-world-liberty-truth-social-etf-f11c47a99ea618aa06df4dd47b150800
+  outlet: Associated Press
+  date: '2025-03-25'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-25'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,33 @@
+id: 2025-06-05--this-is-how-much-trump-has-made-from-crypto-so-far
+date: '2025-06-05'
+title: This is how much Trump has made from crypto—so far
+summary: Trump has made $1.2 billion from cryptocurrency ventures—including NFTs,
+  $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across
+  his 2024 presidential campaign and deals in his second term
+description: Trump has made $1.2 billion from cryptocurrency ventures—including NFTs,
+  $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across
+  his 2024 presidential campaign and deals in his second term
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- regulatory-capture
+- government-contracts
+capture_type: regulatory_capture
+sources:
+- title: This is how much Trump has made from crypto—so far
+  url: https://www.forbes.com/sites/danalexander/2025/06/05/this-is-how-much-trump-has-made-from-crypto-so-far/
+  outlet: Forbes
+  date: '2025-06-05'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-06-05'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

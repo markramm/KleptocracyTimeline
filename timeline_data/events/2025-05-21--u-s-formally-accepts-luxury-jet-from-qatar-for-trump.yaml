@@ -1,0 +1,31 @@
+id: 2025-05-21--u-s-formally-accepts-luxury-jet-from-qatar-for-trump
+date: '2025-05-21'
+title: U.S. formally accepts luxury jet from Qatar for Trump
+summary: The US has accepted Qatar’s gift luxury jet on behalf of Trump, despite lacking
+  the constitutionally mandated congressional approval for taking emoluments from
+  foreign states
+description: The US has accepted Qatar’s gift luxury jet on behalf of Trump, despite
+  lacking the constitutionally mandated congressional approval for taking emoluments
+  from foreign states
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: U.S. formally accepts luxury jet from Qatar for Trump
+  url: https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html
+  outlet: New York Times
+  date: '2025-05-21'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-21'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

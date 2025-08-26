@@ -1,0 +1,33 @@
+id: 2025-04-22--trump-media-enters-deal-with-crypto-trading-platform
+date: '2025-04-22'
+title: Trump media enters deal with crypto trading platform
+summary: Trump Media entered a deal with a crypto trading platform which will allow
+  the president’s social media company to market investment products, including cryptocurrencies,
+  to retail investors through a series of exchange-traded funds
+description: Trump Media entered a deal with a crypto trading platform which will
+  allow the president’s social media company to market investment products, including
+  cryptocurrencies, to retail investors through a series of exchange-traded funds
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- media-control
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump media enters deal with crypto trading platform
+  url: https://www.nytimes.com/2025/04/22/business/trump-media-crypto.html
+  outlet: New York Times
+  date: '2025-04-22'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-22'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,32 @@
+id: 2025-02-10--early-crypto-traders-had-speedy-profit-on-trump-coin-as-othe
+date: '2025-02-10'
+title: Early crypto traders had speedy profit on Trump coin as others suffered losses
+summary: Early $TRUMP cryptocurrency insiders made millions of dollars, and Trump
+  and his family pocketed nearly $100 million in fees, while over 800,000 investors
+  lost a combined $2 billion
+description: Early $TRUMP cryptocurrency insiders made millions of dollars, and Trump
+  and his family pocketed nearly $100 million in fees, while over 800,000 investors
+  lost a combined $2 billion
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Early crypto traders had speedy profit on Trump coin as others suffered losses
+  url: https://www.nytimes.com/2025/02/09/us/politics/trump-crypto-memecoin.html
+  outlet: New York Times
+  date: '2025-02-10'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-10'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

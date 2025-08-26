@@ -1,0 +1,33 @@
+id: 2025-04-04--oligarchy-trump-exempts-big-oil-donors-from-tariffs-package
+date: '2025-04-04'
+title: '‘Oligarchy’: Trump exempts big oil donors from tariffs package'
+summary: Trump’s sweeping 10% universal tariffs unveiled Wednesday exempt many fossil
+  fuel products—including LNG imports, Canadian crude, and petrochemical inputs—which
+  came after the fossil fuel industry contributed $96 million to Trump’s re-election
+  effort
+description: Trump’s sweeping 10% universal tariffs unveiled Wednesday exempt many
+  fossil fuel products—including LNG imports, Canadian crude, and petrochemical inputs—which
+  came after the fossil fuel industry contributed $96 million to Trump’s re-election
+  effort
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: '‘Oligarchy’: Trump exempts big oil donors from tariffs package'
+  url: https://www.theguardian.com/us-news/2025/apr/04/trump-exempts-big-oil-donors-from-tariffs
+  outlet: The Guardian
+  date: '2025-04-04'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-04'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

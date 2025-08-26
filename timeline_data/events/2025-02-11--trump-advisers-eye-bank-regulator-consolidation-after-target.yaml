@@ -1,0 +1,31 @@
+id: 2025-02-11--trump-advisers-eye-bank-regulator-consolidation-after-target
+date: '2025-02-11'
+title: Trump advisers eye bank regulator consolidation after targeting CFPB
+summary: Trump plans to merge the Federal Deposit Insurance Corporation (FDIC) and
+  the Office of the Comptroller of the Currency (OCC) under the Treasury Department,
+  bypassing Congress
+description: Trump plans to merge the Federal Deposit Insurance Corporation (FDIC)
+  and the Office of the Comptroller of the Currency (OCC) under the Treasury Department,
+  bypassing Congress
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+capture_type: regulatory_capture
+sources:
+- title: Trump advisers eye bank regulator consolidation after targeting CFPB
+  url: https://www.wsj.com/finance/regulation/trump-advisers-eye-bank-regulator-consolidation-after-targeting-cfpb-85055a2e?mod=hp_lead_pos3
+  outlet: Wall Street Journal
+  date: '2025-02-11'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-11'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

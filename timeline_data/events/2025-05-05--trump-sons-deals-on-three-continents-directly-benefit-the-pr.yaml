@@ -1,0 +1,32 @@
+id: 2025-05-05--trump-sons-deals-on-three-continents-directly-benefit-the-pr
+date: '2025-05-05'
+title: Trump sons’ deals on three continents directly benefit the president
+summary: Over the last two weeks, Donald Trump Jr. and Eric Trump have traveled the
+  world, announcing real estate, cryptocurrency, and other ventures involving billions
+  of dollars that enrich not only themselves, but also the president
+description: Over the last two weeks, Donald Trump Jr. and Eric Trump have traveled
+  the world, announcing real estate, cryptocurrency, and other ventures involving
+  billions of dollars that enrich not only themselves, but also the president
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump sons’ deals on three continents directly benefit the president
+  url: https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html
+  outlet: New York Times
+  date: '2025-05-05'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-05'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

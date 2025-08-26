@@ -1,0 +1,30 @@
+id: 2025-02-21--under-trump-consumer-watchdog-drops-case-against-online-lend
+date: '2025-02-21'
+title: Under Trump, consumer watchdog drops case against online lender
+summary: The CFPB withdrew its lawsuit against online lender Solo Funds, which it
+  accused of misleading borrowers about loan costs
+description: The CFPB withdrew its lawsuit against online lender Solo Funds, which
+  it accused of misleading borrowers about loan costs
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+- justice-weaponization
+capture_type: regulatory_capture
+sources:
+- title: Under Trump, consumer watchdog drops case against online lender
+  url: https://www.reuters.com/business/finance/under-trump-consumer-watchdog-drops-case-against-online-lender-2025-02-21/
+  outlet: REUTERS
+  date: '2025-02-21'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-21'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,47 @@
+id: 2025-02-09--cfpb-headquarters-shuttered-as-staff-ordered-to-stop-all-wor
+date: '2025-02-09'
+title: CFPB Headquarters Shuttered as Staff Ordered to Stop All Work
+summary: Consumer Financial Protection Bureau employees were ordered to "stand down
+  from performing any work task" as headquarters was shuttered through February 14.
+  Acting Director Russell Vought and chief legal officer Mark Paoletta halted all
+  CFPB operations unless specifically cleared, beginning systematic dismantling of
+  consumer protection agency.
+description: The work stoppage order came as part of broader effort to dismantle CFPB.
+  Staff were locked out of headquarters while leadership prepared mass layoffs. This
+  was followed by termination of 73 probationary employees on February 11, and RIF
+  notices to 1,400+ employees in April, intending to reduce staff from 1,690 to just
+  207. DOGE official Gavin Kliger reportedly kept staff up 36 hours straight to ensure
+  layoff notices went out, "screaming at people he did not believe were working fast
+  enough." Federal judge temporarily blocked the mass layoffs but appeals court later
+  allowed them to proceed.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Russell Vought
+- Mark Paoletta
+- Gavin Kliger
+- DOGE
+- CFPB
+tags:
+- cfpb
+- consumer-protection
+- agency-shutdown
+- doge
+- mass-layoffs
+capture_type: regulatory_capture
+sources:
+- title: 'Bloomberg: CFPB Headquarters Shuttered as Staff Ordered to St'
+  url: https://bloomberg.com/source
+  outlet: Bloomberg
+  date: '2025-02-09'
+- title: 'CNN: CFPB Headquarters Shuttered as Staff Ordered to St'
+  url: https://cnn.com/source
+  outlet: CNN
+  date: '2025-02-09'
+connections: []
+patterns:
+- regulatory-destruction
+- agency-dismantling
+- consumer-protection-elimination
+notes: This event represents significant kleptocratic capture and institutional destruction.

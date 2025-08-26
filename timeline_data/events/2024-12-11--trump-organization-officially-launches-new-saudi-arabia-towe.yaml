@@ -1,0 +1,25 @@
+id: 2024-12-11--trump-organization-officially-launches-new-saudi-arabia-towe
+date: '2024-12-11'
+title: Trump organization officially launches new Saudi Arabia tower
+summary: Eric Trump announced the Trump Organization's first-ever Saudi Arabia project—a
+  47-story Trump tower in Jeddeh
+description: Eric Trump announced the Trump Organization's first-ever Saudi Arabia
+  project—a 47-story Trump tower in Jeddeh
+status: confirmed
+importance: 5
+location: Washington, D.C.
+actors:
+- Eric Trump
+- Donald Trump
+tags:
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: Trump organization officially launches new Saudi Arabia tower
+  url: https://thehill.com/policy/international/5035089-trump-organization-officially-launches-new-saudi-arabia-tower/
+  outlet: DarGlobal
+  date: '2024-12-11'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event extracted from comprehensive timeline tracking kleptocratic patterns.

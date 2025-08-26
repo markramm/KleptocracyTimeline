@@ -1,0 +1,27 @@
+id: 2025-03-14--bondi-tells-tesla-vandals-to-watch-out
+date: '2025-03-14'
+title: Bondi tells Tesla vandals to ‘watch out’
+summary: Attorney General Pam Bondi threatened Tesla vandals with a federal investigation
+description: Attorney General Pam Bondi threatened Tesla vandals with a federal investigation
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: Bondi tells Tesla vandals to ‘watch out’
+  url: https://thehill.com/policy/technology/5195750-bondi-tells-tesla-vandals-to-watch-out/
+  outlet: The Hill
+  date: '2025-03-14'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-14'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

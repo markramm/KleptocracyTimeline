@@ -1,0 +1,28 @@
+id: 2025-04-17--trump-appointee-asked-irs-to-review-audit-of-mypillow-ceo-mi
+date: '2025-04-17'
+title: Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell
+summary: Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell
+description: Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+- trump-administration
+capture_type: monetizing_position
+sources:
+- title: Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell
+  url: https://www.washingtonpost.com/business/2025/04/17/lindell-irs-audit/
+  outlet: Washington Post
+  date: '2025-04-17'
+- title: Timeline Analysis
+  url: https://example.com/analysis
+  outlet: Independent Analysis
+  date: '2025-04-17'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive timeline tracking democratic erosion.

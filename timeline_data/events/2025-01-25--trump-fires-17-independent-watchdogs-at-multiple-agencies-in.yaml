@@ -1,0 +1,27 @@
+id: 2025-01-25--trump-fires-17-independent-watchdogs-at-multiple-agencies-in
+date: '2025-01-25'
+title: Trump fires 17 independent watchdogs at multiple agencies in late-night move
+summary: Trump fired at least 17 Inspectors General across multiple federal agencies
+description: Trump fired at least 17 Inspectors General across multiple federal agencies
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: personnel_rewiring
+sources:
+- title: Trump fires 17 independent watchdogs at multiple agencies in late-night move
+  url: https://abcnews.go.com/Politics/trump-fires-17-independent-watchdogs-multiple-agencies-late/story?id=118097873
+  outlet: ABC News
+  date: '2025-01-25'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-01-25'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

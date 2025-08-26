@@ -1,0 +1,34 @@
+id: 2025-05-14--musk-adviser-may-make-as-much-as-1-million-a-year-while-help
+date: '2025-05-14'
+title: Musk adviser may make as much as $1 million a year while helping to dismantle
+  agency that regulates Tesla and X
+summary: DOGE operative Chris Young worked to gut the CFPB–which has jurisdiction
+  over Tesla and X–while also on Elon Musk’s payroll as a “political advisor,” earning
+  up to $1 million annually
+description: DOGE operative Chris Young worked to gut the CFPB–which has jurisdiction
+  over Tesla and X–while also on Elon Musk’s payroll as a “political advisor,” earning
+  up to $1 million annually
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+- government-contracts
+capture_type: regulatory_capture
+sources:
+- title: 'Musk adviser may make as much as $1 million a year while helping to dismantle
+    agency that regulates '
+  url: https://www.propublica.org/article/doge-elon-musk-chris-young-cfpb-tesla-x
+  outlet: ProPublica
+  date: '2025-05-14'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-14'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

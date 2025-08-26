@@ -1,0 +1,34 @@
+id: 2025-05-29--sec-dismisses-lawsuit-against-binance
+date: '2025-05-29'
+title: SEC dismisses lawsuit against Binance
+summary: The SEC dismissed its lawsuit against Binance after the crypto exchange platform
+  accepted $2 billion worth of Trump's USD1 stablecoin in a transaction with state-backed
+  Emirati investment firm MGX
+description: The SEC dismissed its lawsuit against Binance after the crypto exchange
+  platform accepted $2 billion worth of Trump's USD1 stablecoin in a transaction with
+  state-backed Emirati investment firm MGX
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- regulatory-capture
+- government-contracts
+- justice-weaponization
+capture_type: regulatory_capture
+sources:
+- title: SEC dismisses lawsuit against Binance
+  url: https://www.wsj.com/finance/currencies/sec-dismisses-lawsuit-against-binance-cce1dcae?mod=hp_listb_pos3
+  outlet: Wall Street Journal
+  date: '2025-05-29'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-29'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

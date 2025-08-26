@@ -95,6 +95,25 @@ timeline_data/validation_status.json
 timeline_data/archive_progress_slow.json
 importance_distribution.json
 
+# Script-generated exports
+timeline_events.csv
+timeline_events.json
+timeline_events.yaml
+timeline_events_minimal.yaml
+duplicates.json
+duplicates_to_remove.txt
+/viewer/public/timeline_events.csv
+/viewer/public/timeline_events.json  
+/viewer/public/timeline_events.yaml
+/viewer/public/timeline_events_minimal.yaml
+
+# Temporary processing files
+process_*.py
+*_temp.py
+*_backup.py
+events_to_process.txt
+missing_events.txt
+
 # Database
 *.sqlite
 *.sqlite3

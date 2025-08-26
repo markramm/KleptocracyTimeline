@@ -1,0 +1,31 @@
+id: 2025-03-31--zuckerberg-tries-to-enlist-trump-in-fight-against-meta-eu-ru
+date: '2025-03-31'
+title: Zuckerberg tries to enlist trump in fight against Meta EU ruling
+summary: Meta CEO Mark Zuckerberg is lobbying Trump to intervene against an impending
+  European Union ruling that could fine Meta and force it to offer Facebook and Instagram
+  without personalized ads
+description: Meta CEO Mark Zuckerberg is lobbying Trump to intervene against an impending
+  European Union ruling that could fine Meta and force it to offer Facebook and Instagram
+  without personalized ads
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- media-control
+capture_type: monetizing_position
+sources:
+- title: Zuckerberg tries to enlist trump in fight against Meta EU ruling
+  url: https://www.wsj.com/tech/meta-eu-ruling-trump-zuckerberg-f6bc593a?mod=hp_lead_pos3
+  outlet: Wall Street Journal
+  date: '2025-03-31'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

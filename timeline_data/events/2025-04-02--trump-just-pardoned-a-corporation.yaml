@@ -1,0 +1,33 @@
+id: 2025-04-02--trump-just-pardoned-a-corporation
+date: '2025-04-02'
+title: Trump just pardoned...a corporation?
+summary: Trump issued a full pardon to HDR Global Trading, the parent company of crypto
+  exchange BitMEX, which had pleaded guilty to violating anti-money laundering laws
+  and was fined $100 million
+description: Trump issued a full pardon to HDR Global Trading, the parent company
+  of crypto exchange BitMEX, which had pleaded guilty to violating anti-money laundering
+  laws and was fined $100 million
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- pardons
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump just pardoned...a corporation?
+  url: https://theintercept.com/2025/04/02/trump-pardons-corporation-bitmex-crypto/
+  outlet: The Intercept
+  date: '2025-04-02'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-02'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

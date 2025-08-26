@@ -1,0 +1,29 @@
+id: 2025-02-19--these-are-the-spacex-engineers-already-working-inside-the-fa
+date: '2025-02-19'
+title: These are the SpaceX engineers already working Inside the FAA
+summary: Contrary to reports that they were merely touring the FAA, several SpaceX
+  operatives have been formally onboarded to the agency
+description: Contrary to reports that they were merely touring the FAA, several SpaceX
+  operatives have been formally onboarded to the agency
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: regulatory_capture
+sources:
+- title: These are the SpaceX engineers already working Inside the FAA
+  url: https://www.wired.com/story/faa-doge-elon-musk-space-x/?utm_content=bufferce958&utm_medium=social&utm_source=twitter&utm_campaign=aud-dev
+  outlet: Wired
+  date: '2025-02-19'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-19'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

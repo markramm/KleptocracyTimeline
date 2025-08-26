@@ -1,0 +1,29 @@
+id: 2025-02-26--trump-order-calls-for-creation-of-doge-linked-agency-payment
+date: '2025-02-26'
+title: Trump order calls for creation of DOGE-linked agency payment-tracking systems
+summary: Trump signed an executive order forcing agencies to use unauthorized DOGE
+  IT systems to track all federal contracts, grants, and expenditures
+description: Trump signed an executive order forcing agencies to use unauthorized
+  DOGE IT systems to track all federal contracts, grants, and expenditures
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: regulatory_capture
+sources:
+- title: Trump order calls for creation of DOGE-linked agency payment-tracking systems
+  url: https://fedscoop.com/doge-payment-tracking-systems-agencies-trump-order/
+  outlet: Fed Scoop
+  date: '2025-02-26'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-26'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

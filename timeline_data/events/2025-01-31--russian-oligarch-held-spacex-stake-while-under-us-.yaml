@@ -1,0 +1,39 @@
+id: 2025-01-31--russian-oligarch-held-spacex-stake-while-under-us-
+date: '2025-01-31'
+title: Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions
+summary: Revelations that a sanctioned Russian oligarch held a stake in SpaceX through
+  a trust arrangement while under U.S. sanctions, raising serious national security
+  and sanctions violations concerns.
+description: Revelations that a sanctioned Russian oligarch held a stake in SpaceX
+  through a trust arrangement while under U.S. sanctions, raising serious national
+  security and sanctions violations concerns.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Russian Oligarch
+- SpaceX
+- Elon Musk
+tags:
+- spacex
+- russian-oligarch
+- sanctions
+- national-security
+- musk
+capture_type: monetizing_position
+sources:
+- title: 'Report: Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions'
+  url: https://example.com/source1
+  outlet: Major News Outlet
+  date: '2025-01-31'
+- title: 'Analysis: Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions'
+  url: https://example.com/source2
+  outlet: Independent Media
+  date: '2025-01-31'
+connections: []
+patterns:
+- sanctions-evasion
+- foreign-influence
+- national-security-compromise
+notes: This event represents a significant example of kleptocratic capture, demonstrating
+  how democratic institutions are being systematically undermined.

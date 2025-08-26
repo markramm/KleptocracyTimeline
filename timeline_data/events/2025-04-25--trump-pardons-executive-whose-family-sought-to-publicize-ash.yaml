@@ -1,0 +1,32 @@
+id: 2025-04-25--trump-pardons-executive-whose-family-sought-to-publicize-ash
+date: '2025-04-25'
+title: Trump pardons executive whose family sought to publicize Ashley Biden’s diary
+summary: Trump pardoned Paul Walczak, a Florida executive convicted of tax fraud,
+  just two weeks after being sentenced. Walczak’s mother, a GOP donor, helped spread
+  Ashley Biden’s stolen diary to benefit Trump’s 2020 campaign
+description: Trump pardoned Paul Walczak, a Florida executive convicted of tax fraud,
+  just two weeks after being sentenced. Walczak’s mother, a GOP donor, helped spread
+  Ashley Biden’s stolen diary to benefit Trump’s 2020 campaign
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- corruption
+- pardons
+capture_type: monetizing_position
+sources:
+- title: Trump pardons executive whose family sought to publicize Ashley Biden’s diary
+  url: https://www.nytimes.com/2025/04/25/us/politics/trump-pardon-walczak-ashley-biden-diary.html
+  outlet: New York Times
+  date: '2025-04-25'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-25'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,30 @@
+id: 2025-05-28--donald-trump-pardons-former-republican-rep-michael-grimm-for
+date: '2025-05-28'
+title: Donald Trump pardons former Republican Rep. Michael Grimm for tax fraud conviction
+summary: Trump pardoned another political ally, former Republican Representative Michael
+  Grimm, for his 2014 tax fraud conviction
+description: Trump pardoned another political ally, former Republican Representative
+  Michael Grimm, for his 2014 tax fraud conviction
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- corruption
+- pardons
+capture_type: monetizing_position
+sources:
+- title: Donald Trump pardons former Republican Rep. Michael Grimm for tax fraud conviction
+  url: https://www.usatoday.com/story/news/politics/2025/05/28/trump-pardons-michael-grimm/83906892007/?tbref=hp
+  outlet: USA Today
+  date: '2025-05-28'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-28'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

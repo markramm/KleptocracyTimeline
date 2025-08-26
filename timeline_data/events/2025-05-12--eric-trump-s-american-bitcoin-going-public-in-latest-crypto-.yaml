@@ -1,0 +1,35 @@
+id: 2025-05-12--eric-trump-s-american-bitcoin-going-public-in-latest-crypto-
+date: '2025-05-12'
+title: Eric Trump’s American Bitcoin going public in latest crypto move by president’s
+  family
+summary: Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin,
+  went public through its merger with Gryphon Digital Mining. The company's public
+  shares will serve as yet another vehicle for purchasing influence with the Trump
+  family
+description: Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin,
+  went public through its merger with Gryphon Digital Mining. The company's public
+  shares will serve as yet another vehicle for purchasing influence with the Trump
+  family
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Eric Trump’s American Bitcoin going public in latest crypto move by president’s
+    family
+  url: https://www.cnbc.com/2025/05/12/eric-trump-american-bitcoin-public.html
+  outlet: CNBC
+  date: '2025-05-12'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-12'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

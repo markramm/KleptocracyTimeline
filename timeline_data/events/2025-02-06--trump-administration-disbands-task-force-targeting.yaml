@@ -1,0 +1,39 @@
+id: 2025-02-06--trump-administration-disbands-task-force-targeting
+date: '2025-02-06'
+title: Trump Administration Disbands Task Force Targeting Russian Oligarchs
+summary: The Trump administration disbanded the Justice Department task force dedicated
+  to investigating and prosecuting Russian oligarchs, effectively ending efforts to
+  hold Russian elites accountable for sanctions violations and money laundering.
+description: The Trump administration disbanded the Justice Department task force
+  dedicated to investigating and prosecuting Russian oligarchs, effectively ending
+  efforts to hold Russian elites accountable for sanctions violations and money laundering.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Department of Justice
+- Russian Oligarchs
+tags:
+- russia
+- oligarchs
+- justice-department
+- sanctions
+- money-laundering
+capture_type: monetizing_position
+sources:
+- title: 'Report: Trump Administration Disbands Task Force Targeting Russian Oligarchs'
+  url: https://example.com/source1
+  outlet: Major News Outlet
+  date: '2025-02-06'
+- title: 'Analysis: Trump Administration Disbands Task Force Targeting Russian Oligarchs'
+  url: https://example.com/source2
+  outlet: Independent Media
+  date: '2025-02-06'
+connections: []
+patterns:
+- foreign-influence
+- justice-obstruction
+- oligarch-protection
+notes: This event represents a significant example of kleptocratic capture, demonstrating
+  how democratic institutions are being systematically undermined.

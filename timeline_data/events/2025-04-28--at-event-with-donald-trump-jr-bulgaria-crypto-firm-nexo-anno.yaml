@@ -1,0 +1,31 @@
+id: 2025-04-28--at-event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-anno
+date: '2025-04-28'
+title: At event with Donald Trump Jr., Bulgaria crypto firm Nexo announces US return
+summary: Cryptocurrency firm Nexo Capital announced its plans to re-enter the American
+  market–after “productive” talks with American regulators–at a conference it hosted
+  in Bulgaria where Donald Trump Jr. was the keynote speaker
+description: Cryptocurrency firm Nexo Capital announced its plans to re-enter the
+  American market–after “productive” talks with American regulators–at a conference
+  it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: At event with Donald Trump Jr., Bulgaria crypto firm Nexo announces US return
+  url: https://www.reuters.com/sustainability/boards-policy-regulation/event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-announces-us-return-2025-04-28/
+  outlet: REUTERS
+  date: '2025-04-28'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-28'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

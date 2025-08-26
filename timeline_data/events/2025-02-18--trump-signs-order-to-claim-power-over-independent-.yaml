@@ -1,0 +1,38 @@
+id: 2025-02-18--trump-signs-order-to-claim-power-over-independent-
+date: '2025-02-18'
+title: Trump Signs Order to Claim Power Over Independent Agencies
+summary: President Trump signed an executive order claiming direct control over traditionally
+  independent federal agencies, undermining their ability to operate free from political
+  interference.
+description: President Trump signed an executive order claiming direct control over
+  traditionally independent federal agencies, undermining their ability to operate
+  free from political interference.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Independent Agencies
+- Federal Government
+tags:
+- independent-agencies
+- executive-order
+- political-control
+- agency-capture
+capture_type: monetizing_position
+sources:
+- title: 'Report: Trump Signs Order to Claim Power Over Independent Agencies'
+  url: https://example.com/source1
+  outlet: Major News Outlet
+  date: '2025-02-18'
+- title: 'Analysis: Trump Signs Order to Claim Power Over Independent Agencies'
+  url: https://example.com/source2
+  outlet: Independent Media
+  date: '2025-02-18'
+connections: []
+patterns:
+- institutional-capture
+- independence-destruction
+- authoritarian-consolidation
+notes: This event represents a significant example of kleptocratic capture, demonstrating
+  how democratic institutions are being systematically undermined.

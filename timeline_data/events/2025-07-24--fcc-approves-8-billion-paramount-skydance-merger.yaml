@@ -1,0 +1,33 @@
+id: 2025-07-24--fcc-approves-8-billion-paramount-skydance-merger
+date: '2025-07-24'
+title: FCC approves $8 billion Paramount-Skydance merger
+summary: The FCC approved Paramount’s merger deal with Skydance—after the media company
+  paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show
+  with Stephen Colbert
+description: The FCC approved Paramount’s merger deal with Skydance—after the media
+  company paid Trump $16 million to settle his frivolous lawsuit and canceled The
+  Late Show with Stephen Colbert
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- media-control
+- government-contracts
+- justice-weaponization
+capture_type: monetizing_position
+sources:
+- title: FCC approves $8 billion Paramount-Skydance merger
+  url: https://www.cnbc.com/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger.html
+  outlet: CNBC
+  date: '2025-07-24'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-07-24'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

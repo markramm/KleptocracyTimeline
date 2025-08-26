@@ -1,0 +1,31 @@
+id: 2025-03-07--us-okays-higher-power-cellphone-service-musks-starlink-despi
+date: '2025-03-07'
+title: US okays higher power cellphone service Musks Starlink despite objections
+summary: The FCC granted Starlink, Elon Musk’s satellite internet service, approval
+  to operate a high-power direct-to-cell service with T-Mobile, overriding objections
+  from AT&T and Verizon
+description: The FCC granted Starlink, Elon Musk’s satellite internet service, approval
+  to operate a high-power direct-to-cell service with T-Mobile, overriding objections
+  from AT&T and Verizon
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: US okays higher power cellphone service Musks Starlink despite objections
+  url: https://www.reuters.com/business/media-telecom/us-okays-higher-power-cellphone-service-musks-starlink-despite-objections-2025-03-07/
+  outlet: REUTERS
+  date: '2025-03-07'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-07'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

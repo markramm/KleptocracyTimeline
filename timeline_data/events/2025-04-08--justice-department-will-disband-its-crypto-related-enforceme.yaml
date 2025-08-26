@@ -1,0 +1,34 @@
+id: 2025-04-08--justice-department-will-disband-its-crypto-related-enforceme
+date: '2025-04-08'
+title: Justice Department will disband its crypto-related enforcement team
+summary: The Justice Department announced it will immediately disband its National
+  Cryptocurrency Enforcement Team, ending efforts to prosecute complex crypto-related
+  crimes involving financial regulations
+description: The Justice Department announced it will immediately disband its National
+  Cryptocurrency Enforcement Team, ending efforts to prosecute complex crypto-related
+  crimes involving financial regulations
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- media-control
+- regulatory-capture
+- justice-weaponization
+capture_type: regulatory_capture
+sources:
+- title: Justice Department will disband its crypto-related enforcement team
+  url: https://apnews.com/article/justice-department-crypto-enforcement-trump-blanche-265c91c32e5fab22fb09ba8449a0aec6
+  outlet: Associated Press
+  date: '2025-04-08'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-08'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

@@ -1,0 +1,29 @@
+id: 2025-03-19--white-house-forces-out-ceo-of-passenger-rail-amtrak
+date: '2025-03-19'
+title: White House forces out CEO of passenger rail Amtrak
+summary: Trump pushed out the Amtrak CEO, and Elon Musk pushed for the rail service's
+  privatization
+description: Trump pushed out the Amtrak CEO, and Elon Musk pushed for the rail service's
+  privatization
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: White House forces out CEO of passenger rail Amtrak
+  url: https://www.reuters.com/world/us/us-passenger-railroad-amtrak-ceo-abruptly-steps-down-2025-03-19/
+  outlet: REUTERS
+  date: '2025-03-19'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-19'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

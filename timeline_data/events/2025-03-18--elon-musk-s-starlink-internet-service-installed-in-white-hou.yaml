@@ -1,0 +1,29 @@
+id: 2025-03-18--elon-musk-s-starlink-internet-service-installed-in-white-hou
+date: '2025-03-18'
+title: Elon Musk’s Starlink internet service installed in White House
+summary: Elon Musk’s Starlink was installed at the White House despite the security
+  risks the service poses
+description: Elon Musk’s Starlink was installed at the White House despite the security
+  risks the service poses
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+capture_type: regulatory_capture
+sources:
+- title: Elon Musk’s Starlink internet service installed in White House
+  url: https://www.theguardian.com/us-news/2025/mar/18/musk-starlink-internet-white-house
+  outlet: The Guardian
+  date: '2025-03-18'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-18'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

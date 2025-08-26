@@ -1,0 +1,29 @@
+id: 2025-05-02--nasa-proposal-would-shift-agency-s-focus-away-from-space-sci
+date: '2025-05-02'
+title: NASA proposal would shift agency’s focus away from space science
+summary: NASA is slashing its budget in favor of shifting resources towards Mars exploration,
+  a long time goal of Elon Musk and potentially very lucrative for SpaceX
+description: NASA is slashing its budget in favor of shifting resources towards Mars
+  exploration, a long time goal of Elon Musk and potentially very lucrative for SpaceX
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: regulatory_capture
+sources:
+- title: NASA proposal would shift agency’s focus away from space science
+  url: https://www.nytimes.com/2025/05/02/us/politics/trump-budget-nasa-cuts.html
+  outlet: New York Times
+  date: '2025-05-02'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-02'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

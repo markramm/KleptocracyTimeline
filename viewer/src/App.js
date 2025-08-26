@@ -9,6 +9,7 @@ import StatsPanel from './components/StatsPanel';
 import SearchBar from './components/SearchBar';
 import ViewToggle from './components/ViewToggle';
 import NetworkGraph from './components/NetworkGraph';
+import DownloadMenu from './components/DownloadMenu';
 import { API_ENDPOINTS, transformStaticData } from './config';
 import { useUrlState } from './hooks/useUrlState';
 import { shareEvent, shareFilteredView } from './utils/shareUtils';
@@ -490,12 +491,24 @@ function App() {
               className="icon-button"
               onClick={() => {
                 navigator.clipboard.writeText(window.location.href);
-                // Could add a toast notification here
+                setShareNotification({ message: 'Link copied to clipboard!', type: 'success' });
+                setTimeout(() => setShareNotification(null), 3000);
               }}
               title="Copy link to share this view"
             >
               <Share2 size={20} />
             </button>
+            
+            <DownloadMenu 
+              onDownload={(format) => {
+                trackEvent(AnalyticsEvents.EXPORT_DATA, { format });
+                setShareNotification({ 
+                  message: `Timeline exported as ${format.toUpperCase()}`, 
+                  type: 'success' 
+                });
+                setTimeout(() => setShareNotification(null), 3000);
+              }}
+            />
           </div>
           
           <button 

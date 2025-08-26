@@ -1,0 +1,27 @@
+id: 2025-03-19--donald-trump-jr-mixes-business-and-politics-in-serbia-as-pro
+date: '2025-03-19'
+title: Donald Trump Jr. mixes business and politics in Serbia, as protests there rage
+summary: Donald Trump Jr. visited Serbia in a push to support embattled President
+  Vucic amid a $500 million Trump hotel project in Belgrade
+description: Donald Trump Jr. visited Serbia in a push to support embattled President
+  Vucic amid a $500 million Trump hotel project in Belgrade
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- corruption
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: Donald Trump Jr. mixes business and politics in Serbia, as protests there
+    rage
+  url: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html
+  outlet: New York Times
+  date: '2025-03-19'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: High-priority kleptocratic event from comprehensive timeline.

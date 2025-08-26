@@ -1,0 +1,30 @@
+id: 2025-07-31--the-inside-story-of-eric-trump-s-american-bitcoin
+date: '2025-07-31'
+title: The inside story of Eric Trump’s American Bitcoin
+summary: American Bitcoin, Eric Trump’s crypto venture, has raised $220 million to
+  build a massive US bitcoin reserve after launching late last year
+description: American Bitcoin, Eric Trump’s crypto venture, has raised $220 million
+  to build a massive US bitcoin reserve after launching late last year
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: The inside story of Eric Trump’s American Bitcoin
+  url: https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/?_sp=2b1cc2c7-616d-43f0-a3cf-b711e5b3432b.1754433047130
+  outlet: Wired
+  date: '2025-07-31'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-07-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

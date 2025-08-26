@@ -1,0 +1,35 @@
+id: 2025-03-28--trump-pardons-four-founders-of-bitmex-cryptocurrency-exchang
+date: '2025-03-28'
+title: Trump pardons four founders of BitMEX cryptocurrency exchange convicted of
+  money laundering
+summary: Trump has granted full pardons to BitMEX co-founders Arthur Hayes, Benjamin
+  Delo, and Samuel Reed, who were convicted of violating the Bank Secrecy Act for
+  failing to implement anti-money laundering controls
+description: Trump has granted full pardons to BitMEX co-founders Arthur Hayes, Benjamin
+  Delo, and Samuel Reed, who were convicted of violating the Bank Secrecy Act for
+  failing to implement anti-money laundering controls
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- pardons
+- regulatory-capture
+capture_type: regulatory_capture
+sources:
+- title: Trump pardons four founders of BitMEX cryptocurrency exchange convicted of
+    money laundering
+  url: https://www.usatoday.com/story/news/politics/2025/03/28/trump-pardons-three-founders-bitmex-cryptocurrency/82708964007/?tbref=hp
+  outlet: USA Today
+  date: '2025-03-28'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-28'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

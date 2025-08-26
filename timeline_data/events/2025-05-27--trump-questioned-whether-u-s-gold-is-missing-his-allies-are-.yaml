@@ -1,0 +1,27 @@
+id: 2025-05-27--trump-questioned-whether-u-s-gold-is-missing-his-allies-are-
+date: '2025-05-27'
+title: Trump questioned whether U.S. gold is missing. His allies are trying to cash
+  in
+summary: Trump pushed a conspiracy theory about US gold missing from Fort Knox, which
+  his allies used to sell gold investment
+description: Trump pushed a conspiracy theory about US gold missing from Fort Knox,
+  which his allies used to sell gold investment
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+tags:
+- kleptocracy
+- trump-administration
+capture_type: monetizing_position
+sources:
+- title: Trump questioned whether U.S. gold is missing. His allies are trying to cash
+    in
+  url: https://www.nytimes.com/interactive/2025/05/27/us/trump-fort-knox-gold.html
+  outlet: New York Times
+  date: '2025-05-27'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event extracted from comprehensive timeline tracking kleptocratic patterns.

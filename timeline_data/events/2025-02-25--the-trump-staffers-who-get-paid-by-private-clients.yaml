@@ -1,0 +1,31 @@
+id: 2025-02-25--the-trump-staffers-who-get-paid-by-private-clients
+date: '2025-02-25'
+title: The Trump staffers who get paid by private clients
+summary: Key Trump officials, including Elon Musk and top aides, are operating as
+  "Special Government Employees,” allowing them to work for both the government and
+  private clients
+description: Key Trump officials, including Elon Musk and top aides, are operating
+  as "Special Government Employees,” allowing them to work for both the government
+  and private clients
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: The Trump staffers who get paid by private clients
+  url: https://www.wsj.com/politics/policy/trump-administration-special-government-employees-75b2b6e5?mod=politics_lead_pos2
+  outlet: Wall Street Journal
+  date: '2025-02-25'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-25'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

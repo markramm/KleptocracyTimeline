@@ -1,0 +1,32 @@
+id: 2025-05-13--tiny-company-with-china-ties-announces-big-purchase-of-trump
+date: '2025-05-13'
+title: Tiny company with China ties announces big purchase of Trump cryptocurrency
+summary: A small, shadowy technology company with ties to China announced it had secured
+  funding to purchase up to $300 million in Trump's memecoin
+description: A small, shadowy technology company with ties to China announced it had
+  secured funding to purchase up to $300 million in Trump's memecoin
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- foreign-influence
+- regulatory-capture
+- government-contracts
+capture_type: regulatory_capture
+sources:
+- title: Tiny company with China ties announces big purchase of Trump cryptocurrency
+  url: https://www.nytimes.com/2025/05/13/us/politics/trump-crypto-purchase.html
+  outlet: New York Times
+  date: '2025-05-13'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-13'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

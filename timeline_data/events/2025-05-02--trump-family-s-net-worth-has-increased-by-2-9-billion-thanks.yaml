@@ -1,0 +1,37 @@
+id: 2025-05-02--trump-family-s-net-worth-has-increased-by-2-9-billion-thanks
+date: '2025-05-02'
+title: Trump family's net worth has increased by $2.9 billion thanks to crypto investments,
+  new report says
+summary: The Trump family net worth has increased by $2.9 billion on the back of their
+  several cryptocurrency ventures, including memecoin launches from the president
+  and first lady and deals with foreign crypto firms, as the administration rolled
+  back industry regulations
+description: The Trump family net worth has increased by $2.9 billion on the back
+  of their several cryptocurrency ventures, including memecoin launches from the president
+  and first lady and deals with foreign crypto firms, as the administration rolled
+  back industry regulations
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- foreign-influence
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump family's net worth has increased by $2.9 billion thanks to crypto investments,
+    new report says
+  url: https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/
+  outlet: CBS News
+  date: '2025-05-02'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-02'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

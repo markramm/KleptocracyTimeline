@@ -1,0 +1,29 @@
+id: 2025-03-23--white-house-invites-a-new-guest-to-its-easter-event-corporat
+date: '2025-03-23'
+title: 'White House invites a new guest to Its easter event: corporate sponsors'
+summary: Trump turns White House Easter egg hunt into corporate forum for $200,000
+  branding deals and other exclusive perks
+description: Trump turns White House Easter egg hunt into corporate forum for $200,000
+  branding deals and other exclusive perks
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: 'White House invites a new guest to Its easter event: corporate sponsors'
+  url: https://www.nytimes.com/2025/03/23/us/politics/trump-easter-egg-roll-sponsors.html
+  outlet: New York Times
+  date: '2025-03-23'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-23'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

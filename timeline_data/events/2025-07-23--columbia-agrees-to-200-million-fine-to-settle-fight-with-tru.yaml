@@ -1,0 +1,34 @@
+id: 2025-07-23--columbia-agrees-to-200-million-fine-to-settle-fight-with-tru
+date: '2025-07-23'
+title: Columbia agrees to $200 million fine to settle fight with Trump
+summary: Trump Media and Technology Group purchased $2 billion worth of bitcoin and
+  related securities in an effort to become a crypto treasury company– –joining other
+  Trump-family linked businesses pursuing the same strategy
+description: Trump Media and Technology Group purchased $2 billion worth of bitcoin
+  and related securities in an effort to become a crypto treasury company– –joining
+  other Trump-family linked businesses pursuing the same strategy
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- media-control
+- regulatory-capture
+- government-contracts
+capture_type: regulatory_capture
+sources:
+- title: Columbia agrees to $200 million fine to settle fight with Trump
+  url: https://www.nytimes.com/2025/07/23/nyregion/columbia-trump-funding-deal.html
+  outlet: New York Times
+  date: '2025-07-23'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-07-23'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

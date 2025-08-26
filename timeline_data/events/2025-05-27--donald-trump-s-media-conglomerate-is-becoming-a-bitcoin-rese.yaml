@@ -1,0 +1,34 @@
+id: 2025-05-27--donald-trump-s-media-conglomerate-is-becoming-a-bitcoin-rese
+date: '2025-05-27'
+title: Donald Trump’s media conglomerate is becoming a bitcoin reserve
+summary: Trump Media planned to raise $2.5 billion in equity and debt to build a massive
+  bitcoin reserve, as the president continued to cash in on cryptocurrency while in
+  control of the industry's regulatory landscape
+description: Trump Media planned to raise $2.5 billion in equity and debt to build
+  a massive bitcoin reserve, as the president continued to cash in on cryptocurrency
+  while in control of the industry's regulatory landscape
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- media-control
+- regulatory-capture
+- government-contracts
+capture_type: regulatory_capture
+sources:
+- title: Donald Trump’s media conglomerate is becoming a bitcoin reserve
+  url: https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/
+  outlet: New York Times
+  date: '2025-05-27'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-27'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

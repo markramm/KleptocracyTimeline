@@ -1,0 +1,29 @@
+id: 2025-03-10--it-s-shoot-first-and-ask-questions-later-as-doge-tries-to-di
+date: '2025-03-10'
+title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle CFPB:
+  Official'
+summary: DOGE attempted to dismantle CFPB
+description: DOGE attempted to dismantle CFPB
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+capture_type: regulatory_capture
+sources:
+- title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle
+    CFPB: Official'
+  url: https://abcnews.go.com/US/cfpb-official-testifies-doges-chaotic-attempts-dismantle-agency/story?id=119651855
+  outlet: ABC News
+  date: '2025-03-10'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-10'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

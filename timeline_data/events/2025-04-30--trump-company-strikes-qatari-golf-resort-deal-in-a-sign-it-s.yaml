@@ -1,0 +1,32 @@
+id: 2025-04-30--trump-company-strikes-qatari-golf-resort-deal-in-a-sign-it-s
+date: '2025-04-30'
+title: Trump company strikes Qatari golf resort deal in a sign it’s not holding back
+  from foreign business
+summary: The Trump Organization signed a deal to build a luxury golf resort in Qatar
+  in partnership with Qatari and Saudi organizations
+description: The Trump Organization signed a deal to build a luxury golf resort in
+  Qatar in partnership with Qatari and Saudi organizations
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump company strikes Qatari golf resort deal in a sign it’s not holding
+    back from foreign business
+  url: https://apnews.com/article/trump-qatar-deal-conflicts-saudi-arabia-emoluments-7379bee2e307d39bd43b534a05ae3207
+  outlet: Associated Press
+  date: '2025-04-30'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-30'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

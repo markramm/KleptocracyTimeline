@@ -1,0 +1,33 @@
+id: 2025-07-10--this-is-doge-2-0
+date: '2025-07-10'
+title: This Is DOGE 2.0
+summary: Though Elon Musk is no longer working for the Trump administration, DOGE
+  operatives are still installed in different positions across governmental agencies–where
+  they have access to sensitive data and continue to take direction from Musk allies
+  via encrypted messaging apps
+description: Though Elon Musk is no longer working for the Trump administration, DOGE
+  operatives are still installed in different positions across governmental agencies–where
+  they have access to sensitive data and continue to take direction from Musk allies
+  via encrypted messaging apps
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: This Is DOGE 2.0
+  url: https://www.wired.com/story/next-stage-doge-elon-musk/
+  outlet: Wired
+  date: '2025-07-10'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-07-10'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

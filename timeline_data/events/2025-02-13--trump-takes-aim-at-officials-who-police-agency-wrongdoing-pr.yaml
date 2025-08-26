@@ -1,0 +1,31 @@
+id: 2025-02-13--trump-takes-aim-at-officials-who-police-agency-wrongdoing-pr
+date: '2025-02-13'
+title: Trump takes aim at officials who police agency wrongdoing, protect workers
+summary: Trump fired top officials overseeing ethics, whistleblower protections, and
+  labor rights, including the heads of the Office of Government Ethics, Office of
+  Special Counsel, and the Merit Systems Protection Board
+description: Trump fired top officials overseeing ethics, whistleblower protections,
+  and labor rights, including the heads of the Office of Government Ethics, Office
+  of Special Counsel, and the Merit Systems Protection Board
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- ethics-violations
+capture_type: personnel_rewiring
+sources:
+- title: Trump takes aim at officials who police agency wrongdoing, protect workers
+  url: https://www.washingtonpost.com/politics/2025/02/13/trump-firings-watchdogs/
+  outlet: Washington Post
+  date: '2025-02-13'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-13'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

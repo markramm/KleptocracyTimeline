@@ -1,0 +1,29 @@
+id: 2025-04-23--trump-offers-private-dinner-to-top-220-investors-in-his-meme
+date: '2025-04-23'
+title: Trump offers private dinner to top 220 investors in his memecoin
+summary: Trump offered a private dinner to the top 220 investors in his memecoin,
+  causing it to surge in price
+description: Trump offered a private dinner to the top 220 investors in his memecoin,
+  causing it to surge in price
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Trump offers private dinner to top 220 investors in his memecoin
+  url: https://www.nytimes.com/2025/04/23/technology/trump-private-dinner-crypto-memecoin.html
+  outlet: New York Times
+  date: '2025-04-23'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-23'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

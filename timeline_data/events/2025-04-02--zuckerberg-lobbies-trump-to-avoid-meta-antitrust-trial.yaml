@@ -1,0 +1,31 @@
+id: 2025-04-02--zuckerberg-lobbies-trump-to-avoid-meta-antitrust-trial
+date: '2025-04-02'
+title: Zuckerberg lobbies Trump to avoid Meta antitrust trial
+summary: Mark Zuckerberg is pushing Trump to settle an antitrust case, which seeks
+  to unwind Meta’s acquisitions of Instagram and WhatsApp, alleging monopolistic conduct,
+  before it goes to trial on April 14
+description: Mark Zuckerberg is pushing Trump to settle an antitrust case, which seeks
+  to unwind Meta’s acquisitions of Instagram and WhatsApp, alleging monopolistic conduct,
+  before it goes to trial on April 14
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- media-control
+capture_type: monetizing_position
+sources:
+- title: Zuckerberg lobbies Trump to avoid Meta antitrust trial
+  url: https://www.wsj.com/politics/policy/meta-antitrust-trial-zuckerberg-lobbying-trump-67c8f3a5?mod=politics_feat1_policy_pos1
+  outlet: Wall Street Journal
+  date: '2025-04-02'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-02'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

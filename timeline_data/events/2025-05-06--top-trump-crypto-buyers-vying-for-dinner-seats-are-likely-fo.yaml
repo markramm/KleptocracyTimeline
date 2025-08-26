@@ -1,0 +1,30 @@
+id: 2025-05-06--top-trump-crypto-buyers-vying-for-dinner-seats-are-likely-fo
+date: '2025-05-06'
+title: Top Trump crypto buyers vying for dinner seats are likely foreign
+summary: Over half of the holders of Trump's memecoin, who sought a seat at his 220
+  person dinner sweepstakes, were foreign nationals
+description: Over half of the holders of Trump's memecoin, who sought a seat at his
+  220 person dinner sweepstakes, were foreign nationals
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: Top Trump crypto buyers vying for dinner seats are likely foreign
+  url: https://finance.yahoo.com/news/trump-hosting-dinner-biggest-buyers-221016203.html
+  outlet: Yahoo! Finance
+  date: '2025-05-06'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-06'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

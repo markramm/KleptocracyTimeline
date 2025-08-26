@@ -1,0 +1,31 @@
+id: 2025-03-30--elon-musk-hands-out-1-million-payments-after-wisconsin-supre
+date: '2025-03-30'
+title: Elon Musk hands out $1 million payments after Wisconsin Supreme Court declines
+  request to stop him
+summary: Musk handed out two $1 million checks to Wisconsin voters at a rally in Green
+  Bay, moments after the state Supreme Court declined to block the scheme
+description: Musk handed out two $1 million checks to Wisconsin voters at a rally
+  in Green Bay, moments after the state Supreme Court declined to block the scheme
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Elon Musk hands out $1 million payments after Wisconsin Supreme Court declines
+    request to stop him
+  url: https://www.cbsnews.com/news/elon-musk-wisconsin-supreme-court-rally-1-milion-giveaway/
+  outlet: CBS
+  date: '2025-03-30'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-30'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

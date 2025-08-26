@@ -1,0 +1,31 @@
+id: 2025-05-04--trump-says-he-ll-call-ceos-when-he-disagrees-with-their-busi
+date: '2025-05-04'
+title: Trump says he'll call CEOs when he disagrees with their business decisions
+summary: Trump said he will pressure CEOs the same way he put the screws to Jeff Bezos
+  after Amazon announced it would indicate the cost of tariffs in customer billing,
+  if their business decisions are seen as unfriendly to his administration
+description: Trump said he will pressure CEOs the same way he put the screws to Jeff
+  Bezos after Amazon announced it would indicate the cost of tariffs in customer billing,
+  if their business decisions are seen as unfriendly to his administration
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- media-control
+capture_type: monetizing_position
+sources:
+- title: Trump says he'll call CEOs when he disagrees with their business decisions
+  url: https://fortune.com/2025/05/05/trump-to-call-ceos-he-disagrees-with/
+  outlet: Fortune
+  date: '2025-05-04'
+- title: Timeline Analysis
+  url: https://example.com/analysis
+  outlet: Independent Analysis
+  date: '2025-05-04'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive timeline tracking democratic erosion.

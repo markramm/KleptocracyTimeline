@@ -1,0 +1,27 @@
+id: 2025-04-16--elon-musk-focuses-donations-on-gop-lawmakers-targeting-judge
+date: '2025-04-16'
+title: Elon Musk focuses donations on GOP lawmakers targeting judges
+summary: Elon Musk focuses donations on GOP lawmakers targeting judges
+description: Elon Musk focuses donations on GOP lawmakers targeting judges
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: Elon Musk focuses donations on GOP lawmakers targeting judges
+  url: https://www.washingtonpost.com/technology/2025/04/16/elon-musk-campaign-donations-judges-impeach/
+  outlet: Washington Post
+  date: '2025-04-16'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-16'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

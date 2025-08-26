@@ -1,0 +1,30 @@
+id: 2025-05-29--trump-rejects-15m-offer-to-settle-60-minutes-lawsuit-report
+date: '2025-05-29'
+title: 'Trump rejects $15M offer to settle ’60 Minutes’ lawsuit: report'
+summary: Trump rejected Paramount's $15 million settlement offer over his 60 Minutes
+  lawsuit, demanding $25 million and a public apology instead
+description: Trump rejected Paramount's $15 million settlement offer over his 60 Minutes
+  lawsuit, demanding $25 million and a public apology instead
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+- justice-weaponization
+capture_type: monetizing_position
+sources:
+- title: 'Trump rejects $15M offer to settle ’60 Minutes’ lawsuit: report'
+  url: https://www.yahoo.com/news/trump-rejects-15m-offer-settle-141023713.html
+  outlet: Yahoo! News
+  date: '2025-05-29'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-05-29'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

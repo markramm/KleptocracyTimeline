@@ -1,0 +1,30 @@
+id: 2025-03-31--how-the-trump-family-took-over-a-crypto-firm-it-raised-hundr
+date: '2025-03-31'
+title: How the Trump family took over a crypto firm it raised hundreds millions
+summary: The Trump family quietly seized control of crypto firm World Liberty Financial
+  as it raised $550 million through sales of $WLFI tokens
+description: The Trump family quietly seized control of crypto firm World Liberty
+  Financial as it raised $550 million through sales of $WLFI tokens
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: How the Trump family took over a crypto firm it raised hundreds millions
+  url: https://www.reuters.com/business/finance/how-trump-family-took-over-crypto-firm-it-raised-hundreds-millions-2025-03-31/
+  outlet: REUTERS
+  date: '2025-03-31'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

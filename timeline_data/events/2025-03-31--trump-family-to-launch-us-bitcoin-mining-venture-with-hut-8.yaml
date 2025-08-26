@@ -1,0 +1,31 @@
+id: 2025-03-31--trump-family-to-launch-us-bitcoin-mining-venture-with-hut-8
+date: '2025-03-31'
+title: Trump family to launch US Bitcoin mining venture with Hut 8
+summary: The Trump family is partnering with crypto firm Hut 8 to launch American
+  Bitcoin Corp., a new Miami-based venture focused on Bitcoin mining and building
+  strategic Bitcoin reserves
+description: The Trump family is partnering with crypto firm Hut 8 to launch American
+  Bitcoin Corp., a new Miami-based venture focused on Bitcoin mining and building
+  strategic Bitcoin reserves
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Trump family to launch US Bitcoin mining venture with Hut 8
+  url: https://www.investopedia.com/trump-brothers-team-up-with-hut-8-in-bitcoin-mining-business-11705949
+  outlet: Investopedia
+  date: '2025-03-31'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

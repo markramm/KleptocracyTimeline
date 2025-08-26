@@ -1,0 +1,29 @@
+id: 2025-04-25--trump-s-meme-coin-dinner-contest-earns-insiders-900-000-in-t
+date: '2025-04-25'
+title: Trump's meme coin dinner contest earns insiders $900,000 in two days
+summary: Trump’s memecoin dinner contest netted $900,000 in insider profits in 48
+  hours
+description: Trump’s memecoin dinner contest netted $900,000 in insider profits in
+  48 hours
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Trump's meme coin dinner contest earns insiders $900,000 in two days
+  url: https://www.nbcnews.com/tech/crypto/trumps-memecoin-dinner-contest-earns-insiders-900000-two-days-rcna203071
+  outlet: NBC News
+  date: '2025-04-25'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-25'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

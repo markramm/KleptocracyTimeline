@@ -1,0 +1,32 @@
+id: 2025-02-06--trump-nominee-kash-patel-disclosed-large-gift-from-foreign-e
+date: '2025-02-06'
+title: Trump nominee Kash Patel disclosed large gift from foreign entity
+summary: Kash Patel disclosed that he is receiving $1 million to $5 million in shares
+  of a Cayman Islands holding company directly tied to a Chinese corporation accused
+  of “slave labor” by the Senate and a pro-Trump nonprofit
+description: Kash Patel disclosed that he is receiving $1 million to $5 million in
+  shares of a Cayman Islands holding company directly tied to a Chinese corporation
+  accused of “slave labor” by the Senate and a pro-Trump nonprofit
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump nominee Kash Patel disclosed large gift from foreign entity
+  url: https://www.wired.com/story/kash-patel-elite-depot-shein/
+  outlet: Wired
+  date: '2025-02-06'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-06'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

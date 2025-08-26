@@ -1,0 +1,33 @@
+id: 2025-03-13--trump-family-has-held-deal-talks-with-binance-following-cryp
+date: '2025-03-13'
+title: Trump family has held deal talks with Binance following crypto exchange’s guilty
+  plea
+summary: Trump family met with Binance, the world's largest crypto exchange, stake
+  as its founder sought a pardon
+description: Trump family met with Binance, the world's largest crypto exchange, stake
+  as its founder sought a pardon
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- pardons
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump family has held deal talks with Binance following crypto exchange’s
+    guilty plea
+  url: https://www.wsj.com/finance/currencies/trump-family-has-held-deal-talks-with-binance-following-crypto-exchanges-guilty-plea-05b029fa
+  outlet: Wall Street Journal
+  date: '2025-03-13'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-13'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

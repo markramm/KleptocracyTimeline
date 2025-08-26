@@ -1,0 +1,29 @@
+id: 2025-03-24--fbi-says-it-is-probing-increase-in-violent-activity-toward-t
+date: '2025-03-24'
+title: FBI says it is probing 'increase in violent activity toward Tesla'
+summary: FBI announced an intensified probe into an increase in violent incidents
+  targeting Tesla
+description: FBI announced an intensified probe into an increase in violent incidents
+  targeting Tesla
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: FBI says it is probing 'increase in violent activity toward Tesla'
+  url: https://www.reuters.com/business/autos-transportation/fbi-says-it-is-probing-increase-violent-activity-toward-tesla-2025-03-24/
+  outlet: REUTERS
+  date: '2025-03-24'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-24'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

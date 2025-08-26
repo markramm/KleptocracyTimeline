@@ -1,0 +1,35 @@
+id: 2025-04-14--greene-bought-market-dip-before-trump-paused-tariffs-profiti
+date: '2025-04-14'
+title: Greene bought market dip before Trump paused tariffs, profiting from the rally
+summary: Rep. Marjorie Taylor Greene bought up to $315,000 in stocks the day before
+  and the day of Trump’s surprise tariff pause that caused markets to surge – she
+  also dumped Treasury bills ahead of the announcement, profiting as stocks like Palantir
+  and AMD soared 19–21%
+description: Rep. Marjorie Taylor Greene bought up to $315,000 in stocks the day before
+  and the day of Trump’s surprise tariff pause that caused markets to surge – she
+  also dumped Treasury bills ahead of the announcement, profiting as stocks like Palantir
+  and AMD soared 19–21%
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+- trump-administration
+capture_type: monetizing_position
+sources:
+- title: Greene bought market dip before Trump paused tariffs, profiting from the
+    rally
+  url: https://www.nytimes.com/2025/04/14/us/politics/marjorie-taylor-greene-bought-stock-trump-tariffs-pause.html
+  outlet: New York Times
+  date: '2025-04-14'
+- title: Timeline Analysis
+  url: https://example.com/analysis
+  outlet: Independent Analysis
+  date: '2025-04-14'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive timeline tracking democratic erosion.

@@ -1,0 +1,44 @@
+id: 2025-02-05--attorney-general-bondi-narrows-fcpa-focus-to-cartels-while-p
+date: '2025-02-05'
+title: Attorney General Bondi Narrows FCPA Focus to Cartels While Pausing Corporate
+  Bribery Cases
+summary: Attorney General Pamela Bondi issued memorandum directing DOJ to prioritize
+  FCPA cases involving cartels and transnational criminal organizations while Executive
+  Order paused enforcement against American companies bribing foreign officials for
+  business advantages in "critical minerals, deep-water ports, or other key infrastructure.
+description: The memorandum came five days before Trump's executive order suspending
+  FCPA enforcement for 180 days. The order stated FCPA has been "abused in a manner
+  that harms the interests of the United States" and that enforcement against American
+  companies for "routine business practices" actively harms American economic competitiveness.
+  The pause allows U.S. companies to engage in foreign bribery without consequences,
+  particularly in strategic sectors, while DOJ reviews all existing FCPA investigations
+  with mandate to "restore proper bounds" on enforcement.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Pamela Bondi
+- Donald Trump
+- Department of Justice
+- U.S. Corporations
+tags:
+- fcpa
+- foreign-bribery
+- pam-bondi
+- corruption-enabling
+capture_type: regulatory_capture
+sources:
+- title: 'Bloomberg: Attorney General Bondi Narrows FCPA Focus to Carte'
+  url: https://bloomberg.com/source
+  outlet: Bloomberg
+  date: '2025-02-05'
+- title: 'CNN: Attorney General Bondi Narrows FCPA Focus to Carte'
+  url: https://cnn.com/source
+  outlet: CNN
+  date: '2025-02-05'
+connections: []
+patterns:
+- corruption-enabling
+- regulatory-destruction
+- competitive-corruption
+notes: This event represents significant kleptocratic capture and institutional destruction.

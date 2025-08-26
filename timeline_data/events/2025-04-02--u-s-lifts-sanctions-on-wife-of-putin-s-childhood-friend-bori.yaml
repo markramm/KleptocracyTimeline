@@ -1,0 +1,32 @@
+id: 2025-04-02--u-s-lifts-sanctions-on-wife-of-putin-s-childhood-friend-bori
+date: '2025-04-02'
+title: U.S. lifts sanctions on wife of Putin’s childhood friend Boris Rotenberg
+summary: The US Treasury Department quietly removed Karina Rotenberg, wife of Russian
+  oligarch and Putin confidant Boris Rotenberg and a US citizen suspected of shielding
+  her oligarch husband’s wealth, from its sanctions list
+description: The US Treasury Department quietly removed Karina Rotenberg, wife of
+  Russian oligarch and Putin confidant Boris Rotenberg and a US citizen suspected
+  of shielding her oligarch husband’s wealth, from its sanctions list
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+- regulatory-capture
+capture_type: monetizing_position
+sources:
+- title: U.S. lifts sanctions on wife of Putin’s childhood friend Boris Rotenberg
+  url: https://theins.ru/en/news/280214
+  outlet: Theins
+  date: '2025-04-02'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-02'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

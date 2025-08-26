@@ -1,0 +1,33 @@
+id: 2025-04-17--trump-team-eyes-politically-connected-startup-to-overhaul-70
+date: '2025-04-17'
+title: Trump team eyes politically connected startup to overhaul $700 billion government
+  payments program
+summary: Trump is fast-tracking a $25 million pilot contract for Ramp, a politically
+  connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies,
+  to help manage the federal government’s $700 billion SmartPay system
+description: Trump is fast-tracking a $25 million pilot contract for Ramp, a politically
+  connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies,
+  to help manage the federal government’s $700 billion SmartPay system
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump team eyes politically connected startup to overhaul $700 billion government
+    payments program
+  url: https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system
+  outlet: ProPublica
+  date: '2025-04-17'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-17'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

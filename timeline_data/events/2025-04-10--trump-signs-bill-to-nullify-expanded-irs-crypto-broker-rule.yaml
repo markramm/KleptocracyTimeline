@@ -1,0 +1,29 @@
+id: 2025-04-10--trump-signs-bill-to-nullify-expanded-irs-crypto-broker-rule
+date: '2025-04-10'
+title: Trump signs bill to nullify expanded IRS crypto broker rule
+summary: Trump signed a bill nullifying an IRS rule that expanded the definition of
+  cryptocurrency brokers to include decentralized finance (DeFi) exchanges
+description: Trump signed a bill nullifying an IRS rule that expanded the definition
+  of cryptocurrency brokers to include decentralized finance (DeFi) exchanges
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Trump signs bill to nullify expanded IRS crypto broker rule
+  url: https://www.reuters.com/world/us/trump-signs-bill-nullify-expanded-irs-crypto-broker-rule-2025-04-11/
+  outlet: REUTERS
+  date: '2025-04-10'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-10'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

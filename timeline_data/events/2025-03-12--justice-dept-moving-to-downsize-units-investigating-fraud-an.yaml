@@ -1,0 +1,32 @@
+id: 2025-03-12--justice-dept-moving-to-downsize-units-investigating-fraud-an
+date: '2025-03-12'
+title: Justice Dept. moving to downsize units investigating fraud and corruption
+summary: The Justice Department drafted plans to shrink or dismantle units investigating
+  public corruption, foreign bribery, money laundering, and asset recovery
+description: The Justice Department drafted plans to shrink or dismantle units investigating
+  public corruption, foreign bribery, money laundering, and asset recovery
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- corruption
+- foreign-influence
+- regulatory-capture
+- justice-weaponization
+capture_type: monetizing_position
+sources:
+- title: Justice Dept. moving to downsize units investigating fraud and corruption
+  url: https://www.nytimes.com/2025/03/12/us/politics/justice-dept-fraud-corruption.html
+  outlet: New York Times
+  date: '2025-03-12'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-12'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

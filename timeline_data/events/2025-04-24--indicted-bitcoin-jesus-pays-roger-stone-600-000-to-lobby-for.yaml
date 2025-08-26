@@ -1,0 +1,32 @@
+id: 2025-04-24--indicted-bitcoin-jesus-pays-roger-stone-600-000-to-lobby-for
+date: '2025-04-24'
+title: Indicted ‘Bitcoin Jesus’ pays Roger Stone $600,000 to lobby for him
+summary: Indicted ‘Bitcoin Jesus,’ the cryptocurrency entrepreneur Roger Ver, paid
+  Roger Stone $600,000 to lobby Trump to change the federal fraud law he was charged
+  with violating
+description: Indicted ‘Bitcoin Jesus,’ the cryptocurrency entrepreneur Roger Ver,
+  paid Roger Stone $600,000 to lobby Trump to change the federal fraud law he was
+  charged with violating
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+- corruption
+capture_type: monetizing_position
+sources:
+- title: Indicted ‘Bitcoin Jesus’ pays Roger Stone $600,000 to lobby for him
+  url: https://www.nytimes.com/2025/04/24/us/politics/stone-bitcoin-crypto-trump.html
+  outlet: New York Times
+  date: '2025-04-24'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-04-24'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

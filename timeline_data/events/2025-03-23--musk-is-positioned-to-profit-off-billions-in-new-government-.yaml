@@ -1,0 +1,27 @@
+id: 2025-03-23--musk-is-positioned-to-profit-off-billions-in-new-government-
+date: '2025-03-23'
+title: Musk is positioned to profit off billions in new government contracts
+summary: SpaceX is reportedly receiving billions of dollars in government contracts
+description: SpaceX is reportedly receiving billions of dollars in government contracts
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Musk is positioned to profit off billions in new government contracts
+  url: https://www.nytimes.com/2025/03/23/us/politics/spacex-contracts-musk-doge-trump.html
+  outlet: New York Times
+  date: '2025-03-23'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-03-23'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

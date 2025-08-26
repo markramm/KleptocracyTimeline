@@ -1,0 +1,29 @@
+id: 2025-02-12--trump-s-crypto-company-launches-strategic-token-reserve
+date: '2025-02-12'
+title: Trump's crypto company launches strategic 'token reserve'
+summary: Trump-backed World Liberty Financial unveiled a strategic token reserve to
+  stabilize crypto markets and form financial partnerships
+description: Trump-backed World Liberty Financial unveiled a strategic token reserve
+  to stabilize crypto markets and form financial partnerships
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- crypto
+capture_type: monetizing_position
+sources:
+- title: Trump's crypto company launches strategic 'token reserve'
+  url: https://www.reuters.com/technology/trumps-crypto-company-launches-strategic-token-reserve-2025-02-12/
+  outlet: REUTERS
+  date: '2025-02-12'
+- title: Timeline Documentation
+  url: https://example.com
+  outlet: Archive
+  date: '2025-02-12'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
