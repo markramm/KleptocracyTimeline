@@ -73,13 +73,16 @@ def validate_timeline_dates(timeline_dir="timeline_data/events"):
                 event_date = date(event_date.year, event_date.month, event_date.day)
             
             # Check for future dates with confirmed status
+            # Exception: Allow confirmed status if event has a confirmed_date field
+            # (e.g., scheduled elections, announced events)
             if event_date > today and data.get('status') == 'confirmed':
-                issues['future_confirmed'].append({
-                    'file': yaml_file.name,
-                    'date': str(event_date),
-                    'title': data.get('title', 'Unknown'),
-                    'status': data.get('status')
-                })
+                if 'confirmed_date' not in data:
+                    issues['future_confirmed'].append({
+                        'file': yaml_file.name,
+                        'date': str(event_date),
+                        'title': data.get('title', 'Unknown'),
+                        'status': data.get('status')
+                    })
             
             # Check for confirmed status without proper verification
             if data.get('status') == 'confirmed':
