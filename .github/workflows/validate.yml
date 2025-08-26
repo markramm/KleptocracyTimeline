@@ -46,7 +46,10 @@ jobs:
                     if isinstance(event_date, str):
                         event_date = date.fromisoformat(event_date)
                     if event_date > date.today():
-                        errors.append(f'{f.name}: Future date with confirmed status')
+                        # Allow confirmed status if event has confirmed_date field
+                        # (scheduled elections, announced events, etc.)
+                        if 'confirmed_date' not in event:
+                            errors.append(f'{f.name}: Future date with confirmed status (missing confirmed_date)')
         
         if errors:
             print('❌ Validation failed:')
