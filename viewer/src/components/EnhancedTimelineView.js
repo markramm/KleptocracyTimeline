@@ -431,10 +431,6 @@ const EnhancedTimelineEvent = ({
       <div 
         className={`timeline-event compact ${side} ${isHighlighted ? 'highlighted' : ''}`}
         id={`event-${event.id}`}
-        onClick={(e) => {
-          e.stopPropagation();
-          onToggleExpand();
-        }}
       >
         <div className="event-connector" />
         <div 
@@ -448,12 +444,22 @@ const EnhancedTimelineEvent = ({
         <div className="compact-event-card" style={{ 
           borderLeft: `3px solid ${getImportanceColor(importance)}`,
           background: importance >= 7 ? 'rgba(30, 41, 59, 0.7)' : 'rgba(30, 41, 59, 0.5)'
+        }}
+        onClick={(e) => {
+          e.stopPropagation();
+          // If already expanded, open full details; otherwise expand
+          if (isExpanded) {
+            onClick();
+          } else {
+            onToggleExpand();
+          }
         }}>
           <span className="compact-date">
             {format(parseISO(event.date), 'MMM d')}
           </span>
           <span className="compact-title" style={{
-            fontWeight: importance >= 7 ? '600' : '400'
+            fontWeight: importance >= 7 ? '600' : '400',
+            cursor: 'pointer'
           }}>{event.title}</span>
           {event.tags && event.tags.length > 0 && (
             <span className="compact-tags">
@@ -468,6 +474,18 @@ const EnhancedTimelineEvent = ({
           }}>
             {importance}
           </span>
+          {isExpanded && (
+            <button 
+              className="view-details-btn"
+              onClick={(e) => {
+                e.stopPropagation();
+                onClick();
+              }}
+              title="View full details"
+            >
+              View Details
+            </button>
+          )}
         </div>
       </div>
     );
