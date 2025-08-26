@@ -2,13 +2,21 @@
 // Supports both Plausible and GoatCounter
 
 /**
- * Track custom events with Plausible
+ * Track custom events with Plausible or GA4
  * Docs: https://plausible.io/docs/custom-event-goals
+ * GA4 Docs: https://developers.google.com/analytics/devguides/collection/gtagjs/events
  */
 export const trackEvent = (eventName, props = {}) => {
-  // Only track if Plausible is loaded
+  // Track with Plausible if loaded
   if (window.plausible) {
     window.plausible(eventName, { props });
+  }
+  
+  // Track with Google Analytics 4 if loaded
+  if (window.gtag) {
+    window.gtag('event', eventName, {
+      custom_parameter: props
+    });
   }
   
   // For development/debugging
