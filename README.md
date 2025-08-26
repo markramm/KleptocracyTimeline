@@ -152,7 +152,7 @@ kleptocracy-timeline/
 │   ├── validation_status.json  # Community validation tracking
 │   ├── validation_app_enhanced.py  # Web validation interface
 │   ├── README.md       # Event schema documentation
-│   └── agent.md        # AI/verification guidance
+│   └── AGENT.md        # AI/verification guidance
 ├── tools/
 │   ├── validation/     # Data quality tools
 │   ├── archiving/      # Link rot prevention

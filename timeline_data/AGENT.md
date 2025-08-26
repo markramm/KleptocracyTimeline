@@ -350,7 +350,7 @@ summary: |
 ├── timeline_data/
 │   ├── events/              # All timeline event YAML files (300+ files)
 │   ├── validate_yaml.py     # Main validation script - RUN THIS FREQUENTLY
-│   ├── agent.md            # This file - AI agent instructions
+│   ├── AGENT.md            # This file - AI agent instructions
 │   └── README.md           # Human documentation
 ├── DemocracyResearchDocs/   # Research document processing
 │   ├── queue/              # Documents to process

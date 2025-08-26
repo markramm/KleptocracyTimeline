@@ -20,7 +20,7 @@ This directory contains 318+ chronological timeline events documenting kleptocra
 
 ### Documentation
 - **`README.md`** - This file - Human documentation
-- **`agent.md`** - AI agent instructions & YAML escaping guide
+- **`AGENT.md`** - AI agent instructions & YAML escaping guide
 - **`CLAUDE.md`** - Claude-specific context and patterns
 
 ## Table of Contents
@@ -48,7 +48,7 @@ timeline_data/
 │   └── testing/                 # Test scripts
 ├── reports/                      # Generated validation reports
 ├── README.md                     # This documentation
-└── agent.md                      # AI agent guidance
+└── AGENT.md                      # AI agent guidance
 ```
 
 ## Naming Convention
@@ -518,7 +518,7 @@ git commit -m "Validate: Fix 15 events with missing status field"
 
 ## Related Documentation
 
-- `/timeline_data/agent.md` - AI agent CRUD guidance
+- `/timeline_data/AGENT.md` - AI agent CRUD guidance
 - `/scripts/README.md` - Script documentation
 - `/posts/_footnotes/` - Generated citations
 - `/timeline-app/` - React visualization app
@@ -534,4 +534,4 @@ Before contributing:
 5. Follow naming conventions exactly
 6. Create descriptive commit messages
 
-For questions, check existing similar events first, then consult agent.md for AI-specific guidance.
+For questions, check existing similar events first, then consult AGENT.md for AI-specific guidance.
