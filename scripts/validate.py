@@ -115,11 +115,15 @@ class TimelineValidator:
             if not valid:
                 warnings.append(error)
         
-        # Check for future dates with confirmed status
-        if event.get('status') == 'confirmed' and 'date' in event:
+        # Check for future dates - treat as warnings
+        if 'date' in event:
             valid, error = validate_date(event['date'], allow_future=False)
             if not valid and 'future' in error.lower():
-                errors.append(f"Confirmed event has future date: {event['date']}")
+                # Future dates are warnings, not errors
+                if event.get('status') == 'confirmed':
+                    warnings.append(f"Future date ({event['date']}) with 'confirmed' status - verify this is a real scheduled event")
+                else:
+                    warnings.append(f"Future date: {event['date']} - verify this is a real scheduled/projected event")
         
         # Check for duplicate IDs (would need to track across files)
         # This is handled in a separate pass

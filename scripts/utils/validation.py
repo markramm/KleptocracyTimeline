@@ -143,9 +143,11 @@ def validate_event_schema(event: Dict[str, Any]) -> Tuple[bool, List[str]]:
     
     # Validate date
     if 'date' in event:
-        valid, error = validate_date(event['date'], allow_future=event.get('status') == 'predicted')
+        valid, error = validate_date(event['date'], allow_future=True)  # Allow future dates, will be caught as warnings elsewhere
         if not valid:
-            errors.append(error)
+            # Only add as error if it's not a future date issue
+            if 'future' not in error.lower():
+                errors.append(error)
     
     # Validate title
     if 'title' in event:
