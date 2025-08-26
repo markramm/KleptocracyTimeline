@@ -2,6 +2,8 @@
 
 An open-source, collaborative timeline documenting democratic erosion and kleptocratic capture in the United States (1972-present).
 
+**🌐 View the timeline: [https://markramm.github.io/KleptocracyTimeline/](https://markramm.github.io/KleptocracyTimeline/)**
+
 ## 🎯 Purpose
 
 This repository provides a factual, verified, and archived timeline of events showing patterns of institutional capture, democratic backsliding, and systemic corruption. Every event is:
