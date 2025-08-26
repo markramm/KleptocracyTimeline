@@ -602,7 +602,28 @@ const EnhancedTimelineEvent = ({
               {event.sources && event.sources.length > 0 && (
                 <div className="event-sources">
                   <ExternalLink size={14} />
-                  <span>{event.sources.length} sources</span>
+                  <span>{event.sources.length} source{event.sources.length > 1 ? 's' : ''}:</span>
+                  <div className="source-links-inline">
+                    {event.sources.slice(0, 2).map((source, idx) => (
+                      source.url && (
+                        <a
+                          key={idx}
+                          href={source.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="source-link-inline"
+                          onClick={(e) => e.stopPropagation()}
+                          title={`${source.outlet || 'Source'}: ${source.title}`}
+                        >
+                          <ExternalLink size={12} />
+                          {source.outlet || 'Link'}
+                        </a>
+                      )
+                    ))}
+                    {event.sources.length > 2 && (
+                      <span className="more-sources">+{event.sources.length - 2} more</span>
+                    )}
+                  </div>
                 </div>
               )}
               
