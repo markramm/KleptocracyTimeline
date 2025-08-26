@@ -1,6 +1,6 @@
 # 📊 Project Health Dashboard
 
-*Last Updated: August 25, 2025*
+*Last Updated: August 26, 2025*
 
 ## 🎯 Quick Status
 
@@ -9,6 +9,7 @@
 | **Timeline Data** | ✅ Ready | 395 events validated | All YAML valid |
 | **React App** | ✅ Ready | Builds successfully | Minor linting warnings |
 | **Documentation** | ✅ Ready | Comprehensive | AGENT.md files complete |
+| [**Code of Conduct**](./CODE_OF_CONDUCT.md) | ✅ Present | Adopted | Community guidelines in place |
 | **GitHub Integration** | ✅ Ready | Templates configured | Edit links working |
 | **Launch Materials** | ✅ Ready | All platforms covered | Posts drafted |
 | **Source Archives** | ⚠️ Partial | ~60% archived | Need to run archiver |
@@ -44,7 +45,7 @@
 - **Contributors**: 1 (pre-launch)
 - **Issue Templates**: ✅ Configured
 - **Contributing Guide**: ✅ Complete
-- **Code of Conduct**: ❓ Missing
+- [**Code of Conduct**](./CODE_OF_CONDUCT.md): ✅ Present
 
 ## 🔧 Pre-Launch Action Items
 
@@ -52,7 +53,7 @@
 1. **Run link checker** - Identify broken sources
 2. **Archive remaining sources** - Preserve evidence
 3. **Test on real mobile devices** - Ensure responsive
-4. **Add Code of Conduct** - Community safety
+4. ✅ **Code of Conduct added** - Community safety
 5. **Set up monitoring** - Track launch metrics
 
 ### Important (Should Do)
