@@ -1,10 +1,11 @@
 id: 1980-01-01--epstein-maxwell-mossad-operation-begins
 date: '1980-01-01'
 importance: 8
-title: Epstein and Maxwell Allegedly Begin Working for Israeli Intelligence
-summary: According to former Israeli spy Ari Ben-Menashe, Jeffrey Epstein and Ghislaine
-  Maxwell begin honey-trap operation for Mossad, using underage girls to blackmail
-  politicians for Israeli intelligence
+title: Claim: Epstein and Maxwell worked for Israeli intelligence (unverified)
+summary: Ex–Israeli intelligence officer Ari Ben‑Menashe has alleged that Jeffrey
+  Epstein and Ghislaine Maxwell ran a sexual‑blackmail operation for Israeli intelligence
+  in the 1980s–1990s. These allegations remain uncorroborated by official inquiries
+  or court records; Israeli officials have publicly denied them.
 location: United States
 actors:
 - Jeffrey Epstein
@@ -22,17 +23,16 @@ tags:
 capture_lanes:
 - Epstein Network & Kompromat
 sources:
-- title: Jeffrey Epstein was blackmailing politicians for Mossad
-  url: https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims/
-  outlet: Middle East Monitor
-  date: '2020-01-06'
-  archive_url: https://web.archive.org/web/20200106000000/https://www.middleeastmonitor.com/20200106-jeffrey-epstein-was-blackmailing-politicians-for-israels-mossad-new-book-claims/
-- title: For writer who broke Epstein case Mossad link worth investigating
+- title: For writer who broke Epstein case, a rumored Mossad link is worth digging into
   url: https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/
   outlet: Times of Israel
   date: '2019-10-22'
-  archive_url: https://web.archive.org/web/20191022000000/https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/
-notes: Ben-Menashe claims he met Epstein/Maxwell in 1980s when already working for
-  Israeli intelligence. Robert Maxwell confirmed Mossad agent. Claims unsubstantiated
-  but consistent with patterns. Israeli officials attended Robert Maxwell's funeral.
+- title: Naftali Bennett slams Epstein–Mossad claims as 'total lie'
+  url: https://timesofindia.indiatimes.com/world/middle-east/naftali-bennett-slams-epstein-mossad-claims-calls-accusation-total-lie-targets-tucker-carlson-for-anti-israel-narrative/articleshow/122442719.cms
+  outlet: Times of India
+  date: '2025-07-22'
+notes: Use cautious language and identify this as a claim attributed to Ari Ben‑Menashe.
+  No primary documentary evidence has been produced in U.S. courts, and recent statements
+  by Israeli officials, including former PM Naftali Bennett, reject the 'Mossad' narrative.
+  Balance any inclusion of this item with clear labeling as 'disputed'.
 status: disputed

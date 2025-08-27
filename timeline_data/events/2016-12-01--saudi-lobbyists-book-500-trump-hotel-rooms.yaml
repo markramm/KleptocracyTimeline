@@ -1,14 +1,9 @@
 id: 2016-12-01--saudi-lobbyists-book-500-trump-hotel-rooms
 date: '2016-12-01'
 title: Saudi Lobbyists Book 500 Rooms at Trump Hotel After Election
-summary: |
-  Saudi government-paid lobbyists reserved approximately 500 nights at Trump's 
-  Washington D.C. hotel within a month of his 2016 election victory, paying around 
-  $270,000. The bookings were made by lobbyists representing Saudi Arabia who brought 
-  groups of U.S. military veterans to Washington to lobby against a law allowing 
-  families of 9/11 victims to sue Saudi Arabia. The payments represent one of the 
-  earliest examples of foreign governments directing money to Trump properties 
-  following his election.
+summary: Within weeks of the 2016 election, Saudi‑funded lobbyists booked about
+  500 nights at Trump's Washington, D.C., hotel as part of a campaign flying U.S. veterans
+  to lobby against JASTA (the 9/11 victims' law).
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -26,25 +21,17 @@ tags:
   - conflict-of-interest
   - lobbying
 sources:
-  - title: Saudi-funded lobbyist paid for 500 rooms at Trump's hotel after 2016 election
-    url: https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html
-    outlet: Washington Post
-    date: '2018-12-05'
-    archive_url: https://web.archive.org/web/20181206/https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html
-  - title: Saudi lobbyists bought 500 nights at Trump's DC hotel after 2016 election
-    url: https://thehill.com/policy/international/419956-saudi-backed-lobbyist-paid-for-500-nights-at-dc-trump-hotel-after-2016/
-    outlet: The Hill
-    date: '2018-12-06'
-  - title: Saudi-backed lobbyists reportedly booked 500 rooms at Trump's DC hotel
-    url: https://www.cnbc.com/2018/12/06/saudi-lobbyists-reportedly-booked-500-rooms-at-trumps-dc-hotel.html
-    outlet: CNBC
-    date: '2018-12-06'
-notes: |
-  The Saudi government used lobbyists to funnel money to Trump's business immediately 
-  after his election, establishing a pattern of foreign governments paying Trump 
-  properties that would continue throughout his presidency. The veterans were often 
-  not told who was paying for their trips. This occurred while Trump was president-elect 
-  and had not yet divested from his businesses.
+- title: Saudi‑funded lobbyist paid for 500 rooms at Trump's hotel after 2016 election
+  url: https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html
+  outlet: Washington Post
+  date: '2018-12-05'
+- title: Saudi lobbyists spent $270,000 at Trump Hotel in December 2016
+  url: https://www.axios.com/2018/12/06/saudi-lobbyists-trump-international-hotel-2016-election
+  outlet: Axios
+  date: '2018-12-06'
+notes: Primary documentation and organizer interviews obtained by The Washington
+  Post underpin the room counts and purpose. This is distinct from later Saudi‑linked
+  spending at Trump's New York hotel in 2018.
 related_events:
   - 2001-01-01--saudi-trump-tower-purchase
   - 2024-01-04--house-oversight-78-million-foreign-payments

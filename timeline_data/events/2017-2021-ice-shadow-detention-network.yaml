@@ -1,14 +1,12 @@
 id: 2017-2021-ice-shadow-detention-network
 date: '2017-01-01'
 importance: 6
-title: ICE operates 1,000+ undisclosed detention sites in shadow network
-summary: Between 2017-2021, ICE expanded its detention network through 40 new contracts and
-  agreements with minimal documentation or oversight. GAO found 28 of 40 facilities lacked proper
-  documentation showing need or local outreach. ICE used intergovernmental service agreements
-  to bypass procurement laws, paying $20.5 million monthly for 12,000+ unused beds by May 2020.
-  The network included family residential centers, hotels for transport, and facilities operated
-  900 miles from their contracting cities. Officers reported management hindered independent
-  oversight of detention contracts.
+title: ICE relies on a sprawling, mostly contracted network of ~200 detention facilities; oversight fragmented
+summary: GAO reports and ICE records show that, in FY2019, ICE had contracts/agreements
+  with 230+ facilities for longer‑term detention, alongside many short‑term holds in
+  jails and Border Patrol stations. TRAC data indicate ~181 authorized detention facilities
+  in 2025. Multiple DHS entities inspect facilities, but performance goals and measures
+  remain under‑defined.
 location: United States
 actors:
 - ICE
@@ -25,24 +23,23 @@ tags:
 - guaranteed-minimums
 - oversight-failure
 sources:
-- title: 'Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight'
+- title: Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight (GAO‑21‑149)
   url: https://www.gao.gov/products/gao-21-149
-  outlet: Government Accountability Office
-  date: '2021-02-12'
-- title: "Policy Brief | Cut the Contracts: It's Time to End ICE's Corrupt Detention Management System"
-  url: https://immigrantjustice.org/research/policy-brief-cut-the-contracts-its-time-to-end-ices-corrupt-detention-management-system/
-  outlet: National Immigrant Justice Center
-  date: '2021-01-15'
-- title: 'GAO Reports ICE Wastes Hundreds of Millions Each Year'
-  url: https://www.prisonlegalnews.org/news/2021/jul/1/gao-reports-ice-wastes-hundreds-millions-each-year/
-  outlet: Prison Legal News
-  date: '2021-07-01'
-- title: 'More of the Same: Private Prison Corporations and Immigration Detention Under the Biden Administration'
-  url: https://www.aclu.org/news/immigrants-rights/more-of-the-same-private-prison-corporations-and-immigration-detention-under-the-biden-administration
-  outlet: American Civil Liberties Union
-  date: '2021-08-20'
-notes: ICE increased contracts with guaranteed minimums by 38% from FY2017-2019. City of Eloy,
-  Arizona collected $400,000/year for a detention center 900 miles away in Texas, with CoreCivic
-  receiving $261 million from 2014-2016. DHS Inspector General found South Texas Family
-  Residential Center IGSA improper under federal procurement law.
+  outlet: GAO
+  date: '2021-01-13'
+- title: DHS Should Define Goals and Measures to Assess Facility Inspection Programs (GAO‑25‑107580)
+  url: https://www.gao.gov/products/gao-25-107580
+  outlet: GAO
+  date: '2025-05-21'
+- title: ICE Contractual Capacity and Number Detained
+  url: https://tracreports.org/reports/762/
+  outlet: TRAC Syracuse
+  date: '2025-07-08'
+- title: 'Oversight of Immigration Detention: An Overview'
+  url: https://www.americanimmigrationcouncil.org/fact-sheet/oversight-immigration-detention-overview/
+  outlet: American Immigration Council
+  date: '2022-05-16'
+notes: Replace unsourced '1,000+ undisclosed sites' language with verifiable counts
+  and official oversight findings. Short‑term hoteling of children under Title 42 (2020)
+  should be handled as a separate entry (see 102).
 status: confirmed

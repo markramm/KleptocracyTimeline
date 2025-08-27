@@ -1,10 +1,12 @@
 id: 2008-01-01--acosta-told-epstein-intelligence-above-paygrade
 date: '2008-01-01'
 importance: 10
-title: US Attorney Acosta Told Epstein "Belonged to Intelligence" During Plea Deal
-summary: Alexander Acosta reportedly told Trump transition team he was informed Epstein
-  "belonged to intelligence" and matter was "above his pay grade," explaining lenient
-  13-month plea deal
+title: Report: Acosta told Trump transition Epstein 'belonged to intelligence' (unconfirmed)
+summary: Investigative reporter Vicky Ward wrote in 2019 that, during Donald Trump's
+  transition vetting, Alexander Acosta explained he had been told to 'back off' because
+  Jeffrey Epstein 'belonged to intelligence.' No U.S. government review has substantiated
+  intelligence ties; DOJ's Office of Professional Responsibility later criticized the
+  2007 non-prosecution agreement on other grounds without noting any intelligence issues.
 location: Florida
 actors:
 - Alexander Acosta
@@ -19,28 +21,25 @@ tags:
 - intelligence-protection
 - kompromat-operation
 sources:
-- title: Was Jeffrey Epstein a spy
-  url: https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/
-  outlet: Rolling Stone
-  date: '2021-05-26'
-  archive_url: https://web.archive.org/web/20210526000000/https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/
 - title: Jeffrey Epstein's Sick Story Played Out for Years in Plain Sight
-  url: https://www.thedailybeast.com/jeffrey-epsteins-sick-story-played-out-for-years-in-plain-sight/
-  outlet: Daily Beast
+  url: https://www.thedailybeast.com/jeffrey-epsteins-sick-story-played-out-for-years-in-plain-sight
+  outlet: The Daily Beast
   date: '2019-07-09'
-- title: I Was Told Epstein 'Belonged to Intelligence' And to Leave It Alone
-  url: https://talkingpointsmemo.com/edblog/i-was-told-epstein-belonged-to-intelligence-and-to-leave-it-alone
-  outlet: Talking Points Memo
-  date: '2019-07-10'
-- title: Acosta told Trump transition team he was told to 'back off' because Epstein 'belonged to intelligence'
-  url: https://www.rawstory.com/2019/07/acosta-told-trump-transition-team-he-was-told-to-back-off-because-epstein-belonged-to-intelligence-report/
-  outlet: Raw Story
-  date: '2019-07-10'
-- title: Jeffrey Epstein 'Belonged to Intelligence'?
+- title: Investigation into the Non-Prosecution Agreement with Jeffrey Epstein (Report)
+  url: https://www.justice.gov/opr/page/file/1336471/dl
+  outlet: U.S. Department of Justice – OPR
+  date: '2020-11-12'
+- title: 'Perversion of Justice: Jeffrey Epstein (topic hub)'
+  url: https://www.miamiherald.com/topics/jeffrey-epstein
+  outlet: Miami Herald
+  date: '2018-11-28'
+- title: Jeffrey Epstein 'Belonged to Intelligence'? (analysis of the claim)
   url: https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/
   outlet: WhoWhatWhy
-  date: '2019-07-11'
-notes: Most direct evidence of intelligence protection. Acosta later became Trump's
-  Labor Secretary. 13-month jail with work release for child sex trafficking. Cover-up
-  at highest levels.
-status: confirmed
+  date: '2019-10-04'
+notes: Treat this as a reported claim, not established fact. The quotation originates
+  with Vicky Ward's Daily Beast reporting; it has been widely re-circulated but not
+  officially corroborated. For context on the 2007 NPA and subsequent scrutiny of Acosta's
+  decisions, see DOJ OPR's 2020 report and the Miami Herald's 'Perversion of Justice'
+  series.
+status: reported/contested

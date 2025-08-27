@@ -1,0 +1,40 @@
+id: 2017-10-06--att-creates-oann-trump-request
+date: '2013-07-01'
+importance: 10
+title: AT&T/DirecTV served as key patron of OANN and encouraged its creation
+summary: A 2021 Reuters investigation found that AT&T executives encouraged the
+  creation of One America News Network and that carriage deals via AT&T's DirecTV supplied
+  as much as 90% of OANN's revenue for years. OANN later amplified pro‑Trump narratives,
+  including false election‑fraud claims.
+location: United States
+actors:
+- AT&T
+- One America News Network
+- Robert Herring Sr.
+- Donald Trump
+- DirecTV
+tags:
+- oann
+- att
+- media-creation
+- propaganda-network
+- trump-media
+- corporate-capture
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
+sources:
+- title: How AT&T helped build far‑right One America News
+  url: https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
+  outlet: Reuters (Special Report)
+  date: '2021-10-06'
+- title: AT&T was a crucial source of revenue for OAN, report says
+  url: https://www.cnn.com/2021/10/06/media/att-oann-reuters-investigation/index.html
+  outlet: CNN Business
+  date: '2021-10-06'
+- title: How AT&T helped build far‑right One America News
+  url: https://www.euronews.com/2021/10/07/usa-oneamerica-at-t-specialreport
+  outlet: Euronews (syndicated)
+  date: '2021-10-07'
+notes: Reframe from 'created' to the better‑sourced 'encouraged' and 'bankrolled
+  via carriage fees.'
+status: confirmed
