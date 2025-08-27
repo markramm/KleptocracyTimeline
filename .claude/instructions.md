@@ -118,7 +118,61 @@ git commit -m "Update events: [description] (validated)"
 
 ## Working with Events
 
-### Adding a New Event
+### 🆕 PREFERRED: Using YAML Management Tools
+
+The project now includes unified YAML management tools (`yaml_tools.py`) for efficient event management:
+
+```python
+from yaml_tools import YamlEventManager
+manager = YamlEventManager("timeline_data/events")
+
+# Search for events needing work
+weak_events = manager.yaml_search(return_full=True)
+weak_events = [e for e in weak_events if len(e.get('sources', [])) < 2]
+
+# Edit events with automatic validation and backup
+result = manager.yaml_edit(
+    file_path="timeline_data/events/example.yaml",
+    updates={"status": "confirmed", "importance": 8},
+    validate_before_save=True,  # Automatic validation
+    create_backup=True,          # Automatic backup
+    dry_run=False               # Set True to preview
+)
+
+# Manage sources efficiently
+result = manager.manage_sources(
+    file_path="timeline_data/events/example.yaml",
+    action="add",
+    sources=[{"title": "...", "outlet": "...", "url": "...", "date": "..."}],
+    check_duplicates=True,
+    check_urls=True
+)
+
+# Bulk operations with safety
+result = manager.yaml_bulk_edit(
+    search_criteria={"status": ["reported"], "date_range": ("2025-01-01", "2025-12-31")},
+    updates={"status": "developing"},
+    interactive=True,  # Shows preview and confirms
+    max_files=50       # Safety limit
+)
+```
+
+### CLI Usage
+```bash
+# Search events
+python yaml_tools.py search "Trump" --date-from 2024-01-01 --status confirmed
+
+# Validate with suggestions
+python yaml_tools.py validate timeline_data/events/example.yaml
+
+# Check and manage sources
+python yaml_tools.py sources timeline_data/events/example.yaml --action check-urls
+
+# Edit with automatic backup
+python yaml_tools.py edit timeline_data/events/example.yaml --field importance --value 8 --dry-run
+```
+
+### Legacy Method: Manual Event Management
 ```bash
 # 1. Create file with proper naming
 touch timeline_data/events/2024-11-20--event-description.yaml
@@ -130,7 +184,7 @@ python timeline_data/validate_yaml.py
 # 4. Fix any issues before committing
 ```
 
-### Updating Existing Events
+### Updating Existing Events (Legacy)
 ```bash
 # 1. Validate current state
 python timeline_data/validate_yaml.py
@@ -147,7 +201,7 @@ python tools/validation/check_all_links.py
 python tools/archiving/archive_with_progress.py
 ```
 
-### Bulk Operations
+### Bulk Operations (Legacy)
 ```bash
 # ALWAYS validate before and after bulk changes
 python timeline_data/validate_yaml.py > before.txt

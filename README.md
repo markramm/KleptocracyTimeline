@@ -26,6 +26,28 @@ See [DEVELOPMENT_SETUP.md](DEVELOPMENT_SETUP.md) for detailed setup instructions
 - Running tests
 - Troubleshooting
 
+### YAML Management Tools
+
+The project includes powerful YAML management tools for working with timeline events:
+
+```bash
+# Search for events
+python yaml_tools.py search "keyword" --date-from 2024-01-01 --date-to 2024-12-31
+
+# Validate events
+python yaml_tools.py validate  # All files
+python yaml_tools.py validate timeline_data/events/specific-event.yaml
+
+# Manage sources
+python yaml_tools.py sources timeline_data/events/event.yaml --action validate
+python yaml_tools.py sources timeline_data/events/event.yaml --action check-urls
+
+# Edit events (with automatic backup and validation)
+python yaml_tools.py edit timeline_data/events/event.yaml --field importance --value 8
+```
+
+See `yaml_tools.py --help` for full documentation.
+
 ### View the Timeline
 
 **Option 1: React App (Full Interactive Experience)**

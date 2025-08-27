@@ -40,6 +40,22 @@ You are working on the Kleptocracy Timeline - a critical documentation project t
 4. Preserve link integrity with archive.org backups
 5. Follow AGENT.md guidelines in each directory
 
+### YAML Management Tools
+The project now includes unified YAML management tools (`yaml_tools.py`) that provide:
+- **Unified search** - Search events by any field, date range, importance, status, tags, or actors
+- **Smart editing** - Field-level edits with automatic validation and backup
+- **Bulk operations** - Apply changes to multiple events matching criteria
+- **Source management** - Add, validate, check URLs, detect duplicates
+- **Validation** - Schema validation with improvement suggestions
+- **Built-in safety** - Automatic backups, dry-run mode, validation before save
+
+Use these tools instead of multiple grep/read/edit operations for better efficiency and safety:
+```python
+from yaml_tools import YamlEventManager
+manager = YamlEventManager()
+results = manager.yaml_search(query="Trump", date_range=("2024-01-01", "2024-12-31"))
+```
+
 ## 👤 For Human Contributors
 
 ### Quick Navigation
