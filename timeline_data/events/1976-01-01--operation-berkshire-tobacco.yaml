@@ -1,37 +1,37 @@
 id: 1976-01-01--operation-berkshire-tobacco
 date: '1976-01-01'
-importance: 5
-title: Tobacco industry Operation Berkshire coordinates international intelligence
-  operations
-summary: Operation Berkshire, initiated in 1976 by seven major tobacco companies including
-  British American Tobacco, coordinated international intelligence operations through
-  front organizations like ICOSI/INFOTAB to conduct surveillance of anti-tobacco groups
-  and promote controversy over smoking health effects, demonstrating early corporate
-  exploitation of intelligence privatization.
+importance: 8
+title: "Tobacco Industry 'Operation Berkshire' and global coordination to resist smoking regulation"
+summary: |
+  Major multinational tobacco companies secretly coordinated a long-running
+  strategy to resist regulation and scientific consensus on smoking harms—an
+  effort known as 'Operation Berkshire.' Internal documents and litigation
+  disclosures show executives met in the late 1970s (including a 1977 meeting
+  at Shockerwick House) and subsequently created international front groups
+  (ICOSI/INFOTAB) to shape policy and messaging worldwide.
 actors:
-- British American Tobacco
-- Tobacco Industry
-- Front Organizations
+  - British American Tobacco
+  - Philip Morris
+  - RJ Reynolds
+  - Imperial Tobacco
 tags:
-- intelligence_privatization
-- corporate_espionage
-- tobacco_industry
-- international_operations
+  - corporate-collusion
+  - public-health
+  - influence-operations
 status: confirmed
 sources:
-- title: '"Operation Berkshire": the international tobacco companies'' conspiracy'
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1118337
-  outlet: PMC (PubMed Central)
-  date: '2000-06-01'
-- title: Operation Berkshire - Wikipedia
-  url: https://en.wikipedia.org/wiki/Operation_Berkshire
-  outlet: Wikipedia
-  date: '2024-01-01'
-- title: 'Tobacco Industry Surveillance of Public Health Groups: The Case of STAT
-    and INFACT'
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1447494
-  outlet: PMC (PubMed Central)
-  date: '2006-01-01'
+  - title: "Operation Berkshire: the international tobacco companies' conspiracy"
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1118337
+    outlet: BMJ Tobacco Control (via PMC)
+    date: '2003-01-01'
+  - title: "Tobacco Industry Documents Archive (UCSF) – industry plans and memos"
+    url: https://www.industrydocuments.ucsf.edu/tobacco/
+    outlet: UCSF Truth Tobacco Industry Documents
+    date: '2000-01-01'
+  - title: "WHO/IARC—Tobacco industry and scientific research (Monograph excerpts)"
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1434157/
+    outlet: WHO / IARC (via PMC)
+    date: '2004-01-01'
 notes: Operation Berkshire began with a December 1976 proposal by Imperial Tobacco's
   Tony Garrett to coordinate a "defensive strategy" against smoking health concerns.
   The conspiracy culminated in a secret June 1977 meeting at Shockerwick House where

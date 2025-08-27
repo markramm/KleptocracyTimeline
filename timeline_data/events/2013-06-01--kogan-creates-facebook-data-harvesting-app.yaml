@@ -1,47 +1,36 @@
 id: 2013-06-01--kogan-creates-facebook-data-harvesting-app
 date: '2013-06-01'
 importance: 8
-title: Aleksandr Kogan Creates "This Is Your Digital Life" App to Harvest Facebook
-  Data
-summary: Cambridge University researcher Aleksandr Kogan develops Facebook app that
-  harvests user data and friends' data, eventually collecting 87 million profiles
-  for Cambridge Analytica
-location: Cambridge, United Kingdom
+title: "Aleksandr Kogan creates 'This Is Your Digital Life' Facebook app; data later used by Cambridge Analytica"
+summary: |
+  Cambridge University researcher Aleksandr Kogan developed a personality-quiz
+  app that collected data via Facebook's API and shared it with Cambridge
+  Analytica. Regulators later documented deceptive practices; Facebook estimated
+  up to ~87 million users were affected.
 actors:
-- Aleksandr Kogan
-- Facebook
-- Cambridge Analytica
-- Global Science Research
+  - Aleksandr Kogan
+  - Facebook
+  - Cambridge Analytica
+  - Global Science Research
 tags:
-- data-harvesting
-- cambridge-analytica
-- facebook-breach
-- privacy-violation
-- election-interference
-capture_lanes:
-- Election System Attack
-sources:
-- title: Facebook Cambridge Analytica data scandal
-  url: https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
-  outlet: Wikipedia
-  date: '2024-01-01'
-  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal
-- title: Aleksandr Kogan - The link between Cambridge Analytica and the Facebook data breach
-  url: https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/
-  outlet: CBS News
-  date: '2018-04-22'
-  archive_url: https://web.archive.org/web/20180422000000/https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/
-- title: Facebook-Cambridge Analytica - A timeline of the data hijacking scandal
-  url: https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html
-  outlet: CNBC
-  date: '2018-04-10'
-  archive_url: https://web.archive.org/web/20180410000000/https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html
-- title: Aleksandr Kogan fires back - Facebook data collection was 'business as usual'
-  url: https://www.nbcnews.com/tech/social-media/business-usual-aleksandr-kogan-fires-back-facebook-over-cambridge-analytica-n868321
-  outlet: NBC News
-  date: '2018-04-25'
-  archive_url: https://web.archive.org/web/20180425000000/https://www.nbcnews.com/tech/social-media/business-usual-aleksandr-kogan-fires-back-facebook-over-cambridge-analytica-n868321
-notes: App appeared as personality quiz. Only 270,000 users participated but friends'
-  data also scraped. Foundation of Cambridge Analytica operation. Facebook API allowed
-  this access.
+  - data-harvesting
+  - cambridge-analytica
+  - privacy-violation
+  - election-interference
 status: confirmed
+sources:
+  - title: "UK Parliament DCMS—'Disinformation and fake news' (evidence)"
+    url: https://publications.parliament.uk/pa/cm201719/cmselect/cmcumeds/1791/1791.pdf
+    outlet: UK Parliament DCMS Committee
+    date: '2019-02-18'
+  - title: "FTC administrative complaint—Cambridge Analytica, Nix & Kogan"
+    url: https://www.ftc.gov/system/files/documents/cases/182_3107_cambridge_analytica_administrative_complaint_7-24-19.pdf
+    outlet: Federal Trade Commission
+    date: '2019-07-24'
+  - title: "Hard Questions—Russian Ads Delivered to Congress (platform context)"
+    url: https://about.fb.com/news/2017/10/hard-questions-russian-ads-delivered-to-congress/
+    outlet: Meta (Facebook) Newsroom
+    date: '2017-10-02'
+notes: |
+  Numbers vary by source; Facebook later put the potential impact at ~87 million
+  users. Included primary regulatory filings for verifiability.

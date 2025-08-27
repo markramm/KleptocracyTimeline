@@ -1,40 +1,28 @@
 id: 2025-08-01--gsa-northwest-90-percent-fired
 date: '2025-08-01'
-importance: 6
-title: GSA northwest region sees 90% of employees fired
-summary: By March 2025, entire regions of GSA were effectively fired, with 90% of
-  roughly 200 employees in the northwest region's Public Buildings Service terminated.
-  GSA also fired all 100 employees in the Office of the Chief Financial Officer and
-  at least 600 more in late February. Acting Administrator Stephen Ehikian created
-  a "murder board" to identify positions to cut, targeting a 63% total workforce reduction
-  (3,557 positions).
-location: Pacific Northwest
-actors:
-- General Services Administration (GSA)
-- Stephen Ehikian (Acting Administrator)
-- Trump administration
-- Public Buildings Service
-- 18F federal technology team
+importance: 9
+title: "GSA Public Buildings Service: reports of >90% RIF in Northwest Region (Region 10)"
+summary: |
+  Government Executive reported that GSA issued RIF notices to more than 90% of
+  roughly 200 Public Buildings Service employees in its Northwest region, as
+  part of broader workforce reductions that also targeted the CFO's office and
+  TTS/18F. The scale is contested across sources; present media tallies
+  alongside any official statements or union counts.
 tags:
-- federal-workforce
-- mass-layoffs
-- gsa
-- regional-targeting
-- reduction-in-force
-- doge
-- civil-service-purge
-capture_lanes:
-- Federal Workforce Capture
+  - federal-layoffs
+  - public-buildings-service
+  - workforce-reductions
+status: reported
 sources:
-- title: 'RIF watch: See which agencies are laying off federal workers'
-  url: https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/
-  outlet: Government Executive
-  date: '2025-02-28'
-- title: 2025 United States federal mass layoffs
-  url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
-  outlet: Wikipedia
-  date: '2025-08-01'
-notes: Elon Musk announced on X that GSA's 18F technology team "has been deleted",
-  with roughly 90 federal technologists fired around midnight as part of reduction-in-force.
-  This represents one of the most extreme targeted eliminations of federal expertise.
-status: confirmed
+  - title: "GSA continues slow drip of RIFs, nearly wiping out entire offices"
+    url: https://www.govexec.com/workforce/2025/03/gsa-continues-slow-drip-rifs-nearly-wiping-out-entire-offices/403573/
+    outlet: Government Executive
+    date: '2025-03-07'
+  - title: "RIF watch—running tally of agency layoffs"
+    url: https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/
+    outlet: Government Executive
+    date: '2025-02-27'
+notes: |
+  Use GovExec's specific reporting for Region 10 (Mar. 7) rather than Wikipedia
+  summaries. If GSA/OPM release official numbers later, update to reflect exact
+  figures.

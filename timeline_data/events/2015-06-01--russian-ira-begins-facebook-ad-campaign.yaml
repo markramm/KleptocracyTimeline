@@ -1,51 +1,32 @@
 id: 2015-06-01--russian-ira-begins-facebook-ad-campaign
 date: '2015-06-01'
 importance: 9
-title: Russian Internet Research Agency Begins Facebook Ad Campaign to Influence US
-  Election
-summary: Russian IRA starts purchasing Facebook ads as part of "information warfare"
-  campaign, eventually spending $100,000+ reaching millions of Americans through
-  2017
-location: St. Petersburg, Russia
+title: "Russian Internet Research Agency begins Facebook ad campaign to influence U.S. politics"
+summary: |
+  The St. Petersburg-based Internet Research Agency began purchasing Facebook
+  ads and running coordinated influence operations. Senate Intelligence
+  Committee reports and platform disclosures document spending (about $100,000
+  on ~3,000 ads) and reach in the tens of millions between 2015 and 2017.
 actors:
-- Internet Research Agency
-- Facebook
-- Russian Government
-- Yevgeny Prigozhin
+  - Internet Research Agency
+  - Facebook
+  - Yevgeny Prigozhin
 tags:
-- russian-interference
-- facebook-ads
-- election-manipulation
-- foreign-influence
-- ira-operations
-capture_lanes:
-- Foreign Influence Operations
-sources:
-- title: Russian interference in 2016 election
-  url: https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections
-  outlet: Wikipedia
-  date: '2024-01-01'
-  archive_url: https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Russian_interference_in_the_2016_United_States_elections
-- title: Grand Jury Indicts Thirteen Russian Individuals and Three Russian Companies for Scheme to Interfere in the United States Political System
-  url: https://www.justice.gov/archives/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere
-  outlet: Department of Justice
-  date: '2018-02-16'
-  archive_url: https://web.archive.org/web/20180216000000/https://www.justice.gov/archives/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere
-- title: The Russia Investigations - Mueller Indicts The 'Internet Research Agency'
-  url: https://www.npr.org/2018/02/17/586698361/the-russia-investigations-mueller-indicts-the-internet-research-agency
-  outlet: NPR
-  date: '2018-02-17'
-  archive_url: https://web.archive.org/web/20180217000000/https://www.npr.org/2018/02/17/586698361/the-russia-investigations-mueller-indicts-the-internet-research-agency
-- title: Exposing Russia's Effort to Sow Discord Online - The Internet Research Agency and Advertisements
-  url: https://democrats-intelligence.house.gov/social-media-content/
-  outlet: House Intelligence Committee Democrats
-  date: '2018-02-16'
-  archive_url: https://web.archive.org/web/20180216000000/https://democrats-intelligence.house.gov/social-media-content/
-- title: Here's A Detailed Look At How Russian Trolls Used Social Media To Meddle In The 2016 Election
-  url: https://www.buzzfeednews.com/article/ryanhatesthis/mueller-report-internet-research-agency-detailed-2016
-  outlet: BuzzFeed News
-  date: '2019-04-18'
-  archive_url: https://web.archive.org/web/20190418000000/https://www.buzzfeednews.com/article/ryanhatesthis/mueller-report-internet-research-agency-detailed-2016
-notes: Ads ran June 2015-May 2017. Focused on divisive issues. 25% geographically
-  targeted. Reached 4-5 million users. Part of "sweeping and systematic" interference.
+  - russian-interference
+  - facebook-ads
+  - election-manipulation
+  - foreign-influence
 status: confirmed
+sources:
+  - title: "Senate Intel—Russia's Use of Social Media (Vol. 2)"
+    url: https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf
+    outlet: U.S. Senate Select Committee on Intelligence
+    date: '2019-10-08'
+  - title: "Hard Questions—Russian Ads Delivered to Congress"
+    url: https://about.fb.com/news/2017/10/hard-questions-russian-ads-delivered-to-congress/
+    outlet: Meta (Facebook) Newsroom
+    date: '2017-10-02'
+  - title: "Facebook says likely Russian-based operation funded U.S. ads"
+    url: https://www.reuters.com/article/technology/facebook-says-likely-russian-based-operation-funded-us-ads-with-political-mess-idUSKCN1BH2VX/
+    outlet: Reuters
+    date: '2017-09-06'
