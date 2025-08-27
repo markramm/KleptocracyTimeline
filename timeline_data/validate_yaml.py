@@ -15,7 +15,7 @@ class TimelineEventValidator:
     
     REQUIRED_FIELDS = ['id', 'date', 'title', 'summary', 'sources', 'status']
     OPTIONAL_FIELDS = ['location', 'actors', 'tags', 'capture_lanes', 'notes', 'citations']
-    VALID_STATUSES = ['confirmed', 'disputed', 'developing', 'retracted']
+    VALID_STATUSES = ['confirmed', 'disputed', 'developing', 'retracted', 'pending', 'predicted', 'reported', 'reported/contested']
     VALID_CAPTURE_LANES = [
         'Executive Power & Emergency Authority',
         'Judicial Capture & Corruption', 

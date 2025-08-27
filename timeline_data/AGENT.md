@@ -39,6 +39,31 @@ id: fec_ai_rulemaking
 
 **Having a valid URL is NOT sufficient for any status level. You MUST actually read and verify sources.**
 
+## CRITICAL: Schema Validation Protocol
+
+### ⚠️ ALWAYS VALIDATE BEFORE AND AFTER MODIFICATIONS ⚠️
+
+**You MUST run schema validation checks before and after ANY timeline event modifications.**
+
+### Mandatory Validation Workflow
+```bash
+# 1. BEFORE making any changes
+python timeline_data/validate_yaml.py
+
+# 2. Make your changes to event files
+
+# 3. AFTER making changes - MANDATORY
+python timeline_data/validate_yaml.py
+
+# 4. Check date logic
+python tools/validation/validate_timeline_dates.py
+
+# 5. Run comprehensive QA
+python tools/qa/timeline_qa_system.py
+```
+
+If ANY validation fails, DO NOT commit changes. Fix issues first.
+
 ## Required Steps for ALL Timeline Operations
 
 ### Phase 1: Source Verification (MANDATORY)
@@ -278,6 +303,9 @@ async def add_timeline_event(title, date, sources):
 
 ## Common Failures and Solutions
 
+### ❌ FAILURE: "Forgot to run schema validation"
+✅ SOLUTION: ALWAYS run `python timeline_data/validate_yaml.py` before AND after changes
+
 ### ❌ FAILURE: "Source URL returns 200 so marking as confirmed"
 ✅ SOLUTION: Actually fetch, read, and verify content matches event
 
@@ -292,6 +320,9 @@ async def add_timeline_event(title, date, sources):
 
 ### ❌ FAILURE: "No archives created"
 ✅ SOLUTION: Create archive.org link for every source
+
+### ❌ FAILURE: "Schema validation errors after edits"
+✅ SOLUTION: Run validation BEFORE committing, fix all issues first
 
 ## Performance Metrics
 
@@ -384,6 +415,34 @@ For comprehensive instructions on using ChatGPT, Claude, Cursor, and other AI to
 3. Emphasize: 2+ sources required for 'confirmed' status
 4. Request: Source verification and archive creation
 
+## Schema Validation Quick Reference
+
+### Essential Commands
+```bash
+# Run these EVERY time you modify events:
+python timeline_data/validate_yaml.py          # Schema validation
+python tools/validation/validate_timeline_dates.py  # Date logic check
+python tools/qa/timeline_qa_system.py          # Comprehensive QA
+```
+
+### Common Schema Errors
+| Error | Fix |
+|-------|-----|
+| Missing required field | Add: `status`, `sources`, `summary`, etc. |
+| Invalid date format | Use: `date: 'YYYY-MM-DD'` |
+| ID mismatch | Match filename: `id: 2024-01-01--event-name` |
+| Future confirmed | Change to: `status: predicted` |
+| No sources | Add at least one source with title, url, outlet, date |
+| Underscores in ID | Replace with hyphens: `supreme_court` → `supreme-court` |
+
+### Validation Workflow
+1. **BEFORE edits**: `python timeline_data/validate_yaml.py`
+2. **Make changes**
+3. **AFTER edits**: `python timeline_data/validate_yaml.py`
+4. **Date check**: `python tools/validation/validate_timeline_dates.py`
+5. **Full QA**: `python tools/qa/timeline_qa_system.py`
+6. **Only then commit**
+
 ## Notes
 
 - **When in doubt**: Use `status: pending`
@@ -393,3 +452,4 @@ For comprehensive instructions on using ChatGPT, Claude, Cursor, and other AI to
 - **Archive immediately**: Sources disappear
 - **Escape apostrophes**: Use double quotes for titles with apostrophes
 - **Multiple AI tools**: See `/AI_INTEGRATION.md` for tool-specific guides
+- **ALWAYS VALIDATE**: Run schema checks before AND after ANY changes
