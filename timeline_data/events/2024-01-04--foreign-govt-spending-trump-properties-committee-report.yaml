@@ -1,0 +1,62 @@
+id: 2024-01-04--foreign-govt-spending-trump-properties-committee-report
+date: '2024-01-04'
+importance: 9
+title: "House Oversight minority report: at least $7.8M from 20 foreign governments to Trump businesses (partial records)"
+summary: |
+  A staff report by House Oversight Committee Democrats, based on Mazars-produced records for
+  limited years and entities, found that Trump businesses received at least $7.8 million from 20
+  foreign governments while he was president—likely an undercount. Watchdogs report higher
+  estimates when aggregating additional sources, while Trump publicly asserted the payments
+  were for ordinary services.
+notes: |
+  Show both: (1) the official congressional minority report and executive summary; (2) independent
+  watchdog tallies (CREW). Note that the committee had incomplete records after production was
+  curtailed, so figures are minimums, not totals.
+status: confirmed
+actors:
+  - U.S. House Committee on Oversight (Minority Staff)
+  - Donald J. Trump / Trump Organization
+  - CREW
+tags:
+  - emoluments
+  - foreign-influence
+  - transparency
+patterns: []
+related_events:
+  - 2017-01-20--secret-service-spending-trump-properties
+capture_lanes:
+  - Financial Corruption & Kleptocracy
+location: United States
+sources:
+  - date: '2024-01-04'
+    outlet: U.S. House Oversight (Democratic staff)
+    title: "Report: Trump Businesses Received Millions from Foreign Governments (PDF)"
+    url: https://www.congress.gov/118/meeting/house/116733/documents/HMKP-118-JU00-20240110-SD005.pdf
+    archive_url: ""
+    key_facts_confirmed:
+      - $7.8M figure; countries list; limited records caveat
+    verified: true
+  - date: '2024-01-04'
+    outlet: Oversight Democrats
+    title: "Press release and summary of $7.8M findings"
+    url: https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-release-report-proving-trump-pocketed-millions-from-at-least
+    archive_url: ""
+    key_facts_confirmed:
+      - Breakdown by country; documentation basis (Mazars records)
+    verified: true
+  - date: '2024-09-17'
+    outlet: CREW
+    title: "Trump likely benefited from $13.6M in foreign government payments (expanded tally)"
+    url: https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/
+    archive_url: ""
+    key_facts_confirmed:
+      - Higher estimate when aggregating more years/entities
+    verified: true
+  - date: '2024-01-05'
+    outlet: Business Insider
+    title: "Trump says foreign payments were for services at his properties"
+    url: https://www.businessinsider.com/donald-trump-says-his-businesses-did-services-for-foreign-governments-2024-1
+    archive_url: ""
+    key_facts_confirmed:
+      - Trump's response framing payments as ordinary services
+    verified: true

@@ -1,0 +1,55 @@
+id: 2019-06-27--scotus-census-citizenship-question-pretext-hofeller
+date: '2019-06-27'
+importance: 10
+title: "Supreme Court blocks 2020 Census citizenship question as 'contrived'; filings tie rationale to Hofeller partisan plan"
+summary: |
+  In Department of Commerce v. New York, the Supreme Court held that the Secretary's stated
+  rationale for adding a Census citizenship question was "contrived" and set aside the decision.
+  Separate court filings introduced the late GOP strategist Thomas Hofeller's 2015 study and
+  documents indicating the citizenship question would advantage "Republicans and Non‑Hispanic
+  Whites" and that Hofeller helped draft DOJ language used to justify the question.
+notes: |
+  Balance the official Supreme Court ruling with the extensive record from plaintiffs showing the
+  political advantage rationale in Hofeller's files; include motions introducing those documents.
+status: confirmed
+actors:
+  - U.S. Department of Commerce
+  - U.S. Census Bureau
+  - Supreme Court of the United States
+  - Thomas Hofeller
+tags:
+  - census
+  - voting-rights
+  - redistricting
+  - administrative-law
+patterns: []
+related_events:
+  - 2023-06-08--allen-v-milligan
+capture_lanes:
+  - Election System Attack
+location: United States
+sources:
+  - date: '2019-06-27'
+    outlet: Supreme Court of the United States
+    title: "Department of Commerce v. New York (opinion PDF)"
+    url: https://www.supremecourt.gov/opinions/18pdf/18-966_bq7c.pdf
+    archive_url: ""
+    key_facts_confirmed:
+      - Court found stated rationale "contrived"; decision set aside
+    verified: true
+  - date: '2019-05-30'
+    outlet: Supreme Court docket filing
+    title: "NYIC Respondents' Notice of Filing (introducing Hofeller evidence)"
+    url: https://www.supremecourt.gov/DocketPDF/18/18-966/101439/20190530142417722_2019.05.30%20NYIC%20Respondents%20Notice%20of%20Filing%20--%20Final.pdf
+    archive_url: ""
+    key_facts_confirmed:
+      - Hofeller study: citizenship question advantages Republicans and Non‑Hispanic Whites
+    verified: true
+  - date: '2019-06-04'
+    outlet: Brennan Center (court filing host)
+    title: "Reply in Support of Motion (Hofeller files quotations and context)"
+    url: https://www.brennancenter.org/sites/default/files/legal-work/NYICplaintiffs_reply_6.4.19.pdf
+    archive_url: ""
+    key_facts_confirmed:
+      - Direct quotations from Hofeller's 2015 analysis
+    verified: true

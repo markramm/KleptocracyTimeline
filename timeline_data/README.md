@@ -334,20 +334,46 @@ Before marking as `confirmed`, verify:
 
 ### Validation Scripts
 
+#### How to Run Validation Scripts
+
+**IMPORTANT**: All Python scripts should be run with `python3` command, not `python`.
+
 ```bash
-# Daily validation routine
-python scripts/validate_timeline_dates.py      # Check dates and status
-python scripts/validation/final_quality_check.py # Comprehensive validation
-python scripts/build_timeline_index.py         # Generate searchable index
-python scripts/link_check.py timeline_data/    # Verify source URLs
+# ESSENTIAL: Run schema validation BEFORE and AFTER any changes
+cd timeline_data
+python3 validate_yaml.py
 
-# Archive management
-python scripts/archiving/quick_archive.py      # Archive new sources
-python scripts/archiving/final_archive_report.py # Archive coverage report
+# From project root - check date logic
+python3 tools/validation/validate_timeline_dates.py
 
-# Fix common issues
-python scripts/fixes/fix_critical_issues.py    # Auto-fix formatting
-python scripts/rename_timeline_separator.py    # Fix naming convention
+# Daily validation routine (from project root)
+python3 tools/validation/validate_timeline_dates.py      # Check dates and status
+python3 tools/validation/check_all_links.py              # Verify source URLs
+
+# Archive management (from project root)
+python3 tools/archiving/archive_with_progress.py         # Archive new sources
+python3 tools/archiving/gen_archive_qa.py               # Archive coverage report
+
+# Fix common issues (from project root)
+python3 tools/validation/auto_fix_simple_cases.py       # Auto-fix formatting
+```
+
+#### Quick Validation Workflow
+
+```bash
+# 1. ALWAYS validate before making changes
+cd timeline_data && python3 validate_yaml.py && cd ..
+
+# 2. Make your changes
+
+# 3. ALWAYS validate after changes
+cd timeline_data && python3 validate_yaml.py && cd ..
+
+# 4. Check date logic
+python3 tools/validation/validate_timeline_dates.py
+
+# 5. If all passes, commit with validation note
+git commit -m "Update: [description] (validated)"
 ```
 
 ### Review Checklist

@@ -46,21 +46,26 @@ id: fec_ai_rulemaking
 **You MUST run schema validation checks before and after ANY timeline event modifications.**
 
 ### Mandatory Validation Workflow
+
+**IMPORTANT**: To reduce unnecessary tool runs, batch your validations and run from correct directories.
+
 ```bash
-# 1. BEFORE making any changes
-python timeline_data/validate_yaml.py
+# 1. BEFORE making any changes (run ONCE from timeline_data dir)
+cd timeline_data && python3 validate_yaml.py && cd ..
 
-# 2. Make your changes to event files
+# 2. Make ALL your changes to event files
 
-# 3. AFTER making changes - MANDATORY
-python timeline_data/validate_yaml.py
+# 3. AFTER all changes - MANDATORY (run ONCE)
+cd timeline_data && python3 validate_yaml.py && cd ..
 
-# 4. Check date logic
-python tools/validation/validate_timeline_dates.py
+# 4. Check date logic (only if dates were modified)
+python3 tools/validation/validate_timeline_dates.py
 
-# 5. Run comprehensive QA
-python tools/qa/timeline_qa_system.py
+# 5. Skip comprehensive QA unless specifically needed (requires dependencies)
+# python3 tools/qa/timeline_qa_system.py  # Only if available
 ```
+
+**NOTE**: A pre-commit hook now automatically validates changes. If validation fails during commit, fix issues and try again.
 
 If ANY validation fails, DO NOT commit changes. Fix issues first.
 
@@ -419,10 +424,10 @@ For comprehensive instructions on using ChatGPT, Claude, Cursor, and other AI to
 
 ### Essential Commands
 ```bash
-# Run these EVERY time you modify events:
-python timeline_data/validate_yaml.py          # Schema validation
-python tools/validation/validate_timeline_dates.py  # Date logic check
-python tools/qa/timeline_qa_system.py          # Comprehensive QA
+# Run validation efficiently - batch changes then validate ONCE:
+cd timeline_data && python3 validate_yaml.py && cd ..  # Schema validation
+python3 tools/validation/validate_timeline_dates.py     # Date logic (if dates changed)
+# Skip timeline_qa_system.py unless specifically needed (requires dependencies)
 ```
 
 ### Common Schema Errors
@@ -435,13 +440,12 @@ python tools/qa/timeline_qa_system.py          # Comprehensive QA
 | No sources | Add at least one source with title, url, outlet, date |
 | Underscores in ID | Replace with hyphens: `supreme_court` → `supreme-court` |
 
-### Validation Workflow
-1. **BEFORE edits**: `python timeline_data/validate_yaml.py`
-2. **Make changes**
-3. **AFTER edits**: `python timeline_data/validate_yaml.py`
-4. **Date check**: `python tools/validation/validate_timeline_dates.py`
-5. **Full QA**: `python tools/qa/timeline_qa_system.py`
-6. **Only then commit**
+### Validation Workflow (Optimized)
+1. **BEFORE edits**: `cd timeline_data && python3 validate_yaml.py && cd ..`
+2. **Make ALL changes at once** (batch edits to reduce tool runs)
+3. **AFTER edits**: `cd timeline_data && python3 validate_yaml.py && cd ..`
+4. **Date check** (only if dates changed): `python3 tools/validation/validate_timeline_dates.py`
+5. **Commit** (pre-commit hook will validate automatically)
 
 ## Notes
 

@@ -1,0 +1,45 @@
+id: 2019-03-05--t-mobile-spending-trump-hotel-merger-review
+date: '2019-03-05'
+importance: 8
+title: "During Sprint merger review, T-Mobile executives spent ~$195,000 at Trump's D.C. hotel"
+summary: |
+  While seeking federal approval of the T-Mobile–Sprint merger, T-Mobile executives sharply
+  increased spending at Trump International Hotel in Washington—about $195,000 on rooms,
+  meeting space, and services—according to company letters and reporting. The company said the
+  stays did not affect the merger's review.
+notes: |
+  Use company letter figures reported by Reuters and the Washington Post; note that the FCC/DOJ
+  approvals proceeded separately, but the patronage raised conflict-of-interest concerns.
+status: confirmed
+actors:
+  - T-Mobile US
+  - Sprint
+  - Trump International Hotel Washington
+  - FCC
+  - DOJ Antitrust Division
+tags:
+  - merger-review
+  - lobbying
+  - conflicts
+patterns: []
+related_events: []
+capture_lanes:
+  - Corporate Capture & Regulatory Breakdown
+location: Washington, D.C.
+sources:
+  - date: '2019-03-05'
+    outlet: Reuters
+    title: "T-Mobile spent $195,000 at Trump hotel since merger announcement"
+    url: https://www.reuters.com/article/us-sprint-corp-m-a-trump/t-mobile-spent-195000-at-trump-hotel-in-d-c-since-merger-announcement-idUSKCN1QM1ZY/
+    archive_url: ""
+    key_facts_confirmed:
+      - ~$195,000 figure; timing relative to merger announcement
+    verified: true
+  - date: '2019-03-05'
+    outlet: Washington Post
+    title: "T-Mobile acknowledges sharp increase in patronage after merger announcement"
+    url: https://www.washingtonpost.com/politics/t-mobile-acknowledges-its-patronage-of-trumps-washington-hotel-increased-sharply-after-announcement-of-merger-with-sprint/2019/03/05/d123be66-3ecb-11e9-922c-64d6b7840b82_story.html
+    archive_url: ""
+    key_facts_confirmed:
+      - Company letter detailing expenditures and services purchased
+    verified: true
