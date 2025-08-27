@@ -1,7 +1,8 @@
 id: 2025-07-21--administration-defying-35-percent-court-orders
 date: '2025-07-21'
 importance: 10
-title: Trump Administration Defying 35% of Court Orders, Unprecedented Constitutional Crisis
+title: Trump Administration Defying 35% of Court Orders, Unprecedented Constitutional
+  Crisis
 summary: Washington Post analysis finds Trump administration accused of defying or
   frustrating court oversight in 57 of 165 cases where judges ruled against them,
   unprecedented 35% noncompliance rate marking end of judicial review
@@ -10,7 +11,7 @@ actors:
 - Trump Administration
 - Federal Courts
 - Department of Justice
-- Federal Agencies
+- Federal agencies
 tags:
 - court-defiance
 - constitutional-crisis
@@ -23,7 +24,8 @@ capture_lanes:
 - Executive Power & Emergency Authority
 - Judicial Capture & Corruption
 sources:
-- title: Trump accused of defying about a third of major court orders since taking office
+- title: Trump accused of defying about a third of major court orders since taking
+    office
   url: https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/
   outlet: Washington Post
   date: '2025-07-21'

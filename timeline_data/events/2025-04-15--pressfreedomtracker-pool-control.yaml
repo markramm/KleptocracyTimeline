@@ -1,7 +1,12 @@
 date: '2025-04-15'
 importance: 5
 title: 'Press Freedom Tracker: White House wrests control of press pool structure'
-summary: The U.S. Press Freedom Tracker documented on April 15, 2025, how the White House wrested control of the presidential press pool from journalists, eliminating the permanent wire service position days after a court ordered restoration of AP access. This unprecedented move allows the administration to hand-pick which journalists cover the president, ending decades of independent press pool composition controlled by the White House Correspondents' Association.
+summary: The U.S. Press Freedom Tracker documented on April 15, 2025, how the White
+  House wrested control of the presidential press pool from journalists, eliminating
+  the permanent wire service position days after a court ordered restoration of AP
+  access. This unprecedented move allows the administration to hand-pick which journalists
+  cover the president, ending decades of independent press pool composition controlled
+  by the White House Correspondents' Association.
 tags:
 - media-access
 - press-freedom
@@ -18,8 +23,11 @@ actors:
 - U.S. Press Freedom Tracker
 - White House Correspondents' Association (WHCA)
 - Associated Press
-- Trump administration
-notes: This restructuring came immediately after losing the April 8 court case over AP access, demonstrating the administration's determination to control media coverage despite judicial orders. First time in modern history the executive branch seized control of press pool composition.
+- Trump Administration
+notes: This restructuring came immediately after losing the April 8 court case over
+  AP access, demonstrating the administration's determination to control media coverage
+  despite judicial orders. First time in modern history the executive branch seized
+  control of press pool composition.
 status: confirmed
 sources:
 - title: White House wrests control of presidential press pool from correspondents

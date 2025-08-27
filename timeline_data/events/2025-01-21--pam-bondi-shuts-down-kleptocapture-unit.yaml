@@ -21,9 +21,9 @@ tags:
 - trump-administration
 actors:
 - pam-bondi
-- department-of-justice
-- fbi
-- trump-administration
+- Department of Justice
+- FBI
+- Trump Administration
 capture_lane: judicial
 status: confirmed
 sources:

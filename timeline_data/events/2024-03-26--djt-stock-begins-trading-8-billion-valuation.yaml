@@ -10,7 +10,7 @@ actors:
 - Donald Trump
 - Trump Media & Technology Group
 - NYSE
-- Donald Trump Jr
+- Donald Trump Jr.
 tags:
 - truth-social
 - stock-market
@@ -29,7 +29,7 @@ sources:
   outlet: CNN
   date: '2024-03-26'
   archive_url: https://web.archive.org/web/20240326000000/https://www.cnn.com/2024/03/26/politics/djt-stock-trump-what-matters/index.html
-notes: First time in history a presidential candidate owns publicly traded media
-  company. Stock can be purchased by anyone including foreign governments. Creates
-  direct path for influence buying.
+notes: First time in history a presidential candidate owns publicly traded media company.
+  Stock can be purchased by anyone including foreign governments. Creates direct path
+  for influence buying.
 status: confirmed

@@ -1,30 +1,38 @@
 id: 2010-06-27--russian-illegals-program-arrests
 date: '2010-06-27'
 importance: 5
-title: "DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and are swapped"
-summary: |
-  The Department of Justice charged 11 individuals on June 27, 2010, for acting
+title: DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and
+  are swapped
+summary: 'The Department of Justice charged 11 individuals on June 27, 2010, for acting
+
   as unregistered agents of the Russian Federation. Ten pleaded guilty on July
+
   8, 2010, and were exchanged in a U.S.–Russia spy swap. The case, known as
+
   "Operation Ghost Stories," involved covert communications and deep-cover
+
   identities.
+
+  '
 actors:
-  - Anna Chapman
-  - U.S. Department of Justice
-  - FBI
+- Anna Chapman
+- US Department of Justice
+- FBI
 tags:
-  - russian-spy-ring
-  - intelligence-operations
+- russian-spy-ring
+- intelligence-operations
 status: confirmed
 sources:
-  - title: "Ten Russian Agents Plead Guilty and Are to Be Removed to Russia"
-    url: https://www.justice.gov/opa/pr/ten-russian-agents-plead-guilty-and-are-be-removed-russia
-    outlet: U.S. Department of Justice
-    date: '2010-07-08'
-  - title: "Operation Ghost Stories (case history)"
-    url: https://www.fbi.gov/history/famous-cases/operation-ghost-stories
-    outlet: FBI
-    date: '2010-07-01'
-notes: |
-  Event framed with primary DOJ/FBI sources. Removed speculative linkages
+- title: Ten Russian Agents Plead Guilty and Are to Be Removed to Russia
+  url: https://www.justice.gov/opa/pr/ten-russian-agents-plead-guilty-and-are-be-removed-russia
+  outlet: U.S. Department of Justice
+  date: '2010-07-08'
+- title: Operation Ghost Stories (case history)
+  url: https://www.fbi.gov/history/famous-cases/operation-ghost-stories
+  outlet: FBI
+  date: '2010-07-01'
+notes: 'Event framed with primary DOJ/FBI sources. Removed speculative linkages
+
   unrelated to the case record.
+
+  '

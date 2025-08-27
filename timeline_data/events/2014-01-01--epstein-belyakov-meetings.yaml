@@ -29,16 +29,29 @@ sources:
   url: https://dossier.center/jeffreyepsteinrusconnect-en
   outlet: Dossier Center
   date: '2023-05-15'
-  archive_url: https://web.archive.org/web/20250814000000/https://dossier.center/jeffreyepsteinrusconnect-en/
+  notes: Original investigative report
+- title: Ex-deputy minister helped organize Epstein's meetings with Russian officials
+  url: https://www.moscowtimes.ru/2024/02/14/organizatora-lyubimogo-ekonomicheskogo-foruma-putina-obvinili-vsvyazyah-samerikanskim-milliarderom-pedofilom-a121601
+  outlet: The Moscow Times (Russian Service)
+  date: '2024-02-14'
+  notes: Russian-language coverage of Dossier Center findings
+- title: Dossier Center alleges ex-deputy minister helped Epstein with Russian contacts
+  url: https://novayagazeta.eu/articles/2024/02/14/dose-eks-zamministra-ekonomicheskogo-razvitiia-sergei-beliakov-pomogal-milliarderu-dzheffri-epshteinu-v-organizatsii-vstrech-s-rossiiskimi-chinovnikami-news
+  outlet: Novaya Gazeta Europe
+  date: '2024-02-14'
+  notes: Independent Russian outlet coverage
+- title: Russian deputy minister allegedly facilitated Epstein meetings
+  url: https://www.occrp.org/ru/novosti/dose-rossiiskii-zamministra-ekonomiceskogo-razvitiia-tesno-obshhalsia-s-dzeffri-epsteinom
+  outlet: OCCRP
+  date: '2024-02-14'
+  notes: Brief coverage of allegations
 - title: 'The Cesspool and Chaos: the Russian Connection in the Epstein Affair'
   url: https://european-security.com/the-cesspool-and-chaos-the-russian-connection-in-the-epstein-affair/
   outlet: European Security
   date: '2025-07-30'
-- title: How an American billionaire pedophile got along with the former deputy head
-    of the Russian Ministry of Economic Development
-  url: https://ruscrime.com/how-an-american-billionaire-pedophile-got-along-with-the-former-deputy-head-of-the-russian-ministry-of-economic-development
-  outlet: Russian Crimes Daily News
-  date: '2023-05-16'
-notes: Treat as 'reported' and cite the Dossier Center's publication; avoid asserting
-  intelligence tasking absent corroboration.
+  notes: Commentary on broader implications
+notes: Based on Dossier Center investigation. No primary documents (court filings,
+  government records) have independently corroborated these specific alleged meetings
+  beyond Dossier Center's source materials. Properly categorized as 'reported' pending
+  independent verification.
 status: reported

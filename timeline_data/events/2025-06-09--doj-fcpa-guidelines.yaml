@@ -1,7 +1,11 @@
 date: '2025-06-09'
 importance: 8
 title: DOJ issues updated guidelines for FCPA investigations and enforcement
-summary: The Justice Department released updated Foreign Corrupt Practices Act (FCPA) guidelines on June 9, 2025, signaling the end of the blanket enforcement pause instituted in February. The new guidelines prioritize U.S. business interests and significantly narrow enforcement focus, effectively decriminalizing many forms of foreign bribery previously prosecuted.
+summary: The Justice Department released updated Foreign Corrupt Practices Act (FCPA)
+  guidelines on June 9, 2025, signaling the end of the blanket enforcement pause instituted
+  in February. The new guidelines prioritize U.S. business interests and significantly
+  narrow enforcement focus, effectively decriminalizing many forms of foreign bribery
+  previously prosecuted.
 tags:
 - doj
 - fcpa
@@ -19,8 +23,10 @@ location: null
 actors:
 - Department of Justice
 - Deputy Attorney General
-- Trump administration
-notes: These guidelines follow the February 10 executive order pausing FCPA enforcement, representing a systematic weakening of anti-corruption enforcement to benefit U.S. businesses operating abroad.
+- Trump Administration
+notes: These guidelines follow the February 10 executive order pausing FCPA enforcement,
+  representing a systematic weakening of anti-corruption enforcement to benefit U.S.
+  businesses operating abroad.
 status: confirmed
 sources:
 - title: DOJ FCPA Guidelines End the Enforcement Pause and Shift Focus to U.S. Interests

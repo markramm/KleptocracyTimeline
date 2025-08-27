@@ -21,10 +21,10 @@ tags:
 - regulatory-capture
 actors:
 - howard-lutnick
-- cantor-fitzgerald
+- Cantor Fitzgerald
 - tether
-- department-of-justice
-- commerce-department
+- Department of Justice
+- Commerce Department
 capture_lane: economic
 status: confirmed
 sources:
