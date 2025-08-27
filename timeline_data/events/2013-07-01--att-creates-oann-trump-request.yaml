@@ -1,11 +1,12 @@
 id: 2017-10-06--att-creates-oann-trump-request
 date: '2013-07-01'
-importance: 10
-title: AT&T/DirecTV served as key patron of OANN and encouraged its creation
-summary: A 2021 Reuters investigation found that AT&T executives encouraged the
-  creation of One America News Network and that carriage deals via AT&T's DirecTV supplied
-  as much as 90% of OANN's revenue for years. OANN later amplified pro‑Trump narratives,
-  including false election‑fraud claims.
+importance: 9
+title: Reuters: AT&T nurtured and bankrolled OANN; founder says AT&T asked for a conservative network
+summary: Court records and testimony reported by Reuters show AT&T played a pivotal
+  role in launching and sustaining One America News Network (OANN), at times accounting
+  for the vast majority of its revenue via carriage deals. OANN's founder testified AT&T
+  executives sought a conservative channel. AT&T disputes "funding" characterizations
+  but not the carriage relationship.
 location: United States
 actors:
 - AT&T
@@ -16,9 +17,9 @@ actors:
 tags:
 - oann
 - att
-- media-creation
-- propaganda-network
-- trump-media
+- carriage-fees
+- media-economics
+- conservative-media
 - corporate-capture
 capture_lanes:
 - Corporate Capture & Regulatory Breakdown
@@ -35,6 +36,10 @@ sources:
   url: https://www.euronews.com/2021/10/07/usa-oneamerica-at-t-specialreport
   outlet: Euronews (syndicated)
   date: '2021-10-07'
-notes: Reframe from 'created' to the better‑sourced 'encouraged' and 'bankrolled
-  via carriage fees.'
+- title: The tech entrepreneur who founded Trump's go‑to TV network
+  url: https://www.reuters.com/investigates/special-report/usa-oneamerica-founder/
+  outlet: Reuters
+  date: '2021-10-07'
+notes: Reframe away from "created at Trump's request." Keep to what's in court records
+  and Reuters.
 status: confirmed
