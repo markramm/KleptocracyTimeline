@@ -1,27 +1,39 @@
 id: 2025-01-31--switzerland-s-publicly-owned-central-bank-bought-1-8-million
 date: '2025-01-31'
-title: Switzerland’s publicly-owned central bank bought $1.8 million in Trump Media
-  shares
-summary: Switzerland’s publicly-owned central bank bought $1.8 million in Trump Media
-  shares
-description: Switzerland’s publicly-owned central bank bought $1.8 million in Trump
-  Media shares
+title: Swiss National Bank purchased 111,300 shares of Trump Media worth $1.78M
+summary: |
+  The Swiss National Bank, Switzerland's central bank majority owned by public entities,
+  purchased 111,300 shares of Trump Media & Technology Group valued at $1.78 million
+  during Q3 2024, according to SEC disclosures. President Trump owns approximately 53%
+  of Trump Media through a trust controlled by Donald Trump Jr. The purchase by a foreign
+  government-controlled entity raises Emoluments Clause concerns given Trump's majority
+  ownership stake in the company.
+description: Swiss central bank's purchase of Trump Media stock creates foreign emoluments concerns
 status: confirmed
 importance: 9
-location: Washington, D.C.
+location: Switzerland
 actors:
-- Donald Trump
-- Trump Administration
+  - Swiss National Bank
+  - Donald Trump
+  - Donald Trump Jr.
+  - Trump Media & Technology Group
 tags:
-- corruption
-- kleptocracy
+  - emoluments
+  - foreign-influence
+  - conflicts-of-interest
+  - truth-social
 capture_type: monetizing_position
+capture_lanes:
+  - Financial Corruption & Kleptocracy
 sources:
-- title: Switzerland’s publicly-owned central bank bought $1.8 million in Trump Media
-    shares
-  url: https://www.citizensforethics.org/reports-investigations/crew-investigations/swiss-national-bank-bought-trump-media-shares/
-  outlet: Citizens for Ethics
-  date: '2025-01-31'
+  - title: "Switzerland's publicly-owned central bank bought $1.8 million in Trump Media shares"
+    url: https://www.citizensforethics.org/reports-investigations/crew-investigations/swiss-national-bank-bought-trump-media-shares/
+    outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+    date: '2025-01-31'
+  - title: "SEC disclosure shows Swiss National Bank DJT holdings"
+    url: https://www.sec.gov/Archives/edgar/data/0001281479/000128147925000002/xslForm13F_X02/20250131_SWISS_NATIONAL_BANK_13F.xml
+    outlet: SEC EDGAR
+    date: '2025-01-31'
 connections: []
 patterns:
 - kleptocratic-capture

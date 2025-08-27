@@ -1,26 +1,51 @@
 id: 2025-03-19--donald-trump-jr-mixes-business-and-politics-in-serbia-as-pro
 date: '2025-03-19'
-title: Donald Trump Jr. mixes business and politics in Serbia, as protests there rage
-summary: Donald Trump Jr. visited Serbia in a push to support embattled President
-  Vucic amid a $500 million Trump hotel project in Belgrade
-description: Donald Trump Jr. visited Serbia in a push to support embattled President
-  Vucic amid a $500 million Trump hotel project in Belgrade
+title: Donald Trump Jr. meets Serbian president to promote Trump hotel amid massive protests
+summary: |
+  Donald Trump Jr. met with Serbian President Aleksandar Vučić on March 11, 2025, his second
+  visit in six months, to promote a Trump International Hotel project in Belgrade—the first
+  Trump hotel in Europe. The 175-room hotel with 1,500 luxury apartments will be built on
+  the site of the former Yugoslav Ministry of Defense bombed by NATO. The visit occurred
+  amid massive anti-government protests with over 100,000 demonstrators. Trump Jr. conducted
+  a podcast interview with Vučić and expressed support for the embattled leader, marking
+  what NYT called "perhaps the most explicit mixing so far" of U.S. foreign policy and
+  Trump family financial interests in the second term.
+description: Trump Jr promotes Belgrade hotel project while supporting embattled Serbian president amid protests
 status: confirmed
 importance: 9
-location: Washington, D.C.
+location: Belgrade, Serbia
 actors:
-- Donald Trump
-- Trump Administration
+  - Donald Trump Jr.
+  - Aleksandar Vučić
+  - Trump Organization
+  - Affinity Global Development
+  - Jared Kushner
 tags:
-- corruption
-- kleptocracy
+  - foreign-influence
+  - conflicts-of-interest
+  - serbia
+  - hotel-development
 capture_type: monetizing_position
+capture_lanes:
+  - Financial Corruption & Kleptocracy
+  - Corporate Capture & Regulatory Breakdown
 sources:
-- title: Donald Trump Jr. mixes business and politics in Serbia, as protests there
-    rage
-  url: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html
-  outlet: New York Times
-  date: '2025-03-19'
+  - title: "Donald Trump Jr. mixes business and politics in Serbia, as protests there rage"
+    url: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html
+    outlet: New York Times
+    date: '2025-03-19'
+  - title: "Trump Jr. Meets Embattled Leader Vucic in Surprise Serbia Visit"
+    url: https://www.bloomberg.com/news/articles/2025-03-11/trump-jr-meets-embattled-leader-vucic-in-surprise-serbia-visit
+    outlet: Bloomberg
+    date: '2025-03-11'
+  - title: "Donald Trump Jr. meets Serbian president in Belgrade"
+    url: https://www.intellinews.com/donald-trump-jr-meets-serbian-president-in-belgrade-371096/
+    outlet: bne IntelliNews
+    date: '2025-03-11'
+  - title: "Donald Trump Jr Visits Serbia, Meets President Aleksandar Vucic"
+    url: https://www.usnews.com/news/world/articles/2025-03-11/donald-trump-jr-visits-serbia-meets-president-aleksandar-vucic
+    outlet: U.S. News & World Report
+    date: '2025-03-11'
 connections: []
 patterns:
 - kleptocratic-capture
