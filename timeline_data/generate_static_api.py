@@ -28,7 +28,14 @@ def main():
     else:
         events_dir = Path('events')
         output_dir = Path('../viewer/public/api')
-    output_dir.mkdir(exist_ok=True, parents=True)
+    
+    # Ensure the output directory exists
+    try:
+        output_dir.mkdir(exist_ok=True, parents=True)
+        print(f'📁 Output directory: {output_dir.absolute()}')
+    except Exception as e:
+        print(f'❌ Failed to create output directory: {e}')
+        return 1
 
     # Load all events
     events = []
@@ -128,6 +135,11 @@ def main():
     print(f'  - {len(all_actors)} unique actors')
     print(f'  - 13 capture lanes')
     print(f'  - Files saved to: {output_dir.absolute()}')
+    
+    return 0  # Success
 
 if __name__ == '__main__':
-    main()
+    import sys
+    result = main()
+    if result:
+        sys.exit(result)
