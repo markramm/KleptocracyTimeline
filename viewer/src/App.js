@@ -191,24 +191,37 @@ function App() {
       );
     }
 
-    // Apply sorting
+    // Apply sorting - create a new array to ensure React detects the change
+    const sorted = [...filtered];
     switch (sortOrder) {
       case 'newest':
-        filtered.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+        sorted.sort((a, b) => {
+          const dateA = a.date || '';
+          const dateB = b.date || '';
+          return dateB.localeCompare(dateA);
+        });
         break;
       case 'importance':
-        filtered.sort((a, b) => (b.importance || 0) - (a.importance || 0));
+        sorted.sort((a, b) => (b.importance || 0) - (a.importance || 0));
         break;
       case 'alphabetical':
-        filtered.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+        sorted.sort((a, b) => {
+          const titleA = a.title || '';
+          const titleB = b.title || '';
+          return titleA.localeCompare(titleB);
+        });
         break;
       case 'chronological':
       default:
-        filtered.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+        sorted.sort((a, b) => {
+          const dateA = a.date || '';
+          const dateB = b.date || '';
+          return dateA.localeCompare(dateB);
+        });
         break;
     }
 
-    setFilteredEvents(filtered);
+    setFilteredEvents(sorted);
   }, [events, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, sortOrder, minImportance]);
 
   // Event handlers
