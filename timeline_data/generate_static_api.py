@@ -21,8 +21,13 @@ def get_sort_date(event):
         return str(event_date)
 
 def main():
-    events_dir = Path('events')
-    output_dir = Path('../viewer/public/api')
+    # Handle running from either timeline_data or root directory
+    if Path('timeline_data/events').exists():
+        events_dir = Path('timeline_data/events')
+        output_dir = Path('viewer/public/api')
+    else:
+        events_dir = Path('events')
+        output_dir = Path('../viewer/public/api')
     output_dir.mkdir(exist_ok=True, parents=True)
 
     # Load all events
