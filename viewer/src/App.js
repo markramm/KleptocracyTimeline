@@ -773,6 +773,7 @@ function App() {
               groups={timelineGroups}
               viewMode={viewMode}
               zoomLevel={zoomLevel}
+              sortOrder={sortOrder}
               onEventClick={handleEventClick}
               onTagClick={handleTagClick}
               onActorClick={handleActorClick}

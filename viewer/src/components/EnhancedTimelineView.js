@@ -14,6 +14,7 @@ const EnhancedTimelineView = ({
   groups,
   viewMode,
   zoomLevel,
+  sortOrder,
   onEventClick,
   onTagClick,
   onActorClick,
@@ -226,12 +227,20 @@ const EnhancedTimelineView = ({
           style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left' }}
         >
           {Object.entries(timelineGroups)
-            .sort(([a], [b]) => b.localeCompare(a))
+            .sort(([a], [b]) => {
+              // Sort years based on sortOrder
+              if (sortOrder === 'newest') {
+                return b.localeCompare(a); // Newest first (2025, 2024, 2023...)
+              } else {
+                return a.localeCompare(b); // Chronological (1970, 1971, 1972...)
+              }
+            })
             .map(([year, months]) => (
               <EnhancedYearGroup
                 key={year}
                 year={year}
                 months={months}
+                sortOrder={sortOrder}
                 onEventClick={onEventClick}
                 onTagClick={onTagClick}
                 onActorClick={onActorClick}
@@ -279,6 +288,7 @@ const EnhancedTimelineView = ({
 const EnhancedYearGroup = ({ 
   year, 
   months,
+  sortOrder,
   onEventClick, 
   onTagClick, 
   onActorClick,
@@ -318,7 +328,14 @@ const EnhancedYearGroup = ({
       </div>
       
       {Object.entries(months)
-        .sort(([a], [b]) => b.localeCompare(a))
+        .sort(([a], [b]) => {
+          // Sort months based on sortOrder
+          if (sortOrder === 'newest') {
+            return b.localeCompare(a); // December to January
+          } else {
+            return a.localeCompare(b); // January to December
+          }
+        })
         .map(([month, monthEvents]) => (
           <div key={`${year}-${month}`} className="month-group">
             <h4 className="month-header">
