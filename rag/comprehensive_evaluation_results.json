@@ -1,0 +1,1373 @@
+{
+  "aggregate_metrics": {
+    "avg_P@1": 0.5294117647058824,
+    "std_P@1": 0.4991341984846218,
+    "avg_R@1": 0.021432421625248117,
+    "std_R@1": 0.04675894014606256,
+    "avg_F1@1": 0.03831596799172538,
+    "std_F1@1": 0.07978670365405675,
+    "avg_P@3": 0.4999999999999999,
+    "std_P@3": 0.3547069120612852,
+    "avg_R@3": 0.05055537219035351,
+    "std_R@3": 0.10369175891736089,
+    "avg_F1@3": 0.07803029129071838,
+    "std_F1@3": 0.13161794999166038,
+    "avg_P@5": 0.46470588235294114,
+    "std_P@5": 0.31331468201378293,
+    "avg_R@5": 0.06521807287445718,
+    "std_R@5": 0.10483833657817332,
+    "avg_F1@5": 0.09492446638235463,
+    "std_F1@5": 0.1134068549225987,
+    "avg_P@10": 0.39705882352941174,
+    "std_P@10": 0.28438302062912496,
+    "avg_R@10": 0.10214809319855343,
+    "std_R@10": 0.1451663812051386,
+    "avg_F1@10": 0.1285059926188072,
+    "std_F1@10": 0.12926642226350984,
+    "avg_NDCG@10": 0.44123498083058316,
+    "std_NDCG@10": 0.28775591866392164,
+    "avg_P@20": 0.33088235294117646,
+    "std_P@20": 0.2578230999446169,
+    "avg_R@20": 0.16715507300815918,
+    "std_R@20": 0.19273822044103225,
+    "avg_F1@20": 0.16655284960647207,
+    "std_F1@20": 0.14486233572829676,
+    "avg_MRR": 0.6639705882352942,
+    "std_MRR": 0.383395038188795,
+    "quality_score": 0.34601079813512603,
+    "grade": "F (Poor)"
+  },
+  "detailed_results": [
+    {
+      "query_id": "entity_crypto_trump",
+      "query_text": "What events involve cryptocurrency and Trump?",
+      "relevant_count": 463,
+      "retrieved_count": 20,
+      "search_time": 0.035881996154785156,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.0021598272138228943,
+        "F1@1": 0.004310344827586208,
+        "P@3": 1.0,
+        "R@3": 0.0064794816414686825,
+        "F1@3": 0.012875536480686697,
+        "P@5": 0.8,
+        "R@5": 0.008639308855291577,
+        "F1@5": 0.017094017094017092,
+        "P@10": 0.8,
+        "R@10": 0.017278617710583154,
+        "F1@10": 0.03382663847780127,
+        "NDCG@10": 0.8415908474314976,
+        "P@20": 0.9,
+        "R@20": 0.038876889848812095,
+        "F1@20": 0.07453416149068322,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "entity_retrieval",
+        "difficulty": "easy",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "entity_epstein_2025",
+      "query_text": "What happened with Epstein files in 2025?",
+      "relevant_count": 36,
+      "retrieved_count": 20,
+      "search_time": 0.01942896842956543,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.027777777777777776,
+        "F1@1": 0.05405405405405406,
+        "P@3": 1.0,
+        "R@3": 0.08333333333333333,
+        "F1@3": 0.15384615384615385,
+        "P@5": 1.0,
+        "R@5": 0.1388888888888889,
+        "F1@5": 0.24390243902439027,
+        "P@10": 1.0,
+        "R@10": 0.2777777777777778,
+        "F1@10": 0.4347826086956522,
+        "NDCG@10": 1.0,
+        "P@20": 0.9,
+        "R@20": 0.5,
+        "F1@20": 0.6428571428571429,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "entity_retrieval",
+        "difficulty": "easy",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "entity_elon_musk",
+      "query_text": "Show me events about Elon Musk and regulatory influence",
+      "relevant_count": 200,
+      "retrieved_count": 20,
+      "search_time": 0.006562232971191406,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.005,
+        "F1@3": 0.009852216748768473,
+        "P@5": 0.6,
+        "R@5": 0.015,
+        "F1@5": 0.029268292682926828,
+        "P@10": 0.8,
+        "R@10": 0.04,
+        "F1@10": 0.07619047619047618,
+        "NDCG@10": 0.6410457898283652,
+        "P@20": 0.75,
+        "R@20": 0.075,
+        "F1@20": 0.13636363636363635,
+        "MRR": 0.3333333333333333
+      },
+      "metadata": {
+        "type": "entity_retrieval",
+        "difficulty": "medium",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "temporal_jan_2025_orders",
+      "query_text": "What executive orders were signed in January 2025?",
+      "relevant_count": 41,
+      "retrieved_count": 20,
+      "search_time": 0.018244028091430664,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.024390243902439025,
+        "F1@1": 0.047619047619047616,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.04878048780487805,
+        "F1@3": 0.0909090909090909,
+        "P@5": 0.8,
+        "R@5": 0.0975609756097561,
+        "F1@5": 0.1739130434782609,
+        "P@10": 0.7,
+        "R@10": 0.17073170731707318,
+        "F1@10": 0.2745098039215686,
+        "NDCG@10": 0.7191184989488184,
+        "P@20": 0.7,
+        "R@20": 0.34146341463414637,
+        "F1@20": 0.4590163934426229,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "temporal",
+        "difficulty": "medium",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "temporal_schedule_f",
+      "query_text": "Show timeline of Schedule F implementation and federal workforce changes",
+      "relevant_count": 23,
+      "retrieved_count": 20,
+      "search_time": 0.007109880447387695,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.08695652173913043,
+        "F1@3": 0.15384615384615383,
+        "P@5": 0.8,
+        "R@5": 0.17391304347826086,
+        "F1@5": 0.2857142857142857,
+        "P@10": 0.8,
+        "R@10": 0.34782608695652173,
+        "F1@10": 0.48484848484848486,
+        "NDCG@10": 0.7162874455029682,
+        "P@20": 0.6,
+        "R@20": 0.5217391304347826,
+        "F1@20": 0.5581395348837209,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "temporal_pattern",
+        "difficulty": "hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "temporal_recent",
+      "query_text": "What are the most recent events related to regulatory capture?",
+      "relevant_count": 135,
+      "retrieved_count": 20,
+      "search_time": 0.006805896759033203,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.007407407407407408,
+        "F1@1": 0.014705882352941178,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.014814814814814815,
+        "F1@3": 0.028985507246376812,
+        "P@5": 0.6,
+        "R@5": 0.022222222222222223,
+        "F1@5": 0.04285714285714286,
+        "P@10": 0.4,
+        "R@10": 0.02962962962962963,
+        "F1@10": 0.055172413793103454,
+        "NDCG@10": 0.5033242827953464,
+        "P@20": 0.25,
+        "R@20": 0.037037037037037035,
+        "F1@20": 0.06451612903225806,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "temporal_recent",
+        "difficulty": "medium",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "pattern_capture_lanes",
+      "query_text": "Show patterns of institutional capture across different government agencies",
+      "relevant_count": 17,
+      "retrieved_count": 20,
+      "search_time": 0.006164073944091797,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.058823529411764705,
+        "F1@1": 0.1111111111111111,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.058823529411764705,
+        "F1@3": 0.1,
+        "P@5": 0.2,
+        "R@5": 0.058823529411764705,
+        "F1@5": 0.0909090909090909,
+        "P@10": 0.2,
+        "R@10": 0.11764705882352941,
+        "F1@10": 0.14814814814814817,
+        "NDCG@10": 0.2934556883974402,
+        "P@20": 0.15,
+        "R@20": 0.17647058823529413,
+        "F1@20": 0.16216216216216214,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "pattern_analysis",
+        "difficulty": "hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "pattern_loyalty_tests",
+      "query_text": "How are loyalty tests being implemented across federal agencies?",
+      "relevant_count": 64,
+      "retrieved_count": 20,
+      "search_time": 0.005800962448120117,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.015625,
+        "F1@1": 0.03076923076923077,
+        "P@3": 1.0,
+        "R@3": 0.046875,
+        "F1@3": 0.08955223880597014,
+        "P@5": 0.6,
+        "R@5": 0.046875,
+        "F1@5": 0.08695652173913043,
+        "P@10": 0.5,
+        "R@10": 0.078125,
+        "F1@10": 0.13513513513513514,
+        "NDCG@10": 0.6046855387118412,
+        "P@20": 0.45,
+        "R@20": 0.140625,
+        "F1@20": 0.2142857142857143,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "pattern_analysis",
+        "difficulty": "hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "pattern_media_control",
+      "query_text": "What patterns exist in media manipulation and disinformation campaigns?",
+      "relevant_count": 6,
+      "retrieved_count": 20,
+      "search_time": 0.018193960189819336,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.16666666666666666,
+        "F1@1": 0.2857142857142857,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.16666666666666666,
+        "F1@3": 0.2222222222222222,
+        "P@5": 0.2,
+        "R@5": 0.16666666666666666,
+        "F1@5": 0.1818181818181818,
+        "P@10": 0.1,
+        "R@10": 0.16666666666666666,
+        "F1@10": 0.125,
+        "NDCG@10": 0.30260241349881345,
+        "P@20": 0.1,
+        "R@20": 0.3333333333333333,
+        "F1@20": 0.15384615384615383,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "pattern_analysis",
+        "difficulty": "hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "network_trump_associates",
+      "query_text": "Show all connections between Trump and his business associates in government positions",
+      "relevant_count": 482,
+      "retrieved_count": 20,
+      "search_time": 0.018399953842163086,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.002074688796680498,
+        "F1@1": 0.004140786749482402,
+        "P@3": 1.0,
+        "R@3": 0.006224066390041493,
+        "F1@3": 0.012371134020618556,
+        "P@5": 0.8,
+        "R@5": 0.008298755186721992,
+        "F1@5": 0.01642710472279261,
+        "P@10": 0.7,
+        "R@10": 0.014522821576763486,
+        "F1@10": 0.028455284552845534,
+        "NDCG@10": 0.7655934900767002,
+        "P@20": 0.65,
+        "R@20": 0.026970954356846474,
+        "F1@20": 0.05179282868525896,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "actor_network",
+        "difficulty": "hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "network_tech_oligarchs",
+      "query_text": "Map relationships between tech billionaires and policy influence",
+      "relevant_count": 39,
+      "retrieved_count": 20,
+      "search_time": 0.006228923797607422,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.2,
+        "R@5": 0.02564102564102564,
+        "F1@5": 0.045454545454545456,
+        "P@10": 0.2,
+        "R@10": 0.05128205128205128,
+        "F1@10": 0.0816326530612245,
+        "NDCG@10": 0.1635413866202963,
+        "P@20": 0.2,
+        "R@20": 0.10256410256410256,
+        "F1@20": 0.13559322033898302,
+        "MRR": 0.2
+      },
+      "metadata": {
+        "type": "actor_network",
+        "difficulty": "hard",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "complex_democracy_erosion",
+      "query_text": "Show comprehensive evidence of democratic backsliding including judicial capture, election interference, and media control",
+      "relevant_count": 49,
+      "retrieved_count": 20,
+      "search_time": 0.01668095588684082,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.02040816326530612,
+        "F1@1": 0.039999999999999994,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.04081632653061224,
+        "F1@3": 0.07692307692307691,
+        "P@5": 0.6,
+        "R@5": 0.061224489795918366,
+        "F1@5": 0.1111111111111111,
+        "P@10": 0.4,
+        "R@10": 0.08163265306122448,
+        "F1@10": 0.13559322033898302,
+        "NDCG@10": 0.5173633627401372,
+        "P@20": 0.3,
+        "R@20": 0.12244897959183673,
+        "F1@20": 0.17391304347826086,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "complex_multi_faceted",
+        "difficulty": "very_hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "complex_financial_corruption",
+      "query_text": "Analyze financial corruption patterns including cryptocurrency, foreign payments, and corporate capture",
+      "relevant_count": 108,
+      "retrieved_count": 20,
+      "search_time": 0.01576709747314453,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.018518518518518517,
+        "F1@3": 0.036036036036036036,
+        "P@5": 0.6,
+        "R@5": 0.027777777777777776,
+        "F1@5": 0.05309734513274336,
+        "P@10": 0.5,
+        "R@10": 0.046296296296296294,
+        "F1@10": 0.0847457627118644,
+        "NDCG@10": 0.48571574856977245,
+        "P@20": 0.55,
+        "R@20": 0.10185185185185185,
+        "F1@20": 0.171875,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "complex_multi_faceted",
+        "difficulty": "very_hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "negative_no_trump",
+      "query_text": "Show regulatory capture events that do NOT involve Trump directly",
+      "relevant_count": 231,
+      "retrieved_count": 20,
+      "search_time": 0.006494998931884766,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.004329004329004329,
+        "F1@1": 0.008620689655172414,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.004329004329004329,
+        "F1@3": 0.008547008547008546,
+        "P@5": 0.6,
+        "R@5": 0.012987012987012988,
+        "F1@5": 0.025423728813559324,
+        "P@10": 0.6,
+        "R@10": 0.025974025974025976,
+        "F1@10": 0.049792531120331954,
+        "NDCG@10": 0.606439180544341,
+        "P@20": 0.45,
+        "R@20": 0.03896103896103896,
+        "F1@20": 0.07171314741035856,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "negative_query",
+        "difficulty": "medium",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "negative_confirmed_only",
+      "query_text": "Show only confirmed events about judicial appointments, not reported or developing",
+      "relevant_count": 16,
+      "retrieved_count": 20,
+      "search_time": 0.00671696662902832,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.0,
+        "R@5": 0.0,
+        "F1@5": 0.0,
+        "P@10": 0.0,
+        "R@10": 0.0,
+        "F1@10": 0.0,
+        "NDCG@10": 0.0,
+        "P@20": 0.0,
+        "R@20": 0.0,
+        "F1@20": 0.0,
+        "MRR": 0.0
+      },
+      "metadata": {
+        "type": "filtered_query",
+        "difficulty": "easy",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "comparative_administrations",
+      "query_text": "Compare regulatory capture patterns between Trump first term and second term",
+      "relevant_count": 98,
+      "retrieved_count": 20,
+      "search_time": 0.0062520503997802734,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.01020408163265306,
+        "F1@1": 0.020202020202020204,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.02040816326530612,
+        "F1@3": 0.0396039603960396,
+        "P@5": 0.4,
+        "R@5": 0.02040816326530612,
+        "F1@5": 0.03883495145631067,
+        "P@10": 0.4,
+        "R@10": 0.04081632653061224,
+        "F1@10": 0.07407407407407406,
+        "NDCG@10": 0.4818998405251556,
+        "P@20": 0.3,
+        "R@20": 0.061224489795918366,
+        "F1@20": 0.10169491525423728,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "comparative",
+        "difficulty": "very_hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "comparative_capture_types",
+      "query_text": "Compare effectiveness of regulatory capture versus judicial capture strategies",
+      "relevant_count": 10,
+      "retrieved_count": 20,
+      "search_time": 0.006155967712402344,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.0,
+        "R@5": 0.0,
+        "F1@5": 0.0,
+        "P@10": 0.0,
+        "R@10": 0.0,
+        "F1@10": 0.0,
+        "NDCG@10": 0.0,
+        "P@20": 0.05,
+        "R@20": 0.1,
+        "F1@20": 0.06666666666666667,
+        "MRR": 0.0625
+      },
+      "metadata": {
+        "type": "comparative",
+        "difficulty": "hard",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "gap_missing_connections",
+      "query_text": "What connections between cryptocurrency and foreign influence might we be missing?",
+      "relevant_count": 16,
+      "retrieved_count": 20,
+      "search_time": 0.016645193099975586,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.2,
+        "R@5": 0.0625,
+        "F1@5": 0.09523809523809523,
+        "P@10": 0.1,
+        "R@10": 0.0625,
+        "F1@10": 0.07692307692307693,
+        "NDCG@10": 0.09478836436955078,
+        "P@20": 0.05,
+        "R@20": 0.0625,
+        "F1@20": 0.05555555555555556,
+        "MRR": 0.25
+      },
+      "metadata": {
+        "type": "gap_analysis",
+        "difficulty": "very_hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "gap_underreported",
+      "query_text": "What aspects of Schedule F implementation are underreported in our timeline?",
+      "relevant_count": 27,
+      "retrieved_count": 20,
+      "search_time": 0.01566600799560547,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.07407407407407407,
+        "F1@3": 0.13333333333333333,
+        "P@5": 0.6,
+        "R@5": 0.1111111111111111,
+        "F1@5": 0.18750000000000003,
+        "P@10": 0.4,
+        "R@10": 0.14814814814814814,
+        "F1@10": 0.21621621621621623,
+        "NDCG@10": 0.40741536676357565,
+        "P@20": 0.2,
+        "R@20": 0.14814814814814814,
+        "F1@20": 0.1702127659574468,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "gap_analysis",
+        "difficulty": "hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "validation_sources",
+      "query_text": "Show events about EPA regulatory changes with at least 3 credible sources",
+      "relevant_count": 141,
+      "retrieved_count": 20,
+      "search_time": 0.006224155426025391,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.0070921985815602835,
+        "F1@1": 0.014084507042253521,
+        "P@3": 1.0,
+        "R@3": 0.02127659574468085,
+        "F1@3": 0.04166666666666667,
+        "P@5": 1.0,
+        "R@5": 0.03546099290780142,
+        "F1@5": 0.06849315068493152,
+        "P@10": 0.7,
+        "R@10": 0.04964539007092199,
+        "F1@10": 0.09271523178807949,
+        "NDCG@10": 0.800693766409882,
+        "P@20": 0.5,
+        "R@20": 0.07092198581560284,
+        "F1@20": 0.12422360248447206,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "validation_query",
+        "difficulty": "medium",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "causal_schedule_f_impact",
+      "query_text": "What were the consequences of Schedule F implementation on federal agencies?",
+      "relevant_count": 9,
+      "retrieved_count": 20,
+      "search_time": 0.005815267562866211,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.1111111111111111,
+        "F1@3": 0.16666666666666666,
+        "P@5": 0.2,
+        "R@5": 0.1111111111111111,
+        "F1@5": 0.14285714285714285,
+        "P@10": 0.2,
+        "R@10": 0.2222222222222222,
+        "F1@10": 0.2105263157894737,
+        "NDCG@10": 0.23202214456934253,
+        "P@20": 0.1,
+        "R@20": 0.2222222222222222,
+        "F1@20": 0.13793103448275865,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "causal_analysis",
+        "difficulty": "hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "causal_deregulation",
+      "query_text": "What led to the deregulation of environmental protections in 2025?",
+      "relevant_count": 7,
+      "retrieved_count": 20,
+      "search_time": 0.01810288429260254,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.0,
+        "R@5": 0.0,
+        "F1@5": 0.0,
+        "P@10": 0.0,
+        "R@10": 0.0,
+        "F1@10": 0.0,
+        "NDCG@10": 0.0,
+        "P@20": 0.1,
+        "R@20": 0.2857142857142857,
+        "F1@20": 0.14814814814814817,
+        "MRR": 0.0625
+      },
+      "metadata": {
+        "type": "causal_analysis",
+        "difficulty": "hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "escalation_authoritarianism",
+      "query_text": "Track escalation of authoritarian measures from January to December 2025",
+      "relevant_count": 61,
+      "retrieved_count": 20,
+      "search_time": 0.0072710514068603516,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.03278688524590164,
+        "F1@3": 0.0625,
+        "P@5": 0.8,
+        "R@5": 0.06557377049180328,
+        "F1@5": 0.12121212121212123,
+        "P@10": 0.6,
+        "R@10": 0.09836065573770492,
+        "F1@10": 0.16901408450704225,
+        "NDCG@10": 0.5587148206871071,
+        "P@20": 0.45,
+        "R@20": 0.14754098360655737,
+        "F1@20": 0.22222222222222224,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "escalation_tracking",
+        "difficulty": "very_hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "escalation_media_control",
+      "query_text": "How has media control escalated since 2025 inauguration?",
+      "relevant_count": 76,
+      "retrieved_count": 20,
+      "search_time": 0.0064239501953125,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.013157894736842105,
+        "F1@1": 0.025974025974025976,
+        "P@3": 1.0,
+        "R@3": 0.039473684210526314,
+        "F1@3": 0.07594936708860758,
+        "P@5": 0.8,
+        "R@5": 0.05263157894736842,
+        "F1@5": 0.09876543209876543,
+        "P@10": 0.6,
+        "R@10": 0.07894736842105263,
+        "F1@10": 0.1395348837209302,
+        "NDCG@10": 0.6911279212606076,
+        "P@20": 0.4,
+        "R@20": 0.10526315789473684,
+        "F1@20": 0.16666666666666666,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "escalation_tracking",
+        "difficulty": "hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "research_comprehensive_capture",
+      "query_text": "Provide comprehensive analysis of all capture lanes with timeline, actors, and impact assessment",
+      "relevant_count": 3,
+      "retrieved_count": 20,
+      "search_time": 0.004999876022338867,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.0,
+        "R@5": 0.0,
+        "F1@5": 0.0,
+        "P@10": 0.0,
+        "R@10": 0.0,
+        "F1@10": 0.0,
+        "NDCG@10": 0.0,
+        "P@20": 0.0,
+        "R@20": 0.0,
+        "F1@20": 0.0,
+        "MRR": 0.0
+      },
+      "metadata": {
+        "type": "research_comprehensive",
+        "difficulty": "very_hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "research_foreign_influence",
+      "query_text": "Complete research report on foreign influence operations including Saudi, Russian, and Chinese connections",
+      "relevant_count": 89,
+      "retrieved_count": 20,
+      "search_time": 0.004782915115356445,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.011235955056179775,
+        "F1@1": 0.02222222222222222,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.02247191011235955,
+        "F1@3": 0.043478260869565216,
+        "P@5": 0.8,
+        "R@5": 0.0449438202247191,
+        "F1@5": 0.0851063829787234,
+        "P@10": 0.6,
+        "R@10": 0.06741573033707865,
+        "F1@10": 0.1212121212121212,
+        "NDCG@10": 0.6745711375739728,
+        "P@20": 0.4,
+        "R@20": 0.0898876404494382,
+        "F1@20": 0.14678899082568808,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "research_comprehensive",
+        "difficulty": "very_hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "importance_major_crypto",
+      "query_text": "Find major importance cryptocurrency events that pose conflicts of interest",
+      "relevant_count": 69,
+      "retrieved_count": 20,
+      "search_time": 0.00476527214050293,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.014492753623188406,
+        "F1@1": 0.02857142857142857,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.028985507246376812,
+        "F1@3": 0.05555555555555555,
+        "P@5": 0.6,
+        "R@5": 0.043478260869565216,
+        "F1@5": 0.08108108108108109,
+        "P@10": 0.7,
+        "R@10": 0.10144927536231885,
+        "F1@10": 0.17721518987341772,
+        "NDCG@10": 0.6975961695061491,
+        "P@20": 0.6,
+        "R@20": 0.17391304347826086,
+        "F1@20": 0.2696629213483146,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "importance_filter",
+        "difficulty": "medium",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "source_multi_confirmed",
+      "query_text": "Find events confirmed by multiple major outlets about Schedule F",
+      "relevant_count": 10,
+      "retrieved_count": 20,
+      "search_time": 0.006278276443481445,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.0,
+        "R@5": 0.0,
+        "F1@5": 0.0,
+        "P@10": 0.1,
+        "R@10": 0.1,
+        "F1@10": 0.10000000000000002,
+        "NDCG@10": 0.06625422345438903,
+        "P@20": 0.1,
+        "R@20": 0.2,
+        "F1@20": 0.13333333333333333,
+        "MRR": 0.1111111111111111
+      },
+      "metadata": {
+        "type": "source_quality",
+        "difficulty": "medium",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "location_dc",
+      "query_text": "Events happening in Washington DC related to protests or demonstrations",
+      "relevant_count": 5,
+      "retrieved_count": 20,
+      "search_time": 0.006069183349609375,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.2,
+        "F1@1": 0.33333333333333337,
+        "P@3": 1.0,
+        "R@3": 0.6,
+        "F1@3": 0.7499999999999999,
+        "P@5": 0.6,
+        "R@5": 0.6,
+        "F1@5": 0.6,
+        "P@10": 0.4,
+        "R@10": 0.8,
+        "F1@10": 0.5333333333333333,
+        "NDCG@10": 0.843537875344446,
+        "P@20": 0.25,
+        "R@20": 1.0,
+        "F1@20": 0.4,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "location_based",
+        "difficulty": "medium",
+        "priority": "low",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "location_international",
+      "query_text": "International events affecting US democracy",
+      "relevant_count": 56,
+      "retrieved_count": 20,
+      "search_time": 0.01981329917907715,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.017857142857142856,
+        "F1@1": 0.03508771929824561,
+        "P@3": 0.6666666666666666,
+        "R@3": 0.03571428571428571,
+        "F1@3": 0.06779661016949153,
+        "P@5": 0.4,
+        "R@5": 0.03571428571428571,
+        "F1@5": 0.06557377049180328,
+        "P@10": 0.2,
+        "R@10": 0.03571428571428571,
+        "F1@10": 0.06060606060606061,
+        "NDCG@10": 0.3589542101716347,
+        "P@20": 0.1,
+        "R@20": 0.03571428571428571,
+        "F1@20": 0.05263157894736841,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "location_based",
+        "difficulty": "medium",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "semantic_corruption_synonyms",
+      "query_text": "Find instances of graft, bribery, kickbacks, and pay-to-play schemes",
+      "relevant_count": 80,
+      "retrieved_count": 20,
+      "search_time": 0.005216121673583984,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.0125,
+        "F1@3": 0.024096385542168676,
+        "P@5": 0.6,
+        "R@5": 0.0375,
+        "F1@5": 0.07058823529411765,
+        "P@10": 0.5,
+        "R@10": 0.0625,
+        "F1@10": 0.1111111111111111,
+        "NDCG@10": 0.4634464183177906,
+        "P@20": 0.45,
+        "R@20": 0.1125,
+        "F1@20": 0.18000000000000002,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "semantic_understanding",
+        "difficulty": "hard",
+        "priority": "high",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "semantic_democracy_concepts",
+      "query_text": "Events threatening checks and balances, separation of powers, or rule of law",
+      "relevant_count": 8,
+      "retrieved_count": 20,
+      "search_time": 0.0049190521240234375,
+      "metrics": {
+        "P@1": 1.0,
+        "R@1": 0.125,
+        "F1@1": 0.2222222222222222,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.125,
+        "F1@3": 0.18181818181818182,
+        "P@5": 0.2,
+        "R@5": 0.125,
+        "F1@5": 0.15384615384615385,
+        "P@10": 0.1,
+        "R@10": 0.125,
+        "F1@10": 0.11111111111111112,
+        "NDCG@10": 0.2529427027676571,
+        "P@20": 0.1,
+        "R@20": 0.25,
+        "F1@20": 0.14285714285714288,
+        "MRR": 1.0
+      },
+      "metadata": {
+        "type": "semantic_understanding",
+        "difficulty": "hard",
+        "priority": "critical",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "stats_monthly_frequency",
+      "query_text": "What months in 2025 had the most democracy-related events?",
+      "relevant_count": 22,
+      "retrieved_count": 20,
+      "search_time": 0.006834983825683594,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.0,
+        "R@3": 0.0,
+        "F1@3": 0.0,
+        "P@5": 0.0,
+        "R@5": 0.0,
+        "F1@5": 0.0,
+        "P@10": 0.0,
+        "R@10": 0.0,
+        "F1@10": 0.0,
+        "NDCG@10": 0.0,
+        "P@20": 0.05,
+        "R@20": 0.045454545454545456,
+        "F1@20": 0.04761904761904762,
+        "MRR": 0.05555555555555555
+      },
+      "metadata": {
+        "type": "statistical_analysis",
+        "difficulty": "medium",
+        "priority": "low",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    },
+    {
+      "query_id": "stats_actor_frequency",
+      "query_text": "Which actors appear most frequently in regulatory capture events?",
+      "relevant_count": 134,
+      "retrieved_count": 20,
+      "search_time": 0.006206989288330078,
+      "metrics": {
+        "P@1": 0.0,
+        "R@1": 0.0,
+        "F1@1": 0.0,
+        "P@3": 0.3333333333333333,
+        "R@3": 0.007462686567164179,
+        "F1@3": 0.014598540145985401,
+        "P@5": 0.2,
+        "R@5": 0.007462686567164179,
+        "F1@5": 0.014388489208633093,
+        "P@10": 0.2,
+        "R@10": 0.014925373134328358,
+        "F1@10": 0.02777777777777778,
+        "NDCG@10": 0.21726071285222986,
+        "P@20": 0.1,
+        "R@20": 0.014925373134328358,
+        "F1@20": 0.025974025974025972,
+        "MRR": 0.5
+      },
+      "metadata": {
+        "type": "statistical_analysis",
+        "difficulty": "medium",
+        "priority": "medium",
+        "auto_annotated": true,
+        "annotation_strategies": [
+          "expected_ids",
+          "tags",
+          "actors",
+          "keywords",
+          "semantic"
+        ]
+      }
+    }
+  ],
+  "ground_truth_stats": {
+    "total_queries": 34,
+    "total_events": 772,
+    "coverage": 0.0
+  }
+}

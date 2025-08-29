@@ -1,0 +1,32 @@
+{
+  "phase2_metrics": {
+    "precision_at_5": 0.2,
+    "precision_at_10": 0.1,
+    "recall_estimate": 0.8333333333333334,
+    "avg_confidence": 0.7,
+    "verification_rate": 0.0,
+    "cross_reference_rate": 0.0,
+    "response_time": 0.1563276903969901
+  },
+  "phase3_metrics": {
+    "precision_at_5": 1.0,
+    "precision_at_10": 0.5,
+    "recall_estimate": 1.0,
+    "avg_confidence": 0.7400000000000001,
+    "verification_rate": 0.3333333333333333,
+    "cross_reference_rate": 1.0,
+    "response_time": 0.3297923803329468
+  },
+  "improvements": {
+    "precision_at_5": 400.0,
+    "precision_at_10": 400.0,
+    "recall_estimate": 19.999999999999996,
+    "avg_confidence": 5.714285714285736,
+    "verification_rate": 0.0,
+    "cross_reference_rate": 0.0,
+    "response_time": 110.96222908139156
+  },
+  "test_queries_count": 14,
+  "validation_queries_count": 3,
+  "evaluation_timestamp": "2025-08-27T00:22:39.401698"
+}

@@ -1,0 +1,28 @@
+{
+  "baseline_metrics": {
+    "precision_at_5": 0.20000000000000007,
+    "precision_at_10": 0.10000000000000003,
+    "recall_estimate": 0.6666666666666665,
+    "avg_relevance_score": 0.534,
+    "result_count": 10.0,
+    "response_time": 0.04443413681454129
+  },
+  "enhanced_metrics": {
+    "precision_at_5": 1.0,
+    "precision_at_10": 0.5999999999999999,
+    "recall_estimate": 1.0,
+    "avg_relevance_score": 0.6479999999999999,
+    "result_count": 20.0,
+    "response_time": 0.1719252798292372
+  },
+  "improvements": {
+    "precision_at_5": 399.99999999999983,
+    "precision_at_10": 499.99999999999966,
+    "recall_estimate": 50.000000000000036,
+    "avg_relevance_score": 21.34831460674155,
+    "result_count": 100.0,
+    "response_time": 286.9216151240139
+  },
+  "test_queries_count": 18,
+  "evaluation_timestamp": "2025-08-27T00:09:09.400217"
+}

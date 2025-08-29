@@ -52,11 +52,16 @@ class TimelineRAG:
             openai.api_key = api_key or os.getenv("OPENAI_API_KEY")
             self.embedder = None
         
-        # Initialize vector store
-        self.chroma_client = chromadb.Client(Settings(
-            chroma_db_impl="duckdb+parquet",
-            persist_directory="./chroma_db"
-        ))
+        # Initialize vector store with new API
+        try:
+            # Try new API first
+            self.chroma_client = chromadb.PersistentClient(path="./chroma_db")
+        except:
+            # Fall back to old API if needed
+            self.chroma_client = chromadb.Client(Settings(
+                chroma_db_impl="duckdb+parquet",
+                persist_directory="./chroma_db"
+            ))
         
         # Create or get collection
         self.collection = self.chroma_client.get_or_create_collection(
@@ -88,7 +93,7 @@ class TimelineRAG:
             except Exception as e:
                 print(f"Error loading {yaml_file}: {e}")
         
-        return sorted(events, key=lambda x: x.get('date', ''))
+        return sorted(events, key=lambda x: str(x.get('date', '')))
     
     def create_event_text(self, event: Dict[str, Any]) -> str:
         """
@@ -358,8 +363,8 @@ Answer (be specific and cite event IDs):"""
         patterns = {
             'total_events': len(filtered_events),
             'date_range': {
-                'earliest': min((e.get('date') for e in filtered_events), default='N/A'),
-                'latest': max((e.get('date') for e in filtered_events), default='N/A')
+                'earliest': min((str(e.get('date', '')) for e in filtered_events), default='N/A') if filtered_events else 'N/A',
+                'latest': max((str(e.get('date', '')) for e in filtered_events), default='N/A') if filtered_events else 'N/A'
             },
             'top_actors': self._count_field(filtered_events, 'actors'),
             'top_tags': self._count_field(filtered_events, 'tags'),
@@ -389,7 +394,7 @@ Answer (be specific and cite event IDs):"""
         months = {}
         
         for event in events:
-            date = event.get('date', '')
+            date = str(event.get('date', ''))
             if date and len(date) >= 7:
                 month = date[:7]  # YYYY-MM
                 months[month] = months.get(month, 0) + 1
