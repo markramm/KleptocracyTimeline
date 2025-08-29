@@ -325,33 +325,33 @@ const FilterPanel = ({
           {expandedSections.importance && (
             <div className="section-content">
               <div className="importance-filter">
-                <label>Minimum Importance Level</label>
+                <label>Show Events With Importance</label>
                 <select
                   value={minImportance || 0}
                   onChange={(e) => onMinImportanceChange(Number(e.target.value))}
                   className="importance-select"
                 >
-                  <option value="0">All Events</option>
-                  <option value="5">5+ (Noteworthy)</option>
-                  <option value="6">6+ (Important)</option>
-                  <option value="7">7+ (High Priority)</option>
-                  <option value="8">8+ (Critical)</option>
-                  <option value="9">9+ (Crisis)</option>
-                  <option value="10">10 (Maximum)</option>
+                  <option value="0">All Events (1-10)</option>
+                  <option value="5">5 or Higher (Noteworthy+)</option>
+                  <option value="6">6 or Higher (Important+)</option>
+                  <option value="7">7 or Higher (High Priority+)</option>
+                  <option value="8">8 or Higher (Critical+)</option>
+                  <option value="9">9 or Higher (Crisis+)</option>
+                  <option value="10">10 Only (Maximum)</option>
                 </select>
                 <div className="importance-scale">
                   {[1,2,3,4,5,6,7,8,9,10].map(level => (
                     <div
                       key={level}
-                      className={`importance-bar ${minImportance >= level ? 'active' : ''}`}
+                      className={`importance-bar ${level >= minImportance ? 'active' : ''}`}
                       style={{
                         height: `${level * 10}%`,
-                        backgroundColor: minImportance >= level ? 
+                        backgroundColor: level >= minImportance ? 
                           (level >= 9 ? '#dc2626' : level >= 7 ? '#f59e0b' : level >= 5 ? '#3b82f6' : '#6b7280') :
                           '#374151'
                       }}
                       onClick={() => onMinImportanceChange(level)}
-                      title={`Set minimum to ${level}`}
+                      title={`Show events ${level}+`}
                     />
                   ))}
                 </div>

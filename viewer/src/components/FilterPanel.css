@@ -324,6 +324,11 @@
   border-radius: 2px;
   cursor: pointer;
   transition: all 0.2s;
+  position: relative;
+}
+
+.importance-bar.active {
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
 }
 
 .importance-bar:hover {
