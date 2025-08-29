@@ -176,6 +176,21 @@ Events must:
 - Have verifiable sources
 - Represent systemic issues (not isolated incidents)
 
+### 🧪 Testing Before Committing
+
+**Run comprehensive tests before committing:**
+```bash
+./tools/test-before-commit.sh
+```
+
+This will test:
+- YAML schema validation
+- Date logic validation  
+- API generation
+- React build compilation
+
+The pre-commit hook automatically runs these tests for relevant file changes.
+
 ## 📁 Repository Structure
 
 ```
