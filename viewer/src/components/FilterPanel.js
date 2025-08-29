@@ -623,38 +623,6 @@ const FilterPanel = ({
                   </select>
                 </div>
                 
-                <div className="control-group">
-                  <label>Sort Events</label>
-                  <select 
-                    value={timelineControls.sortBy} 
-                    onChange={(e) => onTimelineControlsChange({
-                      ...timelineControls,
-                      sortBy: e.target.value
-                    })}
-                    className="timeline-select"
-                  >
-                    <option value="date">By Date</option>
-                    <option value="importance">By Importance</option>
-                  </select>
-                </div>
-                
-                <div className="control-group">
-                  <label>Filter by Importance</label>
-                  <select 
-                    value={timelineControls.filterImportance} 
-                    onChange={(e) => onTimelineControlsChange({
-                      ...timelineControls,
-                      filterImportance: Number(e.target.value)
-                    })}
-                    className="timeline-select"
-                  >
-                    <option value="0">All Events</option>
-                    <option value="6">Important (6+)</option>
-                    <option value="7">High Priority (7+)</option>
-                    <option value="8">Critical (8+)</option>
-                    <option value="9">Crisis (9+)</option>
-                  </select>
-                </div>
                 
                 <div className="control-group checkbox-group">
                   <label className="checkbox-label">

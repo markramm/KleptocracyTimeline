@@ -56,8 +56,6 @@ function App() {
   // Timeline view controls - initialize from URL or defaults
   const [timelineControls, setTimelineControls] = useState({
     compactMode: 'medium',
-    sortBy: 'date',
-    filterImportance: 0,
     showMinimap: true
   });
   
@@ -80,8 +78,6 @@ function App() {
       setMinImportance(urlState.minImportance || 0);
       setTimelineControls(urlState.timelineControls || {
         compactMode: 'medium',
-        sortBy: 'date',
-        filterImportance: 0,
         showMinimap: true
       });
       setZoomLevel(urlState.zoomLevel || 1);
@@ -337,8 +333,6 @@ function App() {
       viewMode,
       timelineControls: {
         compactMode: 'medium',
-        sortBy: 'date',
-        filterImportance: 0,
         showMinimap: true
       },
       zoomLevel,

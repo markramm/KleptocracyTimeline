@@ -30,10 +30,8 @@ const EnhancedTimelineView = ({
   const [stickyYear, setStickyYear] = useState(null);
   
   // Use controls from props
-  const { compactMode, sortBy, filterImportance, showMinimap } = timelineControls || {
+  const { compactMode, showMinimap } = timelineControls || {
     compactMode: 'medium',
-    sortBy: 'date',
-    filterImportance: 0,
     showMinimap: true
   };
 
@@ -88,24 +86,8 @@ const EnhancedTimelineView = ({
     return () => window.removeEventListener('keydown', handleKeyPress);
   }, [showMinimap, compactMode, timelineControls, onTimelineControlsChange]);
 
-  // Sort and filter events
-  const processedEvents = useMemo(() => {
-    let processed = [...events];
-    
-    // Filter by importance
-    if (filterImportance > 0) {
-      processed = processed.filter(e => (e.importance || 5) >= filterImportance);
-    }
-    
-    // Sort
-    if (sortBy === 'importance') {
-      processed.sort((a, b) => (b.importance || 5) - (a.importance || 5));
-    } else {
-      processed.sort((a, b) => new Date(b.date) - new Date(a.date));
-    }
-    
-    return processed;
-  }, [events, sortBy, filterImportance]);
+  // Use events as-is since they're already filtered and sorted by App.js
+  const processedEvents = events;
 
   // Group events by year/month for timeline
   const timelineGroups = useMemo(() => {
