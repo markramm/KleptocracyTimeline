@@ -7,9 +7,9 @@ Democracy doesn't fall gradually. It cascades.
 
 Each captured institution enables 3 more captures. The math is terrifying.
 
-1970s: 1 event/year
-2020: 67/year
-2025: 200+/year
+1970s: <1 event/year
+2010s: 8/year
+2020s: 100+/year
 
 790 documented events. The pattern is undeniable.
 
@@ -38,13 +38,12 @@ The timeline revealed 9 "capture lanes" operating simultaneously:
 **Tweet 4**
 Most chilling discovery: The acceleration pattern
 
-1970-1980: 10 events total
-1980-1990: 15 events
-1990-2000: 22 events
-2000-2010: 31 events
-2010-2020: 67 events
-2020-2024: 142 events
-2025 (8 mo): 200+ events
+1970s: 8 events
+1980s: 3 events
+1990s: 7 events
+2000s: 13 events
+2010s: 79 events
+2020s: 680 events (and counting)
 
 Exponential curves have terrible properties.
 

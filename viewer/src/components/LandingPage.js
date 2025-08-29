@@ -48,9 +48,9 @@ const LandingPage = ({ onEnterTimeline }) => {
             <div className="cascade-evidence">
               <p><strong>The Math is Terrifying:</strong></p>
               <div className="acceleration-stats">
-                <span className="era">1970s: <strong>1</strong> event/year</span>
-                <span className="era">2020: <strong>67</strong> events/year</span>
-                <span className="era">2025: <strong>200+</strong> events/year</span>
+                <span className="era">1970s: <strong><1</strong> event/year</span>
+                <span className="era">2010s: <strong>8</strong> events/year</span>
+                <span className="era">2020s: <strong>100+</strong> events/year</span>
               </div>
               <p className="cascade-warning">
                 Once you see the cascade pattern, you can't unsee it. 
@@ -96,7 +96,7 @@ const LandingPage = ({ onEnterTimeline }) => {
         <section className="key-findings">
           <h2>Key Findings</h2>
           <ul>
-            <li><strong>Cascade Acceleration:</strong> Each captured institution enables 3+ more captures, driving exponential growth from 1/year (1970s) to 200+/year (2025)</li>
+            <li><strong>Cascade Acceleration:</strong> Each captured institution enables 3+ more captures, driving exponential growth from <1/year (1970s) to 100+/year (2020s)</li>
             <li><strong>Nine Capture Lanes:</strong> Judicial, Financial, Constitutional, Foreign Influence, Information Control, and more operating in parallel</li>
             <li><strong>Network Effects:</strong> Same 47 actors appear across 100+ events, showing coordinated capture not random corruption</li>
             <li><strong>Predictive Pattern:</strong> The cascade framework successfully predicts which institutions will be targeted next</li>

@@ -19,7 +19,7 @@ What I discovered analyzing 790 events across 54 years isn't just corruption—i
 4. **Capture media** → Public can't see what's happening
 5. **Each capture enables three more** → Exponential growth
 
-In the 1970s, we documented one major capture event per year. By 2020, it was 67 per year. In 2025, we're tracking over 200 per year—and it's only August.
+In the 1970s, we documented less than one major capture event per year. In the 2010s, it was nearly 8 per year. In the 2020s, we're seeing over 100 per year—with 2025 alone on track for over 200.
 
 This isn't decline. It's cascade. And cascades have terrifying mathematical properties.
 
@@ -60,13 +60,12 @@ See how the same actors appear across different scandals. Watch how the same mon
 The most chilling revelation wasn't any single event—it was the acceleration pattern:
 
 ```
-1970-1980: 10 events total
-1980-1990: 15 events
-1990-2000: 22 events
-2000-2010: 31 events
-2010-2020: 67 events
-2020-2024: 142 events
-2025 (8 months): 108 events
+1970s: 8 events
+1980s: 3 events  
+1990s: 7 events
+2000s: 13 events
+2010s: 79 events
+2020s: 680 events (and counting)
 ```
 
 This isn't linear growth. It's exponential. And exponential curves have a terrifying property: by the time they're visible to everyone, it's almost too late.
