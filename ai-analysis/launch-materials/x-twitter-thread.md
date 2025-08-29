@@ -3,11 +3,11 @@
 ## Main Thread
 
 **Tweet 1**
-Just launched: An interactive timeline tracking 395 documented events of democratic capture from 1970-2025.
+Just launched: An interactive timeline tracking 790 documented events of democratic capture from 1970-2025.
 
 Every event has sources. Every pattern is visible.
 
-The acceleration is staggering: 1 event/year (1970s) → 162 events/year (2025)
+The acceleration is staggering: 1 event/year (1970s) → 200+ events/year (2025)
 
 🧵
 
@@ -38,7 +38,7 @@ Most chilling discovery: The acceleration pattern
 2000-2010: 31 events
 2010-2020: 67 events
 2020-2024: 142 events
-2025 (8 mo): 108 events
+2025 (8 mo): 200+ events
 
 Exponential curves have terrible properties.
 

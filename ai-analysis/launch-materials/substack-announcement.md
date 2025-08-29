@@ -2,7 +2,7 @@
 
 ## Title: Launching the Kleptocracy Timeline: Open Source Intelligence for Democratic Defense
 
-### Subtitle: 395 documented events. 1,900+ sources. 54 years of systematic capture. All verifiable. All public. All free.
+### Subtitle: 790 documented events. 3,000+ sources. 54 years of systematic capture. All verifiable. All public. All free.
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## Why This Matters Now
 
-We're living through an acceleration of democratic capture that defies comprehension. In the 1970s, we documented one major capture event per year. In 2025, we're tracking 162 per year—and it's only August.
+We're living through an acceleration of democratic capture that defies comprehension. In the 1970s, we documented one major capture event per year. In 2025, we're tracking over 200 per year—and it's only August.
 
 But here's what I've learned: **Those destroying democracy depend on our inability to see the patterns.**
 
@@ -22,7 +22,7 @@ This timeline breaks that strategy.
 
 **[View the Interactive Timeline →](https://markramm.github.io/KleptocracyTimeline/)**
 
-### 395 Documented Events (1970-2025)
+### 790 Documented Events (1970-2025)
 Every event has sources. Court documents, financial records, Congressional testimony, verified reporting. No speculation, no theory—just documented facts arranged chronologically so patterns become undeniable.
 
 ### Nine Capture Lanes Operating in Parallel

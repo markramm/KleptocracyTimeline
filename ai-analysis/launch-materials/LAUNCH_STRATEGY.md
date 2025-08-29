@@ -121,10 +121,10 @@
 ## 💬 Engagement Templates
 
 ### The Elevator Pitch
-"395 documented events. 1,900+ sources. 54 years of patterns. All verifiable. Interactive timeline shows how democracy gets captured - and how we might defend it."
+"790 documented events. 3,000+ sources. 54 years of patterns. All verifiable. Interactive timeline shows how democracy gets captured - and how we might defend it."
 
-### The Data Hook
-"We went from 1 capture event/year (1970s) to 162/year (2025). That's not decline - it's cascade. See the pattern: [link]"
+### The Data Hook  
+"We went from 1 capture event/year (1970s) to 200+/year (2025). That's not decline - it's cascade. See the pattern: [link]"
 
 ### The Network Hook
 "Same 47 people across 100+ events over 20 years. Once you see the network, you can't unsee it: [link]"
