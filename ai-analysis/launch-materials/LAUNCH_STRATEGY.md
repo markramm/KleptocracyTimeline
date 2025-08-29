@@ -158,7 +158,7 @@ See it happening in real-time: [link]"
 **Wednesday**: Capture Cascade Part 3 - Information Control Acceleration
 **Thursday**: Capture Cascade Part 4 - Financial Networks Enable Everything
 **Friday**: Capture Cascade Part 5 - Enforcement Weaponization
-**Next Week**: AI Discovery series (held for comprehensive release)
+**Next Week**: Continue Capture Cascade series deep dives
 
 ## 🎨 Visual Assets Needed
 

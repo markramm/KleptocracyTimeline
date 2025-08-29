@@ -72,11 +72,7 @@ This isn't linear growth. It's exponential. And exponential curves have a terrif
 
 ## This Is Just the Beginning
 
-Over the next two weeks, I'll be publishing two series diving deep into what this timeline reveals:
-
-**The AI Discovery Series**: What happens when an AI, trained on data through early 2024, discovers what happened in 2025? The shock of recognition might wake us from our exhaustion.
-
-**The Capture Cascade Series**: A historical analysis of how we got here, from the Powell Memo to today's open kleptocracy.
+Over the coming weeks, I'll be publishing **The Capture Cascade Series**: A deep dive into the framework that explains how democracy falls not gradually, but exponentially. We'll trace the pattern from the Powell Memo to today's open kleptocracy, showing how each captured institution enabled the capture of others.
 
 But the timeline itself is the foundation. It's the evidence base. It's the tool for understanding.
 
@@ -120,7 +116,7 @@ This timeline is our defense.
 
 **[Explore the Timeline](https://markramm.github.io/KleptocracyTimeline/)** | **[GitHub Repository](https://github.com/markramm/KleptocracyTimeline)** | **[Subscribe for Updates](https://theramm.substack.com)**
 
-*Next: Tomorrow I'll share Part 1 of the AI Discovery Series: "An Intelligence Trained on Yesterday Discovers Tomorrow's Catastrophe"*
+*Next: Tomorrow I'll share Part 1 of the Capture Cascade Series: "How Democracy Falls: The Mathematical Properties of Institutional Capture"*
 
 ---
 

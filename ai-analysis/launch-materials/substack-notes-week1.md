@@ -91,7 +91,7 @@ Week 1 discoveries from the timeline:
 ✓ 9 parallel capture operations
 ✓ Exponential acceleration ongoing
 
-Next week: The AI Discovery Series begins. What happens when an AI discovers 2025?
+Next week: The Capture Cascade Series continues with deep dives into specific capture patterns.
 
 ---
 

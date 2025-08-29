@@ -99,10 +99,9 @@ Help needed:
 GitHub: github.com/markramm/KleptocracyTimeline
 
 **Post 13**
-I'll be publishing two series diving deep into the timeline:
+I'll be publishing The Capture Cascade Series - a deep dive into how democracy falls not gradually, but exponentially.
 
-1. The AI Discovery Series - What happens when an AI discovers 2025?
-2. The Capture Cascade Series - Historical analysis of democratic capture
+We'll trace the pattern from the Powell Memo to today's open kleptocracy.
 
 Follow for updates. This is just the beginning.
 

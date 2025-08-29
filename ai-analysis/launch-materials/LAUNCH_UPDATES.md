@@ -47,7 +47,7 @@
 ### New ICE Hook
 "ICE transformed from immigration enforcement to paramilitary force in under 6 months. 33 documented events show the playbook. Same pattern emerging across all federal agencies."
 
-### AI Discovery Hook
+### Cascade Framework Hook
 "Our AI system discovered 400+ new events by analyzing patterns in existing data. Every event verified with real sources. The capture is bigger than we thought."
 
 ## 🎯 Refined Launch Strategy
