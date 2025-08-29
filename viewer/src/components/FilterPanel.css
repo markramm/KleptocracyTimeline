@@ -247,6 +247,90 @@
   border-color: #3b82f6;
 }
 
+/* Sort Order Section */
+.sort-options {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  background: rgba(15, 23, 42, 0.5);
+  border: 1px solid #334155;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.radio-option:hover {
+  background: rgba(31, 41, 55, 0.8);
+  border-color: #3b82f6;
+}
+
+.radio-option input[type="radio"] {
+  margin-right: 0.5rem;
+  accent-color: #3b82f6;
+}
+
+.radio-option span {
+  color: #e5e7eb;
+  font-size: 0.875rem;
+}
+
+/* Importance Filter Section */
+.importance-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.importance-filter label {
+  color: #94a3b8;
+  font-size: 0.875rem;
+  margin-bottom: 0.25rem;
+}
+
+.importance-select {
+  width: 100%;
+  background: #0f172a;
+  border: 1px solid #334155;
+  color: #e5e7eb;
+  padding: 0.5rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.importance-select:hover {
+  border-color: #3b82f6;
+}
+
+.importance-scale {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  height: 60px;
+  gap: 2px;
+  padding: 0.5rem 0;
+}
+
+.importance-bar {
+  flex: 1;
+  min-height: 10%;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.importance-bar:hover {
+  opacity: 0.8;
+  transform: translateY(-2px);
+}
+
 .timeline-select:focus {
   outline: none;
   border-color: #60a5fa;

@@ -9,7 +9,9 @@ import {
   RotateCcw,
   ChevronDown,
   ChevronUp,
-  Settings
+  Settings,
+  ArrowUpDown,
+  Star
 } from 'lucide-react';
 import TimelineMinimap from './TimelineMinimap';
 import './FilterPanel.css';
@@ -36,9 +38,16 @@ const FilterPanel = ({
   // Minimap data
   timelineData,
   // Events data for calculating counts
-  events
+  events,
+  // New props for sorting and importance
+  sortOrder,
+  onSortOrderChange,
+  minImportance,
+  onMinImportanceChange
 }) => {
   const [expandedSections, setExpandedSections] = useState({
+    sorting: true,
+    importance: true,
     captureLanes: true,
     tags: false,
     actors: false,
@@ -229,6 +238,128 @@ const FilterPanel = ({
       </div>
 
       <div className="filter-sections">
+        {/* Sort Order Section */}
+        <div className="filter-section">
+          <button 
+            className="section-header"
+            onClick={() => toggleSection('sorting')}
+          >
+            <div className="header-title">
+              <ArrowUpDown size={16} />
+              <span>Sort Order</span>
+              {sortOrder && sortOrder !== 'chronological' && (
+                <span className="badge">Active</span>
+              )}
+            </div>
+            {expandedSections.sorting ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+          </button>
+          
+          {expandedSections.sorting && (
+            <div className="section-content">
+              <div className="sort-options">
+                <label className="radio-option">
+                  <input
+                    type="radio"
+                    name="sortOrder"
+                    value="chronological"
+                    checked={sortOrder === 'chronological'}
+                    onChange={(e) => onSortOrderChange(e.target.value)}
+                  />
+                  <span>Chronological (Oldest First)</span>
+                </label>
+                <label className="radio-option">
+                  <input
+                    type="radio"
+                    name="sortOrder"
+                    value="newest"
+                    checked={sortOrder === 'newest'}
+                    onChange={(e) => onSortOrderChange(e.target.value)}
+                  />
+                  <span>Newest First</span>
+                </label>
+                {viewMode !== 'timeline' && (
+                  <>
+                    <label className="radio-option">
+                      <input
+                        type="radio"
+                        name="sortOrder"
+                        value="importance"
+                        checked={sortOrder === 'importance'}
+                        onChange={(e) => onSortOrderChange(e.target.value)}
+                      />
+                      <span>By Importance</span>
+                    </label>
+                    <label className="radio-option">
+                      <input
+                        type="radio"
+                        name="sortOrder"
+                        value="alphabetical"
+                        checked={sortOrder === 'alphabetical'}
+                        onChange={(e) => onSortOrderChange(e.target.value)}
+                      />
+                      <span>Alphabetical</span>
+                    </label>
+                  </>
+                )}
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* Importance Filter Section */}
+        <div className="filter-section">
+          <button 
+            className="section-header"
+            onClick={() => toggleSection('importance')}
+          >
+            <div className="header-title">
+              <Star size={16} />
+              <span>Importance Level</span>
+              {minImportance > 0 && (
+                <span className="badge">{minImportance}+</span>
+              )}
+            </div>
+            {expandedSections.importance ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+          </button>
+          
+          {expandedSections.importance && (
+            <div className="section-content">
+              <div className="importance-filter">
+                <label>Minimum Importance Level</label>
+                <select
+                  value={minImportance || 0}
+                  onChange={(e) => onMinImportanceChange(Number(e.target.value))}
+                  className="importance-select"
+                >
+                  <option value="0">All Events</option>
+                  <option value="5">5+ (Noteworthy)</option>
+                  <option value="6">6+ (Important)</option>
+                  <option value="7">7+ (High Priority)</option>
+                  <option value="8">8+ (Critical)</option>
+                  <option value="9">9+ (Crisis)</option>
+                  <option value="10">10 (Maximum)</option>
+                </select>
+                <div className="importance-scale">
+                  {[1,2,3,4,5,6,7,8,9,10].map(level => (
+                    <div
+                      key={level}
+                      className={`importance-bar ${minImportance >= level ? 'active' : ''}`}
+                      style={{
+                        height: `${level * 10}%`,
+                        backgroundColor: minImportance >= level ? 
+                          (level >= 9 ? '#dc2626' : level >= 7 ? '#f59e0b' : level >= 5 ? '#3b82f6' : '#6b7280') :
+                          '#374151'
+                      }}
+                      onClick={() => onMinImportanceChange(level)}
+                      title={`Set minimum to ${level}`}
+                    />
+                  ))}
+                </div>
+              </div>
+            </div>
+          )}
+        </div>
+
         {/* Capture Lanes Section */}
         <div className="filter-section">
           <button 

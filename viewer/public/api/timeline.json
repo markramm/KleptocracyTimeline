@@ -34433,6 +34433,70 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor",
+      "date": "2025-08-15",
+      "title": "FHFA Director Pulte Uses Mortgage Data to Target Fed Governor Lisa Cook",
+      "summary": "William Pulte, Trump's FHFA Director, accesses private mortgage application data to accuse Fed Governor Lisa Cook of fraud for listing two properties as primary residences, part of pattern targeting Trump's political opponents.",
+      "description": "Federal Housing Finance Agency Director William Pulte sends criminal referral to DOJ accusing Federal Reserve Governor Lisa Cook of mortgage fraud based on her 2021 mortgage applications. Pulte, who oversees Fannie Mae and Freddie Mac, accessed Cook's private mortgage documents showing she listed properties in Michigan and Georgia as primary residences two weeks apart. This represents unprecedented weaponization of government mortgage databases against political opponents, with Pulte having made similar accusations against Senator Adam Schiff and NY AG Letitia James. Cook is the first Black woman to serve on the Federal Reserve Board.",
+      "importance": 9,
+      "tags": [
+        "william-pulte",
+        "lisa-cook",
+        "federal-reserve",
+        "fhfa",
+        "mortgage-fraud",
+        "political-targeting",
+        "abuse-of-power",
+        "financial-surveillance",
+        "regulatory-capture",
+        "racial-targeting"
+      ],
+      "actors": [
+        "william-pulte",
+        "lisa-cook",
+        "federal-reserve",
+        "fhfa",
+        "department-of-justice"
+      ],
+      "capture_lane": "economic",
+      "status": "confirmed",
+      "sources": [
+        {
+          "outlet": "CNN Business",
+          "date": "2025-08-21",
+          "url": "https://www.cnn.com/2025/08/21/economy/fed-governor-lisa-cook-doj",
+          "title": "Justice Department signals probe of Fed Governor Lisa Cook",
+          "archive_url": null
+        },
+        {
+          "outlet": "CNBC",
+          "date": "2025-08-20",
+          "url": "https://www.cnbc.com/2025/08/20/trump-fed-cook-pulte-mortgage-bondi.html",
+          "title": "Fed's Cook says she will not be 'bullied' into resigning",
+          "archive_url": null
+        },
+        {
+          "outlet": "Yahoo News",
+          "date": "2025-08-20",
+          "url": "https://www.yahoo.com/news/articles/trump-donor-now-regulator-leads-202937719.html",
+          "title": "A Trump donor, now a regulator, leads effort to accuse president's foes of mortgage fraud",
+          "archive_url": null
+        }
+      ],
+      "connections": [
+        "2025-08-25--trump-fires-lisa-cook-fed",
+        "2025-03-14--william-pulte-sworn-fhfa",
+        "2025-08-20--pulte-targets-schiff-james"
+      ],
+      "patterns": [
+        "weaponized-government",
+        "financial-surveillance",
+        "political-persecution",
+        "regulatory-capture"
+      ],
+      "notes": "This marks unprecedented use of government mortgage databases for political targeting. Pulte accessed private financial records through FHFA's oversight of Fannie Mae and Freddie Mac, which process most US mortgages. The targeting of Cook, the first Black woman on the Fed Board, occurs amid Fed's refusal to cut interest rates as Trump demands. Pattern shows systematic use of mortgage application technicalities (primary residence declarations) to manufacture criminal referrals against political opponents."
+    },
+    {
       "id": "2025-08-18--gsa-ai-procurement-privatization",
       "date": "2025-08-18",
       "title": "GSA Seeks to Outsource $110 Billion Federal Procurement to AI Systems",
@@ -34674,6 +34738,71 @@
       "notes": "This represents an unprecedented attack on international judicial independence. The US is sanctioning judges from allied nations (Canada, France) for doing their jobs. The ICC's jurisdiction over war crimes is being treated as a \"national security threat\" simply because it might investigate US or Israeli actions. This fundamentally undermines the post-WWII international legal order and signals that the US will punish any international institution that attempts to hold it accountable. The sanctions effectively tell the world that international law only applies to America's enemies, not to America or its allies."
     },
     {
+      "id": "2025-08-20--pulte-mortgage-fraud-campaign-against-democrats",
+      "date": "2025-08-20",
+      "title": "FHFA's Pulte Expands Mortgage Fraud Accusations to Schiff and Letitia James",
+      "summary": "William Pulte uses FHFA access to mortgage databases to accuse Senator Adam Schiff and NY AG Letitia James of mortgage fraud, establishing pattern of weaponizing financial surveillance against Trump opponents.",
+      "description": "Federal Housing Finance Agency Director William Pulte expands his mortgage fraud campaign beyond Fed Governor Lisa Cook to include Democratic Senator Adam Schiff and New York Attorney General Letitia James. Using FHFA's access to Fannie Mae and Freddie Mac mortgage data covering most US home loans, Pulte searches political opponents' mortgage applications for technical violations around primary residence declarations. All three targets are prominent Trump critics - James prosecuted Trump for fraud, Schiff led impeachment efforts, Cook opposed Trump's Fed policies. Critics call this \"incredibly dangerous abuse of office\" using GSE control for political enemies list.",
+      "importance": 8,
+      "tags": [
+        "william-pulte",
+        "adam-schiff",
+        "letitia-james",
+        "fhfa",
+        "mortgage-fraud",
+        "political-targeting",
+        "abuse-of-power",
+        "financial-surveillance",
+        "enemies-list",
+        "weaponized-government"
+      ],
+      "actors": [
+        "william-pulte",
+        "adam-schiff",
+        "letitia-james",
+        "fhfa",
+        "fannie-mae",
+        "freddie-mac"
+      ],
+      "capture_lane": "political",
+      "status": "confirmed",
+      "sources": [
+        {
+          "outlet": "Credit Slips",
+          "date": "2025-08-20",
+          "url": "https://www.creditslips.org/creditslips/2025/08/bill-pultes-enemys-list.html",
+          "title": "Bill Pulte's Enemy's List",
+          "archive_url": null
+        },
+        {
+          "outlet": "The Hill",
+          "date": "2025-08-20",
+          "url": "https://thehill.com/business/5463982-trump-pulte-fed-pressure-campaign/",
+          "title": "Who is Bill Pulte, the housing director going after Trump's enemies?",
+          "archive_url": null
+        },
+        {
+          "outlet": "House Financial Services Democrats",
+          "date": "2025-08-22",
+          "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413224",
+          "title": "Ranking Member Waters Demands Answers from Director Pulte",
+          "archive_url": null
+        }
+      ],
+      "connections": [
+        "2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor",
+        "2025-03-14--william-pulte-sworn-fhfa",
+        "2025-08-25--trump-fires-lisa-cook-fed"
+      ],
+      "patterns": [
+        "enemies-list",
+        "financial-surveillance",
+        "weaponized-government",
+        "political-persecution"
+      ],
+      "notes": "Pulte's systematic campaign represents unprecedented abuse of government mortgage databases for political targeting. FHFA oversees Fannie Mae and Freddie Mac which process majority of US mortgages, giving Pulte access to private financial data of millions. His focus on primary residence technicalities in mortgage applications creates pretext for criminal referrals. Rep. Maxine Waters calls this \"alarming actions\" raising \"serious concerns about conflicts of interest, legal violations.\" Pattern resembles Nixon's enemies list but with modern financial surveillance capabilities."
+    },
+    {
       "id": "2025-08-22--doj-releases-maxwell-transcript",
       "date": "2025-08-22",
       "importance": 9,
@@ -34775,6 +34904,77 @@
       ],
       "notes": "Raid began 7 AM with 10 FBI agents, continued until 1:40 PM. Investigation targets Bolton's 2020 memoir \"The Room Where It Happened\" which Biden DOJ had cleared and dropped lawsuit over in 2021. Patel tweeted \"NO ONE is above the law\" during raid. Trump claimed ignorance but called Bolton \"real lowlife.\" Represents weaponization of FBI against prominent Trump critic using previously settled classified documents as pretext.",
       "status": "confirmed"
+    },
+    {
+      "id": "2025-08-25--trump-fires-lisa-cook-fed-independence",
+      "date": "2025-08-25",
+      "title": "Trump Fires Fed Governor Lisa Cook Over Mortgage Fraud Claims, Shattering Central Bank Independence",
+      "summary": "Trump unprecedentedly fires Federal Reserve Governor Lisa Cook based on Pulte's mortgage fraud allegations, breaking 111-year tradition of Fed independence and triggering constitutional crisis over presidential power.",
+      "description": "President Trump sends letter firing Federal Reserve Governor Lisa Cook, citing William Pulte's mortgage fraud allegations as cause. This unprecedented action shatters central bank independence - Fed governors can only be removed for proven malfeasance, not unproven allegations. Cook, the first Black woman on Fed Board, immediately sues Trump, stating \"no cause exists under the law\" and refusing to resign. Markets react negatively to attack on Fed independence. Trump's action follows Fed's refusal to cut interest rates as he demands. Constitutional scholars call this direct assault on separation of powers, as Federal Reserve Act requires actual cause for removal, not politically motivated accusations.",
+      "importance": 10,
+      "tags": [
+        "donald-trump",
+        "lisa-cook",
+        "federal-reserve",
+        "central-bank-independence",
+        "constitutional-crisis",
+        "separation-of-powers",
+        "political-persecution",
+        "racial-targeting",
+        "monetary-policy",
+        "rule-of-law"
+      ],
+      "actors": [
+        "donald-trump",
+        "lisa-cook",
+        "william-pulte",
+        "federal-reserve",
+        "department-of-justice"
+      ],
+      "capture_lane": "constitutional",
+      "status": "confirmed",
+      "sources": [
+        {
+          "outlet": "Fox Business",
+          "date": "2025-08-25",
+          "url": "https://www.foxbusiness.com/politics/trump-removes-federal-reserve-governor-lisa-cook-from-office-citing-fraud-allegations",
+          "title": "Trump removes Federal Reserve Governor Lisa Cook from office",
+          "archive_url": null
+        },
+        {
+          "outlet": "CNBC",
+          "date": "2025-08-25",
+          "url": "https://www.cnbc.com/2025/08/25/trump-fires-lisa-cook-fed-powell.html",
+          "title": "Trump fires Fed Governor Lisa Cook, cites mortgage fraud claim",
+          "archive_url": null
+        },
+        {
+          "outlet": "Washington Post",
+          "date": "2025-08-25",
+          "url": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
+          "title": "Trump moves to fire Federal Reserve governor Cook over fraud allegations",
+          "archive_url": null
+        },
+        {
+          "outlet": "CNN Business",
+          "date": "2025-08-28",
+          "url": "https://www.cnn.com/2025/08/28/economy/fed-lisa-cook-lawsuit",
+          "title": "Fed Governor Lisa Cook sues to challenge Trump's attempt to fire her",
+          "archive_url": null
+        }
+      ],
+      "connections": [
+        "2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor",
+        "2025-08-20--pulte-mortgage-fraud-campaign-against-democrats",
+        "2022-05-10--lisa-cook-confirmed-fed"
+      ],
+      "patterns": [
+        "central-bank-capture",
+        "constitutional-breakdown",
+        "racial-targeting",
+        "rule-of-law-erosion"
+      ],
+      "notes": "This represents most direct assault on Federal Reserve independence in its 111-year history. No president has ever fired a Fed governor without proven cause. Cook's firing based on unproven allegations from political appointee Pulte establishes precedent for removing any Fed official who opposes presidential policies. Raymond James warns markets viewing this \"attack on Fed independence negatively, amplifying uncertainty.\" Cook's status as first Black woman Fed governor adds racial dimension to targeting. Constitutional crisis as Federal Reserve Act clearly requires actual malfeasance for removal, not politically motivated accusations."
     },
     {
       "id": "2025-08-25--trump-fires-fed-governor-cook",

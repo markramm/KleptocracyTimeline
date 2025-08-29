@@ -45,6 +45,8 @@ function App() {
   const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [searchQuery, setSearchQuery] = useState('');
   const [viewMode, setViewMode] = useState('timeline');
+  const [sortOrder, setSortOrder] = useState('chronological');
+  const [minImportance, setMinImportance] = useState(0);
   
   // UI states - initialize from URL or defaults
   const [showFilters, setShowFilters] = useState(true);
@@ -74,6 +76,8 @@ function App() {
       setDateRange(urlState.dateRange || { start: null, end: null });
       setSearchQuery(urlState.searchQuery || '');
       setViewMode(urlState.viewMode || 'timeline');
+      setSortOrder(urlState.sortOrder || 'chronological');
+      setMinImportance(urlState.minImportance || 0);
       setTimelineControls(urlState.timelineControls || {
         compactMode: 'medium',
         sortBy: 'date',
@@ -135,7 +139,7 @@ function App() {
     }
   };
 
-  // Apply filters
+  // Apply filters and sorting
   useEffect(() => {
     let filtered = [...events];
 
@@ -180,8 +184,32 @@ function App() {
       );
     }
 
+    // Importance filter
+    if (minImportance > 0) {
+      filtered = filtered.filter(event => 
+        (event.importance || 0) >= minImportance
+      );
+    }
+
+    // Apply sorting
+    switch (sortOrder) {
+      case 'newest':
+        filtered.sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+        break;
+      case 'importance':
+        filtered.sort((a, b) => (b.importance || 0) - (a.importance || 0));
+        break;
+      case 'alphabetical':
+        filtered.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+        break;
+      case 'chronological':
+      default:
+        filtered.sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+        break;
+    }
+
     setFilteredEvents(filtered);
-  }, [events, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery]);
+  }, [events, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, sortOrder, minImportance]);
 
   // Event handlers
   const handleEventClick = useCallback((event) => {
@@ -291,6 +319,8 @@ function App() {
       selectedActors: [],
       dateRange: { start: null, end: null },
       searchQuery: '',
+      sortOrder: 'chronological',
+      minImportance: 0,
       viewMode,
       timelineControls: {
         compactMode: 'medium',
@@ -308,6 +338,8 @@ function App() {
     setSelectedActors(defaultState.selectedActors);
     setDateRange(defaultState.dateRange);
     setSearchQuery(defaultState.searchQuery);
+    setSortOrder(defaultState.sortOrder);
+    setMinImportance(defaultState.minImportance);
     setTimelineControls(defaultState.timelineControls);
     
     // Update URL to reflect cleared state
@@ -577,6 +609,10 @@ function App() {
                 selectedCaptureLanes={selectedCaptureLanes}
                 dateRange={dateRange}
                 events={events}
+                sortOrder={sortOrder}
+                onSortOrderChange={setSortOrder}
+                minImportance={minImportance}
+                onMinImportanceChange={setMinImportance}
                 onTagsChange={(newTags) => {
                   setSelectedTags(newTags);
                   if (updateUrl) {
