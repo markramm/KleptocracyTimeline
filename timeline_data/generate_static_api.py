@@ -6,6 +6,7 @@ Generate static API JSON files for the timeline viewer
 import json
 import yaml
 import os
+import sys
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime, date
@@ -139,7 +140,6 @@ def main():
     return 0  # Success
 
 if __name__ == '__main__':
-    import sys
     result = main()
     if result:
         sys.exit(result)
