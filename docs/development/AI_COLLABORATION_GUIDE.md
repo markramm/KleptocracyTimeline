@@ -54,6 +54,25 @@ EFFECTIVE PROMPT PATTERNS:
 "Create a Python script to automate this analysis for new events"
 ```
 
+### Using Purpose-Built Tools
+
+**IMPORTANT**: We have specialized Python tools for event management. Use these instead of manual bash commands:
+
+```python
+# USE THIS for searching/editing events:
+from yaml_tools import YamlEventManager
+manager = YamlEventManager()
+
+# DON'T USE: grep, find, sed, awk for YAML files
+# The yaml_tools.py provides validated, safe operations with:
+# - Automatic backups
+# - Schema validation  
+# - Source deduplication
+# - Bulk operations
+```
+
+See `yaml_tools.py` in the project root for full documentation.
+
 ## 🎭 The AI Discovery Series: Rip Van Winkle Analysis
 
 ### The Genius of the Approach

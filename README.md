@@ -47,6 +47,33 @@ cd viewer
 npm start
 ```
 
+## 🛠️ Developer Tools
+
+### YAML Event Management
+**Important**: Use `yaml_tools.py` for efficient event management instead of manual bash commands.
+
+```python
+from yaml_tools import YamlEventManager
+manager = YamlEventManager()
+
+# Search events
+results = manager.yaml_search(text="ICE", importance_min=8)
+
+# Add sources
+manager.manage_sources("2025-01-20--event.yaml", action="add", 
+                      sources=[{"title": "...", "outlet": "...", "url": "..."}])
+
+# Bulk edit
+manager.yaml_bulk_edit(search_criteria={"tags": ["ICE"]}, 
+                      updates={"importance": 9})
+```
+
+See `yaml_tools.py` for full API. This tool provides:
+- Fast searching across all events
+- Batch operations for multiple files
+- Source deduplication and validation
+- Automatic backups and validation
+
 ## 📁 Repository Structure
 
 ```
