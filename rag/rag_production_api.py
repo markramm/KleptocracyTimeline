@@ -32,8 +32,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Import our RAG systems
-from advanced_rag_system import AdvancedRAGSystem
-from optimized_rag_system import OptimizedRAGSystem
+from rag_system import AdvancedRAGSystem
 
 
 # ============= Pydantic Models =============
@@ -264,7 +263,8 @@ async def lifespan(app: FastAPI):
         logger.error(f"Failed to initialize Advanced RAG: {e}")
     
     try:
-        rag_systems['optimized'] = OptimizedRAGSystem("../timeline_data/timeline_complete.json")
+        # Only using advanced system now (best performance)
+        # rag_systems['optimized'] = OptimizedRAGSystem("../timeline_data/timeline_complete.json")
         logger.info("Optimized RAG system initialized")
     except Exception as e:
         logger.error(f"Failed to initialize Optimized RAG: {e}")

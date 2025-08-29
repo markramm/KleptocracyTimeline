@@ -25,7 +25,31 @@ import numpy as np
 from sentence_transformers import SentenceTransformer, util
 import chromadb
 
-from real_rag_system import Event
+# Event class definition (previously imported from real_rag_system)
+@dataclass
+class Event:
+    """Represents a timeline event."""
+    id: str
+    date: str
+    title: str
+    summary: str
+    actors: List[str]
+    tags: List[str]
+    importance: int
+    sources: List[Dict[str, str]]
+    
+    @classmethod
+    def from_dict(cls, data: Dict) -> 'Event':
+        return cls(
+            id=data.get('id', ''),
+            date=data.get('date', ''),
+            title=data.get('title', ''),
+            summary=data.get('summary', ''),
+            actors=data.get('actors', []),
+            tags=data.get('tags', []),
+            importance=data.get('importance', 5),
+            sources=data.get('sources', [])
+        )
 
 
 @dataclass
