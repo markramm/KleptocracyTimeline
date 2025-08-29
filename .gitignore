@@ -190,5 +190,8 @@ timeline_data/events/.sources/
 # Archive folder (old files)
 archive/
 
+# AI notes and internal documentation (not part of core timeline)
+ai_notes/
+
 # Flask app files
 timeline_data/static/
