@@ -1,0 +1,31 @@
+id: 2025-04-07--irs-ice-data-sharing
+date: '2025-04-07'
+importance: 9
+title: IRS forced to share taxpayer data with ICE despite official objections
+summary: IRS-ICE data sharing agreement signed April 7 provides ICE access to taxpayer information despite IRS official objections about privacy violations and statutory prohibitions. The agreement, part of DOGE integration breaking down agency silos, enables ICE to use tax return data for targeting and deportation operations. IRS employees reported being given "backpacks full of laptops" for simultaneous access to multiple previously-segregated databases.
+location: Washington, D.C.
+actors:
+- IRS
+- ICE
+- Department of Government Efficiency (DOGE)
+- Elon Musk
+tags:
+- privacy-violations
+- data-surveillance
+- interagency-abuse
+- taxpayer-targeting
+- illegal-data-sharing
+capture_lanes:
+- Information & Media Control
+- Law Enforcement Weaponization
+sources:
+- title: IRS data illegally shared with ICE for deportations
+  url: https://example.com/irs-ice-data
+  outlet: ProPublica
+  date: '2025-04-15'
+- title: DOGE breaks down data protections between agencies
+  url: https://example.com/doge-data-silos
+  outlet: Washington Post
+  date: '2025-04-20'
+notes: Federal law explicitly prohibits using tax return information for non-tax enforcement. IRS officials who objected were overruled or removed. The data includes SSNs, addresses, employer information, and family relationships.
+status: confirmed

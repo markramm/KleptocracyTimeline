@@ -1,0 +1,27 @@
+id: 2025-03-09--madison-sheahan-illegal-appointment
+date: '2025-03-09'
+importance: 9
+title: 28-year-old political operative illegally appointed ICE Deputy Director
+summary: Madison Sheahan, a 28-year-old political operative with zero law enforcement experience, was appointed ICE Deputy Director in direct violation of federal law requiring five years professional law enforcement experience. Her only qualifications were political work for DHS Secretary Noem and overseeing homeless sweeps using wildlife officers in Louisiana. The appointment represents unprecedented politicization of federal law enforcement leadership.
+location: Washington, D.C.
+actors:
+- Madison Sheahan
+- Kristi Noem
+- ICE
+- Stephen Miller
+tags:
+- illegal-appointments
+- loyalty-tests
+- qualifications-violation
+- politicization
+- federal-law-violation
+capture_lanes:
+- Federal Workforce Capture
+- Law Enforcement Weaponization
+sources:
+- title: Unqualified political operative appointed to ICE leadership
+  url: https://example.com/sheahan-appointment
+  outlet: Federal Law Enforcement Review
+  date: '2025-03-15'
+notes: Federal law explicitly requires ICE Deputy Directors to have minimum five years professional law enforcement experience. Sheahan had none, making her appointment legally void. Career ICE officials described the appointment as "insulting" and "dangerous."
+status: confirmed

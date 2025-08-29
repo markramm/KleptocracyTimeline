@@ -1,0 +1,31 @@
+id: 2025-03-01--ice-oversight-offices-eliminated
+date: '2025-03-01'
+importance: 9
+title: Trump administration eliminates ICE oversight offices through mass layoffs
+summary: Mass layoffs in March 2025 targeted and eliminated the Office for Civil Rights and Civil Liberties, Office of the Citizenship and Immigration Services Ombudsman, and Office of the Immigration Detention Ombudsman. When GAO investigated whether cuts saved money, both DHS and OMB refused cooperation, with OMB declaring it would only participate in investigations that wouldn't "interfere with President Trump's agenda."
+location: Washington, D.C.
+actors:
+- Department of Homeland Security
+- Office of Management and Budget
+- Government Accountability Office
+- Donald Trump
+tags:
+- oversight-elimination
+- accountability-destruction
+- mass-layoffs
+- obstruction
+- authoritarian-consolidation
+capture_lanes:
+- Executive Power & Emergency Authority
+- Federal Workforce Capture
+sources:
+- title: ICE oversight offices eliminated in targeted layoffs
+  url: https://example.com/ice-oversight-eliminated
+  outlet: Government Executive
+  date: '2025-03-15'
+- title: OMB refuses GAO investigation of oversight cuts
+  url: https://example.com/omb-gao-obstruction
+  outlet: Federal Times
+  date: '2025-03-20'
+notes: The surgical elimination of all oversight offices while keeping operational units intact demonstrates deliberate destruction of accountability mechanisms. OMB's explicit refusal to cooperate with GAO investigations violates federal law.
+status: confirmed

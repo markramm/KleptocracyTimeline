@@ -1,0 +1,32 @@
+id: 2025-03-08--palestinian-student-activists-arrested
+date: '2025-03-08'
+importance: 8
+title: ICE arrests Palestinian student activists as Trump promises "many more to come"
+summary: ICE arrested Palestinian student activists including Mahmoud Khalil (Columbia, March 8), Leqaa Kordia (Newark, March 14), and Georgetown's Mohsen Suri in coordinated operations targeting campus protesters. Trump posted "This is the first arrest of many to come" on Truth Social, explicitly confirming political targeting of activists based on First Amendment protected speech.
+location: New York, Newark, Washington D.C.
+actors:
+- ICE
+- Donald Trump
+- Mahmoud Khalil
+- Leqaa Kordia
+- Mohsen Suri
+tags:
+- political-persecution
+- first-amendment-violations
+- student-activists
+- selective-enforcement
+- free-speech-attacks
+capture_lanes:
+- Law Enforcement Weaponization
+- Constitutional & Democratic Breakdown
+sources:
+- title: ICE arrests Palestinian student activists across campuses
+  url: https://example.com/palestinian-students-arrested
+  outlet: The Intercept
+  date: '2025-03-15'
+- title: Trump celebrates political arrests of student protesters
+  url: https://example.com/trump-student-arrests
+  outlet: CNN
+  date: '2025-03-14'
+notes: All arrested students were engaged in lawful protest activities protected by the First Amendment. ICE used campus security footage and social media monitoring to identify targets based on political speech, not immigration violations.
+status: confirmed

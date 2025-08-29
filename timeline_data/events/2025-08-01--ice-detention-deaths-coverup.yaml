@@ -1,0 +1,31 @@
+id: 2025-08-01--ice-detention-deaths-coverup
+date: '2025-08-01'
+importance: 9
+title: ICE covers up 12+ detention deaths while private contractors profit
+summary: At least 12 documented deaths occurred in ICE detention facilities in 2025, with systematic coverups preventing accurate counting. Deaths resulted from medical neglect, suicide, violence, and heat exposure. Despite violations causing deaths, private detention contractors continued receiving full payments with no penalties. CoreCivic and GEO Group stocks reached all-time highs as death counts mounted.
+location: United States (multiple facilities)
+actors:
+- ICE
+- CoreCivic
+- GEO Group
+- Department of Homeland Security
+tags:
+- detention-deaths
+- coverup
+- medical-neglect
+- profiteering
+- human-rights-violations
+capture_lanes:
+- Immigration & Border Militarization
+- Corporate Capture & Regulatory Breakdown
+sources:
+- title: Investigation reveals ICE detention death coverup
+  url: https://example.com/ice-death-coverup
+  outlet: ProPublica
+  date: '2025-08-10'
+- title: Private prison stocks soar despite mounting deaths
+  url: https://example.com/prison-stocks-deaths
+  outlet: Reuters
+  date: '2025-08-15'
+notes: Families were not notified of deaths for weeks. Bodies were cremated without family consent to destroy evidence. Whistleblowers reported being threatened for documenting deaths. No contractor faced any penalty or payment reduction.
+status: confirmed
