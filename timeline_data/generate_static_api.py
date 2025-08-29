@@ -10,6 +10,17 @@ import sys
 from pathlib import Path
 from collections import defaultdict
 from datetime import datetime, date
+import decimal
+
+def json_serial(obj):
+    """JSON serializer for objects not serializable by default json code"""
+    if isinstance(obj, (datetime, date)):
+        return obj.isoformat()
+    elif isinstance(obj, decimal.Decimal):
+        return float(obj)
+    elif hasattr(obj, '__str__'):
+        return str(obj)
+    raise TypeError(f"Type {type(obj)} not serializable")
 
 def get_sort_date(event):
     """Get sortable date from event, handling both string and date objects"""
@@ -52,10 +63,17 @@ def main():
                     # Add ID from filename
                     event['id'] = yaml_file.stem
                     
-                    # Convert date to string if it's a date object
-                    if 'date' in event and isinstance(event['date'], date):
-                        event['date'] = event['date'].isoformat()
+                    # Convert all date objects to strings recursively
+                    def convert_dates(obj):
+                        if isinstance(obj, dict):
+                            return {k: convert_dates(v) for k, v in obj.items()}
+                        elif isinstance(obj, list):
+                            return [convert_dates(v) for v in obj]
+                        elif isinstance(obj, date):
+                            return obj.isoformat()
+                        return obj
                     
+                    event = convert_dates(event)
                     events.append(event)
                     
                     # Collect metadata
@@ -73,7 +91,7 @@ def main():
 
     # Generate timeline.json
     with open(output_dir / 'timeline.json', 'w') as f:
-        json.dump({'events': events}, f, indent=2, default=str)
+        json.dump({'events': events}, f, indent=2, default=json_serial)
 
     # Generate tags.json
     with open(output_dir / 'tags.json', 'w') as f:
@@ -128,7 +146,7 @@ def main():
     stats['events_by_importance'] = dict(importance_counts)
 
     with open(output_dir / 'stats.json', 'w') as f:
-        json.dump(stats, f, indent=2, default=str)
+        json.dump(stats, f, indent=2, default=json_serial)
 
     print(f'✅ Generated static API data:')
     print(f'  - {len(events)} events')
