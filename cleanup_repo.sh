@@ -24,7 +24,6 @@ create_structure() {
     mkdir -p docs/user
     mkdir -p docs/development  
     mkdir -p docs/maintenance
-    mkdir -p docs/archive
     
     # Create scripts subdirectories
     mkdir -p scripts/generation
@@ -63,15 +62,17 @@ move_docs() {
     [ -f "RESPONSE_TEMPLATES.md" ] && git mv RESPONSE_TEMPLATES.md docs/maintenance/ 2>/dev/null || true
     [ -f "PUSH_INSTRUCTIONS.md" ] && git mv PUSH_INSTRUCTIONS.md docs/maintenance/ 2>/dev/null || true
     
-    # Archive old/outdated docs
-    [ -f "README_PUBLIC.md" ] && git mv README_PUBLIC.md docs/archive/ 2>/dev/null || true
-    [ -f "PROJECT_STATUS.md" ] && git mv PROJECT_STATUS.md docs/archive/ 2>/dev/null || true
-    [ -f "PROJECT_HEALTH.md" ] && git mv PROJECT_HEALTH.md docs/archive/ 2>/dev/null || true
-    [ -f "PROJECT_STATS.md" ] && git mv PROJECT_STATS.md docs/archive/ 2>/dev/null || true
-    [ -f "PROJECT_EVALUATION.md" ] && git mv PROJECT_EVALUATION.md docs/archive/ 2>/dev/null || true
-    [ -f "LAUNCH_READY.md" ] && git mv LAUNCH_READY.md docs/archive/ 2>/dev/null || true
-    [ -f "INITIAL_COMMIT.md" ] && git mv INITIAL_COMMIT.md docs/archive/ 2>/dev/null || true
-    [ -f "GITHUB_INTEGRATION.md" ] && git mv GITHUB_INTEGRATION.md docs/archive/ 2>/dev/null || true
+    # Remove outdated docs (preserved in git history)
+    [ -f "README_PUBLIC.md" ] && git rm README_PUBLIC.md 2>/dev/null || true
+    [ -f "PROJECT_STATUS.md" ] && git rm PROJECT_STATUS.md 2>/dev/null || true
+    [ -f "PROJECT_HEALTH.md" ] && git rm PROJECT_HEALTH.md 2>/dev/null || true
+    [ -f "PROJECT_STATS.md" ] && git rm PROJECT_STATS.md 2>/dev/null || true
+    [ -f "PROJECT_EVALUATION.md" ] && git rm PROJECT_EVALUATION.md 2>/dev/null || true
+    [ -f "LAUNCH_READY.md" ] && git rm LAUNCH_READY.md 2>/dev/null || true
+    [ -f "INITIAL_COMMIT.md" ] && git rm INITIAL_COMMIT.md 2>/dev/null || true
+    [ -f "GITHUB_INTEGRATION.md" ] && git rm GITHUB_INTEGRATION.md 2>/dev/null || true
+    [ -f "TOOLS_README.md" ] && git rm TOOLS_README.md 2>/dev/null || true
+    [ -f "CODE_OF_CONDUCT.md" ] && git rm CODE_OF_CONDUCT.md 2>/dev/null || true
     
     echo -e "${GREEN}✅ Documentation organized${NC}"
 }
@@ -280,8 +281,9 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
     echo "3. Test that everything still works"
     echo "4. Commit changes when ready"
     echo ""
-    echo -e "${YELLOW}Note: Some operations may have failed if files were already moved.${NC}"
-    echo -e "${YELLOW}      Check 'git status' to see what actually changed.${NC}"
+    echo -e "${YELLOW}Note: Removed files are preserved in git history${NC}"
+    echo -e "${YELLOW}      Use 'git log --follow <filename>' to see history${NC}"
+    echo -e "${YELLOW}      Use 'git checkout <commit> <filename>' to recover if needed${NC}"
 else
     echo -e "${RED}Cleanup cancelled${NC}"
 fi

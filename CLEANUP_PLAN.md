@@ -39,11 +39,10 @@ kleptocracy-timeline/
 │   │   ├── TESTING.md
 │   │   ├── AI_COLLABORATION_GUIDE.md
 │   │   └── PROJECT_STRUCTURE.md
-│   ├── maintenance/            # Maintenance & operations
-│   │   ├── REPO_HYGIENE.md
-│   │   ├── LAUNCH_CHECKLIST.md
-│   │   └── RESPONSE_TEMPLATES.md
-│   └── archive/                # Old/outdated docs for reference
+│   └── maintenance/            # Maintenance & operations
+│       ├── REPO_HYGIENE.md
+│       ├── LAUNCH_CHECKLIST.md
+│       └── RESPONSE_TEMPLATES.md
 │
 ├── scripts/                     # All operational scripts
 │   ├── generation/             # Data generation scripts
@@ -87,9 +86,9 @@ kleptocracy-timeline/
 
 ### Phase 1: Documentation Consolidation
 1. **Merge duplicate content** from multiple README files into main README.md
-2. **Move docs to organized folders** under docs/
+2. **Move active docs to organized folders** under docs/
 3. **Replace hardcoded statistics** with dynamic badges or links to live data
-4. **Archive outdated docs** instead of deleting
+4. **Delete outdated docs** (preserved in git history)
 
 ### Phase 2: Script Organization
 1. **Consolidate duplicate scripts** (keep v2 versions, archive originals)
@@ -125,13 +124,14 @@ kleptocracy-timeline/
 - .gitignore
 - package.json / package-lock.json
 
-## Files to Archive/Remove
+## Files to Remove (Preserved in Git History)
 
-- README_PUBLIC.md (merge into README.md)
-- Multiple PROJECT_*.md files (consolidate)
-- Test scripts in root (move to tests/)
-- Old launch/status files with outdated stats
-- Duplicate script versions (_v2 files)
+- README_PUBLIC.md (content merged into README.md)
+- PROJECT_STATUS.md, PROJECT_HEALTH.md, PROJECT_STATS.md (outdated stats)
+- PROJECT_EVALUATION.md, LAUNCH_READY.md (outdated launch docs)
+- INITIAL_COMMIT.md, GITHUB_INTEGRATION.md (no longer needed)
+- Test scripts in root (moved to tests/)
+- Original versions of _v2 scripts (keeping v2 only)
 
 ## Success Criteria
 
@@ -146,7 +146,8 @@ kleptocracy-timeline/
 
 ## Notes
 
-- Keep archive/ folder for historical reference
-- Use symlinks if needed for backward compatibility
+- Git history preserves all deleted files (use `git log --follow` to track)
+- The existing archive/ folder is .gitignored for temporary/working files only
 - Create a MIGRATION.md to document what moved where
 - Run full test suite after each phase
+- Use `git rm` to properly remove files and preserve history
