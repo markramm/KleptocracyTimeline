@@ -443,7 +443,13 @@ function App() {
       
       <header className="app-header">
         <div className="header-content">
-          <h1>Democracy Timeline</h1>
+          <h1 
+            onClick={() => setShowLanding(true)}
+            style={{ cursor: 'pointer' }}
+            title="Return to landing page"
+          >
+            Democracy Timeline
+          </h1>
           <p className="subtitle">Tracking Patterns of Democratic Degradation</p>
         </div>
         

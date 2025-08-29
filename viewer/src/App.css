@@ -82,6 +82,12 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 0.25rem;
+  transition: all 0.3s ease;
+}
+
+.header-content h1:hover {
+  transform: scale(1.05);
+  filter: brightness(1.2);
 }
 
 .subtitle {
