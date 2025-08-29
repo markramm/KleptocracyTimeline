@@ -1,0 +1,210 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+          
+      - name: Validate timeline dates
+        run: |
+          python tools/validation/validate_timeline_dates.py
+          
+      - name: Check for future confirmed events
+        run: |
+          python -c "
+          import yaml, sys
+          from datetime import date
+          from pathlib import Path
+          
+          errors = []
+          for f in Path('timeline_data/events').glob('*.yaml'):
+              with open(f) as file:
+                  event = yaml.safe_load(file)
+                  if event.get('status') == 'confirmed':
+                      event_date = event.get('date')
+                      if isinstance(event_date, str):
+                          event_date = date.fromisoformat(event_date)
+                      if event_date > date.today():
+                          if 'confirmed_date' not in event:
+                              errors.append(f'{f.name}: Future date with confirmed status')
+          
+          if errors:
+              print('❌ Validation failed:')
+              for error in errors:
+                  print(f'  - {error}')
+              sys.exit(1)
+          else:
+              print('✅ All events validated successfully')
+          "
+          
+      - name: Check ID/filename consistency
+        run: |
+          python -c "
+          import yaml, sys
+          from pathlib import Path
+          
+          errors = []
+          for f in Path('timeline_data/events').glob('*.yaml'):
+              with open(f) as file:
+                  event = yaml.safe_load(file)
+                  expected_id = f.stem
+                  if event.get('id') != expected_id:
+                      errors.append(f'{f.name}: ID mismatch')
+          
+          if errors:
+              print('❌ ID/filename mismatches found:')
+              for error in errors:
+                  print(f'  - {error}')
+              sys.exit(1)
+          else:
+              print('✅ All IDs match filenames')
+          "
+          
+      - name: Validate HTML
+        run: |
+          python -c "
+          from html.parser import HTMLParser
+          import sys
+          from pathlib import Path
+          
+          class HTMLValidator(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.errors = []
+                  
+              def error(self, message):
+                  self.errors.append(message)
+          
+          for html_file in Path('viewer/public').glob('*.html'):
+              with open(html_file, 'r') as f:
+                  content = f.read()
+                  
+              parser = HTMLValidator()
+              try:
+                  parser.feed(content)
+              except Exception as e:
+                  print(f'❌ HTML parsing error in {html_file.name}: {e}')
+                  sys.exit(1)
+              
+              if parser.errors:
+                  print(f'❌ HTML validation errors in {html_file.name}:')
+                  for error in parser.errors:
+                      print(f'  - {error}')
+                  sys.exit(1)
+          
+          print('✅ All HTML files are valid')
+          "
+          
+  build-and-deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: viewer/package-lock.json
+          
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+          
+      - name: Generate static API data
+        run: |
+          python timeline_data/generate_static_api.py
+          
+      - name: Generate CSV and JSON exports
+        run: |
+          python scripts/generate_csv.py --json --viewer-dir viewer/
+          echo "CSV and JSON exports generated successfully"
+          
+      - name: Generate YAML exports
+        run: |
+          python scripts/generate_yaml_export.py --viewer-dir viewer/
+          echo "YAML exports generated successfully"
+          
+      - name: Install Node dependencies
+        run: |
+          cd viewer
+          npm ci
+          
+      - name: Build viewer
+        run: |
+          cd viewer
+          npm run build:gh-pages
+          
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./viewer/build
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        
+  summary:
+    needs: [validate]
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate summary
+        run: |
+          echo "## Timeline Status" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "📊 **Events:** $(ls timeline_data/events/*.yaml | wc -l)" >> $GITHUB_STEP_SUMMARY
+          echo "📅 **Latest:** $(ls -t timeline_data/events/*.yaml | head -1 | xargs basename)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ needs.validate.result }}" == "success" ]; then
+            echo "✅ Validation passed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ Validation failed" >> $GITHUB_STEP_SUMMARY
+          fi
