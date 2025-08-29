@@ -17,11 +17,22 @@ tags:
 - kleptocracy
 capture_type: monetizing_position
 sources:
-- title: 'Trump administration accused of ‘quid pro quo’ for fast-tracking controversial
-    fossil fuel proposal '
+- title: Trump administration accused of 'quid pro quo' for fast-tracking controversial fossil fuel proposal
   url: https://www.theguardian.com/us-news/2025/mar/16/line-5-trump-pipeline-pollution-michigan-barnard
   outlet: The Guardian
   date: '2025-03-17'
+- title: Trump donor's company set to profit from Michigan pipeline deal
+  url: https://www.ehn.org/trump-donors-company-set-to-profit-from-michigan-pipeline-deal
+  outlet: Environmental Health News
+  date: '2025-03-17'
+- title: Conflict of interest? Michigan groups question Trump, Line 5 contractor link
+  url: https://www.wxpr.org/energy-environment/2025-03-24/conflict-of-interest-michigan-groups-question-trump-line-5-contractor-link
+  outlet: WXPR
+  date: '2025-03-24'
+- title: Tribes fear consequences for Great Lakes as Trump administration fast-tracks Line 5 pipeline
+  url: https://www.chicagotribune.com/2025/05/18/great-lakes-line-5-enbridge-trump/
+  outlet: Chicago Tribune
+  date: '2025-05-18'
 connections: []
 patterns:
 - kleptocratic-capture

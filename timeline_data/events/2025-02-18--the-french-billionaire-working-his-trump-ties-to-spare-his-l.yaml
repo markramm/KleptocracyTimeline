@@ -20,6 +20,18 @@ sources:
   url: https://www.wsj.com/business/retail/trump-bernard-arnault-lvmh-relationship-971a8454?mod=latest_headlines
   outlet: Wall Street Journal
   date: '2025-02-18'
+- title: What Bernard Arnault's optimism for the U.S. could mean for LVMH's position under 'tariff man' Trump
+  url: https://fortune.com/europe/2025/01/29/bernard-arnault-us-lvmh-expansion-donald-trump/
+  outlet: Fortune
+  date: '2025-01-29'
+- title: Trump hosts LVMH boss as tariffs threaten luxury goods
+  url: https://us.fashionnetwork.com/news/Trump-hosts-lvmh-boss-as-tariffs-threaten-luxury-goods,1727808.html
+  outlet: Fashion Network
+  date: '2025-05-07'
+- title: Louis Vuitton LVMH owner Bernard Arnault loses $1.6 billion in one day on Trump's French tariffs threat
+  url: https://www.cbsnews.com/news/louis-vuitton-lvmh-owner-bernard-arnault-loses-1-6-billion-on-proposed-trump-tariffs/
+  outlet: CBS News
+  date: '2025-04-02'
 connections: []
 patterns:
 - kleptocratic-capture

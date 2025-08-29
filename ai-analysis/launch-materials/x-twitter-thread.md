@@ -3,22 +3,28 @@
 ## Main Thread
 
 **Tweet 1**
-Just launched: An interactive timeline tracking 790 documented events of democratic capture from 1970-2025.
+Democracy doesn't fall gradually. It cascades.
 
-Every event has sources. Every pattern is visible.
+Each captured institution enables 3 more captures. The math is terrifying.
 
-The acceleration is staggering: 1 event/year (1970s) → 200+ events/year (2025)
+1970s: 1 event/year
+2020: 67/year
+2025: 200+/year
+
+790 documented events. The pattern is undeniable.
 
 🧵
 
 **Tweet 2**
-What we found:
-- 9 parallel capture operations
-- Same 47 actors across 100+ events
-- $700M+ in documented suspicious transactions
-- Exponential acceleration since 2020
+The Capture Cascade works like this:
 
-This isn't speculation. It's documentation.
+1. Capture oversight → No one watching
+2. Capture courts → No legal recourse
+3. Capture enforcement → Selective prosecution
+4. Capture media → Public blind
+5. Each enables 3 more → Exponential growth
+
+Once started, it's nearly impossible to stop.
 
 **Tweet 3**
 The timeline revealed 9 "capture lanes" operating simultaneously:

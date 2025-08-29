@@ -1,31 +1,47 @@
 # Substack Announcement Post
 
-## Title: Launching the Kleptocracy Timeline: Open Source Intelligence for Democratic Defense
+## Title: The Capture Cascade: How Democracy Falls Not Gradually, Then Suddenly—But Exponentially
 
-### Subtitle: 790 documented events. 3,000+ sources. 54 years of systematic capture. All verifiable. All public. All free.
+### Subtitle: 790 documented events reveal the acceleration pattern. Once you see the cascade, you can't unsee it.
 
 ---
 
-*Today I'm releasing something I've been working on for months: an interactive timeline documenting the systematic capture of American democracy. This isn't conspiracy theory—it's conspiracy documentation.*
+*Today I'm releasing an interactive timeline documenting the systematic capture of American democracy—and more importantly, revealing the framework that explains why it's accelerating exponentially.*
 
-## Why This Matters Now
+## The Capture Cascade Framework
 
-We're living through an acceleration of democratic capture that defies comprehension. In the 1970s, we documented one major capture event per year. In 2025, we're tracking over 200 per year—and it's only August.
+What I discovered analyzing 790 events across 54 years isn't just corruption—it's a self-reinforcing cascade where each captured institution enables the capture of others, creating exponential acceleration.
 
-But here's what I've learned: **Those destroying democracy depend on our inability to see the patterns.**
+**The pattern is consistent:**
+1. **Capture regulatory body** → Oversight disappears
+2. **Capture judiciary** → No legal recourse  
+3. **Capture enforcement** → Laws become selective weapons
+4. **Capture media** → Public can't see what's happening
+5. **Each capture enables three more** → Exponential growth
 
-They count on events being scattered across different news cycles, buried in different outlets, discussed by different communities. They depend on our exhaustion, our inability to connect the dots, our tendency to forget last month's outrage when this month's arrives.
+In the 1970s, we documented one major capture event per year. By 2020, it was 67 per year. In 2025, we're tracking over 200 per year—and it's only August.
 
-This timeline breaks that strategy.
+This isn't decline. It's cascade. And cascades have terrifying mathematical properties.
+
+## Why This Timeline Matters Now
+
+Those destroying democracy depend on our inability to see the patterns. They count on events being scattered across different news cycles, buried in different outlets, discussed by different communities. 
+
+The timeline breaks that strategy by making the cascade visible.
 
 ## What You'll Find
 
 **[View the Interactive Timeline →](https://markramm.github.io/KleptocracyTimeline/)**
 
-### 790 Documented Events (1970-2025)
-Every event has sources. Court documents, financial records, Congressional testimony, verified reporting. No speculation, no theory—just documented facts arranged chronologically so patterns become undeniable.
+### Using the Cascade Framework to Explore
 
-### Nine Capture Lanes Operating in Parallel
+As you explore the timeline, watch for cascade patterns:
+- **Look for clusters**: Events aren't random—they come in waves after each breakthrough
+- **Track the enablers**: Notice which captures had to happen first to enable others
+- **See the acceleration**: Use the year filter to watch the exponential growth
+- **Find the networks**: Same actors appear across multiple capture lanes
+
+### 790 Documented Events Revealing Nine Parallel Capture Operations
 - **Judicial Capture**: $6.6M in "gifts" to Supreme Court justices
 - **Financial Kleptocracy**: $700M+ in suspicious real estate transactions
 - **Foreign Influence**: Russian money appearing during every financial crisis
