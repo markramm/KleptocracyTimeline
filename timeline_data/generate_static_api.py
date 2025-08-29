@@ -69,7 +69,7 @@ def main():
                             return {k: convert_dates(v) for k, v in obj.items()}
                         elif isinstance(obj, list):
                             return [convert_dates(v) for v in obj]
-                        elif isinstance(obj, date):
+                        elif isinstance(obj, (date, datetime)):
                             return obj.isoformat()
                         return obj
                     
