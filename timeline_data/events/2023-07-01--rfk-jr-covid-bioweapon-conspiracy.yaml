@@ -1,25 +1,29 @@
-id: rfk-jr-covid-bioweapon-conspiracy
+id: 2023-07-01--rfk-jr-covid-bioweapon-conspiracy
 date: 2023-07-01
 title: RFK Jr claims COVID was ethnically targeted bioweapon sparing Jews and Chinese
-summary: Robert F. Kennedy Jr. falsely claimed COVID-19 was a bioweapon potentially designed by China to target specific racial groups, stating it disproportionately harmed Caucasians and Black people while Ashkenazi Jews and Chinese people were immune due to the virus's genetic structure. These scientifically baseless claims echoed antisemitic and racist conspiracy theories.
+summary: Robert F. Kennedy Jr. falsely claimed COVID-19 was a bioweapon potentially
+  designed by China to target specific racial groups, stating it disproportionately
+  harmed Caucasians and Black people while Ashkenazi Jews and Chinese people were
+  immune due to the virus's genetic structure. These scientifically baseless claims
+  echoed antisemitic and racist conspiracy theories.
 importance: 8
 tags:
-  - rfk-jr
-  - conspiracy-theory
-  - covid-19
-  - bioweapon
-  - antisemitism
-  - racism
-  - misinformation
+- rfk-jr
+- conspiracy-theory
+- covid-19
+- bioweapon
+- antisemitism
+- racism
+- misinformation
 actors:
-  - Robert F. Kennedy Jr.
+- Robert F. Kennedy Jr.
 sources:
-  - title: RFK Jr.'s history of medical misinformation raises concerns over HHS nomination
-    url: https://www.brookings.edu/articles/rfk-jr-s-history-of-medical-misinformation-raises-concerns-over-hhs-nomination/
-    outlet: Brookings Institution
-    date: 2024-11-20
-  - title: A running list of RFK Jr.'s controversies
-    url: https://theweek.com/1025265/rfk-jr-controversies
-    outlet: The Week
-    date: 2024-11-15
+- title: RFK Jr.'s history of medical misinformation raises concerns over HHS nomination
+  url: https://www.brookings.edu/articles/rfk-jr-s-history-of-medical-misinformation-raises-concerns-over-hhs-nomination/
+  outlet: Brookings Institution
+  date: 2024-11-20
+- title: A running list of RFK Jr.'s controversies
+  url: https://theweek.com/1025265/rfk-jr-controversies
+  outlet: The Week
+  date: 2024-11-15
 status: confirmed

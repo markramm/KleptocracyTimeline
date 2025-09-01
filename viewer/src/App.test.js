@@ -2,334 +2,261 @@ import React from 'react';
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import App from './App';
+import axios from 'axios';
 
-// Mock fetch API
-global.fetch = jest.fn();
+// Mock axios and d3
+jest.mock('axios');
+jest.mock('d3');
 
 describe('Timeline App', () => {
   beforeEach(() => {
-    // Reset fetch mock before each test
-    fetch.mockClear();
+    // Reset axios mock before each test
+    jest.clearAllMocks();
+    
+    // Default mock responses
+    axios.get.mockImplementation((url) => {
+      if (url.includes('events.json')) {
+        return Promise.resolve({ data: [] });
+      }
+      if (url.includes('tags.json')) {
+        return Promise.resolve({ data: [] });
+      }
+      if (url.includes('stats.json')) {
+        return Promise.resolve({ 
+          data: {
+            total_events: 0,
+            date_range: { start: null, end: null },
+            total_tags: 0,
+            total_actors: 0,
+            events_by_year: {},
+            events_by_status: {}
+          }
+        });
+      }
+      return Promise.resolve({ data: [] });
+    });
   });
 
   afterEach(() => {
     jest.restoreAllMocks();
   });
 
-  // Sample test data
-  const mockEvents = [
-    {
-      id: '2024-01-01_test-event-one',
-      date: '2024-01-01',
-      title: 'Test Event One',
-      summary: 'First test event summary',
-      tags: ['test', 'democracy'],
-      status: 'confirmed',
-      sources: [
-        {
-          title: 'Test Source',
-          url: 'https://example.com',
-          outlet: 'Test News'
-        }
-      ]
-    },
-    {
-      id: '2024-02-15_test-event-two',
-      date: '2024-02-15',
-      title: 'Test Event Two',
-      summary: 'Second test event summary',
-      tags: ['test', 'politics'],
-      status: 'confirmed',
-      sources: []
-    }
-  ];
-
-  const mockTags = ['test', 'democracy', 'politics'];
-  const mockStats = {
-    total_events: 2,
-    date_range: { start: '2024-01-01', end: '2024-02-15' },
-    total_tags: 3,
-    total_actors: 0,
-    events_by_year: { '2024': 2 },
-    events_by_status: { 'confirmed': 2 }
-  };
-
-  test('renders without crashing', () => {
-    fetch.mockResolvedValueOnce({
-      ok: true,
-      json: async () => ({ events: [], total: 0 })
-    });
-
+  test('renders landing page initially', async () => {
     render(<App />);
-    expect(screen.getByText(/Democracy Timeline/i)).toBeInTheDocument();
-  });
-
-  test('loads and displays events', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: mockEvents, total: 2 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: mockTags })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => mockStats
-      });
-
-    render(<App />);
-
-    // Wait for events to load
-    await waitFor(() => {
-      expect(screen.getByText('Test Event One')).toBeInTheDocument();
-      expect(screen.getByText('Test Event Two')).toBeInTheDocument();
-    });
-
-    // Check event count
-    expect(screen.getByText(/2 events/i)).toBeInTheDocument();
-  });
-
-  test('search functionality works', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: mockEvents, total: 2 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: mockTags })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => mockStats
-      });
-
-    render(<App />);
-
-    // Wait for initial load
-    await waitFor(() => {
-      expect(screen.getByText('Test Event One')).toBeInTheDocument();
-    });
-
-    // Find search input
-    const searchInput = screen.getByPlaceholderText(/Search events/i);
     
-    // Type in search
-    fireEvent.change(searchInput, { target: { value: 'First' } });
-
-    // Check that filtering happens (this depends on your implementation)
+    // Should show loading first
+    expect(screen.getByText(/Loading timeline data/i)).toBeInTheDocument();
+    
+    // Wait for app to load
     await waitFor(() => {
-      expect(screen.getByText('First test event summary')).toBeInTheDocument();
+      expect(screen.getByText(/The Kleptocracy Timeline/i)).toBeInTheDocument();
     });
   });
 
-  test('tag filtering works', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: mockEvents, total: 2 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: mockTags })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => mockStats
-      });
+  test('enters timeline from landing page', async () => {
+    const mockEvents = [
+      {
+        id: '2024-01-01_test-event',
+        date: '2024-01-01',
+        title: 'Test Event',
+        summary: 'Test summary',
+        tags: ['test'],
+        actors: ['Test Actor'],
+        status: 'confirmed'
+      }
+    ];
 
-    render(<App />);
-
-    // Wait for initial load
-    await waitFor(() => {
-      expect(screen.getByText('Test Event One')).toBeInTheDocument();
+    axios.get.mockImplementation((url) => {
+      if (url.includes('events.json')) {
+        return Promise.resolve({ data: mockEvents });
+      }
+      if (url.includes('tags.json')) {
+        return Promise.resolve({ data: ['test'] });
+      }
+      if (url.includes('stats.json')) {
+        return Promise.resolve({ 
+          data: {
+            total_events: 1,
+            date_range: { start: '2024-01-01', end: '2024-01-01' },
+            total_tags: 1,
+            total_actors: 1,
+            events_by_year: { '2024': 1 },
+            events_by_status: { 'confirmed': 1 }
+          }
+        });
+      }
+      return Promise.resolve({ data: [] });
     });
 
-    // Find and click a tag filter (implementation dependent)
-    const tagButton = screen.getByText('democracy');
-    fireEvent.click(tagButton);
-
-    // Check that filtering is applied
+    render(<App />);
+    
+    // Wait for landing page to load
     await waitFor(() => {
-      // Should still show event with 'democracy' tag
-      expect(screen.getByText('Test Event One')).toBeInTheDocument();
+      expect(screen.getByText(/View Interactive Timeline/i)).toBeInTheDocument();
+    });
+
+    // Click enter timeline
+    const enterButton = screen.getByText(/View Interactive Timeline/i);
+    fireEvent.click(enterButton);
+
+    // Should show timeline with events
+    await waitFor(() => {
+      expect(screen.getByText(/1 Event/i)).toBeInTheDocument();
     });
   });
 
   test('handles API errors gracefully', async () => {
-    fetch.mockRejectedValueOnce(new Error('API Error'));
+    axios.get.mockRejectedValue(new Error('Network error'));
 
     render(<App />);
 
-    // Should show error message or fallback
+    // Should show error state
     await waitFor(() => {
-      expect(screen.getByText(/Error loading/i)).toBeInTheDocument();
+      expect(screen.getByText(/Error Loading Timeline/i)).toBeInTheDocument();
+    });
+
+    // Should have retry button
+    expect(screen.getByText(/Retry/i)).toBeInTheDocument();
+  });
+
+  test('view toggle switches between views', async () => {
+    render(<App />);
+    
+    // Wait for app to load
+    await waitFor(() => {
+      expect(screen.getByText(/View Interactive Timeline/i)).toBeInTheDocument();
+    });
+
+    // Enter timeline
+    fireEvent.click(screen.getByText(/View Interactive Timeline/i));
+
+    // Wait for timeline to load
+    await waitFor(() => {
+      expect(screen.getByText(/Timeline/i)).toBeInTheDocument();
+    });
+
+    // Find view toggle buttons
+    const graphButton = screen.getByTitle('Graph');
+    fireEvent.click(graphButton);
+
+    // Should switch to graph view
+    await waitFor(() => {
+      expect(graphButton.closest('button')).toHaveClass('active');
     });
   });
 
-  test('displays event details when clicked', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: mockEvents, total: 2 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: mockTags })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => mockStats
-      });
+  test('search filters events', async () => {
+    const mockEvents = [
+      {
+        id: '2024-01-01_first-event',
+        date: '2024-01-01',
+        title: 'First Event',
+        summary: 'First test summary',
+        tags: ['test'],
+        actors: ['Actor One'],
+        status: 'confirmed'
+      },
+      {
+        id: '2024-02-01_second-event',
+        date: '2024-02-01',
+        title: 'Second Event',
+        summary: 'Second test summary',
+        tags: ['test'],
+        actors: ['Actor Two'],
+        status: 'confirmed'
+      }
+    ];
+
+    axios.get.mockImplementation((url) => {
+      if (url.includes('events.json')) {
+        return Promise.resolve({ data: mockEvents });
+      }
+      if (url.includes('tags.json')) {
+        return Promise.resolve({ data: ['test'] });
+      }
+      if (url.includes('stats.json')) {
+        return Promise.resolve({ 
+          data: {
+            total_events: 2,
+            date_range: { start: '2024-01-01', end: '2024-02-01' },
+            total_tags: 1,
+            total_actors: 2,
+            events_by_year: { '2024': 2 },
+            events_by_status: { 'confirmed': 2 }
+          }
+        });
+      }
+      return Promise.resolve({ data: [] });
+    });
 
     render(<App />);
+    
+    // Enter timeline
+    await waitFor(() => {
+      expect(screen.getByText(/View Interactive Timeline/i)).toBeInTheDocument();
+    });
+    fireEvent.click(screen.getByText(/View Interactive Timeline/i));
 
     // Wait for events to load
     await waitFor(() => {
-      expect(screen.getByText('Test Event One')).toBeInTheDocument();
+      expect(screen.getByText(/2 Events/i)).toBeInTheDocument();
     });
 
-    // Click on an event
-    const eventTitle = screen.getByText('Test Event One');
-    fireEvent.click(eventTitle);
+    // Search for "First"
+    const searchInput = screen.getByPlaceholderText(/Search events/i);
+    fireEvent.change(searchInput, { target: { value: 'First' } });
 
-    // Check that details are shown
+    // Should filter to 1 event
     await waitFor(() => {
-      expect(screen.getByText('First test event summary')).toBeInTheDocument();
-      expect(screen.getByText('Test Source')).toBeInTheDocument();
+      expect(screen.getByText(/1 Event.*filtered from 2/i)).toBeInTheDocument();
     });
   });
 
-  test('year navigation works', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: mockEvents, total: 2 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: mockTags })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => mockStats
-      });
-
+  test('filter panel toggles visibility', async () => {
     render(<App />);
-
-    // Wait for initial load
+    
+    // Enter timeline
     await waitFor(() => {
-      expect(screen.getByText('2024')).toBeInTheDocument();
+      expect(screen.getByText(/View Interactive Timeline/i)).toBeInTheDocument();
+    });
+    fireEvent.click(screen.getByText(/View Interactive Timeline/i));
+
+    // Wait for timeline to load
+    await waitFor(() => {
+      expect(screen.getByTitle('Toggle filters')).toBeInTheDocument();
     });
 
-    // Click on year navigation (if present)
-    const yearButton = screen.getByText('2024');
-    fireEvent.click(yearButton);
+    // Click filter toggle
+    const filterToggle = screen.getByTitle('Toggle filters');
+    fireEvent.click(filterToggle);
 
-    // Check that year filter is applied
+    // Filter panel should be visible
     await waitFor(() => {
-      // Both events are from 2024, so both should be visible
-      expect(screen.getByText('Test Event One')).toBeInTheDocument();
-      expect(screen.getByText('Test Event Two')).toBeInTheDocument();
+      expect(screen.getByText(/Filter by Tags/i)).toBeInTheDocument();
     });
   });
 
-  test('displays statistics correctly', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: mockEvents, total: 2 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: mockTags })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => mockStats
-      });
-
+  test('stats panel toggles visibility', async () => {
     render(<App />);
-
-    // Wait for stats to load
+    
+    // Enter timeline
     await waitFor(() => {
-      expect(screen.getByText(/Total Events: 2/i)).toBeInTheDocument();
-      expect(screen.getByText(/Tags: 3/i)).toBeInTheDocument();
+      expect(screen.getByText(/View Interactive Timeline/i)).toBeInTheDocument();
     });
-  });
+    fireEvent.click(screen.getByText(/View Interactive Timeline/i));
 
-  test('responsive design adapts to screen size', () => {
-    // Mock window size
-    global.innerWidth = 500;
-    global.dispatchEvent(new Event('resize'));
-
-    fetch.mockResolvedValueOnce({
-      ok: true,
-      json: async () => ({ events: [], total: 0 })
-    });
-
-    render(<App />);
-
-    // Check that mobile-specific elements are present
-    // This depends on your responsive implementation
-    expect(screen.getByText(/Democracy Timeline/i)).toBeInTheDocument();
-  });
-
-  test('empty state displays correctly', async () => {
-    fetch
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ events: [], total: 0 })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({ tags: [] })
-      })
-      .mockResolvedValueOnce({
-        ok: true,
-        json: async () => ({
-          total_events: 0,
-          date_range: { start: null, end: null },
-          total_tags: 0,
-          total_actors: 0,
-          events_by_year: {},
-          events_by_status: {}
-        })
-      });
-
-    render(<App />);
-
-    // Wait for empty state
+    // Wait for timeline to load
     await waitFor(() => {
-      expect(screen.getByText(/No events found/i)).toBeInTheDocument();
-    });
-  });
-
-  test('loading state displays while fetching', async () => {
-    // Create a promise that doesn't resolve immediately
-    let resolvePromise;
-    const delayedPromise = new Promise((resolve) => {
-      resolvePromise = resolve;
+      expect(screen.getByTitle('Toggle statistics')).toBeInTheDocument();
     });
 
-    fetch.mockReturnValueOnce({
-      ok: true,
-      json: () => delayedPromise
-    });
+    // Click stats toggle
+    const statsToggle = screen.getByTitle('Toggle statistics');
+    fireEvent.click(statsToggle);
 
-    render(<App />);
-
-    // Check for loading indicator
-    expect(screen.getByText(/Loading/i)).toBeInTheDocument();
-
-    // Resolve the promise
-    resolvePromise({ events: [], total: 0 });
-
-    // Loading should disappear
+    // Stats panel should be visible
     await waitFor(() => {
-      expect(screen.queryByText(/Loading/i)).not.toBeInTheDocument();
+      expect(screen.getByText(/Statistics/i)).toBeInTheDocument();
     });
   });
 });

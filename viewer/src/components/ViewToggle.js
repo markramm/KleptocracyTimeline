@@ -1,5 +1,5 @@
 import React from 'react';
-import { LayoutGrid, List, GitBranch, Clock } from 'lucide-react';
+import { LayoutGrid, List, GitBranch, Clock, Users } from 'lucide-react';
 import './ViewToggle.css';
 
 const ViewToggle = ({ currentView, onViewChange }) => {
@@ -7,7 +7,8 @@ const ViewToggle = ({ currentView, onViewChange }) => {
     { id: 'timeline', icon: Clock, label: 'Timeline' },
     { id: 'list', icon: List, label: 'List' },
     { id: 'grid', icon: LayoutGrid, label: 'Grid' },
-    { id: 'graph', icon: GitBranch, label: 'Graph' }
+    { id: 'graph', icon: GitBranch, label: 'Graph' },
+    { id: 'actors', icon: Users, label: 'Actors' }
   ];
 
   return (

@@ -1,28 +1,34 @@
-id: sean-combs-arrested-federal-racketeering-charges
+id: 2024-09-16--sean-combs-arrested-federal-racketeering-charges
 date: 2024-09-16
 title: Sean Combs arrested on federal racketeering and sex trafficking charges
-summary: Sean "Diddy" Combs is arrested in Manhattan on federal charges including racketeering conspiracy, sex trafficking, and transportation to engage in prostitution. The indictment alleges Combs ran a criminal enterprise that engaged in sex trafficking, forced labor, kidnapping, arson, bribery, and obstruction of justice. Federal prosecutors describe an operation remarkably similar to Jeffrey Epstein's, including the use of recordings for blackmail, control of victims through violence and coercion, and a network of enablers who helped conceal crimes.
+summary: Sean "Diddy" Combs is arrested in Manhattan on federal charges including
+  racketeering conspiracy, sex trafficking, and transportation to engage in prostitution.
+  The indictment alleges Combs ran a criminal enterprise that engaged in sex trafficking,
+  forced labor, kidnapping, arson, bribery, and obstruction of justice. Federal prosecutors
+  describe an operation remarkably similar to Jeffrey Epstein's, including the use
+  of recordings for blackmail, control of victims through violence and coercion, and
+  a network of enablers who helped conceal crimes.
 importance: 10
 actors:
-  - Sean Combs
-  - Department of Justice
-  - SDNY
-  - Federal prosecutors
+- Sean Combs
+- Department of Justice
+- SDNY
+- Federal prosecutors
 tags:
-  - arrest
-  - racketeering
-  - sex-trafficking
-  - federal-charges
-  - blackmail
-  - criminal-enterprise
-  - jeffrey-epstein
+- arrest
+- racketeering
+- sex-trafficking
+- federal-charges
+- blackmail
+- criminal-enterprise
+- jeffrey-epstein
 sources:
-  - title: "Sean 'Diddy' Combs arrested on federal charges"
-    url: https://www.justice.gov/usao-sdny/pr/sean-diddy-combs-arrested-federal-charges
-    outlet: Department of Justice
-    date: 2024-09-16
-  - title: "Sean Combs indictment"
-    url: https://www.cnn.com/2024/09/17/entertainment/sean-diddy-combs-arrested/index.html
-    outlet: CNN
-    date: 2024-09-17
+- title: Sean 'Diddy' Combs arrested on federal charges
+  url: https://www.justice.gov/usao-sdny/pr/sean-diddy-combs-arrested-federal-charges
+  outlet: Department of Justice
+  date: 2024-09-16
+- title: Sean Combs indictment
+  url: https://www.cnn.com/2024/09/17/entertainment/sean-diddy-combs-arrested/index.html
+  outlet: CNN
+  date: 2024-09-17
 status: confirmed

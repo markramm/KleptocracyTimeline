@@ -1,25 +1,29 @@
-id: trump-so-what-pence-evacuated
+id: 2021-01-06--trump-so-what-pence-evacuated
 date: 2021-01-06
 title: Trump says "So what?" when told Pence evacuated for safety during Capitol riot
-summary: When informed that Vice President Mike Pence had been rushed to a secure location as violent Trump supporters stormed the Capitol, Trump responded "So what?" according to the Jack Smith report. Alone in the White House dining room watching news coverage, Trump then tweeted at 2:24 PM attacking Pence for not joining his conspiracy, despite knowing rioters had breached the Capitol and Pence was in danger.
+summary: When informed that Vice President Mike Pence had been rushed to a secure
+  location as violent Trump supporters stormed the Capitol, Trump responded "So what?"
+  according to the Jack Smith report. Alone in the White House dining room watching
+  news coverage, Trump then tweeted at 2:24 PM attacking Pence for not joining his
+  conspiracy, despite knowing rioters had breached the Capitol and Pence was in danger.
 importance: 10
 tags:
-  - january-6
-  - donald-trump
-  - mike-pence
-  - capitol-riot
-  - dereliction-of-duty
-  - jack-smith-report
+- january-6
+- donald-trump
+- mike-pence
+- capitol-riot
+- dereliction-of-duty
+- jack-smith-report
 actors:
-  - Donald Trump
-  - Mike Pence
+- Donald Trump
+- Mike Pence
 sources:
-  - title: Top 5 takeaways from Jack Smith's final report on Trump's Jan. 6 case
-    url: https://www.axios.com/2025/01/14/jack-smith-trump-jan-6-final-report
-    outlet: Axios
-    date: 2025-01-14
-  - title: Report of Special Counsel Smith Volume 1 January 2025
-    url: https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf
-    outlet: Department of Justice
-    date: 2025-01-14
+- title: Top 5 takeaways from Jack Smith's final report on Trump's Jan. 6 case
+  url: https://www.axios.com/2025/01/14/jack-smith-trump-jan-6-final-report
+  outlet: Axios
+  date: 2025-01-14
+- title: Report of Special Counsel Smith Volume 1 January 2025
+  url: https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf
+  outlet: Department of Justice
+  date: 2025-01-14
 status: confirmed

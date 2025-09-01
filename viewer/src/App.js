@@ -9,6 +9,7 @@ import StatsPanel from './components/StatsPanel';
 import SearchBar from './components/SearchBar';
 import ViewToggle from './components/ViewToggle';
 import NetworkGraph from './components/NetworkGraph';
+import NetworkGraphActors from './components/NetworkGraphActors';
 import DownloadMenu from './components/DownloadMenu';
 import { API_ENDPOINTS, transformStaticData } from './config';
 import { useUrlState } from './hooks/useUrlState';
@@ -759,6 +760,10 @@ function App() {
 
           {viewMode === 'graph' ? (
             <NetworkGraph 
+              events={filteredEvents}
+            />
+          ) : viewMode === 'actors' ? (
+            <NetworkGraphActors
               events={filteredEvents}
             />
           ) : (

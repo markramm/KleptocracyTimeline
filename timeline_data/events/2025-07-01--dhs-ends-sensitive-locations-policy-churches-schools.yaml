@@ -1,25 +1,30 @@
-id: dhs-ends-sensitive-locations-policy-churches-schools
+id: 2025-07-01--dhs-ends-sensitive-locations-policy-churches-schools
 date: 2025-07-01
 title: DHS ends sensitive locations policy allowing ICE arrests at churches and schools
-summary: The Department of Homeland Security ended a long-standing policy that restricted ICE agents' ability to arrest undocumented people at sensitive locations including houses of worship, schools, and hospitals. DHS stated "Criminals will no longer be able to hide in America's schools and churches to avoid arrest," marking a significant escalation in enforcement tactics that breaks with decades of precedent.
+summary: The Department of Homeland Security ended a long-standing policy that restricted
+  ICE agents' ability to arrest undocumented people at sensitive locations including
+  houses of worship, schools, and hospitals. DHS stated "Criminals will no longer
+  be able to hide in America's schools and churches to avoid arrest," marking a significant
+  escalation in enforcement tactics that breaks with decades of precedent.
 importance: 8
 tags:
-  - immigration-enforcement
-  - ICE
-  - sensitive-locations
-  - churches
-  - schools
-  - hospitals
-  - policy-reversal
-  - sanctuary-violations
+- immigration-enforcement
+- ICE
+- sensitive-locations
+- churches
+- schools
+- hospitals
+- policy-reversal
+- sanctuary-violations
 actors:
-  - DHS
-  - Kristi Noem
-  - ICE
-  - Donald Trump
+- DHS
+- Kristi Noem
+- ICE
+- Donald Trump
 sources:
-  - title: What we know so far about Trump's mass deportation plans and ICE raids following immigration executive orders
-    url: https://www.nbcnews.com/news/investigations/trump-mass-deportations-ice-raids-executive-immigration-rcna188620
-    outlet: NBC News
-    date: 2025-07-01
+- title: What we know so far about Trump's mass deportation plans and ICE raids following
+    immigration executive orders
+  url: https://www.nbcnews.com/news/investigations/trump-mass-deportations-ice-raids-executive-immigration-rcna188620
+  outlet: NBC News
+  date: 2025-07-01
 status: confirmed
