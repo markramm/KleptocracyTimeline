@@ -1,0 +1,42 @@
+id: 2017-01-30--deutsche-bank-fined-russian-laundering
+date: '2017-01-30'
+importance: 9
+title: Deutsche Bank fined $630 million for $10 billion Russian money laundering scheme
+summary: |
+  Deutsche Bank paid $630 million to U.S. and UK regulators for facilitating $10 billion in
+  Russian money laundering through "mirror trades" from 2011-2015. The scheme converted rubles
+  to dollars through sham stock trades between Moscow and London offices. During this same
+  period, Deutsche Bank was Trump's primary lender, providing $2.5 billion in loans while
+  other banks refused. Compliance officers later flagged suspicious Trump and Kushner
+  transactions to Russians, but executives overruled reporting them.
+actors:
+  - Deutsche Bank
+  - Donald Trump
+  - Jared Kushner
+  - New York Department of Financial Services
+  - UK Financial Conduct Authority
+tags:
+  - money-laundering
+  - russian-money
+  - deutsche-bank
+  - mirror-trades
+  - financial-crime
+status: confirmed
+sources:
+  - title: "DFS Fines Deutsche Bank $425 Million for Russian Mirror-Trading Scheme"
+    url: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301
+    outlet: NY Department of Financial Services
+    date: '2017-01-30'
+  - title: "Is Donald Trump's Dark Russian Secret Hiding in Deutsche Bank's Vaults?"
+    url: https://www.newsweek.com/2017/12/29/donald-trump-russia-secret-deutsche-bank-753780.html
+    outlet: Newsweek
+    date: '2017-12-29'
+  - title: "Deutsche Bank Execs Missed Money Laundering Red Flags"
+    url: https://www.buzzfeednews.com/article/tomwarren/deutsche-bank-money-laundering-mirror-trades
+    outlet: BuzzFeed News
+    date: '2020-09-20'
+notes: |
+  The bank paid $425 million to New York regulators and £163 million to UK authorities.
+  Mirror trades involved fake stock transactions to convert rubles to dollars through
+  offshore accounts in Cyprus and British Virgin Islands. While no direct Trump involvement
+  proven, the timing overlapped with Trump receiving major loans when other banks refused.

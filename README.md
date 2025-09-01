@@ -49,8 +49,62 @@ npm start
 
 ## 🛠️ Developer Tools
 
+### Creating New Events
+**Important**: Always use the event creation tools instead of manually creating YAML files. This ensures proper schema validation and ID generation.
+
+#### Interactive Creation (Recommended for humans)
+```bash
+python create_event.py
+```
+This will guide you through creating a properly formatted event with validation.
+
+#### Programmatic Creation (For scripts/agents)
+```python
+from timeline_event_manager import TimelineEventManager
+
+manager = TimelineEventManager()
+
+# Create an event with validation
+event = manager.create_event(
+    date="2025-01-20",
+    title="Event Title",
+    summary="Detailed description of what happened",
+    importance=7,
+    actors=["Person A", "Organization B"],
+    tags=["corruption", "foreign-influence"],
+    sources=[
+        manager.create_source(
+            title="Article Title",
+            url="https://example.com/article",
+            outlet="News Outlet",
+            source_date="2025-01-20"
+        )
+    ]
+)
+
+# Save the event
+filepath = manager.save_event(event)
+```
+
+#### Command-Line Creation (For automation)
+```bash
+# Via JSON
+python create_event_agent.py --json '{
+  "date": "2025-01-20",
+  "title": "Event Title",
+  "summary": "Description",
+  "importance": 7,
+  "actors": ["Actor1"],
+  "tags": ["tag1"],
+  "sources": [{"title": "Source", "url": "https://...", "outlet": "Outlet"}]
+}'
+
+# Batch import from CSV
+python import_events.py events.csv
+```
+
 ### YAML Event Management
-**Important**: Use `yaml_tools.py` for efficient event management instead of manual bash commands.
+Use `yaml_tools.py` for searching and bulk operations on existing events:
 
 ```python
 from yaml_tools import YamlEventManager
@@ -59,20 +113,21 @@ manager = YamlEventManager()
 # Search events
 results = manager.yaml_search(text="ICE", importance_min=8)
 
-# Add sources
+# Add sources to existing events
 manager.manage_sources("2025-01-20--event.yaml", action="add", 
                       sources=[{"title": "...", "outlet": "...", "url": "..."}])
 
-# Bulk edit
+# Bulk edit multiple events
 manager.yaml_bulk_edit(search_criteria={"tags": ["ICE"]}, 
                       updates={"importance": 9})
 ```
 
-See `yaml_tools.py` for full API. This tool provides:
-- Fast searching across all events
-- Batch operations for multiple files
-- Source deduplication and validation
-- Automatic backups and validation
+These tools provide:
+- Automatic ID generation and validation
+- Schema enforcement
+- Source deduplication
+- Date format validation
+- Importance range checking
 
 ## 📁 Repository Structure
 
@@ -134,6 +189,11 @@ sources:
     url: https://...
     date: YYYY-MM-DD
 ```
+
+**Never create event YAML files manually!** Use the event creation tools:
+- `python create_event.py` - Interactive creation with validation
+- `python timeline_event_manager.py` - Python API for scripts
+- `python create_event_agent.py` - CLI for automation
 
 ## 📜 License
 

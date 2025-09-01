@@ -8,11 +8,19 @@ import json
 import yaml
 from pathlib import Path
 from collections import defaultdict
+import datetime
 
 # Configuration
 BASE_DIR = Path(__file__).parent.parent
 TIMELINE_DIR = BASE_DIR / "timeline_data" / "events"
 OUTPUT_DIR = BASE_DIR / "api" / "static_api"
+
+class DateTimeEncoder(json.JSONEncoder):
+    """Custom JSON encoder that handles date/datetime objects."""
+    def default(self, obj):
+        if isinstance(obj, (datetime.date, datetime.datetime)):
+            return obj.isoformat()
+        return super().default(obj)
 
 def load_timeline_events():
     """Load all timeline events from YAML files"""
@@ -121,7 +129,7 @@ def main():
         json.dump({
             'events': events,
             'total': len(events)
-        }, f, indent=2, ensure_ascii=False)
+        }, f, indent=2, ensure_ascii=False, cls=DateTimeEncoder)
     print(f"Generated: {timeline_file}")
     
     # Generate tags.json
@@ -131,7 +139,7 @@ def main():
         json.dump({
             'tags': tags,
             'total': len(tags)
-        }, f, indent=2, ensure_ascii=False)
+        }, f, indent=2, ensure_ascii=False, cls=DateTimeEncoder)
     print(f"Generated: {tags_file}")
     
     # Generate actors.json
@@ -141,7 +149,7 @@ def main():
         json.dump({
             'actors': actors,
             'total': len(actors)
-        }, f, indent=2, ensure_ascii=False)
+        }, f, indent=2, ensure_ascii=False, cls=DateTimeEncoder)
     print(f"Generated: {actors_file}")
     
     # Generate capture_lanes.json
@@ -158,7 +166,7 @@ def main():
     stats = generate_stats(events)
     stats_file = OUTPUT_DIR / "stats.json"
     with open(stats_file, 'w', encoding='utf-8') as f:
-        json.dump(stats, f, indent=2, ensure_ascii=False)
+        json.dump(stats, f, indent=2, ensure_ascii=False, cls=DateTimeEncoder)
     print(f"Generated: {stats_file}")
     
     # Generate monitoring.json (events with monitoring status)

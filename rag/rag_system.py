@@ -50,6 +50,18 @@ class Event:
             importance=data.get('importance', 5),
             sources=data.get('sources', [])
         )
+    
+    def to_text(self) -> str:
+        """Convert event to searchable text format."""
+        parts = [
+            f"Date: {self.date}",
+            f"Title: {self.title}",
+            f"Summary: {self.summary}",
+            f"Actors: {', '.join(self.actors)}",
+            f"Tags: {', '.join(self.tags)}",
+            f"Importance: {self.importance}"
+        ]
+        return '\n'.join(parts)
 
 
 @dataclass

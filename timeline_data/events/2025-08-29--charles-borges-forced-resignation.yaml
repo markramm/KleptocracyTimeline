@@ -1,0 +1,41 @@
+id: 2025-08-29--charles-borges-forced-resignation
+date: '2025-08-29'
+importance: 9
+title: SSA whistleblower Charles Borges forced to resign after exposing data breach
+summary: |
+  Charles Borges, SSA's Chief Data Officer, submitted an "involuntary resignation" citing
+  retaliation after his whistleblower complaint about DOGE's mishandling of 300 million
+  Americans' Social Security data became public. Borges reported experiencing "exclusion,
+  isolation, internal strife, and a culture of fear" creating intolerable work conditions.
+  His resignation email was deleted from staff inboxes within 30 minutes, and SSA employees
+  reported extremely low morale after "losing a ton of people" since DOGE's installation.
+actors:
+  - Charles Borges
+  - Social Security Administration
+  - DOGE
+  - Aram Moghaddassi
+tags:
+  - whistleblower-retaliation
+  - data-breach
+  - social-security
+  - institutional-capture
+  - personnel-purge
+status: confirmed
+sources:
+  - title: "Social Security whistleblower submits 'involuntary resignation,' citing 'intolerable' work conditions"
+    url: https://www.nbcnews.com/politics/doge/social-security-whistleblower-submits-involuntary-resignation-citing-i-rcna228095
+    outlet: NBC News
+    date: '2025-08-30'
+  - title: "Social Security Whistleblower Charles Borges Pushed Out Amid DOGE Firestorm"
+    url: https://www.thedailybeast.com/social-security-whistleblower-charles-borges-pushed-out-amid-doge-firestorm/
+    outlet: The Daily Beast
+    date: '2025-08-30'
+  - title: "SSA chief data officer and whistleblower resigns in blistering email"
+    url: https://www.thehandbasket.co/p/charles-borges-ssa-chief-data-officer-whistleblower-resigns-email
+    outlet: The Handbasket
+    date: '2025-08-30'
+notes: |
+  Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating policies to
+  create unsecured cloud copy of Social Security data. His resignation letter stated SSA's
+  actions made his duties "impossible to perform legally and ethically." Posted on LinkedIn:
+  "It is never wrong to be morally and ethically right with yourself."

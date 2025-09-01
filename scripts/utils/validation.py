@@ -165,7 +165,7 @@ def validate_event_schema(event: Dict[str, Any]) -> Tuple[bool, List[str]]:
     
     # Validate status
     if 'status' in event:
-        valid_statuses = ['confirmed', 'pending', 'predicted', 'disputed']
+        valid_statuses = ['confirmed', 'pending', 'predicted', 'disputed', 'reported', 'developing']
         if event['status'] not in valid_statuses:
             errors.append(f"Invalid status: {event['status']} (must be one of: {', '.join(valid_statuses)})")
     

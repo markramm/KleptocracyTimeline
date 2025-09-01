@@ -148,7 +148,13 @@ class YamlEventManager:
         
         # Date format validation
         if 'date' in event:
-            date_str = event['date']
+            date_val = event['date']
+            # Convert date object to string if needed
+            if hasattr(date_val, 'strftime'):
+                date_str = date_val.strftime('%Y-%m-%d')
+            else:
+                date_str = str(date_val)
+            
             if not re.match(r'^\d{4}-\d{2}-\d{2}$', date_str):
                 errors.append(f"Invalid date format: {date_str} (expected YYYY-MM-DD)")
         
@@ -295,7 +301,21 @@ class YamlEventManager:
                     matches = found
                 else:
                     # Search all text fields
-                    event_str = json.dumps(event).lower()
+                    # Convert dates to strings for JSON serialization
+                    def serialize_dates(obj):
+                        if isinstance(obj, dict):
+                            return {k: serialize_dates(v) for k, v in obj.items()}
+                        elif isinstance(obj, list):
+                            return [serialize_dates(v) for v in obj]
+                        elif hasattr(obj, 'isoformat'):  # date/datetime objects
+                            return obj.isoformat()
+                        elif hasattr(obj, '__str__') and 'date' in type(obj).__name__.lower():
+                            return str(obj)
+                        else:
+                            return obj
+                    
+                    event_serializable = serialize_dates(event)
+                    event_str = json.dumps(event_serializable, default=str).lower()
                     matches = query_lower in event_str
             
             if not matches:

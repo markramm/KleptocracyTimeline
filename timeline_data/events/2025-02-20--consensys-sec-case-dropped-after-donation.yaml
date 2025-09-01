@@ -1,0 +1,23 @@
+id: consensys-sec-case-dropped-after-donation
+date: 2025-02-20
+title: Consensys SEC case dropped after $100,000 inauguration donation
+summary: After crypto company Consensys donated $100,000 to President Trump's inaugural fund, the U.S. Securities and Exchange Commission (SEC) dropped a case pending against the firm.
+importance: 8
+tags:
+  - corruption
+  - pay-to-play
+  - sec
+  - consensys
+  - cryptocurrency
+  - inauguration-fund
+  - regulatory-capture
+actors:
+  - Consensys
+  - Donald Trump
+  - SEC
+sources:
+  - title: 100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest
+    url: https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest
+    outlet: House Oversight Democrats
+    date: 2025-05-02
+status: confirmed
