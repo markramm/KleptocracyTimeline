@@ -25,7 +25,7 @@ class TimelineEventManager:
         self.events_dir.mkdir(parents=True, exist_ok=True)
         
         # Valid values for validation
-        self.valid_statuses = ['confirmed', 'reported', 'developing', 'disputed']
+        self.valid_statuses = ['confirmed', 'reported', 'developing', 'disputed', 'alleged', 'speculative', 'predicted']
         self.common_tags = [
             'corruption', 'obstruction-of-justice', 'money-laundering', 
             'foreign-influence', 'classified-documents', 'election-fraud',
@@ -103,12 +103,13 @@ class TimelineEventManager:
         
         return source
     
-    def validate_event(self, event: Dict) -> List[str]:
+    def validate_event(self, event: Dict, check_id_format: bool = True) -> List[str]:
         """
         Validate event structure and return any errors.
         
         Args:
             event: Event dictionary to validate
+            check_id_format: Whether to validate ID format matches date--title pattern
             
         Returns:
             List[str]: List of validation errors (empty if valid)
@@ -121,10 +122,27 @@ class TimelineEventManager:
             if field not in event:
                 errors.append(f"Missing required field: {field}")
         
+        # Validate ID format (must match YYYY-MM-DD--slug pattern)
+        if check_id_format and 'id' in event:
+            id_pattern = r'^\d{4}-\d{2}-\d{2}--[a-z0-9-]+$'
+            if not re.match(id_pattern, event['id']):
+                errors.append(f"ID format invalid: {event['id']} (must be YYYY-MM-DD--slug-format)")
+            
+            # Check if ID date matches event date
+            if 'date' in event:
+                id_date = event['id'][:10]  # Extract date part
+                if id_date != str(event['date']):
+                    errors.append(f"ID date mismatch: ID has {id_date} but event date is {event['date']}")
+        
         # Validate date
         if 'date' in event:
             try:
-                self.validate_date(event['date'])
+                date_str = self.validate_date(event['date'])
+                # Check future dates can't be confirmed
+                if 'status' in event and event['status'] == 'confirmed':
+                    event_date = datetime.strptime(date_str, '%Y-%m-%d').date()
+                    if event_date > datetime.now().date():
+                        errors.append(f"Future event ({date_str}) cannot have status 'confirmed'")
             except ValueError as e:
                 errors.append(str(e))
         
@@ -228,7 +246,7 @@ class TimelineEventManager:
     
     def save_event(self, event: Dict, overwrite: bool = False) -> Path:
         """
-        Save event to YAML file.
+        Save event to YAML file with automatic ID correction.
         
         Args:
             event: Event dictionary
@@ -241,6 +259,13 @@ class TimelineEventManager:
             FileExistsError: If file exists and overwrite=False
             ValueError: If event validation fails
         """
+        # Auto-correct ID to match expected format
+        if 'date' in event and 'title' in event:
+            expected_id = self.generate_id(event['date'], event['title'])
+            if 'id' not in event or event['id'] != expected_id:
+                print(f"Auto-correcting ID: {event.get('id', 'none')} -> {expected_id}")
+                event['id'] = expected_id
+        
         # Validate first
         errors = self.validate_event(event)
         if errors:
@@ -260,6 +285,70 @@ class TimelineEventManager:
             yaml.dump(event, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
         
         return filepath
+    
+    def validate_all_events(self) -> Dict[str, List[str]]:
+        """
+        Validate all events in the directory.
+        
+        Returns:
+            Dict[str, List[str]]: Dictionary mapping filenames to validation errors
+        """
+        all_errors = {}
+        
+        for yaml_file in self.events_dir.glob('*.yaml'):
+            try:
+                with open(yaml_file, 'r') as f:
+                    event = yaml.safe_load(f)
+                
+                # Check if ID matches filename
+                expected_id = yaml_file.stem
+                if event.get('id') != expected_id:
+                    all_errors[yaml_file.name] = [f"ID mismatch: expected '{expected_id}', got '{event.get('id')}'"]
+                    continue
+                
+                # Run full validation
+                errors = self.validate_event(event)
+                if errors:
+                    all_errors[yaml_file.name] = errors
+                    
+            except Exception as e:
+                all_errors[yaml_file.name] = [f"Error loading file: {e}"]
+        
+        return all_errors
+    
+    def fix_all_ids(self, dry_run: bool = True) -> int:
+        """
+        Fix all ID/filename mismatches.
+        
+        Args:
+            dry_run: If True, only report what would be fixed
+            
+        Returns:
+            int: Number of files fixed
+        """
+        fixed_count = 0
+        
+        for yaml_file in self.events_dir.glob('*.yaml'):
+            try:
+                with open(yaml_file, 'r') as f:
+                    content = f.read()
+                    event = yaml.safe_load(content)
+                
+                expected_id = yaml_file.stem
+                if event.get('id') != expected_id:
+                    if dry_run:
+                        print(f"Would fix {yaml_file.name}: '{event.get('id')}' -> '{expected_id}'")
+                    else:
+                        print(f"Fixing {yaml_file.name}: '{event.get('id')}' -> '{expected_id}'")
+                        event['id'] = expected_id
+                        with open(yaml_file, 'w') as f:
+                            yaml.dump(event, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+                    fixed_count += 1
+                    
+            except Exception as e:
+                print(f"Error processing {yaml_file.name}: {e}")
+        
+        return fixed_count
     
     def load_event(self, event_id: str) -> Dict:
         """

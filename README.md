@@ -49,8 +49,17 @@ npm start
 
 ## 🛠️ Developer Tools
 
-### Creating New Events
-**Important**: Always use the event creation tools instead of manually creating YAML files. This ensures proper schema validation and ID generation.
+### Creating and Validating Events
+
+⚠️ **IMPORTANT**: Always use the `timeline_event_manager.py` tool instead of manually creating/editing YAML files. This prevents common errors and ensures consistency.
+
+#### Why Use the Event Manager?
+- **Automatic ID generation** - IDs always match filenames
+- **Date validation** - Ensures YYYY-MM-DD format
+- **Status validation** - Only allows valid status values
+- **Future date checks** - Prevents marking future events as "confirmed"
+- **Source validation** - Ensures all sources have required fields
+- **Duplicate detection** - Prevents creating duplicate events
 
 #### Interactive Creation (Recommended for humans)
 ```bash
@@ -102,6 +111,28 @@ python create_event_agent.py --json '{
 # Batch import from CSV
 python import_events.py events.csv
 ```
+
+### Event Validation
+
+Run validation before committing any changes:
+
+```bash
+# Quick validation check
+python3 -m pytest tests/test_timeline_validation.py
+
+# Or use the validation script directly
+python3 tools/validation/validate_timeline_dates.py
+
+# Fix ID/filename mismatches automatically
+python3 timeline_event_manager.py --fix-ids
+```
+
+The repository includes pre-commit hooks that automatically validate:
+- ID/filename matching
+- Required fields presence
+- Date format (YYYY-MM-DD)
+- Status values
+- Future events cannot be "confirmed"
 
 ### YAML Event Management
 Use `yaml_tools.py` for searching and bulk operations on existing events:
