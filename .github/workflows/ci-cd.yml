@@ -152,7 +152,7 @@ jobs:
           
       - name: Generate static API data
         run: |
-          python timeline_data/generate_static_api.py
+          cd timeline_data && python generate_static_api.py
           
       - name: Generate CSV and JSON exports
         run: |

@@ -1,5 +1,7 @@
 {
   "total_events": 875,
+  "years_covered": 38,
+  "total_sources": 2288,
   "events_by_year": {
     "1970": 1,
     "1971": 2,
@@ -40,20 +42,13 @@
     "2024": 45,
     "2025": 632
   },
-  "events_by_status": {
-    "confirmed": 862,
-    "disputed": 2,
-    "reported": 10,
-    "predicted": 1
-  },
-  "monitoring_summary": {
-    "total": 7,
-    "active": 7,
-    "dormant": 0,
-    "completed": 0
-  },
-  "date_range": {
-    "start": "1970-01-01",
-    "end": "2025-11-04"
+  "events_by_importance": {
+    "8": 149,
+    "5": 71,
+    "6": 286,
+    "7": 164,
+    "9": 147,
+    "10": 57,
+    "4": 1
   }
 }
