@@ -44,16 +44,21 @@ def generate_csv(events, output_file):
         writer.writeheader()
         
         for event in events:
+            # Convert date to string if it's a date object
+            date_val = event.get('date', '')
+            if hasattr(date_val, 'isoformat'):
+                date_val = date_val.isoformat()
+            
             row = {
                 'id': event.get('id', ''),
-                'date': event.get('date', ''),
+                'date': date_val,
                 'title': event.get('title', ''),
                 'summary': event.get('summary', ''),
                 'importance': event.get('importance', ''),
                 'status': event.get('status', 'confirmed'),
                 'actors': '|'.join(event.get('actors', [])),
                 'tags': '|'.join(event.get('tags', [])),
-                'sources': json.dumps(event.get('sources', []))
+                'sources': json.dumps(event.get('sources', []), default=str)
             }
             writer.writerow(row)
     
@@ -81,8 +86,14 @@ def main():
     events = load_events(args.events_dir)
     print(f"Loaded {len(events)} events")
     
-    # Sort by date
-    events.sort(key=lambda x: x.get('date', ''))
+    # Sort by date (handle both string and date objects)
+    def get_date_key(event):
+        date_val = event.get('date', '')
+        if hasattr(date_val, 'isoformat'):
+            return date_val.isoformat()
+        return str(date_val)
+    
+    events.sort(key=get_date_key)
     
     # Generate CSV
     csv_output = Path(args.viewer_dir) / 'public' / 'timeline_events.csv'
