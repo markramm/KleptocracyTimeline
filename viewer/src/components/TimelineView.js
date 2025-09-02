@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
-import { format, parseISO, differenceInDays } from 'date-fns';
-import { Calendar, MapPin, Users, Tag, ExternalLink, AlertCircle } from 'lucide-react';
+import { format, parseISO } from 'date-fns';
+import { Calendar, MapPin, Users } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 import './TimelineView.css';
 

@@ -3,7 +3,10 @@
   background: rgba(30, 41, 59, 0.8);
   border: 1px solid #334155;
   border-radius: 0.5rem;
-  overflow: hidden;
+  overflow: visible;
+  flex-shrink: 0;
+  min-width: fit-content;
+  order: 2;
 }
 
 .view-button {

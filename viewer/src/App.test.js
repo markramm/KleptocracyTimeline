@@ -141,7 +141,7 @@ describe('Timeline App', () => {
 
     // Should switch to graph view
     await waitFor(() => {
-      expect(graphButton.closest('button')).toHaveClass('active');
+      expect(graphButton).toHaveClass('active');
     });
   });
 

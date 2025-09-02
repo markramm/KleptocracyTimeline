@@ -100,7 +100,8 @@ body {
   align-items: center;
   gap: 1rem;
   flex: 1;
-  max-width: 800px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
 
 /* Share View Button */
@@ -118,6 +119,7 @@ body {
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
+  order: 3;
 }
 
 .share-view-button:hover {
@@ -144,6 +146,7 @@ body {
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
+  order: 4;
 }
 
 .submit-event-button:hover {
@@ -329,6 +332,8 @@ body {
 @media (max-width: 768px) {
   .app-header {
     padding: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
   }
   
   .header-content h1 {

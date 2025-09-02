@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, screen, fireEvent, waitFor } from '@testing-library/react';
+import { render, screen, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import NetworkGraphActors from './NetworkGraphActors';
 
@@ -115,10 +115,10 @@ describe('NetworkGraphActors', () => {
   });
 
   test('node details display when actor is selected', () => {
-    const { container } = render(<NetworkGraphActors events={mockEvents} />);
+    render(<NetworkGraphActors events={mockEvents} />);
     
     // Check that node details div is not initially present
-    expect(container.querySelector('.node-details')).not.toBeInTheDocument();
+    expect(screen.queryByTestId('node-details')).not.toBeInTheDocument();
     
     // Note: Testing actual d3 interactions would require more complex mocking
     // This test just verifies the component structure

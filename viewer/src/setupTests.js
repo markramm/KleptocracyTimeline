@@ -21,7 +21,6 @@ Object.defineProperty(window, 'matchMedia', {
 
 // Mock IntersectionObserver for scroll-based features
 global.IntersectionObserver = class IntersectionObserver {
-  constructor() {}
   disconnect() {}
   observe() {}
   unobserve() {}
