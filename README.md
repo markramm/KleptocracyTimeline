@@ -133,6 +133,8 @@ The repository includes pre-commit hooks that automatically validate:
 - Date format (YYYY-MM-DD)
 - Status values
 - Future events cannot be "confirmed"
+- ESLint checks (no unused variables, proper imports)
+- React build with CI settings (treats warnings as errors)
 
 ### YAML Event Management
 Use `yaml_tools.py` for searching and bulk operations on existing events:

@@ -1,0 +1,243 @@
+#!/bin/sh
+
+# Pre-commit hook for Kleptocracy Timeline
+# Validates YAML schema, tests React build, and API generation
+
+echo "🔍 Running pre-commit validation..."
+
+# Save current directory
+ORIG_DIR=$(pwd)
+
+# Track if we need extensive tests
+NEEDS_BUILD_TEST=0
+NEEDS_API_TEST=0
+
+# Check what files are being committed
+if git diff --cached --name-only | grep -q "viewer/src/.*\.\(js\|jsx\|ts\|tsx\|css\)$"; then
+    NEEDS_BUILD_TEST=1
+    echo "📦 React source files detected - will test build"
+fi
+
+if git diff --cached --name-only | grep -q "viewer/public/.*\.html$"; then
+    NEEDS_BUILD_TEST=1
+    echo "📄 HTML files detected - will validate and test build"
+fi
+
+if git diff --cached --name-only | grep -q "timeline_data/events/.*\.yaml$"; then
+    NEEDS_API_TEST=1
+    echo "📊 Timeline event files detected - will test API generation"
+fi
+
+if git diff --cached --name-only | grep -q "timeline_data/generate_static_api\.py$"; then
+    NEEDS_API_TEST=1
+    echo "🔧 API generator modified - will test API generation"
+fi
+
+# 1. YAML Schema Validation (if timeline events changed)
+if git diff --cached --name-only | grep -q "timeline_data/events/.*\.yaml$"; then
+    echo ""
+    echo "📋 Step 1/4: Validating YAML schema..."
+    
+    cd timeline_data
+    
+    if python3 validate_yaml.py > /dev/null 2>&1; then
+        VALIDATION_OUTPUT=$(python3 validate_yaml.py 2>&1)
+        
+        if echo "$VALIDATION_OUTPUT" | grep -q "❌ With errors: [1-9]"; then
+            echo "❌ Schema validation failed! Fix errors before committing."
+            echo ""
+            echo "$VALIDATION_OUTPUT" | grep -A 2 "❌ With errors:"
+            cd "$ORIG_DIR"
+            exit 1
+        fi
+        
+        echo "✅ Schema validation passed!"
+    else
+        echo "❌ Schema validation script failed to run!"
+        cd "$ORIG_DIR"
+        exit 1
+    fi
+    
+    cd "$ORIG_DIR"
+    
+    # Date validation
+    echo "📅 Step 2/4: Checking date logic..."
+    if [ -f "tools/validation/validate_timeline_dates.py" ] && python3 tools/validation/validate_timeline_dates.py > /dev/null 2>&1; then
+        DATE_OUTPUT=$(python3 tools/validation/validate_timeline_dates.py 2>&1)
+        
+        if echo "$DATE_OUTPUT" | grep -q "CRITICAL:"; then
+            echo "❌ Date validation failed! Future events cannot be marked as confirmed."
+            echo ""
+            echo "$DATE_OUTPUT" | grep "CRITICAL:" -A 5
+            exit 1
+        fi
+        
+        echo "✅ Date validation passed!"
+    else
+        echo "⚠️  Date validation script not available, skipping..."
+    fi
+fi
+
+# 2. Test API Generation (if events or generator changed)
+if [ "$NEEDS_API_TEST" = "1" ]; then
+    echo ""
+    echo "🔧 Step 3/4: Testing API generation..."
+    
+    # Try to generate the API files
+    if python3 timeline_data/generate_static_api.py > /dev/null 2>&1; then
+        API_OUTPUT=$(python3 timeline_data/generate_static_api.py 2>&1)
+        
+        if echo "$API_OUTPUT" | grep -q "Error"; then
+            echo "❌ API generation failed!"
+            echo ""
+            echo "$API_OUTPUT" | grep "Error" -A 2
+            exit 1
+        fi
+        
+        # Check if files were created
+        if [ ! -f "viewer/public/api/timeline.json" ]; then
+            echo "❌ API generation failed - timeline.json not created!"
+            exit 1
+        fi
+        
+        # Test JSON validity
+        if ! python3 -m json.tool viewer/public/api/timeline.json > /dev/null 2>&1; then
+            echo "❌ Generated timeline.json is not valid JSON!"
+            exit 1
+        fi
+        
+        echo "✅ API generation successful!"
+    else
+        echo "❌ API generation script failed!"
+        exit 1
+    fi
+fi
+
+# 3. Validate HTML (if HTML files changed)
+if git diff --cached --name-only | grep -q "viewer/public/.*\.html$"; then
+    echo ""
+    echo "📄 Step 4/5: Validating HTML..."
+    
+    # Validate HTML files
+    for html_file in $(git diff --cached --name-only | grep "viewer/public/.*\.html$"); do
+        if [ -f "$html_file" ]; then
+            echo "   Checking $html_file..."
+            python3 -c "
+from html.parser import HTMLParser
+import sys
+
+class HTMLValidator(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.errors = []
+        
+    def error(self, message):
+        self.errors.append(message)
+
+with open('$html_file', 'r') as f:
+    content = f.read()
+    
+parser = HTMLValidator()
+try:
+    parser.feed(content)
+except Exception as e:
+    print(f'❌ HTML parsing error: {e}')
+    sys.exit(1)
+
+if parser.errors:
+    print('❌ HTML validation errors:')
+    for error in parser.errors:
+        print(f'  - {error}')
+    sys.exit(1)
+else:
+    print('✅ HTML is valid')
+" || exit 1
+        fi
+    done
+fi
+
+# 4. Test React Build (if React files changed)
+if [ "$NEEDS_BUILD_TEST" = "1" ]; then
+    echo ""
+    echo "🏗️  Step 5/6: Running ESLint checks..."
+    
+    cd viewer
+    
+    # First check if node_modules exists
+    if [ ! -d "node_modules" ]; then
+        echo "📦 Installing dependencies first..."
+        npm install > /dev/null 2>&1
+    fi
+    
+    # Run ESLint check first (faster than full build)
+    echo "   Checking for ESLint issues..."
+    ESLINT_OUTPUT=$(npx eslint src --ext .js,.jsx 2>&1)
+    ESLINT_EXIT_CODE=$?
+    
+    if [ $ESLINT_EXIT_CODE -ne 0 ]; then
+        echo "❌ ESLint check failed!"
+        echo ""
+        echo "📝 ESLint issues found:"
+        echo "$ESLINT_OUTPUT" | grep -E "error|warning" | head -20
+        echo ""
+        echo "Fix these issues before committing."
+        cd "$ORIG_DIR"
+        exit 1
+    fi
+    echo "✅ ESLint check passed!"
+    
+    echo ""
+    echo "🏗️  Step 6/6: Testing React build (this may take a moment)..."
+    
+    # Test the build with PUBLIC_URL set (as in production)
+    echo "   Building with PUBLIC_URL=/KleptocracyTimeline..."
+    
+    # Capture build output to check for errors and warnings
+    BUILD_OUTPUT=$(CI=true PUBLIC_URL=/KleptocracyTimeline npm run build 2>&1)
+    BUILD_EXIT_CODE=$?
+    
+    # Check for ESLint warnings/errors or compilation failures
+    if [ $BUILD_EXIT_CODE -ne 0 ] || echo "$BUILD_OUTPUT" | grep -q "Failed to compile\|Treating warnings as errors"; then
+        echo "❌ React build failed!"
+        echo ""
+        
+        # Check specifically for ESLint issues
+        if echo "$BUILD_OUTPUT" | grep -q "no-unused-vars\|eslint"; then
+            echo "📝 ESLint issues detected:"
+            echo "$BUILD_OUTPUT" | grep -E "Line [0-9]+:|no-unused-vars|eslint" | head -20
+        else
+            # Extract other compilation errors
+            echo "$BUILD_OUTPUT" | grep -A 10 "Failed to compile"
+        fi
+        
+        cd "$ORIG_DIR"
+        
+        # Clean up build artifacts
+        rm -rf build
+        exit 1
+    fi
+        
+        # Check if build directory was created
+        if [ ! -d "build" ]; then
+            echo "❌ React build failed - no build directory created!"
+            cd "$ORIG_DIR"
+            exit 1
+        fi
+        
+        echo "✅ React build successful!"
+        
+        # Clean up build artifacts (we don't want to commit them)
+        rm -rf build
+    else
+        echo "❌ React build command failed!"
+        echo "   Run 'cd viewer && npm run build' to see detailed errors"
+        cd "$ORIG_DIR"
+        exit 1
+    fi
+    
+    cd "$ORIG_DIR"
+fi
+
+echo ""
+echo "✨ All pre-commit checks passed!"
+exit 0
