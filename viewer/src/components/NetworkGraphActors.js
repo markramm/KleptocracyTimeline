@@ -5,7 +5,6 @@ import './NetworkGraph.css';
 const NetworkGraphActors = ({ events }) => {
   const svgRef = useRef(null);
   const [selectedNode, setSelectedNode] = useState(null);
-  const [hoveredNode, setHoveredNode] = useState(null);
   const [minEvents, setMinEvents] = useState(3);
   const [showLabels, setShowLabels] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -120,10 +119,6 @@ const NetworkGraphActors = ({ events }) => {
       trumpNode.fixed = true;
     }
 
-    // Color scale for node importance
-    const colorScale = d3.scaleSequential(d3.interpolateReds)
-      .domain([0, d3.max(nodes, d => d.eventCount)]);
-
     // Size scale for nodes (based on event count)
     const sizeScale = d3.scaleSqrt()
       .domain([d3.min(nodes, d => d.eventCount), d3.max(nodes, d => d.eventCount)])
@@ -204,7 +199,6 @@ const NetworkGraphActors = ({ events }) => {
         highlightConnections(d);
       })
       .on('mouseover', (event, d) => {
-        setHoveredNode(d);
         // Create tooltip
         const tooltip = d3.select('body').append('div')
           .attr('class', 'actor-tooltip')
@@ -228,7 +222,6 @@ const NetworkGraphActors = ({ events }) => {
                .style('top', (event.pageY - 10) + 'px');
       })
       .on('mouseout', () => {
-        setHoveredNode(null);
         d3.selectAll('.actor-tooltip').remove();
       })
       .call(d3.drag()
