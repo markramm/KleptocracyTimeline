@@ -23,10 +23,23 @@ sources:
   url: https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system
   outlet: ProPublica
   date: '2025-04-17'
-- title: Timeline Documentation
-  url: https://example.com
-  outlet: Archive
+- title: Lawmaker to Probe GSA for Preferential Treatment of Thiel-Backed Firm Ramp
+  url: https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly
+  outlet: ProPublica
+  date: '2025-04-18'
+- title: Ramp reportedly angles for part of $700B US credit card program
+  url: https://www.bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959/
+  outlet: Banking Dive
   date: '2025-04-17'
+- title: Little-Known Tech Startup May Soon Make Millions Off Federal Expense Card
+    System
+  url: https://truthout.org/articles/little-known-tech-startup-may-soon-make-millions-off-federal-expense-card-system/
+  outlet: Truthout
+  date: '2025-04-17'
+- title: 'Peter Thiel''s protégés: a common thread runs through Trump''s tech team'
+  url: https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/
+  outlet: Fortune
+  date: '2025-05-21'
 connections: []
 patterns:
 - kleptocratic-capture

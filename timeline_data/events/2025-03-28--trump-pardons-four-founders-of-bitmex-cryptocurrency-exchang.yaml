@@ -25,9 +25,22 @@ sources:
   url: https://www.usatoday.com/story/news/politics/2025/03/28/trump-pardons-three-founders-bitmex-cryptocurrency/82708964007/?tbref=hp
   outlet: USA Today
   date: '2025-03-28'
-- title: Timeline Documentation
-  url: https://example.com
-  outlet: Archive
+- title: Trump pardons three BitMEX crypto exchange co-founders, and ex-employee
+  url: https://www.cnbc.com/2025/03/28/trump-pardon-bitmex-crypto-exchange-money-laundering.html
+  outlet: CNBC
+  date: '2025-03-28'
+- title: Trump Pardons Bitmex Co-Founders Arthur Hayes, Benjamin Delo and Samuel Reed
+  url: https://www.bloomberg.com/news/articles/2025-03-28/trump-pardons-bitmex-co-founders-arthur-hayes-benjamin-delo-and-samuel-reed
+  outlet: Bloomberg
+  date: '2025-03-28'
+- title: President Trump Pardons Arthur Hayes, 3 Other BitMEX Co-Founders and Employee
+  url: https://www.coindesk.com/policy/2025/03/28/president-trump-pardons-arthur-hayes-2-other-bitmex-co-founders-cnbc
+  outlet: CoinDesk
+  date: '2025-03-28'
+- title: Trump Pardons 3 BitMEX Co-Founders Following Guilty Pleas in Money Laundering
+    Case
+  url: https://www.yahoo.com/news/trump-pardons-3-bitmex-co-005646361.html
+  outlet: Yahoo News
   date: '2025-03-28'
 connections: []
 patterns:

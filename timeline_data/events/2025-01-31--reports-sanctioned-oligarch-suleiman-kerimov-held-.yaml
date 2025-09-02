@@ -1,0 +1,43 @@
+id: 2025-01-31--reports-sanctioned-oligarch-suleiman-kerimov-held-
+date: '2025-01-31'
+title: 'Reports: Sanctioned oligarch Suleiman Kerimov held ~1% SpaceX stake via Heritage
+  Trust'
+summary: Bloomberg and other outlets reported Russian oligarch Suleyman Kerimov held
+  approximately 1% of SpaceX through Delaware's Heritage Trust, managed by Citigroup,
+  from 2017 until disposal before Treasury blocked the trust in 2022. The stake was
+  acquired pre-sanctions but retained for years after 2018 U.S. sanctions.
+description: Bloomberg and other outlets reported Russian oligarch Suleyman Kerimov
+  held approximately 1% of SpaceX through Delaware's Heritage Trust, managed by Citigroup,
+  from 2017 until disposal before Treasury blocked the trust in 2022. The stake was
+  acquired pre-sanctions but retained for years after 2018 U.S. sanctions.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: Russian oligarch held stake in SpaceX via trust while sanctioned
+  url: https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/
+  outlet: Kyiv Independent
+  date: '2025-01-31'
+- title: Russian Oligarch Held Stake in Musk's SpaceX Through Trust While He Was Sanctioned
+  url: https://www.bloomberg.com/news/articles/2025-01-29/russian-oligarch-held-stake-in-spacex-via-trust-while-sanctioned
+  outlet: Bloomberg
+  date: '2025-01-29'
+- title: Russian Senator Held Stake in SpaceX While He Was Sanctioned
+  url: https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798
+  outlet: The Moscow Times
+  date: '2025-01-30'
+- title: Russian oligarch and politician retained stake in SpaceX for 4 years under
+    US sanctions
+  url: https://www.pravda.com.ua/eng/news/2025/01/30/7495952/
+  outlet: Ukrainska Pravda
+  date: '2025-01-30'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.

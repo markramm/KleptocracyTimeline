@@ -25,9 +25,22 @@ sources:
   url: https://www.theguardian.com/technology/2025/mar/07/tether-crypto-trump-interview
   outlet: The Guardian
   date: '2025-03-07'
-- title: Timeline Documentation
-  url: https://example.com
-  outlet: Archive
+- title: USDT Issuer Tether Ranks Among Top Foreign Buyers of U.S. Treasuries in 2024
+  url: https://www.coindesk.com/business/2025/03/20/tether-ranks-among-top-foreign-buyers-of-u-s-treasuries-in-2024-firm-says
+  outlet: CoinDesk
+  date: '2025-03-20'
+- title: Tether, Chevron, Google play national security dealpolitik
+  url: https://www.semafor.com/article/03/25/2025/tether-chevron-google-play-national-security-dealpolitik
+  outlet: Semafor
+  date: '2025-03-25'
+- title: Tether was 7th largest US Treasury holder in 2024, surpassing nations like
+    Canada and Norway
+  url: https://cryptoslate.com/insights/tether-was-7th-largest-us-treasury-holder-in-2024-surpassing-nations-like-canada-and-norway/
+  outlet: CryptoSlate
+  date: '2025-03-07'
+- title: Stablecoins are set to reshape the multitrillion-dollar US Treasury market
+  url: https://finance.yahoo.com/news/stablecoins-are-set-to-reshape-the-multitrillion-dollar-us-treasury-market-100041163.html
+  outlet: Yahoo Finance
   date: '2025-03-07'
 connections: []
 patterns:

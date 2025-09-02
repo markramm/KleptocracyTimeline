@@ -1,98 +1,102 @@
 {
-  "total_events": 329,
-  "total_tags": 854,
-  "total_actors": 631,
-  "total_sources": 1033,
+  "total_events": 909,
+  "total_tags": 1551,
+  "total_actors": 1140,
+  "total_sources": 2574,
   "date_range": {
-    "start": "1972-01-01",
-    "end": "2025-08-13"
+    "start": "1970-01-01",
+    "end": "2025-11-04"
   },
   "status_counts": {
-    "confirmed": 329
+    "confirmed": 896,
+    "disputed": 2,
+    "reported": 9,
+    "predicted": 1,
+    "developing": 1
   },
   "top_tags": [
     {
-      "name": "kleptocracy",
-      "count": 25
+      "name": "regulatory-capture",
+      "count": 140
     },
     {
-      "name": "project-2025",
-      "count": 22
+      "name": "kleptocracy",
+      "count": 129
+    },
+    {
+      "name": "government-contracts",
+      "count": 120
+    },
+    {
+      "name": "corruption",
+      "count": 100
+    },
+    {
+      "name": "crypto",
+      "count": 82
+    },
+    {
+      "name": "foreign-influence",
+      "count": 56
+    },
+    {
+      "name": "justice-weaponization",
+      "count": 34
     },
     {
       "name": "cryptocurrency",
-      "count": 21
+      "count": 28
     },
     {
-      "name": "elections",
-      "count": 19
-    },
-    {
-      "name": "courts",
-      "count": 17
-    },
-    {
-      "name": "regulatory-capture",
-      "count": 17
+      "name": "ethics-violations",
+      "count": 27
     },
     {
       "name": "conflicts-of-interest",
-      "count": 16
-    },
-    {
-      "name": "doge",
-      "count": 16
-    },
-    {
-      "name": "epstein-files",
-      "count": 14
-    },
-    {
-      "name": "federal-workforce",
-      "count": 14
+      "count": 27
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 85
+      "count": 503
     },
     {
-      "name": "Trump administration",
-      "count": 42
-    },
-    {
-      "name": "Elon Musk",
-      "count": 22
+      "name": "Trump Administration",
+      "count": 366
     },
     {
       "name": "Department of Justice",
-      "count": 14
+      "count": 39
+    },
+    {
+      "name": "ICE",
+      "count": 33
+    },
+    {
+      "name": "Elon Musk",
+      "count": 32
     },
     {
       "name": "Jeffrey Epstein",
-      "count": 13
+      "count": 30
     },
     {
-      "name": "White House",
-      "count": 12
-    },
-    {
-      "name": "World Liberty Financial",
-      "count": 11
-    },
-    {
-      "name": "Trump Organization",
-      "count": 10
+      "name": "Kristi Noem",
+      "count": 23
     },
     {
       "name": "Department of Homeland Security",
-      "count": 9
+      "count": 21
     },
     {
-      "name": "OPM",
-      "count": 7
+      "name": "Trump Organization",
+      "count": 17
+    },
+    {
+      "name": "FBI",
+      "count": 16
     }
   ],
-  "generated": "2025-08-19T13:06:30.393700"
+  "generated": "2025-09-02T17:15:59.866141"
 }

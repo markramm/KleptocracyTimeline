@@ -23,9 +23,27 @@ sources:
   url: https://www.cnbc.com/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger.html
   outlet: CNBC
   date: '2025-07-24'
-- title: Timeline Documentation
-  url: https://example.com
-  outlet: Archive
+- title: FCC Approves Skydance's Acquisition of Paramount CBS
+  url: https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs
+  outlet: Federal Communications Commission
+  date: '2025-07-24'
+- title: FCC approves Skydance merger with Paramount, ending a yearlong saga of uncertainty
+  url: https://edition.cnn.com/2025/07/24/media/fcc-skydance-paramount-merger-approved
+  outlet: CNN
+  date: '2025-07-24'
+- title: FCC approves Paramount Skydance merger after concessions
+  url: https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves
+  outlet: NPR
+  date: '2025-07-24'
+- title: FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI
+    Pledges
+  url: https://variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/
+  outlet: Variety
+  date: '2025-07-24'
+- title: FCC approves Paramount-Skydance merger following Trump settlement, Colbert
+    cancellation
+  url: https://www.foxnews.com/media/fcc-approves-paramount-skydance-merger-following-trump-settlement-colbert-cancellation
+  outlet: Fox News
   date: '2025-07-24'
 connections: []
 patterns:

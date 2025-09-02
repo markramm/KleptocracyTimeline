@@ -22,9 +22,28 @@ sources:
   url: https://www.wsj.com/politics/policy/trump-inauguration-donors-benefit-2ff3121f?mod=politics_lead_pos2
   outlet: Wall Street Journal
   date: '2025-06-03'
-- title: Timeline Documentation
-  url: https://example.com
-  outlet: Archive
+- title: Major corporate interests and megadonors gave $239 million to fund Trump's
+    inauguration
+  url: https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074
+  outlet: NBC News
+  date: '2025-06-03'
+- title: 'Giving outsize sums: Companies that donated to Trump''s inauguration reaped
+    huge rewards'
+  url: https://www.alternet.org/trump-inauguration-donors/
+  outlet: Alternet
+  date: '2025-06-03'
+- title: Crypto firms gave $18M to Trump's inauguration. Ripple's $4.9M gift was second
+    biggest overall
+  url: https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/
+  outlet: Fortune
+  date: '2025-04-21'
+- title: Ripple was Trump inauguration's top crypto donor before SEC regulatory shift
+  url: https://protos.com/ripple-was-trump-inaugurations-top-crypto-donor-before-sec-regulatory-shift/
+  outlet: Protos
+  date: '2025-06-03'
+- title: Million-Dollar Donors Flooded Trump's Second Inauguration
+  url: https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration
+  outlet: Brennan Center
   date: '2025-06-03'
 connections: []
 patterns:

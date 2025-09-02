@@ -1,54 +1,142 @@
 [
   {
+    "name": "regulatory-capture",
+    "count": 140
+  },
+  {
     "name": "kleptocracy",
-    "count": 25
+    "count": 129
+  },
+  {
+    "name": "government-contracts",
+    "count": 120
+  },
+  {
+    "name": "corruption",
+    "count": 100
+  },
+  {
+    "name": "crypto",
+    "count": 82
+  },
+  {
+    "name": "foreign-influence",
+    "count": 56
+  },
+  {
+    "name": "justice-weaponization",
+    "count": 34
+  },
+  {
+    "name": "cryptocurrency",
+    "count": 28
+  },
+  {
+    "name": "ethics-violations",
+    "count": 27
+  },
+  {
+    "name": "conflicts-of-interest",
+    "count": 27
+  },
+  {
+    "name": "media-control",
+    "count": 26
+  },
+  {
+    "name": "trump-administration",
+    "count": 26
   },
   {
     "name": "project-2025",
     "count": 22
   },
   {
-    "name": "cryptocurrency",
-    "count": 21
+    "name": "immigration-enforcement",
+    "count": 20
+  },
+  {
+    "name": "emoluments",
+    "count": 17
   },
   {
     "name": "elections",
-    "count": 19
-  },
-  {
-    "name": "courts",
     "count": 17
-  },
-  {
-    "name": "regulatory-capture",
-    "count": 17
-  },
-  {
-    "name": "conflicts-of-interest",
-    "count": 16
   },
   {
     "name": "doge",
-    "count": 16
-  },
-  {
-    "name": "epstein-files",
-    "count": 14
-  },
-  {
-    "name": "federal-workforce",
-    "count": 14
-  },
-  {
-    "name": "executive-order",
-    "count": 13
+    "count": 17
   },
   {
     "name": "epstein-network",
-    "count": 11
+    "count": 16
+  },
+  {
+    "name": "money-laundering",
+    "count": 16
+  },
+  {
+    "name": "courts",
+    "count": 16
+  },
+  {
+    "name": "pardons",
+    "count": 16
+  },
+  {
+    "name": "judicial-capture",
+    "count": 15
   },
   {
     "name": "constitutional-crisis",
+    "count": 15
+  },
+  {
+    "name": "federal-workforce",
+    "count": 15
+  },
+  {
+    "name": "supreme-court",
+    "count": 13
+  },
+  {
+    "name": "epstein-files",
+    "count": 13
+  },
+  {
+    "name": "cover-up",
+    "count": 12
+  },
+  {
+    "name": "jeffrey-epstein",
+    "count": 11
+  },
+  {
+    "name": "real-estate",
+    "count": 11
+  },
+  {
+    "name": "conflict-of-interest",
+    "count": 11
+  },
+  {
+    "name": "executive-order",
+    "count": 11
+  },
+  {
+    "name": "obstruction-of-justice",
+    "count": 11
+  },
+  {
+    "name": "redistricting",
+    "count": 11
+  },
+  {
+    "name": "rule-of-law",
+    "count": 11
+  },
+  {
+    "name": "workforce-reduction",
     "count": 11
   },
   {
@@ -56,19 +144,31 @@
     "count": 11
   },
   {
-    "name": "emoluments",
+    "name": "ICE",
+    "count": 11
+  },
+  {
+    "name": "kompromat",
     "count": 10
   },
   {
-    "name": "corruption",
+    "name": "tariffs",
     "count": 10
   },
   {
-    "name": "workforce-reduction",
+    "name": "pay-to-play",
     "count": 10
   },
   {
-    "name": "money-laundering",
+    "name": "classified-documents",
+    "count": 10
+  },
+  {
+    "name": "kristi-noem",
+    "count": 9
+  },
+  {
+    "name": "mass-deportation",
     "count": 9
   },
   {
@@ -76,23 +176,63 @@
     "count": 9
   },
   {
-    "name": "foreign-influence",
+    "name": "civil-service",
+    "count": 9
+  },
+  {
+    "name": "doj",
+    "count": 9
+  },
+  {
+    "name": "law-enforcement",
+    "count": 9
+  },
+  {
+    "name": "first-amendment",
     "count": 8
   },
   {
-    "name": "tariffs",
+    "name": "campaign-finance",
     "count": 8
   },
   {
-    "name": "ethics-violations",
+    "name": "russian-money",
     "count": 8
   },
   {
-    "name": "platform-policy",
+    "name": "peter-thiel",
     "count": 8
   },
   {
-    "name": "trump-connections",
+    "name": "election-interference",
+    "count": 8
+  },
+  {
+    "name": "donald-trump",
+    "count": 8
+  },
+  {
+    "name": "conflicts",
+    "count": 8
+  },
+  {
+    "name": "epa",
+    "count": 8
+  },
+  {
+    "name": "january-6",
+    "count": 8
+  },
+  {
+    "name": "institutional-capture",
+    "count": 8
+  },
+  {
+    "name": "lobbying",
+    "count": 7
+  },
+  {
+    "name": "insider-trading",
     "count": 7
   },
   {
@@ -100,7 +240,15 @@
     "count": 7
   },
   {
-    "name": "immigration-enforcement",
+    "name": "mar-a-lago",
+    "count": 7
+  },
+  {
+    "name": "quid-pro-quo",
+    "count": 7
+  },
+  {
+    "name": "transparency",
     "count": 7
   },
   {
@@ -108,27 +256,71 @@
     "count": 7
   },
   {
-    "name": "redistricting",
+    "name": "military-deployment",
     "count": 7
   },
   {
-    "name": "first-amendment",
+    "name": "self-dealing",
     "count": 7
   },
   {
-    "name": "cover-up",
+    "name": "financial-crimes",
+    "count": 7
+  },
+  {
+    "name": "platform-policy",
+    "count": 7
+  },
+  {
+    "name": "congressional-oversight",
+    "count": 7
+  },
+  {
+    "name": "democratic-erosion",
+    "count": 7
+  },
+  {
+    "name": "intelligence-protection",
     "count": 6
   },
   {
-    "name": "epa",
+    "name": "trump-connections",
     "count": 6
   },
   {
-    "name": "civil-service",
+    "name": "undisclosed-gifts",
     "count": 6
   },
   {
-    "name": "law-enforcement",
+    "name": "jd-vance",
+    "count": 6
+  },
+  {
+    "name": "russia",
+    "count": 6
+  },
+  {
+    "name": "administrative-law",
+    "count": 6
+  },
+  {
+    "name": "media-consolidation",
+    "count": 6
+  },
+  {
+    "name": "jack-smith",
+    "count": 6
+  },
+  {
+    "name": "pam-bondi",
+    "count": 6
+  },
+  {
+    "name": "loyalty-tests",
+    "count": 6
+  },
+  {
+    "name": "elon-musk",
     "count": 6
   },
   {
@@ -136,15 +328,23 @@
     "count": 6
   },
   {
-    "name": "protests",
-    "count": 6
-  },
-  {
-    "name": "real-estate",
+    "name": "epstein-intelligence",
     "count": 5
   },
   {
-    "name": "administrative-law",
+    "name": "russian-interference",
+    "count": 5
+  },
+  {
+    "name": "spacex",
+    "count": 5
+  },
+  {
+    "name": "oversight",
+    "count": 5
+  },
+  {
+    "name": "fbi",
     "count": 5
   },
   {
@@ -152,19 +352,55 @@
     "count": 5
   },
   {
-    "name": "military-deployment",
+    "name": "ethics-violation",
     "count": 5
   },
   {
-    "name": "posse-comitatus",
+    "name": "sanctions",
     "count": 5
   },
   {
-    "name": "pay-to-play",
+    "name": "nepotism",
     "count": 5
   },
   {
-    "name": "campaign-finance",
+    "name": "transparency-failure",
+    "count": 5
+  },
+  {
+    "name": "south-dakota",
+    "count": 5
+  },
+  {
+    "name": "revolving-door",
+    "count": 5
+  },
+  {
+    "name": "constitutional-violations",
+    "count": 5
+  },
+  {
+    "name": "social-media",
+    "count": 5
+  },
+  {
+    "name": "abuse-of-power",
+    "count": 5
+  },
+  {
+    "name": "election-fraud",
+    "count": 5
+  },
+  {
+    "name": "whistleblower-retaliation",
+    "count": 5
+  },
+  {
+    "name": "truth-social",
+    "count": 5
+  },
+  {
+    "name": "national-security",
     "count": 5
   },
   {
@@ -172,31 +408,47 @@
     "count": 5
   },
   {
-    "name": "capture-patterns",
+    "name": "misinformation",
     "count": 5
   },
   {
-    "name": "self-dealing",
+    "name": "separation-of-powers",
     "count": 5
   },
   {
-    "name": "government-contracts",
+    "name": "memecoin",
     "count": 5
   },
   {
-    "name": "doj",
+    "name": "melania-trump",
     "count": 5
   },
   {
-    "name": "regulatory-rollback",
+    "name": "market-manipulation",
     "count": 5
   },
   {
-    "name": "military",
+    "name": "emergency-powers",
     "count": 5
   },
   {
-    "name": "domestic-deployment",
+    "name": "inspector-general",
+    "count": 5
+  },
+  {
+    "name": "musk",
+    "count": 5
+  },
+  {
+    "name": "cfpb",
+    "count": 5
+  },
+  {
+    "name": "consumer-protection",
+    "count": 5
+  },
+  {
+    "name": "mass-layoffs",
     "count": 5
   },
   {
@@ -204,7 +456,15 @@
     "count": 5
   },
   {
-    "name": "intelligence_privatization",
+    "name": "protests",
+    "count": 5
+  },
+  {
+    "name": "gerrymandering",
+    "count": 5
+  },
+  {
+    "name": "conservative-media",
     "count": 4
   },
   {
@@ -212,7 +472,47 @@
     "count": 4
   },
   {
+    "name": "entertainment",
+    "count": 4
+  },
+  {
+    "name": "witness-elimination",
+    "count": 4
+  },
+  {
+    "name": "private-contractors",
+    "count": 4
+  },
+  {
+    "name": "ehud-barak",
+    "count": 4
+  },
+  {
+    "name": "unit-8200",
+    "count": 4
+  },
+  {
+    "name": "russian-intelligence",
+    "count": 4
+  },
+  {
+    "name": "election-manipulation",
+    "count": 4
+  },
+  {
+    "name": "obstruction",
+    "count": 4
+  },
+  {
+    "name": "hush-money",
+    "count": 4
+  },
+  {
     "name": "stone-network",
+    "count": 4
+  },
+  {
+    "name": "constitutional-violation",
     "count": 4
   },
   {
@@ -220,19 +520,35 @@
     "count": 4
   },
   {
-    "name": "transparency-failure",
+    "name": "data-breach",
     "count": 4
   },
   {
-    "name": "social-media",
+    "name": "environmental-destruction",
+    "count": 4
+  },
+  {
+    "name": "qatar",
+    "count": 4
+  },
+  {
+    "name": "posse-comitatus",
+    "count": 4
+  },
+  {
+    "name": "interior-department",
+    "count": 4
+  },
+  {
+    "name": "human-rights-violations",
+    "count": 4
+  },
+  {
+    "name": "jack-smith-report",
     "count": 4
   },
   {
     "name": "supreme_court",
-    "count": 4
-  },
-  {
-    "name": "platforms",
     "count": 4
   },
   {
@@ -248,10 +564,6 @@
     "count": 4
   },
   {
-    "name": "ai",
-    "count": 4
-  },
-  {
     "name": "media",
     "count": 4
   },
@@ -260,19 +572,11 @@
     "count": 4
   },
   {
-    "name": "market-manipulation",
-    "count": 4
-  },
-  {
     "name": "executive-orders",
     "count": 4
   },
   {
-    "name": "federal",
-    "count": 4
-  },
-  {
-    "name": "personnel",
+    "name": "procurement",
     "count": 4
   },
   {
@@ -284,11 +588,7 @@
     "count": 4
   },
   {
-    "name": "institutional-capture",
-    "count": 4
-  },
-  {
-    "name": "emergency-powers",
+    "name": "capture-patterns",
     "count": 4
   },
   {
@@ -300,7 +600,11 @@
     "count": 4
   },
   {
-    "name": "fcpa",
+    "name": "regulatory-rollback",
+    "count": 4
+  },
+  {
+    "name": "inauguration-fund",
     "count": 4
   },
   {
@@ -312,15 +616,15 @@
     "count": 4
   },
   {
+    "name": "enforcement-escalation",
+    "count": 4
+  },
+  {
     "name": "environmental-rollback",
     "count": 4
   },
   {
-    "name": "elon-musk",
-    "count": 4
-  },
-  {
-    "name": "congressional-oversight",
+    "name": "court-defiance",
     "count": 4
   },
   {
@@ -336,19 +640,91 @@
     "count": 4
   },
   {
-    "name": "mass-layoffs",
+    "name": "authoritarian-tactics",
     "count": 4
   },
   {
-    "name": "private-contractors",
+    "name": "military",
+    "count": 4
+  },
+  {
+    "name": "domestic-deployment",
+    "count": 4
+  },
+  {
+    "name": "powell-memo-implementation",
     "count": 3
   },
   {
-    "name": "lobbying",
+    "name": "intelligence_privatization",
     "count": 3
   },
   {
-    "name": "russian-money",
+    "name": "public-health",
+    "count": 3
+  },
+  {
+    "name": "sec-investigation",
+    "count": 3
+  },
+  {
+    "name": "music-industry",
+    "count": 3
+  },
+  {
+    "name": "luxury-travel",
+    "count": 3
+  },
+  {
+    "name": "child-abuse",
+    "count": 3
+  },
+  {
+    "name": "trafficking",
+    "count": 3
+  },
+  {
+    "name": "shell-companies",
+    "count": 3
+  },
+  {
+    "name": "trump-organization",
+    "count": 3
+  },
+  {
+    "name": "dark-money",
+    "count": 3
+  },
+  {
+    "name": "democracy-erosion",
+    "count": 3
+  },
+  {
+    "name": "tech-politics",
+    "count": 3
+  },
+  {
+    "name": "cambridge-analytica",
+    "count": 3
+  },
+  {
+    "name": "voting-rights",
+    "count": 3
+  },
+  {
+    "name": "electoral-manipulation",
+    "count": 3
+  },
+  {
+    "name": "israeli-intelligence",
+    "count": 3
+  },
+  {
+    "name": "financial-corruption",
+    "count": 3
+  },
+  {
+    "name": "catch-and-kill",
     "count": 3
   },
   {
@@ -364,11 +740,39 @@
     "count": 3
   },
   {
-    "name": "election-interference",
+    "name": "billionaire-politics",
     "count": 3
   },
   {
-    "name": "spacex",
+    "name": "oligarchs",
+    "count": 3
+  },
+  {
+    "name": "shell-company",
+    "count": 3
+  },
+  {
+    "name": "essential-consultants",
+    "count": 3
+  },
+  {
+    "name": "foreign-payments",
+    "count": 3
+  },
+  {
+    "name": "saudi-arabia",
+    "count": 3
+  },
+  {
+    "name": "inauguration",
+    "count": 3
+  },
+  {
+    "name": "privatization",
+    "count": 3
+  },
+  {
+    "name": "gsa",
     "count": 3
   },
   {
@@ -380,11 +784,15 @@
     "count": 3
   },
   {
-    "name": "national-guard",
+    "name": "congressional-investigation",
     "count": 3
   },
   {
-    "name": "quid-pro-quo",
+    "name": "cabinet-scandal",
+    "count": 3
+  },
+  {
+    "name": "national-guard",
     "count": 3
   },
   {
@@ -392,19 +800,43 @@
     "count": 3
   },
   {
-    "name": "nepotism",
+    "name": "china",
     "count": 3
   },
   {
-    "name": "constitutional-violations",
+    "name": "arrest",
     "count": 3
   },
   {
-    "name": "bitcoin",
+    "name": "homeland-security",
     "count": 3
   },
   {
-    "name": "financial-crimes",
+    "name": "information-warfare",
+    "count": 3
+  },
+  {
+    "name": "covid-misinformation",
+    "count": 3
+  },
+  {
+    "name": "podcast-influence",
+    "count": 3
+  },
+  {
+    "name": "financial-conflicts",
+    "count": 3
+  },
+  {
+    "name": "doge-personnel",
+    "count": 3
+  },
+  {
+    "name": "irs",
+    "count": 3
+  },
+  {
+    "name": "special-counsel",
     "count": 3
   },
   {
@@ -416,15 +848,27 @@
     "count": 3
   },
   {
+    "name": "financial-disclosure",
+    "count": 3
+  },
+  {
     "name": "algorithms",
     "count": 3
   },
   {
-    "name": "meta",
+    "name": "heritage-foundation",
     "count": 3
   },
   {
-    "name": "supreme-court",
+    "name": "platforms",
+    "count": 3
+  },
+  {
+    "name": "judicial-corruption",
+    "count": 3
+  },
+  {
+    "name": "blackmail",
     "count": 3
   },
   {
@@ -432,11 +876,7 @@
     "count": 3
   },
   {
-    "name": "misinformation",
-    "count": 3
-  },
-  {
-    "name": "separation-of-powers",
+    "name": "memoir",
     "count": 3
   },
   {
@@ -448,15 +888,23 @@
     "count": 3
   },
   {
-    "name": "transparency",
+    "name": "surveillance",
     "count": 3
   },
   {
-    "name": "insider-trading",
+    "name": "ai",
     "count": 3
   },
   {
-    "name": "inauguration",
+    "name": "judicial-independence",
+    "count": 3
+  },
+  {
+    "name": "economic-coercion",
+    "count": 3
+  },
+  {
+    "name": "trump-memecoin",
     "count": 3
   },
   {
@@ -464,7 +912,15 @@
     "count": 3
   },
   {
-    "name": "procurement",
+    "name": "federal",
+    "count": 3
+  },
+  {
+    "name": "personnel",
+    "count": 3
+  },
+  {
+    "name": "world-liberty-financial",
     "count": 3
   },
   {
@@ -476,7 +932,27 @@
     "count": 3
   },
   {
-    "name": "inspector-general",
+    "name": "schools",
+    "count": 3
+  },
+  {
+    "name": "hospitals",
+    "count": 3
+  },
+  {
+    "name": "churches",
+    "count": 3
+  },
+  {
+    "name": "political-control",
+    "count": 3
+  },
+  {
+    "name": "oversight-elimination",
+    "count": 3
+  },
+  {
+    "name": "watchdog-purge",
     "count": 3
   },
   {
@@ -484,11 +960,15 @@
     "count": 3
   },
   {
+    "name": "humanitarian-crisis",
+    "count": 3
+  },
+  {
     "name": "climate-science",
     "count": 3
   },
   {
-    "name": "loyalty-tests",
+    "name": "kash-patel",
     "count": 3
   },
   {
@@ -496,15 +976,11 @@
     "count": 3
   },
   {
+    "name": "fcpa",
+    "count": 3
+  },
+  {
     "name": "foreign-bribery",
-    "count": 3
-  },
-  {
-    "name": "oversight",
-    "count": 3
-  },
-  {
-    "name": "consumer-protection",
     "count": 3
   },
   {
@@ -512,7 +988,15 @@
     "count": 3
   },
   {
+    "name": "tesla",
+    "count": 3
+  },
+  {
     "name": "government-restructuring",
+    "count": 3
+  },
+  {
+    "name": "re-wire-personnel",
     "count": 3
   },
   {
@@ -520,7 +1004,23 @@
     "count": 3
   },
   {
+    "name": "enforcement-milestone",
+    "count": 3
+  },
+  {
+    "name": "antitrust",
+    "count": 3
+  },
+  {
     "name": "media-access",
+    "count": 3
+  },
+  {
+    "name": "no-bid-contracts",
+    "count": 3
+  },
+  {
+    "name": "authoritarianism",
     "count": 3
   },
   {
@@ -528,28 +1028,32 @@
     "count": 3
   },
   {
-    "name": "police-violence",
-    "count": 3
-  },
-  {
     "name": "emergency-stays",
     "count": 3
   },
   {
-    "name": "constitutional-violation",
+    "name": "federal-control",
     "count": 3
   },
   {
-    "name": "states",
-    "count": 3
-  },
-  {
-    "name": "gerrymandering",
+    "name": "overcrowding",
     "count": 3
   },
   {
     "name": "washington-dc",
     "count": 3
+  },
+  {
+    "name": "corporate-consolidation",
+    "count": 3
+  },
+  {
+    "name": "federal-reserve",
+    "count": 3
+  },
+  {
+    "name": "propaganda-infrastructure",
+    "count": 2
   },
   {
     "name": "kroll_associates",
@@ -564,15 +1068,19 @@
     "count": 2
   },
   {
-    "name": "intelligence-privatization",
+    "name": "political-operations",
     "count": 2
   },
   {
-    "name": "shadow-governance",
+    "name": "mentorship",
     "count": 2
   },
   {
-    "name": "mar-a-lago",
+    "name": "hip-hop",
+    "count": 2
+  },
+  {
+    "name": "sexual-assault",
     "count": 2
   },
   {
@@ -580,7 +1088,51 @@
     "count": 2
   },
   {
-    "name": "shell-companies",
+    "name": "media-cover-up",
+    "count": 2
+  },
+  {
+    "name": "editorial-censorship",
+    "count": 2
+  },
+  {
+    "name": "victim-silencing",
+    "count": 2
+  },
+  {
+    "name": "underage-victims",
+    "count": 2
+  },
+  {
+    "name": "ruslana-korshunova",
+    "count": 2
+  },
+  {
+    "name": "little-st-james",
+    "count": 2
+  },
+  {
+    "name": "suspicious-death",
+    "count": 2
+  },
+  {
+    "name": "kazakhstan",
+    "count": 2
+  },
+  {
+    "name": "kompromat-operation",
+    "count": 2
+  },
+  {
+    "name": "russian-oligarch",
+    "count": 2
+  },
+  {
+    "name": "financial-dependency",
+    "count": 2
+  },
+  {
+    "name": "family-benefits",
     "count": 2
   },
   {
@@ -588,11 +1140,59 @@
     "count": 2
   },
   {
-    "name": "kompromat",
+    "name": "landmark-decision",
     "count": 2
   },
   {
-    "name": "russian-intelligence",
+    "name": "russian-spy-ring",
+    "count": 2
+  },
+  {
+    "name": "intelligence-operations",
+    "count": 2
+  },
+  {
+    "name": "political-pipeline",
+    "count": 2
+  },
+  {
+    "name": "elite-networks",
+    "count": 2
+  },
+  {
+    "name": "privacy-violation",
+    "count": 2
+  },
+  {
+    "name": "corporate-capture",
+    "count": 2
+  },
+  {
+    "name": "carbyne",
+    "count": 2
+  },
+  {
+    "name": "surveillance-technology",
+    "count": 2
+  },
+  {
+    "name": "facebook-ads",
+    "count": 2
+  },
+  {
+    "name": "national-enquirer",
+    "count": 2
+  },
+  {
+    "name": "trump-campaign",
+    "count": 2
+  },
+  {
+    "name": "media-manipulation",
+    "count": 2
+  },
+  {
+    "name": "media-capture",
     "count": 2
   },
   {
@@ -600,7 +1200,23 @@
     "count": 2
   },
   {
-    "name": "obstruction",
+    "name": "venture-capital",
+    "count": 2
+  },
+  {
+    "name": "silicon-valley",
+    "count": 2
+  },
+  {
+    "name": "roger-stone",
+    "count": 2
+  },
+  {
+    "name": "fbi-informant",
+    "count": 2
+  },
+  {
+    "name": "congressional-testimony",
     "count": 2
   },
   {
@@ -608,7 +1224,23 @@
     "count": 2
   },
   {
-    "name": "oligarchs",
+    "name": "stormy-daniels",
+    "count": 2
+  },
+  {
+    "name": "wire-fraud",
+    "count": 2
+  },
+  {
+    "name": "evidence-tampering",
+    "count": 2
+  },
+  {
+    "name": "pecker-vault",
+    "count": 2
+  },
+  {
+    "name": "trump-hotel",
     "count": 2
   },
   {
@@ -616,15 +1248,31 @@
     "count": 2
   },
   {
-    "name": "privatization",
-    "count": 2
-  },
-  {
     "name": "regulation",
     "count": 2
   },
   {
-    "name": "fbi",
+    "name": "pump-and-dump",
+    "count": 2
+  },
+  {
+    "name": "misuse-of-funds",
+    "count": 2
+  },
+  {
+    "name": "hhs",
+    "count": 2
+  },
+  {
+    "name": "pete-hegseth",
+    "count": 2
+  },
+  {
+    "name": "settlement",
+    "count": 2
+  },
+  {
+    "name": "apple",
     "count": 2
   },
   {
@@ -632,7 +1280,19 @@
     "count": 2
   },
   {
-    "name": "sanctions",
+    "name": "facebook-scandal",
+    "count": 2
+  },
+  {
+    "name": "whistleblower",
+    "count": 2
+  },
+  {
+    "name": "sinclair-broadcasting",
+    "count": 2
+  },
+  {
+    "name": "local-news-capture",
     "count": 2
   },
   {
@@ -640,11 +1300,51 @@
     "count": 2
   },
   {
-    "name": "china",
+    "name": "trademarks",
     "count": 2
   },
   {
-    "name": "arrest",
+    "name": "detention-expansion",
+    "count": 2
+  },
+  {
+    "name": "surveillance-failure",
+    "count": 2
+  },
+  {
+    "name": "child-detention",
+    "count": 2
+  },
+  {
+    "name": "rogan-evolution",
+    "count": 2
+  },
+  {
+    "name": "newsmax",
+    "count": 2
+  },
+  {
+    "name": "election-lies",
+    "count": 2
+  },
+  {
+    "name": "knowing-deception",
+    "count": 2
+  },
+  {
+    "name": "fake-electors",
+    "count": 2
+  },
+  {
+    "name": "doj-corruption",
+    "count": 2
+  },
+  {
+    "name": "capitol-riot",
+    "count": 2
+  },
+  {
+    "name": "dereliction-of-duty",
     "count": 2
   },
   {
@@ -652,7 +1352,39 @@
     "count": 2
   },
   {
-    "name": "national-security",
+    "name": "bitcoin",
+    "count": 2
+  },
+  {
+    "name": "iran",
+    "count": 2
+  },
+  {
+    "name": "medical-misinformation",
+    "count": 2
+  },
+  {
+    "name": "rogan-controversy",
+    "count": 2
+  },
+  {
+    "name": "subpoena",
+    "count": 2
+  },
+  {
+    "name": "security-risk",
+    "count": 2
+  },
+  {
+    "name": "criminal-investigation",
+    "count": 2
+  },
+  {
+    "name": "fraudulent-transfers",
+    "count": 2
+  },
+  {
+    "name": "espionage-act",
     "count": 2
   },
   {
@@ -661,6 +1393,18 @@
   },
   {
     "name": "oversight-protection",
+    "count": 2
+  },
+  {
+    "name": "inspectors-general",
+    "count": 2
+  },
+  {
+    "name": "weapons-violations",
+    "count": 2
+  },
+  {
+    "name": "detention-misconduct",
     "count": 2
   },
   {
@@ -676,11 +1420,11 @@
     "count": 2
   },
   {
-    "name": "heritage-foundation",
+    "name": "investigative-journalism",
     "count": 2
   },
   {
-    "name": "government-transformation",
+    "name": "propublica",
     "count": 2
   },
   {
@@ -688,11 +1432,67 @@
     "count": 2
   },
   {
+    "name": "rfk-jr",
+    "count": 2
+  },
+  {
+    "name": "covid-19",
+    "count": 2
+  },
+  {
+    "name": "antisemitism",
+    "count": 2
+  },
+  {
+    "name": "russian-funding",
+    "count": 2
+  },
+  {
+    "name": "tenet-media",
+    "count": 2
+  },
+  {
+    "name": "influencer-payments",
+    "count": 2
+  },
+  {
+    "name": "investigation",
+    "count": 2
+  },
+  {
+    "name": "systematic-corruption",
+    "count": 2
+  },
+  {
     "name": "congressional_investigation",
     "count": 2
   },
   {
+    "name": "meta",
+    "count": 2
+  },
+  {
+    "name": "sex-trafficking",
+    "count": 2
+  },
+  {
+    "name": "media-ownership",
+    "count": 2
+  },
+  {
+    "name": "emoluments-violation",
+    "count": 2
+  },
+  {
     "name": "legislation",
+    "count": 2
+  },
+  {
+    "name": "false-claims",
+    "count": 2
+  },
+  {
+    "name": "credibility",
     "count": 2
   },
   {
@@ -708,7 +1508,7 @@
     "count": 2
   },
   {
-    "name": "surveillance",
+    "name": "tech-authoritarianism",
     "count": 2
   },
   {
@@ -716,11 +1516,11 @@
     "count": 2
   },
   {
-    "name": "political-pressure",
+    "name": "certification",
     "count": 2
   },
   {
-    "name": "certification",
+    "name": "private-prisons",
     "count": 2
   },
   {
@@ -728,19 +1528,15 @@
     "count": 2
   },
   {
+    "name": "deportation-infrastructure",
+    "count": 2
+  },
+  {
+    "name": "state-federal-partnership",
+    "count": 2
+  },
+  {
     "name": "congress",
-    "count": 2
-  },
-  {
-    "name": "judicial-independence",
-    "count": 2
-  },
-  {
-    "name": "rule-of-law",
-    "count": 2
-  },
-  {
-    "name": "economic-coercion",
     "count": 2
   },
   {
@@ -752,11 +1548,15 @@
     "count": 2
   },
   {
-    "name": "fact-checking",
+    "name": "pay-for-access",
     "count": 2
   },
   {
-    "name": "memecoin",
+    "name": "trump-coin",
+    "count": 2
+  },
+  {
+    "name": "cybersecurity",
     "count": 2
   },
   {
@@ -772,19 +1572,7 @@
     "count": 2
   },
   {
-    "name": "sec-investigation",
-    "count": 2
-  },
-  {
-    "name": "world-liberty-financial",
-    "count": 2
-  },
-  {
     "name": "national-emergency",
-    "count": 2
-  },
-  {
-    "name": "political-control",
     "count": 2
   },
   {
@@ -792,19 +1580,39 @@
     "count": 2
   },
   {
+    "name": "security-breach",
+    "count": 2
+  },
+  {
+    "name": "government-oversight",
+    "count": 2
+  },
+  {
+    "name": "fcc",
+    "count": 2
+  },
+  {
     "name": "personnel-appointments",
     "count": 2
   },
   {
-    "name": "education",
+    "name": "foreign-aid",
     "count": 2
   },
   {
-    "name": "musk",
+    "name": "presidential-access",
+    "count": 2
+  },
+  {
+    "name": "public-integrity",
     "count": 2
   },
   {
     "name": "budget-cuts",
+    "count": 2
+  },
+  {
+    "name": "treasury",
     "count": 2
   },
   {
@@ -824,7 +1632,7 @@
     "count": 2
   },
   {
-    "name": "anti-corruption",
+    "name": "agency-shutdown",
     "count": 2
   },
   {
@@ -832,15 +1640,39 @@
     "count": 2
   },
   {
-    "name": "cfpb",
+    "name": "state-department",
     "count": 2
   },
   {
-    "name": "financial-disclosure",
+    "name": "capital-one",
+    "count": 2
+  },
+  {
+    "name": "deferred-resignation",
+    "count": 2
+  },
+  {
+    "name": "independent-agencies",
+    "count": 2
+  },
+  {
+    "name": "sec",
+    "count": 2
+  },
+  {
+    "name": "consensys",
+    "count": 2
+  },
+  {
+    "name": "impossible-quotas",
     "count": 2
   },
   {
     "name": "enforcement-dropped",
+    "count": 2
+  },
+  {
+    "name": "statistical-milestone",
     "count": 2
   },
   {
@@ -849,6 +1681,14 @@
   },
   {
     "name": "sovereign-wealth",
+    "count": 2
+  },
+  {
+    "name": "mass-firings",
+    "count": 2
+  },
+  {
+    "name": "documentary",
     "count": 2
   },
   {
@@ -872,11 +1712,35 @@
     "count": 2
   },
   {
+    "name": "worker-rights",
+    "count": 2
+  },
+  {
     "name": "foia",
     "count": 2
   },
   {
-    "name": "congressional-investigation",
+    "name": "legal-extortion",
+    "count": 2
+  },
+  {
+    "name": "snap",
+    "count": 2
+  },
+  {
+    "name": "food-assistance",
+    "count": 2
+  },
+  {
+    "name": "work-requirements",
+    "count": 2
+  },
+  {
+    "name": "head-start",
+    "count": 2
+  },
+  {
+    "name": "overtime-protections",
     "count": 2
   },
   {
@@ -904,6 +1768,22 @@
     "count": 2
   },
   {
+    "name": "detention-camps",
+    "count": 2
+  },
+  {
+    "name": "gang-enforcement",
+    "count": 2
+  },
+  {
+    "name": "criminal-aliens",
+    "count": 2
+  },
+  {
+    "name": "100-days",
+    "count": 2
+  },
+  {
     "name": "felony-charges",
     "count": 2
   },
@@ -912,7 +1792,15 @@
     "count": 2
   },
   {
-    "name": "irs",
+    "name": "federal-layoffs",
+    "count": 2
+  },
+  {
+    "name": "foreign-gifts",
+    "count": 2
+  },
+  {
+    "name": "air-force-one",
     "count": 2
   },
   {
@@ -920,7 +1808,15 @@
     "count": 2
   },
   {
-    "name": "visas",
+    "name": "arrest-quotas",
+    "count": 2
+  },
+  {
+    "name": "Stephen-Miller",
+    "count": 2
+  },
+  {
+    "name": "Kristi-Noem",
     "count": 2
   },
   {
@@ -937,6 +1833,10 @@
   },
   {
     "name": "los-angeles",
+    "count": 2
+  },
+  {
+    "name": "police-violence",
     "count": 2
   },
   {
@@ -960,11 +1860,31 @@
     "count": 2
   },
   {
+    "name": "sensitive-locations",
+    "count": 2
+  },
+  {
+    "name": "policy-reversal",
+    "count": 2
+  },
+  {
+    "name": "sanctuary-violations",
+    "count": 2
+  },
+  {
     "name": "funding",
     "count": 2
   },
   {
-    "name": "electoral-manipulation",
+    "name": "judicial-intervention",
+    "count": 2
+  },
+  {
+    "name": "court-ruling",
+    "count": 2
+  },
+  {
+    "name": "states",
     "count": 2
   },
   {
@@ -976,7 +1896,11 @@
     "count": 2
   },
   {
-    "name": "gsa",
+    "name": "quorum-break",
+    "count": 2
+  },
+  {
+    "name": "judicial-authority",
     "count": 2
   },
   {
@@ -988,7 +1912,7 @@
     "count": 2
   },
   {
-    "name": "media-consolidation",
+    "name": "ice-detention",
     "count": 2
   },
   {
@@ -1000,7 +1924,23 @@
     "count": 2
   },
   {
-    "name": "court-defiance",
+    "name": "dc-takeover",
+    "count": 2
+  },
+  {
+    "name": "crisis-exploitation",
+    "count": 2
+  },
+  {
+    "name": "trade-war",
+    "count": 2
+  },
+  {
+    "name": "weaponize-rules",
+    "count": 2
+  },
+  {
+    "name": "police-state",
     "count": 2
   },
   {
@@ -1010,6 +1950,86 @@
   {
     "name": "federal-deployment",
     "count": 2
+  },
+  {
+    "name": "monopoly-power",
+    "count": 2
+  },
+  {
+    "name": "economic-policy",
+    "count": 2
+  },
+  {
+    "name": "william-pulte",
+    "count": 2
+  },
+  {
+    "name": "lisa-cook",
+    "count": 2
+  },
+  {
+    "name": "fhfa",
+    "count": 2
+  },
+  {
+    "name": "mortgage-fraud",
+    "count": 2
+  },
+  {
+    "name": "political-targeting",
+    "count": 2
+  },
+  {
+    "name": "financial-surveillance",
+    "count": 2
+  },
+  {
+    "name": "racial-targeting",
+    "count": 2
+  },
+  {
+    "name": "neutralize-referees",
+    "count": 2
+  },
+  {
+    "name": "social-security",
+    "count": 2
+  },
+  {
+    "name": "media-planning",
+    "count": 1
+  },
+  {
+    "name": "nixon-administration",
+    "count": 1
+  },
+  {
+    "name": "gop-tv",
+    "count": 1
+  },
+  {
+    "name": "powell-memo",
+    "count": 1
+  },
+  {
+    "name": "corporate-strategy",
+    "count": 1
+  },
+  {
+    "name": "business-blueprint",
+    "count": 1
+  },
+  {
+    "name": "democracy-capture",
+    "count": 1
+  },
+  {
+    "name": "supreme-court-nomination",
+    "count": 1
+  },
+  {
+    "name": "corporate-judicial-strategy",
+    "count": 1
   },
   {
     "name": "cia_wall_street",
@@ -1040,27 +2060,79 @@
     "count": 1
   },
   {
-    "name": "corporate_espionage",
+    "name": "corporate-collusion",
     "count": 1
   },
   {
-    "name": "tobacco_industry",
+    "name": "influence-operations",
     "count": 1
   },
   {
-    "name": "international_operations",
+    "name": "intelligence-restructuring",
     "count": 1
   },
   {
-    "name": "cia-purge",
+    "name": "covert-operations",
     "count": 1
   },
   {
-    "name": "political-operations",
+    "name": "corporate-speech-rights",
+    "count": 1
+  },
+  {
+    "name": "bellotti-decision",
+    "count": 1
+  },
+  {
+    "name": "corporate-personhood",
     "count": 1
   },
   {
     "name": "torturers-lobby",
+    "count": 1
+  },
+  {
+    "name": "mossad-allegations",
+    "count": 1
+  },
+  {
+    "name": "honey-trap",
+    "count": 1
+  },
+  {
+    "name": "intelligence-operation",
+    "count": 1
+  },
+  {
+    "name": "blackmail-infrastructure",
+    "count": 1
+  },
+  {
+    "name": "commercial-speech-rights",
+    "count": 1
+  },
+  {
+    "name": "central-hudson-test",
+    "count": 1
+  },
+  {
+    "name": "corporate-advertising-rights",
+    "count": 1
+  },
+  {
+    "name": "utility-regulation",
+    "count": 1
+  },
+  {
+    "name": "first-amendment-expansion",
+    "count": 1
+  },
+  {
+    "name": "financial-misconduct",
+    "count": 1
+  },
+  {
+    "name": "bear-stearns",
     "count": 1
   },
   {
@@ -1076,11 +2148,127 @@
     "count": 1
   },
   {
+    "name": "career-launch",
+    "count": 1
+  },
+  {
+    "name": "rapid-rise",
+    "count": 1
+  },
+  {
+    "name": "financial-infrastructure",
+    "count": 1
+  },
+  {
+    "name": "wexner-connection",
+    "count": 1
+  },
+  {
+    "name": "power-of-attorney",
+    "count": 1
+  },
+  {
+    "name": "mega-group",
+    "count": 1
+  },
+  {
+    "name": "kompromat-funding",
+    "count": 1
+  },
+  {
+    "name": "business-formation",
+    "count": 1
+  },
+  {
+    "name": "mysterious-funding",
+    "count": 1
+  },
+  {
     "name": "flight-logs",
     "count": 1
   },
   {
     "name": "social-ties",
+    "count": 1
+  },
+  {
+    "name": "law-enforcement-failure",
+    "count": 1
+  },
+  {
+    "name": "fbi-coverup",
+    "count": 1
+  },
+  {
+    "name": "victim-ignored",
+    "count": 1
+  },
+  {
+    "name": "systemic-failure",
+    "count": 1
+  },
+  {
+    "name": "fox-news",
+    "count": 1
+  },
+  {
+    "name": "media-launch",
+    "count": 1
+  },
+  {
+    "name": "murdoch-empire",
+    "count": 1
+  },
+  {
+    "name": "cable-news",
+    "count": 1
+  },
+  {
+    "name": "murder",
+    "count": 1
+  },
+  {
+    "name": "organized-crime",
+    "count": 1
+  },
+  {
+    "name": "unsolved-crime",
+    "count": 1
+  },
+  {
+    "name": "control-tactics",
+    "count": 1
+  },
+  {
+    "name": "criminal-case",
+    "count": 1
+  },
+  {
+    "name": "shooting",
+    "count": 1
+  },
+  {
+    "name": "nightclub",
+    "count": 1
+  },
+  {
+    "name": "witness-tampering",
+    "count": 1
+  },
+  {
+    "name": "ron-burkle",
+    "count": 1
+  },
+  {
+    "name": "bill-clinton",
+    "count": 1
+  },
+  {
+    "name": "business-partnership",
+    "count": 1
+  },
+  {
+    "name": "billionaire-network",
     "count": 1
   },
   {
@@ -1096,11 +2284,47 @@
     "count": 1
   },
   {
+    "name": "intimidation-tactics",
+    "count": 1
+  },
+  {
+    "name": "vanity-fair",
+    "count": 1
+  },
+  {
     "name": "corporate_acquisition",
     "count": 1
   },
   {
-    "name": "russian-connections",
+    "name": "law-enforcement-investigation",
+    "count": 1
+  },
+  {
+    "name": "palm-beach-police",
+    "count": 1
+  },
+  {
+    "name": "epstein-investigation",
+    "count": 1
+  },
+  {
+    "name": "sexual-exploitation",
+    "count": 1
+  },
+  {
+    "name": "model",
+    "count": 1
+  },
+  {
+    "name": "acosta-admission",
+    "count": 1
+  },
+  {
+    "name": "above-paygrade",
+    "count": 1
+  },
+  {
+    "name": "sweetheart-deal",
     "count": 1
   },
   {
@@ -1120,6 +2344,10 @@
     "count": 1
   },
   {
+    "name": "manhattan",
+    "count": 1
+  },
+  {
     "name": "money_laundering",
     "count": 1
   },
@@ -1136,6 +2364,34 @@
     "count": 1
   },
   {
+    "name": "education-payments",
+    "count": 1
+  },
+  {
+    "name": "anti-democracy",
+    "count": 1
+  },
+  {
+    "name": "libertarianism",
+    "count": 1
+  },
+  {
+    "name": "cato-institute",
+    "count": 1
+  },
+  {
+    "name": "political-philosophy",
+    "count": 1
+  },
+  {
+    "name": "tech-billionaires",
+    "count": 1
+  },
+  {
+    "name": "new-right",
+    "count": 1
+  },
+  {
     "name": "russian-organized-crime",
     "count": 1
   },
@@ -1148,11 +2404,7 @@
     "count": 1
   },
   {
-    "name": "russian-spy-ring",
-    "count": 1
-  },
-  {
-    "name": "intelligence-operations",
+    "name": "corporate-power",
     "count": 1
   },
   {
@@ -1160,7 +2412,39 @@
     "count": 1
   },
   {
+    "name": "tevfik-arif",
+    "count": 1
+  },
+  {
+    "name": "trump-soho",
+    "count": 1
+  },
+  {
+    "name": "kazakhstan-oligarchs",
+    "count": 1
+  },
+  {
+    "name": "savarona-yacht",
+    "count": 1
+  },
+  {
+    "name": "turkey",
+    "count": 1
+  },
+  {
+    "name": "yale-law-school",
+    "count": 1
+  },
+  {
+    "name": "intelligence-privatization",
+    "count": 1
+  },
+  {
     "name": "snowden-revelations",
+    "count": 1
+  },
+  {
+    "name": "shadow-governance",
     "count": 1
   },
   {
@@ -1176,11 +2460,103 @@
     "count": 1
   },
   {
+    "name": "data-harvesting",
+    "count": 1
+  },
+  {
+    "name": "racial-justice",
+    "count": 1
+  },
+  {
+    "name": "oann",
+    "count": 1
+  },
+  {
+    "name": "att",
+    "count": 1
+  },
+  {
+    "name": "carriage-fees",
+    "count": 1
+  },
+  {
+    "name": "media-economics",
+    "count": 1
+  },
+  {
+    "name": "security-avoidance",
+    "count": 1
+  },
+  {
     "name": "fsb",
     "count": 1
   },
   {
+    "name": "golf-courses",
+    "count": 1
+  },
+  {
+    "name": "paul-singer",
+    "count": 1
+  },
+  {
+    "name": "argentina-debt",
+    "count": 1
+  },
+  {
+    "name": "undisclosed-transactions",
+    "count": 1
+  },
+  {
+    "name": "abc-news-coverup",
+    "count": 1
+  },
+  {
+    "name": "prince-andrew",
+    "count": 1
+  },
+  {
+    "name": "trafficking-network",
+    "count": 1
+  },
+  {
+    "name": "billionaire-funding",
+    "count": 1
+  },
+  {
     "name": "trump_tower_moscow",
+    "count": 1
+  },
+  {
+    "name": "mithril-capital",
+    "count": 1
+  },
+  {
+    "name": "manafort",
+    "count": 1
+  },
+  {
+    "name": "kilimnik",
+    "count": 1
+  },
+  {
+    "name": "polling-data",
+    "count": 1
+  },
+  {
+    "name": "foreign-collusion",
+    "count": 1
+  },
+  {
+    "name": "henry-greenberg",
+    "count": 1
+  },
+  {
+    "name": "michael-caputo",
+    "count": 1
+  },
+  {
+    "name": "clinton-dirt",
     "count": 1
   },
   {
@@ -1193,6 +2569,42 @@
   },
   {
     "name": "russian_collusion",
+    "count": 1
+  },
+  {
+    "name": "black-cube",
+    "count": 1
+  },
+  {
+    "name": "weinstein",
+    "count": 1
+  },
+  {
+    "name": "mcgowan",
+    "count": 1
+  },
+  {
+    "name": "private-intelligence",
+    "count": 1
+  },
+  {
+    "name": "false-identities",
+    "count": 1
+  },
+  {
+    "name": "rnc-convention",
+    "count": 1
+  },
+  {
+    "name": "political-alignment",
+    "count": 1
+  },
+  {
+    "name": "mcdougal-payment",
+    "count": 1
+  },
+  {
+    "name": "kompromat-suppression",
     "count": 1
   },
   {
@@ -1216,6 +2628,26 @@
     "count": 1
   },
   {
+    "name": "delaware-llc",
+    "count": 1
+  },
+  {
+    "name": "kompromat-infrastructure",
+    "count": 1
+  },
+  {
+    "name": "kompromat-payment",
+    "count": 1
+  },
+  {
+    "name": "document-destruction",
+    "count": 1
+  },
+  {
+    "name": "pre-election-panic",
+    "count": 1
+  },
+  {
     "name": "russian-banking",
     "count": 1
   },
@@ -1225,6 +2657,14 @@
   },
   {
     "name": "fsb-connections",
+    "count": 1
+  },
+  {
+    "name": "oligarch-payments",
+    "count": 1
+  },
+  {
+    "name": "influence-peddling",
     "count": 1
   },
   {
@@ -1245,6 +2685,14 @@
   },
   {
     "name": "critical-infrastructure",
+    "count": 1
+  },
+  {
+    "name": "document-removal",
+    "count": 1
+  },
+  {
+    "name": "kompromat-destruction",
     "count": 1
   },
   {
@@ -1280,11 +2728,43 @@
     "count": 1
   },
   {
+    "name": "public-spending",
+    "count": 1
+  },
+  {
+    "name": "deutsche-bank",
+    "count": 1
+  },
+  {
+    "name": "mirror-trades",
+    "count": 1
+  },
+  {
+    "name": "financial-crime",
+    "count": 1
+  },
+  {
     "name": "two-for-one-rule",
     "count": 1
   },
   {
     "name": "regulatory-costs",
+    "count": 1
+  },
+  {
+    "name": "sunny-isles-beach",
+    "count": 1
+  },
+  {
+    "name": "lease",
+    "count": 1
+  },
+  {
+    "name": "disclosure-failures",
+    "count": 1
+  },
+  {
+    "name": "confirmation-timing",
     "count": 1
   },
   {
@@ -1312,6 +2792,50 @@
     "count": 1
   },
   {
+    "name": "platform-weaponization",
+    "count": 1
+  },
+  {
+    "name": "vivek-ramaswamy",
+    "count": 1
+  },
+  {
+    "name": "financial-fraud",
+    "count": 1
+  },
+  {
+    "name": "axovant",
+    "count": 1
+  },
+  {
+    "name": "roivant",
+    "count": 1
+  },
+  {
+    "name": "pharmaceutical",
+    "count": 1
+  },
+  {
+    "name": "investor-fraud",
+    "count": 1
+  },
+  {
+    "name": "private-jets",
+    "count": 1
+  },
+  {
+    "name": "resignation",
+    "count": 1
+  },
+  {
+    "name": "scandal",
+    "count": 1
+  },
+  {
+    "name": "republican-conference",
+    "count": 1
+  },
+  {
     "name": "contracting-fraud",
     "count": 1
   },
@@ -1321,18 +2845,6 @@
   },
   {
     "name": "favoritism",
-    "count": 1
-  },
-  {
-    "name": "apple",
-    "count": 1
-  },
-  {
-    "name": "russia",
-    "count": 1
-  },
-  {
-    "name": "fbi-informant",
     "count": 1
   },
   {
@@ -1360,15 +2872,23 @@
     "count": 1
   },
   {
-    "name": "trump-organization",
+    "name": "synchronized-propaganda",
+    "count": 1
+  },
+  {
+    "name": "fake-news",
+    "count": 1
+  },
+  {
+    "name": "zuckerberg",
+    "count": 1
+  },
+  {
+    "name": "accountability-failure",
     "count": 1
   },
   {
     "name": "argentina",
-    "count": 1
-  },
-  {
-    "name": "qatar",
     "count": 1
   },
   {
@@ -1380,7 +2900,7 @@
     "count": 1
   },
   {
-    "name": "trademarks",
+    "name": "khashoggi-murder",
     "count": 1
   },
   {
@@ -1388,11 +2908,79 @@
     "count": 1
   },
   {
-    "name": "witness-intimidation",
+    "name": "public-lands",
     "count": 1
   },
   {
-    "name": "witness-elimination",
+    "name": "hidden-detention",
+    "count": 1
+  },
+  {
+    "name": "government-deception",
+    "count": 1
+  },
+  {
+    "name": "misuse-of-resources",
+    "count": 1
+  },
+  {
+    "name": "state-aircraft",
+    "count": 1
+  },
+  {
+    "name": "narya-capital",
+    "count": 1
+  },
+  {
+    "name": "political-finance",
+    "count": 1
+  },
+  {
+    "name": "midwest-investment",
+    "count": 1
+  },
+  {
+    "name": "merger-review",
+    "count": 1
+  },
+  {
+    "name": "oil-and-gas",
+    "count": 1
+  },
+  {
+    "name": "mueller-investigation",
+    "count": 1
+  },
+  {
+    "name": "election-2016",
+    "count": 1
+  },
+  {
+    "name": "shipping-industry",
+    "count": 1
+  },
+  {
+    "name": "abuse-of-office",
+    "count": 1
+  },
+  {
+    "name": "family-enrichment",
+    "count": 1
+  },
+  {
+    "name": "transportation-department",
+    "count": 1
+  },
+  {
+    "name": "census",
+    "count": 1
+  },
+  {
+    "name": "yacht-trips",
+    "count": 1
+  },
+  {
+    "name": "international-travel",
     "count": 1
   },
   {
@@ -1400,11 +2988,39 @@
     "count": 1
   },
   {
-    "name": "mass-deportation",
+    "name": "labor-exploitation",
     "count": 1
   },
   {
-    "name": "labor-exploitation",
+    "name": "prison-negligence",
+    "count": 1
+  },
+  {
+    "name": "suspicious-timing",
+    "count": 1
+  },
+  {
+    "name": "suicide-ruling",
+    "count": 1
+  },
+  {
+    "name": "prison-death",
+    "count": 1
+  },
+  {
+    "name": "suspicious-circumstances",
+    "count": 1
+  },
+  {
+    "name": "doral",
+    "count": 1
+  },
+  {
+    "name": "g7-summit",
+    "count": 1
+  },
+  {
+    "name": "domestic-emoluments",
     "count": 1
   },
   {
@@ -1420,15 +3036,59 @@
     "count": 1
   },
   {
-    "name": "hidden-detention",
+    "name": "academic-corruption",
     "count": 1
   },
   {
-    "name": "government-deception",
+    "name": "donation-concealment",
     "count": 1
   },
   {
-    "name": "detention-expansion",
+    "name": "institutional-cover-up",
+    "count": 1
+  },
+  {
+    "name": "reputation-laundering",
+    "count": 1
+  },
+  {
+    "name": "research-funding",
+    "count": 1
+  },
+  {
+    "name": "travel-spending",
+    "count": 1
+  },
+  {
+    "name": "foreign-intelligence",
+    "count": 1
+  },
+  {
+    "name": "shadow-detention",
+    "count": 1
+  },
+  {
+    "name": "title-42",
+    "count": 1
+  },
+  {
+    "name": "hotel-jails",
+    "count": 1
+  },
+  {
+    "name": "podcast-monopoly",
+    "count": 1
+  },
+  {
+    "name": "spotify-deal",
+    "count": 1
+  },
+  {
+    "name": "financial-capture",
+    "count": 1
+  },
+  {
+    "name": "exclusive-content",
     "count": 1
   },
   {
@@ -1436,11 +3096,87 @@
     "count": 1
   },
   {
-    "name": "child-detention",
+    "name": "banking-violations",
     "count": 1
   },
   {
-    "name": "information-warfare",
+    "name": "regulatory-failure",
+    "count": 1
+  },
+  {
+    "name": "co-conspirator-payments",
+    "count": 1
+  },
+  {
+    "name": "victim-payments",
+    "count": 1
+  },
+  {
+    "name": "postal-service",
+    "count": 1
+  },
+  {
+    "name": "election-operations",
+    "count": 1
+  },
+  {
+    "name": "administrative-changes",
+    "count": 1
+  },
+  {
+    "name": "banking",
+    "count": 1
+  },
+  {
+    "name": "internal-communications",
+    "count": 1
+  },
+  {
+    "name": "2020-election",
+    "count": 1
+  },
+  {
+    "name": "conscious-fraud",
+    "count": 1
+  },
+  {
+    "name": "rudy-giuliani",
+    "count": 1
+  },
+  {
+    "name": "rusty-bowers",
+    "count": 1
+  },
+  {
+    "name": "arizona",
+    "count": 1
+  },
+  {
+    "name": "admission",
+    "count": 1
+  },
+  {
+    "name": "joe-biden",
+    "count": 1
+  },
+  {
+    "name": "election-2020",
+    "count": 1
+  },
+  {
+    "name": "private-admission",
+    "count": 1
+  },
+  {
+    "name": "consciousness-of-guilt",
+    "count": 1
+  },
+  {
+    "name": "jeffrey-rosen",
+    "count": 1
+  },
+  {
+    "name": "richard-donoghue",
     "count": 1
   },
   {
@@ -1460,6 +3196,30 @@
     "count": 1
   },
   {
+    "name": "jeffrey-clark",
+    "count": 1
+  },
+  {
+    "name": "scott-perry",
+    "count": 1
+  },
+  {
+    "name": "signal-messages",
+    "count": 1
+  },
+  {
+    "name": "mike-pence",
+    "count": 1
+  },
+  {
+    "name": "fbi-forensics",
+    "count": 1
+  },
+  {
+    "name": "iphone-evidence",
+    "count": 1
+  },
+  {
     "name": "judicial_dismissal",
     "count": 1
   },
@@ -1468,11 +3228,107 @@
     "count": 1
   },
   {
+    "name": "age-discrimination",
+    "count": 1
+  },
+  {
     "name": "trump-statements",
     "count": 1
   },
   {
     "name": "crypto-evolution",
+    "count": 1
+  },
+  {
+    "name": "bedminster",
+    "count": 1
+  },
+  {
+    "name": "ivermectin",
+    "count": 1
+  },
+  {
+    "name": "chinese-connections",
+    "count": 1
+  },
+  {
+    "name": "federal-investigation",
+    "count": 1
+  },
+  {
+    "name": "vaccine-disinformation",
+    "count": 1
+  },
+  {
+    "name": "mass-formation-psychosis",
+    "count": 1
+  },
+  {
+    "name": "nazi-comparison",
+    "count": 1
+  },
+  {
+    "name": "national-archives",
+    "count": 1
+  },
+  {
+    "name": "presidential-records",
+    "count": 1
+  },
+  {
+    "name": "spotify-protest",
+    "count": 1
+  },
+  {
+    "name": "neil-young",
+    "count": 1
+  },
+  {
+    "name": "artist-resistance",
+    "count": 1
+  },
+  {
+    "name": "platform-accountability",
+    "count": 1
+  },
+  {
+    "name": "ohio-senate",
+    "count": 1
+  },
+  {
+    "name": "super-pac",
+    "count": 1
+  },
+  {
+    "name": "protect-ohio-values",
+    "count": 1
+  },
+  {
+    "name": "political-investment",
+    "count": 1
+  },
+  {
+    "name": "nonprofit-law",
+    "count": 1
+  },
+  {
+    "name": "hotel",
+    "count": 1
+  },
+  {
+    "name": "grand-jury",
+    "count": 1
+  },
+  {
+    "name": "cybercrime",
+    "count": 1
+  },
+  {
+    "name": "corporate-espionage",
+    "count": 1
+  },
+  {
+    "name": "false-statements",
     "count": 1
   },
   {
@@ -1496,6 +3352,26 @@
     "count": 1
   },
   {
+    "name": "surveillance-footage",
+    "count": 1
+  },
+  {
+    "name": "criminal-conspiracy",
+    "count": 1
+  },
+  {
+    "name": "tax-fraud",
+    "count": 1
+  },
+  {
+    "name": "drake-ventures",
+    "count": 1
+  },
+  {
+    "name": "asset-concealment",
+    "count": 1
+  },
+  {
     "name": "federal_records_act",
     "count": 1
   },
@@ -1516,11 +3392,15 @@
     "count": 1
   },
   {
-    "name": "fraudulent-transfers",
+    "name": "fbi-investigation",
     "count": 1
   },
   {
     "name": "putin-contact",
+    "count": 1
+  },
+  {
+    "name": "must-run-segments",
     "count": 1
   },
   {
@@ -1548,10 +3428,6 @@
     "count": 1
   },
   {
-    "name": "inspectors-general",
-    "count": 1
-  },
-  {
     "name": "bipartisan-legislation",
     "count": 1
   },
@@ -1565,6 +3441,46 @@
   },
   {
     "name": "conservative-blueprint",
+    "count": 1
+  },
+  {
+    "name": "government-transformation",
+    "count": 1
+  },
+  {
+    "name": "judicial-ethics",
+    "count": 1
+  },
+  {
+    "name": "disclosures",
+    "count": 1
+  },
+  {
+    "name": "ethics-scandal",
+    "count": 1
+  },
+  {
+    "name": "tucker-carlson",
+    "count": 1
+  },
+  {
+    "name": "twitter-x",
+    "count": 1
+  },
+  {
+    "name": "platform-migration",
+    "count": 1
+  },
+  {
+    "name": "media-independence",
+    "count": 1
+  },
+  {
+    "name": "fox-departure",
+    "count": 1
+  },
+  {
+    "name": "ideological-commitment",
     "count": 1
   },
   {
@@ -1588,6 +3504,26 @@
     "count": 1
   },
   {
+    "name": "section-2",
+    "count": 1
+  },
+  {
+    "name": "criminal-indictment",
+    "count": 1
+  },
+  {
+    "name": "alito-scandal",
+    "count": 1
+  },
+  {
+    "name": "immunity-deals",
+    "count": 1
+  },
+  {
+    "name": "witness-testimony",
+    "count": 1
+  },
+  {
     "name": "independent_state_legislature",
     "count": 1
   },
@@ -1600,7 +3536,47 @@
     "count": 1
   },
   {
+    "name": "conspiracy-theory",
+    "count": 1
+  },
+  {
+    "name": "bioweapon",
+    "count": 1
+  },
+  {
+    "name": "racism",
+    "count": 1
+  },
+  {
     "name": "political-ads",
+    "count": 1
+  },
+  {
+    "name": "covert-operation",
+    "count": 1
+  },
+  {
+    "name": "ethics-crisis",
+    "count": 1
+  },
+  {
+    "name": "gift-disclosure",
+    "count": 1
+  },
+  {
+    "name": "investigation-findings",
+    "count": 1
+  },
+  {
+    "name": "koch-network",
+    "count": 1
+  },
+  {
+    "name": "political-coordination",
+    "count": 1
+  },
+  {
+    "name": "donor-summits",
     "count": 1
   },
   {
@@ -1609,6 +3585,26 @@
   },
   {
     "name": "financial_corruption",
+    "count": 1
+  },
+  {
+    "name": "spotify-renewal",
+    "count": 1
+  },
+  {
+    "name": "podcast-deals",
+    "count": 1
+  },
+  {
+    "name": "rogan-contract",
+    "count": 1
+  },
+  {
+    "name": "platform-strategy",
+    "count": 1
+  },
+  {
+    "name": "content-distribution",
     "count": 1
   },
   {
@@ -1644,6 +3640,14 @@
     "count": 1
   },
   {
+    "name": "raid",
+    "count": 1
+  },
+  {
+    "name": "recording-equipment",
+    "count": 1
+  },
+  {
     "name": "appeals",
     "count": 1
   },
@@ -1652,11 +3656,47 @@
     "count": 1
   },
   {
+    "name": "stock-market",
+    "count": 1
+  },
+  {
+    "name": "djt-ticker",
+    "count": 1
+  },
+  {
+    "name": "presidential-conflicts",
+    "count": 1
+  },
+  {
     "name": "pfas",
     "count": 1
   },
   {
     "name": "cercla",
+    "count": 1
+  },
+  {
+    "name": "animal-cruelty",
+    "count": 1
+  },
+  {
+    "name": "political-scandal",
+    "count": 1
+  },
+  {
+    "name": "vp-prospects",
+    "count": 1
+  },
+  {
+    "name": "kim-jong-un",
+    "count": 1
+  },
+  {
+    "name": "emmanuel-macron",
+    "count": 1
+  },
+  {
+    "name": "france",
     "count": 1
   },
   {
@@ -1673,10 +3713,6 @@
   },
   {
     "name": "jawboning",
-    "count": 1
-  },
-  {
-    "name": "covid-19",
     "count": 1
   },
   {
@@ -1720,6 +3756,18 @@
     "count": 1
   },
   {
+    "name": "chevron-deference",
+    "count": 1
+  },
+  {
+    "name": "koch-influence",
+    "count": 1
+  },
+  {
+    "name": "administrative-state",
+    "count": 1
+  },
+  {
     "name": "chevron",
     "count": 1
   },
@@ -1744,11 +3792,63 @@
     "count": 1
   },
   {
+    "name": "aileen-cannon",
+    "count": 1
+  },
+  {
+    "name": "trump-appointed-judge",
+    "count": 1
+  },
+  {
+    "name": "vp-selection",
+    "count": 1
+  },
+  {
+    "name": "republican-convention",
+    "count": 1
+  },
+  {
+    "name": "political-culmination",
+    "count": 1
+  },
+  {
     "name": "campaign-strategy",
     "count": 1
   },
   {
     "name": "political-distancing",
+    "count": 1
+  },
+  {
+    "name": "doj-indictment",
+    "count": 1
+  },
+  {
+    "name": "podcast-ecosystem",
+    "count": 1
+  },
+  {
+    "name": "defamation-settlement",
+    "count": 1
+  },
+  {
+    "name": "smartmatic",
+    "count": 1
+  },
+  {
+    "name": "financial-consequences",
+    "count": 1
+  },
+  {
+    "name": "racketeering",
+    "count": 1
+  },
+  {
+    "name": "federal-charges",
+    "count": 1
+  },
+  {
+    "name": "criminal-enterprise",
     "count": 1
   },
   {
@@ -1773,6 +3873,26 @@
   },
   {
     "name": "musk-statements",
+    "count": 1
+  },
+  {
+    "name": "political-pressure",
+    "count": 1
+  },
+  {
+    "name": "linda-mcmahon",
+    "count": 1
+  },
+  {
+    "name": "wwe",
+    "count": 1
+  },
+  {
+    "name": "sexual-abuse",
+    "count": 1
+  },
+  {
+    "name": "education-secretary",
     "count": 1
   },
   {
@@ -1816,6 +3936,22 @@
     "count": 1
   },
   {
+    "name": "detention-profiteering",
+    "count": 1
+  },
+  {
+    "name": "political-endorsement",
+    "count": 1
+  },
+  {
+    "name": "trump-endorsement",
+    "count": 1
+  },
+  {
+    "name": "election-eve",
+    "count": 1
+  },
+  {
     "name": "project_2025",
     "count": 1
   },
@@ -1825,6 +3961,14 @@
   },
   {
     "name": "donor_advised_funds",
+    "count": 1
+  },
+  {
+    "name": "land-appropriation",
+    "count": 1
+  },
+  {
+    "name": "mass-deportation-planning",
     "count": 1
   },
   {
@@ -1892,11 +4036,39 @@
     "count": 1
   },
   {
-    "name": "trump-coin",
+    "name": "fact-checking-ended",
     "count": 1
   },
   {
-    "name": "pump-and-dump",
+    "name": "political-capitulation",
+    "count": 1
+  },
+  {
+    "name": "misinformation-enabled",
+    "count": 1
+  },
+  {
+    "name": "democracy-threat",
+    "count": 1
+  },
+  {
+    "name": "doj-obstruction",
+    "count": 1
+  },
+  {
+    "name": "bondi-deception",
+    "count": 1
+  },
+  {
+    "name": "final-report",
+    "count": 1
+  },
+  {
+    "name": "trump-crimes",
+    "count": 1
+  },
+  {
+    "name": "presidential-enrichment",
     "count": 1
   },
   {
@@ -1964,6 +4136,10 @@
     "count": 1
   },
   {
+    "name": "security-clearance",
+    "count": 1
+  },
+  {
     "name": "government-efficiency",
     "count": 1
   },
@@ -1972,19 +4148,19 @@
     "count": 1
   },
   {
-    "name": "kleptocracy-patterns",
-    "count": 1
-  },
-  {
-    "name": "political-appointees",
-    "count": 1
-  },
-  {
-    "name": "revolving-door",
-    "count": 1
-  },
-  {
     "name": "shadow-lobbying",
+    "count": 1
+  },
+  {
+    "name": "howard-lutnick",
+    "count": 1
+  },
+  {
+    "name": "tether",
+    "count": 1
+  },
+  {
+    "name": "commerce-department",
     "count": 1
   },
   {
@@ -1997,14 +4173,6 @@
   },
   {
     "name": "chinese-influence",
-    "count": 1
-  },
-  {
-    "name": "emoluments-violation",
-    "count": 1
-  },
-  {
-    "name": "trump-memecoin",
     "count": 1
   },
   {
@@ -2060,23 +4228,47 @@
     "count": 1
   },
   {
+    "name": "anti-vaccine",
+    "count": 1
+  },
+  {
+    "name": "biotech-investments",
+    "count": 1
+  },
+  {
+    "name": "scientific-denial",
+    "count": 1
+  },
+  {
+    "name": "susie-wiles",
+    "count": 1
+  },
+  {
+    "name": "chief-of-staff",
+    "count": 1
+  },
+  {
+    "name": "corporate-lobbying",
+    "count": 1
+  },
+  {
+    "name": "tobacco-industry",
+    "count": 1
+  },
+  {
+    "name": "mining-industry",
+    "count": 1
+  },
+  {
+    "name": "radioactive-waste",
+    "count": 1
+  },
+  {
     "name": "ice-enforcement",
     "count": 1
   },
   {
     "name": "protected-areas",
-    "count": 1
-  },
-  {
-    "name": "schools",
-    "count": 1
-  },
-  {
-    "name": "hospitals",
-    "count": 1
-  },
-  {
-    "name": "churches",
     "count": 1
   },
   {
@@ -2092,10 +4284,6 @@
     "count": 1
   },
   {
-    "name": "donor-influence",
-    "count": 1
-  },
-  {
     "name": "political-loyalty",
     "count": 1
   },
@@ -2108,11 +4296,99 @@
     "count": 1
   },
   {
+    "name": "kleptocapture",
+    "count": 1
+  },
+  {
+    "name": "russian-assets",
+    "count": 1
+  },
+  {
+    "name": "kelly-loeffler",
+    "count": 1
+  },
+  {
+    "name": "sba",
+    "count": 1
+  },
+  {
+    "name": "covid-profiteering",
+    "count": 1
+  },
+  {
+    "name": "billionaire-appointee",
+    "count": 1
+  },
+  {
+    "name": "ice-holdings",
+    "count": 1
+  },
+  {
+    "name": "doug-burgum",
+    "count": 1
+  },
+  {
+    "name": "oil-gas-leases",
+    "count": 1
+  },
+  {
+    "name": "continental-resources",
+    "count": 1
+  },
+  {
+    "name": "opportunity-zones",
+    "count": 1
+  },
+  {
+    "name": "federal-lands",
+    "count": 1
+  },
+  {
+    "name": "defense-secretary",
+    "count": 1
+  },
+  {
+    "name": "confirmation",
+    "count": 1
+  },
+  {
+    "name": "tiebreaker-vote",
+    "count": 1
+  },
+  {
+    "name": "cabinet",
+    "count": 1
+  },
+  {
     "name": "legal-violations",
     "count": 1
   },
   {
     "name": "bipartisan-opposition",
+    "count": 1
+  },
+  {
+    "name": "michael-waltz",
+    "count": 1
+  },
+  {
+    "name": "metis-solutions",
+    "count": 1
+  },
+  {
+    "name": "war-profiteering",
+    "count": 1
+  },
+  {
+    "name": "defense-contractors",
+    "count": 1
+  },
+  {
+    "name": "afghanistan",
+    "count": 1
+  },
+  {
+    "name": "signal-chat",
     "count": 1
   },
   {
@@ -2124,7 +4400,15 @@
     "count": 1
   },
   {
-    "name": "fcc",
+    "name": "musk-investigations",
+    "count": 1
+  },
+  {
+    "name": "oversight-destruction",
+    "count": 1
+  },
+  {
+    "name": "authoritarian",
     "count": 1
   },
   {
@@ -2156,11 +4440,43 @@
     "count": 1
   },
   {
+    "name": "rod-blagojevich",
+    "count": 1
+  },
+  {
+    "name": "clemency",
+    "count": 1
+  },
+  {
+    "name": "tulsi-gabbard",
+    "count": 1
+  },
+  {
+    "name": "assad",
+    "count": 1
+  },
+  {
+    "name": "dni",
+    "count": 1
+  },
+  {
+    "name": "intelligence-community",
+    "count": 1
+  },
+  {
+    "name": "syria",
+    "count": 1
+  },
+  {
     "name": "friday-night-massacre",
     "count": 1
   },
   {
-    "name": "interior-department",
+    "name": "usaid",
+    "count": 1
+  },
+  {
+    "name": "retaliation",
     "count": 1
   },
   {
@@ -2188,7 +4504,35 @@
     "count": 1
   },
   {
+    "name": "doug-collins",
+    "count": 1
+  },
+  {
+    "name": "veterans-affairs",
+    "count": 1
+  },
+  {
+    "name": "va-cuts",
+    "count": 1
+  },
+  {
+    "name": "healthcare-cuts",
+    "count": 1
+  },
+  {
+    "name": "veteran-services",
+    "count": 1
+  },
+  {
+    "name": "institutional-dismantling",
+    "count": 1
+  },
+  {
     "name": "civil_rights",
+    "count": 1
+  },
+  {
+    "name": "education",
     "count": 1
   },
   {
@@ -2244,6 +4588,14 @@
     "count": 1
   },
   {
+    "name": "payment-system",
+    "count": 1
+  },
+  {
+    "name": "corruption-enabling",
+    "count": 1
+  },
+  {
     "name": "appointments",
     "count": 1
   },
@@ -2268,6 +4620,14 @@
     "count": 1
   },
   {
+    "name": "justice-department",
+    "count": 1
+  },
+  {
+    "name": "kremlin",
+    "count": 1
+  },
+  {
     "name": "whistleblower-protection",
     "count": 1
   },
@@ -2284,15 +4644,15 @@
     "count": 1
   },
   {
-    "name": "treasury",
-    "count": 1
-  },
-  {
     "name": "opm",
     "count": 1
   },
   {
     "name": "injunctions",
+    "count": 1
+  },
+  {
+    "name": "defense-contracting",
     "count": 1
   },
   {
@@ -2304,27 +4664,27 @@
     "count": 1
   },
   {
-    "name": "enforcement-suspension",
+    "name": "lee-zeldin",
+    "count": 1
+  },
+  {
+    "name": "workforce-cuts",
+    "count": 1
+  },
+  {
+    "name": "climate-denial",
+    "count": 1
+  },
+  {
+    "name": "jbs",
+    "count": 1
+  },
+  {
+    "name": "paid-advocacy",
     "count": 1
   },
   {
     "name": "executive-branch",
-    "count": 1
-  },
-  {
-    "name": "watchdog-purge",
-    "count": 1
-  },
-  {
-    "name": "cartel-exemption",
-    "count": 1
-  },
-  {
-    "name": "corporate-compliance",
-    "count": 1
-  },
-  {
-    "name": "agency-shutdown",
     "count": 1
   },
   {
@@ -2340,15 +4700,47 @@
     "count": 1
   },
   {
+    "name": "cybertruck",
+    "count": 1
+  },
+  {
+    "name": "mass-exodus",
+    "count": 1
+  },
+  {
+    "name": "buyouts",
+    "count": 1
+  },
+  {
+    "name": "institutional-knowledge",
+    "count": 1
+  },
+  {
+    "name": "government-capacity",
+    "count": 1
+  },
+  {
+    "name": "neuralink",
+    "count": 1
+  },
+  {
+    "name": "agency-capture",
+    "count": 1
+  },
+  {
     "name": "shutdown",
     "count": 1
   },
   {
-    "name": "melania-trump",
+    "name": "transparency-promises",
     "count": 1
   },
   {
-    "name": "transparency-promises",
+    "name": "personnel-purges",
+    "count": 1
+  },
+  {
+    "name": "deportation-quotas",
     "count": 1
   },
   {
@@ -2376,11 +4768,15 @@
     "count": 1
   },
   {
-    "name": "citizens_united",
+    "name": "purge",
     "count": 1
   },
   {
-    "name": "documentary",
+    "name": "loyalty",
+    "count": 1
+  },
+  {
+    "name": "citizens_united",
     "count": 1
   },
   {
@@ -2393,10 +4789,6 @@
   },
   {
     "name": "ideological-control",
-    "count": 1
-  },
-  {
-    "name": "january-6",
     "count": 1
   },
   {
@@ -2440,11 +4832,47 @@
     "count": 1
   },
   {
+    "name": "illegal-appointments",
+    "count": 1
+  },
+  {
+    "name": "qualifications-violation",
+    "count": 1
+  },
+  {
+    "name": "politicization",
+    "count": 1
+  },
+  {
+    "name": "federal-law-violation",
+    "count": 1
+  },
+  {
+    "name": "amazon",
+    "count": 1
+  },
+  {
+    "name": "jeff-bezos",
+    "count": 1
+  },
+  {
+    "name": "bribery",
+    "count": 1
+  },
+  {
     "name": "civil-society",
     "count": 1
   },
   {
     "name": "watchlist",
+    "count": 1
+  },
+  {
+    "name": "agency-dismantling",
+    "count": 1
+  },
+  {
+    "name": "court-intervention",
     "count": 1
   },
   {
@@ -2472,7 +4900,23 @@
     "count": 1
   },
   {
-    "name": "democratic-erosion",
+    "name": "law-firms",
+    "count": 1
+  },
+  {
+    "name": "pro-bono-coercion",
+    "count": 1
+  },
+  {
+    "name": "poverty",
+    "count": 1
+  },
+  {
+    "name": "social-safety-net",
+    "count": 1
+  },
+  {
+    "name": "child-welfare",
     "count": 1
   },
   {
@@ -2480,15 +4924,15 @@
     "count": 1
   },
   {
-    "name": "conflict-of-interest",
-    "count": 1
-  },
-  {
     "name": "wlfi-token",
     "count": 1
   },
   {
-    "name": "conflicts",
+    "name": "serbia",
+    "count": 1
+  },
+  {
+    "name": "hotel-development",
     "count": 1
   },
   {
@@ -2496,7 +4940,11 @@
     "count": 1
   },
   {
-    "name": "legal-extortion",
+    "name": "accountability-destruction",
+    "count": 1
+  },
+  {
+    "name": "civil-rights-violations",
     "count": 1
   },
   {
@@ -2592,6 +5040,10 @@
     "count": 1
   },
   {
+    "name": "big-tech",
+    "count": 1
+  },
+  {
     "name": "challenger-data",
     "count": 1
   },
@@ -2600,19 +5052,39 @@
     "count": 1
   },
   {
+    "name": "dwf-labs",
+    "count": 1
+  },
+  {
     "name": "associated-press",
     "count": 1
   },
   {
-    "name": "oversight-elimination",
-    "count": 1
-  },
-  {
-    "name": "antisemitism",
-    "count": 1
-  },
-  {
     "name": "free-speech",
+    "count": 1
+  },
+  {
+    "name": "military-integration",
+    "count": 1
+  },
+  {
+    "name": "contractor-fraud",
+    "count": 1
+  },
+  {
+    "name": "deportation-violations",
+    "count": 1
+  },
+  {
+    "name": "justice-corruption",
+    "count": 1
+  },
+  {
+    "name": "improper-influence",
+    "count": 1
+  },
+  {
+    "name": "contract-fraud",
     "count": 1
   },
   {
@@ -2624,15 +5096,39 @@
     "count": 1
   },
   {
-    "name": "media-control",
-    "count": 1
-  },
-  {
     "name": "unions",
     "count": 1
   },
   {
     "name": "apa-violation",
+    "count": 1
+  },
+  {
+    "name": "mass-arrests",
+    "count": 1
+  },
+  {
+    "name": "287g-programs",
+    "count": 1
+  },
+  {
+    "name": "propaganda-operations",
+    "count": 1
+  },
+  {
+    "name": "elizabeth-warren",
+    "count": 1
+  },
+  {
+    "name": "congressional-record",
+    "count": 1
+  },
+  {
+    "name": "corruption-documentation",
+    "count": 1
+  },
+  {
+    "name": "first-100-days",
     "count": 1
   },
   {
@@ -2648,6 +5144,14 @@
     "count": 1
   },
   {
+    "name": "handala-hackers",
+    "count": 1
+  },
+  {
+    "name": "email-leak",
+    "count": 1
+  },
+  {
     "name": "crypto_conflicts",
     "count": 1
   },
@@ -2657,6 +5161,18 @@
   },
   {
     "name": "sar_requests",
+    "count": 1
+  },
+  {
+    "name": "National-Guard",
+    "count": 1
+  },
+  {
+    "name": "Operation-At-Large",
+    "count": 1
+  },
+  {
+    "name": "federal-mobilization",
     "count": 1
   },
   {
@@ -2688,15 +5204,19 @@
     "count": 1
   },
   {
-    "name": "federal-layoffs",
-    "count": 1
-  },
-  {
-    "name": "deferred-resignation",
-    "count": 1
-  },
-  {
     "name": "geofence",
+    "count": 1
+  },
+  {
+    "name": "congressional-obstruction",
+    "count": 1
+  },
+  {
+    "name": "arrests-of-officials",
+    "count": 1
+  },
+  {
+    "name": "democratic-breakdown",
     "count": 1
   },
   {
@@ -2728,23 +5248,31 @@
     "count": 1
   },
   {
-    "name": "suspicious-activity-reports",
-    "count": 1
-  },
-  {
-    "name": "overtime-protections",
-    "count": 1
-  },
-  {
     "name": "worker-protections",
     "count": 1
   },
   {
-    "name": "investigation",
+    "name": "protest",
     "count": 1
   },
   {
-    "name": "protest",
+    "name": "purges",
+    "count": 1
+  },
+  {
+    "name": "civil-service-destruction",
+    "count": 1
+  },
+  {
+    "name": "trump-national-golf-club",
+    "count": 1
+  },
+  {
+    "name": "personnel-capture",
+    "count": 1
+  },
+  {
+    "name": "ideological-screening",
     "count": 1
   },
   {
@@ -2756,11 +5284,35 @@
     "count": 1
   },
   {
-    "name": "political_assassination",
+    "name": "hotel-detention",
     "count": 1
   },
   {
-    "name": "stochastic_terrorism",
+    "name": "shadow-network",
+    "count": 1
+  },
+  {
+    "name": "family-detention",
+    "count": 1
+  },
+  {
+    "name": "oversight-evasion",
+    "count": 1
+  },
+  {
+    "name": "mass-surveillance",
+    "count": 1
+  },
+  {
+    "name": "data-integration",
+    "count": 1
+  },
+  {
+    "name": "privacy-violations",
+    "count": 1
+  },
+  {
+    "name": "AI-surveillance",
     "count": 1
   },
   {
@@ -2812,18 +5364,6 @@
     "count": 1
   },
   {
-    "name": "journalist-attacks",
-    "count": 1
-  },
-  {
-    "name": "protest-coverage",
-    "count": 1
-  },
-  {
-    "name": "documentation",
-    "count": 1
-  },
-  {
     "name": "apology",
     "count": 1
   },
@@ -2864,11 +5404,15 @@
     "count": 1
   },
   {
-    "name": "violence",
+    "name": "political_assassination",
     "count": 1
   },
   {
-    "name": "stochastic-terrorism",
+    "name": "stochastic_terrorism",
+    "count": 1
+  },
+  {
+    "name": "minnesota",
     "count": 1
   },
   {
@@ -2884,19 +5428,11 @@
     "count": 1
   },
   {
-    "name": "stays",
-    "count": 1
-  },
-  {
-    "name": "ninth-circuit",
+    "name": "visas",
     "count": 1
   },
   {
     "name": "extended-stay",
-    "count": 1
-  },
-  {
-    "name": "federal-control",
     "count": 1
   },
   {
@@ -2905,10 +5441,6 @@
   },
   {
     "name": "threat-assessment",
-    "count": 1
-  },
-  {
-    "name": "iran",
     "count": 1
   },
   {
@@ -2921,6 +5453,14 @@
   },
   {
     "name": "institutional-weakening",
+    "count": 1
+  },
+  {
+    "name": "emergency-powers-abuse",
+    "count": 1
+  },
+  {
+    "name": "contractor-corruption",
     "count": 1
   },
   {
@@ -2952,6 +5492,18 @@
     "count": 1
   },
   {
+    "name": "environmental-violations",
+    "count": 1
+  },
+  {
+    "name": "financial-waste",
+    "count": 1
+  },
+  {
+    "name": "hurricane-risk",
+    "count": 1
+  },
+  {
     "name": "mid_cycle_redistricting",
     "count": 1
   },
@@ -2969,14 +5521,6 @@
   },
   {
     "name": "partisan_manipulation",
-    "count": 1
-  },
-  {
-    "name": "foreign-aid",
-    "count": 1
-  },
-  {
-    "name": "humanitarian-crisis",
     "count": 1
   },
   {
@@ -3064,35 +5608,27 @@
     "count": 1
   },
   {
-    "name": "snap",
+    "name": "doj-reversal",
     "count": 1
   },
   {
-    "name": "food-assistance",
+    "name": "bondi-contradiction",
     "count": 1
   },
   {
-    "name": "work-requirements",
+    "name": "justice-obstruction",
     "count": 1
   },
   {
-    "name": "head-start",
+    "name": "kompromat-allegations",
     "count": 1
   },
   {
-    "name": "obstruction-of-justice",
+    "name": "oligarch-conflict",
     "count": 1
   },
   {
-    "name": "social-media-campaign",
-    "count": 1
-  },
-  {
-    "name": "x-platform",
-    "count": 1
-  },
-  {
-    "name": "mass-firings",
+    "name": "cover-up-accusations",
     "count": 1
   },
   {
@@ -3116,6 +5652,14 @@
     "count": 1
   },
   {
+    "name": "racial-profiling",
+    "count": 1
+  },
+  {
+    "name": "Los-Angeles",
+    "count": 1
+  },
+  {
     "name": "journalist-protection",
     "count": 1
   },
@@ -3136,15 +5680,7 @@
     "count": 1
   },
   {
-    "name": "truth-social",
-    "count": 1
-  },
-  {
     "name": "base-alienation",
-    "count": 1
-  },
-  {
-    "name": "quorum-break",
     "count": 1
   },
   {
@@ -3168,15 +5704,11 @@
     "count": 1
   },
   {
+    "name": "politicization-risk",
+    "count": 1
+  },
+  {
     "name": "schedule-g",
-    "count": 1
-  },
-  {
-    "name": "political-appointments",
-    "count": 1
-  },
-  {
-    "name": "senate-bypass",
     "count": 1
   },
   {
@@ -3185,6 +5717,14 @@
   },
   {
     "name": "electoral-arms-race",
+    "count": 1
+  },
+  {
+    "name": "democracy-breakdown",
+    "count": 1
+  },
+  {
+    "name": "authoritarian-governance",
     "count": 1
   },
   {
@@ -3200,11 +5740,11 @@
     "count": 1
   },
   {
-    "name": "monitoring",
+    "name": "education-control",
     "count": 1
   },
   {
-    "name": "settlement",
+    "name": "monitoring",
     "count": 1
   },
   {
@@ -3216,7 +5756,15 @@
     "count": 1
   },
   {
-    "name": "independent-agencies",
+    "name": "russian-oligarchs",
+    "count": 1
+  },
+  {
+    "name": "senate-investigation",
+    "count": 1
+  },
+  {
+    "name": "wire-transfers",
     "count": 1
   },
   {
@@ -3272,19 +5820,31 @@
     "count": 1
   },
   {
-    "name": "judicial-authority",
+    "name": "public-buildings-service",
     "count": 1
   },
   {
-    "name": "regional-targeting",
+    "name": "workforce-reductions",
     "count": 1
   },
   {
-    "name": "reduction-in-force",
+    "name": "ICE-detention",
     "count": 1
   },
   {
-    "name": "civil-service-purge",
+    "name": "mass-incarceration",
+    "count": 1
+  },
+  {
+    "name": "civil-detention",
+    "count": 1
+  },
+  {
+    "name": "detention-deaths",
+    "count": 1
+  },
+  {
+    "name": "medical-neglect",
     "count": 1
   },
   {
@@ -3296,7 +5856,7 @@
     "count": 1
   },
   {
-    "name": "speech",
+    "name": "fact-checking",
     "count": 1
   },
   {
@@ -3309,10 +5869,6 @@
   },
   {
     "name": "ai-misinformation",
-    "count": 1
-  },
-  {
-    "name": "court-ruling",
     "count": 1
   },
   {
@@ -3340,6 +5896,30 @@
     "count": 1
   },
   {
+    "name": "brazil",
+    "count": 1
+  },
+  {
+    "name": "bolsonaro",
+    "count": 1
+  },
+  {
+    "name": "authoritarian-solidarity",
+    "count": 1
+  },
+  {
+    "name": "wto",
+    "count": 1
+  },
+  {
+    "name": "authoritarian-blueprint",
+    "count": 1
+  },
+  {
+    "name": "legislative-bypass",
+    "count": 1
+  },
+  {
     "name": "solar-energy",
     "count": 1
   },
@@ -3352,6 +5932,10 @@
     "count": 1
   },
   {
+    "name": "detention-abuse",
+    "count": 1
+  },
+  {
     "name": "merger-completion",
     "count": 1
   },
@@ -3360,19 +5944,11 @@
     "count": 1
   },
   {
-    "name": "media-ownership",
-    "count": 1
-  },
-  {
     "name": "fcc-approval-outcome",
     "count": 1
   },
   {
     "name": "federal-involvement",
-    "count": 1
-  },
-  {
-    "name": "policy-implementation",
     "count": 1
   },
   {
@@ -3396,15 +5972,15 @@
     "count": 1
   },
   {
-    "name": "worker-rights",
-    "count": 1
-  },
-  {
     "name": "settlement-demand",
     "count": 1
   },
   {
-    "name": "corporate-consolidation",
+    "name": "vladimir-putin",
+    "count": 1
+  },
+  {
+    "name": "alnur-mussayev",
     "count": 1
   },
   {
@@ -3412,7 +5988,219 @@
     "count": 1
   },
   {
-    "name": "monopoly-power",
+    "name": "reward-allies",
+    "count": 1
+  },
+  {
+    "name": "prison-repurposing",
+    "count": 1
+  },
+  {
+    "name": "federal-takeover",
+    "count": 1
+  },
+  {
+    "name": "police-control",
+    "count": 1
+  },
+  {
+    "name": "loyalist-appointment",
+    "count": 1
+  },
+  {
+    "name": "dc-autonomy",
+    "count": 1
+  },
+  {
+    "name": "artificial-intelligence",
+    "count": 1
+  },
+  {
+    "name": "federal-contracting",
+    "count": 1
+  },
+  {
+    "name": "outsourcing",
+    "count": 1
+  },
+  {
+    "name": "automation",
+    "count": 1
+  },
+  {
+    "name": "trump-interference",
+    "count": 1
+  },
+  {
+    "name": "democratic-surveillance",
+    "count": 1
+  },
+  {
+    "name": "political-prisoner",
+    "count": 1
+  },
+  {
+    "name": "nexstar",
+    "count": 1
+  },
+  {
+    "name": "tegna",
+    "count": 1
+  },
+  {
+    "name": "broadcasting",
+    "count": 1
+  },
+  {
+    "name": "monopoly",
+    "count": 1
+  },
+  {
+    "name": "information-capture",
+    "count": 1
+  },
+  {
+    "name": "adam-schiff",
+    "count": 1
+  },
+  {
+    "name": "letitia-james",
+    "count": 1
+  },
+  {
+    "name": "enemies-list",
+    "count": 1
+  },
+  {
+    "name": "weaponized-government",
+    "count": 1
+  },
+  {
+    "name": "icc-sanctions",
+    "count": 1
+  },
+  {
+    "name": "international-law",
+    "count": 1
+  },
+  {
+    "name": "international-justice",
+    "count": 1
+  },
+  {
+    "name": "israel-palestine",
+    "count": 1
+  },
+  {
+    "name": "war-crimes",
+    "count": 1
+  },
+  {
+    "name": "maxwell-testimony",
+    "count": 1
+  },
+  {
+    "name": "doj-transparency",
+    "count": 1
+  },
+  {
+    "name": "blanche-interview",
+    "count": 1
+  },
+  {
+    "name": "limited-immunity",
+    "count": 1
+  },
+  {
+    "name": "credibility-concerns",
+    "count": 1
+  },
+  {
+    "name": "client-list-denial",
+    "count": 1
+  },
+  {
+    "name": "political-retaliation",
+    "count": 1
+  },
+  {
+    "name": "bolton-raid",
+    "count": 1
+  },
+  {
+    "name": "trump-critics",
+    "count": 1
+  },
+  {
+    "name": "fbi-weaponization",
+    "count": 1
+  },
+  {
+    "name": "authoritarian-escalation",
+    "count": 1
+  },
+  {
+    "name": "central-bank-independence",
+    "count": 1
+  },
+  {
+    "name": "political-persecution",
+    "count": 1
+  },
+  {
+    "name": "monetary-policy",
+    "count": 1
+  },
+  {
+    "name": "domestic-militarization",
+    "count": 1
+  },
+  {
+    "name": "exploit-crises",
+    "count": 1
+  },
+  {
+    "name": "dc-control",
+    "count": 1
+  },
+  {
+    "name": "india",
+    "count": 1
+  },
+  {
+    "name": "oil-sanctions",
+    "count": 1
+  },
+  {
+    "name": "corporate-favoritism",
+    "count": 1
+  },
+  {
+    "name": "geopolitics",
+    "count": 1
+  },
+  {
+    "name": "energy-politics",
+    "count": 1
+  },
+  {
+    "name": "personnel-purge",
+    "count": 1
+  },
+  {
+    "name": "special-election",
+    "count": 1
+  },
+  {
+    "name": "democratic-response",
+    "count": 1
+  },
+  {
+    "name": "proposition-50",
+    "count": 1
+  },
+  {
+    "name": "congressional-control",
     "count": 1
   }
 ]

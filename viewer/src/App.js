@@ -488,7 +488,7 @@ function App() {
             style={{ cursor: 'pointer' }}
             title="Return to landing page"
           >
-            Democracy Timeline
+            The Kleptocracy Timeline
           </h1>
           <p className="subtitle">Tracking Patterns of Democratic Degradation</p>
         </div>

@@ -1,95 +1,83 @@
 # Timeline Statistics Report
 
-*Last Updated: August 26, 2025*
+Generated: 2025-09-02 17:15:59
 
 ## Overview
-- **Total Events**: 399
-- **Date Range**: 1970-01-01 to 2025-08-25
-- **Total Sources**: 1,251
-- **Unique Tags**: 1,094
-- **Unique Actors**: 650+
+- **Total Events**: 909
+- **Date Range**: 1970-01-01 to 2025-11-04
+- **Total Sources**: 2574
+- **Unique Tags**: 1551
+- **Unique Actors**: 1140
 
 ## Event Status
-- **Confirmed**: 399 (100%)
-- **Validated**: 0 (community validation in progress)
-- **Archive Coverage**: 270/1,251 sources (21.6%)
+- **Confirmed**: 896
+- **Disputed**: 2
+- **Reported**: 9
+- **Predicted**: 1
+- **Developing**: 1
 
 ## Top Tags
-- kleptocracy: 28 events
-- project-2025: 24 events
-- cryptocurrency: 21 events
-- elections: 20 events
-- regulatory-capture: 19 events
-- courts: 18 events
-- federal-workforce: 17 events
-- conflicts-of-interest: 16 events
-- doge: 16 events
-- epstein-files: 14 events
+- regulatory-capture: 140 events
+- kleptocracy: 129 events
+- government-contracts: 120 events
+- corruption: 100 events
+- crypto: 82 events
+- foreign-influence: 56 events
+- justice-weaponization: 34 events
+- cryptocurrency: 28 events
+- ethics-violations: 27 events
+- conflicts-of-interest: 27 events
 
 ## Top Actors
-- Donald Trump: 90+ events
-- Trump administration: 45+ events
-- Elon Musk: 23 events
-- Department of Justice: 15 events
-- Jeffrey Epstein: 13 events
-- White House: 13 events
-- World Liberty Financial: 11 events
-- Trump Organization: 10 events
-- Department of Homeland Security: 9 events
-- OPM: 8 events
+- Donald Trump: 503 events
+- Trump Administration: 366 events
+- Department of Justice: 39 events
+- ICE: 33 events
+- Elon Musk: 32 events
+- Jeffrey Epstein: 30 events
+- Kristi Noem: 23 events
+- Department of Homeland Security: 21 events
+- Trump Organization: 17 events
+- FBI: 16 events
 
-## Events by Decade
-- 1970s: 8 events
-- 1980s: 5 events
-- 1990s: 7 events
-- 2000s: 12 events
-- 2010s: 45 events
-- 2020s: 322 events (2020-2025)
-
-## Acceleration Analysis
-- **1970s Average**: 0.8 events/year
-- **2020-2024 Average**: 75+ events/year
-- **2025 (YTD)**: 130+ events (projected 200+)
-- **Acceleration Factor**: 162x increase from 1970s to 2025
-
-## Importance Distribution
-- **Critical (10)**: 33 events (8.3%)
-- **Crisis (9)**: 30 events (7.5%)
-- **High Priority (8)**: 57 events (14.3%)
-- **Important (7)**: 15 events (3.8%)
-- **Notable (6)**: 190 events (47.6%)
-- **Medium (5)**: 74 events (18.5%)
-
-## Capture Lanes Coverage
-- **Events with Capture Lanes**: 311 (77.9%)
-- **Political Capture**: ~35%
-- **Regulatory Capture**: ~25%
-- **Judicial Capture**: ~15%
-- **Media Capture**: ~10%
-- **Economic Capture**: ~8%
-- **Other Categories**: ~7%
-
-## Recent Additions (August 2025)
-- Federal Reserve Governor firing attempt (Aug 25)
-- National Guard specialized units creation (Aug 25)
-- Competition enforcement rollback (Aug 13)
-- Federal employee loyalty tests (May 29, validated Aug 26)
-
-## Data Quality Metrics
-- **Events with Multiple Sources**: 95%+
-- **Average Sources per Event**: 3.1
-- **Events with Archive Links**: 21.6%
-- **Events with Importance Ratings**: 100%
-- **Events with Tags**: 100%
-- **Events with Actors**: 98%
-
-## Pattern Analysis
-Most frequently occurring patterns:
-1. **Neutralizing Referees**: Attacks on independent institutions
-2. **Rewiring Personnel**: Loyalty tests and purges
-3. **Exploiting Crises**: Using emergencies to expand power
-4. **Rewriting Rules**: Changing laws to benefit allies
-5. **Capturing Information**: Control of media narratives
-
----
-*Note: Statistics are updated regularly as new events are added and validated.*
+## Events by Year
+- 1970: 1 events
+- 1971: 2 events
+- 1972: 1 events
+- 1975: 1 events
+- 1976: 1 events
+- 1977: 1 events
+- 1978: 1 events
+- 1980: 3 events
+- 1981: 1 events
+- 1990: 1 events
+- 1991: 3 events
+- 1992: 1 events
+- 1993: 3 events
+- 1996: 2 events
+- 1997: 1 events
+- 1999: 1 events
+- 2000: 2 events
+- 2001: 1 events
+- 2002: 1 events
+- 2003: 2 events
+- 2004: 2 events
+- 2005: 1 events
+- 2006: 1 events
+- 2008: 7 events
+- 2009: 2 events
+- 2010: 5 events
+- 2011: 1 events
+- 2013: 4 events
+- 2014: 5 events
+- 2015: 6 events
+- 2016: 16 events
+- 2017: 19 events
+- 2018: 18 events
+- 2019: 19 events
+- 2020: 13 events
+- 2021: 13 events
+- 2022: 22 events
+- 2023: 20 events
+- 2024: 47 events
+- 2025: 658 events
