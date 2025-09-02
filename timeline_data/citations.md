@@ -2750,7 +2750,10 @@
 *Date: 2025-02-21*
 
 1. [DOGE put him in the Treasury Department. His company has federal contracts worth millions](https://www.wired.com/story/krause-doge-cloud-software-treasury/)
-2. [Timeline Documentation](https://example.com)
+2. [Treasury installs DOGE ally as head of payment system](https://www.washingtonpost.com/business/2025/02/07/treasury-doge-payments-musk/)
+3. [Reed Calls for Immediate Ouster of Unqualified Partisan Tom Krause at Treasury](https://www.reed.senate.gov/news/releases/reed-calls-for-immediate-ouster-of-unqualified-partisan-tom-krause-at-treasury)
+4. [Ex-employees say Tom Krause, tapped by Musk to overhaul Treasury, was a hatchet man](https://abcnews.go.com/Business/employees-tom-krause-tapped-musk-overhaul-treasury-hatchet/story?id=118647158)
+5. [DOGE associate's company gave $1 million to Trump's inauguration](https://www.citizensforethics.org/reports-investigations/crew-investigations/doge-associatess-company-gave-1-million-to-trumps-inauguration/)
 
 ## DOJ drops immigration discrimination case against SpaceX
 *Date: 2025-02-21*
@@ -3553,7 +3556,10 @@
 *Date: 2025-03-31*
 
 1. [Zuckerberg tries to enlist trump in fight against Meta EU ruling](https://www.wsj.com/tech/meta-eu-ruling-trump-zuckerberg-f6bc593a?mod=hp_lead_pos3)
-2. [Timeline Documentation](https://example.com)
+2. [Report: Meta Seeks Trump's Help in Combatting EU Fine](https://www.pymnts.com/meta/2025/meta-seeks-trump-help-combatting-european-union-fine/)
+3. [Mark Zuckerberg Is Seeking Donald Trump's Support in Battling EU's Meta Antitrust Ruling](https://www.breitbart.com/tech/2025/04/02/wsj-mark-zuckerberg-is-seeking-donald-trumps-support-in-battling-eus-meta-antitrust-ruling/)
+4. [Meta warns EU it will run to Trump whenever Zuckerberg feels company is being unfairly punished](https://fortune.com/2025/02/17/meta-mark-zuckerberg-donald-trump-eu-commission-brussels-munich-security-conference/)
+5. [Everything Mark Zuckerberg has gotten from Donald Trump so far](https://www.platformer.news/trump-zuckerberg-meta-partnership-eu-dsa-ai-dma/)
 
 ## Economist Intelligence Unit classifies U.S. as "Hybrid Regime"
 *Date: 2025-04-01*
@@ -3652,7 +3658,10 @@
 *Date: 2025-04-02*
 
 1. [U.S. lifts sanctions on wife of Putin’s childhood friend Boris Rotenberg](https://theins.ru/en/news/280214)
-2. [Timeline Documentation](https://example.com)
+2. [Russia-related Designation Removal](https://ofac.treasury.gov/recent-actions/20250402)
+3. [Trump lifts sanctions on Putin ally's wife Karina Rotenberg](https://www.cnbc.com/2025/04/03/trump-treasury-sanctions-putin-russia-rotenberg-ukraine.html)
+4. [U.S. Lifts Sanctions on Wife of Russian Billionaire Rotenberg](https://www.themoscowtimes.com/2025/04/02/us-lifts-sanctions-on-wife-of-russian-billionaire-rotenberg-a88587)
+5. [US Lifts Sanctions on Wife of Russian Oligarch Boris Rotenberg](https://www.occrp.org/en/news/us-lifts-sanctions-on-wife-of-russian-oligarch-boris-rotenberg)
 
 ## US securities exchange commission shakes up enforcement division, exams unit
 *Date: 2025-04-02*
@@ -4039,7 +4048,10 @@
 *Date: 2025-04-21*
 
 1. [Trump drops or pauses cases against 17 corporations that funded his inauguration](https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/)
-2. [Timeline Documentation](https://example.com)
+2. [Trump's Inauguration Donor Pool Includes $50 Million in Contributions from Corporations Under Investigation](https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/)
+3. [Corporate Clemency: How Trump Is Halting Enforcement Against Corporate Lawbreakers](https://www.citizen.org/article/corporate-clemency-trump-enforcement-report/)
+4. [See How This Works?: Trump Drops Cases Against Corporations That Funded His Inauguration](https://www.commondreams.org/news/trump-corporations-inauguration)
+5. [Meet the top donors who pumped millions into Trump's inauguration](https://www.washingtonpost.com/politics/interactive/2025/trump-inauguration-donors-list/)
 
 ## Trump raised $239 million for inauguration, more than doubling his own record
 *Date: 2025-04-21*

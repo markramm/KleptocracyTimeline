@@ -1,11 +1,11 @@
 # Timeline Statistics Report
 
-Generated: 2025-09-02 17:15:59
+Generated: 2025-09-02 18:14:24
 
 ## Overview
 - **Total Events**: 909
 - **Date Range**: 1970-01-01 to 2025-11-04
-- **Total Sources**: 2574
+- **Total Sources**: 2586
 - **Unique Tags**: 1551
 - **Unique Actors**: 1140
 

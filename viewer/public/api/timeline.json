@@ -8614,6 +8614,52 @@
       "status": "confirmed"
     },
     {
+      "id": "2022-12-27--ice-whistleblower-faces-retaliation-after-reportin",
+      "date": "2022-12-27",
+      "importance": 8,
+      "title": "ICE whistleblower faces retaliation after reporting weapons violations at detention facility",
+      "summary": "Carlo Jimenez, a Navy Iraq War veteran and ICE supervisory detention officer, reported weapons violations after an officer distributed pocketknives to staff at Montgomery Processing Center in December 2022. Despite weapons being banned, leadership took no action. After Jimenez reported to DHS Inspector General, he faced immediate retaliation including schedule changes, demotion, and falsified negative evaluations. The Merit Systems Protection Board found violations of his rights and whistleblower retaliation requiring a full hearing. Just months earlier, Jimenez had received a 4.7/5.0 rating and cash award for performance.",
+      "location": "Conroe, Texas",
+      "actors": [
+        "Carlo Jimenez",
+        "ICE",
+        "Department of Homeland Security OIG",
+        "Merit Systems Protection Board"
+      ],
+      "tags": [
+        "whistleblower-retaliation",
+        "weapons-violations",
+        "cover-up",
+        "detention-misconduct"
+      ],
+      "capture_lanes": [
+        "Law Enforcement Weaponization",
+        "Corporate Capture & Regulatory Breakdown"
+      ],
+      "sources": [
+        {
+          "title": "Weapons Violations, Misconduct, and Whistleblower Retaliation at ICE",
+          "url": "https://theintercept.com/2025/06/03/ice-houston-deportation-immigrants-whistleblower/",
+          "outlet": "The Intercept",
+          "date": "2025-06-03"
+        },
+        {
+          "title": "ICE Whistleblower Carlos Jimenez Protected from Retaliation Under MSPB Ruling",
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/ice-whistleblower-protected-retaliation-mspb",
+          "outlet": "House Committee on Oversight",
+          "date": "2025-05-15"
+        },
+        {
+          "title": "Federal Employee Whistleblower Rights and 2022 Retaliation Cases",
+          "url": "https://www.dol.gov/agencies/oalj/PUBLIC/WHISTLEBLOWER/REFERENCES/CASELISTS/FEDERAL_2022",
+          "outlet": "Department of Labor",
+          "date": "2022-12-31"
+        }
+      ],
+      "notes": "Houston Field Office has over 16,000 allegations of potential misconduct under review by ICE's Office of Professional Responsibility. Jimenez filed additional complaints in 2025 against Houston Field Office Director Bradford for colluding to keep false evaluations in his personnel file.",
+      "status": "confirmed"
+    },
+    {
       "id": "2023-01-01--epstein-1-1-billion-wire-transfers",
       "date": "2023-01-01",
       "importance": 8,
@@ -12185,6 +12231,64 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-01-17--trump-launches-crypto-memecoin-days-before-inaugur",
+      "date": "2025-01-17",
+      "title": "Trump launches crypto memecoin days before inauguration",
+      "summary": "Trump launched a cryptocurrency memecoin right before his inauguration to make millions of dollars, then increased the value of those coins by signing executive orders making crypto a priority. He also launched a meme coin for Melania Trump.",
+      "importance": 9,
+      "tags": [
+        "corruption",
+        "cryptocurrency",
+        "memecoin",
+        "financial-conflicts",
+        "melania-trump",
+        "kleptocracy"
+      ],
+      "actors": [
+        "Donald Trump",
+        "Melania Trump"
+      ],
+      "sources": [
+        {
+          "title": "100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest",
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest",
+          "outlet": "House Oversight Democrats",
+          "date": "2025-05-02"
+        },
+        {
+          "title": "What to know about Trump cryptocurrency meme coins",
+          "url": "https://www.npr.org/2025/01/20/nx-s1-5268759/donald-trump-melania-cryptocurrency-meme-coins",
+          "outlet": "NPR",
+          "date": "2025-01-20"
+        },
+        {
+          "title": "Meme coins: Donald and Melania Trump launch cryptocurrency ahead of inauguration, raising serious ethics concerns",
+          "url": "https://www.cnn.com/2025/01/20/tech/meme-coins-donald-melania-trump-intl-hnk",
+          "outlet": "CNN",
+          "date": "2025-01-20"
+        },
+        {
+          "title": "Why Trump's Meme Coins Have Alarmed Both Crypto Insiders And Legal Experts",
+          "url": "https://time.com/7209169/trump-meme-coins-crypto/",
+          "outlet": "TIME",
+          "date": "2025-01-20"
+        },
+        {
+          "title": "Donald and Melania Trump debuted meme coins, TRUMP and Melania",
+          "url": "https://www.cbsnews.com/news/donald-trump-melania-meme-coin-cryptocurrency-what-to-know/",
+          "outlet": "CBS News",
+          "date": "2025-01-20"
+        },
+        {
+          "title": "Donald Trump and Melania Memecoins Criticized by Crypto Executives",
+          "url": "https://www.bloomberg.com/news/articles/2025-01-20/crypto-balks-at-trump-memecoin-launches-on-cusp-of-inauguration",
+          "outlet": "Bloomberg",
+          "date": "2025-01-20"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
       "id": "2025-01-17--trump-launches-trump-memecoin-before-inauguration",
       "date": "2025-01-17",
       "title": "Trump launches $TRUMP memecoin days before inauguration, generating $320M in fees",
@@ -14124,6 +14228,61 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-01-25--trump-fires-17-independent-watchdogs-at-multiple-a",
+      "date": "2025-01-25",
+      "title": "Trump fires 17 independent watchdogs at multiple agencies in late-night move",
+      "summary": "Trump fired at least 17 Inspectors General across multiple federal agencies",
+      "description": "Trump fired at least 17 Inspectors General across multiple federal agencies",
+      "status": "confirmed",
+      "importance": 8,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "kleptocracy"
+      ],
+      "capture_type": "personnel_rewiring",
+      "sources": [
+        {
+          "title": "Trump fires 17 independent watchdogs at multiple agencies in late-night move",
+          "url": "https://abcnews.go.com/Politics/trump-fires-17-independent-watchdogs-multiple-agencies-late/story?id=118097873",
+          "outlet": "ABC News",
+          "date": "2025-01-25"
+        },
+        {
+          "title": "Trump uses mass firing to remove inspectors general at a series of agencies",
+          "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general",
+          "outlet": "NPR",
+          "date": "2025-01-25"
+        },
+        {
+          "title": "Trump fires inspectors general from more than a dozen federal agencies",
+          "url": "https://www.cnn.com/2025/01/25/politics/trump-fires-inspectors-general/index.html",
+          "outlet": "CNN",
+          "date": "2025-01-25"
+        },
+        {
+          "title": "Trump defends firing independent inspectors general in late-night purge",
+          "url": "https://www.washingtonpost.com/politics/2025/01/24/trump-fire-inspectors-general-federal-agencies/",
+          "outlet": "Washington Post",
+          "date": "2025-01-24"
+        },
+        {
+          "title": "Trump Fired 17 Inspectors General\u2014Was It Legal?",
+          "url": "https://www.lawfaremedia.org/article/trump-fired-17-inspectors-general-was-it-legal",
+          "outlet": "Lawfare",
+          "date": "2025-01-26"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
       "id": "2025-01-25--brendan-carr-fcc-project-2025",
       "date": "2025-01-25",
       "importance": 6,
@@ -14639,9 +14798,27 @@
           "date": "2025-01-30"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Paramount in Talks to Settle Trump's '60 Minutes' Suit",
+          "url": "https://www.wsj.com/business/media/paramount-in-talks-to-settle-trumps-60-minutes-suit-5e0f9a42",
+          "outlet": "Wall Street Journal",
+          "date": "2025-01-30"
+        },
+        {
+          "title": "Paramount-Trump Settlement Talks Signal Media's Trump Era Reality",
+          "url": "https://www.axios.com/2025/01/31/paramount-trump-60-minutes-lawsuit-settlement-talks",
+          "outlet": "Axios",
+          "date": "2025-01-31"
+        },
+        {
+          "title": "CBS News parent Paramount in settlement talks with Trump",
+          "url": "https://www.politico.com/news/2025/01/30/paramount-trump-60-minutes-settlement-talks-00214567",
+          "outlet": "Politico",
+          "date": "2025-01-30"
+        },
+        {
+          "title": "Paramount exploring settlement with Trump over 60 Minutes lawsuit",
+          "url": "https://thehill.com/homenews/media/4987265-paramount-trump-60-minutes-lawsuit-settlement/",
+          "outlet": "The Hill",
           "date": "2025-01-30"
         }
       ],
@@ -14739,12 +14916,70 @@
       "status": "confirmed"
     },
     {
-      "id": "2025-01-31--russian-oligarch-held-stake-in-spacex-via-trust-while-sancti",
+      "id": "2025-01-31--russian-oligarch-held-spacex-stake-while-under-us-",
+      "date": "2025-01-31",
+      "title": "Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions",
+      "summary": "Russian oligarch Suleiman Kerimov held a 1% stake in SpaceX through Delaware-based Heritage Trust for four years while under U.S. sanctions (2018-2022), with the stake acquired in 2017 before sanctions and disposed of before the trust was blocked in June 2022.",
+      "description": "Revelations that a sanctioned Russian oligarch held a stake in SpaceX through a trust arrangement while under U.S. sanctions, raising serious national security and sanctions violations concerns.",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Suleiman Kerimov",
+        "SpaceX",
+        "Elon Musk",
+        "Heritage Trust",
+        "Citigroup"
+      ],
+      "tags": [
+        "spacex",
+        "russian-oligarch",
+        "sanctions",
+        "national-security",
+        "musk"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Russian Oligarch Held Stake in Musk's SpaceX Through Trust While He Was Sanctioned",
+          "url": "https://www.bloomberg.com/news/articles/2025-01-29/russian-oligarch-held-stake-in-spacex-via-trust-while-sanctioned",
+          "outlet": "Bloomberg",
+          "date": "2025-01-29"
+        },
+        {
+          "title": "Russian Senator Held Stake in SpaceX While He Was Sanctioned",
+          "url": "https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798",
+          "outlet": "The Moscow Times",
+          "date": "2025-01-30"
+        },
+        {
+          "title": "Russian oligarch held stake in Musk's SpaceX through trust despite sanctions",
+          "url": "https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/",
+          "outlet": "Kyiv Independent",
+          "date": "2025-01-30"
+        },
+        {
+          "title": "Russian oligarch and politician retained stake in SpaceX for 4 years under US sanctions",
+          "url": "https://www.pravda.com.ua/eng/news/2025/01/30/7495952/",
+          "outlet": "Ukrainska Pravda",
+          "date": "2025-01-30"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "sanctions-evasion",
+        "foreign-influence",
+        "national-security-compromise"
+      ],
+      "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
+    },
+    {
+      "id": "2025-01-31--reports-sanctioned-oligarch-suleiman-kerimov-held-",
       "date": "2025-01-31",
       "title": "Reports: Sanctioned oligarch Suleiman Kerimov held ~1% SpaceX stake via Heritage Trust",
       "summary": "Bloomberg and other outlets reported Russian oligarch Suleyman Kerimov held approximately 1% of SpaceX through Delaware's Heritage Trust, managed by Citigroup, from 2017 until disposal before Treasury blocked the trust in 2022. The stake was acquired pre-sanctions but retained for years after 2018 U.S. sanctions.",
       "description": "Bloomberg and other outlets reported Russian oligarch Suleyman Kerimov held approximately 1% of SpaceX through Delaware's Heritage Trust, managed by Citigroup, from 2017 until disposal before Treasury blocked the trust in 2022. The stake was acquired pre-sanctions but retained for years after 2018 U.S. sanctions.",
-      "status": "reported",
+      "status": "confirmed",
       "importance": 8,
       "location": "Washington, D.C.",
       "actors": [
@@ -14763,10 +14998,22 @@
           "date": "2025-01-31"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-01-31"
+          "title": "Russian Oligarch Held Stake in Musk's SpaceX Through Trust While He Was Sanctioned",
+          "url": "https://www.bloomberg.com/news/articles/2025-01-29/russian-oligarch-held-stake-in-spacex-via-trust-while-sanctioned",
+          "outlet": "Bloomberg",
+          "date": "2025-01-29"
+        },
+        {
+          "title": "Russian Senator Held Stake in SpaceX While He Was Sanctioned",
+          "url": "https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798",
+          "outlet": "The Moscow Times",
+          "date": "2025-01-30"
+        },
+        {
+          "title": "Russian oligarch and politician retained stake in SpaceX for 4 years under US sanctions",
+          "url": "https://www.pravda.com.ua/eng/news/2025/01/30/7495952/",
+          "outlet": "Ukrainska Pravda",
+          "date": "2025-01-30"
         }
       ],
       "connections": [],
@@ -14774,50 +15021,6 @@
         "kleptocratic-capture"
       ],
       "notes": "Event from comprehensive kleptocracy timeline tracking."
-    },
-    {
-      "id": "2025-01-31--russian-oligarch-held-spacex-stake-while-under-us-",
-      "date": "2025-01-31",
-      "title": "Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions",
-      "summary": "Revelations that a sanctioned Russian oligarch held a stake in SpaceX through a trust arrangement while under U.S. sanctions, raising serious national security and sanctions violations concerns.",
-      "description": "Revelations that a sanctioned Russian oligarch held a stake in SpaceX through a trust arrangement while under U.S. sanctions, raising serious national security and sanctions violations concerns.",
-      "status": "confirmed",
-      "importance": 9,
-      "location": "Washington, D.C.",
-      "actors": [
-        "Russian Oligarch",
-        "SpaceX",
-        "Elon Musk"
-      ],
-      "tags": [
-        "spacex",
-        "russian-oligarch",
-        "sanctions",
-        "national-security",
-        "musk"
-      ],
-      "capture_type": "monetizing_position",
-      "sources": [
-        {
-          "title": "Report: Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions",
-          "url": "https://example.com/source1",
-          "outlet": "Major News Outlet",
-          "date": "2025-01-31"
-        },
-        {
-          "title": "Analysis: Russian Oligarch Held SpaceX Stake While Under U.S. Sanctions",
-          "url": "https://example.com/source2",
-          "outlet": "Independent Media",
-          "date": "2025-01-31"
-        }
-      ],
-      "connections": [],
-      "patterns": [
-        "sanctions-evasion",
-        "foreign-influence",
-        "national-security-compromise"
-      ],
-      "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
     },
     {
       "id": "2025-01-31--switzerland-s-publicly-owned-central-bank-bought-1-8-million",
@@ -14900,6 +15103,62 @@
         "kleptocratic-capture"
       ],
       "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-02-01--doj-and-fbi-gut-public-corruption-enforcement-team",
+      "date": "2025-02-01",
+      "title": "DOJ and FBI gut public corruption enforcement teams",
+      "summary": "Attorney General Pam Bondi and FBI Director Kash Patel gave a \"green light to would-be lawbreakers\" by gutting the Justice Department's Public Integrity Section and folding one of the FBI's public corruption squads. Democrats warned that DOJ's refusal to enforce anti-corruption laws betrays the public trust and will create lasting harm to Americans' faith in the integrity of government officials.",
+      "importance": 9,
+      "tags": [
+        "corruption",
+        "doj",
+        "fbi",
+        "public-integrity",
+        "law-enforcement",
+        "regulatory-capture",
+        "kash-patel",
+        "pam-bondi"
+      ],
+      "actors": [
+        "Pam Bondi",
+        "Kash Patel",
+        "Department of Justice",
+        "FBI"
+      ],
+      "sources": [
+        {
+          "title": "Democrats probe Trump administration's retreat from public corruption cases",
+          "url": "https://www.nbcnews.com/politics/justice-department/democrats-probe-trump-administrations-retreat-public-corruption-cases-rcna227629",
+          "outlet": "NBC News",
+          "date": "2025-02-01"
+        },
+        {
+          "title": "FBI folds the public corruption squad that aided Jack Smith's Trump investigations",
+          "url": "https://www.nbcnews.com/politics/justice-department/fbi-folds-public-corruption-squad-aided-jack-smiths-trump-investigatio-rcna207029",
+          "outlet": "NBC News",
+          "date": "2025-05-15"
+        },
+        {
+          "title": "Firings, pardons and policy changes have gutted DOJ anti-corruption efforts, experts say",
+          "url": "https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571",
+          "outlet": "NBC News",
+          "date": "2025-06-03"
+        },
+        {
+          "title": "Justice Department office that prosecutes public corruption slashed in size",
+          "url": "https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928",
+          "outlet": "NBC News",
+          "date": "2025-03-12"
+        },
+        {
+          "title": "From Pardons to Purges: Pressing Questions that Bondi and Patel Must Answer Now",
+          "url": "https://www.justsecurity.org/107278/bondi-patel-fbi-purges/",
+          "outlet": "Just Security",
+          "date": "2025-02-15"
+        }
+      ],
+      "status": "confirmed"
     },
     {
       "id": "2025-02-01--crypto-appointees-193-million-holdings",
@@ -15715,9 +15974,27 @@
           "date": "2025-02-05"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump's crypto czar floats bitcoin reserve as White House pushes sovereign wealth fund",
+          "url": "https://www.theblock.co/post/338761/bitcoin-could-be-part-of-us-sovereign-wealth-fund-plan-says-trumps-crypto-czar",
+          "outlet": "The Block",
+          "date": "2025-02-05"
+        },
+        {
+          "title": "Trump Crypto Czar David Sacks Is Studying Feasibility of US Bitcoin Reserve",
+          "url": "https://www.bloomberg.com/news/articles/2025-02-04/crypto-czar-sacks-is-studying-feasibility-of-us-bitcoin-reserve",
+          "outlet": "Bloomberg",
+          "date": "2025-02-04"
+        },
+        {
+          "title": "Trump crypto czar David Sacks says priority is stablecoin legislation",
+          "url": "https://www.cnbc.com/2025/02/04/trump-crypto-czar-david-sacks-says-priority-is-stablecoin-legislation.html",
+          "outlet": "CNBC",
+          "date": "2025-02-04"
+        },
+        {
+          "title": "How Trump's Sovereign Wealth Fund Is Bullish for Bitcoin",
+          "url": "https://www.nasdaq.com/articles/how-trumps-sovereign-wealth-fund-bullish-bitcoin",
+          "outlet": "Nasdaq",
           "date": "2025-02-05"
         }
       ],
@@ -15936,14 +16213,15 @@
       "id": "2025-02-06--trump-administration-disbands-task-force-targeting",
       "date": "2025-02-06",
       "title": "Trump Administration Disbands Task Force Targeting Russian Oligarchs",
-      "summary": "The Trump administration disbanded the Justice Department task force dedicated to investigating and prosecuting Russian oligarchs, effectively ending efforts to hold Russian elites accountable for sanctions violations and money laundering.",
+      "summary": "Attorney General Pam Bondi disbanded Task Force KleptoCapture, the DOJ unit created in 2022 to investigate and prosecute Russian oligarchs for sanctions violations. The task force had seized yachts and brought indictments against Deripaska and Malofeyev before being shut down.",
       "description": "The Trump administration disbanded the Justice Department task force dedicated to investigating and prosecuting Russian oligarchs, effectively ending efforts to hold Russian elites accountable for sanctions violations and money laundering.",
       "status": "confirmed",
       "importance": 9,
       "location": "Washington, D.C.",
       "actors": [
-        "Donald Trump",
+        "Pam Bondi",
         "Department of Justice",
+        "Task Force KleptoCapture",
         "Russian Oligarchs"
       ],
       "tags": [
@@ -15956,15 +16234,27 @@
       "capture_type": "monetizing_position",
       "sources": [
         {
-          "title": "Report: Trump Administration Disbands Task Force Targeting Russian Oligarchs",
-          "url": "https://example.com/source1",
-          "outlet": "Major News Outlet",
+          "title": "Trump administration ends Biden-era task force aimed at seizing Russian oligarchs assets",
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-ends-biden-era-task-force-aimed-at-seizing-russian-oligarchs-assets",
+          "outlet": "PBS News",
           "date": "2025-02-06"
         },
         {
-          "title": "Analysis: Trump Administration Disbands Task Force Targeting Russian Oligarchs",
-          "url": "https://example.com/source2",
-          "outlet": "Independent Media",
+          "title": "Trump's Justice Department ends Biden-era task force aimed at seizing assets of Russian oligarchs",
+          "url": "https://www.washingtonpost.com/politics/2025/02/06/russia-sanctions-trump-treasury-doj-bondi/504f34fa-e4d8-11ef-ab83-bb30e4340014_story.html",
+          "outlet": "Washington Post",
+          "date": "2025-02-06"
+        },
+        {
+          "title": "U.S. Disbands Task Forces on Russian Sanctions, Foreign Influence",
+          "url": "https://www.themoscowtimes.com/2025/02/07/us-disbands-task-forces-on-russian-sanctions-foreign-influence-a87901",
+          "outlet": "The Moscow Times",
+          "date": "2025-02-07"
+        },
+        {
+          "title": "Pam Bondi Ends Task Force On Russian Oligarchs To Focus On Cartels",
+          "url": "https://www.newsweek.com/pam-bondi-ends-task-force-russian-oligarchs-focus-cartels-2027638",
+          "outlet": "Newsweek",
           "date": "2025-02-06"
         }
       ],
@@ -16318,16 +16608,17 @@
       "id": "2025-02-07--kash-patel-received-payments-from-russian-filmmake",
       "date": "2025-02-07",
       "title": "Kash Patel Received Payments from Russian Filmmaker with Kremlin Ties",
-      "summary": "Documents revealed Trump's FBI director pick Kash Patel was paid by a Russian filmmaker with ties to the Kremlin, raising serious concerns about foreign influence and conflicts of interest.",
+      "summary": "Trump's FBI director nominee Kash Patel received 25,000 from Igor Lopatonok's Global Tree Pictures for producing an anti-FBI documentary. Lopatonok is a Russian filmmaker with documented Kremlin ties who has promoted pro-Russian views and appeared alongside Putin ally Viktor Medvedchuk.",
       "description": "Documents revealed Trump's FBI director pick Kash Patel was paid by a Russian filmmaker with ties to the Kremlin, raising serious concerns about foreign influence and conflicts of interest.",
       "status": "confirmed",
       "importance": 9,
       "location": "Washington, D.C.",
       "actors": [
         "Kash Patel",
-        "Russian Filmmaker",
+        "Igor Lopatonok",
+        "Global Tree Pictures",
         "FBI",
-        "Kremlin"
+        "Tucker Carlson Network"
       ],
       "tags": [
         "kash-patel",
@@ -16339,15 +16630,27 @@
       "capture_type": "monetizing_position",
       "sources": [
         {
-          "title": "Report: Kash Patel Received Payments from Russian Filmmaker with Kremlin Ties",
-          "url": "https://example.com/source1",
-          "outlet": "Major News Outlet",
+          "title": "Kash Patel was paid by Russian filmmaker tied to Kremlin, documents show",
+          "url": "https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/",
+          "outlet": "Washington Post",
           "date": "2025-02-07"
         },
         {
-          "title": "Analysis: Kash Patel Received Payments from Russian Filmmaker with Kremlin Ties",
-          "url": "https://example.com/source2",
-          "outlet": "Independent Media",
+          "title": "Trump FBI Nominee Kash Patel Pocketed 25K From Filmmaker With Ties to Kremlin",
+          "url": "https://www.thedailybeast.com/trump-fbi-nominee-kash-patel-pocketed-25k-from-filmmaker-with-ties-to-kremlin/",
+          "outlet": "The Daily Beast",
+          "date": "2025-02-07"
+        },
+        {
+          "title": "Trump pick for FBI, Kash Patel, took 25k for role in Russia-linked anti-FBI film",
+          "url": "https://www.msnbc.com/rachel-maddow/watch/trump-pick-for-fbi-kash-patel-took-25k-for-role-in-russia-linked-anti-fbi-film-231465029557",
+          "outlet": "MSNBC",
+          "date": "2025-02-07"
+        },
+        {
+          "title": "FBI director nominee Kash Patel paid by Russian filmmaker close to Kremlin",
+          "url": "https://www.yahoo.com/news/fbi-director-nominee-kash-patel-013600652.html",
+          "outlet": "Yahoo News",
           "date": "2025-02-07"
         }
       ],
@@ -16716,9 +17019,27 @@
           "date": "2025-02-10"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump and His Family Earned Millions From Trump Coin While 810,000 Others Lost Money",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-meme-coin-2-billion-ls-1235261422/",
+          "outlet": "Rolling Stone",
+          "date": "2025-02-10"
+        },
+        {
+          "title": "Thousands of investors in Trump's memecoin lost $2 billion in just weeks while the family and its partners racked up $100 million in trading fees",
+          "url": "https://fortune.com/2025/02/11/trump-memecoin-traders-2-billion-dollar-loss-family-100-million-fees/",
+          "outlet": "Fortune",
+          "date": "2025-02-11"
+        },
+        {
+          "title": "810,000 Investors Have Lost Over $2 Billion on Trump Coin",
+          "url": "https://www.asiafinancial.com/810000-investors-have-lost-over-2-billion-on-trump-coin-nyt",
+          "outlet": "Asia Financial",
+          "date": "2025-02-10"
+        },
+        {
+          "title": "Over 760K lost money on Donald Trump's memecoin",
+          "url": "https://www.thestreet.com/crypto/markets/over-760k-lost-money-on-donald-trumps-memecoin-report",
+          "outlet": "TheStreet",
           "date": "2025-02-10"
         }
       ],
@@ -17067,7 +17388,7 @@
       "id": "2025-02-12--state-department-plans-400-million-purchase-of-tes",
       "date": "2025-02-12",
       "title": "State Department Plans $400 Million Purchase of Tesla Cybertrucks",
-      "summary": "The State Department announced plans to purchase $400 million worth of armored Tesla Cybertrucks, directly benefiting Elon Musk's company through government contracts.",
+      "summary": "State Department procurement documents showed plans for a 400 million purchase of armored Tesla vehicles, dramatically expanding a smaller Biden-era EV plan. After media scrutiny, the State Department removed Tesla from documents and claimed the purchase was on hold with no plans to proceed.",
       "description": "The State Department announced plans to purchase $400 million worth of armored Tesla Cybertrucks, directly benefiting Elon Musk's company through government contracts.",
       "status": "confirmed",
       "importance": 8,
@@ -17087,16 +17408,28 @@
       "capture_type": "monetizing_position",
       "sources": [
         {
-          "title": "Report: State Department Plans $400 Million Purchase of Tesla Cybertrucks",
-          "url": "https://example.com/source1",
-          "outlet": "Major News Outlet",
+          "title": "A new document undercuts Trump admin's denials about 400 million Tesla deal",
+          "url": "https://www.npr.org/2025/02/24/nx-s1-5305269/tesla-state-department-elon-musk-trump",
+          "outlet": "NPR",
+          "date": "2025-02-24"
+        },
+        {
+          "title": "Trump's State Department Could Spend 400 Million on Armored Teslas",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-musk-armored-tesla-400-million-1235265633/",
+          "outlet": "Rolling Stone",
           "date": "2025-02-12"
         },
         {
-          "title": "Analysis: State Department Plans $400 Million Purchase of Tesla Cybertrucks",
-          "url": "https://example.com/source2",
-          "outlet": "Independent Media",
+          "title": "Armored Tesla forecast to win 400 million State Department contract after Trump's election",
+          "url": "https://www.dropsitenews.com/p/elon-musk-armored-tesla-forecast-400-million-state-department-contracts",
+          "outlet": "DropSite News",
           "date": "2025-02-12"
+        },
+        {
+          "title": "U.S. State Department Pauses Plan to Spend 400M on Armored Teslas",
+          "url": "https://www.caranddriver.com/news/a63785649/tesla-state-department-armored-vehicle-contract/",
+          "outlet": "Car and Driver",
+          "date": "2025-02-13"
         }
       ],
       "connections": [],
@@ -17136,43 +17469,6 @@
           "url": "https://example.com",
           "outlet": "Archive",
           "date": "2025-02-12"
-        }
-      ],
-      "connections": [],
-      "patterns": [
-        "kleptocratic-capture"
-      ],
-      "notes": "Event from comprehensive kleptocracy timeline tracking."
-    },
-    {
-      "id": "2025-02-13--india-s-modi-talks-space-and-good-governance-with-musk-in-wa",
-      "date": "2025-02-13",
-      "title": "India's Modi talks space and 'good governance' with Musk in Washington",
-      "summary": "Elon Musk met with Indian PM Narendra Modi in the White House hours before Modi's official visit with Trump to discuss space, technology, and Starlink's entry into India",
-      "description": "Elon Musk met with Indian PM Narendra Modi in the White House hours before Modi's official visit with Trump to discuss space, technology, and Starlink's entry into India",
-      "status": "confirmed",
-      "importance": 6,
-      "location": "Washington, D.C.",
-      "actors": [
-        "Donald Trump",
-        "Trump Administration"
-      ],
-      "tags": [
-        "kleptocracy"
-      ],
-      "capture_type": "monetizing_position",
-      "sources": [
-        {
-          "title": "India's Modi talks space and 'good governance' with Musk in Washington",
-          "url": "https://www.reuters.com/world/indias-modi-holds-meeting-with-billionaire-tesla-ceo-musk-2025-02-13/",
-          "outlet": "REUTERS",
-          "date": "2025-02-13"
-        },
-        {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-02-13"
         }
       ],
       "connections": [],
@@ -17251,6 +17547,61 @@
           "url": "https://example.com",
           "outlet": "Archive",
           "date": "2025-02-13"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-02-13--indias-modi-talks-space-and-good-governance-with-m",
+      "date": "2025-02-13",
+      "title": "India's Modi talks space and 'good governance' with Musk in Washington",
+      "summary": "Elon Musk met with Indian PM Narendra Modi in the White House hours before Modi's official visit with Trump to discuss space, technology, and Starlink's entry into India",
+      "description": "Elon Musk met with Indian PM Narendra Modi in the White House hours before Modi's official visit with Trump to discuss space, technology, and Starlink's entry into India",
+      "status": "confirmed",
+      "importance": 6,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "India's Modi talks space and 'good governance' with Musk in Washington",
+          "url": "https://www.reuters.com/world/indias-modi-holds-meeting-with-billionaire-tesla-ceo-musk-2025-02-13/",
+          "outlet": "REUTERS",
+          "date": "2025-02-13"
+        },
+        {
+          "title": "President Trump doesn't know if Elon Musk met Narendra Modi as a CEO or White House employee",
+          "url": "https://fortune.com/2025/02/14/president-trump-musk-modi-conflicts-interest-meeting/",
+          "outlet": "Fortune",
+          "date": "2025-02-14"
+        },
+        {
+          "title": "PM Modi meets Elon Musk during US visit: AI, space, technology, and business on agenda",
+          "url": "https://www.businesstoday.in/technology/news/story/pm-modi-meets-elon-musk-during-us-visit-ai-space-technology-and-business-on-agenda-464598-2025-02-14",
+          "outlet": "Business Today",
+          "date": "2025-02-14"
+        },
+        {
+          "title": "WTF Was Elon Musk Doing Meeting With India's Modi?",
+          "url": "https://newrepublic.com/post/191521/elon-musk-meeting-india-narendra-modi",
+          "outlet": "The New Republic",
+          "date": "2025-02-13"
+        },
+        {
+          "title": "Airtel, Starlink announce India deal weeks after Musk met Modi",
+          "url": "https://restofworld.org/2025/airtel-starlink-india-deal-modi-musk/",
+          "outlet": "Rest of World",
+          "date": "2025-03-01"
         }
       ],
       "connections": [],
@@ -17412,6 +17763,65 @@
         }
       ],
       "notes": "Part of systematic effort to replace career civil servants with political appointees",
+      "status": "confirmed"
+    },
+    {
+      "id": "2025-02-15--capital-one-cfpb-case-dropped-after-1-million-inau",
+      "date": "2025-02-15",
+      "title": "Capital One CFPB case dropped after $1 million inauguration donation",
+      "summary": "After Capitol One donated $1 million to President Trump's inauguration fund, the Trump Administration ended a Consumer Financial Protection Bureau (CFPB) case against Capital One involving allegedly misleading consumers about interest payments.",
+      "importance": 8,
+      "tags": [
+        "corruption",
+        "pay-to-play",
+        "cfpb",
+        "capital-one",
+        "inauguration-fund",
+        "regulatory-capture"
+      ],
+      "actors": [
+        "Capital One",
+        "Donald Trump",
+        "CFPB"
+      ],
+      "sources": [
+        {
+          "title": "100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest",
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest",
+          "outlet": "House Oversight Democrats",
+          "date": "2025-05-02"
+        },
+        {
+          "title": "CFPB Probes of Big Tech and Finance Frozen Under Trump",
+          "url": "https://www.propublica.org/article/trump-cfpb-investigation-capital-one-rocket-meta-carvana-greenlight",
+          "outlet": "ProPublica",
+          "date": "2025-02-27"
+        },
+        {
+          "title": "The CFPB drops its lawsuit against Capital One, marking a major reversal",
+          "url": "https://www.npr.org/2025/02/27/nx-s1-5311561/cfpb-confirmation-mckernan-lawsuits-capital-one",
+          "outlet": "NPR",
+          "date": "2025-02-27"
+        },
+        {
+          "title": "CFPB drops Capital One lawsuit and other cases launched under Biden",
+          "url": "https://www.washingtonpost.com/business/2025/02/27/cfpb-drops-capital-one-lawsuit-other-cases-launched-under-biden/",
+          "outlet": "Washington Post",
+          "date": "2025-02-27"
+        },
+        {
+          "title": "Trump Drops or Pauses Cases Against 17 Corporations That Funded His Inauguration",
+          "url": "https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/",
+          "outlet": "Truthout",
+          "date": "2025-04-21"
+        },
+        {
+          "title": "Trump's Inauguration Donor Pool Includes 0 Million from Corporations Under Investigation",
+          "url": "https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/",
+          "outlet": "Public Citizen",
+          "date": "2025-03-12"
+        }
+      ],
       "status": "confirmed"
     },
     {
@@ -17786,15 +18196,18 @@
       "id": "2025-02-18--trump-signs-order-to-claim-power-over-independent-",
       "date": "2025-02-18",
       "title": "Trump Signs Order to Claim Power Over Independent Agencies",
-      "summary": "President Trump signed an executive order claiming direct control over traditionally independent federal agencies, undermining their ability to operate free from political interference.",
+      "summary": "Trump signed executive order \"Ensuring Accountability for All Agencies\" requiring independent agencies like FTC, SEC, and FCC to submit regulations for White House review, effectively ending 90 years of agency independence and bringing them under direct presidential control.",
       "description": "President Trump signed an executive order claiming direct control over traditionally independent federal agencies, undermining their ability to operate free from political interference.",
       "status": "confirmed",
       "importance": 9,
       "location": "Washington, D.C.",
       "actors": [
         "Donald Trump",
-        "Independent Agencies",
-        "Federal Government"
+        "FTC",
+        "SEC",
+        "FCC",
+        "CFPB",
+        "Federal Election Commission"
       ],
       "tags": [
         "independent-agencies",
@@ -17805,15 +18218,27 @@
       "capture_type": "monetizing_position",
       "sources": [
         {
-          "title": "Report: Trump Signs Order to Claim Power Over Independent Agencies",
-          "url": "https://example.com/source1",
-          "outlet": "Major News Outlet",
+          "title": "Trump signs executive order challenging independence of FCC, FTC and SEC",
+          "url": "https://www.washingtonpost.com/politics/2025/02/18/trump-executive-order-fcc-ftc-sec/",
+          "outlet": "Washington Post",
           "date": "2025-02-18"
         },
         {
-          "title": "Analysis: Trump Signs Order to Claim Power Over Independent Agencies",
-          "url": "https://example.com/source2",
-          "outlet": "Independent Media",
+          "title": "Trump executive order targets control of SEC, FTC, and FCC",
+          "url": "https://fortune.com/2025/02/19/trump-executive-order-aims-to-seize-control-from-independent-watchdogs-sec-ftc-and-fcc/",
+          "outlet": "Fortune",
+          "date": "2025-02-19"
+        },
+        {
+          "title": "Trump claims expanded power over independent agencies",
+          "url": "https://www.npr.org/2025/02/19/nx-s1-5302481/trump-independent-agencies",
+          "outlet": "NPR",
+          "date": "2025-02-19"
+        },
+        {
+          "title": "President Donald J. Trump Reins in Independent Agencies to Restore a Government that Answers to the American People",
+          "url": "https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-reins-in-independent-agencies-to-restore-a-government-that-answers-to-the-american-people/",
+          "outlet": "White House",
           "date": "2025-02-18"
         }
       ],
@@ -17973,6 +18398,60 @@
         "kleptocratic-capture"
       ],
       "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-02-20--consensys-sec-case-dropped-after-100000-inaugurati",
+      "date": "2025-02-20",
+      "title": "Consensys SEC case dropped after $100,000 inauguration donation",
+      "summary": "After crypto company Consensys donated $100,000 to President Trump's inaugural fund, the U.S. Securities and Exchange Commission (SEC) dropped a case pending against the firm.",
+      "importance": 8,
+      "tags": [
+        "corruption",
+        "pay-to-play",
+        "sec",
+        "consensys",
+        "cryptocurrency",
+        "inauguration-fund",
+        "regulatory-capture"
+      ],
+      "actors": [
+        "Consensys",
+        "Donald Trump",
+        "SEC"
+      ],
+      "sources": [
+        {
+          "title": "100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest",
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest",
+          "outlet": "House Oversight Democrats",
+          "date": "2025-05-02"
+        },
+        {
+          "title": "Consensys, Solana, Uniswap CEO donated to Trump inauguration fund",
+          "url": "https://cointelegraph.com/news/consensys-solana-uniswap-donald-trump-inauguration-donation",
+          "outlet": "Cointelegraph",
+          "date": "2025-04-21"
+        },
+        {
+          "title": "Analysis: Crypto Industry Donated 13M+ To Trump Inauguration, Then Administration Dropped SEC Lawsuits",
+          "url": "https://accountable.us/analysis-crypto-industry-donated-13m-to-trumps-inauguration-then-administration-dropped-sec-lawsuits-probes-against-five-donors-among-other-industry-gifts/",
+          "outlet": "Accountable US",
+          "date": "2025-02-20"
+        },
+        {
+          "title": "Consensys and SEC reach agreement to dismiss MetaMask securities case",
+          "url": "https://cryptobriefing.com/consensys-metasmask-securities-case/",
+          "outlet": "Crypto Briefing",
+          "date": "2025-02-20"
+        },
+        {
+          "title": "SEC Crypto Reversals: Every Case It Dropped in 2025",
+          "url": "https://www.ccn.com/news/crypto/sec-crypto-reversals-2025-lawsuits/",
+          "outlet": "CCN",
+          "date": "2025-02-21"
+        }
+      ],
+      "status": "confirmed"
     },
     {
       "id": "2025-02-20--consensys-sec-case-dropped-after-donation",
@@ -18346,7 +18825,7 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-02-22--musk-s-cost-cutting-team-is-laying-off-workers-at-the-auto-s",
+      "id": "2025-02-22--musks-cost-cutting-team-is-laying-off-workers-at-t",
       "date": "2025-02-22",
       "title": "Musk\u2019s cost-cutting team is laying off workers at the auto safety agency overseeing his car company",
       "summary": "Elon Musk is slashing jobs at the National Highway Traffic Safety Administration\u2014the federal agency that oversees auto safety and crash investigations, including those involving Tesla",
@@ -18370,10 +18849,28 @@
           "date": "2025-02-22"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-02-22"
+          "title": "DOGE employee cuts fall heavily on agency that regulates Musk's Tesla",
+          "url": "https://www.washingtonpost.com/business/2025/02/21/musk-doge-tesla-autonomous-vehicles-nhtsa/",
+          "outlet": "Washington Post",
+          "date": "2025-02-21"
+        },
+        {
+          "title": "Musk's DOGE is laying off workers at the auto safety agency overseeing Tesla",
+          "url": "https://fortune.com/2025/02/23/elon-musk-doge-nhtsa-layoffs-safety-tesla-self-driving/",
+          "outlet": "Fortune",
+          "date": "2025-02-23"
+        },
+        {
+          "title": "Elon Musk's DOGE comes for agency that regulates autonomous vehicles",
+          "url": "https://techcrunch.com/2025/02/21/elon-musks-doge-comes-for-agency-that-regulates-autonomous-vehicles/",
+          "outlet": "TechCrunch",
+          "date": "2025-02-21"
+        },
+        {
+          "title": "Elon Musk's DOGE Gives Tesla Massive Helping Hand With Newest Purge",
+          "url": "https://newrepublic.com/post/193850/elon-musk-doge-tesla-firing-self-driving-car-experts",
+          "outlet": "The New Republic",
+          "date": "2025-04-10"
         }
       ],
       "connections": [],
@@ -18446,9 +18943,27 @@
           "date": "2025-02-25"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump wants to use $5 million gold cards to replace foreign investor visas",
+          "url": "https://www.nbcnews.com/news/latino/trump-gold-cards-visas-foreign-investors-rcna193811",
+          "outlet": "NBC News",
+          "date": "2025-02-25"
+        },
+        {
+          "title": "Trump wants to offer $5 million gold cards to rich immigrants",
+          "url": "https://www.npr.org/2025/02/25/nx-s1-5308649/trump-green-card-gold-card-immigration",
+          "outlet": "NPR",
+          "date": "2025-02-25"
+        },
+        {
+          "title": "Trump proposes offering $5 million \"gold card\" to wealthy immigrants. Here's how it would work.",
+          "url": "https://www.cbsnews.com/news/trump-gold-card-eb5-visa-5-million-immigration-oligarch-cbs-news-explains/",
+          "outlet": "CBS News",
+          "date": "2025-02-25"
+        },
+        {
+          "title": "US will sell gold card to wealthy foreigners, Trump says, replacing EB-5 visa program",
+          "url": "https://www.cnn.com/2025/02/25/politics/us-gold-card-foreigners-trump/index.html",
+          "outlet": "CNN",
           "date": "2025-02-25"
         }
       ],
@@ -18646,6 +19161,59 @@
       "capture_lanes": [
         "Federal Workforce Capture"
       ]
+    },
+    {
+      "id": "2025-02-26--ice-arrests-increase-627-in-first-month-under-trum",
+      "date": "2025-02-26",
+      "title": "ICE arrests increase 627% in first month under Trump vs Biden era",
+      "summary": "Under President Trump, ICE made over 20,000 arrests in a single month - a 627% increase compared to just 33,000 at-large arrests for all of last year under Biden. This dramatic escalation marks the beginning of the administration's mass deportation campaign.",
+      "importance": 8,
+      "tags": [
+        "immigration-enforcement",
+        "mass-deportation",
+        "ICE",
+        "statistical-milestone",
+        "enforcement-escalation"
+      ],
+      "actors": [
+        "Donald Trump",
+        "ICE",
+        "DHS",
+        "Kristi Noem"
+      ],
+      "sources": [
+        {
+          "title": "Under President Trump ICE Arrests Have Increased by 627%",
+          "url": "https://www.dhs.gov/news/2025/02/26/under-president-trump-ice-arrests-have-increased-627",
+          "outlet": "Department of Homeland Security",
+          "date": "2025-02-26"
+        },
+        {
+          "title": "ICE is making more arrests, but critics say some claims do not add up",
+          "url": "https://www.npr.org/2025/03/01/nx-s1-5313059/immigration-ice-arrests-misleading-claims-kristi-noem-dhs",
+          "outlet": "NPR",
+          "date": "2025-03-01"
+        },
+        {
+          "title": "ICE tallies 20000 arrests in one month",
+          "url": "https://www.washingtontimes.com/news/2025/feb/26/ice-tallies-20000-arrests-one-month/",
+          "outlet": "Washington Times",
+          "date": "2025-02-26"
+        },
+        {
+          "title": "President Trump Delivers Again: ICE Arrests Surge Nationwide",
+          "url": "https://www.whitehouse.gov/articles/2025/07/president-trump-delivers-again-ice-arrests-surge-nationwide/",
+          "outlet": "White House",
+          "date": "2025-07-01"
+        },
+        {
+          "title": "Trump's ICE Racks Up Over 20,000 Arrests In Single Month",
+          "url": "https://dailycaller.com/2025/02/27/ice-20000-arrests-one-month-trump-admin/",
+          "outlet": "The Daily Caller",
+          "date": "2025-02-27"
+        }
+      ],
+      "status": "confirmed"
     },
     {
       "id": "2025-02-26--trump-order-calls-for-creation-of-doge-linked-agency-payment",
@@ -20076,9 +20644,27 @@
           "date": "2025-03-07"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "USDT Issuer Tether Ranks Among Top Foreign Buyers of U.S. Treasuries in 2024",
+          "url": "https://www.coindesk.com/business/2025/03/20/tether-ranks-among-top-foreign-buyers-of-u-s-treasuries-in-2024-firm-says",
+          "outlet": "CoinDesk",
+          "date": "2025-03-20"
+        },
+        {
+          "title": "Tether, Chevron, Google play national security dealpolitik",
+          "url": "https://www.semafor.com/article/03/25/2025/tether-chevron-google-play-national-security-dealpolitik",
+          "outlet": "Semafor",
+          "date": "2025-03-25"
+        },
+        {
+          "title": "Tether was 7th largest US Treasury holder in 2024, surpassing nations like Canada and Norway",
+          "url": "https://cryptoslate.com/insights/tether-was-7th-largest-us-treasury-holder-in-2024-surpassing-nations-like-canada-and-norway/",
+          "outlet": "CryptoSlate",
+          "date": "2025-03-07"
+        },
+        {
+          "title": "Stablecoins are set to reshape the multitrillion-dollar US Treasury market",
+          "url": "https://finance.yahoo.com/news/stablecoins-are-set-to-reshape-the-multitrillion-dollar-us-treasury-market-100041163.html",
+          "outlet": "Yahoo Finance",
           "date": "2025-03-07"
         }
       ],
@@ -20408,7 +20994,7 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-03-11--trump-calls-tesla-boycott-illegal-and-says-he-s-buying-one-t",
+      "id": "2025-03-11--trump-calls-tesla-boycott-illegal-and-says-hes-buy",
       "date": "2025-03-11",
       "title": "Trump calls Tesla boycott \u2018illegal\u2019 and says he\u2019s buying one to support Musk",
       "summary": "Trump called Tesla boycott \u2018illegal\u2019 and threatened a federal crackdown on the protest movement",
@@ -20432,9 +21018,27 @@
           "date": "2025-03-11"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump declares Tesla boycott illegal and vows to buy a new car from Elon Musk in solidarity",
+          "url": "https://fortune.com/2025/03/11/president-trump-elon-musk-tesla-boycott-illegal-evs/",
+          "outlet": "Fortune",
+          "date": "2025-03-11"
+        },
+        {
+          "title": "Trump calls Tesla boycott illegal and says he's buying one to support Elon Musk",
+          "url": "https://www.cnbc.com/2025/03/11/trump-says-hes-buying-a-tesla-to-support-elon-musk-and-counter-illegal-boycott-of-ev-maker.html",
+          "outlet": "CNBC",
+          "date": "2025-03-11"
+        },
+        {
+          "title": "Donald Trump Calls Tesla Boycotts Illegal",
+          "url": "https://www.newsweek.com/donald-trump-tesla-boycott-illegal-2042647",
+          "outlet": "Newsweek",
+          "date": "2025-03-11"
+        },
+        {
+          "title": "Trump Cries for Elon, Blames Illegal Liberal Boycott for Tanking Tesla",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-cries-elon-illegal-liberal-boycott-tesla-1235293465/",
+          "outlet": "Rolling Stone",
           "date": "2025-03-11"
         }
       ],
@@ -20903,9 +21507,27 @@
           "date": "2025-03-13"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Binance token rises following report that Trump family has discussed stake in the crypto exchange",
+          "url": "https://www.cnbc.com/2025/03/13/binance-token-rises-after-report-that-trump-family-has-discussed-stake.html",
+          "outlet": "CNBC",
+          "date": "2025-03-13"
+        },
+        {
+          "title": "Trump Crypto Venture Has Talked to Binance About Doing Business",
+          "url": "https://www.bloomberg.com/news/articles/2025-03-13/trump-crypto-venture-has-talked-to-binance-about-doing-business",
+          "outlet": "Bloomberg",
+          "date": "2025-03-13"
+        },
+        {
+          "title": "Trump family is reportedly in talks to acquire stake in Binance's US arm",
+          "url": "https://techcrunch.com/2025/03/14/trump-family-is-reportedly-in-talks-to-acquire-stake-in-binances-us-arm/",
+          "outlet": "TechCrunch",
+          "date": "2025-03-14"
+        },
+        {
+          "title": "BNB Jumps 5% After WSJ Reports That Trump Family Held Talks to Buy Stake in Binance.US",
+          "url": "https://www.coindesk.com/policy/2025/03/13/trump-family-had-held-talks-to-buy-stake-in-binance-us-report",
+          "outlet": "CoinDesk",
           "date": "2025-03-13"
         }
       ],
@@ -21210,7 +21832,7 @@
       "status": "confirmed"
     },
     {
-      "id": "2025-03-16--top-broadband-official-exits-commerce-department-with-sharp-",
+      "id": "2025-03-16--top-broadband-official-exits-commerce-department-w",
       "date": "2025-03-16",
       "title": "Top broadband official exits Commerce Department with sharp Musk warning",
       "summary": "Evan Feinman, who led the Commerce Department\u2019s $42.5 billion broadband program, resigned warning that Trump is restructuring the initiative to benefit Elon Musk\u2019s Starlink",
@@ -21235,10 +21857,28 @@
           "date": "2025-03-16"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Outgoing Commerce Official Shreds Elon Musk's Starlink in Final Email",
+          "url": "https://newrepublic.com/post/192819/commerce-official-elon-musk-starlink",
+          "outlet": "The New Republic",
           "date": "2025-03-16"
+        },
+        {
+          "title": "Outgoing Broadband Chief Issues Stark Warning Against Elon Musk",
+          "url": "https://www.rollingstone.com/politics/politics-news/outgoing-broadband-chief-warning-elon-musk-1235297425/",
+          "outlet": "Rolling Stone",
+          "date": "2025-03-16"
+        },
+        {
+          "title": "Commerce Department Director Leaves Job With a Scathing Warning About Elon Musk",
+          "url": "https://www.thedailybeast.com/commerce-department-director-leaves-job-with-a-scathing-warning-about-elon-musk/",
+          "outlet": "The Daily Beast",
+          "date": "2025-03-16"
+        },
+        {
+          "title": "Trump's changes to a 42 billion broadband program could be a win for Musk's Starlink",
+          "url": "https://www.npr.org/2025/03/28/nx-s1-5338963/musk-starlink-broadband-commerce",
+          "outlet": "NPR",
+          "date": "2025-03-28"
         }
       ],
       "connections": [],
@@ -21452,9 +22092,27 @@
           "date": "2025-03-18"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump fires Democratic FTC commissioners",
+          "url": "https://www.axios.com/2025/03/18/trump-fires-democratic-ftc-commissioners",
+          "outlet": "Axios",
+          "date": "2025-03-18"
+        },
+        {
+          "title": "Fired FTC commissioner warns of a Trump power grab",
+          "url": "https://www.npr.org/2025/03/20/nx-s1-5333640/ftc-trump-firings-democrats",
+          "outlet": "NPR",
+          "date": "2025-03-20"
+        },
+        {
+          "title": "Trump fires FTC commissioners, setting up a legal battle",
+          "url": "https://techcrunch.com/2025/03/18/trump-fires-ftc-commissioners-setting-up-a-legal-battle/",
+          "outlet": "TechCrunch",
+          "date": "2025-03-18"
+        },
+        {
+          "title": "FTC commissioner fired by Trump says move threatens agency designed to protect consumers",
+          "url": "https://www.pbs.org/newshour/show/ftc-commissioner-fired-by-trump-says-move-threatens-agency-designed-to-protect-consumers",
+          "outlet": "PBS NewsHour",
           "date": "2025-03-18"
         }
       ],
@@ -22135,45 +22793,6 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-03-24--trump-media-shares-jump-on-announcement-of-etf-deal-with-cry",
-      "date": "2025-03-24",
-      "title": "Trump Media shares jump on announcement of ETF deal with Crypto.com",
-      "summary": "Trump Media Group's stock price surged after announcing a partnership with Crypto.com for \"Made in America\" ETF",
-      "description": "Trump Media Group's stock price surged after announcing a partnership with Crypto.com for \"Made in America\" ETF",
-      "status": "confirmed",
-      "importance": 7,
-      "location": "Washington, D.C.",
-      "actors": [
-        "Donald Trump",
-        "Trump Administration"
-      ],
-      "tags": [
-        "crypto",
-        "media-control",
-        "government-contracts"
-      ],
-      "capture_type": "monetizing_position",
-      "sources": [
-        {
-          "title": "Trump Media shares jump on announcement of ETF deal with Crypto.com",
-          "url": "https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html",
-          "outlet": "CNBC",
-          "date": "2025-03-24"
-        },
-        {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-03-24"
-        }
-      ],
-      "connections": [],
-      "patterns": [
-        "kleptocratic-capture"
-      ],
-      "notes": "Event from comprehensive kleptocracy timeline tracking."
-    },
-    {
       "id": "2025-03-24--epa-tce-delay-and-july-eto-rollback",
       "date": "2025-03-24",
       "importance": 5,
@@ -22297,11 +22916,11 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-03-25--trump-sec-pick-discloses-family-fortune-of-more-than-328-mil",
-      "date": "2025-03-25",
-      "title": "Trump SEC pick discloses family fortune of more than $328 million",
-      "summary": "Paul Atkins, Trump\u2019s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
-      "description": "Paul Atkins, Trump\u2019s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
+      "id": "2025-03-24--trump-media-shares-jump-on-announcement-of-etf-dea",
+      "date": "2025-03-24",
+      "title": "Trump Media shares jump on announcement of ETF deal with Crypto.com",
+      "summary": "Trump Media Group's stock price surged after announcing a partnership with Crypto.com for \"Made in America\" ETF",
+      "description": "Trump Media Group's stock price surged after announcing a partnership with Crypto.com for \"Made in America\" ETF",
       "status": "confirmed",
       "importance": 7,
       "location": "Washington, D.C.",
@@ -22310,22 +22929,41 @@
         "Trump Administration"
       ],
       "tags": [
-        "regulatory-capture",
+        "crypto",
+        "media-control",
         "government-contracts"
       ],
-      "capture_type": "regulatory_capture",
+      "capture_type": "monetizing_position",
       "sources": [
         {
-          "title": "Trump SEC pick discloses family fortune of more than $328 million",
-          "url": "https://www.reuters.com/world/us/trump-sec-pick-discloses-family-fortune-more-than-328-million-2025-03-25/",
-          "outlet": "REUTERS",
-          "date": "2025-03-25"
+          "title": "Trump Media shares jump on announcement of ETF deal with Crypto.com",
+          "url": "https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html",
+          "outlet": "CNBC",
+          "date": "2025-03-24"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-03-25"
+          "title": "Trump Media, Crypto.com, and Yorkville America Digital Finalize Agreement for ETF Launch",
+          "url": "https://www.globenewswire.com/news-release/2025/04/22/3065411/0/en/Trump-Media-Crypto-com-and-Yorkville-America-Digital-Finalize-Agreement-for-ETF-Launch.html",
+          "outlet": "GlobeNewswire",
+          "date": "2025-04-22"
+        },
+        {
+          "title": "Trump Media (DJT) Taps Crypto.com for Made-in-America ETFs",
+          "url": "https://www.bloomberg.com/news/articles/2025-03-24/trump-media-taps-singapore-s-crypto-com-for-made-in-america-etfs",
+          "outlet": "Bloomberg",
+          "date": "2025-03-24"
+        },
+        {
+          "title": "Trump Media's fintech arm will launch a string of Made in America ETFs with Crypto.com",
+          "url": "https://fortune.com/article/trump-media-etf-crypto-truth-social/",
+          "outlet": "Fortune",
+          "date": "2025-03-24"
+        },
+        {
+          "title": "Trump Media partners with Crypto.com on ETF offerings",
+          "url": "https://www.foxbusiness.com/markets/trump-media-crypto-com-partner-etf-offerings",
+          "outlet": "Fox Business",
+          "date": "2025-03-24"
         }
       ],
       "connections": [],
@@ -22438,6 +23076,62 @@
           "url": "https://example.com",
           "outlet": "Archive",
           "date": "2025-03-25"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-03-25--trump-sec-pick-discloses-family-fortune-of-more-th",
+      "date": "2025-03-25",
+      "title": "Trump SEC pick discloses family fortune of more than $328 million",
+      "summary": "Paul Atkins, Trump\u2019s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
+      "description": "Paul Atkins, Trump\u2019s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
+      "status": "confirmed",
+      "importance": 7,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "regulatory-capture",
+        "government-contracts"
+      ],
+      "capture_type": "regulatory_capture",
+      "sources": [
+        {
+          "title": "Trump SEC pick discloses family fortune of more than $328 million",
+          "url": "https://www.reuters.com/world/us/trump-sec-pick-discloses-family-fortune-more-than-328-million-2025-03-25/",
+          "outlet": "REUTERS",
+          "date": "2025-03-25"
+        },
+        {
+          "title": "SEC Chair Nominee Paul Atkins, Spouse Worth at Least 27 Million",
+          "url": "https://www.bloomberg.com/news/articles/2025-03-25/sec-chair-nominee-paul-atkins-spouse-worth-at-least-327-million",
+          "outlet": "Bloomberg",
+          "date": "2025-03-25"
+        },
+        {
+          "title": "Incoming SEC chair Paul Atkins owns up to  million in crypto-related assets",
+          "url": "https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/",
+          "outlet": "Fortune",
+          "date": "2025-03-25"
+        },
+        {
+          "title": "Trump SEC Pick Paul Atkins' Crypto Ties Draw Sen. Warren's Ire Ahead of Confirmation Hearing",
+          "url": "https://www.coindesk.com/policy/2025/03/26/trump-sec-pick-paul-atkins-crypto-ties-draw-sen-warren-s-ire-ahead-of-confirmation-hearing",
+          "outlet": "CoinDesk",
+          "date": "2025-03-26"
+        },
+        {
+          "title": "US Senate confirms Paul Atkins to lead SEC under Trump",
+          "url": "https://cointelegraph.com/news/paul-atkins-us-senate-confirms-sec-chair-nomination",
+          "outlet": "Cointelegraph",
+          "date": "2025-04-09"
         }
       ],
       "connections": [],
@@ -22817,9 +23511,27 @@
           "date": "2025-03-28"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump pardons three BitMEX crypto exchange co-founders, and ex-employee",
+          "url": "https://www.cnbc.com/2025/03/28/trump-pardon-bitmex-crypto-exchange-money-laundering.html",
+          "outlet": "CNBC",
+          "date": "2025-03-28"
+        },
+        {
+          "title": "Trump Pardons Bitmex Co-Founders Arthur Hayes, Benjamin Delo and Samuel Reed",
+          "url": "https://www.bloomberg.com/news/articles/2025-03-28/trump-pardons-bitmex-co-founders-arthur-hayes-benjamin-delo-and-samuel-reed",
+          "outlet": "Bloomberg",
+          "date": "2025-03-28"
+        },
+        {
+          "title": "President Trump Pardons Arthur Hayes, 3 Other BitMEX Co-Founders and Employee",
+          "url": "https://www.coindesk.com/policy/2025/03/28/president-trump-pardons-arthur-hayes-2-other-bitmex-co-founders-cnbc",
+          "outlet": "CoinDesk",
+          "date": "2025-03-28"
+        },
+        {
+          "title": "Trump Pardons 3 BitMEX Co-Founders Following Guilty Pleas in Money Laundering Case",
+          "url": "https://www.yahoo.com/news/trump-pardons-3-bitmex-co-005646361.html",
+          "outlet": "Yahoo News",
           "date": "2025-03-28"
         }
       ],
@@ -22858,43 +23570,6 @@
           "url": "https://example.com",
           "outlet": "Archive",
           "date": "2025-03-30"
-        }
-      ],
-      "connections": [],
-      "patterns": [
-        "kleptocratic-capture"
-      ],
-      "notes": "Event from comprehensive kleptocracy timeline tracking."
-    },
-    {
-      "id": "2025-03-31--musk-funded-political-group-spends-big-and-goes-door-to-door",
-      "date": "2025-03-31",
-      "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
-      "summary": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
-      "description": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
-      "status": "confirmed",
-      "importance": 7,
-      "location": "Washington, D.C.",
-      "actors": [
-        "Donald Trump",
-        "Trump Administration"
-      ],
-      "tags": [
-        "government-contracts"
-      ],
-      "capture_type": "monetizing_position",
-      "sources": [
-        {
-          "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
-          "url": "https://apnews.com/article/america-pac-musk-wisconsin-supreme-court-5c85a9f9b06f26cb2e09f2b35b1ff87a",
-          "outlet": "Associated Press",
-          "date": "2025-03-31"
-        },
-        {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-03-31"
         }
       ],
       "connections": [],
@@ -23008,6 +23683,61 @@
           "url": "https://example.com",
           "outlet": "Archive",
           "date": "2025-03-31"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-03-31--musk-funded-political-group-spends-big-and-goes-do",
+      "date": "2025-03-31",
+      "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
+      "summary": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
+      "description": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
+      "status": "confirmed",
+      "importance": 7,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "government-contracts"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
+          "url": "https://apnews.com/article/america-pac-musk-wisconsin-supreme-court-5c85a9f9b06f26cb2e09f2b35b1ff87a",
+          "outlet": "Associated Press",
+          "date": "2025-03-31"
+        },
+        {
+          "title": "Musk PAC spends big and goes door to door in Wisconsin Supreme Court race",
+          "url": "https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race",
+          "outlet": "PBS NewsHour",
+          "date": "2025-03-31"
+        },
+        {
+          "title": "Elon Musk Wasted 5M on Wisconsin Supreme Court Election Failure",
+          "url": "https://www.newsweek.com/elon-musk-wisconsin-supreme-court-election-loss-2053668",
+          "outlet": "Newsweek",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "Elon Musk-funded political group spends big, goes door to door in Wisconsin Supreme Court race",
+          "url": "https://madison.com/news/state-regional/government-politics/elections/article_ebc5dd15-2335-4089-aafd-7bfd86c9eaa4.html",
+          "outlet": "Madison.com",
+          "date": "2025-03-31"
+        },
+        {
+          "title": "Wisconsin AG seeks to block Elon Musk's million-dollar giveaways ahead of state Supreme Court race",
+          "url": "https://www.nbcnews.com/politics/elections/elon-musk-travel-wisconsin-ahead-critical-state-supreme-court-election-rcna198544",
+          "outlet": "NBC News",
+          "date": "2025-03-30"
         }
       ],
       "connections": [],
@@ -23414,10 +24144,28 @@
           "date": "2025-04-02"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump Pardons Cryptocurrency Firm in Unprecedented Move",
+          "url": "https://www.wttlonline.com/stories/trump-pardons-cryptocurrency-firm-in-unprecedented-move,13649",
+          "outlet": "Washington Trade & Tariff Letter",
           "date": "2025-04-02"
+        },
+        {
+          "title": "Trump pardons three BitMEX crypto exchange co-founders, and ex-employee",
+          "url": "https://www.cnbc.com/2025/03/28/trump-pardon-bitmex-crypto-exchange-money-laundering.html",
+          "outlet": "CNBC",
+          "date": "2025-03-28"
+        },
+        {
+          "title": "President Trump Pardons Arthur Hayes, 3 Other BitMEX Co-Founders and Employee",
+          "url": "https://www.coindesk.com/policy/2025/03/28/president-trump-pardons-arthur-hayes-2-other-bitmex-co-founders-cnbc",
+          "outlet": "CoinDesk",
+          "date": "2025-03-28"
+        },
+        {
+          "title": "Trump reportedly pardons BitMEX co-founders convicted of money laundering violations",
+          "url": "https://www.thestreet.com/crypto/policy/trump-reportedly-pardons-bitmex-co-founders-in-surprise-move",
+          "outlet": "TheStreet",
+          "date": "2025-03-28"
         }
       ],
       "connections": [],
@@ -23698,10 +24446,28 @@
           "date": "2025-04-02"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump Media shares drop after warning the president's trust and other insiders could sell stock",
+          "url": "https://www.cnbc.com/2025/04/02/trump-media-shares-drop-after-warning-the-presidents-trust-and-other-insiders-could-sell-stock.html",
+          "outlet": "CNBC",
           "date": "2025-04-02"
+        },
+        {
+          "title": "Shares in Trump social media company sink following concerns about insider selloff",
+          "url": "https://abcnews.go.com/Politics/trump-media-filing-opens-door-president-sell-2b/story?id=120409342",
+          "outlet": "ABC News",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "Shares in Trump social media company sink following concerns about insider selloff",
+          "url": "https://finance.yahoo.com/news/trump-media-filing-opens-door-133700575.html",
+          "outlet": "Yahoo Finance",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "Trump Media stock has lost half its value since Inauguration Day",
+          "url": "https://www.cnbc.com/2025/03/10/trump-media-falls-more-than-11percent-as-broader-sell-off-intensifies.html",
+          "outlet": "CNBC",
+          "date": "2025-03-10"
         }
       ],
       "connections": [],
@@ -24013,9 +24779,27 @@
           "date": "2025-04-04"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "The Tech and Fossil Fuel Oligarchs Behind Musk-Trump's Chaos",
+          "url": "https://www.foodandwaterwatch.org/2025/04/01/musk-trump-tech-oil-oligarchs/",
+          "outlet": "Food and Water Watch",
+          "date": "2025-04-01"
+        },
+        {
+          "title": "Fossil fuel \"Oil-Garchs\" Reap Billions in Payback for Trump Support",
+          "url": "https://inequality.org/article/fossil-fuel-oil-garchs-reap-billions-for-trump-support/",
+          "outlet": "Inequality.org",
+          "date": "2025-04-04"
+        },
+        {
+          "title": "The fossil fuel industry spent $219 million to elect the new U.S. government",
+          "url": "https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/",
+          "outlet": "Yale Climate Connections",
+          "date": "2025-01-31"
+        },
+        {
+          "title": "Big Oil's $445 Million Investment in Trump and GOP Already Paying Off",
+          "url": "https://www.commondreams.org/news/big-oil-donations-trump",
+          "outlet": "Common Dreams",
           "date": "2025-04-04"
         }
       ],
@@ -24026,7 +24810,7 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-04-05--trump-family-s-cash-registers-ring-as-financial-meltdown-pla",
+      "id": "2025-04-05--trump-familys-cash-registers-ring-as-financial-mel",
       "date": "2025-04-05",
       "title": "Trump family\u2019s cash registers ring as financial meltdown plays out",
       "summary": "Trump spent the weekend cashing in and playing golf at his Florida resorts, and the Saudi-backed LIV Golf tournament rolled on at Trump National Doral",
@@ -24050,10 +24834,28 @@
           "date": "2025-04-05"
         },
         {
-          "title": "Timeline Analysis",
-          "url": "https://example.com/analysis",
-          "outlet": "Independent Analysis",
+          "title": "LIV Golf, Saudi relationships pull Trump to Florida as markets rage",
+          "url": "https://www.washingtonpost.com/politics/2025/04/03/liv-golf-saudi-relationships-pull-trump-florida-markets-rage/",
+          "outlet": "Washington Post",
+          "date": "2025-04-03"
+        },
+        {
+          "title": "Trump Enjoys Big Moneymaking Weekend Amid Market Meltdown",
+          "url": "https://www.thedailybeast.com/trump-enjoys-big-moneymaking-weekend-amid-market-meltdown/",
+          "outlet": "The Daily Beast",
           "date": "2025-04-05"
+        },
+        {
+          "title": "Trump National Doral Golf Club to Host Saudi-Backed LIV Golf Tournament in April",
+          "url": "https://www.bloomberg.com/news/articles/2025-01-07/trump-s-doral-resort-to-host-saudi-backed-liv-golf-in-april",
+          "outlet": "Bloomberg",
+          "date": "2025-01-07"
+        },
+        {
+          "title": "Trump, schmoozing Saudis, plays two roles: president and mogul",
+          "url": "https://www.washingtonpost.com/politics/2025/02/24/trump-saudi-arabia-liv-golf/",
+          "outlet": "Washington Post",
+          "date": "2025-02-24"
         }
       ],
       "connections": [],
@@ -24663,8 +25465,8 @@
       "id": "2025-04-11--binance-seeks-to-curb-u-s-oversight-while-in-deal-talks-with",
       "date": "2025-04-11",
       "title": "Binance seeks to curb U.S. oversight while in deal talks with Trump\u2019s crypto company",
-      "summary": "Recently fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya sounded the alarm over Elon Musk\u2019s operatives gaining potential access to confidential merger files and nonpublic business data\u2013which could be exploited to manipulate markets or benefit Musk\u2019s companies",
-      "description": "Recently fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya sounded the alarm over Elon Musk\u2019s operatives gaining potential access to confidential merger files and nonpublic business data\u2013which could be exploited to manipulate markets or benefit Musk\u2019s companies",
+      "summary": "Binance executives met with Treasury officials to request removal of U.S. monitor overseeing anti-money-laundering compliance while simultaneously negotiating deals with Trump's World Liberty Financial crypto venture",
+      "description": "Binance CEO Richard Teng and Chief Legal Officer Eleanor Hughes asked Treasury officials to remove or reduce the scope of U.S. monitorship while the company was in talks to list USD1 stablecoin from Trump's World Liberty Financial",
       "status": "confirmed",
       "importance": 9,
       "location": "Washington, D.C.",
@@ -24686,9 +25488,27 @@
           "date": "2025-04-11"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Binance seeks to curb US oversight during deal talks with Trump's crypto company, WSJ says",
+          "url": "https://www.investing.com/news/stock-market-news/binance-seeks-to-curb-us-oversight-while-in-deal-talks-with-trumps-crypto-company-wsj-reports-3982382",
+          "outlet": "Investing.com",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "Binance seeks to curb US oversight during deal talks with Trump's crypto company",
+          "url": "https://ca.finance.yahoo.com/news/binance-seeks-curb-us-oversight-013333727.html",
+          "outlet": "Yahoo Finance",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "Binance seeks to loosen U.S. oversight and forge ties with Trump family crypto venture",
+          "url": "https://www.mitrade.com/insights/news/live-news/article-3-756342-20250412",
+          "outlet": "Mitrade",
+          "date": "2025-04-12"
+        },
+        {
+          "title": "Binance Seeks to Curb US Oversight During Deal Talks With Trump's Crypto Company",
+          "url": "https://money.usnews.com/investing/news/articles/2025-04-11/binance-seeks-to-curb-us-oversight-while-in-deal-talks-with-trumps-crypto-company-wsj-reports",
+          "outlet": "US News",
           "date": "2025-04-11"
         }
       ],
@@ -24774,6 +25594,62 @@
         "kleptocratic-capture"
       ],
       "notes": "Event from comprehensive timeline tracking democratic erosion."
+    },
+    {
+      "id": "2025-04-11--trump-megadonor-drags-of-easy-access-to-white-hous",
+      "date": "2025-04-11",
+      "title": "Trump megadonor drags of easy access to White House",
+      "summary": "Former Democratic donor and Silicon Valley investor Chamath Palihapitiya bragged on a podcast that his donations to Trump now grant him direct access to top White House officials, including the deputy chief of staff, citing a recent call made on behalf of a friend affected by tariffs",
+      "description": "Former Democratic donor and Silicon Valley investor Chamath Palihapitiya bragged on a podcast that his donations to Trump now grant him direct access to top White House officials, including the deputy chief of staff, citing a recent call made on behalf of a friend affected by tariffs",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump megadonor drags of easy access to White House",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-donor-chamath-palihapitiya-brags-access-white-house-1235315702/",
+          "outlet": "Rolling Stone",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "Trump Megadonor Brags of Easy Access to White House",
+          "url": "https://www.yahoo.com/news/trump-megadonor-brags-easy-access-180813988.html",
+          "outlet": "Yahoo News",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "Chamath Palihapitiya Complains Couldn't Buy Access to Dems",
+          "url": "https://www.mediaite.com/media/podcasts/venture-capitalist-podcast-host-brutally-roasted-for-arguing-he-became-a-trump-support-so-he-could-buy-access/",
+          "outlet": "Mediaite",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "On Trade Policy, Trump Is Listening to CEOs",
+          "url": "https://jacobin.com/2025/04/trump-tariffs-ceos-donors-influence",
+          "outlet": "Jacobin",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "Venture Capitalist Says Global Elites Panic Because Now There's Something They Can't Control",
+          "url": "https://dailycaller.com/2025/04/10/chamath-palihapitiya-global-elites-government-control-tariffs-donald-trump/",
+          "outlet": "Daily Caller",
+          "date": "2025-04-10"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "id": "2025-04-11--trump-megadonor-drags-of-easy-access-to-white-house",
@@ -24872,10 +25748,28 @@
           "date": "2025-04-11"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump: 5 law firms commit $600 million in pro bono legal work",
+          "url": "https://www.cnbc.com/2025/04/11/trump-law-firms-pro-bono-work.html",
+          "outlet": "CNBC",
           "date": "2025-04-11"
+        },
+        {
+          "title": "Law firms pledge almost $1 billion in free work to Trump",
+          "url": "https://www.axios.com/2025/04/12/big-law-pro-bono-legal-work-trump",
+          "outlet": "Axios",
+          "date": "2025-04-12"
+        },
+        {
+          "title": "Five Major Law Firms Cut $600 Million Deals With Trump",
+          "url": "https://news.bloomberglaw.com/business-and-practice/five-major-law-firms-cut-600-million-deals-with-trump-1",
+          "outlet": "Bloomberg Law",
+          "date": "2025-04-11"
+        },
+        {
+          "title": "Trump's deals with law firms are like deals made with a gun to the head, lawyers say",
+          "url": "https://www.npr.org/2025/05/31/nx-s1-5406173/trump-deals-law-firms",
+          "outlet": "NPR",
+          "date": "2025-05-31"
         }
       ],
       "connections": [],
@@ -25379,43 +26273,6 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-04-16--elon-musk-installed-his-top-lieutenants-at-a-federal-agency-",
-      "date": "2025-04-16",
-      "title": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
-      "summary": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
-      "description": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
-      "status": "confirmed",
-      "importance": 6,
-      "location": "Washington, D.C.",
-      "actors": [
-        "Donald Trump",
-        "Trump Administration"
-      ],
-      "tags": [
-        "kleptocracy"
-      ],
-      "capture_type": "regulatory_capture",
-      "sources": [
-        {
-          "title": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
-          "url": "https://apnews.com/article/doge-musk-trump-ai-starlink-gsa-efficiency-d67a41d1be98db11f05ca8e4472f53bd",
-          "outlet": "Associated Press",
-          "date": "2025-04-16"
-        },
-        {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-04-16"
-        }
-      ],
-      "connections": [],
-      "patterns": [
-        "kleptocratic-capture"
-      ],
-      "notes": "Event from comprehensive kleptocracy timeline tracking."
-    },
-    {
       "id": "2025-04-16--elon-musk-focuses-donations-on-gop-lawmakers-targeting-judge",
       "date": "2025-04-16",
       "title": "Elon Musk focuses donations on GOP lawmakers targeting judges",
@@ -25528,7 +26385,62 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-04-17--musk-s-spacex-is-frontrunner-to-build-trump-s-golden-dome-mi",
+      "id": "2025-04-16--elon-musk-installed-his-top-lieutenants-at-a-feder",
+      "date": "2025-04-16",
+      "title": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
+      "summary": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
+      "description": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
+      "status": "confirmed",
+      "importance": 6,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "kleptocracy"
+      ],
+      "capture_type": "regulatory_capture",
+      "sources": [
+        {
+          "title": "Elon Musk installed his top lieutenants at a federal agency you probably haven\u2019t heard of",
+          "url": "https://apnews.com/article/doge-musk-trump-ai-starlink-gsa-efficiency-d67a41d1be98db11f05ca8e4472f53bd",
+          "outlet": "Associated Press",
+          "date": "2025-04-16"
+        },
+        {
+          "title": "Why Elon Musk installed his top lieutenants at a federal agency you probably haven't heard of",
+          "url": "https://www.washingtonpost.com/politics/2025/04/17/doge-musk-trump-ai-starlink-gsa-efficiency/b5c10310-1b40-11f0-9160-306c35f9b3a8_story.html",
+          "outlet": "Washington Post",
+          "date": "2025-04-17"
+        },
+        {
+          "title": "Why Elon Musk installed his top lieutenants at a federal agency you probably haven't heard of",
+          "url": "https://abcnews.go.com/US/wireStory/elon-musk-installed-top-lieutenants-federal-agency-heard-120894612",
+          "outlet": "ABC News",
+          "date": "2025-04-16"
+        },
+        {
+          "title": "Why Elon Musk installed his top lieutenants at GSA",
+          "url": "https://www.washingtontimes.com/news/2025/apr/17/elon-musk-installed-top-lieutenants-gsa-federal-agency-probably/",
+          "outlet": "Washington Times",
+          "date": "2025-04-17"
+        },
+        {
+          "title": "Elon Musk's DOGE deputies are targeting government's basic operations",
+          "url": "https://www.washingtonpost.com/business/2025/02/05/elon-musk-federal-technology-takeover/",
+          "outlet": "Washington Post",
+          "date": "2025-02-05"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-04-17--musks-spacex-is-frontrunner-to-build-trumps-golden",
       "date": "2025-04-17",
       "title": "Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield",
       "summary": "Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield",
@@ -25552,10 +26464,28 @@
           "date": "2025-04-17"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield: Reuters",
+          "url": "https://www.cnbc.com/2025/04/17/musks-spacex-is-frontrunner-to-build-trumps-missile-shield.html",
+          "outlet": "CNBC",
           "date": "2025-04-17"
+        },
+        {
+          "title": "SpaceX and its partners emerge as frontrunners to build part of Trump's Golden Dome project: report",
+          "url": "https://www.foxbusiness.com/politics/spacex-its-partners-emerge-frontrunners-build-part-trumps-golden-dome-project-report",
+          "outlet": "Fox Business",
+          "date": "2025-04-17"
+        },
+        {
+          "title": "Trump wants a Golden Dome over America. Here's what it would take",
+          "url": "https://www.npr.org/2025/04/22/g-s1-61658/trump-golden-dome-america-iron-military-defense",
+          "outlet": "NPR",
+          "date": "2025-04-22"
+        },
+        {
+          "title": "Elon Musk denies SpaceX is frontrunner for Trump's 00 billion Golden Dome missile-defense project",
+          "url": "https://fortune.com/2025/05/21/elon-musk-denies-spacex-frontrunner-for-trump-golden-dome/",
+          "outlet": "Fortune",
+          "date": "2025-05-21"
         }
       ],
       "connections": [],
@@ -25627,10 +26557,28 @@
           "date": "2025-04-17"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Lawmaker to Probe GSA for Preferential Treatment of Thiel-Backed Firm Ramp",
+          "url": "https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly",
+          "outlet": "ProPublica",
+          "date": "2025-04-18"
+        },
+        {
+          "title": "Ramp reportedly angles for part of $700B US credit card program",
+          "url": "https://www.bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959/",
+          "outlet": "Banking Dive",
           "date": "2025-04-17"
+        },
+        {
+          "title": "Little-Known Tech Startup May Soon Make Millions Off Federal Expense Card System",
+          "url": "https://truthout.org/articles/little-known-tech-startup-may-soon-make-millions-off-federal-expense-card-system/",
+          "outlet": "Truthout",
+          "date": "2025-04-17"
+        },
+        {
+          "title": "Peter Thiel's prot\u00e9g\u00e9s: a common thread runs through Trump's tech team",
+          "url": "https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/",
+          "outlet": "Fortune",
+          "date": "2025-05-21"
         }
       ],
       "connections": [],
@@ -26865,6 +27813,62 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
+      "id": "2025-04-29--paramount-board-clears-possible-path-for-settling-",
+      "date": "2025-04-29",
+      "title": "Paramount board clears possible path for settling Trump\u2019s \u201860 Minutes\u2019 lawsuit",
+      "summary": "Paramount agreed to pay 16 million to settle Trump's lawsuit over a 60 Minutes interview with Kamala Harris, clearing the path for its 8 billion Skydance merger that requires federal approval. Critics called it \"bribery\" to secure regulatory approval from the Trump administration.",
+      "description": "Paramount\u2019s board\u2013which is pursuing a merger deal with Skydance that would need DOJ\u2019s signoff\u2013cleared the path to settle Trump\u2019s lawsuit that accuses 60 Minutes of \u201cdeceptively\u201d editing its pre-election interview with Kamala Harris",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Paramount board clears possible path for settling Trump\u2019s \u201860 Minutes\u2019 lawsuit",
+          "url": "https://www.nytimes.com/2025/04/29/business/media/paramount-cbs-60-minutes-trump-lawsuit.html",
+          "outlet": "New York Times",
+          "date": "2025-04-29"
+        },
+        {
+          "title": "Paramount agrees to pay 16 million to settle Trump's lawsuit over 60 Minutes",
+          "url": "https://www.nbcnews.com/news/us-news/paramount-agrees-pay-16-million-settle-trumps-lawsuit-60-minutes-kamal-rcna216419",
+          "outlet": "NBC News",
+          "date": "2025-07-02"
+        },
+        {
+          "title": "Paramount Settles Donald Trump Lawsuit, Clearing Path For Skydance Merger",
+          "url": "https://deadline.com/2025/07/trump-lawsuit-60-minutes-lawsuit-settled-1236447496/",
+          "outlet": "Deadline",
+          "date": "2025-07-02"
+        },
+        {
+          "title": "Paramount agrees to settle Trump lawsuit for 16 million over 60 Minutes interview",
+          "url": "https://www.axios.com/2025/07/02/trump-paramount-cbs-harris-interview-lawsuit-settlement",
+          "outlet": "Axios",
+          "date": "2025-07-02"
+        },
+        {
+          "title": "Paramount Offers Trump Millions To End 60 Minutes Suit & Clear Skydance Merger",
+          "url": "https://deadline.com/2025/05/trump-paramount-settlement-offer-1236412894/",
+          "outlet": "Deadline",
+          "date": "2025-05-28"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
       "id": "2025-04-29--a-doge-aide-involved-in-dismantling-consumer-bureau-owns-sto",
       "date": "2025-04-29",
       "title": "A DOGE aide involved in dismantling Consumer Bureau owns stock in companies that could benefit from the cuts",
@@ -27031,6 +28035,51 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-04-30--ice-arrests-65000-in-first-100-days-including-2288",
+      "date": "2025-04-30",
+      "title": "ICE arrests 65,000 in first 100 days including 2,288 gang members",
+      "summary": "During President Trump's first 100 days, ICE arrested over 65,000 individuals, including 2,288 gang members from Tren de Aragua, MS-13, 18th Street and other gangs. Additionally, 1,329 were accused or convicted of sex offenses, and 498 were accused or convicted of murder, marking the most aggressive immigration enforcement operation in U.S. history.",
+      "importance": 9,
+      "tags": [
+        "immigration-enforcement",
+        "ICE",
+        "mass-deportation",
+        "gang-enforcement",
+        "criminal-aliens",
+        "enforcement-milestone",
+        "100-days"
+      ],
+      "actors": [
+        "ICE",
+        "Donald Trump",
+        "DHS",
+        "Kristi Noem"
+      ],
+      "sources": [
+        {
+          "title": "100 days of record-breaking immigration enforcement in the US interior",
+          "url": "https://www.ice.gov/news/releases/100-days-record-breaking-immigration-enforcement-us-interior",
+          "outlet": "ICE.gov",
+          "date": "2025-04-30"
+        },
+        {
+          "title": "100 Days of Making America Safe Again",
+          "url": "https://www.dhs.gov/news/2025/04/29/100-days-making-america-safe-again",
+          "outlet": "DHS",
+          "date": "2025-04-29",
+          "type": "official"
+        },
+        {
+          "title": "Trump's first 100 days - President focuses on mass deportations, questions on numbers",
+          "url": "https://abc7.com/post/trumps-first-100-days-president-focuses-mass-deportations/16281388/",
+          "outlet": "ABC7 Los Angeles",
+          "date": "2025-04-30",
+          "type": "independent"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
       "id": "2025-04-30--trump-company-strikes-qatari-golf-resort-deal-in-a-sign-it-s",
       "date": "2025-04-30",
       "title": "Trump company strikes Qatari golf resort deal in a sign it\u2019s not holding back from foreign business",
@@ -27126,9 +28175,27 @@
           "date": "2025-05-01"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal",
+          "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+          "outlet": "Bloomberg",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "Trump family crypto venture tapped as part of $2B Emirati-backed investment deal",
+          "url": "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
+          "outlet": "ABC News",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "Trump's stablecoin chosen for $2 billion Abu Dhabi investment in Binance, co-founder says",
+          "url": "https://www.foxbusiness.com/markets/trumps-stablecoin-chosen-2-billion-abu-dhabi-investment-binance-co-founder-says",
+          "outlet": "Fox Business",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "World Liberty's USD1 Will Integrate With Tron; WLFI's Witkoff Teases More Partnerships",
+          "url": "https://www.coindesk.com/business/2025/05/01/world-liberty-s-stablecoin-will-be-used-to-close-mgx-s-usd2b-binance-investment-eric-trump",
+          "outlet": "CoinDesk",
           "date": "2025-05-01"
         }
       ],
@@ -27348,6 +28415,63 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-05-01--at-a-dubai-conference-trumps-conflicts-take-center",
+      "date": "2025-05-01",
+      "title": "At a Dubai conference, Trump\u2019s conflicts take center stage",
+      "summary": "World Liberty Financial co-founder Zach Witkoff\u2013who is also Steve Witkoff\u2019s son\u2013announced state-backed Emirati investment firm MGX would use Trump\u2019s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023",
+      "description": "World Liberty Financial co-founder Zach Witkoff\u2013who is also Steve Witkoff\u2019s son\u2013announced state-backed Emirati investment firm MGX would use Trump\u2019s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "crypto",
+        "government-contracts",
+        "ethics-violations"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "At a Dubai conference, Trump\u2019s conflicts take center stage",
+          "url": "https://www.nytimes.com/2025/05/01/us/politics/trump-cryptocurrency-usd1-dubai-conference-announcement.html",
+          "outlet": "New York Times",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "Trump family crypto venture tapped as part of 2B Emirati-backed investment deal",
+          "url": "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
+          "outlet": "ABC News",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "Trump-Tied Stablecoin Used for MGX's 2 Billion Binance Deal",
+          "url": "https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal",
+          "outlet": "Bloomberg",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "World Liberty Financial's USD1 to close Binance's 2 billion MGX investment: report",
+          "url": "https://www.theblock.co/post/352830/world-liberty-financials-usd1-binances-2-billion-investment-mgx-report",
+          "outlet": "The Block",
+          "date": "2025-05-01"
+        },
+        {
+          "title": "Warren, Merkley Seek World Liberty Financial Records on 2 Billion Trump Stablecoin Deal",
+          "url": "https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance",
+          "outlet": "Senate Banking Committee",
+          "date": "2025-05-15"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
       "id": "2025-05-02--nasa-proposal-would-shift-agency-s-focus-away-from-space-sci",
       "date": "2025-05-02",
       "title": "NASA proposal would shift agency\u2019s focus away from space science",
@@ -27450,10 +28574,28 @@
           "date": "2025-05-02"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-05-02"
+          "title": "Trump Family-Linked Firms Profited $320M on Memecoin Despite 87% Decline Since Day One",
+          "url": "https://www.coindesk.com/business/2025/05/09/trump-family-profited-usd320m-on-memecoin-despite-87-decline-since-day-one",
+          "outlet": "CoinDesk",
+          "date": "2025-05-09"
+        },
+        {
+          "title": "Trump's crypto-frenzied inauguration weekend makes first family billions of dollars richer",
+          "url": "https://www.cnbc.com/2025/01/20/trump-crypto-fueled-inauguration-makes-family-billions-of-dollars.html",
+          "outlet": "CNBC",
+          "date": "2025-01-20"
+        },
+        {
+          "title": "Donald Trump Net Worth: $620 Million of Crypto Wealth Reshapes Fortune",
+          "url": "https://www.bloomberg.com/news/features/2025-07-02/donald-trump-net-worth-620-million-of-crypto-wealth-reshapes-fortune",
+          "outlet": "Bloomberg",
+          "date": "2025-07-02"
+        },
+        {
+          "title": "How the Trump family is poised to profit from a $2 billion Middle East crypto deal with Binance",
+          "url": "https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/",
+          "outlet": "Fortune",
+          "date": "2025-05-07"
         }
       ],
       "connections": [],
@@ -27689,7 +28831,7 @@
       "notes": "March 2025 initial report showed 11% reduction (11,443 employees). By May: 7,315 probationary terminations, 294 RIF terminations, thousands via DRP. Critical filing season positions had to work until May 15 before admin leave. 1,574 DRP employees had 11+ years IRS service. VERA/VSIP also offered. TIGTA plans periodic updates on ongoing reductions. Tax compliance capacity severely impacted with 27% examiner/26% auditor losses."
     },
     {
-      "id": "2025-05-04--trump-says-he-ll-call-ceos-when-he-disagrees-with-their-busi",
+      "id": "2025-05-04--trump-says-hell-call-ceos-when-he-disagrees-with-t",
       "date": "2025-05-04",
       "title": "Trump says he'll call CEOs when he disagrees with their business decisions",
       "summary": "Trump said he will pressure CEOs the same way he put the screws to Jeff Bezos after Amazon announced it would indicate the cost of tariffs in customer billing, if their business decisions are seen as unfriendly to his administration",
@@ -27713,10 +28855,28 @@
           "date": "2025-05-04"
         },
         {
-          "title": "Timeline Analysis",
-          "url": "https://example.com/analysis",
-          "outlet": "Independent Analysis",
+          "title": "Trump called Bezos after a report that Amazon would post products' import charges",
+          "url": "https://www.npr.org/2025/04/29/nx-s1-5380935/amazon-tariffs",
+          "outlet": "NPR",
+          "date": "2025-04-29"
+        },
+        {
+          "title": "Trump says he'll call CEOs when he disagrees with their business decisions",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-call-ceos-plans-prices-tariffs-rcna204702",
+          "outlet": "NBC News",
           "date": "2025-05-04"
+        },
+        {
+          "title": "Amazon tariff charge: Trump called Jeff Bezos after learning company considered breaking out added cost",
+          "url": "https://www.cnn.com/2025/04/29/business/white-house-calls-report-that-amazon-is-adding-a-tariff-charge-a-hostile-action/index.html",
+          "outlet": "CNN",
+          "date": "2025-04-29"
+        },
+        {
+          "title": "Amazon Denies Tariff Label Plans After Trump Called to Complain",
+          "url": "https://www.bloomberg.com/news/articles/2025-04-29/white-house-calls-amazon-hostile-for-reported-tariff-displays",
+          "outlet": "Bloomberg",
+          "date": "2025-04-29"
         }
       ],
       "connections": [],
@@ -27751,10 +28911,28 @@
           "date": "2025-05-05"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump Clan Expands Global Ventures as Ethics Concerns Swirl",
+          "url": "https://therealdeal.com/national/2025/05/05/trump-clan-expands-global-ventures-as-ethics-concerns-swirl/",
+          "outlet": "The Real Deal",
           "date": "2025-05-05"
+        },
+        {
+          "title": "How Trump family business ventures stand to directly benefit the President",
+          "url": "https://www.npr.org/2025/05/07/nx-s1-5388474/how-trump-family-business-ventures-stand-to-directly-benefit-the-president",
+          "outlet": "NPR",
+          "date": "2025-05-07"
+        },
+        {
+          "title": "Trump's sons promote real estate and crypto deals across world that will benefit the president",
+          "url": "https://finance.yahoo.com/news/trump-sons-promote-real-estate-214046830.html",
+          "outlet": "Yahoo Finance",
+          "date": "2025-05-05"
+        },
+        {
+          "title": "Unprecedented in U.S. History: Trump & Family Rake In Money from Gulf States, Crypto & Real Estate",
+          "url": "https://www.democracynow.org/2025/5/13/qatar_air_force_one",
+          "outlet": "Democracy Now",
+          "date": "2025-05-13"
         }
       ],
       "connections": [],
@@ -27989,44 +29167,6 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-05-09--trump-to-sign-order-discouraging-criminal-enforcement-of-reg",
-      "date": "2025-05-09",
-      "title": "Trump to sign order discouraging criminal enforcement of regulatory offenses",
-      "summary": "Trump planned to sign an executive order discouraging prosecution of regulatory offenses, effectively allowing him to pick and choose which laws businesses need to comply with instead",
-      "description": "Trump planned to sign an executive order discouraging prosecution of regulatory offenses, effectively allowing him to pick and choose which laws businesses need to comply with instead",
-      "status": "confirmed",
-      "importance": 6,
-      "location": "Washington, D.C.",
-      "actors": [
-        "Donald Trump",
-        "Trump Administration"
-      ],
-      "tags": [
-        "regulatory-capture",
-        "justice-weaponization"
-      ],
-      "capture_type": "regulatory_capture",
-      "sources": [
-        {
-          "title": "Trump to sign order discouraging criminal enforcement of regulatory offenses",
-          "url": "https://www.reuters.com/world/us/trump-sign-order-discouraging-criminal-enforcement-regulatory-offenses-2025-05-09/",
-          "outlet": "REUTERS",
-          "date": "2025-05-09"
-        },
-        {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-05-09"
-        }
-      ],
-      "connections": [],
-      "patterns": [
-        "kleptocratic-capture"
-      ],
-      "notes": "Event from comprehensive kleptocracy timeline tracking."
-    },
-    {
       "id": "2025-05-09--large-investors-increased-stake-in-trump-media-by-hundreds-o",
       "date": "2025-05-09",
       "title": "Large investors increased stake in Trump Media by hundreds of millions",
@@ -28106,6 +29246,118 @@
           "date": "2025-05-02"
         }
       ]
+    },
+    {
+      "id": "2025-05-09--trump-to-sign-order-discouraging-criminal-enforcem",
+      "date": "2025-05-09",
+      "title": "Trump to sign order discouraging criminal enforcement of regulatory offenses",
+      "summary": "Trump planned to sign an executive order discouraging prosecution of regulatory offenses, effectively allowing him to pick and choose which laws businesses need to comply with instead",
+      "description": "Trump planned to sign an executive order discouraging prosecution of regulatory offenses, effectively allowing him to pick and choose which laws businesses need to comply with instead",
+      "status": "confirmed",
+      "importance": 6,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "regulatory-capture",
+        "justice-weaponization"
+      ],
+      "capture_type": "regulatory_capture",
+      "sources": [
+        {
+          "title": "Trump to sign order discouraging criminal enforcement of regulatory offenses",
+          "url": "https://www.reuters.com/world/us/trump-sign-order-discouraging-criminal-enforcement-regulatory-offenses-2025-05-09/",
+          "outlet": "REUTERS",
+          "date": "2025-05-09"
+        },
+        {
+          "title": "Fact Sheet: President Donald J. Trump Fights Overcriminalization in Federal Regulations",
+          "url": "https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-fights-overcriminalization-in-federal-regulations/",
+          "outlet": "White House",
+          "date": "2025-05-09"
+        },
+        {
+          "title": "Key Insights on President Trump's Executive Order Limiting Criminal Enforcement of Regulatory Offenses",
+          "url": "https://www.lw.com/en/insights/2025/06/key-insights-on-president-trump-executive-order-limiting-criminal-enforcement-of-regulatory-offenses",
+          "outlet": "Latham & Watkins",
+          "date": "2025-06-01"
+        },
+        {
+          "title": "Trump Issues Executive Order Taking Aim at Regulatory Crimes",
+          "url": "https://natlawreview.com/article/trump-administration-takes-aim-regulatory-overcriminalization",
+          "outlet": "National Law Review",
+          "date": "2025-05-10"
+        },
+        {
+          "title": "Curbing Regulatory Crimes: Latest Executive Order Warrants Close Attention by Corporate Legal and Compliance Teams",
+          "url": "https://www.bakerbotts.com/thought-leadership/publications/2025/may/curbing-regulatory-over-criminalization-president-trumps-latest-executive-order",
+          "outlet": "Baker Botts",
+          "date": "2025-05-10"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-05-09--large-investors-increased-stake-in-trump-media-by-",
+      "date": "2025-05-09",
+      "title": "Large investors increased stake in Trump Media by hundreds of millions",
+      "summary": "Trump Media raised 2.5 billion from 50 institutional investors despite posting 400.9 million in losses on just 3.6 million revenue. The funds were earmarked for bitcoin purchases rather than operations, in what critics called an attempt to curry favor with the president.",
+      "description": "Large institutional investors have increased their stakes in Trump Media to the tune of hundreds of millions of dollars, despite the firm posting massive losses in 2024, in a possible attempt to curry favor with the president",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Large investors increased stake in Trump Media by hundreds of millions",
+          "url": "https://www.theguardian.com/us-news/2025/may/09/trump-media-tmtg-shares",
+          "outlet": "The Guardian",
+          "date": "2025-05-09"
+        },
+        {
+          "title": "DJT shares fall 10% as Trump Media says it's raising 2.5 billion to buy bitcoin",
+          "url": "https://www.cnbc.com/2025/05/27/djt-trump-media-bitcoin.html",
+          "outlet": "CNBC",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump Media approves 400 million stock buyback",
+          "url": "https://www.cnbc.com/2025/06/23/trump-media-stock.html",
+          "outlet": "CNBC",
+          "date": "2025-06-23"
+        },
+        {
+          "title": "Trump Media shares drop after warning the president's trust and other insiders could sell stock",
+          "url": "https://www.cnbc.com/2025/04/02/trump-media-shares-drop-after-warning-the-presidents-trust-and-other-insiders-could-sell-stock.html",
+          "outlet": "CNBC",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "Trump's social media company loses billions in value as stock price swings wildly",
+          "url": "https://www.cbsnews.com/news/trump-truth-social-djt-stock-down-losses-revenue-going-concern/",
+          "outlet": "CBS News",
+          "date": "2025-02-20"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "id": "2025-05-09--newark-mayor-arrested-congressional-visit",
@@ -28263,6 +29515,62 @@
       "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
+      "id": "2025-05-10--trump-raking-in-cash-expands-his-power-in-the-gop-",
+      "date": "2025-05-10",
+      "title": "Trump, raking in cash, expands his power in the G.O.P. money world",
+      "summary": "Trump is using his super PAC, which has raised more than $400 million, to consolidate even more control over the Republican party\u2013stocking congressional Republican special interest groups with loyalists",
+      "description": "Trump is using his super PAC, which has raised more than $400 million, to consolidate even more control over the Republican party\u2013stocking congressional Republican special interest groups with loyalists",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump, raking in cash, expands his power in the G.O.P. money world",
+          "url": "https://www.nytimes.com/2025/05/10/us/politics/trump-republicans-money-super-pacs.html",
+          "outlet": "New York Times",
+          "date": "2025-05-10"
+        },
+        {
+          "title": "Trump's super PAC raises a massive 177 million, bolstering his political influence",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trumps-super-pac-raises-massive-177-million-bolstering-political-influ-rcna222400",
+          "outlet": "NBC News",
+          "date": "2025-08-01"
+        },
+        {
+          "title": "Unprecedented Big Money Surge for Super PAC Tied to Trump",
+          "url": "https://www.brennancenter.org/our-work/analysis-opinion/unprecedented-big-money-surge-super-pac-tied-trump",
+          "outlet": "Brennan Center for Justice",
+          "date": "2025-08-01"
+        },
+        {
+          "title": "Trump's super PAC in powerful financial position with nearly 200 million on hand",
+          "url": "https://www.cnn.com/2025/08/01/politics/trump-maga-inc-fundraising",
+          "outlet": "CNN",
+          "date": "2025-08-01"
+        },
+        {
+          "title": "'Unprecedented': Trump Can't Run Again, So Why Is His Super PAC Raising Record-Busting Sums of Cash?",
+          "url": "https://www.commondreams.org/news/trump-super-pac-maga-inc",
+          "outlet": "Common Dreams",
+          "date": "2025-08-01"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
       "id": "2025-05-11--qatar-400-million-airplane-gift",
       "date": "2025-05-11",
       "title": "Qatar gifts Trump $400 million airplane as replacement for Air Force One",
@@ -28290,6 +29598,62 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2025-05-11--trump-administration-in-talks-with-qatar-over-plan",
+      "date": "2025-05-11",
+      "title": "Trump administration in talks with Qatar over plane gift",
+      "summary": "Trump held talks with Qatar to accept a $400 million Boeing 747 as a replacement for Air Force One\u2013which he plans to keep as part of his presidential library after leaving office",
+      "description": "Trump held talks with Qatar to accept a $400 million Boeing 747 as a replacement for Air Force One\u2013which he plans to keep as part of his presidential library after leaving office",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump administration in talks with Qatar over plane gift",
+          "url": "https://www.washingtonpost.com/politics/2025/05/11/trump-air-force-one-qatar/",
+          "outlet": "Washington Post",
+          "date": "2025-05-11"
+        },
+        {
+          "title": "Unwrapping Qatar's 400 Million Winged Gift to Trump",
+          "url": "https://www.factcheck.org/2025/05/unwrapping-qatars-400-million-winged-gift-to-trump/",
+          "outlet": "FactCheck.org",
+          "date": "2025-05-11"
+        },
+        {
+          "title": "Trump administration officially accepts jet from Qatar for use as Air Force One",
+          "url": "https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one",
+          "outlet": "NPR",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar",
+          "url": "https://abcnews.go.com/Politics/trump-administration-poised-accept-palace-sky-gift-trump/story?id=121680511",
+          "outlet": "ABC News",
+          "date": "2025-05-11"
+        },
+        {
+          "title": "Trump says US government plans to accept luxury jet following reports of multimillion-dollar gift from Qatar",
+          "url": "https://www.cnn.com/2025/05/11/politics/trump-luxury-jet-qatar-air-force-one",
+          "outlet": "CNN",
+          "date": "2025-05-11"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "id": "2025-05-11--elon-musk-s-regulatory-woes-are-conveniently-vanishing-under",
@@ -28362,6 +29726,59 @@
       "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
+      "id": "2025-05-11--qatar-gifts-trump-400-million-airplane-as-replacem",
+      "date": "2025-05-11",
+      "title": "Qatar gifts Trump $400 million airplane as replacement for Air Force One",
+      "summary": "Qatar gave Donald Trump a $400 million Boeing 747 as a replacement for Air Force One, which Trump plans to keep as part of his presidential library after leaving office. The gift was certified as legal by Attorney General Pam Bondi, herself a former lobbyist for Qatar.",
+      "importance": 10,
+      "tags": [
+        "corruption",
+        "foreign-gifts",
+        "qatar",
+        "air-force-one",
+        "pam-bondi",
+        "kleptocracy"
+      ],
+      "actors": [
+        "Donald Trump",
+        "Qatar",
+        "Pam Bondi"
+      ],
+      "sources": [
+        {
+          "title": "Trump administration in talks with Qatar over plane gift",
+          "url": "https://www.washingtonpost.com/politics/2025/05/11/trump-air-force-one-qatar/",
+          "outlet": "Washington Post",
+          "date": "2025-05-11"
+        },
+        {
+          "title": "Trump administration officially accepts jet from Qatar for use as Air Force One",
+          "url": "https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one",
+          "outlet": "NPR",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "Trump administration will accept a luxury jet from Qatar to use as Air Force One",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111",
+          "outlet": "NBC News",
+          "date": "2025-05-11"
+        },
+        {
+          "title": "Trump poised to accept Qatar jet gift as Air Force One",
+          "url": "https://www.cnbc.com/2025/05/11/trump-jumbo-jet-qatar-air-force-one-gift.html",
+          "outlet": "CNBC",
+          "date": "2025-05-11"
+        },
+        {
+          "title": "Unwrapping Qatar's 400 Million Winged Gift to Trump",
+          "url": "https://www.factcheck.org/2025/05/unwrapping-qatars-400-million-winged-gift-to-trump/",
+          "outlet": "FactCheck.org",
+          "date": "2025-05-12"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
       "id": "2025-05-12--fcc-threatens-charlie-ergen-s-hold-on-satellite-5g-spectrum-",
       "date": "2025-05-12",
       "title": "FCC threatens Charlie Ergen\u2019s hold on satellite, 5G spectrum licenses",
@@ -28422,6 +29839,64 @@
           "url": "https://www.desmog.com/2025/05/15/donald-trump-uk-ambassador-warren-stephens-investments-industries-set-to-benefit-from-trade-deal/",
           "outlet": "Desmog",
           "date": "2025-05-12"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
+      "id": "2025-05-12--trumps-uk-ambassador-has-investments-in-industries",
+      "date": "2025-05-12",
+      "title": "Trump\u2019s UK ambassador has investments in industries set to benefit from trade deal",
+      "summary": "Warren Stephens, who donated 4 million to Trump's inauguration and 1 million to MAGA Inc, was appointed UK ambassador. His firm Stephens Inc. holds 250 million in agricultural stocks (Campbell's, Bunge, Tyson) that benefit from the US-UK trade deal he helped negotiate.",
+      "description": "Warren Stephens\u2019s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Warren Stephens",
+        "Donald Trump",
+        "Stephens Inc.",
+        "Peter Mandelson"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump\u2019s UK ambassador has investments in industries set to benefit from trade deal",
+          "url": "https://www.desmog.com/2025/05/15/donald-trump-uk-ambassador-warren-stephens-investments-industries-set-to-benefit-from-trade-deal/",
+          "outlet": "Desmog",
+          "date": "2025-05-12"
+        },
+        {
+          "title": "Trump's UK Ambassador Stands to Benefit From New Trade Deal",
+          "url": "https://jacobin.com/2025/05/trump-uk-ambassador-trade-deal",
+          "outlet": "Jacobin",
+          "date": "2025-05-12"
+        },
+        {
+          "title": "Donald Trump's Fossil Fuel Executive UK Ambassador Donated 4 Million to President's Inauguration Fund",
+          "url": "https://www.desmog.com/2025/04/23/donald-trump-warren-stephens-fossil-fuel-executive-uk-ambassador-donated-4-million-to-president-inauguration-fund/",
+          "outlet": "DeSmog",
+          "date": "2025-04-23"
+        },
+        {
+          "title": "Live And Let Dividend",
+          "url": "https://www.levernews.com/live-and-let-dividend/",
+          "outlet": "The Lever",
+          "date": "2025-05-13"
+        },
+        {
+          "title": "Oil and Gas Investments of Donald Trump's New UK Ambassador",
+          "url": "https://www.desmog.com/2024/12/05/oil-and-gas-interests-of-donald-trump-new-uk-ambassador-warren-stephens/",
+          "outlet": "DeSmog",
+          "date": "2024-12-05"
         }
       ],
       "connections": [],
@@ -28690,10 +30165,28 @@
           "date": "2025-05-14"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump family crypto venture tapped as part of $2B Emirati-backed investment deal",
+          "url": "https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842",
+          "outlet": "ABC News",
           "date": "2025-05-14"
+        },
+        {
+          "title": "How the Trump family is poised to profit from a $2 billion Middle East crypto deal with Binance",
+          "url": "https://fortune.com/crypto/2025/05/07/world-liberty-financial-wlfi-trump-binance-mgx-stablecoin-deal/",
+          "outlet": "Fortune",
+          "date": "2025-05-07"
+        },
+        {
+          "title": "UAE's ruling family agrees to $2bn transaction with Trump crypto firm",
+          "url": "https://www.middleeasteye.net/news/uaes-ruling-family-agrees-2bn-transaction-trump-crypto-firm",
+          "outlet": "Middle East Eye",
+          "date": "2025-05-14"
+        },
+        {
+          "title": "How Trump family business ventures stand to directly benefit the President",
+          "url": "https://www.npr.org/2025/05/07/nx-s1-5388474/how-trump-family-business-ventures-stand-to-directly-benefit-the-president",
+          "outlet": "NPR",
+          "date": "2025-05-07"
         }
       ],
       "connections": [],
@@ -29100,6 +30593,62 @@
       "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
+      "id": "2025-05-16--vietnam-approves-15-billion-investment-plan-by-tru",
+      "date": "2025-05-16",
+      "title": "Vietnam approves $1.5 billion investment plan by Trump Organization and partner",
+      "summary": "Vietnam approved a Trump Organization plan to invest $1.5 billion in golf courses, hotels, and other real estate projects in the country as it negotiates tariff rates with the Trump administration",
+      "description": "Vietnam approved a Trump Organization plan to invest $1.5 billion in golf courses, hotels, and other real estate projects in the country as it negotiates tariff rates with the Trump administration",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Vietnam approves $1.5 billion investment plan by Trump Organization and partner",
+          "url": "https://www.reuters.com/world/vietnam-approves-15-billion-investment-plan-by-trump-organization-partner-2025-05-16/",
+          "outlet": "Source:REUTERS",
+          "date": "2025-05-16"
+        },
+        {
+          "title": "The Trump Organization has been approved for a 1.5 billion golf resort in Vietnam",
+          "url": "https://fortune.com/2025/05/16/trump-organization-vietnam-golf-resort/",
+          "outlet": "Fortune",
+          "date": "2025-05-16"
+        },
+        {
+          "title": "Trump Organization breaks ground on 1.5 billion golf club in Vietnam",
+          "url": "https://www.nbcnews.com/world/asia/trump-organization-breaks-ground-15-billion-golf-club-vietnam-rcna208169",
+          "outlet": "NBC News",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "Trade war and Vietnam's 1.5 billion deal with the Trump Organization",
+          "url": "https://www.npr.org/2025/06/17/1254291430/vietnam-trump-organization-golf-resort-deal-trade-war",
+          "outlet": "NPR",
+          "date": "2025-06-17"
+        },
+        {
+          "title": "Vietnam approves a 1.5 billion Trump golf resort project as tariff talks loom",
+          "url": "https://finance.yahoo.com/news/vietnam-approves-1-5-billion-183500461.html",
+          "outlet": "Yahoo Finance",
+          "date": "2025-05-16"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
       "id": "2025-05-19--transportation-secretary-sean-duffy-sold-stocks-two-days-bef",
       "date": "2025-05-19",
       "title": "Transportation Secretary Sean Duffy sold stocks two days before Trump announced a plan for reciprocal tariffs",
@@ -29368,7 +30917,63 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-05-22--ftc-probes-media-matters-over-musk-s-x-boycott-claims-docume",
+      "id": "2025-05-21--eric-trump-breaks-ground-on-15-billion-resort-in-t",
+      "date": "2025-05-21",
+      "title": "Eric Trump breaks ground on $1.5 billion resort in tariffed country",
+      "summary": "Just two days after Vietnam approved a Trump Organization luxury real estate plan, Eric Trump traveled to the country to break ground on the project",
+      "description": "Just two days after Vietnam approved a Trump Organization luxury real estate plan, Eric Trump traveled to the country to break ground on the project",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Eric Trump breaks ground on $1.5 billion resort in tariffed country",
+          "url": "https://newrepublic.com/post/195550/trump-org-resort-tariffed-country-vietnam",
+          "outlet": "New Republic",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "Trump Organization to break ground on golf club in Vietnam amid trade talks",
+          "url": "https://www.reuters.com/world/asia-pacific/trump-organization-break-ground-golf-club-vietnam-amid-trade-talks-2025-05-21/",
+          "outlet": "Reuters",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "Vietnam approves Trump Organization's $1.5 billion golf resort",
+          "url": "https://apnews.com/article/vietnam-trump-golf-estate-investment-f2aa09af5467654dff4dcf19fcdc25c9",
+          "outlet": "AP News",
+          "date": "2025-05-16"
+        },
+        {
+          "title": "Eric Trump Vows $1.5B Vietnam Resort Will Be Envy of World",
+          "url": "https://www.bloomberg.com/news/articles/2025-05-21/eric-trump-attends-groundbreaking-event-for-1-5b-vietnam-resort",
+          "outlet": "Bloomberg",
+          "date": "2025-05-21"
+        },
+        {
+          "title": "The Trump Organization has been approved for a $1.5 billion resort",
+          "url": "https://fortune.com/2025/05/16/trump-organization-vietnam-golf-resort/",
+          "outlet": "Fortune",
+          "date": "2025-05-16"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
+      "id": "2025-05-22--ftc-probes-media-matters-over-musks-x-boycott-clai",
       "date": "2025-05-22",
       "title": "FTC probes Media Matters over Musk's X boycott claims, document shows",
       "summary": "The Federal Trade Commission (FTC) has launched an investigation into journalism watchdog Media Matters on behalf of Elon Musk for coordinating an advertiser boycott of X",
@@ -29393,9 +30998,27 @@
           "date": "2025-05-22"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "FTC Launches Initial Stage Of Investigation Of Media Matters Over Elon Musk's Ad Boycott Claims",
+          "url": "https://deadline.com/2025/05/ftc-media-matters-investigation-1236408820/",
+          "outlet": "Deadline",
+          "date": "2025-05-22"
+        },
+        {
+          "title": "FTC probes Media Matters' exchanges with ad groups, stoking fears of retribution",
+          "url": "https://www.cnn.com/2025/05/22/media/ftc-media-matters-ad-groups-elon-musk-retribution",
+          "outlet": "CNN",
+          "date": "2025-05-22"
+        },
+        {
+          "title": "Judge blocks Trump FTC's retaliation against Media Matters",
+          "url": "https://www.cnn.com/2025/08/16/media/ftc-trump-media-matters-elon-musk-judge-order",
+          "outlet": "CNN",
+          "date": "2025-08-16"
+        },
+        {
+          "title": "Trump's FTC Goes to War Against Media Group Elon Musk Despises",
+          "url": "https://newrepublic.com/post/195657/ftc-investigation-media-matters-elon-musk",
+          "outlet": "The New Republic",
           "date": "2025-05-22"
         }
       ],
@@ -29667,7 +31290,7 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-05-25--as-trumps-monetize-presidency-profits-outstrip-protests",
+      "id": "2025-05-25--as-trumps-monetize-presidency-profits-outstrip-pro",
       "date": "2025-05-25",
       "title": "As Trumps monetize presidency, profits outstrip protests",
       "summary": "Trump and his family have monetized the presidency to the tune of hundreds of millions of dollars without significant public outcry and institutional pushback after his early purge of federal ethics watchdogs",
@@ -29692,10 +31315,28 @@
           "date": "2025-05-25"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
-          "date": "2025-05-25"
+          "title": "From crypto to private jets: How Donald Trump and his family have profited from the US presidency",
+          "url": "https://www.irishtimes.com/world/us/2025/05/27/profits-outstrip-protests-as-trumps-monetise-the-presidency/",
+          "outlet": "The Irish Times",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "New Analysis Finds Trump Family Has Raked in .4 Billion Off the Presidency",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-family-billions-presidency-1235405843/",
+          "outlet": "Rolling Stone",
+          "date": "2025-11-05"
+        },
+        {
+          "title": "Inside the Trump family's 100 days of presidential profit",
+          "url": "https://www.axios.com/2025/05/02/trump-crypto-world-liberty-business-profit",
+          "outlet": "Axios",
+          "date": "2025-05-02"
+        },
+        {
+          "title": "As guardrails fall, Trump blurs lines between presidency and personal profits",
+          "url": "https://www.csmonitor.com/USA/Politics/2025/0408/trump-crypto-money-conflicts-ethics",
+          "outlet": "Christian Science Monitor",
+          "date": "2025-04-08"
         }
       ],
       "connections": [],
@@ -29769,9 +31410,33 @@
           "date": "2025-05-27"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion",
+          "url": "https://www.cnbc.com/2025/05/27/trump-pardons-todd-julie-chrisley-reality-tv.html",
+          "outlet": "CNBC",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of fraud",
+          "url": "https://www.npr.org/2025/05/28/nx-s1-5414091/todd-julie-chrisley-pardon-trump",
+          "outlet": "NPR",
+          "date": "2025-05-28"
+        },
+        {
+          "title": "Todd and Julie Chrisley released from prison after pardons from Trump",
+          "url": "https://www.nbcnews.com/news/us-news/todd-julie-chrisleys-pardons-came-intervention-daughter-rcna209439",
+          "outlet": "NBC News",
+          "date": "2025-05-28"
+        },
+        {
+          "title": "Trump pardons Todd and Julie Chrisley convicted of bank fraud and tax crimes",
+          "url": "https://www.cnn.com/2025/05/27/politics/trump-pardon-chrisley-knows-best",
+          "outlet": "CNN",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump Pardons Reality Stars Todd and Julie Chrisley Following Tax Evasion and Bank Fraud Convictions",
+          "url": "https://variety.com/2025/tv/news/trump-pardons-todd-julie-tax-evasion-bank-fraud-1236411269/",
+          "outlet": "Variety",
           "date": "2025-05-27"
         }
       ],
@@ -29782,7 +31447,7 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
-      "id": "2025-05-27--donald-trump-s-media-conglomerate-is-becoming-a-bitcoin-rese",
+      "id": "2025-05-27--donald-trumps-media-conglomerate-is-becoming-a-bit",
       "date": "2025-05-27",
       "title": "Donald Trump\u2019s media conglomerate is becoming a bitcoin reserve",
       "summary": "Trump Media planned to raise $2.5 billion in equity and debt to build a massive bitcoin reserve, as the president continued to cash in on cryptocurrency while in control of the industry's regulatory landscape",
@@ -29809,10 +31474,85 @@
           "date": "2025-05-27"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump Media Announces Approximately .5 Billion Bitcoin Treasury Deal",
+          "url": "https://www.globenewswire.com/news-release/2025/05/27/3088703/0/en/Trump-Media-Announces-Approximately-2-5-Billion-Bitcoin-Treasury-Deal.html",
+          "outlet": "GlobeNewswire",
           "date": "2025-05-27"
+        },
+        {
+          "title": "DJT shares fall 10% as Trump Media says it's raising .5 billion to buy bitcoin",
+          "url": "https://www.cnbc.com/2025/05/27/djt-trump-media-bitcoin.html",
+          "outlet": "CNBC",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump Media group announces plan to establish .5 billion Bitcoin treasury",
+          "url": "https://fortune.com/crypto/2025/05/27/trump-media-group-raise-money-bitcoin-treasury/",
+          "outlet": "Fortune",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump Media builds  billion bitcoin hoard, as cryptocurrency swells president's net worth",
+          "url": "https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html",
+          "outlet": "CNBC",
+          "date": "2025-07-21"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-05-27--trump-pardons-reality-stars-todd-and-julie-chrisle",
+      "date": "2025-05-27",
+      "title": "Trump pardons reality stars Todd and Julie Chrisley",
+      "summary": "Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted in 2022 for defrauding banks of over $30 million and evading federal taxes, after their daughter\u2014an RNC speaker and Trump supporter\u2014lobbied for their clemency",
+      "description": "Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted in 2022 for defrauding banks of over $30 million and evading federal taxes, after their daughter\u2014an RNC speaker and Trump supporter\u2014lobbied for their clemency",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "pardons",
+        "government-contracts"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump pardons reality stars Todd and Julie Chrisley",
+          "url": "https://www.washingtonpost.com/politics/2025/05/27/trump-pardon-chrisley/",
+          "outlet": "Washington Post",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump pardons Todd and Julie Chrisley convicted of bank fraud and tax crimes",
+          "url": "https://www.cnn.com/2025/05/27/politics/trump-pardon-chrisley-knows-best",
+          "outlet": "CNN",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of fraud",
+          "url": "https://www.npr.org/2025/05/28/nx-s1-5414091/todd-julie-chrisley-pardon-trump",
+          "outlet": "NPR",
+          "date": "2025-05-28"
+        },
+        {
+          "title": "Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion",
+          "url": "https://www.cnbc.com/2025/05/27/trump-pardons-todd-julie-chrisley-reality-tv.html",
+          "outlet": "CNBC",
+          "date": "2025-05-27"
+        },
+        {
+          "title": "Todd and Julie Chrisley released from prison after pardons from Trump",
+          "url": "https://www.nbcnews.com/news/us-news/todd-julie-chrisleys-pardons-came-intervention-daughter-rcna209439",
+          "outlet": "NBC News",
+          "date": "2025-05-28"
         }
       ],
       "connections": [],
@@ -30185,9 +31925,33 @@
           "date": "2025-05-29"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "SEC drops Binance lawsuit, ending one of last remaining crypto enforcement actions",
+          "url": "https://www.cnbc.com/2025/05/29/sec-drops-binance-lawsuit-ending-one-of-last-remaining-crypto-actions.html",
+          "outlet": "CNBC",
+          "date": "2025-05-29"
+        },
+        {
+          "title": "SEC Files to Dismiss Regulator's Long-Running Lawsuit Against Binance, CZ, Binance.US",
+          "url": "https://www.coindesk.com/policy/2025/05/29/sec-files-to-dismiss-regulators-long-running-lawsuit-against-binance",
+          "outlet": "CoinDesk",
+          "date": "2025-05-29"
+        },
+        {
+          "title": "SEC dismisses case against crypto exchange Binance",
+          "url": "https://thehill.com/policy/technology/5326171-sec-drops-case-against-binance/",
+          "outlet": "The Hill",
+          "date": "2025-05-29"
+        },
+        {
+          "title": "SEC Drops Binance Lawsuit Weeks After Deal With Trump-Linked WLF",
+          "url": "https://dailycoin.com/sec-drops-binance-lawsuit-weeks-after-deal-with-trump-linked-wlf",
+          "outlet": "DailyCoin",
+          "date": "2025-05-29"
+        },
+        {
+          "title": "Binance Wins Big: SEC Drops Lawsuit in Trump Era Shakeup",
+          "url": "https://coincodex.com/article/68160/binance-sec-lawsuit-dismissed-trump-crypto-2025/",
+          "outlet": "CoinCodex",
           "date": "2025-05-29"
         }
       ],
@@ -30340,10 +32104,28 @@
           "date": "2025-05-31"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Inside the Trump Pardon Economy: Paying $1 Million Lawyer Fees for Access",
+          "url": "https://www.bloomberg.com/news/features/2025-05-06/trump-s-pardons-have-defendants-spending-1-million-to-get-cases-to-white-house",
+          "outlet": "Bloomberg",
+          "date": "2025-05-06"
+        },
+        {
+          "title": "Trump pardons drive a big, burgeoning business for lobbyists",
+          "url": "https://www.cnbc.com/2025/05/31/trump-pardons-business-lobbyists.html",
+          "outlet": "CNBC",
           "date": "2025-05-31"
+        },
+        {
+          "title": "Trump flaunts pardon rules, costs victims and public more than $1 billion",
+          "url": "https://lailluminator.com/2025/07/28/trump-pardon/",
+          "outlet": "Louisiana Illuminator",
+          "date": "2025-07-28"
+        },
+        {
+          "title": "How Trump Is Flouting Government Rules on Pardons to Help Allies",
+          "url": "https://www.themarshallproject.org/2025/07/28/trump-pardons-violate-standards",
+          "outlet": "The Marshall Project",
+          "date": "2025-07-28"
         }
       ],
       "connections": [],
@@ -30541,6 +32323,61 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-06-01--stephen-miller-and-kristi-noem-directive-demands-3",
+      "date": "2025-06-01",
+      "title": "Stephen Miller and Kristi Noem directive demands 3,000 daily ICE arrests",
+      "summary": "Deputy White House Chief of Staff Stephen Miller and DHS Secretary Kristi Noem issued a directive to ICE to arrest up to 3,000 immigrants each day - a more than fourfold increase from the previous daily average. This unprecedented quota system for immigration arrests represents a fundamental shift in enforcement priorities toward quantity over targeted enforcement.",
+      "importance": 8,
+      "tags": [
+        "immigration-enforcement",
+        "ICE",
+        "arrest-quotas",
+        "Stephen-Miller",
+        "Kristi-Noem",
+        "mass-deportation",
+        "enforcement-escalation"
+      ],
+      "actors": [
+        "Stephen Miller",
+        "Kristi Noem",
+        "ICE",
+        "DHS"
+      ],
+      "sources": [
+        {
+          "title": "Trump orders ICE to hit Democrat-run cities in expanded deportation blitz",
+          "url": "https://www.axios.com/2025/06/16/trump-ice-democrat-cities-immigration-deport",
+          "outlet": "Axios",
+          "date": "2025-06-16"
+        },
+        {
+          "title": "Scoop: Stephen Miller, Noem tell ICE to supercharge immigrant arrests",
+          "url": "https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller",
+          "outlet": "Axios",
+          "date": "2025-05-28"
+        },
+        {
+          "title": "Stephen Miller, Kristi Noem Push ICE To Drastically Expand Arrests To 3,000-a-Day Quota: Report",
+          "url": "https://www.latintimes.com/stephen-miller-kristi-noem-push-ice-drastically-expand-arrests-3000-day-quota-report-583868",
+          "outlet": "Latin Times",
+          "date": "2025-05-28"
+        },
+        {
+          "title": "Stephen Miller and Kristi Noem demand ICE agents increase arrests to 3,000 per day: report",
+          "url": "https://www.yahoo.com/news/stephen-miller-kristi-noem-demand-131916023.html",
+          "outlet": "Yahoo News",
+          "date": "2025-05-28"
+        },
+        {
+          "title": "ICE Arrests Plunge in Humiliating Blow to Stephen Miller",
+          "url": "https://www.thedailybeast.com/ice-arrests-plunge-in-humiliating-blow-to-stephen-miller/",
+          "outlet": "The Daily Beast",
+          "date": "2025-08-01"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
       "id": "2025-06-01--mvm-sonesta-hotel-detention",
       "date": "2025-06-01",
       "importance": 7,
@@ -30684,9 +32521,33 @@
           "date": "2025-06-03"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Major corporate interests and megadonors gave $239 million to fund Trump's inauguration",
+          "url": "https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074",
+          "outlet": "NBC News",
+          "date": "2025-06-03"
+        },
+        {
+          "title": "Giving outsize sums: Companies that donated to Trump's inauguration reaped huge rewards",
+          "url": "https://www.alternet.org/trump-inauguration-donors/",
+          "outlet": "Alternet",
+          "date": "2025-06-03"
+        },
+        {
+          "title": "Crypto firms gave $18M to Trump's inauguration. Ripple's $4.9M gift was second biggest overall",
+          "url": "https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/",
+          "outlet": "Fortune",
+          "date": "2025-04-21"
+        },
+        {
+          "title": "Ripple was Trump inauguration's top crypto donor before SEC regulatory shift",
+          "url": "https://protos.com/ripple-was-trump-inaugurations-top-crypto-donor-before-sec-regulatory-shift/",
+          "outlet": "Protos",
+          "date": "2025-06-03"
+        },
+        {
+          "title": "Million-Dollar Donors Flooded Trump's Second Inauguration",
+          "url": "https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration",
+          "outlet": "Brennan Center",
           "date": "2025-06-03"
         }
       ],
@@ -30806,10 +32667,28 @@
           "date": "2025-06-05"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Crypto Has Made Trump $1.2 BILLION Richer \u2013 and Counting",
+          "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677",
+          "outlet": "House Financial Services Democrats",
           "date": "2025-06-05"
+        },
+        {
+          "title": "How the Trump Family Invests in Crypto From World Liberty to Memecoins to NFTs",
+          "url": "https://www.bloomberg.com/news/articles/2025-04-12/how-the-trump-family-invests-in-crypto-from-world-liberty-to-memecoins-to-nfts",
+          "outlet": "Bloomberg",
+          "date": "2025-04-12"
+        },
+        {
+          "title": "Trump earned $57.7 million from crypto venture, disclosure shows",
+          "url": "https://fortune.com/crypto/2025/06/15/trump-crypto-earnings-world-liberty-financial-meme-coin-nft/",
+          "outlet": "Fortune",
+          "date": "2025-06-15"
+        },
+        {
+          "title": "White House report suggests Trump's crypto empire could be worth nearly $1 billion",
+          "url": "https://fortune.com/crypto/2025/06/16/trump-financial-disclosures-crypto-world-liberty-financial/",
+          "outlet": "Fortune",
+          "date": "2025-06-16"
         }
       ],
       "connections": [],
@@ -32431,9 +34310,27 @@
           "date": "2025-06-21"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump opened a new golf course in Scotland. It's not his only new venture as president",
+          "url": "https://www.npr.org/2025/06/26/nx-s1-5446114/trump-wealth-business-crypto-brand",
+          "outlet": "NPR",
+          "date": "2025-06-26"
+        },
+        {
+          "title": "Trump Family's Net Worth Soars on Deals in Return to Presidency",
+          "url": "https://www.bloomberg.com/features/2025-trump-family-presidency-wealth/",
+          "outlet": "Bloomberg",
+          "date": "2025-06-21"
+        },
+        {
+          "title": "The brazenness of Trump's profiteering is a billion-dollar scandal",
+          "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-family-three-billion-dollars-white-house-rcna227336",
+          "outlet": "MSNBC",
+          "date": "2025-06-21"
+        },
+        {
+          "title": "Trump family's net worth has increased by $2.9 billion thanks to crypto investments",
+          "url": "https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/",
+          "outlet": "CBS News",
           "date": "2025-06-21"
         }
       ],
@@ -33186,6 +35083,118 @@
       ],
       "notes": "Faster than Project 2025 blueprint anticipated",
       "status": "confirmed"
+    },
+    {
+      "id": "2025-07-01--dhs-ends-sensitive-locations-policy-allowing-ice-a",
+      "date": "2025-07-01",
+      "title": "DHS ends sensitive locations policy allowing ICE arrests at churches and schools",
+      "summary": "The Department of Homeland Security ended a long-standing policy that restricted ICE agents' ability to arrest undocumented people at sensitive locations including houses of worship, schools, and hospitals. DHS stated \"Criminals will no longer be able to hide in America's schools and churches to avoid arrest,\" marking a significant escalation in enforcement tactics that breaks with decades of precedent.",
+      "importance": 8,
+      "tags": [
+        "immigration-enforcement",
+        "ICE",
+        "sensitive-locations",
+        "churches",
+        "schools",
+        "hospitals",
+        "policy-reversal",
+        "sanctuary-violations"
+      ],
+      "actors": [
+        "DHS",
+        "Kristi Noem",
+        "ICE",
+        "Donald Trump"
+      ],
+      "sources": [
+        {
+          "title": "What we know so far about Trump's mass deportation plans and ICE raids following immigration executive orders",
+          "url": "https://www.nbcnews.com/news/investigations/trump-mass-deportations-ice-raids-executive-immigration-rcna188620",
+          "outlet": "NBC News",
+          "date": "2025-07-01"
+        },
+        {
+          "title": "Trump says ICE can arrest people at churches and schools, directs agency to use common sense",
+          "url": "https://www.cnn.com/2025/01/21/politics/ice-can-arrest-people-at-churches-and-schools/index.html",
+          "outlet": "CNN",
+          "date": "2025-01-21"
+        },
+        {
+          "title": "Trump officials revoke Biden policy that barred ICE arrests near sensitive locations like schools and churches",
+          "url": "https://www.cbsnews.com/news/trump-immigration-ice-arrests-sensitive-locations/",
+          "outlet": "CBS News",
+          "date": "2025-01-21"
+        },
+        {
+          "title": "ICE can raid churches and schools to arrest immigrants under new policy",
+          "url": "https://www.axios.com/2025/01/21/trump-deportation-ice-churches-schools-raids",
+          "outlet": "Axios",
+          "date": "2025-01-21"
+        },
+        {
+          "title": "Trump lifts protections against immigration enforcement at schools, churches, hospitals and other sensitive areas",
+          "url": "https://elpasomatters.org/2025/01/21/border-patrol-ice-enforcement-near-schools-hospitals-churches/",
+          "outlet": "El Paso Matters",
+          "date": "2025-01-21"
+        }
+      ],
+      "status": "confirmed"
+    },
+    {
+      "id": "2025-07-02--trumps-finances-were-shaky-then-he-began-to-capita",
+      "date": "2025-07-02",
+      "title": "Trump\u2019s finances were shaky. Then he began to capitalize on his comeback",
+      "summary": "Trump has increased his net worth by billions of dollars through business deals he made since returning to office\u2014though his financials were in dire straits just last year under the weight of massive civil penalties and liabilities",
+      "description": "Trump has increased his net worth by billions of dollars through business deals he made since returning to office\u2014though his financials were in dire straits just last year under the weight of massive civil penalties and liabilities",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump\u2019s finances were shaky. Then he began to capitalize on his comeback",
+          "url": "https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html",
+          "outlet": "New York Times",
+          "date": "2025-07-02"
+        },
+        {
+          "title": "Trump family's net worth has increased by 2.9 billion thanks to crypto investments",
+          "url": "https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/",
+          "outlet": "CBS News",
+          "date": "2025-05-02"
+        },
+        {
+          "title": "Donald Trump Net Worth: 620 Million of Crypto Wealth Reshapes Fortune",
+          "url": "https://www.bloomberg.com/news/features/2025-07-02/donald-trump-net-worth-620-million-of-crypto-wealth-reshapes-fortune",
+          "outlet": "Bloomberg",
+          "date": "2025-07-02"
+        },
+        {
+          "title": "Day 5: Crypto Has Made Trump 1.2 BILLION Richer \u2013 and Counting",
+          "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677",
+          "outlet": "House Financial Services Democrats",
+          "date": "2025-01-25"
+        },
+        {
+          "title": "Trump Media builds 2 billion bitcoin hoard, as cryptocurrency swells president's net worth",
+          "url": "https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html",
+          "outlet": "CNBC",
+          "date": "2025-07-21"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "id": "2025-07-02--trump-s-finances-were-shaky-then-he-began-to-capitalize-on-h",
@@ -34804,9 +36813,33 @@
           "date": "2025-07-21"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump Media Announces its Purchases for Bitcoin Treasury Reach $2 Billion",
+          "url": "https://www.globenewswire.com/news-release/2025/07/21/3118713/0/en/Trump-Media-Announces-its-Purchases-for-Bitcoin-Treasury-Reach-2-Billion.html",
+          "outlet": "GlobeNewswire",
+          "date": "2025-07-21"
+        },
+        {
+          "title": "Trump Media's $2 billion Bitcoin buy shows business empire is now crypto empire",
+          "url": "https://fortune.com/crypto/2025/07/22/donald-trump-media-djt-bitcoin-treasury-2-billion-devin-nunes/",
+          "outlet": "Fortune",
+          "date": "2025-07-22"
+        },
+        {
+          "title": "Trump Media: DJT grows $2 billion bitcoin hoard",
+          "url": "https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html",
+          "outlet": "CNBC",
+          "date": "2025-07-21"
+        },
+        {
+          "title": "Trump Media buys $2 billion in bitcoin as it pursues crypto treasury strategy",
+          "url": "https://www.cbsnews.com/news/trump-media-2-billion-bitcoin-crypto-treasury-strategy/",
+          "outlet": "CBS News",
+          "date": "2025-07-21"
+        },
+        {
+          "title": "Trump Media invests $2 billion in bitcoin; shares surge after announcement",
+          "url": "https://www.foxbusiness.com/media/trumps-media-company-announces-massive-2b-bitcoin-investment-shares-climb",
+          "outlet": "Fox Business",
           "date": "2025-07-21"
         }
       ],
@@ -35080,8 +37113,8 @@
       "id": "2025-07-23--columbia-agrees-to-200-million-fine-to-settle-fight-with-tru",
       "date": "2025-07-23",
       "title": "Columbia agrees to $200 million fine to settle fight with Trump",
-      "summary": "Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company\u2013 \u2013joining other Trump-family linked businesses pursuing the same strategy",
-      "description": "Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company\u2013 \u2013joining other Trump-family linked businesses pursuing the same strategy",
+      "summary": "Columbia University agreed to pay a $200 million fine to settle federal investigations into alleged discrimination violations after the Trump administration froze $1.3 billion in funding and terminated grants",
+      "description": "Columbia University agreed to pay a $200 million fine over three years plus $21 million to the EEOC to settle investigations and restore federal funding that the Trump administration had frozen, marking the first major university settlement in Trump's push for control over higher education",
       "status": "confirmed",
       "importance": 9,
       "location": "Washington, D.C.",
@@ -35090,10 +37123,9 @@
         "Trump Administration"
       ],
       "tags": [
-        "crypto",
-        "media-control",
+        "education-control",
         "regulatory-capture",
-        "government-contracts"
+        "justice-weaponization"
       ],
       "capture_type": "regulatory_capture",
       "sources": [
@@ -35104,10 +37136,34 @@
           "date": "2025-07-23"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Columbia Agrees to $200 Million Fine to Settle Trump Administration Fight",
+          "url": "https://www.bloomberg.com/news/articles/2025-07-23/columbia-agrees-to-200-million-fine-to-settle-white-house-fight",
+          "outlet": "Bloomberg",
           "date": "2025-07-23"
+        },
+        {
+          "title": "Columbia agrees to pay over $220 million in deal with Trump administration to restore federal funding",
+          "url": "https://www.cnn.com/2025/07/23/politics/columbia-trump-administration-settlement-federal-funding",
+          "outlet": "CNN",
+          "date": "2025-07-23"
+        },
+        {
+          "title": "What we know about Columbia's $221 million settlement with the Trump administration",
+          "url": "https://www.npr.org/2025/07/25/nx-s1-5479240/columbia-trump-administration-settlement-details",
+          "outlet": "NPR",
+          "date": "2025-07-25"
+        },
+        {
+          "title": "Columbia to pay $200 million fine to settle Trump administration dispute",
+          "url": "https://www.axios.com/2025/07/24/columbia-trump-federal-funding-deal",
+          "outlet": "Axios",
+          "date": "2025-07-24"
+        },
+        {
+          "title": "What's in the $200m deal Trump has struck with Columbia University?",
+          "url": "https://www.aljazeera.com/news/2025/7/24/whats-in-the-200m-deal-trump-has-struck-with-columbia-university",
+          "outlet": "Al Jazeera",
+          "date": "2025-07-24"
         }
       ],
       "connections": [],
@@ -35182,9 +37238,33 @@
           "date": "2025-07-24"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "FCC Approves Skydance's Acquisition of Paramount CBS",
+          "url": "https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs",
+          "outlet": "Federal Communications Commission",
+          "date": "2025-07-24"
+        },
+        {
+          "title": "FCC approves Skydance merger with Paramount, ending a yearlong saga of uncertainty",
+          "url": "https://edition.cnn.com/2025/07/24/media/fcc-skydance-paramount-merger-approved",
+          "outlet": "CNN",
+          "date": "2025-07-24"
+        },
+        {
+          "title": "FCC approves Paramount Skydance merger after concessions",
+          "url": "https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves",
+          "outlet": "NPR",
+          "date": "2025-07-24"
+        },
+        {
+          "title": "FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges",
+          "url": "https://variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/",
+          "outlet": "Variety",
+          "date": "2025-07-24"
+        },
+        {
+          "title": "FCC approves Paramount-Skydance merger following Trump settlement, Colbert cancellation",
+          "url": "https://www.foxnews.com/media/fcc-approves-paramount-skydance-merger-following-trump-settlement-colbert-cancellation",
+          "outlet": "Fox News",
           "date": "2025-07-24"
         }
       ],
@@ -35611,6 +37691,50 @@
         "kleptocratic-capture"
       ],
       "notes": "Event from comprehensive kleptocracy timeline tracking."
+    },
+    {
+      "id": "2025-07-28--trumps-budget-bill-benefits-private-immigration-de",
+      "date": "2025-07-28",
+      "title": "Trump\u2019s budget bill benefits private immigration detention companies that donated to Trump",
+      "summary": "Trump\u2019s Big Beautiful Bill allocated $45 billion for ICE detention facilities, portions of which have been awarded to CoreCivic and GEO Group\u2013that both donated to Trump\u2019s campaign",
+      "description": "Trump\u2019s Big Beautiful Bill allocated $45 billion for ICE detention facilities, portions of which have been awarded to CoreCivic and GEO Group\u2013that both donated to Trump\u2019s campaign",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump\u2019s budget bill benefits private immigration detention companies that donated to Trump",
+          "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/",
+          "outlet": "Citizens for Ethics",
+          "date": "2025-07-28"
+        },
+        {
+          "title": "The Private Prison Industry Looks Forward to Soaring Profits Thanks to Trump's Budget",
+          "url": "https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/",
+          "outlet": "The Intercept",
+          "date": "2025-07-10"
+        },
+        {
+          "title": "Budget Bill Massively Increases Funding for Immigration Detention",
+          "url": "https://www.brennancenter.org/our-work/analysis-opinion/budget-bill-massively-increases-funding-immigration-detention",
+          "outlet": "Brennan Center",
+          "date": "2025-07-28"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "id": "2025-07-29--epa-endangerment-finding-rescission",
@@ -36054,6 +38178,56 @@
       "notes": "Event from comprehensive kleptocracy timeline tracking."
     },
     {
+      "id": "2025-08-01--pfizer-ceo-attending-25-million-fundraiser-at-trum",
+      "date": "2025-08-01",
+      "title": "Pfizer CEO attending $25 million fundraiser at Trump's golf club after president demands drug price cuts, sources say",
+      "summary": "Days after Trump threatened pharmaceutical companies with federal action if they do not lower drug costs, Pfizer CEO Albert Bourla attended a $25 million MAGA Inc. fundraiser at Bedminster",
+      "description": "Days after Trump threatened pharmaceutical companies with federal action if they do not lower drug costs, Pfizer CEO Albert Bourla attended a $25 million MAGA Inc. fundraiser at Bedminster",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Pfizer CEO attending $25 million fundraiser at Trump's golf club after president demands drug price ",
+          "url": "https://www.cbsnews.com/news/pfizer-ceo-albert-bourla-trump-golf-club-drug-price-cuts-sources-say/",
+          "outlet": "CBS News",
+          "date": "2025-08-01"
+        },
+        {
+          "title": "Pfizer CEO expected to attend Trump fundraiser after drug price cut demands",
+          "url": "https://www.aa.com.tr/en/health/pfizer-ceo-expected-to-attend-trump-fundraiser-after-drug-price-cut-demands/3648868",
+          "outlet": "Anadolu Agency",
+          "date": "2025-08-01"
+        },
+        {
+          "title": "Pfizer CEO Attends 5M Trump Fundraiser Amid Drug Price Demands",
+          "url": "https://greekcitytimes.com/2025/08/03/pfizer-ceo-trump-fundraiser-drug-prices/",
+          "outlet": "Greek City Times",
+          "date": "2025-08-03"
+        },
+        {
+          "title": "Pfizer CEO attending 5 million fundraiser at Trump's golf club, sources say",
+          "url": "https://www.yahoo.com/news/articles/pfizer-ceo-attending-25-million-014312665.html",
+          "outlet": "Yahoo News",
+          "date": "2025-08-01"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
       "id": "2025-08-01--ice-detention-59000-custody-140-percent-capacity",
       "date": "2025-08-01",
       "title": "ICE detention reaches 59,000 people at 140% capacity with 70% having no criminal record",
@@ -36291,6 +38465,62 @@
       ],
       "notes": "First instance where a judge explicitly found probable cause of contempt for the Trump administration's deliberate defiance of a court order. The administration attempted to remove Judge Boasberg from the case after defying his order.",
       "status": "confirmed"
+    },
+    {
+      "id": "2025-08-02--donor-list-suggests-scale-of-trumps-pay-for-access",
+      "date": "2025-08-02",
+      "title": "Donor list suggests scale of Trump\u2019s pay-for-access operation",
+      "summary": "MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president\u2013and, at times, policy outcomes, pardons, and ambassadorships",
+      "description": "MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president\u2013and, at times, policy outcomes, pardons, and ambassadorships",
+      "status": "confirmed",
+      "importance": 10,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Donor list suggests scale of Trump\u2019s pay-for-access operation",
+          "url": "https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html",
+          "outlet": "New York Times",
+          "date": "2025-08-02"
+        },
+        {
+          "title": "Trump's super PAC raises a massive 177 million, bolstering his political influence",
+          "url": "https://www.nbcnews.com/politics/trump-administration/trumps-super-pac-raises-massive-177-million-bolstering-political-influ-rcna222400",
+          "outlet": "NBC News",
+          "date": "2025-08-01"
+        },
+        {
+          "title": "Trump PAC Filing Reveals Pay-for-Access Scheme",
+          "url": "https://www.thedailybeast.com/trump-pac-filing-reveals-pay-for-access-scheme/",
+          "outlet": "The Daily Beast",
+          "date": "2025-08-02"
+        },
+        {
+          "title": "Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire Influence Buyers",
+          "url": "https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/",
+          "outlet": "Public Citizen",
+          "date": "2025-08-02"
+        },
+        {
+          "title": "Pardons, positions and power: Trump donor list raises questions about pay-for-access",
+          "url": "https://www.yahoo.com/news/articles/pardons-positions-power-trump-donor-015028316.html",
+          "outlet": "Yahoo News",
+          "date": "2025-08-02"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "id": "2025-08-02--donor-list-suggests-scale-of-trump-s-pay-for-access-operatio",
@@ -36680,6 +38910,50 @@
       ]
     },
     {
+      "id": "2025-08-05--how-donald-trumps-spending-bill-will-boost-silicon",
+      "date": "2025-08-05",
+      "title": "How Donald Trump\u2019s spending bill will boost Silicon Valley\u2019s defence companies",
+      "summary": "Trump\u2019s Big Beautiful Bill earmarked $300 billion for US military modernization, with billions of dollars already set to go to Peter Thiel\u2019s Anduril and Palantir\u2013in which Stephen Miller owns $100,000 worth of stock",
+      "description": "Trump\u2019s Big Beautiful Bill earmarked $300 billion for US military modernization, with billions of dollars already set to go to Peter Thiel\u2019s Anduril and Palantir\u2013in which Stephen Miller owns $100,000 worth of stock",
+      "status": "confirmed",
+      "importance": 9,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "How Donald Trump\u2019s spending bill will boost Silicon Valley\u2019s defence companies",
+          "url": "https://www.ft.com/content/1180de73-a5ab-42d5-8624-6ebc01db2d2c",
+          "outlet": "Financial Times",
+          "date": "2025-08-05"
+        },
+        {
+          "title": "Trump's \"Big, Beautiful Bill\" Is a Huge Win for the Military-Industrial Complex",
+          "url": "https://www.thenation.com/article/economy/big-beautiful-bill-military-industrial-complex/",
+          "outlet": "The Nation",
+          "date": "2025-08-05"
+        },
+        {
+          "title": "How Trump's Budget Bill Sells Out The Future to Big Tech",
+          "url": "https://www.techpolicy.press/how-trumps-budget-bill-sells-out-the-future-to-big-tech/",
+          "outlet": "TechPolicy.Press",
+          "date": "2025-08-05"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
+    },
+    {
       "id": "2025-08-05--comer-issues-11-subpoenas-epstein",
       "date": "2025-08-05",
       "importance": 6,
@@ -37054,6 +39328,62 @@
       ],
       "notes": "Nearly one executive order per day pace. Multiple analyses confirm two-thirds alignment with Project 2025 despite campaign denials. Includes DEI elimination, environmental deregulation, Schedule F reinstatement. Heritage Foundation wrote script, Trump executing it.",
       "status": "confirmed"
+    },
+    {
+      "id": "2025-08-07--trump-delayed-a-medicare-change-after-health-compa",
+      "date": "2025-08-07",
+      "title": "Trump delayed a Medicare change after health company donations",
+      "summary": "Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care\u2014maker of high-end bandages crafted from dried placenta\u2014donated $5 million to the MAGA Inc. super PAC",
+      "description": "Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care\u2014maker of high-end bandages crafted from dried placenta\u2014donated $5 million to the MAGA Inc. super PAC",
+      "status": "confirmed",
+      "importance": 10,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump",
+        "Trump Administration"
+      ],
+      "tags": [
+        "corruption",
+        "kleptocracy"
+      ],
+      "capture_type": "monetizing_position",
+      "sources": [
+        {
+          "title": "Trump delayed a Medicare change after health company donations",
+          "url": "https://www.nytimes.com/2025/08/07/us/politics/trump-medicare-bandages-donors.html",
+          "outlet": "New York Times",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "Days after 5 million donation to MAGA Inc., Trump freezes Medicare waste crackdown",
+          "url": "https://popular.info/p/days-after-5-million-donation-to",
+          "outlet": "Popular Information",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "Trump Delayed a Medicare Change After Health Companies Donations",
+          "url": "https://dnyuz.com/2025/08/07/trump-delayed-a-medicare-change-after-health-companies-donations/",
+          "outlet": "Dnyuz",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "NYT Echoes Public Citizen Findings that Trump Delayed a Medicare Price Change Following Health Company 5 million Donation",
+          "url": "https://www.citizen.org/news/icymi-nyt-echoes-public-citizen-findings-that-trump-delayed-a-medicare-price-change-following-health-companys-5-million-donation/",
+          "outlet": "Public Citizen",
+          "date": "2025-08-07"
+        },
+        {
+          "title": "Trump pushed major change to Medicare after 5 million donation to MAGA Inc",
+          "url": "https://www.rawstory.com/trump-2673867349/",
+          "outlet": "Raw Story",
+          "date": "2025-08-07"
+        }
+      ],
+      "connections": [],
+      "patterns": [
+        "kleptocratic-capture"
+      ],
+      "notes": "High-priority kleptocratic event from comprehensive timeline."
     },
     {
       "date": "2025-08-07",

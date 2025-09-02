@@ -22,9 +22,21 @@ sources:
   url: https://theins.ru/en/news/280214
   outlet: Theins
   date: '2025-04-02'
-- title: Timeline Documentation
-  url: https://example.com
-  outlet: Archive
+- title: Russia-related Designation Removal
+  url: https://ofac.treasury.gov/recent-actions/20250402
+  outlet: U.S. Treasury OFAC
+  date: '2025-04-02'
+- title: Trump lifts sanctions on Putin ally's wife Karina Rotenberg
+  url: https://www.cnbc.com/2025/04/03/trump-treasury-sanctions-putin-russia-rotenberg-ukraine.html
+  outlet: CNBC
+  date: '2025-04-03'
+- title: U.S. Lifts Sanctions on Wife of Russian Billionaire Rotenberg
+  url: https://www.themoscowtimes.com/2025/04/02/us-lifts-sanctions-on-wife-of-russian-billionaire-rotenberg-a88587
+  outlet: The Moscow Times
+  date: '2025-04-02'
+- title: US Lifts Sanctions on Wife of Russian Oligarch Boris Rotenberg
+  url: https://www.occrp.org/en/news/us-lifts-sanctions-on-wife-of-russian-oligarch-boris-rotenberg
+  outlet: OCCRP
   date: '2025-04-02'
 connections: []
 patterns:
