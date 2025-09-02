@@ -1,8 +1,10 @@
-# Kleptocracy Timeline
+# The Kleptocracy Timeline
 
 [![CI/CD Pipeline](https://github.com/markramm/KleptocracyTimeline/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/markramm/KleptocracyTimeline/actions)
 [![Timeline Events](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarkramm%2FKleptocracyTimeline%2Fmain%2Fviewer%2Fpublic%2Fapi%2Fstats.json&query=%24.total_events&label=Timeline%20Events&color=blue)](https://markramm.github.io/KleptocracyTimeline/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> **In Memoriam**: This project is dedicated to the journalists and researchers who have paid the ultimate price exposing corruption. See [IN_MEMORIAM.md](IN_MEMORIAM.md) for those we honor. Their courage is why this project must remain open, decentralized, and resilient.
 
 Open-source timeline documenting democratic erosion and institutional capture in the United States (1972-present).
 
