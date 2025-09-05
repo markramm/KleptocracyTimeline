@@ -1,0 +1,42 @@
+id: 2019-09-24--trump-freezes-ukraine-military-aid-demanding-biden
+date: '2019-09-24'
+importance: 9
+title: Trump Freezes Ukraine Military Aid Demanding Biden Investigation
+summary: President Trump froze $391 million in congressionally approved military aid
+  to Ukraine while pressuring President Zelensky to investigate Joe Biden and his son
+  Hunter. In a July 25 phone call, Trump told Zelensky 'I would like you to do us
+  a favor though' immediately after Zelensky mentioned needing Javelin missiles to
+  defend against Russia. Trump asked Zelensky to work with Rudy Giuliani and Attorney
+  General Barr to investigate Biden, saying 'Biden went around bragging that he stopped
+  the prosecution.' The aid freeze endangered Ukraine's defense against Russian aggression.
+  A whistleblower complaint revealed the scheme, leading to Trump's first impeachment.
+  The House voted 230-197 to impeach for abuse of power and obstruction of Congress,
+  though the Republican Senate acquitted 52-48. This marked the first time a president
+  used military aid as leverage for personal political gain against a domestic rival.
+actors:
+- Donald Trump
+- Volodymyr Zelensky
+- Rudy Giuliani
+- Ukraine
+- Joe Biden
+- William Barr
+tags:
+- ukraine
+- impeachment
+- quid-pro-quo
+- abuse-of-power
+- election-interference
+status: confirmed
+sources:
+- title: Read Trump's phone conversation with Volodymyr Zelensky
+  url: https://www.cnn.com/2019/09/25/politics/donald-trump-ukraine-transcript-call/index.html
+  outlet: CNN
+  date: '2019-09-25'
+- title: Trump impeached by House for abuse of power
+  url: https://www.nytimes.com/2019/12/18/us/politics/trump-impeached.html
+  outlet: New York Times
+  date: '2019-12-18'
+- title: Whistleblower complaint about Trump and Ukraine
+  url: https://www.washingtonpost.com/context/read-the-whistleblower-complaint-regarding-president-trump-s-communications-with-ukrainian-president-volodymyr-zelensky/
+  outlet: Washington Post
+  date: '2019-09-26'

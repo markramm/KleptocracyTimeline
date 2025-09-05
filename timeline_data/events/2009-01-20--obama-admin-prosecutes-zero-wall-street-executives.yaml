@@ -1,0 +1,42 @@
+id: 2009-01-20--obama-admin-prosecutes-zero-wall-street-executives
+date: '2009-01-20'
+importance: 8
+title: Obama Admin Prosecutes Zero Wall Street Executives Despite Crisis Fraud
+summary: Despite widespread evidence of fraud in the 2008 financial crisis, the Obama
+  administration prosecuted zero major Wall Street executives, contrasting starkly
+  with the Savings and Loan crisis when 1,706 bankers were sent to prison. Instead,
+  the DOJ pursued civil settlements totaling tens of billions, allowing banks to avoid
+  admitting wrongdoing while treating penalties as tax-deductible business expenses.
+  The 'Holder Doctrine' directed prosecutors to consider 'collateral consequences'
+  when investigating corporations, leading to deferred prosecution agreements rather
+  than criminal charges. Attorney General Eric Holder later returned to Covington &
+  Burling, the same law firm representing major banks during his tenure, while Criminal
+  Division Chief Lanny Breuer rejoined the firm earning $4 million in his first year
+  back. This established a precedent of financial sector impunity that persisted through
+  subsequent administrations.
+actors:
+- Eric Holder
+- Department of Justice
+- Wall Street Banks
+- Lanny Breuer
+- Covington & Burling
+tags:
+- financial-crisis
+- wall-street
+- impunity
+- revolving-door
+- too-big-to-fail
+status: confirmed
+sources:
+- title: 'Why Only One Top Banker Went to Jail for the Financial Crisis'
+  url: https://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html
+  outlet: New York Times
+  date: '2014-05-04'
+- title: 'The Untouchables: How the Obama administration protected Wall Street'
+  url: https://www.pbs.org/wgbh/frontline/film/untouchables/
+  outlet: PBS Frontline
+  date: '2013-01-22'
+- title: Eric Holder returns to Covington & Burling
+  url: https://www.politico.com/story/2015/07/eric-holder-covington-burling-119675
+  outlet: Politico
+  date: '2015-07-06'
