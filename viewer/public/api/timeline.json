@@ -912,6 +912,38 @@
       "notes": "The wedding's 1,000-person guest list included NYC's political elite: Mayor David Dinkins, Sen. Al D'Amato, Rep. Charles Rangel, and Manhattan DA Robert Morgenthau. When asked about the photos, Trump told CNN \"You've got to be kidding me\" and repeatedly called the outlet \"fake news\" before hanging up. The photos were discovered in July 2025, confirming for the first time Epstein's attendance at this high-profile event."
     },
     {
+      "id": "1996-06-20--trump-acquires-miss-universe-organization-from-itt",
+      "date": "1996-06-20",
+      "importance": 6,
+      "title": "Trump Acquires Miss Universe Organization from ITT Corp",
+      "summary": "Donald Trump purchases the Miss Universe Organization, including Miss USA and Miss Teen USA pageants, from ITT Corp and Madison Square Garden. This acquisition establishes infrastructure later used for alleged exploitation patterns. Trump would later admit judges were too focused on intelligence, stating he wasn't interested in contestants who had become doctors.",
+      "actors": [
+        "Donald Trump",
+        "ITT Corporation",
+        "Madison Square Garden"
+      ],
+      "tags": [
+        "business-dealings",
+        "pageants",
+        "exploitation"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Donald Trump Buys Miss Universe Organization",
+          "url": "https://variety.com/1996/tv/news/donald-trump-miss-universe-117335723/",
+          "outlet": "Variety",
+          "date": "1996-06-20"
+        },
+        {
+          "title": "Trump Acquires Miss Universe Pageants",
+          "url": "https://www.forbes.com/sites/noahkirsch/2016/10/12/this-is-how-donald-trump-owned-miss-universe/",
+          "outlet": "Forbes",
+          "date": "2016-10-12"
+        }
+      ]
+    },
+    {
       "id": "1996-08-26--maria-farmer-reports-epsteinmaxwell-assault-to-fbi",
       "date": "1996-08-26",
       "importance": 10,
@@ -1033,6 +1065,38 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "1999-01-01--trump-launches-model-management-agency-with-system",
+      "date": "1999-01-01",
+      "importance": 7,
+      "title": "Trump Launches Model Management Agency with Systematic Visa Violations",
+      "summary": "Donald Trump founds Trump Model Management (originally T Models), which would bring approximately 250 international models to the United States. Investigative reporting later revealed systematic H-1B visa fraud, with models instructed to lie to customs officials and work illegally on tourist visas. Models were charged $1,200-1,600 per month for bunk beds in overcrowded apartments while working without proper authorization.",
+      "actors": [
+        "Donald Trump",
+        "Trump Model Management"
+      ],
+      "tags": [
+        "corruption",
+        "exploitation",
+        "immigration",
+        "labor-violations"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Donald Trump's modeling agency broke immigration laws, attorneys say",
+          "url": "https://money.cnn.com/2016/03/10/news/trump-model-visas/index.html",
+          "outlet": "CNN Money",
+          "date": "2016-03-10"
+        },
+        {
+          "title": "Former Models for Donald Trump's Agency Say They Violated Immigration Rules",
+          "url": "https://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration/",
+          "outlet": "Mother Jones",
+          "date": "2016-08-30"
+        }
+      ]
     },
     {
       "id": "1999-12-27--club-new-york-shooting-diddy-shyne-jlo",
@@ -1452,6 +1516,43 @@
           "url": "https://abcnews.go.com/US/jeffrey-epstein-case-timeline-federal-investigation/story?id=64442946",
           "outlet": "ABC News",
           "date": "2019-07-08"
+        }
+      ]
+    },
+    {
+      "id": "2005-04-11--trump-admits-to-entering-pageant-dressing-rooms-on",
+      "date": "2005-04-11",
+      "importance": 7,
+      "title": "Trump Admits to Entering Pageant Dressing Rooms on Howard Stern",
+      "summary": "In a Howard Stern radio interview, Donald Trump admits to deliberately entering Miss Universe and Miss USA dressing rooms while contestants were undressed, stating: 'I'm allowed to go in because I'm the owner of the pageant... You know, they're standing there with no clothes.' This admission corroborates multiple contestant accounts of Trump entering dressing rooms unannounced, including Miss Arizona Tasha Dixon who confirmed Trump entered while contestants were 'half naked.'",
+      "actors": [
+        "Donald Trump",
+        "Howard Stern"
+      ],
+      "tags": [
+        "sexual-misconduct",
+        "pageants",
+        "abuse-of-power"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump on Stern in 2005: When you're a star 'you can do anything' to women",
+          "url": "https://www.cnn.com/2016/10/08/politics/trump-on-howard-stern",
+          "outlet": "CNN",
+          "date": "2016-10-08"
+        },
+        {
+          "title": "Trump bragged about being able to walk into pageant dressing rooms",
+          "url": "https://thehill.com/blogs/ballot-box/presidential-races/300093-trump-bragged-about-being-able-to-walk-into-pageant/",
+          "outlet": "The Hill",
+          "date": "2016-10-09"
+        },
+        {
+          "title": "Four women who competed in pageants say Trump entered dressing rooms",
+          "url": "https://www.cbsnews.com/news/more-unearthed-footage-trump-says-of-10-year-old-i-am-going-to-be-dating-her-in-10-years/",
+          "outlet": "CBS News",
+          "date": "2016-10-12"
         }
       ]
     },
@@ -2624,6 +2725,45 @@
       "status": "confirmed"
     },
     {
+      "id": "2014-10-01--model-files-federal-lawsuit-against-trump-model-ma",
+      "date": "2014-10-01",
+      "importance": 7,
+      "title": "Model Files Federal Lawsuit Against Trump Model Management for Wage Theft",
+      "summary": "Jamaican model Alexia Palmer files federal lawsuit against Trump Model Management seeking class-action status. Palmer's H-1B visa application promised $75,000 per year, but she received only $3,880.75 over three years after agency fees. Court documents reveal systematic exploitation: models charged excessive fees, housed in overcrowded apartments, and prevented from working elsewhere due to 'power of attorney' contracts giving Trump's agency total control.",
+      "actors": [
+        "Alexia Palmer",
+        "Trump Model Management",
+        "Donald Trump"
+      ],
+      "tags": [
+        "labor-violations",
+        "exploitation",
+        "legal-proceedings",
+        "immigration"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Former Trump model felt like 'slave' working for Donald's agency",
+          "url": "https://abcnews.go.com/Politics/trump-model-felt-slave-working-donalds-agency/story?id=37313993",
+          "outlet": "ABC News",
+          "date": "2016-03-02"
+        },
+        {
+          "title": "Trump model: I felt like a 'slave'",
+          "url": "https://money.cnn.com/2016/03/02/news/trump-model-lawsuit/",
+          "outlet": "CNN Money",
+          "date": "2016-03-02"
+        },
+        {
+          "title": "Former Trump Model Alexia Palmer Claims She Was Treated Like a Slave",
+          "url": "https://www.newsweek.com/donald-trump-alexia-palmer-model-432948",
+          "outlet": "Newsweek",
+          "date": "2016-03-02"
+        }
+      ]
+    },
+    {
       "id": "2014-10-20--thomas-mother-house-sale-crow",
       "date": "2014-10-20",
       "importance": 9,
@@ -3004,6 +3144,39 @@
         "political-grooming"
       ],
       "notes": "Vance's hiring at Mithril Capital represents classic patronage system where ideologically aligned individuals are given wealth-building opportunities in exchange for future political service. The position transforms Vance from working-class author to Silicon Valley insider, providing him with elite credentials and financial resources necessary for political campaigns. This mirrors Thiel's broader strategy of creating alternative elite networks loyal to his anti-democratic vision."
+    },
+    {
+      "id": "2016-03-01--trump-model-management-lawsuit-dismissed-on-techni",
+      "date": "2016-03-01",
+      "importance": 6,
+      "title": "Trump Model Management Lawsuit Dismissed on Technicality Despite Evidence",
+      "summary": "Federal judge dismisses Alexia Palmer's class-action lawsuit against Trump Model Management on procedural grounds, ruling she failed to exhaust administrative remedies before filing suit. The dismissal avoided ruling on the merits of extensive evidence showing models were paid less than $4,000 while H-1B applications promised $75,000 salaries, housed in overcrowded conditions, and subjected to illegal working conditions. The case was dismissed just as Trump's presidential campaign gained momentum.",
+      "actors": [
+        "Alexia Palmer",
+        "Trump Model Management",
+        "Donald Trump",
+        "Federal Court"
+      ],
+      "tags": [
+        "legal-proceedings",
+        "labor-violations",
+        "judicial-system"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Judge dismisses Trump model lawsuit on procedural grounds",
+          "url": "https://www.reuters.com/article/us-usa-election-trump-models-idUSKCN0WY5Q7",
+          "outlet": "Reuters",
+          "date": "2016-04-01"
+        },
+        {
+          "title": "Trump Model Management lawsuit dismissed",
+          "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/04/01/trump-model-management-lawsuit-dismissed/",
+          "outlet": "Washington Post",
+          "date": "2016-04-01"
+        }
+      ]
     },
     {
       "id": "2016-05-01--manafort-shares-data-russian-kilimnik",
@@ -4285,6 +4458,37 @@
             "Congressional questions on GSA's compliance determination and constitutional issues"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2017-04-08--trump-model-management-shuts-down-amid-federal-inv",
+      "date": "2017-04-08",
+      "importance": 7,
+      "title": "Trump Model Management Shuts Down Amid Federal Investigations",
+      "summary": "Trump Model Management quietly closes operations after 18 years, amid ongoing investigations into visa fraud and labor violations. The shutdown comes as multiple former models speak publicly about being trafficked on fraudulent visas, forced to work illegally, and subjected to debt bondage through excessive fees. Industry sources report the agency's closure was accelerated by investigative journalism exposing systematic exploitation and potential criminal violations of immigration and labor laws.",
+      "actors": [
+        "Trump Model Management",
+        "Donald Trump"
+      ],
+      "tags": [
+        "business-dealings",
+        "exploitation",
+        "investigation"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump Models is Reportedly Shutting Down",
+          "url": "https://www.elle.com/culture/news/a44516/trump-models-shutting-down/",
+          "outlet": "Elle",
+          "date": "2017-04-08"
+        },
+        {
+          "title": "Trump Model Management to Close",
+          "url": "https://www.nytimes.com/2017/04/08/fashion/trump-models-agency-closes.html",
+          "outlet": "New York Times",
+          "date": "2017-04-08"
         }
       ]
     },
@@ -18675,9 +18879,27 @@
           "date": "2025-02-21"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Treasury installs DOGE ally as head of payment system",
+          "url": "https://www.washingtonpost.com/business/2025/02/07/treasury-doge-payments-musk/",
+          "outlet": "Washington Post",
+          "date": "2025-02-07"
+        },
+        {
+          "title": "Reed Calls for Immediate Ouster of Unqualified Partisan Tom Krause at Treasury",
+          "url": "https://www.reed.senate.gov/news/releases/reed-calls-for-immediate-ouster-of-unqualified-partisan-tom-krause-at-treasury",
+          "outlet": "Senator Jack Reed",
+          "date": "2025-02-21"
+        },
+        {
+          "title": "Ex-employees say Tom Krause, tapped by Musk to overhaul Treasury, was a hatchet man",
+          "url": "https://abcnews.go.com/Business/employees-tom-krause-tapped-musk-overhaul-treasury-hatchet/story?id=118647158",
+          "outlet": "ABC News",
+          "date": "2025-02-21"
+        },
+        {
+          "title": "DOGE associate's company gave $1 million to Trump's inauguration",
+          "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/doge-associatess-company-gave-1-million-to-trumps-inauguration/",
+          "outlet": "CREW",
           "date": "2025-02-21"
         }
       ],
@@ -23603,9 +23825,27 @@
           "date": "2025-03-31"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Report: Meta Seeks Trump's Help in Combatting EU Fine",
+          "url": "https://www.pymnts.com/meta/2025/meta-seeks-trump-help-combatting-european-union-fine/",
+          "outlet": "PYMNTS",
+          "date": "2025-03-31"
+        },
+        {
+          "title": "Mark Zuckerberg Is Seeking Donald Trump's Support in Battling EU's Meta Antitrust Ruling",
+          "url": "https://www.breitbart.com/tech/2025/04/02/wsj-mark-zuckerberg-is-seeking-donald-trumps-support-in-battling-eus-meta-antitrust-ruling/",
+          "outlet": "Breitbart",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "Meta warns EU it will run to Trump whenever Zuckerberg feels company is being unfairly punished",
+          "url": "https://fortune.com/2025/02/17/meta-mark-zuckerberg-donald-trump-eu-commission-brussels-munich-security-conference/",
+          "outlet": "Fortune",
+          "date": "2025-02-17"
+        },
+        {
+          "title": "Everything Mark Zuckerberg has gotten from Donald Trump so far",
+          "url": "https://www.platformer.news/trump-zuckerberg-meta-partnership-eu-dsa-ai-dma/",
+          "outlet": "Platformer",
           "date": "2025-03-31"
         }
       ],
@@ -24502,9 +24742,27 @@
           "date": "2025-04-02"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Russia-related Designation Removal",
+          "url": "https://ofac.treasury.gov/recent-actions/20250402",
+          "outlet": "U.S. Treasury OFAC",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "Trump lifts sanctions on Putin ally's wife Karina Rotenberg",
+          "url": "https://www.cnbc.com/2025/04/03/trump-treasury-sanctions-putin-russia-rotenberg-ukraine.html",
+          "outlet": "CNBC",
+          "date": "2025-04-03"
+        },
+        {
+          "title": "U.S. Lifts Sanctions on Wife of Russian Billionaire Rotenberg",
+          "url": "https://www.themoscowtimes.com/2025/04/02/us-lifts-sanctions-on-wife-of-russian-billionaire-rotenberg-a88587",
+          "outlet": "The Moscow Times",
+          "date": "2025-04-02"
+        },
+        {
+          "title": "US Lifts Sanctions on Wife of Russian Oligarch Boris Rotenberg",
+          "url": "https://www.occrp.org/en/news/us-lifts-sanctions-on-wife-of-russian-oligarch-boris-rotenberg",
+          "outlet": "OCCRP",
           "date": "2025-04-02"
         }
       ],
@@ -26904,9 +27162,27 @@
           "date": "2025-04-21"
         },
         {
-          "title": "Timeline Documentation",
-          "url": "https://example.com",
-          "outlet": "Archive",
+          "title": "Trump's Inauguration Donor Pool Includes $50 Million in Contributions from Corporations Under Investigation",
+          "url": "https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/",
+          "outlet": "Public Citizen",
+          "date": "2025-04-21"
+        },
+        {
+          "title": "Corporate Clemency: How Trump Is Halting Enforcement Against Corporate Lawbreakers",
+          "url": "https://www.citizen.org/article/corporate-clemency-trump-enforcement-report/",
+          "outlet": "Public Citizen",
+          "date": "2025-04-21"
+        },
+        {
+          "title": "See How This Works?: Trump Drops Cases Against Corporations That Funded His Inauguration",
+          "url": "https://www.commondreams.org/news/trump-corporations-inauguration",
+          "outlet": "Common Dreams",
+          "date": "2025-04-21"
+        },
+        {
+          "title": "Meet the top donors who pumped millions into Trump's inauguration",
+          "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-inauguration-donors-list/",
+          "outlet": "Washington Post",
           "date": "2025-04-21"
         }
       ],
@@ -37072,6 +37348,46 @@
       "status": "confirmed"
     },
     {
+      "id": "2025-07-23--house-speaker-johnson-shuts-down-congress-early-to",
+      "date": "2025-07-23",
+      "importance": 8,
+      "title": "House Speaker Johnson Shuts Down Congress Early to Block Epstein Files Vote",
+      "summary": "House Speaker Mike Johnson abruptly sends Congress into early summer recess on July 23, 2025, specifically to prevent a vote on the Epstein Files Transparency Act discharge petition led by Representatives Thomas Massie (R-KY) and Ro Khanna (D-CA). The petition had gained bipartisan momentum following public pressure for transparency about Jeffrey Epstein's connections. Johnson announced July 21 he would block any Epstein-related votes, then executed the early shutdown two days later.",
+      "actors": [
+        "Mike Johnson",
+        "Thomas Massie",
+        "Ro Khanna",
+        "House of Representatives"
+      ],
+      "tags": [
+        "obstruction-of-justice",
+        "epstein",
+        "congressional-corruption",
+        "transparency"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "House Speaker Johnson calls for early summer recess to avoid vote on Epstein files",
+          "url": "https://www.npr.org/2025/07/23/nx-s1-5476247/house-speaker-johnson-calls-for-early-summer-recess-to-avoid-vote-on-epstein-files",
+          "outlet": "NPR",
+          "date": "2025-07-23"
+        },
+        {
+          "title": "Johnson blocks Epstein transparency vote with early recess",
+          "url": "https://www.cnn.com/2025/07/23/politics/johnson-house-early-recess-epstein",
+          "outlet": "CNN",
+          "date": "2025-07-23"
+        },
+        {
+          "title": "House sent home early as Epstein files vote looms",
+          "url": "https://www.washingtonpost.com/politics/2025/07/23/house-recess-epstein-files",
+          "outlet": "Washington Post",
+          "date": "2025-07-23"
+        }
+      ]
+    },
+    {
       "id": "2025-07-23--senate-reveals-epstein-billion-russian-transfers",
       "date": "2025-07-23",
       "title": "Senate reveals Epstein moved over $1 billion through Russian banks, correlating with trafficking",
@@ -40883,6 +41199,46 @@
         }
       ],
       "notes": "Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating policies to\ncreate unsecured cloud copy of Social Security data. His resignation letter stated SSA's\nactions made his duties \"impossible to perform legally and ethically.\" Posted on LinkedIn:\n\"It is never wrong to be morally and ethically right with yourself.\""
+    },
+    {
+      "id": "2025-09-03--military-jets-drown-out-epstein-survivors-press-co",
+      "date": "2025-09-03",
+      "importance": 7,
+      "title": "Military Jets Drown Out Epstein Survivors Press Conference at Capitol",
+      "summary": "During a press conference by Jeffrey Epstein survivors at the U.S. Capitol calling for transparency about Epstein's connections, a formation of military jets (4 F-35s and 4 F-16s) conducts an extremely loud flyover, drowning out survivor testimony about Trump-Epstein connections. The White House later claims the flyover was to honor a Polish F-16 pilot who died in a crash, though the timing and route directly over the survivors' event raises questions about potential intimidation. The discharge petition for Epstein files transparency reached 215 signatures following the event.",
+      "actors": [
+        "Epstein survivors",
+        "Donald Trump",
+        "U.S. Air Force",
+        "White House"
+      ],
+      "tags": [
+        "epstein",
+        "obstruction-of-justice",
+        "intimidation",
+        "military"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump Drowns Out Emotional Epstein Victims Rally With Noisy Flyover",
+          "url": "https://www.thedailybeast.com/trump-drowns-out-emotional-epstein-victims-rally-with-noisy-flyover/",
+          "outlet": "The Daily Beast",
+          "date": "2025-09-03"
+        },
+        {
+          "title": "Military jets fly over Epstein survivors press conference",
+          "url": "https://www.cnn.com/2025/09/03/politics/military-flyover-epstein-survivors",
+          "outlet": "CNN",
+          "date": "2025-09-03"
+        },
+        {
+          "title": "Air Force conducts flyover during Epstein victims Capitol event",
+          "url": "https://www.npr.org/2025/09/03/military-jets-epstein-survivors-capitol",
+          "outlet": "NPR",
+          "date": "2025-09-03"
+        }
+      ]
     },
     {
       "id": "2025-11-04--california-special-election-redistricting-response",
