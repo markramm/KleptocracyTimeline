@@ -1,0 +1,47 @@
+id: 2023-09-08--fifth-circuit-finds-biden-administration-violated-
+date: '2023-09-08'
+importance: 8
+title: Fifth Circuit Finds Biden Administration Violated First Amendment Through Social
+  Media Coercion
+summary: The Fifth Circuit Court of Appeals ruled that White House officials, the
+  Surgeon General, CDC, and FBI 'likely coerced or significantly encouraged' social
+  media platforms to censor content, constituting state action in violation of the
+  First Amendment. The court found evidence of a 'years-long pressure campaign' where
+  officials threatened platforms with regulatory action for content decisions. District
+  Judge Doughty found the White House engaged in 'unrelenting pressure' at least 22
+  times and that 'virtually all of the free speech suppressed was conservative free
+  speech.' The court also noted FBI's troubling failure to alert platforms that the
+  Hunter Biden laptop story was real after suggesting it was Russian disinformation.
+  The Supreme Court later dismissed the case on standing grounds without ruling on
+  the merits.
+actors:
+- Fifth Circuit Court of Appeals
+- White House
+- FBI
+- CDC
+- Surgeon General
+- Social media platforms
+tags:
+- censorship
+- first-amendment
+- social-media
+- government-overreach
+- judicial-ruling
+status: confirmed
+sources:
+- title: 5th circuit rules against Biden administration for social media contact
+  url: https://www.npr.org/2023/09/08/1197971952/biden-administration-fifth-circuit-ruling-social-media-injunction
+  outlet: NPR
+  date: '2023-09-08'
+- title: Missouri v. Biden Fifth Circuit Opinion
+  url: https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf
+  outlet: U.S. Court of Appeals for the Fifth Circuit
+  date: '2023-09-08'
+- title: Missouri Attorney General Obtains Court Order Blocking Biden Administration
+  url: https://ago.mo.gov/home/news/2023/07/05/missouri-attorney-general-andrew-bailey-obtains-court-order-blocking-the-biden-administration-from-violating-first-amendment
+  outlet: Missouri Attorney General
+  date: '2023-07-05'
+- title: Murthy v. Missouri (Formerly Missouri v. Biden)
+  url: https://www.brennancenter.org/our-work/court-cases/murthy-v-missouri-formerly-missouri-v-biden
+  outlet: Brennan Center for Justice
+  date: '2024-06-26'

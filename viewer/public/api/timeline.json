@@ -2682,6 +2682,46 @@
       "notes": "Originally reported by WBUR Boston public radio based on James Dodson's account. The\nconversation allegedly occurred while playing golf in 2014, during a period when U.S.\nbanks weren't financing golf construction due to the recession. Eric Trump denied the\nquote in May 2017, calling it \"fabricated.\""
     },
     {
+      "id": "2014-05-12--hunter-biden-joins-burisma-board-while-father-lead",
+      "date": "2014-05-12",
+      "importance": 7,
+      "title": "Hunter Biden Joins Burisma Board While Father Leads Ukraine Policy",
+      "summary": "Hunter Biden joined the board of Ukrainian energy company Burisma Holdings, receiving up to $50,000 per month while his father Vice President Joe Biden led U.S. policy on Ukraine. State Department officials raised conflict of interest concerns in 2015. Devon Archer later testified to Congress that Hunter Biden was selling \"the brand\" and that Burisma would have \"gone out of business\" without the Biden name attached. Senate investigators documented over $3.15 million in payments to Hunter Biden's firm Rosemont Seneca Bohai from Burisma between 2014-2019.",
+      "actors": [
+        "Hunter Biden",
+        "Burisma Holdings",
+        "Joe Biden",
+        "Devon Archer"
+      ],
+      "tags": [
+        "foreign-influence",
+        "conflict-of-interest",
+        "ukraine",
+        "family-enrichment"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Hunter Biden, Burisma, and Corruption: The Impact on U.S. Government Policy",
+          "url": "https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/HSGAC_Finance_Report_FINAL.pdf",
+          "outlet": "Senate Committee on Homeland Security and Governmental Affairs",
+          "date": "2020-09-23"
+        },
+        {
+          "title": "Devon Archer testifies Hunter Biden sold 'illusion' of access to Joe Biden",
+          "url": "https://www.cbsnews.com/news/devon-archer-testimony-hunter-biden-joe-biden-house-oversight-committee/",
+          "outlet": "CBS News",
+          "date": "2023-07-31"
+        },
+        {
+          "title": "Timeline: Hunter Biden, Burisma and Ukraine",
+          "url": "https://www.nbcnews.com/politics/2020-election/timeline-hunter-biden-burisma-ukraine-n1122161",
+          "outlet": "NBC News",
+          "date": "2020-01-18"
+        }
+      ]
+    },
+    {
       "id": "2014-06-16--alito-votes-award-singer-2-4-billion",
       "date": "2014-06-16",
       "importance": 10,
@@ -5045,6 +5085,45 @@
       "notes": "Evidence shows tariff exemption system became a spoils system used to reward Trump's supporters and punish rivals"
     },
     {
+      "id": "2018-03-01--james-biden-receives-600k-from-distressed-healthca",
+      "date": "2018-03-01",
+      "importance": 6,
+      "title": "James Biden Receives $600K from Distressed Healthcare Company, Pays Joe Biden $200K Same Day",
+      "summary": "James Biden received $600,000 in loans from Americore Health, a financially distressed rural hospital operator, based on representations that his last name 'Biden' could 'open doors' and secure Middle East investments through political connections. On March 1, 2018, Americore wired $200,000 into James and Sara Biden's personal account. The same day, James Biden wrote a $200,000 check to Joe Biden marked as 'loan repayment.' Americore later filed bankruptcy and sued James Biden for fraud, settling in 2022 for $350,000 repayment. House Oversight Committee investigations revealed the timing and questioned whether the then-private citizen Joe Biden knew the funds originated from a failing company.",
+      "actors": [
+        "James Biden",
+        "Joe Biden",
+        "Americore Health",
+        "Sara Biden"
+      ],
+      "tags": [
+        "family-enrichment",
+        "conflict-of-interest",
+        "financial-misconduct"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Comer Releases Evidence of Direct Payment to Joe Biden",
+          "url": "https://oversight.house.gov/release/comer-releases-evidence-of-direct-payment-to-joe-biden/",
+          "outlet": "House Committee on Oversight and Accountability",
+          "date": "2023-10-20"
+        },
+        {
+          "title": "GOP House panel raises questions about $200K check from James Biden to Joe Biden",
+          "url": "https://www.cbsnews.com/news/james-biden-bank-records-200000-loan-joe-biden-house-oversight-gop/",
+          "outlet": "CBS News",
+          "date": "2023-10-20"
+        },
+        {
+          "title": "Cherry-Picking 'Influence' Payment from James to Joe Biden",
+          "url": "https://www.factcheck.org/2023/10/cherry-picking-influence-payment-from-james-to-joe-biden/",
+          "outlet": "FactCheck.org",
+          "date": "2023-10-24"
+        }
+      ]
+    },
+    {
       "id": "2018-03-08--reyes-holdings-pet-plastic-exemption",
       "date": "2018-03-08",
       "importance": 8,
@@ -7153,6 +7232,55 @@
       ]
     },
     {
+      "id": "2020-10-14--fbi-enables-social-media-suppression-of-hunter-bid",
+      "date": "2020-10-14",
+      "importance": 8,
+      "title": "FBI Enables Social Media Suppression of Hunter Biden Laptop Story Despite Knowing Authenticity",
+      "summary": "Twitter and Facebook suppressed the New York Post's Hunter Biden laptop story after months of FBI warnings about potential Russian 'hack-and-leak' operations. The FBI had possessed the laptop since December 2019 and confirmed its authenticity, but when social media companies asked directly about it, FBI officials responded 'no comment,' allowing platforms to conclude it was Russian disinformation. Twitter's Yoel Roth testified the FBI warned during weekly meetings to expect 'hack-and-leak operations' involving Hunter Biden 'likely in October.' House testimony revealed FBI personnel warning about Russian operations knew the laptop was real. Twitter blocked sharing entirely while Facebook reduced circulation by 95%. Executives later called suppression a 'mistake.' The laptop was used as evidence in Hunter Biden's 2024 criminal conviction.",
+      "actors": [
+        "FBI",
+        "Twitter",
+        "Facebook",
+        "Yoel Roth",
+        "Hunter Biden",
+        "New York Post"
+      ],
+      "tags": [
+        "censorship",
+        "election-interference",
+        "fbi",
+        "social-media",
+        "disinformation"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Testimony Reveals FBI Employees Who Warned Social Media Companies Knew Hunter Biden Laptop Wasn't Russian Disinformation",
+          "url": "https://judiciary.house.gov/media/press-releases/testimony-reveals-fbi-employees-who-warned-social-media-companies-about-hack",
+          "outlet": "House Judiciary Committee",
+          "date": "2023-07-10"
+        },
+        {
+          "title": "Former Twitter execs tell House committee that removal of Hunter Biden laptop story was a mistake",
+          "url": "https://abcnews.go.com/US/former-twitter-execs-house-committee-removal-hunter-biden/story?id=96979014",
+          "outlet": "ABC News",
+          "date": "2023-02-08"
+        },
+        {
+          "title": "Twitter execs acknowledge mistakes with Hunter Biden laptop story but say no government involvement",
+          "url": "https://www.cnn.com/2023/02/08/politics/twitter-hearing-house-oversight/index.html",
+          "outlet": "CNN",
+          "date": "2023-02-08"
+        },
+        {
+          "title": "FBI Spent a Year Preparing Platforms to Censor Biden Story",
+          "url": "https://www.nationalreview.com/news/fbi-spent-a-year-preparing-platforms-to-censor-biden-story-withheld-info-on-laptops-authenticity/",
+          "outlet": "National Review",
+          "date": "2023-07-10"
+        }
+      ]
+    },
+    {
       "id": "2020-11-12--newsmax-knows-no-evidence-airs-anyway",
       "date": "2020-11-12",
       "importance": 9,
@@ -7679,6 +7807,53 @@
       "notes": "Meeting included writer and publisher working on Mark Meadows' memoir and two Trump staffers,\nnone with security clearances. Trump was attempting to rebut claims about Mark Milley\npreventing him from attacking Iran. He described the document as \"highly confidential\" and\n\"secret information.\" Later denied having documents in Fox News interview."
     },
     {
+      "id": "2021-08-26--supreme-court-strikes-down-cdc-eviction-moratorium",
+      "date": "2021-08-26",
+      "importance": 6,
+      "title": "Supreme Court Strikes Down CDC Eviction Moratorium as Unauthorized Executive Action",
+      "summary": "The Supreme Court ruled 6-3 to block the Biden administration's CDC eviction moratorium covering areas with high COVID transmission, finding the agency exceeded its statutory authority. The Court held that '[i]f a federally imposed eviction moratorium is to continue, Congress must specifically authorize it.' President Biden had acknowledged the legal vulnerability when issuing the August 3 order, admitting 'I can't guarantee you the court won't rule we don't have that authority,' but proceeded to buy time for rental assistance distribution. The moratorium, challenged by the Alabama Association of Realtors, was costing landlords $19 billion monthly. This decision, along with the OSHA mandate ruling, established precedent limiting executive agency emergency powers without explicit Congressional authorization.",
+      "actors": [
+        "Supreme Court",
+        "CDC",
+        "Joe Biden",
+        "Alabama Association of Realtors"
+      ],
+      "tags": [
+        "executive-overreach",
+        "emergency-powers",
+        "supreme-court",
+        "covid-19",
+        "housing"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Supreme Court strikes down CDC eviction moratorium despite delta's rise",
+          "url": "https://www.washingtonpost.com/politics/courts_law/supreme-court-eviction-ban-struck-down/2021/08/26/46bce3e2-0511-11ec-a654-900a78538242_story.html",
+          "outlet": "Washington Post",
+          "date": "2021-08-26"
+        },
+        {
+          "title": "The Supreme Court Will Allow Evictions To Resume",
+          "url": "https://www.npr.org/2021/08/26/1024668578/court-blocks-biden-cdc-evictions-moratorium",
+          "outlet": "NPR",
+          "date": "2021-08-26"
+        },
+        {
+          "title": "Alabama Association of Realtors v. HHS Opinion",
+          "url": "https://www.supremecourt.gov/opinions/20pdf/21a23_ap6c.pdf",
+          "outlet": "Supreme Court of the United States",
+          "date": "2021-08-26"
+        },
+        {
+          "title": "Supreme Court Strikes Down the CDC's Second Eviction Moratorium",
+          "url": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-september/supreme-court-strikes-down-the-cdc/",
+          "outlet": "American Bar Association",
+          "date": "2021-09-01"
+        }
+      ]
+    },
+    {
       "id": "2021-09-01--joe-rogan-covid-ivermectin-treatment",
       "date": "2021-09-01",
       "importance": 8,
@@ -7874,6 +8049,53 @@
       ],
       "notes": "Malone claimed he invented mRNA vaccines (false). Said vaccines make COVID worse. Compared US to Nazi Germany. 270 doctors wrote open letter. Neil Young, Joni Mitchell pulled music from Spotify in protest.",
       "status": "confirmed"
+    },
+    {
+      "id": "2022-01-13--supreme-court-blocks-biden-osha-vaccine-mandate-as",
+      "date": "2022-01-13",
+      "importance": 7,
+      "title": "Supreme Court Blocks Biden OSHA Vaccine Mandate as Executive Overreach",
+      "summary": "The Supreme Court ruled 6-3 to block President Biden's OSHA mandate requiring businesses with 100+ employees to enforce COVID vaccination or weekly testing, affecting 84 million workers. The Court held that while OSHA can regulate 'occupational dangers,' it lacks authority to 'regulate public health more broadly.' The majority wrote that requiring vaccination of 84 million Americans 'selected simply because they work for employers with more than 100 employees' exceeded OSHA's statutory authority. The Biden administration withdrew the mandate on January 26. The Court simultaneously upheld a narrower CMS mandate for healthcare workers receiving federal funds. This marked a significant limit on executive agency power to address emergencies without clear Congressional authorization.",
+      "actors": [
+        "Supreme Court",
+        "Joe Biden",
+        "OSHA",
+        "Department of Labor"
+      ],
+      "tags": [
+        "executive-overreach",
+        "emergency-powers",
+        "supreme-court",
+        "covid-19",
+        "vaccine-mandate"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Supreme Court blocks Biden Covid vaccine mandate for businesses",
+          "url": "https://www.cnbc.com/2022/01/13/supreme-court-ruling-biden-covid-vaccine-mandates.html",
+          "outlet": "CNBC",
+          "date": "2022-01-13"
+        },
+        {
+          "title": "Supreme Court blocks Biden's vaccine-or-test mandate for large private companies",
+          "url": "https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies",
+          "outlet": "NPR",
+          "date": "2022-01-13"
+        },
+        {
+          "title": "Fractured court blocks vaccine-or-test requirement for large workplaces",
+          "url": "https://www.scotusblog.com/2022/01/fractured-court-blocks-vaccine-or-test-requirement-for-large-workplaces-but-green-lights-vaccine-mandate-for-health-care-workers/",
+          "outlet": "SCOTUSblog",
+          "date": "2022-01-13"
+        },
+        {
+          "title": "NFIB v. OSHA Opinion",
+          "url": "https://www.supremecourt.gov/opinions/21pdf/21a244_hgci.pdf",
+          "outlet": "Supreme Court of the United States",
+          "date": "2022-01-13"
+        }
+      ]
     },
     {
       "id": "2022-01-17--national-archives-retrieves-classified-docs",
@@ -8864,6 +9086,46 @@
       "status": "confirmed"
     },
     {
+      "id": "2022-12-31--arabella-advisors-network-raises-record-135-billio",
+      "date": "2022-12-31",
+      "importance": 7,
+      "title": "Arabella Advisors Network Raises Record $1.35 Billion in Dark Money",
+      "summary": "The Arabella Advisors network, managing five nonprofit funds including the Sixteen Thirty Fund, raised $1.35 billion from anonymous donors in 2022, making it the dominant force in Democratic dark money operations. The Sixteen Thirty Fund alone spent $196 million on political causes including $66 million supporting liberal politicians and ballot initiatives. Swiss billionaire Hansj\u00f6rg Wyss has contributed $245 million to Arabella entities since 2016, with $208 million going to the Sixteen Thirty Fund. The Atlantic called it 'the indisputable heavyweight of Democratic dark money,' noting it was the second-largest super-PAC donor in 2020. The network faced scrutiny in September 2022 when the D.C. attorney general issued subpoenas seeking information on alleged financial mismanagement.",
+      "actors": [
+        "Arabella Advisors",
+        "Sixteen Thirty Fund",
+        "Hansj\u00f6rg Wyss",
+        "Eric Kessler"
+      ],
+      "tags": [
+        "dark-money",
+        "campaign-finance",
+        "political-influence",
+        "foreign-influence"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Under Ethics Scrutiny, Liberal Dark Money Behemoth Arabella Advisors Discloses $1.3 Billion Fundraising Haul",
+          "url": "https://freebeacon.com/democrats/under-ethics-scrutiny-liberal-dark-money-behemoth-arabella-advisors-discloses-1-3-billion-fundraising-haul/",
+          "outlet": "Washington Free Beacon",
+          "date": "2023-11-15"
+        },
+        {
+          "title": "Meet the Swiss Billionaire Behind Arabella Advisors Dark Money Empire",
+          "url": "https://capitalresearch.org/article/meet-the-swiss-billionaire-behind-arabella-advisors-dark-money-empire/",
+          "outlet": "Capital Research Center",
+          "date": "2023-02-08"
+        },
+        {
+          "title": "How a Secretive Billionaire Handed His Fortune to the Architect of the 'Dark Money' Political Network",
+          "url": "https://www.theatlantic.com/politics/archive/2021/09/anonymous-big-donor-conservative-nonprofit-16-thirty-fund/620092/",
+          "outlet": "The Atlantic",
+          "date": "2021-09-02"
+        }
+      ]
+    },
+    {
       "id": "2023-01-01--epstein-1-1-billion-wire-transfers",
       "date": "2023-01-01",
       "importance": 8,
@@ -9622,6 +9884,53 @@
       "notes": "Theory threatened to eliminate all state constitutional protections for voting rights and fair elections. Decision preserves role of state courts in protecting democracy."
     },
     {
+      "id": "2023-06-30--supreme-court-strikes-down-biden-400-billion-stude",
+      "date": "2023-06-30",
+      "importance": 8,
+      "title": "Supreme Court Strikes Down Biden $400 Billion Student Loan Forgiveness as Executive Overreach",
+      "summary": "The Supreme Court ruled 6-3 that President Biden's plan to cancel up to $430 billion in student loan debt exceeded executive authority under the HEROES Act. The plan would have forgiven up to $20,000 for Pell Grant recipients and $10,000 for other borrowers, affecting 43 million Americans. Chief Justice Roberts wrote that the HEROES Act allowed the Secretary to 'waive or modify' provisions, 'not to rewrite that statute from the ground up,' comparing the administration's interpretation to the French Revolution 'modifying' the nobility. Justice Kagan's dissent argued the majority was overstepping by deciding 'a contested public policy issue properly belonging to the politically accountable branches.' The decision marked a major limit on emergency executive powers following COVID-19.",
+      "actors": [
+        "Supreme Court",
+        "Joe Biden",
+        "John Roberts",
+        "Elena Kagan",
+        "Department of Education"
+      ],
+      "tags": [
+        "executive-overreach",
+        "emergency-powers",
+        "supreme-court",
+        "student-debt"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Supreme Court strikes down Biden student-loan forgiveness program",
+          "url": "https://www.scotusblog.com/2023/06/supreme-court-strikes-down-biden-student-loan-forgiveness-program/",
+          "outlet": "SCOTUSblog",
+          "date": "2023-06-30"
+        },
+        {
+          "title": "Supreme Court strikes down student loan program",
+          "url": "https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden",
+          "outlet": "NPR",
+          "date": "2023-06-30"
+        },
+        {
+          "title": "Biden v. Nebraska Opinion",
+          "url": "https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf",
+          "outlet": "Supreme Court of the United States",
+          "date": "2023-06-30"
+        },
+        {
+          "title": "Supreme Court strikes down Biden student loan forgiveness plan in 6-3 decision",
+          "url": "https://www.axios.com/2023/06/30/supreme-court-student-loan-decision",
+          "outlet": "Axios",
+          "date": "2023-06-30"
+        }
+      ]
+    },
+    {
       "id": "2023-07-01--rfk-jr-covid-bioweapon-conspiracy",
       "date": "2023-07-01",
       "title": "RFK Jr claims COVID was ethnically targeted bioweapon sparing Jews and Chinese",
@@ -9654,6 +9963,53 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2023-07-19--irs-whistleblowers-testify-hunter-biden-investigat",
+      "date": "2023-07-19",
+      "importance": 7,
+      "title": "IRS Whistleblowers Testify Hunter Biden Investigation Was Obstructed by DOJ",
+      "summary": "IRS supervisory agent Gary Shapley and case agent Joseph Ziegler testified before House Oversight Committee that the Justice Department investigation into Hunter Biden was 'slow walked' with political interference. They alleged prosecutors blocked scrutiny of Joe Biden's potential involvement, tipped off Hunter Biden's attorneys about evidence searches, and that U.S. Attorney David Weiss said he was 'not the deciding person' on charges despite public statements. Ziegler, a Democrat who didn't vote in 2020, recommended multiple felony charges in 2021 that weren't pursued. Both agents claimed retaliation after their disclosures. Other witnesses disputed some key allegations but confirmed frustration with the probe's pace and venue-shopping for charges.",
+      "actors": [
+        "Gary Shapley",
+        "Joseph Ziegler",
+        "Hunter Biden",
+        "David Weiss",
+        "House Oversight Committee"
+      ],
+      "tags": [
+        "oversight",
+        "obstruction-of-justice",
+        "whistleblower",
+        "political-interference"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "IRS Whistleblowers Expose How Bidens Were Treated Differently",
+          "url": "https://oversight.house.gov/release/hearing-wrap-up-irs-whistleblowers-expose-how-bidens-were-treated-differently/",
+          "outlet": "House Committee on Oversight and Accountability",
+          "date": "2023-07-19"
+        },
+        {
+          "title": "Second IRS whistleblower goes public at House Oversight hearing about Hunter Biden probe",
+          "url": "https://www.cnn.com/2023/07/19/politics/oversight-committee-hearing-irs-whistleblowers/index.html",
+          "outlet": "CNN",
+          "date": "2023-07-19"
+        },
+        {
+          "title": "IRS whistleblowers testify before House Oversight Committee about Hunter Biden probe",
+          "url": "https://www.nbcnews.com/politics/congress/irs-whistleblowers-testify-house-oversight-committee-hunter-biden-prob-rcna95078",
+          "outlet": "NBC News",
+          "date": "2023-07-19"
+        },
+        {
+          "title": "Who are the Hunter Biden IRS whistleblowers? Joseph Ziegler, Gary Shapley testify",
+          "url": "https://www.cbsnews.com/news/hunter-biden-irs-whistleblowers-joseph-ziegler-gary-shapley/",
+          "outlet": "CBS News",
+          "date": "2023-07-19"
+        }
+      ]
     },
     {
       "id": "2023-08-29--x-political-ads-return",
@@ -9707,6 +10063,55 @@
           "url": "https://www.wsj.com/articles/x-twitter-political-ads-return-musk",
           "outlet": "Wall Street Journal",
           "date": "2023-08-29"
+        }
+      ]
+    },
+    {
+      "id": "2023-09-08--fifth-circuit-finds-biden-administration-violated-",
+      "date": "2023-09-08",
+      "importance": 8,
+      "title": "Fifth Circuit Finds Biden Administration Violated First Amendment Through Social Media Coercion",
+      "summary": "The Fifth Circuit Court of Appeals ruled that White House officials, the Surgeon General, CDC, and FBI 'likely coerced or significantly encouraged' social media platforms to censor content, constituting state action in violation of the First Amendment. The court found evidence of a 'years-long pressure campaign' where officials threatened platforms with regulatory action for content decisions. District Judge Doughty found the White House engaged in 'unrelenting pressure' at least 22 times and that 'virtually all of the free speech suppressed was conservative free speech.' The court also noted FBI's troubling failure to alert platforms that the Hunter Biden laptop story was real after suggesting it was Russian disinformation. The Supreme Court later dismissed the case on standing grounds without ruling on the merits.",
+      "actors": [
+        "Fifth Circuit Court of Appeals",
+        "White House",
+        "FBI",
+        "CDC",
+        "Surgeon General",
+        "Social media platforms"
+      ],
+      "tags": [
+        "censorship",
+        "first-amendment",
+        "social-media",
+        "government-overreach",
+        "judicial-ruling"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "5th circuit rules against Biden administration for social media contact",
+          "url": "https://www.npr.org/2023/09/08/1197971952/biden-administration-fifth-circuit-ruling-social-media-injunction",
+          "outlet": "NPR",
+          "date": "2023-09-08"
+        },
+        {
+          "title": "Missouri v. Biden Fifth Circuit Opinion",
+          "url": "https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf",
+          "outlet": "U.S. Court of Appeals for the Fifth Circuit",
+          "date": "2023-09-08"
+        },
+        {
+          "title": "Missouri Attorney General Obtains Court Order Blocking Biden Administration",
+          "url": "https://ago.mo.gov/home/news/2023/07/05/missouri-attorney-general-andrew-bailey-obtains-court-order-blocking-the-biden-administration-from-violating-first-amendment",
+          "outlet": "Missouri Attorney General",
+          "date": "2023-07-05"
+        },
+        {
+          "title": "Murthy v. Missouri (Formerly Missouri v. Biden)",
+          "url": "https://www.brennancenter.org/our-work/court-cases/murthy-v-missouri-formerly-missouri-v-biden",
+          "outlet": "Brennan Center for Justice",
+          "date": "2024-06-26"
         }
       ]
     },
@@ -9822,6 +10227,52 @@
       ],
       "notes": "Crow initially refused voluntary compliance. Committee seeking full accounting of decades of gifts. Part of broader investigation into Supreme Court ethics crisis. Also subpoenaed Leonard Leo of Federalist Society.",
       "status": "confirmed"
+    },
+    {
+      "id": "2023-12-31--biden-leaves-14-inspector-general-positions-vacant",
+      "date": "2023-12-31",
+      "importance": 6,
+      "title": "Biden Leaves 14 Inspector General Positions Vacant, Some for Over 2,000 Days",
+      "summary": "The Biden administration maintained 14 Inspector General vacancies across federal agencies, with some positions unfilled for over 2,000 days, severely weakening government oversight. The Export-Import Bank IG position remained vacant since June 2014 (2,664 days), while Treasury's IG spot was empty for over 5 years. Key agencies lacking permanent IGs included Defense (515+ days), State Department, and Office of Personnel Management. Despite calls from watchdog groups like Project On Government Oversight (POGO), Biden also failed to remove compromised DHS Inspector General Joseph Cuffari after findings he 'engaged in conduct undermining independence' and 'abused authority.' POGO's Daniel Schuman noted the administration 'has been slow to fill the positions,' creating obstacles to crucial oversight duties during a period of expanded government spending and emergency authorities.",
+      "actors": [
+        "Joe Biden",
+        "Joseph Cuffari",
+        "Project On Government Oversight",
+        "Inspectors General"
+      ],
+      "tags": [
+        "oversight",
+        "inspectors-general",
+        "government-accountability",
+        "institutional-weakness"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Inspector General Vacancies",
+          "url": "https://www.oversight.gov/about/inspectors-general-vacancies",
+          "outlet": "Oversight.gov",
+          "date": "2023-12-31"
+        },
+        {
+          "title": "15 federal watchdog roles remain vacant, hindering government function",
+          "url": "https://thefulcrum.us/corruption/inspector-general-vacancies",
+          "outlet": "The Fulcrum",
+          "date": "2023-06-15"
+        },
+        {
+          "title": "President Biden: Remove Inspector General Cuffari Before You Leave Office",
+          "url": "https://www.pogo.org/policy-letters/president-biden-remove-inspector-general-cuffari-before-you-leave-office",
+          "outlet": "Project On Government Oversight",
+          "date": "2024-11-14"
+        },
+        {
+          "title": "Despite critical report, Biden hasn't taken disciplinary action against DHS watchdog",
+          "url": "https://www.govexec.com/oversight/2024/12/despite-critical-report-biden-hasnt-taken-disciplinary-action-against-dhs-watchdog/401411/",
+          "outlet": "Government Executive",
+          "date": "2024-12-04"
+        }
+      ]
     },
     {
       "id": "2023-12-31--supreme-court-gifts-6-6-million-documented",
@@ -11452,6 +11903,54 @@
       ]
     },
     {
+      "id": "2024-09-30--biden-uses-emergency-drawdown-authority-55-times-t",
+      "date": "2024-09-30",
+      "importance": 7,
+      "title": "Biden Uses Emergency Drawdown Authority 55 Times to Send $31.7B in Weapons to Ukraine",
+      "summary": "President Biden exercised Presidential Drawdown Authority (PDA) 55 times from August 2021 through September 2024, transferring $31.7 billion in weapons from Pentagon stockpiles to Ukraine without normal Congressional oversight. Congress expanded PDA's annual cap from $100 million to $11 billion (FY2022), $14.5 billion (FY2023), and $7.8 billion (FY2024). The transfers depleted critical U.S. stockpiles including 155mm shells, HIMARS, Stinger missiles, and Patriot systems, with GAO reporting 'long lead times' and 'supplier limitations' for replacements. Senator Mike Lee criticized Biden for throwing '60 years of precedent out the window' and running 'the shelves bare until at least 2030,' jeopardizing military readiness. Pentagon officials acknowledged reaching monthly limits on transfers without affecting U.S. combat capability.",
+      "actors": [
+        "Joe Biden",
+        "Pentagon",
+        "Congress",
+        "Ukraine",
+        "Mike Lee"
+      ],
+      "tags": [
+        "emergency-powers",
+        "ukraine",
+        "military-aid",
+        "congressional-bypass",
+        "defense-spending"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Use of Presidential Drawdown Authority for Military Assistance for Ukraine",
+          "url": "https://www.state.gov/bureau-of-political-military-affairs/use-of-presidential-drawdown-authority-for-military-assistance-for-ukraine",
+          "outlet": "U.S. Department of State",
+          "date": "2024-09-30"
+        },
+        {
+          "title": "Presidential Drawdown Authority: Guidance Should Reflect Expanded Use",
+          "url": "https://www.gao.gov/products/gao-25-107475",
+          "outlet": "Government Accountability Office",
+          "date": "2024-09-19"
+        },
+        {
+          "title": "U.S. Security Assistance to Ukraine",
+          "url": "https://crsreports.congress.gov/product/pdf/IF/IF12040",
+          "outlet": "Congressional Research Service",
+          "date": "2024-08-15"
+        },
+        {
+          "title": "Pentagon unlikely to use all of the billions Congress authorized",
+          "url": "https://www.cnn.com/2024/11/27/politics/pentagon-billions-ukraine-aid/index.html",
+          "outlet": "CNN",
+          "date": "2024-11-27"
+        }
+      ]
+    },
+    {
       "id": "2024-10-01--musk-tucker-carlson-epstein-list",
       "date": "2024-10-01",
       "importance": 6,
@@ -11851,6 +12350,52 @@
       ],
       "notes": "Property is flat farmland currently yielding onions, grain sorghum, corn and soybeans. Buckingham stated \"We are completely united with President Trump to rid our country of illegal, violent criminals.\" Represents state-level coordination for federal deportation infrastructure before Trump takes office.",
       "status": "confirmed"
+    },
+    {
+      "id": "2024-12-01--president-biden-issues-full-pardon-for-son-hunter-",
+      "date": "2024-12-01",
+      "importance": 8,
+      "title": "President Biden Issues Full Pardon for Son Hunter Despite Repeated Promises Not To",
+      "summary": "President Joe Biden issued a sweeping pardon for his son Hunter Biden covering all potential federal crimes from January 1, 2014 through December 1, 2024, reversing repeated public promises not to interfere. The pardon covers Hunter's June conviction for lying on gun purchase forms while addicted to drugs, September guilty plea for $1.4 million in tax evasion, and any potential crimes during his Burisma board tenure. Biden had explicitly promised 'I will not pardon him' as recently as November 2024. The president justified the reversal claiming Hunter was 'singled out only because he is my son' and that 'raw politics has infected this process.' Special Counsel David Weiss called Biden's characterization 'wrong' and 'unfairly impugning' the Justice Department. The pardon prevented sentencing scheduled for December 12 and 16.",
+      "actors": [
+        "Joe Biden",
+        "Hunter Biden",
+        "David Weiss",
+        "Department of Justice"
+      ],
+      "tags": [
+        "presidential-pardon",
+        "family-enrichment",
+        "obstruction-of-justice",
+        "abuse-of-power"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "President Biden pardons his son Hunter Biden",
+          "url": "https://www.cnn.com/2024/12/01/politics/hunter-biden-joe-biden-pardon/index.html",
+          "outlet": "CNN",
+          "date": "2024-12-01"
+        },
+        {
+          "title": "Joe Biden pardons his son Hunter Biden",
+          "url": "https://www.washingtonpost.com/politics/2024/12/01/hunter-biden-pardon/",
+          "outlet": "Washington Post",
+          "date": "2024-12-01"
+        },
+        {
+          "title": "Biden pardons his son Hunter on gun and tax charges despite previously saying he wouldn't",
+          "url": "https://www.pbs.org/newshour/politics/biden-pardons-his-son-hunter-on-gun-and-tax-charges-despite-previously-saying-he-wouldnt",
+          "outlet": "PBS NewsHour",
+          "date": "2024-12-01"
+        },
+        {
+          "title": "Read Hunter Biden's pardon and President Biden's full statement",
+          "url": "https://www.cbsnews.com/news/hunter-biden-pardon-joe-biden-statement/",
+          "outlet": "CBS News",
+          "date": "2024-12-01"
+        }
+      ]
     },
     {
       "id": "2024-12-01--congress-swatting-campaign",
