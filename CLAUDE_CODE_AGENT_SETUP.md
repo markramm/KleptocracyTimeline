@@ -9,7 +9,7 @@ This guide provides instructions for setting up custom subagents in Claude Code 
 The system uses two specialized agents:
 
 1. **timeline-researcher**: Handles web research and source verification (Haiku model)
-2. **timeline-entry-creator**: Creates properly formatted YAML entries (Haiku model)
+2. **timeline-entry-creator**: Creates properly formatted JSON entries (Haiku model)
 
 The main Claude (Opus/Sonnet) orchestrates these agents, synthesizes results, and handles complex analysis.
 

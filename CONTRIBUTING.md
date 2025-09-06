@@ -34,41 +34,37 @@ grep -r "your search term" timeline_data/events/
 
 Create a new file in `timeline_data/events/` named:
 ```
-YYYY-MM-DD--brief-description.yaml
+YYYY-MM-DD--brief-description.json
 ```
 
 ### Step 3: Use This Template
 
-```yaml
-id: YYYY-MM-DD--brief-description
-date: 'YYYY-MM-DD'
-title: Factual, neutral title without editorializing
-summary: |
-  Objective description of what happened. Include:
-  - What specifically occurred
-  - Which institutions/people were involved
-  - What the immediate impact was
-  - Why this represents a systemic issue
-  
-  Keep it factual. No speculation or editorial language.
-status: pending  # Always start with pending
-location: City, State  # If applicable
-actors:
-  - Person Name (Role)
-  - Organization Name
-tags:
-  - democratic-erosion
-  - regulatory-capture
-  # See full tag list in README
-sources:
-  - title: Exact Article Headline
-    url: https://original-source.com/article
-    outlet: Publication Name
-    date: '2024-01-15'
-    archived_url: https://web.archive.org/...  # We'll help create this
-notes: |
-  Additional context for researchers (optional)
-  This won't be displayed publicly
+```json
+{
+  "id": "YYYY-MM-DD--brief-description",
+  "date": "YYYY-MM-DD",
+  "title": "Factual, neutral title without editorializing",
+  "summary": "Objective description of what happened. Include: What specifically occurred, which institutions/people were involved, what the immediate impact was, and why this represents a systemic issue. Keep it factual. No speculation or editorial language.",
+  "status": "pending",
+  "location": "City, State",
+  "actors": [
+    "Person Name (Role)",
+    "Organization Name"
+  ],
+  "tags": [
+    "democratic-erosion",
+    "regulatory-capture"
+  ],
+  "sources": [
+    {
+      "title": "Exact Article Headline",
+      "url": "https://original-source.com/article",
+      "outlet": "Publication Name",
+      "date": "2024-01-15",
+      "archived_url": "https://web.archive.org/..."
+    }
+  ],
+  "notes": "Additional context for researchers (optional) - won't be displayed publicly"
 ```
 
 ### Step 4: Validate Your Event

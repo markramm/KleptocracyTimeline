@@ -138,23 +138,26 @@ The repository includes pre-commit hooks that automatically validate:
 - ESLint checks (no unused variables, proper imports)
 - React build with CI settings (treats warnings as errors)
 
-### YAML Event Management
-Use `yaml_tools.py` for searching and bulk operations on existing events:
+### JSON Event Management
+The timeline now uses JSON format for all events. Use the `timeline_event_manager.py` for all event operations:
 
 ```python
-from yaml_tools import YamlEventManager
-manager = YamlEventManager()
+from timeline_event_manager import TimelineEventManager
+manager = TimelineEventManager()
 
-# Search events
-results = manager.yaml_search(text="ICE", importance_min=8)
+# Create a new event with validation
+event = manager.create_event(
+    date="2025-01-20",
+    title="Event Title",
+    summary="Description",
+    importance=7,
+    actors=["Actor Name"],
+    tags=["tag1", "tag2"],
+    sources=[...]
+)
 
-# Add sources to existing events
-manager.manage_sources("2025-01-20--event.yaml", action="add", 
-                      sources=[{"title": "...", "outlet": "...", "url": "..."}])
-
-# Bulk edit multiple events
-manager.yaml_bulk_edit(search_criteria={"tags": ["ICE"]}, 
-                      updates={"importance": 9})
+# Save the event to JSON
+filepath = manager.save_event(event)
 ```
 
 These tools provide:

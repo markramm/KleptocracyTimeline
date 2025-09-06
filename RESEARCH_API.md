@@ -13,7 +13,7 @@ A SQLite-based research server for the kleptocracy timeline that enables advance
 ### 📊 **SQLite Database**
 - **Structured storage** of all timeline events with relational integrity
 - **Performance indexes** on key fields for fast queries
-- **Auto-sync** with YAML files (5-minute background reload)
+- **Auto-sync** with JSON files (5-minute background reload)
 - **Change detection** using file hashing to avoid unnecessary updates
 
 ### 🔬 **Research Workflow**
@@ -25,8 +25,9 @@ A SQLite-based research server for the kleptocracy timeline that enables advance
 ### ⚡ **Timeline Management**
 - **Create new events** with full validation
 - **Update existing events** with automatic syncing
-- **Export to YAML** files for git version control
-- **Import from YAML** with automatic parsing
+- **Export to JSON** files for git version control
+- **Import from JSON** with automatic parsing
+- **Optional YAML export** for compatibility (with format=yaml parameter)
 
 ### 🤖 **Automation Ready**
 - **REST API** for programmatic access
@@ -75,7 +76,7 @@ client.create_event({
         'url': 'https://example.com',
         'outlet': 'News Outlet'
     }]
-}, save_yaml=True)
+}, save_json=True)
 ```
 
 ### 3. Test the Workflow
@@ -95,7 +96,7 @@ python3 test_research_workflow.py
 ### Timeline Management  
 - `POST /api/events` - Create new timeline event
 - `PUT /api/events/<id>` - Update existing event
-- `GET /api/reload` - Force reload from YAML files
+- `GET /api/reload` - Force reload from JSON files
 
 ### Research Workflow
 - `GET /api/research/notes` - Get research notes
@@ -221,13 +222,13 @@ def create_timeline_entry_from_research(research_data):
         'actors': extract_actors(research_data),
         'tags': classify_tags(research_data),
         'sources': extract_sources(research_data)
-    }, save_yaml=True)
+    }, save_json=True)
 ```
 
 ## Configuration
 
 ### Environment Variables
-- `TIMELINE_DIR` - Path to YAML events directory
+- `TIMELINE_DIR` - Path to JSON events directory
 - `DATABASE_PATH` - SQLite database file location  
 - `CACHE_DURATION` - Background reload interval (seconds)
 - `API_PORT` - Server port (default: 5174)
@@ -237,7 +238,7 @@ def create_timeline_entry_from_research(research_data):
 # Backup database
 cp research_timeline.db research_timeline.backup.db
 
-# Force reload from YAML
+# Force reload from JSON
 curl http://127.0.0.1:5174/api/reload
 
 # View statistics
@@ -291,8 +292,8 @@ def find_corruption_patterns(client):
 
 ### Common Issues
 - **Database locked**: Ensure only one server instance is running
-- **YAML parse errors**: Check event file syntax with `yaml.safe_load()`
-- **Missing events**: Verify YAML files are in correct directory structure
+- **JSON parse errors**: Check event file syntax with `json.load()`
+- **Missing events**: Verify JSON files are in correct directory structure
 - **Slow searches**: Check database indexes with `.schema` in SQLite
 
 ### Debug Mode
