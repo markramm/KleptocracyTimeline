@@ -104,7 +104,7 @@
   position: absolute;
   top: 80px;
   right: 20px;
-  width: 300px;
+  width: 350px;
   padding: 20px;
   background: white;
   border-radius: 8px;
@@ -124,17 +124,41 @@
 }
 
 .node-details h3 {
-  margin: 0 0 10px 0;
-  color: #333;
-  font-size: 18px;
+  margin: 0 0 15px 0;
+  color: #1a1a1a;
+  font-size: 20px;
+  font-weight: 600;
   border-bottom: 2px solid #667eea;
-  padding-bottom: 8px;
+  padding-bottom: 10px;
 }
 
 .node-details p {
+  margin: 10px 0;
+  color: #333;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.node-details p strong {
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+.node-details ul {
+  margin: 10px 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.node-details ul li {
   margin: 8px 0;
-  color: #666;
+  padding: 8px 12px;
+  background: #f7f7f7;
+  border-radius: 4px;
   font-size: 14px;
+  color: #333;
+  line-height: 1.4;
+  border-left: 3px solid #667eea;
 }
 
 .node-details button {

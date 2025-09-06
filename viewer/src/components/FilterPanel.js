@@ -495,18 +495,49 @@ const FilterPanel = ({
               />
               
               {selectedActors.length > 0 && (
-                <div className="selected-items">
-                  {selectedActors.map(actor => (
-                    <div key={actor} className="selected-item actor-item">
-                      <span>{actor}</span>
-                      <button
-                        onClick={() => onActorsChange(selectedActors.filter(a => a !== actor))}
-                      >
-                        <X size={14} />
-                      </button>
-                    </div>
-                  ))}
-                </div>
+                <>
+                  <div className="selected-items">
+                    {selectedActors.map(actor => (
+                      <div key={actor} className="selected-item actor-item">
+                        <span>{actor}</span>
+                        <button
+                          onClick={() => onActorsChange(selectedActors.filter(a => a !== actor))}
+                        >
+                          <X size={14} />
+                        </button>
+                      </div>
+                    ))}
+                  </div>
+                  <button
+                    onClick={() => {
+                      // Build URL to switch to actors view with these actors pre-selected
+                      const params = new URLSearchParams();
+                      params.set('viewMode', 'actors');
+                      params.set('investigate', 'true');
+                      // Pass the actor names directly for the investigation
+                      params.set('actors', selectedActors.join(','));
+                      const newURL = window.location.pathname + '?' + params.toString() + window.location.hash;
+                      window.location.href = newURL;
+                    }}
+                    style={{
+                      marginTop: '10px',
+                      padding: '6px 12px',
+                      background: '#667eea',
+                      color: 'white',
+                      border: 'none',
+                      borderRadius: '4px',
+                      cursor: 'pointer',
+                      fontSize: '12px',
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '5px',
+                      width: '100%',
+                      justifyContent: 'center'
+                    }}
+                  >
+                    🔍 Investigate Actor Network
+                  </button>
+                </>
               )}
             </div>
           )}

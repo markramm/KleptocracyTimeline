@@ -1994,6 +1994,48 @@
       "status": "confirmed"
     },
     {
+      "id": "2009-01-20--obama-admin-prosecutes-zero-wall-street-executives",
+      "date": "2009-01-20",
+      "importance": 8,
+      "title": "Obama Admin Prosecutes Zero Wall Street Executives Despite Crisis Fraud",
+      "summary": "Despite widespread evidence of fraud in the 2008 financial crisis, the Obama administration prosecuted zero major Wall Street executives, contrasting starkly with the Savings and Loan crisis when 1,706 bankers were sent to prison. Instead, the DOJ pursued civil settlements totaling tens of billions, allowing banks to avoid admitting wrongdoing while treating penalties as tax-deductible business expenses. The 'Holder Doctrine' directed prosecutors to consider 'collateral consequences' when investigating corporations, leading to deferred prosecution agreements rather than criminal charges. Attorney General Eric Holder later returned to Covington & Burling, the same law firm representing major banks during his tenure, while Criminal Division Chief Lanny Breuer rejoined the firm earning $4 million in his first year back. This established a precedent of financial sector impunity that persisted through subsequent administrations.",
+      "actors": [
+        "Eric Holder",
+        "Department of Justice",
+        "Wall Street Banks",
+        "Lanny Breuer",
+        "Covington & Burling"
+      ],
+      "tags": [
+        "financial-crisis",
+        "wall-street",
+        "impunity",
+        "revolving-door",
+        "too-big-to-fail"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Why Only One Top Banker Went to Jail for the Financial Crisis",
+          "url": "https://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html",
+          "outlet": "New York Times",
+          "date": "2014-05-04"
+        },
+        {
+          "title": "The Untouchables: How the Obama administration protected Wall Street",
+          "url": "https://www.pbs.org/wgbh/frontline/film/untouchables/",
+          "outlet": "PBS Frontline",
+          "date": "2013-01-22"
+        },
+        {
+          "title": "Eric Holder returns to Covington & Burling",
+          "url": "https://www.politico.com/story/2015/07/eric-holder-covington-burling-119675",
+          "outlet": "Politico",
+          "date": "2015-07-06"
+        }
+      ]
+    },
+    {
       "id": "2009-04-13--peter-thiel-anti-democracy-essay",
       "date": "2009-04-13",
       "title": "Peter Thiel Publishes Anti-Democracy Essay Declaring Freedom and Democracy Incompatible",
@@ -2042,6 +2084,49 @@
         "billionaire-politics"
       ],
       "notes": "Thiel's essay represents a seminal moment in tech billionaire rejection of democratic governance. His argument that democracy inevitably leads to welfare states and regulation becomes foundational to the New Right movement. The essay's influence extends through his funding of political candidates like J.D. Vance who share this anti-democratic vision. Thiel specifically argues that women's suffrage made democracy incompatible with capitalism, revealing the reactionary core of his libertarianism."
+    },
+    {
+      "id": "2009-06-01--obama-cuts-80b-pharma-deal-abandoning-medicare-negot",
+      "date": "2009-06-01",
+      "importance": 8,
+      "title": "Obama Cuts $80B PhRMA Deal Abandoning Medicare Negotiation Promise",
+      "summary": "The Obama White House secretly negotiated an $80 billion deal with pharmaceutical industry lobbyists, abandoning the president's campaign promise to allow Medicare to negotiate drug prices. White House officials Jim Messina and Rahm Emanuel met with PhRMA CEO Billy Tauzin, agreeing to maintain the Medicare Part D prohibition on price negotiation and block drug reimportation from Canada in exchange for industry support of the ACA. Internal memos later revealed the White House agreed to oppose any additional cost-saving measures beyond the $80 billion cap. The pharmaceutical industry spent $318 million on lobbying in 2009, employing 165 lobbyists of whom 137 were former government employees. This deal preserved approximately $200 billion in pharmaceutical profits over 10 years. Liz Fowler, who architected the provision, moved from WellPoint insurance to Senator Baucus's staff, then to implementing the ACA, before joining Johnson & Johnson.",
+      "actors": [
+        "Barack Obama",
+        "PhRMA",
+        "Billy Tauzin",
+        "Jim Messina",
+        "Rahm Emanuel",
+        "Liz Fowler"
+      ],
+      "tags": [
+        "healthcare",
+        "pharmaceutical-industry",
+        "lobbying",
+        "broken-promises",
+        "regulatory-capture"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Obama's Deal With Big Pharma Undermines Democracy",
+          "url": "https://www.huffpost.com/entry/obamas-deal-with-big-phar_b_270607",
+          "outlet": "Huffington Post",
+          "date": "2009-08-13"
+        },
+        {
+          "title": "White House confirms deal with pharma",
+          "url": "https://www.nytimes.com/2009/08/06/health/policy/06drug.html",
+          "outlet": "New York Times",
+          "date": "2009-08-06"
+        },
+        {
+          "title": "The $80 Billion Drug Deal That Haunts Obama's Legacy",
+          "url": "https://www.politico.com/story/2016/07/obamacare-prescription-drugs-pharma-225444",
+          "outlet": "Politico",
+          "date": "2016-07-13"
+        }
+      ]
     },
     {
       "id": "2010-2013-trump-soho-money-laundering",
@@ -2330,6 +2415,49 @@
       "notes": "This meeting represents the beginning of Thiel's systematic cultivation of political talent aligned with his anti-democratic vision. Vance, then a Yale Law student from a working-class background, becomes Thiel's most successful political investment. The relationship demonstrates how tech billionaires build parallel power structures by identifying and funding ambitious individuals willing to advance their ideological agenda."
     },
     {
+      "id": "2012-12-11--hsbc-pays-9b-for-money-laundering-no-executives-ja",
+      "date": "2012-12-11",
+      "importance": 8,
+      "title": "HSBC Pays $1.9B for Money Laundering, No Executives Jailed",
+      "summary": "HSBC paid $1.9 billion for laundering money for Mexican drug cartels and violating sanctions against Iran, Libya, Sudan, and Cuba, but no executives faced criminal charges despite overwhelming evidence of intentional wrongdoing. The bank laundered at least $881 million for the Sinaloa and Norte del Valle cartels, with drug lords depositing hundreds of thousands daily. HSBC's Mexican affiliate transported $7 billion in cash to the U.S. between 2007-2008 in armored vehicles. Internal communications showed executives knew they were processing drug money but continued for profits. Assistant Attorney General Lanny Breuer said prosecuting HSBC could cause a 'global financial disaster,' establishing the too-big-to-jail precedent. The deferred prosecution agreement allowed HSBC to avoid criminal conviction. Breuer returned to Covington & Burling, which represented HSBC, earning $4 million his first year back. This case established that banks could commit massive felonies with only financial penalties.",
+      "actors": [
+        "HSBC",
+        "Lanny Breuer",
+        "Department of Justice",
+        "Mexican Drug Cartels",
+        "Eric Holder",
+        "Covington & Burling"
+      ],
+      "tags": [
+        "money-laundering",
+        "too-big-to-jail",
+        "drug-cartels",
+        "financial-crime",
+        "impunity"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "HSBC to pay $1.9 billion U.S. fine in money-laundering case",
+          "url": "https://www.reuters.com/article/us-hsbc-probe-idUSBRE8BA05M20121211",
+          "outlet": "Reuters",
+          "date": "2012-12-11"
+        },
+        {
+          "title": "Gangster Bankers: Too Big to Jail",
+          "url": "https://www.rollingstone.com/politics/politics-news/gangster-bankers-too-big-to-jail-102004/",
+          "outlet": "Rolling Stone",
+          "date": "2013-02-14"
+        },
+        {
+          "title": "HSBC Documents Show Bank Aided Tax Evasion, Money Laundering",
+          "url": "https://www.icij.org/investigations/swiss-leaks/hsbc-files-show-bank-helped-clients-dodge-taxes-hide-millions/",
+          "outlet": "ICIJ",
+          "date": "2015-02-08"
+        }
+      ]
+    },
+    {
       "id": "2013-01-01--intelligence-budget-70-percent-private",
       "date": "2013-01-01",
       "importance": 6,
@@ -2423,6 +2551,95 @@
         }
       ],
       "notes": "Numbers vary by source; Facebook later put the potential impact at ~87 million\nusers. Included primary regulatory filings for verifiability.\n"
+    },
+    {
+      "id": "2013-06-06--nsa-prism-program-forces-tech-companies-to-provide",
+      "date": "2013-06-06",
+      "importance": 9,
+      "title": "NSA PRISM Program Forces Tech Companies to Provide Direct Server Access",
+      "summary": "Edward Snowden revealed the NSA's PRISM program gave the government direct access to servers of Microsoft, Yahoo, Google, Facebook, Apple, and other tech giants, collecting emails, photos, videos, and communications of millions of Americans. Companies initially resisted but capitulated under threat of $250,000 daily fines that would double weekly, potentially reaching trillions. The program operated under Section 702 of FISA, supposedly targeting foreigners but collecting vast amounts of American data 'incidentally.' Director of National Intelligence James Clapper lied to Congress in March 2013, denying NSA collected 'any type of data at all on millions of Americans,' then called it his 'least untruthful' answer when exposed. The program collected data on 250 million internet communications annually. Federal judges later ruled bulk collection violated the Fourth Amendment. Tech companies built special portals for NSA access while publicly denying participation, fundamentally compromising digital privacy.",
+      "actors": [
+        "NSA",
+        "James Clapper",
+        "Edward Snowden",
+        "Google",
+        "Facebook",
+        "Microsoft",
+        "Apple",
+        "Yahoo"
+      ],
+      "tags": [
+        "surveillance",
+        "prism",
+        "privacy-violations",
+        "tech-companies",
+        "fourth-amendment"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "NSA Prism program taps into user data",
+          "url": "https://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html",
+          "outlet": "Washington Post",
+          "date": "2013-06-06"
+        },
+        {
+          "title": "Edward Snowden NSA files decoded",
+          "url": "https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded",
+          "outlet": "The Guardian",
+          "date": "2013-11-01"
+        },
+        {
+          "title": "James Clapper admits lying to Congress",
+          "url": "https://www.npr.org/sections/thetwo-way/2013/06/11/190638234/clapper-apologizes-for-clearly-erroneous-answer-on-nsa-surveillance",
+          "outlet": "NPR",
+          "date": "2013-06-11"
+        }
+      ]
+    },
+    {
+      "id": "2013-06-21--obama-prosecutes-8-whistleblowers-under-espionage-a",
+      "date": "2013-06-21",
+      "importance": 8,
+      "title": "Obama Prosecutes 8 Whistleblowers Under Espionage Act, More Than All Presidents",
+      "summary": "The Obama administration prosecuted eight individuals under the Espionage Act for leaking to media, more than all previous administrations combined which had only three cases total since 1917. Those prosecuted included Thomas Drake (NSA) whose 10 felony charges were reduced to a misdemeanor after the judge called the prosecution 'unconscionable,' Chelsea Manning who received 35 years for WikiLeaks disclosures, Edward Snowden who fled to Russia after revealing NSA surveillance, and CIA officer John Kiriakou who was imprisoned for exposing torture while torturers went free. The administration secretly seized AP phone records affecting 100+ journalists and named Fox News reporter James Rosen a criminal 'co-conspirator.' Press organizations called it the most aggressive war on whistleblowers in history, creating a chilling effect that prevented exposure of government wrongdoing. Obama's Justice Department also threatened New York Times reporter James Risen with jail for refusing to reveal sources. This criminalization of journalism sources established precedents Trump later escalated.",
+      "actors": [
+        "Barack Obama",
+        "Eric Holder",
+        "Edward Snowden",
+        "Chelsea Manning",
+        "Thomas Drake",
+        "James Risen",
+        "John Kiriakou"
+      ],
+      "tags": [
+        "whistleblowers",
+        "espionage-act",
+        "press-freedom",
+        "surveillance",
+        "journalism"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Obama's Crackdown on Whistleblowers",
+          "url": "https://www.longislandpress.com/2013/06/14/obamas-crackdown-on-whistleblowers/",
+          "outlet": "Long Island Press",
+          "date": "2013-06-14"
+        },
+        {
+          "title": "Obama and leakers how many prosecutions",
+          "url": "https://www.politifact.com/factchecks/2017/jun/09/jeff-sessions/obama-prosecuted-leakers-more-aggressively-sessio/",
+          "outlet": "Politifact",
+          "date": "2017-06-09"
+        },
+        {
+          "title": "The war on leaks and journalism",
+          "url": "https://www.theguardian.com/commentisfree/2013/may/20/obama-administration-espionage-act-james-goodale",
+          "outlet": "The Guardian",
+          "date": "2013-05-20"
+        }
+      ]
     },
     {
       "id": "2013-06-25--shelby-county-guts-voting-rights",
@@ -2539,6 +2756,49 @@
       ],
       "notes": "Reframe away from \"created at Trump's request.\" Keep to what's in court records and Reuters.",
       "status": "confirmed"
+    },
+    {
+      "id": "2013-10-01--healthcare-gov-launch-disaster-costs-7b-from-93m",
+      "date": "2013-10-01",
+      "importance": 7,
+      "title": "Healthcare.gov Launch Disaster Costs $1.7B from $93M Contract",
+      "summary": "The Healthcare.gov launch on October 1, 2013 became one of the most expensive government IT failures in history, with costs ballooning from an initial $93.7 million CGI Federal contract to over $1.7 billion total. The site crashed within minutes of launch, with only 6 people successfully enrolling on day one. Of 4.7 million unique visitors in the first day, 99% could not create accounts. CGI Federal, a Canadian company with a history of failures, received the no-bid contract through a small business program loophole. After two months of dysfunction, Accenture replaced CGI at additional cost. State exchanges in Oregon, Nevada, Maryland, and Hawaii failed completely despite receiving $305 million, $75 million, $193 million, and $205 million respectively. Oregon never enrolled a single person online. The disaster demonstrated massive government contracting incompetence, with contractors profiting from failure while millions couldn't access healthcare. GAO found inadequate oversight and testing throughout.",
+      "actors": [
+        "CGI Federal",
+        "Healthcare.gov",
+        "HHS",
+        "CMS",
+        "Accenture",
+        "Oregon"
+      ],
+      "tags": [
+        "healthcare",
+        "it-failure",
+        "government-contracting",
+        "obamacare",
+        "waste"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Healthcare.gov costs exceed $1.7 billion",
+          "url": "https://www.bloomberg.com/news/articles/2014-09-24/obamacare-website-costs-exceed-2-billion-study-finds",
+          "outlet": "Bloomberg",
+          "date": "2014-09-24"
+        },
+        {
+          "title": "6 enrolled on first day of Healthcare.gov",
+          "url": "https://www.washingtonpost.com/national/health-science/six-people-signed-up-for-obamacare-on-launch-day/2013/10/31/",
+          "outlet": "Washington Post",
+          "date": "2013-10-31"
+        },
+        {
+          "title": "Oregon's $305 million exchange failure",
+          "url": "https://www.politico.com/story/2015/04/oregon-obamacare-website-never-worked-117395",
+          "outlet": "Politico",
+          "date": "2015-04-28"
+        }
+      ]
     },
     {
       "id": "2014-01-01--epstein-belyakov-meetings",
@@ -4247,6 +4507,136 @@
       "notes": "Classic function privatization moving sensitive operations outside public accountability. Russian Ambassador reportedly \"taken aback\" by Kushner proposal to use Russian diplomatic facilities, bypassing all U.S. oversight."
     },
     {
+      "id": "2017-01-20--secret-service-pays-4m-to-trump-properties-for-pro",
+      "date": "2017-01-20",
+      "importance": 7,
+      "title": "Secret Service Pays $1.4M to Trump Properties for Protection",
+      "summary": "The Secret Service paid at least $1.4 million directly to Trump properties during his presidency, often at rates far exceeding government limits. Trump charged the Secret Service up to $1,185 per night at Mar-a-Lago, five times the government rate of $195. Eric Trump claimed they only charged 'like 50 bucks,' but documents showed payments of $17,000 in golf cart rentals at Trump golf courses in just months. The Service paid $40,000 for rooms when Trump stayed at his Doral resort for two days. They were even charged $3 per glass of water at Mar-a-Lago. Trump visited his properties 281 times as president, generating revenue each time from government payments. This self-dealing violated the domestic emoluments clause, with Trump profiting from his constitutional duty to receive Secret Service protection. The total exceeded what Trump claimed to donate back to the Treasury, meaning he profited from taxpayers.",
+      "actors": [
+        "Donald Trump",
+        "Secret Service",
+        "Trump Organization",
+        "Eric Trump",
+        "Mar-a-Lago"
+      ],
+      "tags": [
+        "emoluments-clause",
+        "self-dealing",
+        "corruption",
+        "secret-service",
+        "conflict-of-interest"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Secret Service paid at least $1.4 million to Trump properties",
+          "url": "https://www.washingtonpost.com/politics/secret-service-has-paid-at-least-14-million-to-trump-properties/2020/05/08/",
+          "outlet": "Washington Post",
+          "date": "2020-05-08"
+        },
+        {
+          "title": "Trump's Mar-a-Lago charged Secret Service at least $1.4 million",
+          "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/secret-service-paid-at-least-1-4-million-to-trump/",
+          "outlet": "CREW",
+          "date": "2020-10-27"
+        },
+        {
+          "title": "Eric Trump's claim about Secret Service payments false",
+          "url": "https://www.forbes.com/sites/danielcassady/2020/09/17/eric-trump-claimed-secret-service-paid-50-a-night-at-trump-hotels-it-actually-paid-650/",
+          "outlet": "Forbes",
+          "date": "2020-09-17"
+        }
+      ]
+    },
+    {
+      "id": "2017-01-20--trump-organization-receives-36m-from-foreign-gover",
+      "date": "2017-01-20",
+      "importance": 9,
+      "title": "Trump Organization Receives 3.6M from Foreign Governments",
+      "summary": "The Trump Organization received at least 3.6 million from foreign governments including China, Saudi Arabia, Kuwait, UAE, and Qatar during Trump's presidency, violating the Constitution's Foreign Emoluments Clause. Saudi officials alone paid at least 15,000 to Trump properties. T-Mobile executives stayed at Trump's hotel for over 52 nights while seeking merger approval worth 6 billion. The spending included .4 million from Chinese state-owned Industrial and Commercial Bank of China for Trump Tower space. Trump refused to divest his businesses or place them in a blind trust, instead having his sons run operations while he retained ownership. Federal judges found Trump violated the Emoluments Clause but the Supreme Court dismissed cases as moot after his term ended.",
+      "actors": [
+        "Donald Trump",
+        "Trump Organization",
+        "Saudi Arabia",
+        "China",
+        "T-Mobile",
+        "UAE",
+        "Kuwait",
+        "Qatar"
+      ],
+      "tags": [
+        "emoluments-clause",
+        "foreign-influence",
+        "constitutional-violations",
+        "conflict-of-interest",
+        "corruption"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Donald Trump Made Millions From Foreign Governments As President",
+          "url": "https://www.forbes.com/sites/danalexander/2021/01/04/donald-trump-made-millions-from-foreign-governments-as-president/",
+          "outlet": "Forbes",
+          "date": "2021-01-04"
+        },
+        {
+          "title": "Trump properties made over $750,000 from Saudi government",
+          "url": "https://www.washingtonpost.com/politics/saudi-payments-to-trump-hotels/2018/12/05/",
+          "outlet": "Washington Post",
+          "date": "2018-12-05"
+        },
+        {
+          "title": "T-Mobile executives stayed at Trump hotel more than 52 times",
+          "url": "https://www.washingtonpost.com/politics/t-mobile-executives-seeking-merger-stayed-at-trump-hotel-more-than-52-times/2019/03/05/",
+          "outlet": "Washington Post",
+          "date": "2019-03-05"
+        }
+      ]
+    },
+    {
+      "id": "2017-01-20--goldman-sachs-alumni-take-control-of-trump-economi",
+      "date": "2017-01-20",
+      "importance": 8,
+      "title": "Goldman Sachs Alumni Take Control of Trump Economic Policy",
+      "summary": "Despite campaign rhetoric opposing Wall Street, Trump appointed an unprecedented concentration of Goldman Sachs executives to key positions. Gary Cohn, who received a $285 million severance from Goldman, became National Economic Council Director. Steven Mnuchin, a 17-year Goldman partner who initially failed to disclose $95 million in assets, became Treasury Secretary. Dina Powell served as Deputy National Security Adviser. Jay Clayton, longtime Goldman attorney, chaired the SEC. Even Steve Bannon and Anthony Scaramucci had Goldman backgrounds. Critics dubbed the administration 'Government Sachs' as these appointees rolled back Dodd-Frank regulations and reduced SEC enforcement against financial institutions.",
+      "actors": [
+        "Gary Cohn",
+        "Steven Mnuchin",
+        "Goldman Sachs",
+        "Dina Powell",
+        "Jay Clayton",
+        "Donald Trump"
+      ],
+      "tags": [
+        "regulatory-capture",
+        "wall-street",
+        "conflict-of-interest",
+        "revolving-door",
+        "financial-sector"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "The Intercept Investigation on Goldman Sachs in Trump Administration",
+          "url": "https://theintercept.com/2017/03/15/goldman-sachs-staff-trump-administration/",
+          "outlet": "The Intercept",
+          "date": "2017-03-15"
+        },
+        {
+          "title": "Trump's Goldman Sachs Cabinet",
+          "url": "https://www.propublica.org/article/trump-campaign-gary-cohn-goldman-sachs-drain-swamp",
+          "outlet": "ProPublica",
+          "date": "2017-01-20"
+        },
+        {
+          "title": "Steven Mnuchin",
+          "url": "https://en.wikipedia.org/wiki/Steven_Mnuchin",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        }
+      ]
+    },
+    {
       "id": "2017-01-20--secret-service-spending-trump-properties",
       "date": "2017-01-20",
       "importance": 8,
@@ -4294,6 +4684,92 @@
             "Specific resort payments; incomplete data captured by systems"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2017-01-20--heritage-foundation-staffs-trump-admin-implements",
+      "date": "2017-01-20",
+      "importance": 8,
+      "title": "Heritage Foundation Staffs Trump Admin, Implements 64% of Agenda",
+      "summary": "The Heritage Foundation placed 70+ personnel in the Trump administration and achieved implementation of 64% of their policy recommendations within Trump's first year, unprecedented corporate capture of government. Heritage alumni included OMB Director Mick Mulvaney, EPA Administrator Scott Pruitt, Education Secretary Betsy DeVos, HHS Secretary Tom Price, and Attorney General Jeff Sessions. The foundation's 'Mandate for Leadership' became the administration's blueprint, with 2 of every 3 recommendations adopted. Heritage received $5 million from Koch network and millions from fossil fuel companies while their personnel dismantled environmental protections. The foundation created a personnel database for future conservative administrations, later evolving into Project 2025 with plans to replace 50,000 civil servants. Heritage President Kay Coles James served on Trump's transition team while the foundation operated as a shadow policy shop. This represented the most successful ideological capture of the executive branch by a single think tank in American history.",
+      "actors": [
+        "Heritage Foundation",
+        "Donald Trump",
+        "Mick Mulvaney",
+        "Scott Pruitt",
+        "Betsy DeVos",
+        "Kay Coles James",
+        "Koch Network"
+      ],
+      "tags": [
+        "heritage-foundation",
+        "institutional-capture",
+        "think-tanks",
+        "project-2025",
+        "ideological-capture"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Heritage Foundation claims 64% of its agenda implemented",
+          "url": "https://www.heritage.org/impact/trump-administration-embraces-heritage-foundation-policy-recommendations",
+          "outlet": "Heritage Foundation",
+          "date": "2018-01-23"
+        },
+        {
+          "title": "How Heritage Foundation shaped Trump administration",
+          "url": "https://www.nytimes.com/2018/06/20/magazine/trump-government-heritage-foundation-think-tank.html",
+          "outlet": "New York Times",
+          "date": "2018-06-20"
+        },
+        {
+          "title": "Heritage Foundation's unprecedented influence",
+          "url": "https://www.politico.com/story/2018/01/23/heritage-foundation-trump-administration-358756",
+          "outlet": "Politico",
+          "date": "2018-01-23"
+        }
+      ]
+    },
+    {
+      "id": "2017-01-21--mar-a-lago-membership-fee-doubles-to-400k-for-pres",
+      "date": "2017-01-21",
+      "importance": 7,
+      "title": "Mar-a-Lago Membership Fee Doubles to $400K for Presidential Access",
+      "summary": "Trump's Mar-a-Lago club doubled its membership fee from $200,000 to $400,000 immediately after his election, selling access to the president for profit. Members gained direct access to Trump during his 142 visits as president, with the club becoming known as the 'Winter White House.' Foreign officials, lobbyists, and executives seeking government contracts joined to influence policy. Chinese spy Yujing Zhang infiltrated the club with electronic devices. Club members included private prison executives, pharmaceutical lobbyists, and foreign nationals who discussed policy directly with Trump. Member Chris Ruddy boasted about influencing VA policy. The club hosted foreign leaders without security protocols, with Trump discussing North Korea missile launches in the dining room as guests took photos. Trump showed classified documents to members, including military plans to attack Iran. The Secret Service paid at least $1.4 million to the club. This pay-for-access scheme turned the presidency into a profit center, violating the domestic emoluments clause.",
+      "actors": [
+        "Donald Trump",
+        "Mar-a-Lago",
+        "Chris Ruddy",
+        "Yujing Zhang",
+        "Secret Service"
+      ],
+      "tags": [
+        "pay-for-access",
+        "emoluments-clause",
+        "corruption",
+        "mar-a-lago",
+        "influence-peddling"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Mar-a-Lago membership fee doubles to $400,000",
+          "url": "https://www.cnbc.com/2017/01/25/mar-a-lago-membership-fee-doubles-to-400000.html",
+          "outlet": "CNBC",
+          "date": "2017-01-25"
+        },
+        {
+          "title": "The Swamp That Trump Built at Mar-a-Lago",
+          "url": "https://www.nytimes.com/2019/03/16/us/mar-a-lago-trump.html",
+          "outlet": "New York Times",
+          "date": "2019-03-16"
+        },
+        {
+          "title": "Chinese woman with malware arrested at Mar-a-Lago",
+          "url": "https://www.bbc.com/news/world-us-canada-47787753",
+          "outlet": "BBC",
+          "date": "2019-04-02"
         }
       ]
     },
@@ -4398,6 +4874,260 @@
       "notes": "The bank paid $425 million to New York regulators and \u00a3163 million to UK authorities.\nMirror trades involved fake stock transactions to convert rubles to dollars through\noffshore accounts in Cyprus and British Virgin Islands. While no direct Trump involvement\nproven, the timing overlapped with Trump receiving major loans when other banks refused."
     },
     {
+      "id": "2017-01-31--federalist-society-captures-federal-judiciary-with",
+      "date": "2017-01-31",
+      "importance": 9,
+      "title": "Federalist Society Captures Federal Judiciary with $250M Dark Money",
+      "summary": "The Federalist Society, funded by $250 million in dark money from anonymous donors, orchestrated the most systematic judicial capture in U.S. history. Trump outsourced judicial selection to the Society, appointing 231 federal judges including 3 Supreme Court justices, all from their pre-approved list. Leonard Leo, the Society's co-chairman, received $1.6 billion from a single donor to reshape the courts. The network included shell organizations like Judicial Crisis Network spending $40 million on confirmation campaigns. These judges subsequently ruled to overturn Roe v. Wade, expand corporate power, weaken voting rights, and shield Trump from prosecution. The captured judiciary blocked Biden policies while fast-tracking conservative priorities, fundamentally altering American law for generations.",
+      "actors": [
+        "Federalist Society",
+        "Leonard Leo",
+        "Donald Trump",
+        "Judicial Crisis Network",
+        "Mitch McConnell"
+      ],
+      "tags": [
+        "judicial-capture",
+        "dark-money",
+        "democracy-erosion",
+        "institutional-capture",
+        "rule-of-law"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "The $250 Million Dark Money Operation to Capture the Supreme Court",
+          "url": "https://www.nytimes.com/2023/08/22/us/politics/leonard-leo-courts-dark-money.html",
+          "outlet": "New York Times",
+          "date": "2023-08-22"
+        },
+        {
+          "title": "Trump's judicial appointments",
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump_judicial_appointments",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        },
+        {
+          "title": "How the Federalist Society won",
+          "url": "https://www.politico.com/news/2022/06/24/federalist-society-supreme-court-00041801",
+          "outlet": "Politico",
+          "date": "2022-06-24"
+        }
+      ]
+    },
+    {
+      "id": "2017-02-01--rex-tillerson-exxonmobil-ceo-becomes-secretary-of-",
+      "date": "2017-02-01",
+      "importance": 8,
+      "title": "Rex Tillerson ExxonMobil CEO Becomes Secretary of State",
+      "summary": "Rex Tillerson, former ExxonMobil CEO who received Putin's Order of Friendship for Russian energy deals and maintained 45 million in oil investments, became Secretary of State despite unprecedented opposition. Tillerson had negotiated a 00 billion Arctic drilling deal with Russia's Rosneft that was blocked by sanctions he would oversee lifting. He dismantled the State Department, leaving 60% of top diplomat positions vacant, firing career officials, and proposing 31% budget cuts. Tillerson used private email for classified information, refused to spend 20 million allocated to counter Russian interference, and was fired via tweet after calling Trump a 'moron.' His tenure marked the most severe diplomatic capacity reduction in State Department history.",
+      "actors": [
+        "Rex Tillerson",
+        "ExxonMobil",
+        "Vladimir Putin",
+        "Donald Trump",
+        "State Department"
+      ],
+      "tags": [
+        "oil-industry",
+        "russia-connections",
+        "regulatory-capture",
+        "foreign-influence",
+        "institutional-destruction"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Rex Tillerson, Exxon C.E.O., Chosen as Secretary of State",
+          "url": "https://www.nytimes.com/2016/12/12/us/politics/rex-tillerson-secretary-of-state-trump.html",
+          "outlet": "New York Times",
+          "date": "2016-12-12"
+        },
+        {
+          "title": "Tillerson Out: The Disastrous Legacy of Rex Tillerson",
+          "url": "https://www.vox.com/world/2018/3/13/17112764/rex-tillerson-fired-state-department",
+          "outlet": "Vox",
+          "date": "2018-03-13"
+        },
+        {
+          "title": "Rex Tillerson",
+          "url": "https://en.wikipedia.org/wiki/Rex_Tillerson",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        }
+      ]
+    },
+    {
+      "id": "2017-02-07--scott-pruitt-dismantles-epa-while-taking-industry-",
+      "date": "2017-02-07",
+      "importance": 8,
+      "title": "Scott Pruitt Dismantles EPA While Taking Industry Money",
+      "summary": "Scott Pruitt, who sued the EPA 14 times as Oklahoma Attorney General while taking 00,000+ from fossil fuel companies, became EPA Administrator and immediately began dismantling environmental protections. He installed a 3,000 soundproof phone booth, took 30+ first-class flights costing taxpayers 63,000, and lived in a 0/night condo owned by an energy lobbyist. Pruitt reversed the Clean Power Plan, withdrew from the Paris Agreement, rolled back 82+ environmental regulations, and fired EPA scientists while hiring industry consultants. He resigned under 14 federal investigations but his successor Andrew Wheeler, a former coal lobbyist, continued the deregulation agenda. EPA enforcement dropped 72% and criminal prosecutions hit a 30-year low.",
+      "actors": [
+        "Scott Pruitt",
+        "EPA",
+        "Andrew Wheeler",
+        "Donald Trump",
+        "Fossil Fuel Industry"
+      ],
+      "tags": [
+        "regulatory-capture",
+        "environmental-destruction",
+        "corruption",
+        "climate-denial",
+        "industry-influence"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Scott Pruitt Is Carrying Out His E.P.A. Agenda in Secret",
+          "url": "https://www.nytimes.com/2017/08/11/us/politics/scott-pruitt-epa.html",
+          "outlet": "New York Times",
+          "date": "2017-08-11"
+        },
+        {
+          "title": "All of Scott Pruitt scandals \u2014 a complete guide",
+          "url": "https://www.vox.com/policy-and-politics/2018/7/5/17535910/scott-pruitt-resigns-epa-scandals-list",
+          "outlet": "Vox",
+          "date": "2018-07-05"
+        },
+        {
+          "title": "EPA enforcement under Trump drops to 30-year low",
+          "url": "https://www.nbcnews.com/news/us-news/trump-s-epa-made-criminal-prosecution-polluters-hit-30-year-n1140916",
+          "outlet": "NBC News",
+          "date": "2020-01-15"
+        }
+      ]
+    },
+    {
+      "id": "2017-02-08--kellyanne-conway-commits-50-hatch-act-violations-no",
+      "date": "2017-02-08",
+      "importance": 7,
+      "title": "Kellyanne Conway Commits 50+ Hatch Act Violations, No Consequences",
+      "summary": "White House Counselor Kellyanne Conway committed over 50 Hatch Act violations by repeatedly using her official position to influence elections, with the Office of Special Counsel finding she violated the law on dozens of occasions including advocating for Roy Moore and against Doug Jones in the Alabama Senate race. OSC recommended her removal from federal service, calling her violations 'egregious, notorious, and ongoing,' but Trump refused any disciplinary action. Conway appeared on TV in her official capacity attacking Democratic candidates and promoting Republicans. When asked about the violations, Conway said 'let me know when the jail sentence starts.' This normalized lawbreaking at the highest levels, with at least 13 senior Trump officials violating the Hatch Act including Ivanka Trump, Jared Kushner, and multiple Cabinet secretaries. The administration's refusal to enforce the law established that ethics rules were optional for those in power, fundamentally undermining government integrity.",
+      "actors": [
+        "Kellyanne Conway",
+        "Donald Trump",
+        "Office of Special Counsel",
+        "White House",
+        "Ivanka Trump",
+        "Jared Kushner"
+      ],
+      "tags": [
+        "hatch-act",
+        "ethics-violations",
+        "impunity",
+        "rule-of-law",
+        "corruption"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Kellyanne Conway violated Hatch Act, should be removed",
+          "url": "https://www.npr.org/2019/06/13/732359273/federal-watchdog-agency-recommends-removal-of-kellyanne-conway-from-federal-of",
+          "outlet": "NPR",
+          "date": "2019-06-13"
+        },
+        {
+          "title": "OSC report on Conway's egregious Hatch Act violations",
+          "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/osc-report-kellyanne-conway/",
+          "outlet": "CREW",
+          "date": "2019-06-13"
+        },
+        {
+          "title": "Trump officials who violated the Hatch Act",
+          "url": "https://www.washingtonpost.com/politics/2020/08/27/trumps-hatch-act-violations/",
+          "outlet": "Washington Post",
+          "date": "2020-08-27"
+        }
+      ]
+    },
+    {
+      "id": "2017-02-23--private-prison-stocks-soar-as-corecivic-geo-donate",
+      "date": "2017-02-23",
+      "importance": 7,
+      "title": "Private Prison Stocks Soar as CoreCivic, GEO Donate $2.8M to Trump",
+      "summary": "Private prison companies CoreCivic and GEO Group saw their stock prices surge 100% and 98% respectively after donating nearly $2.8 million to Trump's campaign and inauguration. Attorney General Jeff Sessions immediately reversed Obama's order to phase out private prisons, declaring 'this will restore BOP's flexibility.' The companies secured $45 billion in detention contracts as the administration implemented family separation policies that increased detention needs. GEO Group moved its annual conference to Trump National Doral, paying the Trump Organization directly. CoreCivic and GEO spent $1.6 million lobbying in 2017 alone. ICE detention in private facilities increased 40% while conditions deteriorated, with 24 deaths in custody during Trump's term. Both companies' executives gained direct White House access through Mar-a-Lago memberships. The quid pro quo demonstrated how campaign contributions directly translated into billion-dollar government contracts.",
+      "actors": [
+        "CoreCivic",
+        "GEO Group",
+        "Jeff Sessions",
+        "Donald Trump",
+        "ICE",
+        "Department of Justice"
+      ],
+      "tags": [
+        "private-prisons",
+        "pay-to-play",
+        "immigration-detention",
+        "campaign-finance",
+        "corruption"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Private Prison Stocks Soar Under Trump",
+          "url": "https://www.npr.org/2017/02/23/516916688/private-prison-stocks-soar-under-trump-administration",
+          "outlet": "NPR",
+          "date": "2017-02-23"
+        },
+        {
+          "title": "Private prisons back Trump and could see big payoffs",
+          "url": "https://www.washingtonpost.com/politics/private-prisons-back-trump-and-could-see-big-payoffs-with-his-immigration-crackdown/2017/02/23/",
+          "outlet": "Washington Post",
+          "date": "2017-02-23"
+        },
+        {
+          "title": "GEO Group Runs Out of Cell Space",
+          "url": "https://www.motherjones.com/politics/2017/08/geo-group-private-prison-immigration-detention-trump/",
+          "outlet": "Mother Jones",
+          "date": "2017-08-01"
+        }
+      ]
+    },
+    {
+      "id": "2017-03-02--ryan-zinke-opens-public-lands-to-extraction-while-",
+      "date": "2017-03-02",
+      "importance": 8,
+      "title": "Ryan Zinke Opens Public Lands to Extraction While Profiting",
+      "summary": "Interior Secretary Ryan Zinke, who rode a horse to his first day while claiming to be like Teddy Roosevelt, opened 10 million acres of public lands to oil and gas drilling while his wife ran a consulting firm doing business with those seeking Interior Department approval. Zinke shrunk Bears Ears National Monument by 85% and Grand Staircase-Escalante by 50%, the largest rollback of federal land protection in U.S. history. He met with Halliburton executives, then approved Arctic drilling projects. Zinke spent 39,000 on new office doors, took private jets costing 2,375 for a speech to hockey team owners, and mixed political fundraising with official travel. After resigning under 18 investigations, his successor David Bernhardt, a former oil lobbyist with 26 potential conflicts of interest, accelerated the sell-off of public lands.",
+      "actors": [
+        "Ryan Zinke",
+        "David Bernhardt",
+        "Department of Interior",
+        "Halliburton",
+        "Oil Industry"
+      ],
+      "tags": [
+        "public-lands",
+        "regulatory-capture",
+        "environmental-destruction",
+        "corruption",
+        "extraction-industry"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ryan Zinke resigns as interior secretary amid investigations",
+          "url": "https://www.washingtonpost.com/national/health-science/ryan-zinke-resigns-as-interior-secretary-amid-investigations/2018/12/15/",
+          "outlet": "Washington Post",
+          "date": "2018-12-15"
+        },
+        {
+          "title": "Trump shrinks two national monuments in Utah",
+          "url": "https://www.cnn.com/2017/12/04/politics/trump-utah-monuments/index.html",
+          "outlet": "CNN",
+          "date": "2017-12-04"
+        },
+        {
+          "title": "David Bernhardt confirmed despite conflicts of interest",
+          "url": "https://www.nytimes.com/2019/04/11/climate/david-bernhardt-interior-secretary.html",
+          "outlet": "New York Times",
+          "date": "2019-04-11"
+        }
+      ]
+    },
+    {
       "id": "2017-03-17--reuters-russian-buyers-trump-condos",
       "date": "2017-03-17",
       "importance": 8,
@@ -4498,6 +5228,48 @@
             "Congressional questions on GSA's compliance determination and constitutional issues"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2017-04-06--ivanka-trump-receives-chinese-trademarks-during-xi",
+      "date": "2017-04-06",
+      "importance": 8,
+      "title": "Ivanka Trump Receives Chinese Trademarks During Xi Jinping Dinner",
+      "summary": "Ivanka Trump received three valuable Chinese trademarks on the same day she dined with President Xi Jinping at Mar-a-Lago during critical U.S.-China trade negotiations. Throughout Trump's presidency, China approved 34 trademarks for Ivanka's business, including 16 new trademarks in October 2018 while her father's trade war threatened Chinese exports. The trademarks covered voting machines, nursing homes, sausage casings, and other businesses she had never operated. China also approved trademarks for Donald Trump himself during his presidency after years of rejections. Ethics experts called it 'corruption plain and simple,' noting China appeared to be granting valuable intellectual property to influence U.S. policy. Ivanka served as a senior White House adviser throughout, creating unprecedented conflicts between personal business interests and official duties in foreign policy.",
+      "actors": [
+        "Ivanka Trump",
+        "China",
+        "Xi Jinping",
+        "Donald Trump",
+        "Chinese Trademark Office"
+      ],
+      "tags": [
+        "foreign-influence",
+        "corruption",
+        "conflict-of-interest",
+        "china",
+        "trademarks"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Ivanka Trump Wins China Trademarks on Day She Dined With Xi",
+          "url": "https://apnews.com/article/0a01b5f9edca4e5c9e5f3a7c9f3d8e7f",
+          "outlet": "Associated Press",
+          "date": "2017-04-19"
+        },
+        {
+          "title": "China grants 18 trademarks to companies linked to Trump, Ivanka",
+          "url": "https://www.nytimes.com/2018/11/06/business/trump-trademarks-china.html",
+          "outlet": "New York Times",
+          "date": "2018-11-06"
+        },
+        {
+          "title": "Ivanka Trump gets initial approval from China for 16 new trademarks",
+          "url": "https://www.cnbc.com/2018/11/06/ivanka-trump-gets-initial-approval-from-china-for-16-trademarks.html",
+          "outlet": "CNBC",
+          "date": "2018-11-06"
         }
       ]
     },
@@ -4638,6 +5410,48 @@
       "notes": "Mueller Report pages 62-77 detail how Trump decided to fire Comey before receiving any DOJ recommendation, explicitly to neutralize Russia investigation. Pattern of targeting institutions designed to investigate corruption."
     },
     {
+      "id": "2017-06-01--trump-withdraws-from-paris-climate-agreement",
+      "date": "2017-06-01",
+      "importance": 9,
+      "title": "Trump Withdraws from Paris Climate Agreement Isolating America",
+      "summary": "President Trump announced U.S. withdrawal from the Paris Climate Agreement, making America the only nation to reject the accord after Syria and Nicaragua joined. Trump falsely claimed the agreement would cost America $3 trillion and 6.5 million jobs while allowing China and India to increase emissions. In reality, the agreement was voluntary with self-determined targets. The withdrawal process took four years, with the exit becoming official on November 4, 2020. This decision followed intense lobbying from fossil fuel companies who donated $139 million to Trump and Republicans in 2016. CEOs of major companies including Apple, Google, Microsoft, and Tesla opposed withdrawal, warning it would damage American competitiveness. Military leaders called climate change a national security threat. Scientists projected the withdrawal could add 0.3\u00b0C to global warming by 2100, causing thousands of additional deaths from extreme weather. Biden rejoined on his first day in office.",
+      "actors": [
+        "Donald Trump",
+        "Paris Agreement",
+        "Fossil Fuel Industry",
+        "United States",
+        "Scott Pruitt"
+      ],
+      "tags": [
+        "climate-change",
+        "paris-agreement",
+        "environmental-destruction",
+        "international-isolation",
+        "fossil-fuels"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump announces U.S. withdrawal from Paris climate accord",
+          "url": "https://www.washingtonpost.com/news/post-politics/wp/2017/06/01/trump-to-announce-u-s-will-exit-paris-climate-deal/",
+          "outlet": "Washington Post",
+          "date": "2017-06-01"
+        },
+        {
+          "title": "Trump Abandons Paris Climate Agreement",
+          "url": "https://www.nytimes.com/2017/06/01/climate/trump-paris-climate-agreement.html",
+          "outlet": "New York Times",
+          "date": "2017-06-01"
+        },
+        {
+          "title": "U.S. formally exits Paris climate agreement",
+          "url": "https://www.npr.org/2020/11/04/930545670/u-s-officially-leaving-paris-climate-agreement",
+          "outlet": "NPR",
+          "date": "2020-11-04"
+        }
+      ]
+    },
+    {
       "id": "2017-06-17--first-mueller-firing-attempt",
       "date": "2017-06-17",
       "importance": 6,
@@ -4773,6 +5587,48 @@
       "status": "confirmed"
     },
     {
+      "id": "2017-09-29--tom-price-resigns-after-million-dollar-private-jet-",
+      "date": "2017-09-29",
+      "importance": 7,
+      "title": "Tom Price Resigns After Million Dollar Private Jet Scandal",
+      "summary": "HHS Secretary Tom Price resigned in disgrace after spending over $1 million on private and military jets for travel that included visiting family and vacations. Price took 26 private flights costing $400,000 in just months, plus military aircraft to Africa, Europe, and Asia costing $500,000+. He flew private jets to events where he stayed less than an hour, including a Philadelphia event 137 miles from D.C. Price previously traded healthcare stocks while crafting legislation affecting those companies as a Congressman, making suspicious trades worth $300,000+ in companies directly impacted by his legislative actions. He purchased Innate Immunotherapeutics stock at a discounted insider price, then introduced legislation benefiting the company. Price claimed he would drain the swamp but epitomized corruption, using his position for personal enrichment. His replacement, Alex Azar, came directly from pharmaceutical giant Eli Lilly, continuing the revolving door between industry and regulators.",
+      "actors": [
+        "Tom Price",
+        "HHS",
+        "Donald Trump",
+        "Alex Azar",
+        "Innate Immunotherapeutics"
+      ],
+      "tags": [
+        "corruption",
+        "insider-trading",
+        "private-jets",
+        "healthcare",
+        "revolving-door"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Tom Price resigns as HHS secretary after private jet scandal",
+          "url": "https://www.politico.com/story/2017/09/29/tom-price-resigns-hhs-secretary-243273",
+          "outlet": "Politico",
+          "date": "2017-09-29"
+        },
+        {
+          "title": "Tom Price's stock trades under scrutiny",
+          "url": "https://www.cnn.com/2017/01/16/politics/tom-price-stocks-health-care/index.html",
+          "outlet": "CNN",
+          "date": "2017-01-16"
+        },
+        {
+          "title": "Price's private travel cost more than $1 million",
+          "url": "https://www.washingtonpost.com/national/health-science/prices-travel-cost-more-than-1-million/2017/10/05/",
+          "outlet": "Washington Post",
+          "date": "2017-10-05"
+        }
+      ]
+    },
+    {
       "id": "2017-03-31--tom-price-resigns-private-jet-scandal",
       "date": "2017-09-29",
       "title": "HHS Secretary Tom Price Resigns After $1 Million Private Jet Scandal",
@@ -4857,6 +5713,90 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2017-10-03--whitefish-energy-wins-300m-no-bid-puerto-rico-cont",
+      "date": "2017-10-03",
+      "importance": 7,
+      "title": "Whitefish Energy Wins $300M No-Bid Puerto Rico Contract Despite 2 Employees",
+      "summary": "Whitefish Energy, a Montana company with only two full-time employees from Interior Secretary Ryan Zinke's hometown, received a $300 million no-bid contract to restore Puerto Rico's power grid after Hurricane Maria. The contract prohibited government auditing of costs while charging $462 per hour for supervisors and requiring Puerto Rico to pay all legal fees if disputed. The company had no experience with projects of this scale. After public outcry and congressional investigation, Puerto Rico's governor canceled the contract. FEMA later refused to approve reimbursement for the work. The disaster left 3,000+ Puerto Ricans dead while the administration delayed aid and Trump threw paper towels at survivors.",
+      "actors": [
+        "Whitefish Energy",
+        "Ryan Zinke",
+        "Puerto Rico",
+        "PREPA",
+        "Donald Trump"
+      ],
+      "tags": [
+        "disaster-capitalism",
+        "no-bid-contracts",
+        "hurricane-maria",
+        "corruption",
+        "crisis-profiteering"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "The Whitefish contract: How a tiny firm got Puerto Rico's biggest contract",
+          "url": "https://www.washingtonpost.com/national/small-montana-firm-lands-puerto-ricos-biggest-contract-to-get-the-power-back-on/2017/10/23/31cccc3e-b4d6-11e7-9e58-e6288544af98_story.html",
+          "outlet": "Washington Post",
+          "date": "2017-10-23"
+        },
+        {
+          "title": "Puerto Rico Cancels Whitefish Energy Contract",
+          "url": "https://www.npr.org/sections/thetwo-way/2017/10/29/560683583/puerto-rico-cancels-controversial-300-million-contract-awarded-to-montana-firm",
+          "outlet": "NPR",
+          "date": "2017-10-29"
+        },
+        {
+          "title": "Whitefish Energy Holdings",
+          "url": "https://en.wikipedia.org/wiki/Whitefish_Energy",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        }
+      ]
+    },
+    {
+      "id": "2017-11-01--kushner-shares-classified-intel-leading-to-saudi-a",
+      "date": "2017-11-01",
+      "importance": 9,
+      "title": "Kushner Shares Classified Intel Leading to Saudi Mass Arrests",
+      "summary": "Jared Kushner made an unannounced visit to Saudi Arabia in October 2017, staying up until 4 AM with Crown Prince Mohammed bin Salman. Days later, MBS launched mass arrests of 200+ Saudi royals and officials, seizing $100 billion in assets. MBS reportedly told confidants that Kushner was 'in his pocket' after sharing classified U.S. intelligence about Saudi dissidents. The Intercept reported Kushner discussed classified information identifying MBS's enemies from the President's Daily Brief. Kushner communicated with MBS via WhatsApp, bypassing official diplomatic channels. When MBS ordered journalist Jamal Khashoggi's murder in 2018, Kushner advised him on weathering the crisis. Trump refused CIA conclusions about the murder, declaring 'Saudi Arabia is a big buyer of American product. That means something to me.' This intelligence sharing represented an unprecedented breach of classified information protocols for personal influence.",
+      "actors": [
+        "Jared Kushner",
+        "Mohammed bin Salman",
+        "Saudi Arabia",
+        "Donald Trump",
+        "Jamal Khashoggi"
+      ],
+      "tags": [
+        "classified-information",
+        "foreign-influence",
+        "saudi-arabia",
+        "intelligence-breach",
+        "khashoggi-murder"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Kushner's WhatsApp communications with MBS",
+          "url": "https://www.theguardian.com/us-news/2019/mar/21/jared-kushner-whatsapp-house-oversight-information",
+          "outlet": "The Guardian",
+          "date": "2019-03-21"
+        },
+        {
+          "title": "Saudi Crown Prince Boasted Jared Kushner Was 'In His Pocket'",
+          "url": "https://theintercept.com/2018/03/21/jared-kushner-saudi-crown-prince-mohammed-bin-salman/",
+          "outlet": "The Intercept",
+          "date": "2018-03-21"
+        },
+        {
+          "title": "The Khashoggi murder and Trump's response",
+          "url": "https://www.nytimes.com/2018/11/20/world/middleeast/trump-saudi-khashoggi.html",
+          "outlet": "New York Times",
+          "date": "2018-11-20"
+        }
+      ]
     },
     {
       "id": "2017-2019-accenture-ice-contract-failure",
@@ -5286,6 +6226,49 @@
       "status": "confirmed"
     },
     {
+      "id": "2018-04-01--t-mobile-executives-spend-95k-at-trump-hotel-durin",
+      "date": "2018-04-01",
+      "importance": 7,
+      "title": "T-Mobile Executives Spend 95K at Trump Hotel During Merger Review",
+      "summary": "T-Mobile executives spent over 95,000 at Trump International Hotel while seeking approval for their 6 billion merger with Sprint, with more than 52 overnight stays documented. The spending coincided with the merger review period when T-Mobile needed approval from Trump's Justice Department and FCC. Company executives, including CEO John Legere, were repeatedly seen at the hotel's lobby and restaurant, with Legere tweeting from the location. The merger, initially blocked under Obama, was approved after T-Mobile hired Trump insider Corey Lewandowski to lobby the administration. This pattern of corporate spending during regulatory reviews became standard practice, with at least 110 foreign officials and 47 corporate executives from companies with federal business staying at Trump properties during critical decision periods.",
+      "actors": [
+        "T-Mobile",
+        "John Legere",
+        "Donald Trump",
+        "Trump Organization",
+        "Sprint",
+        "Corey Lewandowski"
+      ],
+      "tags": [
+        "corruption",
+        "pay-to-play",
+        "merger-approval",
+        "conflict-of-interest",
+        "corporate-influence"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "T-Mobile executives stayed at Trump hotel more than 52 times during merger review",
+          "url": "https://www.washingtonpost.com/politics/t-mobile-executives-seeking-merger-stayed-at-trump-hotel-more-than-52-times/2019/03/05/",
+          "outlet": "Washington Post",
+          "date": "2019-03-05"
+        },
+        {
+          "title": "T-Mobile admitted it spent $195,000 at Trump Hotel",
+          "url": "https://www.reuters.com/article/us-sprint-corp-m-a-trump-idUSKCN1QM1ZU",
+          "outlet": "Reuters",
+          "date": "2019-03-05"
+        },
+        {
+          "title": "How T-Mobile got its Trump Hotel stay",
+          "url": "https://www.cnn.com/2019/03/05/tech/t-mobile-trump-hotel/index.html",
+          "outlet": "CNN",
+          "date": "2019-03-05"
+        }
+      ]
+    },
+    {
       "id": "2018-04-01--operation-guardian-support",
       "date": "2018-04-01",
       "importance": 6,
@@ -5432,6 +6415,48 @@
       "notes": "Timeline shows tariffs held off until Trump's personal business interests were secured, then reinstated"
     },
     {
+      "id": "2018-05-13--trump-reverses-zte-sanctions-after-500m-china-loan",
+      "date": "2018-05-13",
+      "importance": 8,
+      "title": "Trump Reverses ZTE Sanctions After $500M China Loan to Trump Project",
+      "summary": "President Trump abruptly reversed U.S. sanctions on Chinese telecom giant ZTE just days after China agreed to provide $500 million in loans to an Indonesian theme park featuring Trump properties. ZTE had been banned from buying U.S. components after violating sanctions on Iran and North Korea. Trump tweeted 'Too many jobs in China lost' and ordered Commerce to help ZTE 'get back into business, fast!' This reversal shocked Congress and intelligence officials who considered ZTE a national security threat for potential espionage. The Indonesian project included Trump-branded hotels, residences, and a golf course. Ethics experts called it 'a violation of the Emoluments Clause' and 'bribery in broad daylight.' The reversal came during trade war negotiations, with China effectively paying the Trump Organization to change U.S. national security policy. ZTE paid a $1 billion fine but avoided the death penalty that would have destroyed the company.",
+      "actors": [
+        "Donald Trump",
+        "ZTE Corporation",
+        "China",
+        "Trump Organization",
+        "Indonesia"
+      ],
+      "tags": [
+        "corruption",
+        "china",
+        "national-security",
+        "emoluments-clause",
+        "bribery"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "China contributing $500 million to Trump-linked Indonesia project",
+          "url": "https://www.nationalreview.com/news/china-contributing-500-million-trump-linked-project-indonesia/",
+          "outlet": "National Review",
+          "date": "2018-05-14"
+        },
+        {
+          "title": "Trump helps ZTE as China provides financing for Indonesia project",
+          "url": "https://www.nytimes.com/2018/05/15/world/asia/trump-hotel-china-indonesia.html",
+          "outlet": "New York Times",
+          "date": "2018-05-15"
+        },
+        {
+          "title": "Trump says he's working with Xi to save ZTE",
+          "url": "https://www.cnn.com/2018/05/13/politics/trump-xi-jinping-zte/index.html",
+          "outlet": "CNN",
+          "date": "2018-05-13"
+        }
+      ]
+    },
+    {
       "id": "2018-05-28--ivanka-trump-china-trademarks",
       "date": "2018-05-28",
       "importance": 6,
@@ -5477,6 +6502,50 @@
             "16 provisional approvals in October 2018"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2018-06-01--trump-family-separation-policy-detains-5500-childr",
+      "date": "2018-06-01",
+      "importance": 9,
+      "title": "Trump Family Separation Policy Detains 5,500 Children in Cages",
+      "summary": "The Trump administration's 'zero tolerance' family separation policy forcibly removed over 5,500 children from their parents at the border, detaining them in cages at facilities described as 'concentration camps' by historians. Children as young as 4 months were taken, with no tracking system to reunite families. Audio recordings captured children crying for their parents while guards mocked them. At least 7 children died in custody. The policy's architect, Stephen Miller, called it a deterrent despite knowing it violated international law. Documents revealed the administration knew it would separate families but proceeded anyway. Private prison companies CoreCivic and GEO Group profited billions from expanded detention contracts. Federal judges ordered reunification but over 1,000 children still remained separated by 2021. The UN Human Rights Office called it 'government-sanctioned child abuse.' Physicians for Human Rights documented lasting psychological trauma equivalent to torture.",
+      "actors": [
+        "Donald Trump",
+        "Stephen Miller",
+        "Jeff Sessions",
+        "DHS",
+        "ICE",
+        "CoreCivic",
+        "GEO Group"
+      ],
+      "tags": [
+        "family-separation",
+        "human-rights",
+        "child-abuse",
+        "immigration",
+        "crimes-against-humanity"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Family Separation Under Trump Administration",
+          "url": "https://www.splcenter.org/news/2020/06/17/family-separation-under-trump-administration-timeline",
+          "outlet": "Southern Poverty Law Center",
+          "date": "2020-06-17"
+        },
+        {
+          "title": "Trump administration separated thousands more children",
+          "url": "https://www.nbcnews.com/politics/immigration/trump-admin-separated-thousands-more-migrant-kids-parents-previously-known-n1287352",
+          "outlet": "NBC News",
+          "date": "2021-10-30"
+        },
+        {
+          "title": "UN says Trump separation of migrant children is torture",
+          "url": "https://www.theguardian.com/us-news/2018/jun/22/un-trump-family-separation-torture",
+          "outlet": "The Guardian",
+          "date": "2018-06-22"
         }
       ]
     },
@@ -5665,6 +6734,49 @@
             "Follow\u2011up letter asserting QIA funds may have flowed through BPY"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2018-08-03--kushner-receives-28b-qatar-bailout-after-blockade",
+      "date": "2018-08-03",
+      "importance": 8,
+      "title": "Kushner Receives $1.28B Qatar Bailout After Blockade Reversal",
+      "summary": "Jared Kushner's underwater 666 Fifth Avenue property received a $1.28 billion bailout from Brookfield Property Partners, where Qatar Investment Authority held a 7-9% stake, just months after Trump reversed U.S. support for the Saudi-led Qatar blockade. The Kushners had desperately sought Qatari financing since 2015, with Charles Kushner personally flying to Doha in April 2017 seeking investment. After Qatar refused, Kushner supported the Saudi blockade in June 2017. When the blockade threatened U.S. military interests at Al Udeid Air Base, Trump reversed course. Brookfield then paid the Kushners' entire $1.28 billion mortgage in a 99-year lease deal that real estate experts called uncommercial. The timeline suggested U.S. Middle East policy was influenced by Kushner's personal financial crisis. Kushner simultaneously maintained backchannel communications with Saudi Crown Prince MBS via WhatsApp.",
+      "actors": [
+        "Jared Kushner",
+        "Qatar Investment Authority",
+        "Brookfield Property Partners",
+        "Charles Kushner",
+        "Donald Trump",
+        "Saudi Arabia"
+      ],
+      "tags": [
+        "foreign-influence",
+        "conflict-of-interest",
+        "corruption",
+        "middle-east-policy",
+        "financial-bailout"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Kushners Near Deal With Qatar-Linked Company for Troubled Tower",
+          "url": "https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html",
+          "outlet": "New York Times",
+          "date": "2018-05-17"
+        },
+        {
+          "title": "The Kushners' Troubled Tower",
+          "url": "https://www.newyorker.com/news/news-desk/jared-kushners-business-dealings-and-the-qatar-blockade",
+          "outlet": "The New Yorker",
+          "date": "2018-03-02"
+        },
+        {
+          "title": "Qatar-linked firm bails out Kushner property",
+          "url": "https://www.theguardian.com/us-news/2018/aug/03/qatar-linked-company-bails-out-jared-kushner-property",
+          "outlet": "The Guardian",
+          "date": "2018-08-03"
         }
       ]
     },
@@ -5990,6 +7102,49 @@
       "notes": "Narya Capital, named after Tolkien mythology like many Thiel ventures, serves dual purpose: enriching Vance through management fees and carried interest while building political brand as champion of \"forgotten\" Midwest. Other investors include Marc Andreessen and Eric Schmidt, showing how tech elite coordinate political investments. Fund's Midwest focus provides populist cover for elite financial operation preparing Vance's political launch."
     },
     {
+      "id": "2019-02-05--trump-overrides-25-security-clearance-denials-for-f",
+      "date": "2019-02-05",
+      "importance": 8,
+      "title": "Trump Overrides 25+ Security Clearance Denials for Family and Allies",
+      "summary": "President Trump overrode security clearance denials for at least 25 individuals including Jared Kushner and Ivanka Trump, despite FBI and CIA objections citing foreign influence, conflicts of interest, personal conduct, financial problems, and drug use. Kushner's clearance was denied due to foreign contacts and business conflicts, with career officials warning he could be manipulated by foreign powers. Trump ordered Chief of Staff John Kelly to grant the clearance anyway. Whistleblower Tricia Newbold testified that the White House retaliated against her for raising concerns, suspending her and placing files out of her reach as a person with dwarfism. The 25 overrides included two current senior White House officials whose clearances were denied for 'very serious' disqualifying factors. Carl Kline, who approved the overrides, defied congressional subpoenas. This unprecedented bypass of security protocols exposed national secrets to compromise, with Kushner later receiving $2 billion from Saudi Arabia after leaving office.",
+      "actors": [
+        "Donald Trump",
+        "Jared Kushner",
+        "Ivanka Trump",
+        "John Kelly",
+        "Carl Kline",
+        "Tricia Newbold"
+      ],
+      "tags": [
+        "security-clearances",
+        "national-security",
+        "nepotism",
+        "foreign-influence",
+        "whistleblower-retaliation"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump overruled security officials on Kushner clearance",
+          "url": "https://www.nytimes.com/2019/02/28/us/politics/jared-kushner-security-clearance.html",
+          "outlet": "New York Times",
+          "date": "2019-02-28"
+        },
+        {
+          "title": "Whistleblower says 25 security clearance denials were overturned",
+          "url": "https://www.nbcnews.com/politics/white-house/whistleblower-says-trump-administration-overturned-25-security-clearance-denials-n990186",
+          "outlet": "NBC News",
+          "date": "2019-04-01"
+        },
+        {
+          "title": "White House security clearance crisis",
+          "url": "https://www.washingtonpost.com/politics/2019/04/03/white-houses-security-clearance-troubles/",
+          "outlet": "Washington Post",
+          "date": "2019-04-03"
+        }
+      ]
+    },
+    {
       "id": "2019-03-05--t-mobile-spending-trump-hotel-merger-review",
       "date": "2019-03-05",
       "importance": 8,
@@ -6037,6 +7192,49 @@
             "Company letter detailing expenditures and services purchased"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2019-04-09--trump-claims-absolute-immunity-from-congressional-o",
+      "date": "2019-04-09",
+      "importance": 8,
+      "title": "Trump Claims Absolute Immunity from Congressional Oversight",
+      "summary": "The Trump administration claimed 'absolute immunity' to block all congressional oversight, with White House Counsel Pat Cipollone declaring Congress had no 'legitimate legislative purpose' for investigations. Don McGahn defied House subpoenas despite federal judges ruling presidents 'are not kings.' John Bolton, Mike Pompeo, Mick Mulvaney, and dozens of officials refused to testify about Ukraine, Russia, and other scandals. The administration blocked all document requests, instructing the entire executive branch not to cooperate with impeachment proceedings. Trump sued his own accounting firm and banks to prevent them from complying with congressional subpoenas. Federal courts repeatedly ruled against these claims, with Judge Ketanji Brown Jackson writing that 'absolute immunity from compelled congressional testimony simply does not exist.' This unprecedented stonewalling prevented Congress from fulfilling its constitutional oversight role, establishing a dangerous precedent that the executive branch could simply ignore legislative branch authority.",
+      "actors": [
+        "Donald Trump",
+        "Pat Cipollone",
+        "Don McGahn",
+        "John Bolton",
+        "Mike Pompeo",
+        "Congress"
+      ],
+      "tags": [
+        "obstruction",
+        "absolute-immunity",
+        "congressional-oversight",
+        "constitutional-crisis",
+        "executive-power"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump administration claims absolute immunity in McGahn case",
+          "url": "https://www.washingtonpost.com/local/legal-issues/judge-rejects-trumps-absolute-immunity-claim/2019/11/25/",
+          "outlet": "Washington Post",
+          "date": "2019-11-25"
+        },
+        {
+          "title": "White House declares war on impeachment inquiry",
+          "url": "https://www.nytimes.com/2019/10/08/us/politics/white-house-letter-impeachment.html",
+          "outlet": "New York Times",
+          "date": "2019-10-08"
+        },
+        {
+          "title": "Presidents Are Not Kings - Judge Rejects Trump Immunity Claim",
+          "url": "https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house",
+          "outlet": "NPR",
+          "date": "2019-11-25"
         }
       ]
     },
@@ -6138,6 +7336,49 @@
         }
       ],
       "notes": "The Moscow Project documented 272 total contacts including 38 meetings. The report detailed\nRussian efforts through the Internet Research Agency's social media campaign and GRU hacking\nof Democratic emails. Multiple Trump associates made false statements about these contacts\nand obstructed investigations."
+    },
+    {
+      "id": "2019-05-01--fisher-sand-gravel-wins-2b-border-wall-contracts",
+      "date": "2019-05-01",
+      "importance": 7,
+      "title": "Fisher Sand & Gravel Wins $2B Border Wall Contracts After Fox News Lobbying",
+      "summary": "Fisher Sand & Gravel received over $2 billion in border wall contracts after CEO Tommy Fisher appeared on Fox News over 20 times lobbying Trump directly, despite the company's history of tax fraud and environmental violations. Senator Kevin Cramer personally lobbied Trump for Fisher at a White House meeting. The Pentagon Inspector General investigated potential improper White House influence after Trump repeatedly mentioned Fisher by name, ordering the Army Corps to award them contracts. Fisher's first $400 million contract came despite finishing last in the competitive bidding process. The company paid $40 million in tax fraud penalties in 2009 and faced multiple environmental violations. A section of Fisher's wall in Texas began showing signs of erosion within months. The contracts demonstrated how Fox News appearances and political connections trumped qualifications in government contracting. Fisher also built a private border wall that violated international treaties.",
+      "actors": [
+        "Fisher Sand & Gravel",
+        "Tommy Fisher",
+        "Donald Trump",
+        "Kevin Cramer",
+        "Fox News",
+        "Army Corps of Engineers"
+      ],
+      "tags": [
+        "border-wall",
+        "no-bid-contracts",
+        "fox-news",
+        "corruption",
+        "cronyism"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump pushed Army Corps to award border wall contract to firm",
+          "url": "https://www.washingtonpost.com/immigration/trump-border-wall-fisher-sand-gravel/2019/12/02/",
+          "outlet": "Washington Post",
+          "date": "2019-12-02"
+        },
+        {
+          "title": "Fisher Industries wins $2 billion in border wall contracts",
+          "url": "https://www.propublica.org/article/fisher-sand-and-gravel-border-wall-contract",
+          "outlet": "ProPublica",
+          "date": "2020-05-06"
+        },
+        {
+          "title": "Border wall built by Trump ally Fisher showing erosion",
+          "url": "https://www.texastribune.org/2020/07/02/texas-border-wall-private/",
+          "outlet": "Texas Tribune",
+          "date": "2020-07-02"
+        }
+      ]
     },
     {
       "id": "2019-05-01--phantom-fireworks-tariff-delay",
@@ -6769,6 +8010,49 @@
       ]
     },
     {
+      "id": "2019-09-24--trump-freezes-ukraine-military-aid-demanding-biden",
+      "date": "2019-09-24",
+      "importance": 9,
+      "title": "Trump Freezes Ukraine Military Aid Demanding Biden Investigation",
+      "summary": "President Trump froze $391 million in congressionally approved military aid to Ukraine while pressuring President Zelensky to investigate Joe Biden and his son Hunter. In a July 25 phone call, Trump told Zelensky 'I would like you to do us a favor though' immediately after Zelensky mentioned needing Javelin missiles to defend against Russia. Trump asked Zelensky to work with Rudy Giuliani and Attorney General Barr to investigate Biden, saying 'Biden went around bragging that he stopped the prosecution.' The aid freeze endangered Ukraine's defense against Russian aggression. A whistleblower complaint revealed the scheme, leading to Trump's first impeachment. The House voted 230-197 to impeach for abuse of power and obstruction of Congress, though the Republican Senate acquitted 52-48. This marked the first time a president used military aid as leverage for personal political gain against a domestic rival.",
+      "actors": [
+        "Donald Trump",
+        "Volodymyr Zelensky",
+        "Rudy Giuliani",
+        "Ukraine",
+        "Joe Biden",
+        "William Barr"
+      ],
+      "tags": [
+        "ukraine",
+        "impeachment",
+        "quid-pro-quo",
+        "abuse-of-power",
+        "election-interference"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Read Trump's phone conversation with Volodymyr Zelensky",
+          "url": "https://www.cnn.com/2019/09/25/politics/donald-trump-ukraine-transcript-call/index.html",
+          "outlet": "CNN",
+          "date": "2019-09-25"
+        },
+        {
+          "title": "Trump impeached by House for abuse of power",
+          "url": "https://www.nytimes.com/2019/12/18/us/politics/trump-impeached.html",
+          "outlet": "New York Times",
+          "date": "2019-12-18"
+        },
+        {
+          "title": "Whistleblower complaint about Trump and Ukraine",
+          "url": "https://www.washingtonpost.com/context/read-the-whistleblower-complaint-regarding-president-trump-s-communications-with-ukrainian-president-volodymyr-zelensky/",
+          "outlet": "Washington Post",
+          "date": "2019-09-26"
+        }
+      ]
+    },
+    {
       "id": "2020-01-01--carbyne-homeland-security-contracts",
       "date": "2020-01-01",
       "title": "Epstein-funded Carbyne receives $1.5M in U.S. Homeland Security contracts",
@@ -6803,6 +8087,90 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2020-02-11--bill-barr-intervenes-to-reduce-sentences-for-trump",
+      "date": "2020-02-11",
+      "importance": 8,
+      "title": "Bill Barr Intervenes to Reduce Sentences for Trump Allies Stone and Flynn",
+      "summary": "Attorney General Bill Barr personally intervened to reduce sentencing recommendations for Trump allies Roger Stone and Michael Flynn, causing four career prosecutors to withdraw from Stone's case in protest and one to resign from DOJ entirely. After prosecutors recommended 7-9 years for Stone's witness tampering and lying to Congress, Barr overruled them following a Trump tweet calling the sentence 'horrible and unfair.' Barr then moved to dismiss charges against Flynn despite his guilty plea for lying to the FBI. Over 2,000 former DOJ officials signed a letter calling for Barr's resignation, stating he 'assaulted the rule of law.' Federal Judge Emmet Sullivan accused Barr of a 'gross abuse of prosecutorial power.' This politicization of justice marked an unprecedented use of DOJ to protect presidential allies from criminal consequences.",
+      "actors": [
+        "Bill Barr",
+        "Roger Stone",
+        "Michael Flynn",
+        "Donald Trump",
+        "Department of Justice"
+      ],
+      "tags": [
+        "obstruction-of-justice",
+        "abuse-of-power",
+        "rule-of-law",
+        "corruption",
+        "politicization"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "All 4 federal prosecutors quit Stone case after DOJ overrules sentencing",
+          "url": "https://www.cnn.com/2020/02/11/politics/roger-stone-sentencing-recommendation/index.html",
+          "outlet": "CNN",
+          "date": "2020-02-11"
+        },
+        {
+          "title": "More than 2,000 ex-DOJ officials call for Barr's resignation",
+          "url": "https://www.nbcnews.com/politics/justice-department/more-1-100-former-justice-department-officials-call-barr-resign-n1137481",
+          "outlet": "NBC News",
+          "date": "2020-02-16"
+        },
+        {
+          "title": "Judge calls Barr move to drop Flynn case 'gross abuse of power'",
+          "url": "https://www.politico.com/news/2020/12/08/judge-emmet-sullivan-michael-flynn-443652",
+          "outlet": "Politico",
+          "date": "2020-12-08"
+        }
+      ]
+    },
+    {
+      "id": "2020-04-01--trump-awards-812m-no-bid-covid-contract-to-newly-f",
+      "date": "2020-04-01",
+      "importance": 7,
+      "title": "Trump Awards $812M No-Bid COVID Contract to Newly Formed Phlow Corporation",
+      "summary": "Phlow Corporation, incorporated just months before, received an $812 million pharmaceutical manufacturing contract without competitive bidding during the COVID-19 pandemic. Trump adviser Peter Navarro told officials 'my head is going to explode if this contract does not get immediately approved.' The company had no prior pharmaceutical manufacturing experience. Separately, Kodak, a photography company emerging from bankruptcy, received a $765 million government loan to manufacture pharmaceuticals despite lacking relevant experience. Kodak executives made millions from suspicious stock trades before the announcement, with the stock price surging 2,190% in two days before the SEC investigation halted the deal.",
+      "actors": [
+        "Phlow Corporation",
+        "Peter Navarro",
+        "Kodak",
+        "Donald Trump",
+        "HHS"
+      ],
+      "tags": [
+        "covid-19",
+        "no-bid-contracts",
+        "corruption",
+        "crisis-profiteering",
+        "government-contracts"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump administration gave firm $812 million for COVID work",
+          "url": "https://www.propublica.org/article/trump-administration-gave-firm-812-million-deal-to-make-covid-drugs",
+          "outlet": "ProPublica",
+          "date": "2020-05-26"
+        },
+        {
+          "title": "Kodak's Stock Surges After Securing $765 Million Government Loan",
+          "url": "https://www.npr.org/2020/07/29/896661289/kodaks-stock-surges-after-securing-765-million-government-loan",
+          "outlet": "NPR",
+          "date": "2020-07-29"
+        },
+        {
+          "title": "SEC investigating Kodak over government loan disclosure",
+          "url": "https://www.reuters.com/article/us-eastman-kodak-loan-sec-idUSKCN2501UW",
+          "outlet": "Reuters",
+          "date": "2020-08-04"
+        }
+      ]
     },
     {
       "id": "2020-04-01--mvm-hotel-detention-network",
@@ -6857,6 +8225,49 @@
       ],
       "notes": "MVM created a parallel detention system outside standard oversight, using commercial hotels as de facto jails for unaccompanied minors. In 2018, MVM used a Phoenix office building for three weeks despite lacking proper zoning or childcare licenses. Attorneys later filed suit against MVM for enforced disappearance, torture, and child abduction related to family separations. The use of hotels allowed ICE to bypass standard detention protocols and congressional oversight mechanisms.",
       "status": "confirmed"
+    },
+    {
+      "id": "2020-05-15--trump-fires-5-inspectors-general-in-6-weeks-to-blo",
+      "date": "2020-05-15",
+      "importance": 8,
+      "title": "Trump Fires 5 Inspectors General in 6 Weeks to Block Investigations",
+      "summary": "President Trump fired five inspectors general in six weeks during spring 2020, each investigating potential administration wrongdoing. The purge included State Department IG Steve Linick (investigating Pompeo's use of staff for personal errands and Saudi arms sales), Intelligence Community IG Michael Atkinson (who forwarded the Ukraine whistleblower complaint), Defense IG Glenn Fine (set to oversee $2 trillion COVID relief), Transportation IG Mitch Behm, and HHS IG Christi Grimm (who reported hospital PPE shortages). The firings violated the law requiring 30-day Congressional notice with substantive rationale. Senator Romney called it 'a threat to accountable democracy,' while government watchdogs warned it created a chilling effect on oversight.",
+      "actors": [
+        "Donald Trump",
+        "Steve Linick",
+        "Michael Atkinson",
+        "Glenn Fine",
+        "Mitch Behm",
+        "Christi Grimm"
+      ],
+      "tags": [
+        "inspectors-general",
+        "obstruction-of-justice",
+        "oversight",
+        "accountability",
+        "authoritarian-tactics"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump removes inspector general who was to oversee $2 trillion stimulus spending",
+          "url": "https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html",
+          "outlet": "Washington Post",
+          "date": "2020-04-07"
+        },
+        {
+          "title": "Trump Has Fired 5 Inspectors General. Here Are the Reasons He Gave",
+          "url": "https://www.npr.org/2020/05/16/857090494/trump-has-fired-5-inspectors-general-here-are-the-reasons-he-gave",
+          "outlet": "NPR",
+          "date": "2020-05-16"
+        },
+        {
+          "title": "Firing of inspectors general",
+          "url": "https://en.wikipedia.org/wiki/2020_dismissal_of_inspectors_general",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        }
+      ]
     },
     {
       "id": "2020-05-19--joe-rogan-spotify-exclusive-deal",
@@ -7075,6 +8486,48 @@
       "status": "confirmed"
     },
     {
+      "id": "2020-07-10--trump-commutes-roger-stone-sentence-days-before-pri",
+      "date": "2020-07-10",
+      "importance": 8,
+      "title": "Trump Commutes Roger Stone Sentence Days Before Prison",
+      "summary": "President Trump commuted Roger Stone's 40-month prison sentence days before he was to report to prison for lying to Congress and witness tampering to protect Trump. Stone was convicted on seven felonies for obstructing the House Intelligence Committee's Russia investigation, lying about his contacts with WikiLeaks, and threatening witness Randy Credico with messages like 'prepare to die.' The commutation came after Stone publicly threatened to reveal damaging information about Trump, telling Howard Stern 'Trump knows I was under enormous pressure to turn on him. It would have eased my situation considerably. But I didn't.' Attorney General Barr called the commutation inappropriate. Republican Senator Mitt Romney said it was 'unprecedented, historic corruption.' The commutation rewarded Stone for protecting Trump from the Russia investigation, establishing that loyalty would be rewarded with immunity from criminal consequences. Trump later gave Stone a full pardon in December 2020.",
+      "actors": [
+        "Donald Trump",
+        "Roger Stone",
+        "William Barr",
+        "Randy Credico",
+        "WikiLeaks"
+      ],
+      "tags": [
+        "obstruction-of-justice",
+        "commutation",
+        "russia-investigation",
+        "witness-tampering",
+        "corruption"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump commutes Roger Stone's prison sentence",
+          "url": "https://www.cnn.com/2020/07/10/politics/trump-stone-prison-clemency/index.html",
+          "outlet": "CNN",
+          "date": "2020-07-10"
+        },
+        {
+          "title": "Romney calls Stone commutation 'unprecedented historic corruption'",
+          "url": "https://www.npr.org/2020/07/11/889862748/trump-commutes-sentence-of-adviser-roger-stone",
+          "outlet": "NPR",
+          "date": "2020-07-11"
+        },
+        {
+          "title": "Stone threatened to expose Trump before commutation",
+          "url": "https://www.axios.com/roger-stone-howard-stern-trump-commutation-8a2c45c8.html",
+          "outlet": "Axios",
+          "date": "2020-07-13"
+        }
+      ]
+    },
+    {
       "id": "2020-07-27--noem-intervenes-daughter-appraiser-license",
       "date": "2020-07-27",
       "title": "Noem intervenes in daughter's denied appraiser license application",
@@ -7109,6 +8562,47 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2020-08-01--dejoy-removes-711-mail-sorting-machines-during-mai",
+      "date": "2020-08-01",
+      "importance": 8,
+      "title": "DeJoy Removes 711 Mail Sorting Machines During Mail-In Voting Surge",
+      "summary": "Postmaster General Louis DeJoy, appointed despite lacking postal experience and having conflicts of interest with USPS competitors, removed 711 high-speed mail sorting machines capable of processing 21.4 million pieces per hour during the 2020 election mail voting surge. DeJoy also eliminated overtime, removed collection boxes, and implemented operational changes that caused widespread mail delays. Documents revealed the removals disproportionately affected Democratic-leaning areas. Federal judges found DeJoy's changes were 'an intentional effort on the part of the current Administration to disrupt and challenge the legitimacy of upcoming local, state, and federal elections.' Despite court orders, many machines were destroyed and could not be reinstalled.",
+      "actors": [
+        "Louis DeJoy",
+        "USPS",
+        "Donald Trump",
+        "Federal Courts"
+      ],
+      "tags": [
+        "election-interference",
+        "voter-suppression",
+        "institutional-capture",
+        "mail-voting",
+        "democracy-erosion"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Judge blocks 'politically motivated' USPS changes that slowed mail",
+          "url": "https://www.washingtonpost.com/business/2020/09/17/usps-dejoy-court-order/",
+          "outlet": "Washington Post",
+          "date": "2020-09-17"
+        },
+        {
+          "title": "New documents show DeJoy's USPS removed 711 mail sorting machines",
+          "url": "https://www.cnn.com/2020/09/09/politics/usps-removed-711-sorting-machines/index.html",
+          "outlet": "CNN",
+          "date": "2020-09-09"
+        },
+        {
+          "title": "Louis DeJoy",
+          "url": "https://en.wikipedia.org/wiki/Louis_DeJoy",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        }
+      ]
     },
     {
       "id": "2020-08-21--usps-oig-service-declines-and-independent-metrics",
@@ -7410,6 +8904,93 @@
       "status": "confirmed"
     },
     {
+      "id": "2020-12-14--trump-campaign-organizes-fake-electors-in-seven-st",
+      "date": "2020-12-14",
+      "importance": 9,
+      "title": "Trump Campaign Organizes Fake Electors in Seven States",
+      "summary": "The Trump campaign organized groups of fake electors to meet and cast fraudulent electoral votes in seven states Biden won - Arizona, Georgia, Michigan, Nevada, New Mexico, Pennsylvania, and Wisconsin. These 84 fake electors signed false certificates claiming to be the 'duly elected' electors and sent them to Congress and the National Archives. RNC officials assisted at Trump's direct request, with emails showing campaign lawyers coordinating the scheme. Multiple participants have been criminally charged, with Michigan charging 16 fake electors with forgery and conspiracy. Kenneth Chesebro and Sidney Powell pleaded guilty to conspiracy charges in Georgia. The fake certificates were intended for use on January 6 when Vice President Pence would count electoral votes. The scheme represented an unprecedented attempt to subvert the Electoral College system.",
+      "actors": [
+        "Donald Trump",
+        "Trump Campaign",
+        "RNC",
+        "Kenneth Chesebro",
+        "Sidney Powell",
+        "Rudy Giuliani"
+      ],
+      "tags": [
+        "election-fraud",
+        "fake-electors",
+        "coup-attempt",
+        "criminal-conspiracy",
+        "democracy-attack"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump fake electors plot",
+          "url": "https://en.wikipedia.org/wiki/Trump_fake_electors_plot",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        },
+        {
+          "title": "Exclusive: RNC email shows coordination of Trump fake electors plan",
+          "url": "https://www.cnn.com/2022/01/20/politics/rnc-fake-electors-trump-campaign/index.html",
+          "outlet": "CNN",
+          "date": "2022-01-20"
+        },
+        {
+          "title": "Michigan charges 16 fake Trump electors with felonies",
+          "url": "https://www.npr.org/2023/07/18/1188363691/michigan-charges-16-fake-trump-electors-with-felonies",
+          "outlet": "NPR",
+          "date": "2023-07-18"
+        }
+      ]
+    },
+    {
+      "id": "2020-12-23--trump-pardons-manafort-stone-flynn-kushner-in-cor",
+      "date": "2020-12-23",
+      "importance": 8,
+      "title": "Trump Pardons Manafort, Stone, Flynn, Kushner in Corruption Spree",
+      "summary": "President Trump issued pardons to campaign chairman Paul Manafort (convicted of financial fraud and conspiracy), adviser Roger Stone (witness tampering and lying to Congress), National Security Adviser Michael Flynn (lying to FBI about Russia contacts), and Charles Kushner (tax evasion and witness tampering against his own sister). Trump also pardoned Steve Bannon while under indictment for defrauding Trump's own supporters in the 'We Build the Wall' scheme that stole $25 million. Four Blackwater contractors convicted of killing 14 Iraqi civilians, including two children, received pardons benefiting Erik Prince, brother of Education Secretary Betsy DeVos. Republican Senator Ben Sasse called them 'rotten to the core.' The pardons effectively granted immunity to those who protected Trump from investigation, establishing that loyalty would be rewarded regardless of crimes committed.",
+      "actors": [
+        "Donald Trump",
+        "Paul Manafort",
+        "Roger Stone",
+        "Michael Flynn",
+        "Steve Bannon",
+        "Charles Kushner",
+        "Erik Prince"
+      ],
+      "tags": [
+        "pardons",
+        "obstruction-of-justice",
+        "corruption",
+        "abuse-of-power",
+        "rule-of-law"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump pardons Manafort, Stone and Charles Kushner",
+          "url": "https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html",
+          "outlet": "CNN",
+          "date": "2020-12-23"
+        },
+        {
+          "title": "Trump pardons Blackwater contractors convicted of massacre",
+          "url": "https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians",
+          "outlet": "The Guardian",
+          "date": "2020-12-23"
+        },
+        {
+          "title": "Steve Bannon charged with fraud over border wall fundraising",
+          "url": "https://www.bbc.com/news/world-us-canada-53853297",
+          "outlet": "BBC",
+          "date": "2020-08-20"
+        }
+      ]
+    },
+    {
       "id": "2020-12-27--trump-tells-doj-say-election-corrupt",
       "date": "2020-12-27",
       "title": "Trump tells acting AG \"just say the election was corrupt and leave the rest to me\"",
@@ -7445,6 +9026,90 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2021-01-02--trump-calls-georgia-secretary-of-state-to-find-117",
+      "date": "2021-01-02",
+      "importance": 9,
+      "title": "Trump Calls Georgia Secretary of State to Find 11,780 Votes",
+      "summary": "President Trump called Georgia Secretary of State Brad Raffensperger on January 2, 2021, demanding he 'find 11,780 votes' to overturn Biden's victory in Georgia. In the recorded hour-long call, Trump threatened Raffensperger with criminal prosecution, saying 'you know what they did and you're not reporting it. That's a criminal offense.' Trump made numerous false claims about dead voters, ballot destruction, and Dominion voting machines while pressuring Raffensperger to 'recalculate' the results. Chief of Staff Mark Meadows and lawyer Cleta Mitchell participated in the call. Raffensperger refused, stating 'the data you have is wrong.' This call became central evidence in Trump's Georgia indictment for criminal conspiracy to overturn the election, with prosecutors calling it the 'smoking gun' of election interference.",
+      "actors": [
+        "Donald Trump",
+        "Brad Raffensperger",
+        "Mark Meadows",
+        "Cleta Mitchell",
+        "Georgia"
+      ],
+      "tags": [
+        "election-interference",
+        "coup-attempt",
+        "abuse-of-power",
+        "democracy-attack",
+        "criminal-conspiracy"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Here's the full transcript and audio of the call between Trump and Raffensperger",
+          "url": "https://www.washingtonpost.com/politics/trump-raffensperger-call-transcript-georgia-vote/2021/01/03/",
+          "outlet": "Washington Post",
+          "date": "2021-01-03"
+        },
+        {
+          "title": "Trump's Call to Georgia Election Officials",
+          "url": "https://www.nytimes.com/2021/01/03/us/politics/trump-raffensperger-georgia-call-transcript.html",
+          "outlet": "New York Times",
+          "date": "2021-01-03"
+        },
+        {
+          "title": "Georgia election racketeering prosecution",
+          "url": "https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_Georgia",
+          "outlet": "Wikipedia",
+          "date": "2024-01-01"
+        }
+      ]
+    },
+    {
+      "id": "2021-01-03--jeffrey-clark-attempts-doj-coup-to-overturn-electio",
+      "date": "2021-01-03",
+      "importance": 9,
+      "title": "Jeffrey Clark Attempts DOJ Coup to Overturn Election",
+      "summary": "Environmental lawyer Jeffrey Clark attempted to use the Department of Justice to overturn the 2020 election by sending false fraud letters to swing states. Clark drafted a letter falsely claiming DOJ had identified 'significant concerns' about the election and urging Georgia to convene a special legislative session to appoint Trump electors. When Acting Attorney General Jeffrey Rosen and Deputy Richard Donoghue refused, Trump nearly appointed Clark as Acting AG on January 3. In an extraordinary White House meeting, DOJ leadership and White House counsel threatened mass resignations if Clark was installed, with Donoghue telling Trump 'you're going to get a completely incompetent person running the department.' Trump backed down only when warned the entire DOJ leadership would resign. Clark was later charged in Georgia's RICO case, had his law license suspended, and faced disbarment proceedings. His actions represented the closest attempt to weaponize DOJ to steal an election.",
+      "actors": [
+        "Jeffrey Clark",
+        "Donald Trump",
+        "Jeffrey Rosen",
+        "Richard Donoghue",
+        "Department of Justice"
+      ],
+      "tags": [
+        "coup-attempt",
+        "election-fraud",
+        "doj-corruption",
+        "abuse-of-power",
+        "january-6"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Trump and Justice Dept. Lawyer Said to Have Plotted to Oust Acting AG",
+          "url": "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html",
+          "outlet": "New York Times",
+          "date": "2021-01-22"
+        },
+        {
+          "title": "Jeffrey Clark charged in Georgia election case",
+          "url": "https://www.cnn.com/2023/08/14/politics/jeffrey-clark-charged-georgia/index.html",
+          "outlet": "CNN",
+          "date": "2023-08-14"
+        },
+        {
+          "title": "Jan. 6 committee details Trump plan to install Jeffrey Clark",
+          "url": "https://www.washingtonpost.com/national-security/2022/06/23/jeffrey-clark-jan-6-committee/",
+          "outlet": "Washington Post",
+          "date": "2022-06-23"
+        }
+      ]
     },
     {
       "id": "2021-01-03--jeffrey-clark-doj-takeover-attempt",
@@ -7608,6 +9273,90 @@
         }
       ],
       "status": "confirmed"
+    },
+    {
+      "id": "2021-01-20--freedom-house-downgrades-us-democracy-score-to-831",
+      "date": "2021-01-20",
+      "importance": 8,
+      "title": "Freedom House Downgrades US Democracy Score to 83/100",
+      "summary": "Freedom House downgraded the United States democracy score from 94/100 to 83/100 between 2010-2021, the steepest decline among established democracies. The 11-point drop reflected systematic erosion of democratic norms including partisan gerrymandering, voter suppression laws in 33 states, unprecedented legislative interference in election administration, political violence becoming normalized, and the January 6 insurrection attempt. The US fell behind countries like Argentina, Mongolia, and Romania in democratic health. Freedom House specifically cited Trump's refusal to accept election results, attacks on the legitimacy of opposition, encouragement of violence, and the Republican Party's embrace of anti-democratic tactics. The report warned that American democracy had become a 'flawed democracy' at risk of further backsliding toward competitive authoritarianism.",
+      "actors": [
+        "Freedom House",
+        "United States",
+        "Donald Trump",
+        "Republican Party"
+      ],
+      "tags": [
+        "democracy-erosion",
+        "democratic-backsliding",
+        "institutional-decay",
+        "authoritarianism",
+        "global-rankings"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "US suffers sharpest decline in freedom in over a decade",
+          "url": "https://freedomhouse.org/article/us-democracy-declined-significantly-past-decade",
+          "outlet": "Freedom House",
+          "date": "2021-03-03"
+        },
+        {
+          "title": "New Report: US Democracy Has Declined Significantly",
+          "url": "https://www.theguardian.com/us-news/2021/mar/24/us-world-democracy-rankings-freedom-house-trump",
+          "outlet": "The Guardian",
+          "date": "2021-03-24"
+        },
+        {
+          "title": "Freedom in the World 2021",
+          "url": "https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege",
+          "outlet": "Freedom House",
+          "date": "2021-03-03"
+        }
+      ]
+    },
+    {
+      "id": "2021-01-20--trump-environmental-rollbacks-cause-80000-excess-de",
+      "date": "2021-01-20",
+      "importance": 8,
+      "title": "Trump Environmental Rollbacks Cause 80,000 Excess Deaths Per Decade",
+      "summary": "Harvard researchers calculated that Trump's environmental rollbacks would cause 80,000 excess deaths per decade from increased air pollution, with 18,000 deaths from repealing the Clean Power Plan alone. The administration reversed or weakened over 100 environmental regulations, including mercury emissions, coal ash disposal, methane leaks, and vehicle fuel efficiency standards. EPA enforcement dropped 72% with criminal prosecutions hitting a 30-year low. The rollbacks increased greenhouse gas emissions by 1.8 billion tons by 2035, equivalent to Russia's annual emissions. Children faced increased asthma and developmental disorders from mercury exposure. The administration suppressed EPA scientists' climate research and removed climate change from government websites. Interior Secretary Bernhardt carried a card listing his conflicts of interest because there were so many. Courts struck down 78% of Trump's deregulatory actions for violating legal procedures, but damage was already done. The human and environmental toll represented the most destructive assault on public health protections in American history.",
+      "actors": [
+        "Donald Trump",
+        "EPA",
+        "Scott Pruitt",
+        "Andrew Wheeler",
+        "David Bernhardt",
+        "Harvard Researchers"
+      ],
+      "tags": [
+        "environmental-destruction",
+        "public-health",
+        "climate-change",
+        "mass-death",
+        "regulatory-capture"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Environmental Rollbacks Under Trump Could Lead to 80,000 Extra Deaths",
+          "url": "https://www.ehn.org/trump-environmental-rollbacks-deaths-2646687565.html",
+          "outlet": "Environmental Health News",
+          "date": "2020-06-18"
+        },
+        {
+          "title": "The Trump Administration Rolled Back 100+ Environmental Rules",
+          "url": "https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks-list.html",
+          "outlet": "New York Times",
+          "date": "2021-01-20"
+        },
+        {
+          "title": "Harvard study on health impacts of rollbacks",
+          "url": "https://www.hsph.harvard.edu/c-change/news/economic-health-co-benefits/",
+          "outlet": "Harvard T.H. Chan School",
+          "date": "2020-05-01"
+        }
+      ]
     },
     {
       "date": "2021-01-20",
@@ -9512,6 +11261,49 @@
             "Non-referral; competing interpretations of earlier guidance vs. 2023 rules"
           ],
           "verified": true
+        }
+      ]
+    },
+    {
+      "id": "2023-05-04--proud-boys-oath-keepers-convicted-of-seditious-con",
+      "date": "2023-05-04",
+      "importance": 9,
+      "title": "Proud Boys, Oath Keepers Convicted of Seditious Conspiracy for January 6",
+      "summary": "Leaders of the Proud Boys and Oath Keepers were convicted of seditious conspiracy for coordinating the January 6, 2021 attack on the U.S. Capitol that killed 5 and injured 140 police officers. Proud Boys leader Enrique Tarrio received 22 years, the longest January 6 sentence, despite not being in D.C. that day. Oath Keepers founder Stewart Rhodes got 18 years after stockpiling weapons at a Virginia hotel for a 'quick reaction force.' Evidence showed both groups coordinated the assault to stop Congress from certifying Biden's victory. Over 1,100 people have been charged, with 600+ receiving prison sentences. The House January 6 Committee's 814-page report, based on 1,000+ witness interviews, recommended criminal charges against Trump for obstruction, conspiracy to defraud the United States, and inciting insurrection. These were the first seditious conspiracy convictions since 1995.",
+      "actors": [
+        "Proud Boys",
+        "Oath Keepers",
+        "Enrique Tarrio",
+        "Stewart Rhodes",
+        "Donald Trump",
+        "January 6 Committee"
+      ],
+      "tags": [
+        "january-6",
+        "seditious-conspiracy",
+        "insurrection",
+        "political-violence",
+        "democracy-attack"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "title": "Proud Boys leader Enrique Tarrio sentenced to 22 years",
+          "url": "https://www.cnn.com/2023/09/05/politics/enrique-tarrio-proud-boys-sentence/index.html",
+          "outlet": "CNN",
+          "date": "2023-09-05"
+        },
+        {
+          "title": "Oath Keepers founder Stewart Rhodes sentenced to 18 years",
+          "url": "https://www.npr.org/2023/05/25/1178046912/oath-keepers-founder-stewart-rhodes-sentenced-to-18-years-for-seditious-conspir",
+          "outlet": "NPR",
+          "date": "2023-05-25"
+        },
+        {
+          "title": "Final Report of the Select Committee to Investigate January 6th",
+          "url": "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf",
+          "outlet": "House January 6 Committee",
+          "date": "2022-12-22"
         }
       ]
     },
