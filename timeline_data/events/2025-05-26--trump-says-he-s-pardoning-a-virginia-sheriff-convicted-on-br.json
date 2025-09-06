@@ -1,0 +1,38 @@
+{
+  "id": "2025-05-26--trump-says-he-s-pardoning-a-virginia-sheriff-convicted-on-br",
+  "date": "2025-05-26",
+  "title": "Trump says he’s pardoning a Virginia sheriff convicted on bribery charges",
+  "summary": "Trump pardoned a former Virginia sheriff, Scott Jenkins, who was convicted of bribery for selling deputy badges for cash",
+  "description": "Trump pardoned a former Virginia sheriff, Scott Jenkins, who was convicted of bribery for selling deputy badges for cash",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "pardons"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump says he’s pardoning a Virginia sheriff convicted on bribery charges",
+      "url": "https://apnews.com/article/sheriff-bribery-conviction-trump-pardon-3a35152ebb86d4ab4a2d3d018c0bda8e",
+      "outlet": "Associated Press",
+      "date": "2025-05-26"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-26"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

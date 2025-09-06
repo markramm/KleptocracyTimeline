@@ -1,0 +1,45 @@
+{
+  "id": "2025-01-30--trump-crypto-dinner-offers-presidential-access-for-top-trump",
+  "date": "2025-01-30",
+  "title": "Trump Crypto Dinner Offers Presidential Access for Top $TRUMP Coin Buyers",
+  "summary": "Top 25 investors in $TRUMP memecoin attended private reception with President Trump, with top four receiving $100,000 crypto-themed Trump watches. Justin Sun, biggest holder of $TRUMP coins, disclosed attendance at the dinner. NBC reported insiders profited $900,000 in two days after dinner announcement as coin value jumped 50%.",
+  "description": "The crypto dinner represented unprecedented pay-to-play scheme where cryptocurrency purchases directly bought presidential access. Fight Fight Fight LLC promoted the dinner and White House VIP tour for top token holders. Senator Blumenthal opened investigation calling it \"unprecedented pay-to-play scheme to provide access to the Presidency to the highest bidder\" that allows foreign governments and individuals to directly enrich the President while hiding payoffs in blockchain pseudonymity.",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Justin Sun",
+    "Fight Fight Fight LLC",
+    "Richard Blumenthal"
+  ],
+  "tags": [
+    "crypto",
+    "trump-coin",
+    "pay-to-play",
+    "presidential-access",
+    "insider-trading"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Bloomberg: Trump Crypto Dinner Offers Presidential Access for",
+      "url": "https://bloomberg.com/source",
+      "outlet": "Bloomberg",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "CNN: Trump Crypto Dinner Offers Presidential Access for",
+      "url": "https://cnn.com/source",
+      "outlet": "CNN",
+      "date": "2025-01-30"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "monetizing-office",
+    "foreign-influence",
+    "crypto-corruption"
+  ],
+  "notes": "This event represents significant kleptocratic capture and institutional destruction."
+}

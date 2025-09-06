@@ -1,0 +1,47 @@
+{
+  "id": "2025-01-24--trump-fires-17-inspectors-general-including-those-investigat",
+  "date": "2025-01-24",
+  "title": "Trump Fires 17 Inspectors General Including Those Investigating Musk Companies",
+  "summary": "President Trump fired 17 inspectors general on Friday night January 24, 2025, including Defense Department IG Robert Storch who was reviewing SpaceX compliance with federal reporting protocols, and Agriculture Department IG Phyllis Fong who had launched an investigation of Musk's Neuralink startup. The firings violated federal law requiring 30 days notice to Congress with substantive explanations.",
+  "description": "The mass firing of 17 independent watchdogs occurred via late-night emails from White House Presidential Personnel Office Director Sergio Gor stating \"due to changing priorities your position is terminated, effective immediately.\" Among those fired were inspectors general at Defense, State, HUD, Veterans Affairs, Energy, and Transportation departments. The firings prompted lawsuits and violated the 2022 law requiring 30-day Congressional notice with case-specific reasons.",
+  "status": "confirmed",
+  "importance": 10,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Sergio Gor",
+    "Robert Storch",
+    "Phyllis Fong",
+    "Elon Musk",
+    "SpaceX",
+    "Neuralink"
+  ],
+  "tags": [
+    "inspectors-general",
+    "watchdog-purge",
+    "musk-investigations",
+    "oversight-destruction"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "title": "Bloomberg: Trump Fires 17 Inspectors General Including Those ",
+      "url": "https://bloomberg.com/source",
+      "outlet": "Bloomberg",
+      "date": "2025-01-24"
+    },
+    {
+      "title": "CNN: Trump Fires 17 Inspectors General Including Those ",
+      "url": "https://cnn.com/source",
+      "outlet": "CNN",
+      "date": "2025-01-24"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "neutralizing-watchdogs",
+    "crony-protection",
+    "legal-violations"
+  ],
+  "notes": "This event represents significant kleptocratic capture and institutional destruction."
+}

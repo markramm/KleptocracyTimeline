@@ -1,0 +1,39 @@
+{
+  "id": "2025-01-29--meta-agrees-to-pay-25-million-to-settle-trump-lawsuit-over-s",
+  "date": "2025-01-29",
+  "title": "Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts",
+  "summary": "Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection",
+  "description": "Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "media-control",
+    "government-contracts",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts",
+      "url": "https://www.nbcnews.com/tech/tech-news/meta-agrees-pay-25-million-settle-trump-lawsuit-rcna189918",
+      "outlet": "NBC News",
+      "date": "2025-01-29"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-01-29"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

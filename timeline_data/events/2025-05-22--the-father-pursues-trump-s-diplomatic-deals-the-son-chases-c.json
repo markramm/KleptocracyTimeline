@@ -1,0 +1,39 @@
+{
+  "id": "2025-05-22--the-father-pursues-trump-s-diplomatic-deals-the-son-chases-c",
+  "date": "2025-05-22",
+  "title": "The father pursues Trump’s diplomatic deals. The son chases crypto deals",
+  "summary": "As Steve Witkoff negotiates with foreign governments, his son Zach–co-founder of World Liberty Financial–pitches them his crypto firm’s USD1 stablecoin",
+  "description": "As Steve Witkoff negotiates with foreign governments, his son Zach–co-founder of World Liberty Financial–pitches them his crypto firm’s USD1 stablecoin",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "foreign-influence",
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "The father pursues Trump’s diplomatic deals. The son chases crypto deals",
+      "url": "https://www.wsj.com/finance/currencies/trump-steve-zach-witkoff-crypto-6d8a96be?mod=hp_lead_pos3",
+      "outlet": "Wall Street Journal",
+      "date": "2025-05-22"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-22"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

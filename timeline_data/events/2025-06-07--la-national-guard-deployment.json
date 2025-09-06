@@ -1,0 +1,80 @@
+{
+  "id": "2025-06-07--la-national-guard-deployment",
+  "title": "California National Guard Federalized and Deployed to Los Angeles",
+  "date": "2025-06-07",
+  "importance": 8,
+  "summary": "President federalized California's National Guard and deployed additional forces to Los Angeles over the Governor's objection; includes 700 Marines deploying to downtown Los Angeles",
+  "location": "Los Angeles, California",
+  "actors": [
+    "Donald Trump",
+    "California National Guard",
+    "US Marines (2/7)",
+    "Governor of California",
+    "Pentagon"
+  ],
+  "tags": [
+    "military-deployment",
+    "federalization",
+    "domestic-operations",
+    "state-federal-conflict",
+    "marines"
+  ],
+  "capture_lanes": [
+    "Executive Power & Emergency Authority"
+  ],
+  "citations": [
+    "USNI News — 700 Marines Deploying to Downtown Los Angeles (Jun 9, 2025): https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles",
+    "Military.com — The Marines Are in Los Angeles (Jun 13, 2025): https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html",
+    "Reuters — Trump says more National Guard troops would be deployed in California if needed (Jun 9, 2025): https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/"
+  ],
+  "notes": "Establishes platform conditions for Stage-5 coercion through domestic military deployment over state objection.",
+  "sources": [
+    {
+      "title": "700 Marines Deploying to Downtown Los Angeles",
+      "url": "https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles",
+      "outlet": "USNI News",
+      "date": "2025-06-09"
+    },
+    {
+      "title": "The Marines Are in Los Angeles",
+      "url": "https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html",
+      "outlet": "Military.com",
+      "date": "2025-06-13"
+    },
+    {
+      "title": "Trump says more National Guard troops would be deployed in California if needed",
+      "url": "https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/",
+      "outlet": "Reuters",
+      "date": "2025-06-09"
+    }
+  ],
+  "monitoring_status": "active",
+  "followup_schedule": "weekly",
+  "search_keywords": [
+    "Los Angeles deployment",
+    "California National Guard federalized",
+    "Marines Los Angeles downtown",
+    "Trump California military",
+    "domestic military operations"
+  ],
+  "related_events": [
+    "2025-06-09--marines-los-angeles",
+    "2025-06-12--la-deployment-unlawful-district-ruling",
+    "2025-06-13--ninth-circuit-stays-la-deployment-ruling"
+  ],
+  "trigger_events": [
+    "court ruling",
+    "troop level changes",
+    "congressional hearing",
+    "casualty reports",
+    "state government response"
+  ],
+  "fallout_indicators": [
+    "federal troops deployed",
+    "posse comitatus violation",
+    "state resistance",
+    "constitutional crisis",
+    "military domestic operations"
+  ],
+  "status": "confirmed"
+}

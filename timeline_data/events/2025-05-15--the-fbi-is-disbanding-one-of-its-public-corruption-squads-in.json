@@ -1,0 +1,37 @@
+{
+  "id": "2025-05-15--the-fbi-is-disbanding-one-of-its-public-corruption-squads-in",
+  "date": "2025-05-15",
+  "title": "The FBI is disbanding one of its public corruption squads in its Washington office, AP sources say",
+  "summary": "The FBI shut down a squad in its Washington office that is responsible for investigating corruption allegations against federal officials",
+  "description": "The FBI shut down a squad in its Washington office that is responsible for investigating corruption allegations against federal officials",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "The FBI is disbanding one of its public corruption squads in its Washington office, AP sources say",
+      "url": "https://apnews.com/article/fbi-public-corruption-squad-trump-0478a9f5884b443e1f0403a1f6dad49e",
+      "outlet": "Associated Press",
+      "date": "2025-05-15"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-15"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

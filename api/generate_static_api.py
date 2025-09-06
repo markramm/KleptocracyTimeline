@@ -5,7 +5,6 @@ These files replace the need for API endpoints.
 """
 
 import json
-import yaml
 from pathlib import Path
 from collections import defaultdict
 import datetime
@@ -23,24 +22,19 @@ class DateTimeEncoder(json.JSONEncoder):
         return super().default(obj)
 
 def load_timeline_events():
-    """Load all timeline events from YAML files"""
+    """Load all timeline events from JSON files"""
     events = []
     
     if TIMELINE_DIR.exists():
-        for yaml_file in TIMELINE_DIR.glob("*.yaml"):
+        for json_file in TIMELINE_DIR.glob("*.json"):
             try:
-                with open(yaml_file, 'r', encoding='utf-8') as f:
-                    event = yaml.safe_load(f)
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    event = json.load(f)
                     if event and event.get('id'):
-                        # Convert dates to strings for JSON serialization
-                        if 'date' in event:
-                            if hasattr(event['date'], 'isoformat'):
-                                event['date'] = event['date'].isoformat()
-                            else:
-                                event['date'] = str(event['date'])
+                        # Dates should already be strings in JSON
                         events.append(event)
             except Exception as e:
-                print(f"Error loading {yaml_file}: {e}")
+                print(f"Error loading {json_file}: {e}")
     
     # Sort by date
     events.sort(key=lambda x: x.get('date', '9999-12-31'))

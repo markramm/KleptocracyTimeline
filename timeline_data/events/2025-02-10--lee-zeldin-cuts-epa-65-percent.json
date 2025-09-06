@@ -1,0 +1,51 @@
+{
+  "id": "2025-02-10--lee-zeldin-cuts-epa-65-percent",
+  "date": "2025-02-10",
+  "title": "EPA Administrator Zeldin Plans 65% Workforce Cut While Terminating $20 Billion Climate Grants",
+  "summary": "EPA Administrator Lee Zeldin, who received $186,000 for undisclosed paid op-eds including defending Brazilian beef producer JBS, announces plans to...",
+  "description": "EPA Administrator Lee Zeldin, who received $186,000 for undisclosed paid op-eds including defending Brazilian beef producer JBS, announces plans to cut EPA workforce by 65% and eliminate scientific research arm. Terminated $20 billion in climate grants which courts found lacked sufficient evidence of fraud. Previously defended companies with major environmental violations.",
+  "importance": 8,
+  "tags": [
+    "lee-zeldin",
+    "epa",
+    "environmental-destruction",
+    "workforce-cuts",
+    "climate-denial",
+    "regulatory-capture",
+    "jbs",
+    "paid-advocacy"
+  ],
+  "actors": [
+    "lee-zeldin",
+    "EPA",
+    "jbs",
+    "Environmental Protection Agency"
+  ],
+  "capture_lane": "environmental",
+  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "Inside Climate News",
+      "date": "2025-02-10",
+      "url": "https://insideclimatenews.org/news/10022025/zeldin-epa-cuts-climate-grants/",
+      "title": "Zeldin announces 65% EPA workforce reduction, terminates climate funding"
+    },
+    {
+      "outlet": "The Guardian",
+      "date": "2025-02-11",
+      "url": "https://www.theguardian.com/environment/2025/feb/11/epa-zeldin-workforce-science-cuts",
+      "title": "EPA chief plans to eliminate scientific research division"
+    }
+  ],
+  "connections": [
+    "2025-07-29--epa-endangerment-finding-rescission",
+    "2025-08-08--epa-terminates-union-contracts",
+    "2025-01-20--climate-emergency-revoked"
+  ],
+  "patterns": [
+    "environmental-destruction",
+    "regulatory-dismantling",
+    "climate-denial"
+  ],
+  "notes": "Zeldin's plan to cut EPA by 65% while eliminating scientific research represents most aggressive environmental deregulation in agency history. His $186,000 in undisclosed paid op-eds defending polluters like JBS (major deforestation contributor) shows pattern of corporate advocacy. Terminating $20 billion in climate grants without evidence of fraud demonstrates arbitrary use of power. Eliminating scientific research arm ensures future policy decisions lack empirical basis, enabling unlimited pollution."
+}

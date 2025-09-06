@@ -1,0 +1,38 @@
+{
+  "id": "2025-03-03--consumer-watchdog-payouts-in-limbo-as-agency-is-defanged-by-",
+  "date": "2025-03-03",
+  "title": "Consumer watchdog payouts in limbo as agency is defanged by Trump administration",
+  "summary": "Trump froze the CFPB, blocking millions of dollars in payouts",
+  "description": "Trump froze the CFPB, blocking millions of dollars in payouts",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Consumer watchdog payouts in limbo as agency is defanged by Trump administration",
+      "url": "https://www.reuters.com/world/us/consumer-watchdog-payouts-limbo-agency-defanged-by-trump-administration-2025-03-03/",
+      "outlet": "REUTERS",
+      "date": "2025-03-03"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-03"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

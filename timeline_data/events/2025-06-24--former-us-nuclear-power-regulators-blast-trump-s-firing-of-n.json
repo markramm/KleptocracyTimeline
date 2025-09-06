@@ -1,0 +1,37 @@
+{
+  "id": "2025-06-24--former-us-nuclear-power-regulators-blast-trump-s-firing-of-n",
+  "date": "2025-06-24",
+  "title": "Former US nuclear power regulators blast Trump's firing of NRC commissioner",
+  "summary": "Trump fired Nuclear Regulatory Commission member Chris Hanson to help fast track reactor approvals amid rising energy demands from AI and data centers–a move that benefits the president’s tech industry while compromising public safety",
+  "description": "Trump fired Nuclear Regulatory Commission member Chris Hanson to help fast track reactor approvals amid rising energy demands from AI and data centers–a move that benefits the president’s tech industry while compromising public safety",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "title": "Former US nuclear power regulators blast Trump's firing of NRC commissioner",
+      "url": "https://www.reuters.com/business/energy/former-us-nuclear-power-regulators-blast-trumps-firing-nrc-commissioner-2025-06-24/",
+      "outlet": "REUTERS",
+      "date": "2025-06-24"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-24"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

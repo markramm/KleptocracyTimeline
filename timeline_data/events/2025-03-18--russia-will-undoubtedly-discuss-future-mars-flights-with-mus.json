@@ -1,0 +1,37 @@
+{
+  "id": "2025-03-18--russia-will-undoubtedly-discuss-future-mars-flights-with-mus",
+  "date": "2025-03-18",
+  "title": "Russia will ‘undoubtedly’ discuss future Mars flights with Musk, Putin envoy says",
+  "summary": "Russia’s envoy for international cooperation, Kirill Dmitriev, again announced plans to discuss Mars exploration with Elon Musk",
+  "description": "Russia’s envoy for international cooperation, Kirill Dmitriev, again announced plans to discuss Mars exploration with Elon Musk",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "foreign-influence"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Russia will ‘undoubtedly’ discuss future Mars flights with Musk, Putin envoy says",
+      "url": "https://www.theguardian.com/world/2025/mar/18/russia-mars-elon-musk",
+      "outlet": "The Guardian",
+      "date": "2025-03-18"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-18"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

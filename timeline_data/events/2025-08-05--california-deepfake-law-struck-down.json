@@ -1,0 +1,51 @@
+{
+  "id": "2025-08-05--california-deepfake-law-struck-down",
+  "title": "Federal Judge Strikes Down Key Parts of California's Deepfake Laws",
+  "date": "2025-08-05",
+  "importance": 6,
+  "summary": "Judge Menendez strikes down AB 2655 and AB 2839 deepfake laws on Section 230 and First Amendment grounds. X, Babylon Bee, Rumble challenged laws requiring platforms to block/label election deepfakes. Court ruled AB 2655 'flawed to its core' and AB 2839 a 'blunt tool' stifling free expression.",
+  "location": "California",
+  "actors": [
+    "Federal Judge",
+    "X (Twitter)",
+    "California"
+  ],
+  "tags": [
+    "deepfake-regulation",
+    "california-law",
+    "ai-misinformation",
+    "court-ruling",
+    "political-content"
+  ],
+  "citations": [
+    "Referenced in document: Federal judge strikes down key parts of California's deepfake laws (X/others backed challenge) (Aug 5, 2025)"
+  ],
+  "notes": "AB 2655 (Defending Democracy from Deepfake Deception Act) and AB 2839 (Elections Deceptive Media) signed Sept 2024 by Newsom. Challenged by Christopher Kohls ('Mr. Reagan'), X Corp, Babylon Bee, Rumble. Court found Section 230 preemption, First Amendment violations. Laws aimed to combat election deepfakes.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Federal judge strikes down California deepfake law",
+      "url": "https://www.dailyjournal.com/article/387007-federal-judge-strikes-down-california-deepfake-law",
+      "outlet": "Daily Journal",
+      "date": "2025-08-05"
+    },
+    {
+      "title": "Musk-Challenged California Anti-Deepfake Law Struck by Judge",
+      "url": "https://news.bloomberglaw.com/litigation/musk-challenged-california-anti-deepfake-law-struck-by-judge",
+      "outlet": "Bloomberg Law",
+      "date": "2025-08-05"
+    },
+    {
+      "title": "California Deep Fake Law Struck Down",
+      "url": "https://www.mediapost.com/publications/article/407997/california-deep-fake-law-struck-down.html",
+      "outlet": "MediaPost",
+      "date": "2025-08-07"
+    },
+    {
+      "title": "Federal Judge Strikes Down California Deepfake Law",
+      "url": "https://www.conference-board.org/research/CED-Newsletters-Alerts/federal-judge-strikes-down-california-deepfake-law",
+      "outlet": "Conference Board",
+      "date": "2025-08-05"
+    }
+  ]
+}

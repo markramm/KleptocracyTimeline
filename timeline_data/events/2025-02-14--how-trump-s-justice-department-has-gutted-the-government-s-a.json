@@ -1,0 +1,40 @@
+{
+  "id": "2025-02-14--how-trump-s-justice-department-has-gutted-the-government-s-a",
+  "date": "2025-02-14",
+  "title": "How Trump’s Justice Department has gutted the government’s ability to chase public corruption",
+  "summary": "Trump has dismantled federal efforts to fight public corruption, pausing investigations into corporate bribery and weakening the Foreign Agents Registration Act",
+  "description": "Trump has dismantled federal efforts to fight public corruption, pausing investigations into corporate bribery and weakening the Foreign Agents Registration Act",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "foreign-influence",
+    "regulatory-capture",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "How Trump’s Justice Department has gutted the government’s ability to chase public corruption",
+      "url": "https://www.cnn.com/2025/02/14/politics/corruption-justice-department-trump-new-york/index.html",
+      "outlet": "CNN",
+      "date": "2025-02-14"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-14"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

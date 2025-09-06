@@ -1,0 +1,37 @@
+{
+  "id": "2025-01-30--amazon-raises-its-ad-spending-on-elon-musk-s-x-in-major-reve",
+  "date": "2025-01-30",
+  "title": "Amazon raises its ad spending on Elon Musk’s X, in major reversal",
+  "summary": "Amazon reversed course and significantly increased its advertising spending on Elon Musk’s X after largely boycotting the platform over concerns about hate speech and content moderation",
+  "description": "Amazon reversed course and significantly increased its advertising spending on Elon Musk’s X after largely boycotting the platform over concerns about hate speech and content moderation",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Amazon raises its ad spending on Elon Musk’s X, in major reversal",
+      "url": "https://www.wsj.com/business/media/amazon-raises-its-ad-spending-on-elon-musks-x-in-major-reversal-8a27228b?mod=hp_lead_pos2",
+      "outlet": "Wall Street Journal",
+      "date": "2025-01-30"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-01-30"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

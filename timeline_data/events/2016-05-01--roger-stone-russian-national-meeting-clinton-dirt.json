@@ -1,0 +1,58 @@
+{
+  "id": "2016-05-01--roger-stone-russian-national-meeting-clinton-dirt",
+  "date": "2016-05-01",
+  "title": "Roger Stone Meets Russian National Offering Clinton Dirt for $2 Million",
+  "summary": "Roger Stone and Michael Caputo meet with Russian national \"Henry Greenberg\" (who claimed to be FBI informant) offering dirt on Hillary Clinton for ...",
+  "description": "Roger Stone and Michael Caputo meet with Russian national \"Henry Greenberg\" (who claimed to be FBI informant) offering dirt on Hillary Clinton for $2 million. Neither Stone nor Caputo initially disclosed this meeting to Congress. While Stone rejected this particular offer, the meeting shows how Russian intelligence probed multiple channels into Trump's orbit.",
+  "importance": 8,
+  "tags": [
+    "roger-stone",
+    "russia",
+    "election-interference",
+    "henry-greenberg",
+    "michael-caputo",
+    "clinton-dirt",
+    "russian-intelligence",
+    "fbi-informant",
+    "congressional-testimony"
+  ],
+  "actors": [
+    "roger-stone",
+    "michael-caputo",
+    "henry-greenberg",
+    "russian-intelligence"
+  ],
+  "capture_lane": "political",
+  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "Washington Post",
+      "date": "2018-06-17",
+      "url": "https://www.washingtonpost.com/politics/roger-stone-says-he-met-russian-national-who-wanted-trump-to-pay-2-million-for-hillary-clinton-dirt/2018/06/17/",
+      "title": "Roger Stone met Russian who wanted Trump to pay $2 million for Clinton dirt"
+    },
+    {
+      "outlet": "CNN",
+      "date": "2018-06-17",
+      "url": "https://www.cnn.com/2018/06/17/politics/roger-stone-michael-caputo-russian-national",
+      "title": "Stone and Caputo met with Russian national during campaign"
+    },
+    {
+      "outlet": "NBC News",
+      "date": "2018-06-18",
+      "url": "https://www.nbcnews.com/politics/donald-trump/roger-stone-michael-caputo-russian-henry-greenberg",
+      "title": "Roger Stone's meeting with Russian offering Clinton dirt"
+    }
+  ],
+  "connections": [
+    "2016-08-01--stone-guccifer-messages",
+    "2016-10-07--podesta-emails-released",
+    "2019-11-15--roger-stone-convicted"
+  ],
+  "patterns": [
+    "russian-influence",
+    "election-interference",
+    "foreign-coordination"
+  ],
+  "notes": "This meeting, occurring in May 2016 before most public awareness of Russian interference, demonstrates how Russian operatives systematically approached Trump associates with offers of compromising information on Clinton. \"Henry Greenberg\" (also known as Henry Oknyansky) claimed to be an FBI informant, adding layers of complexity to the interaction. Stone and Caputo's failure to initially disclose this meeting to congressional investigators suggests consciousness of its problematic nature. While Stone claims he rejected the offer due to the price, the meeting itself shows willingness to engage with foreign nationals offering stolen information."
+}

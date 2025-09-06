@@ -1,0 +1,37 @@
+{
+  "id": "2025-02-20--x-hinted-at-possible-deal-trouble-in-talks-with-ad-giant-to-",
+  "date": "2025-02-20",
+  "title": "X hinted at possible deal trouble in talks with ad giant to increase spending",
+  "summary": "A lawyer at Interpublic Group received a call from a representative at X in December delivering an ultimatum: boost client spending on Elon Musk’s social platform or face repercussions",
+  "description": "A lawyer at Interpublic Group received a call from a representative at X in December delivering an ultimatum: boost client spending on Elon Musk’s social platform or face repercussions",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "X hinted at possible deal trouble in talks with ad giant to increase spending",
+      "url": "https://www.wsj.com/business/media/x-hinted-at-possible-deal-trouble-in-talks-with-ad-giant-to-increase-spending-feb122a6",
+      "outlet": "Wall Street Journal",
+      "date": "2025-02-20"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-20"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2025-04-14--trump-administration-retreats-from-white-collar-criminal-enf",
+  "date": "2025-04-14",
+  "title": "Trump administration retreats from white-collar criminal enforcement",
+  "summary": "Trump’s DOJ is ending white-collar crime enforcement—dropping foreign bribery, crypto fraud, and money laundering cases",
+  "description": "Trump’s DOJ is ending white-collar crime enforcement—dropping foreign bribery, crypto fraud, and money laundering cases",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "corruption",
+    "foreign-influence",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump administration retreats from white-collar criminal enforcement",
+      "url": "https://www.wsj.com/finance/regulation/trump-doj-white-collar-law-enforcement-4d27b06d?mod=hp_lead_pos7",
+      "outlet": "Wall Street Journal",
+      "date": "2025-04-14"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-14"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

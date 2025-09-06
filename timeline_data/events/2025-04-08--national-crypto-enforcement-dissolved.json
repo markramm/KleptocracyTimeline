@@ -1,0 +1,54 @@
+{
+  "id": "2025-04-08--national-crypto-enforcement-dissolved",
+  "date": "2025-04-08",
+  "importance": 8,
+  "title": "DOJ dissolves National Cryptocurrency Enforcement Team under Trump directive",
+  "summary": "Deputy Attorney General Todd Blanche issued April 7 memo dissolving NCET \"effective immediately,\" ending Biden-era crypto enforcement unit established 2021-2022. DOJ shifted from \"regulation by prosecution\" to crypto-friendly approach, explicitly stating it won't pursue enforcement against exchanges, mixing services, or offline wallets for user actions or \"unwitting violations.\"",
+  "location": "Washington, DC",
+  "actors": [
+    "Department of Justice",
+    "Todd Blanche (Deputy Attorney General)",
+    "National Cryptocurrency Enforcement Team (NCET)",
+    "Trump Administration",
+    "Computer Crime and Intellectual Property Section (CCIPS)"
+  ],
+  "tags": [
+    "cryptocurrency",
+    "enforcement",
+    "regulatory-capture",
+    "oversight-elimination"
+  ],
+  "capture_lanes": [
+    "Constitutional & Democratic Breakdown",
+    "Corporate Capture & Regulatory Breakdown",
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "Justice Department scraps crypto unit as Trump further loosens oversight of digital assets",
+      "url": "https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/",
+      "outlet": "Fortune Crypto",
+      "date": "2025-04-08"
+    },
+    {
+      "title": "DOJ ends crypto enforcement team, shifts focus to terrorism and fraud",
+      "url": "https://www.cnbc.com/2025/04/08/doj-ends-crypto-enforcement-team-shifts-focus-to-terrorism-and-fraud.html",
+      "outlet": "CNBC",
+      "date": "2025-04-08"
+    },
+    {
+      "title": "Justice Department to 'cease' cryptocurrency enforcement, memo says",
+      "url": "https://www.washingtonpost.com/national-security/2025/04/08/trump-crypto-fraud-doj-enforcement/",
+      "outlet": "The Washington Post",
+      "date": "2025-04-08"
+    },
+    {
+      "title": "Justice Department will disband its team focused on cryptocurrency crimes",
+      "url": "https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes",
+      "outlet": "PBS News",
+      "date": "2025-04-08"
+    }
+  ],
+  "notes": "NCET established 2021-2022 under Biden; Blanche memo states DOJ \"not a digital assets regulator\" and condemns prior \"regulation by prosecution\" approach; also disbanded Market Integrity and Major Frauds Unit crypto enforcement",
+  "status": "confirmed"
+}

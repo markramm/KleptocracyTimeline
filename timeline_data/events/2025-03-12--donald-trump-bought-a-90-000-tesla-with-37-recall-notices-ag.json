@@ -1,0 +1,37 @@
+{
+  "id": "2025-03-12--donald-trump-bought-a-90-000-tesla-with-37-recall-notices-ag",
+  "date": "2025-03-12",
+  "title": "Donald Trump bought a $90,000 Tesla with 37 recall notices against it",
+  "summary": "Trump purchased a high-performance Tesla Model S Plaid after turning the White House's South Lawn into a Tesla showroom",
+  "description": "Trump purchased a high-performance Tesla Model S Plaid after turning the White House's South Lawn into a Tesla showroom",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Donald Trump bought a $90,000 Tesla with 37 recall notices against it",
+      "url": "https://www.wired.com/story/donald-trump-bought-a-dollar90000-tesla-with-37-recall-notices-against-it/",
+      "outlet": "Wired",
+      "date": "2025-03-12"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-12"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

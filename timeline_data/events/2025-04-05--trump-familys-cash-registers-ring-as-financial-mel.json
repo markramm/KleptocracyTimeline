@@ -1,0 +1,55 @@
+{
+  "id": "2025-04-05--trump-familys-cash-registers-ring-as-financial-mel",
+  "date": "2025-04-05",
+  "title": "Trump family’s cash registers ring as financial meltdown plays out",
+  "summary": "Trump spent the weekend cashing in and playing golf at his Florida resorts, and the Saudi-backed LIV Golf tournament rolled on at Trump National Doral",
+  "description": "Trump spent the weekend cashing in and playing golf at his Florida resorts, and the Saudi-backed LIV Golf tournament rolled on at Trump National Doral",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "foreign-influence"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump family’s cash registers ring as financial meltdown plays out",
+      "url": "https://www.nytimes.com/2025/04/05/us/politics/trump-family-saudi-golf.html",
+      "outlet": "New York Times",
+      "date": "2025-04-05"
+    },
+    {
+      "title": "LIV Golf, Saudi relationships pull Trump to Florida as markets rage",
+      "url": "https://www.washingtonpost.com/politics/2025/04/03/liv-golf-saudi-relationships-pull-trump-florida-markets-rage/",
+      "outlet": "Washington Post",
+      "date": "2025-04-03"
+    },
+    {
+      "title": "Trump Enjoys Big Moneymaking Weekend Amid Market Meltdown",
+      "url": "https://www.thedailybeast.com/trump-enjoys-big-moneymaking-weekend-amid-market-meltdown/",
+      "outlet": "The Daily Beast",
+      "date": "2025-04-05"
+    },
+    {
+      "title": "Trump National Doral Golf Club to Host Saudi-Backed LIV Golf Tournament in April",
+      "url": "https://www.bloomberg.com/news/articles/2025-01-07/trump-s-doral-resort-to-host-saudi-backed-liv-golf-in-april",
+      "outlet": "Bloomberg",
+      "date": "2025-01-07"
+    },
+    {
+      "title": "Trump, schmoozing Saudis, plays two roles: president and mogul",
+      "url": "https://www.washingtonpost.com/politics/2025/02/24/trump-saudi-arabia-liv-golf/",
+      "outlet": "Washington Post",
+      "date": "2025-02-24"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive timeline tracking democratic erosion."
+}

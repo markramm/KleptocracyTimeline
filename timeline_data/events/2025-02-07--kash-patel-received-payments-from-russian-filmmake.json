@@ -1,0 +1,58 @@
+{
+  "id": "2025-02-07--kash-patel-received-payments-from-russian-filmmake",
+  "date": "2025-02-07",
+  "title": "Kash Patel Received Payments from Russian Filmmaker with Kremlin Ties",
+  "summary": "Trump's FBI director nominee Kash Patel received 25,000 from Igor Lopatonok's Global Tree Pictures for producing an anti-FBI documentary. Lopatonok is a Russian filmmaker with documented Kremlin ties who has promoted pro-Russian views and appeared alongside Putin ally Viktor Medvedchuk.",
+  "description": "Documents revealed Trump's FBI director pick Kash Patel was paid by a Russian filmmaker with ties to the Kremlin, raising serious concerns about foreign influence and conflicts of interest.",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Kash Patel",
+    "Igor Lopatonok",
+    "Global Tree Pictures",
+    "FBI",
+    "Tucker Carlson Network"
+  ],
+  "tags": [
+    "kash-patel",
+    "fbi",
+    "russia",
+    "kremlin",
+    "foreign-payments"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Kash Patel was paid by Russian filmmaker tied to Kremlin, documents show",
+      "url": "https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/",
+      "outlet": "Washington Post",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "Trump FBI Nominee Kash Patel Pocketed 25K From Filmmaker With Ties to Kremlin",
+      "url": "https://www.thedailybeast.com/trump-fbi-nominee-kash-patel-pocketed-25k-from-filmmaker-with-ties-to-kremlin/",
+      "outlet": "The Daily Beast",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "Trump pick for FBI, Kash Patel, took 25k for role in Russia-linked anti-FBI film",
+      "url": "https://www.msnbc.com/rachel-maddow/watch/trump-pick-for-fbi-kash-patel-took-25k-for-role-in-russia-linked-anti-fbi-film-231465029557",
+      "outlet": "MSNBC",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "FBI director nominee Kash Patel paid by Russian filmmaker close to Kremlin",
+      "url": "https://www.yahoo.com/news/fbi-director-nominee-kash-patel-013600652.html",
+      "outlet": "Yahoo News",
+      "date": "2025-02-07"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "foreign-influence",
+    "russian-connections",
+    "fbi-compromise"
+  ],
+  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
+}

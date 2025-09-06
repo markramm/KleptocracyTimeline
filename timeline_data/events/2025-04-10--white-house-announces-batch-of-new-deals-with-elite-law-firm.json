@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-10--white-house-announces-batch-of-new-deals-with-elite-law-firm",
+  "date": "2025-04-10",
+  "title": "White House announces batch of new deals with elite law firms",
+  "summary": "Four top law firms—Latham & Watkins, Simpson Thacher, Kirkland & Ellis, and A&O Shearman—are in talks with the Trump White House to deliver $500 million in pro bono work. In return, they would avoid sanctions aimed at firms with “DEI” programs or ties to Trump’s opponents",
+  "description": "Four top law firms—Latham & Watkins, Simpson Thacher, Kirkland & Ellis, and A&O Shearman—are in talks with the Trump White House to deliver $500 million in pro bono work. In return, they would avoid sanctions aimed at firms with “DEI” programs or ties to Trump’s opponents",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "White House announces batch of new deals with elite law firms",
+      "url": "https://www.wsj.com/us-news/law/latham-watkins-simpson-thacher-near-deals-with-white-house-aadfa172?mod=hp_lead_pos4",
+      "outlet": "Wall Street Journal",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

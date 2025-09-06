@@ -1,0 +1,49 @@
+{
+  "id": "2025-07-01--texas-special-session-gerrymander",
+  "date": "2025-07-01",
+  "importance": 6,
+  "title": "Texas Democrats Flee State to Block Trump-Requested Mid-Cycle Gerrymandering",
+  "summary": "Texas Governor Abbott called special session in July 2025 at former President Trump's request to eliminate Democratic urban seats through mid-cycle redistricting. Most brazen attempt at mid-decade gerrymandering would have created five additional Republican districts. House Democrats broke quorum by fleeing state, temporarily blocking effort. Unprecedented attempt to redraw maps purely for partisan advantage outside normal redistricting cycle. Part of broader pattern of using state power to override democratic outcomes and entrench minority rule.",
+  "location": "Texas",
+  "actors": [
+    "Greg Abbott (Governor)",
+    "Donald Trump",
+    "Texas House Democrats",
+    "Texas Legislature"
+  ],
+  "tags": [
+    "gerrymandering",
+    "mid_cycle_redistricting",
+    "quorum_break",
+    "texas",
+    "democratic_resistance",
+    "partisan_manipulation",
+    "kleptocracy"
+  ],
+  "capture_lanes": [
+    "Election System Attack",
+    "Financial Corruption & Kleptocracy"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Texas Democrats flee state to block redistricting special session",
+      "url": "https://www.texastribune.org/2025/07/01/texas-democrats-flee-redistricting/",
+      "outlet": "The Texas Tribune",
+      "date": "2025-07-01"
+    },
+    {
+      "title": "Abbott calls special session at Trump request for redistricting",
+      "url": "https://www.houstonchronicle.com/politics/texas/article/abbott-trump-redistricting-special-session.php",
+      "outlet": "Houston Chronicle",
+      "date": "2025-07-01"
+    },
+    {
+      "title": "Democrats break quorum to prevent gerrymandering vote",
+      "url": "https://www.cnn.com/2025/07/01/politics/texas-democrats-flee-redistricting/index.html",
+      "outlet": "CNN",
+      "date": "2025-07-01"
+    }
+  ],
+  "notes": "Mid-cycle redistricting historically rare and destabilizing to democratic norms. Trump's direct involvement in state redistricting unprecedented. Would have guaranteed Republican supermajority despite 50-50 state partisan split."
+}

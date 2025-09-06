@@ -1,0 +1,37 @@
+{
+  "id": "2025-02-26--musk-business-entanglements-loom-over-cfpb-siege",
+  "date": "2025-02-26",
+  "title": "Musk business entanglements loom over CFPB siege",
+  "summary": "As Trump moves to dismantle the CFPB, Elon Musk is simultaneously expanding X into digital payments",
+  "description": "As Trump moves to dismantle the CFPB, Elon Musk is simultaneously expanding X into digital payments",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Musk business entanglements loom over CFPB siege",
+      "url": "https://www.nytimes.com/2025/02/12/business/elon-musk-cfpb-x-money.html",
+      "outlet": "New York Times",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-26"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -4,7 +4,6 @@ Timeline Event Manager - Python API for managing timeline events.
 Designed for both human and agent use.
 """
 
-import yaml
 import json
 from pathlib import Path
 from datetime import datetime, date
@@ -246,7 +245,7 @@ class TimelineEventManager:
     
     def save_event(self, event: Dict, overwrite: bool = False) -> Path:
         """
-        Save event to YAML file with automatic ID correction.
+        Save event to JSON file with automatic ID correction.
         
         Args:
             event: Event dictionary
@@ -271,7 +270,7 @@ class TimelineEventManager:
         if errors:
             raise ValueError(f"Cannot save invalid event:\n" + "\n".join(f"  - {e}" for e in errors))
         
-        filename = f"{event['id']}.yaml"
+        filename = f"{event['id']}.json"
         filepath = self.events_dir / filename
         
         if filepath.exists() and not overwrite:
@@ -282,7 +281,7 @@ class TimelineEventManager:
             event['date'] = event['date'].isoformat()
         
         with open(filepath, 'w') as f:
-            yaml.dump(event, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+            json.dump(event, f, indent=2, ensure_ascii=False)
         
         return filepath
     
@@ -295,24 +294,24 @@ class TimelineEventManager:
         """
         all_errors = {}
         
-        for yaml_file in self.events_dir.glob('*.yaml'):
+        for json_file in self.events_dir.glob('*.json'):
             try:
-                with open(yaml_file, 'r') as f:
-                    event = yaml.safe_load(f)
+                with open(json_file, 'r') as f:
+                    event = json.load(f)
                 
                 # Check if ID matches filename
-                expected_id = yaml_file.stem
+                expected_id = json_file.stem
                 if event.get('id') != expected_id:
-                    all_errors[yaml_file.name] = [f"ID mismatch: expected '{expected_id}', got '{event.get('id')}'"]
+                    all_errors[json_file.name] = [f"ID mismatch: expected '{expected_id}', got '{event.get('id')}'"]
                     continue
                 
                 # Run full validation
                 errors = self.validate_event(event)
                 if errors:
-                    all_errors[yaml_file.name] = errors
+                    all_errors[json_file.name] = errors
                     
             except Exception as e:
-                all_errors[yaml_file.name] = [f"Error loading file: {e}"]
+                all_errors[json_file.name] = [f"Error loading file: {e}"]
         
         return all_errors
     
@@ -328,25 +327,24 @@ class TimelineEventManager:
         """
         fixed_count = 0
         
-        for yaml_file in self.events_dir.glob('*.yaml'):
+        for json_file in self.events_dir.glob('*.json'):
             try:
-                with open(yaml_file, 'r') as f:
-                    content = f.read()
-                    event = yaml.safe_load(content)
+                with open(json_file, 'r') as f:
+                    event = json.load(f)
                 
-                expected_id = yaml_file.stem
+                expected_id = json_file.stem
                 if event.get('id') != expected_id:
                     if dry_run:
-                        print(f"Would fix {yaml_file.name}: '{event.get('id')}' -> '{expected_id}'")
+                        print(f"Would fix {json_file.name}: '{event.get('id')}' -> '{expected_id}'")
                     else:
-                        print(f"Fixing {yaml_file.name}: '{event.get('id')}' -> '{expected_id}'")
+                        print(f"Fixing {json_file.name}: '{event.get('id')}' -> '{expected_id}'")
                         event['id'] = expected_id
-                        with open(yaml_file, 'w') as f:
-                            yaml.dump(event, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+                        with open(json_file, 'w') as f:
+                            json.dump(event, f, indent=2, ensure_ascii=False)
                     fixed_count += 1
                     
             except Exception as e:
-                print(f"Error processing {yaml_file.name}: {e}")
+                print(f"Error processing {json_file.name}: {e}")
         
         return fixed_count
     
@@ -355,7 +353,7 @@ class TimelineEventManager:
         Load an event by ID.
         
         Args:
-            event_id: Event ID (with or without .yaml extension)
+            event_id: Event ID (with or without .json extension)
             
         Returns:
             Dict: Event dictionary
@@ -363,8 +361,8 @@ class TimelineEventManager:
         Raises:
             FileNotFoundError: If event doesn't exist
         """
-        if not event_id.endswith('.yaml'):
-            event_id += '.yaml'
+        if not event_id.endswith('.json'):
+            event_id += '.json'
         
         filepath = self.events_dir / event_id
         
@@ -372,7 +370,7 @@ class TimelineEventManager:
             raise FileNotFoundError(f"Event not found: {filepath}")
         
         with open(filepath, 'r') as f:
-            return yaml.safe_load(f)
+            return json.load(f)
     
     def list_events(self, date_from: Optional[str] = None, date_to: Optional[str] = None) -> List[Dict]:
         """
@@ -387,9 +385,9 @@ class TimelineEventManager:
         """
         events = []
         
-        for yaml_file in self.events_dir.glob('*.yaml'):
-            with open(yaml_file, 'r') as f:
-                event = yaml.safe_load(f)
+        for json_file in self.events_dir.glob('*.json'):
+            with open(json_file, 'r') as f:
+                event = json.load(f)
                 
                 # Apply date filters if provided
                 if date_from and event.get('date') < date_from:
@@ -524,7 +522,7 @@ if __name__ == "__main__":
     )
     
     print("Created event:")
-    print(yaml.dump(event, default_flow_style=False))
+    print(json.dumps(event, indent=2, ensure_ascii=False))
     
     # Optionally save
     # filepath = manager.save_event(event)

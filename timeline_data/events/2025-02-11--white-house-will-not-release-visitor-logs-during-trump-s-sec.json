@@ -1,0 +1,37 @@
+{
+  "id": "2025-02-11--white-house-will-not-release-visitor-logs-during-trump-s-sec",
+  "date": "2025-02-11",
+  "title": "White House will not release visitor logs during Trump's second term",
+  "summary": "The Trump White House plans to keep visitor logs secret, just as he did in his first term",
+  "description": "The Trump White House plans to keep visitor logs secret, just as he did in his first term",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "White House will not release visitor logs during Trump's second term",
+      "url": "https://newrepublic.com/post/191416/trump-white-house-visitor-logs-not-public",
+      "outlet": "The New Republic",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-11"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

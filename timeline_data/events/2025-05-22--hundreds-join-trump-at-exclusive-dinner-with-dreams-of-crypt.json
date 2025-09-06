@@ -1,0 +1,38 @@
+{
+  "id": "2025-05-22--hundreds-join-trump-at-exclusive-dinner-with-dreams-of-crypt",
+  "date": "2025-05-22",
+  "title": "Hundreds join Trump at ‘exclusive’ dinner, with dreams of crypto fortunes in mind",
+  "summary": "Trump hosted a dinner for the top 220 investors in his memecoin at his Virginia golf club, some having spent 10s of millions of dollars on the digital token",
+  "description": "Trump hosted a dinner for the top 220 investors in his memecoin at his Virginia golf club, some having spent 10s of millions of dollars on the digital token",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Hundreds join Trump at ‘exclusive’ dinner, with dreams of crypto fortunes in mind",
+      "url": "https://www.nytimes.com/2025/05/22/us/politics/trump-memecoin-dinner.html",
+      "outlet": "New York Times",
+      "date": "2025-05-22"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-22"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

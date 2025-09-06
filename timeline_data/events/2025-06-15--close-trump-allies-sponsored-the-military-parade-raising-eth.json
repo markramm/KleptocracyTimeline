@@ -1,0 +1,31 @@
+{
+  "id": "2025-06-15--close-trump-allies-sponsored-the-military-parade-raising-eth",
+  "date": "2025-06-15",
+  "title": "Close Trump allies sponsored the military parade, raising ethical concerns",
+  "summary": "At least four brands with close financial ties to Trump sponsored his military parade, potentially benefiting from advertising at the event",
+  "description": "At least four brands with close financial ties to Trump sponsored his military parade, potentially benefiting from advertising at the event",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump"
+  ],
+  "tags": [
+    "kleptocracy",
+    "trump-administration"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Close Trump allies sponsored the military parade, raising ethical concerns",
+      "url": "https://www.nytimes.com/2025/06/15/us/politics/trump-military-parade-sponsors.html",
+      "outlet": "New York Times",
+      "date": "2025-06-15"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+}

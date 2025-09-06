@@ -1,0 +1,37 @@
+{
+  "id": "2025-05-15--donald-trump-jr-s-transformation-into-washington-power-broke",
+  "date": "2025-05-15",
+  "title": "Donald Trump Jr.'s transformation into Washington power broker",
+  "summary": "From joining at least eight corporate boards to global cryptocurrency and hospitality ventures, Donald Trump Jr. has amassed significant wealth and power trading on his White House access",
+  "description": "From joining at least eight corporate boards to global cryptocurrency and hospitality ventures, Donald Trump Jr. has amassed significant wealth and power trading on his White House access",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Donald Trump Jr.'s transformation into Washington power broker",
+      "url": "https://www.cbsnews.com/news/donald-trump-jr-washington-power-broker/",
+      "outlet": "CBS News",
+      "date": "2025-05-15"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-15"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

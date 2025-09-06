@@ -1,0 +1,44 @@
+{
+  "id": "2025-02-20--melania-coin-insider-trading",
+  "date": "2025-02-20",
+  "importance": 5,
+  "title": "Digital wallets buy $2.6 million of Melania coin before announcement",
+  "summary": "Financial Times discovers around two dozen digital wallets bought $2.6 million worth of Melania Trump's coin minutes before she announced it, suggesting potential insider trading in Trump family cryptocurrency ventures.",
+  "location": "United States",
+  "actors": [
+    "Melania Trump",
+    "Unknown wallet holders",
+    "Financial Times"
+  ],
+  "tags": [
+    "cryptocurrency",
+    "insider-trading",
+    "melania-trump",
+    "market-manipulation"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "A group of anonymous traders scored a $100 million payday by buying Melania Trump's memecoin just before it launched publicly",
+      "url": "https://fortune.com/2025/05/07/melania-trump-memecoin-anonymous-traders-100-million-payday/",
+      "outlet": "Fortune",
+      "date": "2025-05-07"
+    },
+    {
+      "title": "MELANIA memecoin insiders reportedly make over $150 million including pre-sale trades",
+      "url": "https://cryptoslate.com/melania-memecoin-insiders-reportedly-make-over-150-million-including-pre-sale-trades/",
+      "outlet": "CryptoSlate",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Co-Founder of Crypto Firm Behind Trump, Melania Tokens Resigns Amid Insider Trading Allegations",
+      "url": "https://decrypt.co/306498/co-founder-of-crypto-firm-behind-trump-melania-tokens-resigns-amid-insider-trading-allegations",
+      "outlet": "Decrypt",
+      "date": "2025-02-20"
+    }
+  ],
+  "notes": "Pattern suggests coordinated buying with advance knowledge",
+  "status": "confirmed"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2025-06-21--trump-undermines-watergate-laws-in-massive-shift-of-ethics-s",
+  "date": "2025-06-21",
+  "title": "Trump undermines Watergate laws in massive shift of ethics system",
+  "summary": "Trump has been dismantling the post-Watergate legal framework of the US presidency though impounding Congressional appropriations, politicizing the Justice Department, firing ethics watchdogs, unilaterally gutting federal agencies, and stripping civil servants of their legally entitled protections",
+  "description": "Trump has been dismantling the post-Watergate legal framework of the US presidency though impounding Congressional appropriations, politicizing the Justice Department, firing ethics watchdogs, unilaterally gutting federal agencies, and stripping civil servants of their legally entitled protections",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "ethics-violations",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump undermines Watergate laws in massive shift of ethics system",
+      "url": "https://www.washingtonpost.com/politics/2025/06/21/trump-watergate-presidency-congress/",
+      "outlet": "Washington Post",
+      "date": "2025-06-21"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-21"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

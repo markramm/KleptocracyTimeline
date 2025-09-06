@@ -1,0 +1,51 @@
+{
+  "id": "2023-06-08--allen-v-milligan",
+  "date": "2023-06-08",
+  "importance": 9,
+  "title": "Allen v. Milligan reaffirms Voting Rights Act §2; orders additional majority-Black district in Alabama",
+  "summary": "The Supreme Court held that Alabama's congressional map likely violated §2 of the Voting Rights\nAct and ordered a remedy adding a second majority-Black district. The ruling preserved the\nThornburg v. Gingles framework for vote-dilution claims, affecting redistricting nationally.\n",
+  "notes": "Use the opinion and DOJ statement of interest for doctrinal clarity and remedy context.\n",
+  "status": "confirmed",
+  "actors": [
+    "Supreme Court of the United States",
+    "State of Alabama",
+    "DOJ Civil Rights Division"
+  ],
+  "tags": [
+    "voting-rights",
+    "redistricting",
+    "section-2"
+  ],
+  "patterns": [],
+  "related_events": [
+    "2019-06-27--scotus-census-citizenship-question-pretext-hofeller"
+  ],
+  "capture_lanes": [
+    "Election System Attack"
+  ],
+  "location": "Alabama",
+  "sources": [
+    {
+      "date": "2023-06-08",
+      "outlet": "Supreme Court of the United States",
+      "title": "Allen v. Milligan (opinion PDF)",
+      "url": "https://www.supremecourt.gov/opinions/22pdf/21-1086_1co6.pdf",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "Holding; preservation of Gingles test; remedy implications"
+      ],
+      "verified": true
+    },
+    {
+      "date": "2023-07-28",
+      "outlet": "U.S. Department of Justice",
+      "title": "Statement of Interest (Singleton/Milligan/Caster consolidated cases)",
+      "url": "https://www.justice.gov/d9/2023-08/soi-_singleton_v_allen_milligan_v_allen_and_caster_v_allen.pdf",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "DOJ's framing of §2 standards in the Alabama litigation"
+      ],
+      "verified": true
+    }
+  ]
+}

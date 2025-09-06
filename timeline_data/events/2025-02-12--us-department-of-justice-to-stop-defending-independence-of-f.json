@@ -1,0 +1,38 @@
+{
+  "id": "2025-02-12--us-department-of-justice-to-stop-defending-independence-of-f",
+  "date": "2025-02-12",
+  "title": "US Department of Justice to stop defending independence of FTC, NLRB, letter says",
+  "summary": "DOJ plans to stop defending the independence of the Federal Trade Commission and the National Labor Relations Board",
+  "description": "DOJ plans to stop defending the independence of the Federal Trade Commission and the National Labor Relations Board",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "US Department of Justice to stop defending independence of FTC, NLRB, letter says",
+      "url": "https://www.reuters.com/world/us/us-justice-department-will-stop-defending-independence-ftc-nlrb-letter-says-2025-02-12/",
+      "outlet": "REUTERS",
+      "date": "2025-02-12"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-12"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

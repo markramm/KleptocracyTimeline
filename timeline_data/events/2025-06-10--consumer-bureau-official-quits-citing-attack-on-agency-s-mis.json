@@ -1,0 +1,37 @@
+{
+  "id": "2025-06-10--consumer-bureau-official-quits-citing-attack-on-agency-s-mis",
+  "date": "2025-06-10",
+  "title": "Consumer bureau official quits, citing ‘attack’ on agency’s mission",
+  "summary": "The acting head of enforcement at the CFPB, Cara Petersen, resigned her post, denouncing the Trump administration's attacks on the core mission of the consumer watchdog agency",
+  "description": "The acting head of enforcement at the CFPB, Cara Petersen, resigned her post, denouncing the Trump administration's attacks on the core mission of the consumer watchdog agency",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Consumer bureau official quits, citing ‘attack’ on agency’s mission",
+      "url": "https://www.nytimes.com/2025/06/10/us/politics/consumer-bureau-trump.html",
+      "outlet": "New York Times",
+      "date": "2025-06-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

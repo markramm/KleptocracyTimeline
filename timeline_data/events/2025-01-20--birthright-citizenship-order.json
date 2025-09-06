@@ -1,0 +1,45 @@
+{
+  "id": "2025-01-20--birthright-citizenship-order",
+  "date": "2025-01-20",
+  "importance": 10,
+  "title": "Trump signs executive order attempting to end birthright citizenship",
+  "summary": "Trump signs executive order attempting to end birthright citizenship despite constitutional obstacles, exactly as advocated in Project 2025, immediately facing multiple legal challenges.",
+  "location": "Washington, DC",
+  "actors": [
+    "Donald Trump",
+    "Department of Justice"
+  ],
+  "tags": [
+    "birthright-citizenship",
+    "constitutional-crisis",
+    "executive-order",
+    "project-2025",
+    "immigration"
+  ],
+  "capture_lanes": [
+    "Executive Power & Emergency Authority",
+    "Immigration & Border Militarization"
+  ],
+  "sources": [
+    {
+      "title": "Protecting The Meaning And Value Of American Citizenship",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+      "outlet": "White House",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Federal Court Blocks Trump Birthright Citizenship Executive Order",
+      "url": "https://www.aclu.org/press-releases/federal-court-blocks-trump-birthright-citizenship-executive-order",
+      "outlet": "ACLU",
+      "date": "2025-01-23"
+    },
+    {
+      "title": "Judge blocks Trump's order restricting birthright citizenship",
+      "url": "https://www.nbcnews.com/news/us-news/judge-blocks-trumps-order-restricting-birthright-citizenship-rcna217996",
+      "outlet": "NBC News",
+      "date": "2025-01-23"
+    }
+  ],
+  "notes": "Implementing Project 2025 recommendation despite 14th Amendment",
+  "status": "confirmed"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2025-01-25--trump-s-foreign-business-partners-tout-his-presidency-while-",
+  "date": "2025-01-25",
+  "title": "Trump’s foreign business partners tout his presidency while promoting projects",
+  "summary": "Several foreign business partners of the Trump Organization attended inauguration-related events, posed for photos with Trump, and referenced their connections to his presidency in promotional materials",
+  "description": "Several foreign business partners of the Trump Organization attended inauguration-related events, posed for photos with Trump, and referenced their connections to his presidency in promotional materials",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "foreign-influence"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump’s foreign business partners tout his presidency while promoting projects",
+      "url": "https://edition.cnn.com/2025/01/25/politics/trumps-foreign-business-partners-promoting-projects-invs/index.html",
+      "outlet": "CNN",
+      "date": "2025-01-25"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-01-25"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

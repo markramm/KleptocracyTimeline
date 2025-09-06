@@ -1,0 +1,37 @@
+{
+  "id": "2025-05-28--trump-administration-axes-biden-era-barrier-for-crypto-in-40",
+  "date": "2025-05-28",
+  "title": "Trump administration axes Biden-era barrier for crypto in 401(k) plans",
+  "summary": "The Trump administration rescinded Biden-era guidance warning employers to exercise caution before adding cryptocurrency and other digital assets to employee 401(k) plans",
+  "description": "The Trump administration rescinded Biden-era guidance warning employers to exercise caution before adding cryptocurrency and other digital assets to employee 401(k) plans",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump administration axes Biden-era barrier for crypto in 401(k) plans",
+      "url": "https://www.cnbc.com/2025/05/28/crypto-in-401k-plans-trump-administration-eases-rules.html",
+      "outlet": "CNBC",
+      "date": "2025-05-28"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-28"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2001-06-01--saudi-arabia-purchases-entire-45th-floor-of-trump-",
+  "date": "2001-06-01",
+  "importance": 5,
+  "title": "Saudi Arabia purchases entire 45th floor of Trump World Tower for UN mission",
+  "summary": "Saudi Arabia purchases the entire 45th floor of Trump World Tower for $4.5 million. The five apartments (10 bedrooms, 13 bathrooms) were later converted to part of Saudi Arabia's UN Mission in 2008, creating ongoing common charges and potential emoluments clause violations during Trump's presidency.",
+  "location": "New York, NY",
+  "actors": [
+    "Saudi Arabia",
+    "Trump Organization",
+    "Trump World Tower"
+  ],
+  "tags": [
+    "emoluments",
+    "foreign_influence",
+    "saudi_arabia",
+    "diplomatic_mission",
+    "real_estate"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "PolitiFact: Donald Trump's claim of \"no financial interests\" in Saudi Arabia? That's Half True at best",
+      "url": "https://www.politifact.com/factchecks/2018/oct/18/donald-trump/donald-trumps-claim-no-financial-interests-saudi-a",
+      "outlet": "PolitiFact",
+      "date": "2018-10-18"
+    },
+    {
+      "title": "Saudi rentals at Trump World Tower raise conflict-of-interest concerns: Report",
+      "url": "https://www.middleeasteye.net/news/foreign-counties-lease-trump-world-tower-emoluments-concerns-heighten",
+      "outlet": "Middle East Eye",
+      "date": "2019-05-16"
+    },
+    {
+      "title": "Trump and Saudi Arabia: Deep business ties spark new scrutiny",
+      "url": "https://www.cbsnews.com/news/trump-and-saudi-arabia-deep-business-ties-spark-new-scrutiny",
+      "outlet": "CBS News",
+      "date": "2018-10-16"
+    }
+  ],
+  "notes": "The purchase occurred several months before 9/11. In 2008, Saudi Arabia converted the apartments into part of their UN Mission. During Trump's presidency, the Saudi government paid over $537,080 in building charges and fees, raising emoluments clause concerns as these foreign government payments were made without Congressional approval. The State Department authorized the rental arrangement without the constitutionally required Congressional consent. This was part of at least $7.8 million Trump received from 20 foreign governments while president."
+}

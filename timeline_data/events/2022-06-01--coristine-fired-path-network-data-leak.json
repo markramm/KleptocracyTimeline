@@ -1,0 +1,42 @@
+{
+  "id": "2022-06-01--coristine-fired-path-network-data-leak",
+  "date": "2022-06-01",
+  "importance": 8,
+  "title": "Ed Coristine fired from cybersecurity firm for leaking company secrets",
+  "summary": "Edward Coristine, then 16, was fired from his internship at cybersecurity firm Path Network\nfor allegedly leaking internal company information to competitors. Path founder Marshal Webb\nstated \"This is unacceptable and there is zero tolerance for this.\" Shortly after Coristine's\ntermination, an abundance of internal Path documents and conversations were leaked online.\nAt the same time, Coristine ran DiamondCDN, which provided services to the EGodly cybercrime\ngroup known for cryptocurrency theft and FBI agent harassment.\n",
+  "actors": [
+    "Edward Coristine",
+    "Path Network",
+    "Marshal Webb",
+    "EGodly"
+  ],
+  "tags": [
+    "data-breach",
+    "cybercrime",
+    "corporate-espionage",
+    "security-risk",
+    "doge-personnel"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Musk's DOGE Teen Was Fired By Cybersecurity Firm for Leaking Company Secrets",
+      "url": "https://www.bloomberg.com/news/articles/2025-02-07/musk-s-doge-teen-was-fired-by-cybersecurity-firm-for-leaking-company-secrets",
+      "outlet": "Bloomberg",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "Musk's DOGE teen was fired by cybersecurity firm for leaking company secrets",
+      "url": "https://fortune.com/2025/02/07/musks-doge-teen-edward-coristine-fired-cybersecurity-internship-leaking-company-secrets/",
+      "outlet": "Fortune",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "Teen on Musk's DOGE Team Graduated from 'The Com'",
+      "url": "https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/",
+      "outlet": "KrebsOnSecurity",
+      "date": "2025-02-01"
+    }
+  ],
+  "notes": "Law enforcement officials tracked Coristine in cybercrime chat rooms under usernames\n\"Rivage\" and \"JoeyCrafter.\" In November 2022, \"JoeyCrafter\" posted seeking \"capable,\npowerful & reliable L7\" referring to Layer 7 DDoS attacks. EGodly thanked DiamondCDN\nin 2023 for providing \"amazing DDoS protection and caching systems.\""
+}

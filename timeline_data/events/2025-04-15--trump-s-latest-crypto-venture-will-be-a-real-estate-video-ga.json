@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-15--trump-s-latest-crypto-venture-will-be-a-real-estate-video-ga",
+  "date": "2025-04-15",
+  "title": "Trump’s latest crypto venture will be a real estate video game",
+  "summary": "Trump’s latest crypto venture will be a real estate video game",
+  "description": "Trump’s latest crypto venture will be a real estate video game",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump’s latest crypto venture will be a real estate video game",
+      "url": "https://fortune.com/crypto/2025/04/15/trump-crypto-monopoly-bill-zanker-nfts-memecoin/",
+      "outlet": "Fortune",
+      "date": "2025-04-15"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-15"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

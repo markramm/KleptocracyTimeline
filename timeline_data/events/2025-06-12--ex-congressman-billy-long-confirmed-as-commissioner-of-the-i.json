@@ -1,0 +1,37 @@
+{
+  "id": "2025-06-12--ex-congressman-billy-long-confirmed-as-commissioner-of-the-i",
+  "date": "2025-06-12",
+  "title": "Ex-congressman Billy Long confirmed as commissioner of the IRS, an agency he once sought to abolish",
+  "summary": "The Senate confirmed ex-Republican Representative Billy Long as the commissioner of the IRS—though he previously tried to abolish the agency and recently helped a firm distribute fraudulent pandemic-era tax credits",
+  "description": "The Senate confirmed ex-Republican Representative Billy Long as the commissioner of the IRS—though he previously tried to abolish the agency and recently helped a firm distribute fraudulent pandemic-era tax credits",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Ex-congressman Billy Long confirmed as commissioner of the IRS, an agency he once sought to abolish",
+      "url": "https://apnews.com/article/billy-long-confirmed-irs-commissioner-67cd8daaa53a53c4ebf1262de1ede5e6",
+      "outlet": "Associated Press",
+      "date": "2025-06-12"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-12"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2025-04-02--shares-in-trump-social-media-company-sink-following-concerns",
+  "date": "2025-04-02",
+  "title": "Shares in Trump social media company sink following concerns about insider selloff",
+  "summary": "Shares in Trump Media and Technology Group dropped about 5% after the company filed paperwork with the SEC that could allow Trump's trust to sell up to 115 million shares, worth more than $2.3 billion, raising concerns about a potential insider selloff",
+  "description": "Shares in Trump Media and Technology Group dropped about 5% after the company filed paperwork with the SEC that could allow Trump's trust to sell up to 115 million shares, worth more than $2.3 billion, raising concerns about a potential insider selloff",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "media-control",
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Shares in Trump social media company sink following concerns about insider selloff",
+      "url": "https://www.wsj.com/business/media/djt-stock-sinks-trump-selling-stake-c0459751?gaa_at=eafs&gaa_n=ASWzDAgkQsHV0aCdT-tDaZQv-TsZXjpr2C8Os6lrqmt_q1ahZH4haWTHp9G-EMRVd5U%3D&gaa_ts=683f917f&gaa_sig=U938iOSGeMdUxlXYeT7Pv11W6FWECrpHEkw9g253g7ht-d6XEX_1cB-ITaVXORx--y5YTcOjMmKVPyoUQs2Yag%3D%3D",
+      "outlet": "Wall Street Journal",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Trump Media shares drop after warning the president's trust and other insiders could sell stock",
+      "url": "https://www.cnbc.com/2025/04/02/trump-media-shares-drop-after-warning-the-presidents-trust-and-other-insiders-could-sell-stock.html",
+      "outlet": "CNBC",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Shares in Trump social media company sink following concerns about insider selloff",
+      "url": "https://abcnews.go.com/Politics/trump-media-filing-opens-door-president-sell-2b/story?id=120409342",
+      "outlet": "ABC News",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Shares in Trump social media company sink following concerns about insider selloff",
+      "url": "https://finance.yahoo.com/news/trump-media-filing-opens-door-133700575.html",
+      "outlet": "Yahoo Finance",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Trump Media stock has lost half its value since Inauguration Day",
+      "url": "https://www.cnbc.com/2025/03/10/trump-media-falls-more-than-11percent-as-broader-sell-off-intensifies.html",
+      "outlet": "CNBC",
+      "date": "2025-03-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

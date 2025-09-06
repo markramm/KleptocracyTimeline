@@ -1,0 +1,38 @@
+{
+  "id": "2025-01-17--crypto-firms-pour-millions-into-trump-inauguration",
+  "date": "2025-01-17",
+  "title": "Crypto firms pour millions into Trump inauguration",
+  "summary": "Crypto executives and their lobbyists are scrambling to gain sway over the incoming administration.",
+  "description": "Crypto executives and their lobbyists are scrambling to gain sway over the incoming administration.",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Crypto firms pour millions into Trump inauguration",
+      "url": "https://www.politico.com/news/2025/01/17/crypto-money-trump-inauguration-00199088",
+      "outlet": "POLITICO",
+      "date": "2025-01-17"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-01-17"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

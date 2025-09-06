@@ -1,0 +1,56 @@
+{
+  "id": "2019-04-11--david-bernhardt-confirmed-conflicts",
+  "date": "2019-04-11",
+  "title": "David Bernhardt Confirmed as Interior Secretary Despite 27 Conflicts of Interest",
+  "summary": "Senate confirmed David Bernhardt as Interior Secretary despite him having the most \nconflicts of interest of any Trump Cabinet nominee - 27 former clients and employers \nactively lobbying the Interior Department. A former oil and gas lobbyist, Bernhardt \nhad so many potential conflicts he literally carried a card listing them. His former \nclients included Halliburton, Cobalt International Energy, and California's Westlands \nWater District. Within weeks of confirmation, he blocked endangered species protections \nand opened Arctic lands for drilling that his former clients sought. Environmental \ngroups called him a \"walking conflict of interest.\"\n",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "David Bernhardt",
+    "Donald Trump",
+    "Department of Interior",
+    "Halliburton",
+    "Westlands Water District"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "conflicts-of-interest",
+    "oil-and-gas",
+    "interior-department",
+    "revolving-door",
+    "environmental-destruction",
+    "lobbying"
+  ],
+  "sources": [
+    {
+      "title": "Senate confirms David Bernhardt, a former oil lobbyist, as Interior secretary",
+      "url": "https://www.washingtonpost.com/climate-environment/2019/04/11/senate-set-confirm-david-bernhardt-former-oil-lobbyist-interior-secretary/",
+      "outlet": "Washington Post",
+      "date": "2019-04-11"
+    },
+    {
+      "title": "David Bernhardt Is Confirmed as Interior Secretary",
+      "url": "https://www.nytimes.com/2019/04/11/climate/david-bernhardt-interior-secretary.html",
+      "outlet": "New York Times",
+      "date": "2019-04-11"
+    },
+    {
+      "title": "David Bernhardt Is President Trump's Most Conflicted Cabinet Nominee",
+      "url": "https://www.americanprogress.org/article/david-bernhardt-president-trumps-conflicted-cabinet-nominee/",
+      "outlet": "Center for American Progress",
+      "date": "2019-03-27"
+    }
+  ],
+  "notes": "Bernhardt's confirmation represented peak regulatory capture - the Senate knowingly \nconfirmed someone whose conflicts were so numerous he needed a reference card. He \nimmediately began implementing policies benefiting his former clients, including \nweakening the Endangered Species Act and opening millions of acres for drilling. \nHis tenure demonstrated how the Trump administration transformed government agencies \ninto tools for the industries they were meant to regulate.\n",
+  "related_events": [
+    "2018-12-15--ryan-zinke-resigns-corruption",
+    "2017-02-07--andrew-wheeler-coal-lobbyist-epa"
+  ],
+  "patterns": [
+    "regulatory-capture",
+    "revolving-door",
+    "environmental-destruction",
+    "conflicts-of-interest"
+  ]
+}

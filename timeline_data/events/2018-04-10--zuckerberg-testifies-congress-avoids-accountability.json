@@ -1,0 +1,43 @@
+{
+  "id": "2018-04-10--zuckerberg-testifies-congress-avoids-accountability",
+  "date": "2018-04-10",
+  "importance": 9,
+  "title": "Mark Zuckerberg Testifies Before Congress on Cambridge Analytica and Russian Interference",
+  "summary": "Facebook CEO Mark Zuckerberg testifies for 10 hours before Congress, apologizing for data breaches and promising reforms while avoiding real accountability for platform's role in election manipulation",
+  "location": "Washington D.C.",
+  "actors": [
+    "Mark Zuckerberg",
+    "US Congress",
+    "Facebook",
+    "Cambridge Analytica"
+  ],
+  "tags": [
+    "congressional-testimony",
+    "cambridge-analytica",
+    "russian-interference",
+    "zuckerberg",
+    "facebook-scandal",
+    "accountability-failure"
+  ],
+  "capture_lanes": [
+    "Foreign Influence Operations"
+  ],
+  "sources": [
+    {
+      "title": "Zuckerberg testimony to Congress",
+      "url": "https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/",
+      "outlet": "Washington Post",
+      "date": "2018-04-10",
+      "archive_url": "https://web.archive.org/web/20180410000000/https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/"
+    },
+    {
+      "title": "Zuckerberg survives 10 hours of questions",
+      "url": "https://www.cnn.com/2018/04/10/tech/mark-zuckerberg-testimony/index.html",
+      "outlet": "CNN",
+      "date": "2018-04-10",
+      "archive_url": "https://web.archive.org/web/20180410000000/https://www.cnn.com/2018/04/10/tech/mark-zuckerberg-testimony/index.html"
+    }
+  ],
+  "notes": "His apology my mistake became meme. Senators showed tech illiteracy. No meaningful regulation followed. Facebook stock rose after testimony. Platform changes minimal. Set precedent for tech CEO impunity.",
+  "status": "confirmed"
+}

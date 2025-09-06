@@ -1,0 +1,55 @@
+{
+  "id": "2025-05-04--trump-says-hell-call-ceos-when-he-disagrees-with-t",
+  "date": "2025-05-04",
+  "title": "Trump says he'll call CEOs when he disagrees with their business decisions",
+  "summary": "Trump said he will pressure CEOs the same way he put the screws to Jeff Bezos after Amazon announced it would indicate the cost of tariffs in customer billing, if their business decisions are seen as unfriendly to his administration",
+  "description": "Trump said he will pressure CEOs the same way he put the screws to Jeff Bezos after Amazon announced it would indicate the cost of tariffs in customer billing, if their business decisions are seen as unfriendly to his administration",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "media-control"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump says he'll call CEOs when he disagrees with their business decisions",
+      "url": "https://fortune.com/2025/05/05/trump-to-call-ceos-he-disagrees-with/",
+      "outlet": "Fortune",
+      "date": "2025-05-04"
+    },
+    {
+      "title": "Trump called Bezos after a report that Amazon would post products' import charges",
+      "url": "https://www.npr.org/2025/04/29/nx-s1-5380935/amazon-tariffs",
+      "outlet": "NPR",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Trump says he'll call CEOs when he disagrees with their business decisions",
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-call-ceos-plans-prices-tariffs-rcna204702",
+      "outlet": "NBC News",
+      "date": "2025-05-04"
+    },
+    {
+      "title": "Amazon tariff charge: Trump called Jeff Bezos after learning company considered breaking out added cost",
+      "url": "https://www.cnn.com/2025/04/29/business/white-house-calls-report-that-amazon-is-adding-a-tariff-charge-a-hostile-action/index.html",
+      "outlet": "CNN",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Amazon Denies Tariff Label Plans After Trump Called to Complain",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-29/white-house-calls-amazon-hostile-for-reported-tariff-displays",
+      "outlet": "Bloomberg",
+      "date": "2025-04-29"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive timeline tracking democratic erosion."
+}

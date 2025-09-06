@@ -1,0 +1,32 @@
+{
+  "id": "2025-08-07--trump-delayed-a-medicare-change-after-health-company-donatio",
+  "date": "2025-08-07",
+  "title": "Trump delayed a Medicare change after health company donations",
+  "summary": "Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care—maker of high-end bandages crafted from dried placenta—donated $5 million to the MAGA Inc. super PAC",
+  "description": "Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care—maker of high-end bandages crafted from dried placenta—donated $5 million to the MAGA Inc. super PAC",
+  "status": "confirmed",
+  "importance": 10,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump delayed a Medicare change after health company donations",
+      "url": "https://www.nytimes.com/2025/08/07/us/politics/trump-medicare-bandages-donors.html",
+      "outlet": "New York Times",
+      "date": "2025-08-07"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "High-priority kleptocratic event from comprehensive timeline."
+}

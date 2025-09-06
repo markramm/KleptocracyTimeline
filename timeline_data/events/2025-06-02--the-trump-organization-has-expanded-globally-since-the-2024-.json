@@ -1,0 +1,39 @@
+{
+  "id": "2025-06-02--the-trump-organization-has-expanded-globally-since-the-2024-",
+  "date": "2025-06-02",
+  "title": "The Trump Organization has expanded globally since the 2024 election",
+  "summary": "The Trump Organization and its partners have announced 12 international projects since the start of the president's second term, including government-backed deals in Serbia, India, Qatar, and the UAE",
+  "description": "The Trump Organization and its partners have announced 12 international projects since the start of the president's second term, including government-backed deals in Serbia, India, Qatar, and the UAE",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "foreign-influence",
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "The Trump Organization has expanded globally since the 2024 election",
+      "url": "https://www.wsj.com/politics/policy/trump-organization-expansion-4998172b?mod=politics_lead_pos5",
+      "outlet": "Wall Street Journal",
+      "date": "2025-06-02"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-02"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2025-02-12--state-department-plans-400-million-purchase-of-tes",
+  "date": "2025-02-12",
+  "title": "State Department Plans $400 Million Purchase of Tesla Cybertrucks",
+  "summary": "State Department procurement documents showed plans for a 400 million purchase of armored Tesla vehicles, dramatically expanding a smaller Biden-era EV plan. After media scrutiny, the State Department removed Tesla from documents and claimed the purchase was on hold with no plans to proceed.",
+  "description": "The State Department announced plans to purchase $400 million worth of armored Tesla Cybertrucks, directly benefiting Elon Musk's company through government contracts.",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "State Department",
+    "Tesla",
+    "Elon Musk"
+  ],
+  "tags": [
+    "state-department",
+    "tesla",
+    "cybertruck",
+    "government-contracts",
+    "musk"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "A new document undercuts Trump admin's denials about 400 million Tesla deal",
+      "url": "https://www.npr.org/2025/02/24/nx-s1-5305269/tesla-state-department-elon-musk-trump",
+      "outlet": "NPR",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "Trump's State Department Could Spend 400 Million on Armored Teslas",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-musk-armored-tesla-400-million-1235265633/",
+      "outlet": "Rolling Stone",
+      "date": "2025-02-12"
+    },
+    {
+      "title": "Armored Tesla forecast to win 400 million State Department contract after Trump's election",
+      "url": "https://www.dropsitenews.com/p/elon-musk-armored-tesla-forecast-400-million-state-department-contracts",
+      "outlet": "DropSite News",
+      "date": "2025-02-12"
+    },
+    {
+      "title": "U.S. State Department Pauses Plan to Spend 400M on Armored Teslas",
+      "url": "https://www.caranddriver.com/news/a63785649/tesla-state-department-armored-vehicle-contract/",
+      "outlet": "Car and Driver",
+      "date": "2025-02-13"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "crony-capitalism",
+    "government-contracts",
+    "insider-dealing"
+  ],
+  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
+}

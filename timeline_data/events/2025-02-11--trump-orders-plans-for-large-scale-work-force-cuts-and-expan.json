@@ -1,0 +1,37 @@
+{
+  "id": "2025-02-11--trump-orders-plans-for-large-scale-work-force-cuts-and-expan",
+  "date": "2025-02-11",
+  "title": "Trump orders plans for ‘large scale’ work force cuts and expands Musk’s power",
+  "summary": "Trump signed an executive order directing agencies to plan for mass federal workforce reductions and granted Elon Musk sweeping power over future hiring",
+  "description": "Trump signed an executive order directing agencies to plan for mass federal workforce reductions and granted Elon Musk sweeping power over future hiring",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump orders plans for ‘large scale’ work force cuts and expands Musk’s power",
+      "url": "https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html",
+      "outlet": "New York Times",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-11"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

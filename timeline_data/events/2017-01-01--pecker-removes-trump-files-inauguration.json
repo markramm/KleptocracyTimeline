@@ -1,0 +1,40 @@
+{
+  "id": "2017-01-01--pecker-removes-trump-files-inauguration",
+  "date": "2017-01-01",
+  "importance": 8,
+  "title": "Pecker and Howard Remove Trump Files from Safe Before Inauguration",
+  "summary": "David Pecker and Dylan Howard remove remaining Trump documents from National Enquirer safe weeks before inauguration, fearing liability, either destroying or relocating files",
+  "location": "AMI offices, New York",
+  "actors": [
+    "David Pecker",
+    "Dylan Howard",
+    "American Media Inc.",
+    "Donald Trump"
+  ],
+  "tags": [
+    "document-removal",
+    "pecker-vault",
+    "evidence-tampering",
+    "inauguration",
+    "obstruction",
+    "kompromat-destruction"
+  ],
+  "sources": [
+    {
+      "title": "National Enquirer removed Trump secrets before inauguration",
+      "url": "https://www.nbcnews.com/politics/donald-trump/national-enquirer-hid-trump-secrets-safe-removed-them-inauguration-n903356",
+      "outlet": "NBC News",
+      "date": "2018-08-23",
+      "archive_url": "https://web.archive.org/web/20180823000000/https://www.nbcnews.com/politics/donald-trump/national-enquirer-hid-trump-secrets-safe-removed-them-inauguration-n903356"
+    },
+    {
+      "title": "Enquirer's safe held damaging Trump stories",
+      "url": "https://www.cnbc.com/2018/08/23/national-enquirers-safe-held-damaging-trump-stories.html",
+      "outlet": "CNBC",
+      "date": "2018-08-23",
+      "archive_url": "https://web.archive.org/web/20180823000000/https://www.cnbc.com/2018/08/23/national-enquirers-safe-held-damaging-trump-stories.html"
+    }
+  ],
+  "notes": "Second wave of document handling after November shredding. Files found missing from master list later. Fear of legal exposure with Trump becoming president. Trump thanked Pecker for handling situations at Trump Tower meeting.",
+  "status": "confirmed"
+}

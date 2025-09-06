@@ -6,7 +6,6 @@ Uses SQLite's native JSON functions for optimal performance and simplicity
 
 import os
 import sqlite3
-import yaml
 import json
 import hashlib
 import threading
@@ -316,29 +315,29 @@ class JSONTimelineDatabase:
             return [dict(row) for row in rows]
 
 class JSONEventLoader:
-    """Load events from YAML files into JSON database"""
+    """Load events from JSON files into JSON database"""
     
     def __init__(self, db: JSONTimelineDatabase, events_dir: str):
         self.db = db
         self.events_dir = Path(events_dir)
         
     def load_all_events(self):
-        """Load all YAML event files"""
-        print("Loading timeline events from YAML files...")
+        """Load all JSON event files"""
+        print("Loading timeline events from JSON files...")
         loaded_count = 0
         updated_count = 0
         
-        for yaml_file in self.events_dir.glob("*.yaml"):
+        for json_file in self.events_dir.glob("*.json"):
             try:
-                with open(yaml_file, 'r', encoding='utf-8') as f:
-                    event_data = yaml.safe_load(f)
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    event_data = json.load(f)
                     
                 if event_data and self.db.upsert_event(event_data):
                     updated_count += 1
                 loaded_count += 1
                     
             except Exception as e:
-                print(f"Error loading {yaml_file}: {e}")
+                print(f"Error loading {json_file}: {e}")
                 continue
         
         print(f"Loaded {loaded_count} events ({updated_count} updated)")
@@ -436,7 +435,7 @@ def research_notes():
 
 @app.route('/api/reload')
 def reload_data():
-    """Force reload from YAML files"""
+    """Force reload from JSON files"""
     events_dir = os.path.join(os.getcwd(), "timeline_data", "events")
     if os.path.exists(events_dir):
         loader = JSONEventLoader(get_db(), events_dir)

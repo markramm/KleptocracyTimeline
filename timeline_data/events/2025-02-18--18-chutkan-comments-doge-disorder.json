@@ -1,0 +1,36 @@
+{
+  "id": "2025-02-18--18-chutkan-comments-doge-disorder",
+  "date": "2025-02-18",
+  "importance": 5,
+  "title": "Judge Chutkan questions DOGE authority and lack of structure",
+  "summary": "At a hearing on suits seeking to block DOGE actions, Judge Tanya Chutkan says DOGE appears to be moving in 'no predictable and orderly fashion'; TRO not immediately granted.",
+  "sources": [
+    {
+      "title": "White House claims Elon Musk doesn't run DOGE",
+      "url": "https://abcnews.go.com/US/white-house-claims-elon-musk-doesnt-run-doge/story?id=118913206",
+      "outlet": "ABC News",
+      "date": "2025-02-17"
+    },
+    {
+      "title": "Judge Chutkan questions DOGE authority in court hearing",
+      "url": "https://www.politico.com/news/2025/02/17/judge-chutkan-musk-lawsuit-hearing-00204590",
+      "outlet": "Politico",
+      "date": "2025-02-17"
+    },
+    {
+      "title": "White House claims Elon Musk does not run DOGE in new filing",
+      "url": "https://6abc.com/post/white-house-claims-elon-musk-does-not-run-doge-new-filing/15925645",
+      "outlet": "6ABC",
+      "date": "2025-02-17"
+    }
+  ],
+  "status": "confirmed",
+  "tags": [
+    "doge",
+    "legal"
+  ],
+  "capture_lanes": [
+    "Federal Workforce Capture"
+  ],
+  "actors": []
+}

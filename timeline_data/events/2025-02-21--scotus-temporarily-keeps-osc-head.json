@@ -1,0 +1,50 @@
+{
+  "id": "2025-02-21--scotus-temporarily-keeps-osc-head",
+  "title": "Supreme Court declines to let firing of OSC chief take immediate effect",
+  "date": "2025-02-21",
+  "importance": 6,
+  "summary": "The Supreme Court temporarily kept Hampton Dellinger in place as Special Counsel pending further litigation over the president’s removal authority.",
+  "actors": [
+    "US Supreme Court",
+    "Hampton Dellinger"
+  ],
+  "tags": [
+    "courts",
+    "watchdogs"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "citations": [
+    "https://federalnewsnetwork.com/litigation/2025/02/the-supreme-court-wont-allow-trump-to-immediately-fire-head-of-whistleblower-office",
+    "https://www.reuters.com/world/us/trump-administration-turns-us-supreme-court-bid-fire-agency-head-2025-02-17"
+  ],
+  "notes": "",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "The Supreme Court won't allow Trump to immediately fire head of whistleblower office",
+      "url": "https://federalnewsnetwork.com/litigation/2025/02/the-supreme-court-wont-allow-trump-to-immediately-fire-head-of-whistleblower-office/",
+      "outlet": "Federal News Network",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Supreme Court rules that government watchdog fired by Trump may temporarily remain on the job",
+      "url": "https://www.cnn.com/2025/02/21/politics/supreme-court-trump-dellinger/index.html",
+      "outlet": "CNN",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Supreme Court punts on order that blocked Trump's firing of special counsel",
+      "url": "https://www.npr.org/2025/02/21/nx-s1-5302492/supreme-court-special-counsel-hampton-dellinger",
+      "outlet": "NPR",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Head of watchdog agency ends lawsuit to stop his firing by Trump",
+      "url": "https://www.washingtonpost.com/national-security/2025/03/06/federal-workers-special-counsel-hampton-dellinger/",
+      "outlet": "The Washington Post",
+      "date": "2025-03-06"
+    }
+  ]
+}

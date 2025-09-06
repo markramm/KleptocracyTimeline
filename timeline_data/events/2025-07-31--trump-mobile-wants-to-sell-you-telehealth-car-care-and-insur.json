@@ -1,0 +1,33 @@
+{
+  "id": "2025-07-31--trump-mobile-wants-to-sell-you-telehealth-car-care-and-insur",
+  "date": "2025-07-31",
+  "title": "Trump Mobile wants to sell you telehealth, car care and insurance",
+  "summary": "Trump Mobile, Donald Trump Jr. and Eric Trump’s venture that launched a $499 smartphone earlier this year, announced plans to also sell car insurance and telehealth services",
+  "description": "Trump Mobile, Donald Trump Jr. and Eric Trump’s venture that launched a $499 smartphone earlier this year, announced plans to also sell car insurance and telehealth services",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Eric Trump",
+    "Donald Trump",
+    "Donald Trump Jr."
+  ],
+  "tags": [
+    "kleptocracy",
+    "trump-administration"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump Mobile wants to sell you telehealth, car care and insurance",
+      "url": "https://www.reuters.com/world/us/trump-mobile-wants-sell-you-telehealth-car-care-insurance-2025-07-31/",
+      "outlet": "REUTERS",
+      "date": "2025-07-31"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2025-01-24--time-project2025-analysis",
+  "date": "2025-01-24",
+  "importance": 6,
+  "title": "Time finds early executive actions mirror Project 2025",
+  "summary": "Four days into the new term, Time magazine analysis reports nearly two-thirds of Trump's executive actions align with Project 2025 proposals, despite Trump's campaign claims he wanted \"nothing to do with Project 2025.\" Includes alignment on immigration restrictions, environmental deregulation, and Schedule F federal employee reclassification.",
+  "location": "Washington, DC",
+  "actors": [
+    "Trump Administration",
+    "Heritage Foundation",
+    "Project 2025 authors"
+  ],
+  "tags": [
+    "media-analysis",
+    "project-2025",
+    "capture-patterns",
+    "executive-orders",
+    "policy-alignment"
+  ],
+  "capture_lanes": [
+    "Executive Power & Emergency Authority"
+  ],
+  "sources": [
+    {
+      "title": "Trump's Early Actions Mirror Project 2025",
+      "url": "https://time.com/7209901/donald-trump-executive-actions-project-2025/",
+      "outlet": "Time Magazine",
+      "date": "2025-01-24"
+    },
+    {
+      "title": "Trump's Early Actions Mirror Project 2025 Plan He Once Dismissed",
+      "url": "https://www.bloomberg.com/news/articles/2025-01-24/trump-s-early-actions-mirror-project-2025-plan-he-once-dismissed",
+      "outlet": "Bloomberg",
+      "date": "2025-01-24"
+    },
+    {
+      "title": "How Donald Trump's Executive Orders Compare to Project 2025",
+      "url": "https://www.newsweek.com/donald-trump-executive-orders-project-2025-2018241",
+      "outlet": "Newsweek",
+      "date": "2025-01-24"
+    },
+    {
+      "title": "Where Trump policies and Project 2025 proposals match up",
+      "url": "https://www.cbsnews.com/news/trump-project-2025-playbook/",
+      "outlet": "CBS News",
+      "date": "2025-01-24"
+    }
+  ],
+  "notes": "Despite campaign denials, multiple news outlets documented extensive policy alignment",
+  "status": "confirmed"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2025-05-28--who-won-a-seat-at-trump-s-crypto-dinner",
+  "date": "2025-05-28",
+  "title": "Who won a seat at Trump’s crypto dinner?",
+  "summary": "Trump's crypto dinner guest list included foreign nationals, right-wing influencers, antisemites, and crypto moguls—including several facing SEC lawsuits",
+  "description": "Trump's crypto dinner guest list included foreign nationals, right-wing influencers, antisemites, and crypto moguls—including several facing SEC lawsuits",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "foreign-influence",
+    "regulatory-capture",
+    "justice-weaponization"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Who won a seat at Trump’s crypto dinner?",
+      "url": "https://www.nytimes.com/2025/05/23/us/politics/trump-crypto-dinner-attendees.html",
+      "outlet": "New York Times",
+      "date": "2025-05-28"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-28"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

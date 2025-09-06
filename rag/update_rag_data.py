@@ -4,7 +4,6 @@ Update RAG data from timeline YAML files
 Handles proper conversion and error checking
 """
 
-import yaml
 import json
 import glob
 from pathlib import Path
@@ -23,18 +22,18 @@ def convert_to_serializable(obj):
         return obj
 
 def load_timeline_events():
-    """Load all timeline events from YAML files"""
+    """Load all timeline events from JSON files"""
     events = []
     errors = []
     timeline_dir = Path(__file__).parent.parent / 'timeline_data' / 'events'
     
-    yaml_files = list(timeline_dir.glob('*.yaml'))
-    print(f"Found {len(yaml_files)} YAML files in {timeline_dir}")
+    json_files = list(timeline_dir.glob('*.json'))
+    print(f"Found {len(json_files)} JSON files in {timeline_dir}")
     
-    for file_path in yaml_files:
+    for file_path in json_files:
         try:
             with open(file_path, 'r') as f:
-                event = yaml.safe_load(f)
+                event = json.load(f)
                 if event:
                     # Convert dates and other non-serializable objects
                     event = convert_to_serializable(event)

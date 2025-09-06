@@ -1,0 +1,42 @@
+{
+  "id": "2022-06-27--trump-surveillance-footage-deletion-attempt",
+  "date": "2022-06-27",
+  "importance": 9,
+  "title": "Trump allegedly orders deletion of Mar-a-Lago surveillance footage",
+  "summary": "Carlos De Oliveira told a Trump employee in Mar-a-Lago's audio closet that \"the boss\"\nwanted the surveillance server deleted after DOJ subpoenaed footage on June 24. De Oliveira\nand Walt Nauta had inspected cameras on June 25, walking through tunnels with flashlights.\nThis alleged deletion attempt, occurring after FBI agents visited to collect classified\ndocuments, led to additional obstruction charges in the superseding indictment against\nTrump, Nauta, and De Oliveira.\n",
+  "actors": [
+    "Donald Trump",
+    "Carlos De Oliveira",
+    "Walt Nauta",
+    "Department of Justice"
+  ],
+  "tags": [
+    "obstruction-of-justice",
+    "surveillance-footage",
+    "mar-a-lago",
+    "classified-documents",
+    "criminal-conspiracy"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Trump charged with seeking to delete security footage in documents case",
+      "url": "https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment/",
+      "outlet": "Washington Post",
+      "date": "2023-07-27"
+    },
+    {
+      "title": "Trump allegedly attempted to have surveillance video deleted: Special counsel",
+      "url": "https://abcnews.go.com/US/mar-lago-staffer-charged-special-counsels-classified-documents/story?id=101741061",
+      "outlet": "ABC News",
+      "date": "2023-07-27"
+    },
+    {
+      "title": "Trump charged with trying to delete Mar-a-Lago surveillance footage in new indictment",
+      "url": "https://thehill.com/regulation/court-battles/4123941-trump-charged-with-trying-to-delete-mar-a-lago-surveillance-footage-in-new-indictment/",
+      "outlet": "The Hill",
+      "date": "2023-07-27"
+    }
+  ],
+  "notes": "De Oliveira, a 20-year Trump employee who became property manager in January 2022, asked\nabout server retention period (45 days) before requesting deletion. He later lied to FBI\nin January 2023 interview, saying he \"never saw nothing\" regarding boxes. This brought\ntotal charges against Trump to 40 counts."
+}

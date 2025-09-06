@@ -1,0 +1,42 @@
+{
+  "id": "2003-01-01--thomas-crow-yacht-trips-begin",
+  "date": "2003-01-01",
+  "importance": 7,
+  "title": "Clarence Thomas Begins Accepting Undisclosed Yacht Trips from Harlan Crow",
+  "summary": "Justice Clarence Thomas begins pattern of accepting luxury yacht vacations from billionaire GOP donor Harlan Crow without disclosure, marking start of two-decade pattern of unreported gifts worth millions",
+  "location": "Various International",
+  "actors": [
+    "Clarence Thomas",
+    "Harlan Crow",
+    "Rochelle Charter (Crow's yacht company)"
+  ],
+  "tags": [
+    "judicial-capture",
+    "supreme-court",
+    "undisclosed-gifts",
+    "ethics-violations",
+    "luxury-travel"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy",
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "How Harlan Crow Slashed his Tax Bill by Taking Clarence Thomas on Superyacht Cruises",
+      "url": "https://www.propublica.org/article/harlan-crow-slashed-tax-bill-clarence-thomas-superyacht",
+      "outlet": "ProPublica",
+      "date": "2023-08-10",
+      "archive_url": "https://web.archive.org/web/20230810000000/https://www.propublica.org/article/harlan-crow-slashed-tax-bill-clarence-thomas-superyacht"
+    },
+    {
+      "title": "Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor",
+      "url": "https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow",
+      "outlet": "ProPublica",
+      "date": "2023-04-06",
+      "archive_url": "https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow"
+    }
+  ],
+  "notes": "ProPublica data shows Crow's yacht company operated from 2003-2015, reporting $8 million in losses that helped reduce Crow's taxes. Pattern of trips continued for over 20 years.",
+  "status": "confirmed"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1976-01-01--operation-berkshire-tobacco",
+  "date": "1976-01-01",
+  "importance": 8,
+  "title": "Tobacco Industry 'Operation Berkshire' and global coordination to resist smoking regulation",
+  "summary": "Major multinational tobacco companies secretly coordinated a long-running\nstrategy to resist regulation and scientific consensus on smoking harms—an\neffort known as 'Operation Berkshire.' Internal documents and litigation\ndisclosures show executives met in the late 1970s (including a 1977 meeting\nat Shockerwick House) and subsequently created international front groups\n(ICOSI/INFOTAB) to shape policy and messaging worldwide.\n",
+  "actors": [
+    "British American Tobacco",
+    "Philip Morris",
+    "RJ Reynolds",
+    "Imperial Tobacco"
+  ],
+  "tags": [
+    "corporate-collusion",
+    "public-health",
+    "influence-operations"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Operation Berkshire: the international tobacco companies' conspiracy",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1118337",
+      "outlet": "BMJ Tobacco Control (via PMC)",
+      "date": "2003-01-01"
+    },
+    {
+      "title": "Tobacco Industry Documents Archive (UCSF) – industry plans and memos",
+      "url": "https://www.industrydocuments.ucsf.edu/tobacco/",
+      "outlet": "UCSF Truth Tobacco Industry Documents",
+      "date": "2000-01-01"
+    },
+    {
+      "title": "WHO/IARC—Tobacco industry and scientific research (Monograph excerpts)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1434157/",
+      "outlet": "WHO / IARC (via PMC)",
+      "date": "2004-01-01"
+    }
+  ],
+  "notes": "Operation Berkshire began with a December 1976 proposal by Imperial Tobacco's Tony Garrett to coordinate a \"defensive strategy\" against smoking health concerns. The conspiracy culminated in a secret June 1977 meeting at Shockerwick House where CEOs from Philip Morris, BAT, R.J. Reynolds, and other major tobacco companies agreed to create front organizations like ICOSI (later INFOTAB) to monitor anti-tobacco groups and promote scientific controversy despite internal acknowledgment of smoking's health risks. This represents an early example of corporate intelligence privatization being used to circumvent accountability structures."
+}

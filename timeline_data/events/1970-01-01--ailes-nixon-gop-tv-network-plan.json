@@ -1,0 +1,38 @@
+{
+  "id": "1970-01-01--ailes-nixon-gop-tv-network-plan",
+  "date": "1970-01-01",
+  "importance": 8,
+  "title": "Roger Ailes Creates Plan for Nixon's \"GOP TV\" Pro-Administration Network",
+  "summary": "Political consultant Roger Ailes and Nixon aides develop plan to create TV network providing \"pro-administration\" coverage, with Nixon saying they need \"our own news\" for \"brutal attack on opposition\"",
+  "location": "Washington D.C.",
+  "actors": [
+    "Roger Ailes",
+    "Richard Nixon",
+    "Nixon Administration"
+  ],
+  "tags": [
+    "media-planning",
+    "nixon-administration",
+    "conservative-media",
+    "propaganda-infrastructure",
+    "gop-tv"
+  ],
+  "sources": [
+    {
+      "title": "How Roger Ailes Built the Fox News Fear Factory",
+      "url": "https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/",
+      "outlet": "Rolling Stone",
+      "date": "2011-05-25",
+      "archive_url": "https://web.archive.org/web/20110525000000/https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/"
+    },
+    {
+      "title": "Why Fox News was created",
+      "url": "https://theweek.com/articles/880107/why-fox-news-created",
+      "outlet": "The Week",
+      "date": "2019-02-04",
+      "archive_url": "https://web.archive.org/web/20190204000000/https://theweek.com/articles/880107/why-fox-news-created"
+    }
+  ],
+  "notes": "Blueprint for what would become Fox News 26 years later. Shows long-term Republican strategy to create alternative media ecosystem. Nixon embraced idea of bypassing existing media.",
+  "status": "confirmed"
+}

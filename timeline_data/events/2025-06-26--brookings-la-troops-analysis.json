@@ -1,0 +1,55 @@
+{
+  "id": "2025-06-26--brookings-la-troops-analysis",
+  "title": "Brookings warns on legal limits of putting soldiers on Los Angeles streets",
+  "date": "2025-06-26",
+  "importance": 6,
+  "summary": "Brookings June 26, 2025, analysis warned Trump's deployment of 700 Marines and 4,000 federalized National Guard to LA violates Posse Comitatus Act. Trump invoked 10 USC §12406 (not Insurrection Act) claiming \"inherent constitutional authority\" to protect federal property. California alleged violations - Guard accompanied ICE on 75% of missions, formed security perimeters, detained civilians. Ninth Circuit accepted Trump's \"unable with regular forces\" claim despite no evidence ICE raids were thwarted.",
+  "location": "Washington, DC",
+  "actors": [
+    "Brookings Institution",
+    "Legal scholars",
+    "Department of Defense",
+    "Department of Homeland Security",
+    "Trump Administration"
+  ],
+  "tags": [
+    "analysis",
+    "civil-military",
+    "insurrection-act",
+    "posse-comitatus",
+    "legal-analysis",
+    "domestic-deployment",
+    "constitutional-law"
+  ],
+  "citations": [
+    "https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles"
+  ],
+  "notes": "OLC claims Posse Comitatus doesn't apply when protecting federal property, but courts say PCA triggered when troops subject civilians to \"regulatory, prescriptive, or compulsory\" military power. No court has addressed if §12406 allows Guard law enforcement. Ninth Circuit applied \"extremely deferential standard\" in Trump's favor. Newsom sued alleging PCA violations. Brennan Center: deployment \"legally dubious.\" Rolling Stone: \"Absolutely unprecedented.\" Key legal questions remain unanswered.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "How can the president put soldiers on the streets of Los Angeles?",
+      "url": "https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles",
+      "outlet": "Brookings Institution",
+      "date": "2025-06-26"
+    },
+    {
+      "title": "What to Know About the Los Angeles Military Deployment",
+      "url": "https://www.brennancenter.org/our-work/research-reports/what-know-about-los-angeles-military-deployment",
+      "outlet": "Brennan Center for Justice",
+      "date": "2025-06-25"
+    },
+    {
+      "title": "Is Donald Trump's Troop Deployment to Los Angeles Legal?",
+      "url": "https://www.rollingstone.com/politics/politics-features/trump-troop-deployment-los-angeles-is-it-legal-1235364017/",
+      "outlet": "Rolling Stone",
+      "date": "2025-06-10"
+    },
+    {
+      "title": "5 things to know as Newsom and Trump go back to court over the National Guard in LA",
+      "url": "https://calmatters.org/justice/2025/08/newsom-vs-trump-national-guard/",
+      "outlet": "CalMatters",
+      "date": "2025-08-11"
+    }
+  ]
+}

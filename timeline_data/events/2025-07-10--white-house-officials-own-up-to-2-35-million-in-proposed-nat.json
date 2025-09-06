@@ -1,0 +1,38 @@
+{
+  "id": "2025-07-10--white-house-officials-own-up-to-2-35-million-in-proposed-nat",
+  "date": "2025-07-10",
+  "title": "White House officials own up to $2.35 million in proposed national crypto reserve assets",
+  "summary": "19 White House officials own up to $2.35 million in some of the same cryptocurrency assets Trump has proposed using to create a national crypto reserve, which would further inflate their value",
+  "description": "19 White House officials own up to $2.35 million in some of the same cryptocurrency assets Trump has proposed using to create a national crypto reserve, which would further inflate their value",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "White House officials own up to $2.35 million in proposed national crypto reserve assets",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/white-house-officials-own-up-to-2-35-million-in-proposed-national-crypto-reserve-assets/",
+      "outlet": "Citizens for Ethics",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-07-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

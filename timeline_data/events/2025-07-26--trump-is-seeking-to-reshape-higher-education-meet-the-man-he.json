@@ -1,0 +1,38 @@
+{
+  "id": "2025-07-26--trump-is-seeking-to-reshape-higher-education-meet-the-man-he",
+  "date": "2025-07-26",
+  "title": "Trump is seeking to reshape higher education. Meet the man he wants leading the charge",
+  "summary": "Trump’s pick for Under Secretary of the Department of Education, Nicholas Kent, has deep ties to the for-profit college industry–a frequent target of the department for fraud investigations",
+  "description": "Trump’s pick for Under Secretary of the Department of Education, Nicholas Kent, has deep ties to the for-profit college industry–a frequent target of the department for fraud investigations",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Trump is seeking to reshape higher education. Meet the man he wants leading the charge",
+      "url": "https://www.usatoday.com/story/news/investigations/2025/07/26/trump-education-department-nicholas-kent-under-secretary/85243626007/?tbref=hp",
+      "outlet": "USA Today",
+      "date": "2025-07-26"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-07-26"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2025-07-02--trump-s-finances-were-shaky-then-he-began-to-capitalize-on-h",
+  "date": "2025-07-02",
+  "title": "Trump’s finances were shaky. Then he began to capitalize on his comeback",
+  "summary": "Trump has increased his net worth by billions of dollars through business deals he made since returning to office—though his financials were in dire straits just last year under the weight of massive civil penalties and liabilities",
+  "description": "Trump has increased his net worth by billions of dollars through business deals he made since returning to office—though his financials were in dire straits just last year under the weight of massive civil penalties and liabilities",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump’s finances were shaky. Then he began to capitalize on his comeback",
+      "url": "https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html",
+      "outlet": "New York Times",
+      "date": "2025-07-02"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "High-priority kleptocratic event from comprehensive timeline."
+}

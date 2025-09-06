@@ -1,0 +1,37 @@
+{
+  "id": "2025-02-10--the-recruitment-effort-that-helped-build-elon-musk-s-doge-ar",
+  "date": "2025-02-10",
+  "title": "The recruitment effort that helped build Elon Musk’s DOGE army",
+  "summary": "New reports reveal that Musk recruited engineers from Palantir, SpaceX, and Thiel-affiliated networks via private Discord servers and online chat groups",
+  "description": "New reports reveal that Musk recruited engineers from Palantir, SpaceX, and Thiel-affiliated networks via private Discord servers and online chat groups",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "The recruitment effort that helped build Elon Musk’s DOGE army",
+      "url": "https://www.wired.com/story/elon-musk-doge-recruiting-palantir/",
+      "outlet": "Wired",
+      "date": "2025-02-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

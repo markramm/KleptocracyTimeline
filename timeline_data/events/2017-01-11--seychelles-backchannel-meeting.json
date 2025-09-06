@@ -1,0 +1,49 @@
+{
+  "id": "2017-01-11--seychelles-backchannel-meeting",
+  "date": "2017-01-11",
+  "importance": 5,
+  "title": "Erik Prince Establishes Kremlin Backchannel in Seychelles Meeting with Putin Ally",
+  "summary": "Erik Prince, founder of military contractor Blackwater and brother of Education Secretary Betsy DeVos, met with Putin ally Kirill Dmitriev in Seychelles to establish back channel between incoming Trump administration and Kremlin. George Nader told Dmitriev that Prince \"is designated by Steve [Bannon] to meet you!\" Meeting used private military contractor rather than official diplomatic channels for sensitive international negotiations. Separately, Kushner asked Russian Ambassador Kislyak if they could communicate using secure facilities at Russian Embassy, proposing to bypass U.S. intelligence entirely.",
+  "location": "Seychelles",
+  "actors": [
+    "Erik Prince",
+    "Kirill Dmitriev",
+    "George Nader",
+    "Steve Bannon",
+    "Jared Kushner",
+    "Sergey Kislyak"
+  ],
+  "tags": [
+    "backchannel",
+    "privatization",
+    "diplomatic_bypass",
+    "russian_connections",
+    "blackwater",
+    "kleptocracy"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Mueller Report Volume I: Prince and Dmitriev Meet in the Seychelles",
+      "url": "https://www.justice.gov/archives/sco/file/1373816/download",
+      "outlet": "Department of Justice",
+      "date": "2019-04-18"
+    },
+    {
+      "title": "Blackwater founder held secret Seychelles meeting to establish Trump-Putin back channel",
+      "url": "https://www.washingtonpost.com/world/national-security/blackwater-founder-held-secret-seychelles-meeting-to-establish-trump-putin-back-channel/2017/04/03/95908a08-1648-11e7-ada0-1489b735b3a3_story.html",
+      "outlet": "The Washington Post",
+      "date": "2017-04-03"
+    },
+    {
+      "title": "Kushner wanted secret communications channel with Kremlin",
+      "url": "https://www.reuters.com/article/us-usa-trump-russia-kushner-idUSKBN18M0CN",
+      "outlet": "Reuters",
+      "date": "2017-05-26"
+    }
+  ],
+  "notes": "Classic function privatization moving sensitive operations outside public accountability. Russian Ambassador reportedly \"taken aback\" by Kushner proposal to use Russian diplomatic facilities, bypassing all U.S. oversight."
+}

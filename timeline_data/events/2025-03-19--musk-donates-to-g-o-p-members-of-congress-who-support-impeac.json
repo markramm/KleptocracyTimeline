@@ -1,0 +1,37 @@
+{
+  "id": "2025-03-19--musk-donates-to-g-o-p-members-of-congress-who-support-impeac",
+  "date": "2025-03-19",
+  "title": "Musk donates to G.O.P. members of Congress who support impeaching judges",
+  "summary": "Elon Musk donated to GOP lawmakers backing judicial impeachments",
+  "description": "Elon Musk donated to GOP lawmakers backing judicial impeachments",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Musk donates to G.O.P. members of Congress who support impeaching judges",
+      "url": "https://www.nytimes.com/2025/03/19/us/politics/musk-donations-congress-judges.html",
+      "outlet": "New York Times",
+      "date": "2025-03-19"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-19"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

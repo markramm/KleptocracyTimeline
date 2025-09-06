@@ -1,0 +1,32 @@
+{
+  "id": "1999-01-01--trump-launches-model-management-agency-with-system",
+  "date": "1999-01-01",
+  "importance": 7,
+  "title": "Trump Launches Model Management Agency with Systematic Visa Violations",
+  "summary": "Donald Trump founds Trump Model Management (originally T Models), which would bring approximately 250 international models to the United States. Investigative reporting later revealed systematic H-1B visa fraud, with models instructed to lie to customs officials and work illegally on tourist visas. Models were charged $1,200-1,600 per month for bunk beds in overcrowded apartments while working without proper authorization.",
+  "actors": [
+    "Donald Trump",
+    "Trump Model Management"
+  ],
+  "tags": [
+    "corruption",
+    "exploitation",
+    "immigration",
+    "labor-violations"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Donald Trump's modeling agency broke immigration laws, attorneys say",
+      "url": "https://money.cnn.com/2016/03/10/news/trump-model-visas/index.html",
+      "outlet": "CNN Money",
+      "date": "2016-03-10"
+    },
+    {
+      "title": "Former Models for Donald Trump's Agency Say They Violated Immigration Rules",
+      "url": "https://www.motherjones.com/politics/2016/08/donald-trump-model-management-illegal-immigration/",
+      "outlet": "Mother Jones",
+      "date": "2016-08-30"
+    }
+  ]
+}

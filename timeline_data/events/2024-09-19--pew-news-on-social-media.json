@@ -1,0 +1,35 @@
+{
+  "date": "2024-09-19",
+  "importance": 5,
+  "title": "Pew Research: News on social media in 2024",
+  "summary": "Pew documents the share of U.S. adults who regularly get news via social media platforms and the platform mix.",
+  "tags": [
+    "media",
+    "news-consumption",
+    "platforms",
+    "research"
+  ],
+  "citations": [
+    "https://www.pewresearch.org/short-reads/2024/09/17/more-americans-regularly-get-news-on-tiktok-especially-young-adults"
+  ],
+  "id": "2024-09-19--pew-news-on-social-media",
+  "actors": [],
+  "notes": "",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "More Americans – especially young adults – are regularly getting news on TikTok",
+      "url": "https://www.pewresearch.org/short-reads/2024/09/17/more-americans-regularly-get-news-on-tiktok-especially-young-adults",
+      "outlet": "Pew Research Center",
+      "date": "2024-09-17",
+      "archive_url": "https://web.archive.org/web/20240918000000*/https://www.pewresearch.org/short-reads/2024/09/17/more-americans-regularly-get-news-on-tiktok-especially-young-adults/"
+    },
+    {
+      "title": "Social Media and News Fact Sheet, 2024",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet",
+      "outlet": "Pew Research Center",
+      "date": "2024-09-19",
+      "archive_url": "https://web.archive.org/web/20240920000000*/https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/"
+    }
+  ]
+}

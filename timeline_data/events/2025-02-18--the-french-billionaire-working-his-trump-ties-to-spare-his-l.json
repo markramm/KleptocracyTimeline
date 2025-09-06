@@ -1,0 +1,50 @@
+{
+  "id": "2025-02-18--the-french-billionaire-working-his-trump-ties-to-spare-his-l",
+  "date": "2025-02-18",
+  "title": "The French billionaire working his Trump ties to spare his luxury empire",
+  "summary": "Bernard Arnault, head of LVMH, is using decades-old personal and business ties with Trump to fend off steep tariffs on European luxury goods",
+  "description": "Bernard Arnault, head of LVMH, is using decades-old personal and business ties with Trump to fend off steep tariffs on European luxury goods",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "The French billionaire working his Trump ties to spare his luxury empire",
+      "url": "https://www.wsj.com/business/retail/trump-bernard-arnault-lvmh-relationship-971a8454?mod=latest_headlines",
+      "outlet": "Wall Street Journal",
+      "date": "2025-02-18"
+    },
+    {
+      "title": "What Bernard Arnault's optimism for the U.S. could mean for LVMH's position under 'tariff man' Trump",
+      "url": "https://fortune.com/europe/2025/01/29/bernard-arnault-us-lvmh-expansion-donald-trump/",
+      "outlet": "Fortune",
+      "date": "2025-01-29"
+    },
+    {
+      "title": "Trump hosts LVMH boss as tariffs threaten luxury goods",
+      "url": "https://us.fashionnetwork.com/news/Trump-hosts-lvmh-boss-as-tariffs-threaten-luxury-goods,1727808.html",
+      "outlet": "Fashion Network",
+      "date": "2025-05-07"
+    },
+    {
+      "title": "Louis Vuitton LVMH owner Bernard Arnault loses $1.6 billion in one day on Trump's French tariffs threat",
+      "url": "https://www.cbsnews.com/news/louis-vuitton-lvmh-owner-bernard-arnault-loses-1-6-billion-on-proposed-trump-tariffs/",
+      "outlet": "CBS News",
+      "date": "2025-04-02"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "High-priority kleptocratic event from comprehensive timeline."
+}

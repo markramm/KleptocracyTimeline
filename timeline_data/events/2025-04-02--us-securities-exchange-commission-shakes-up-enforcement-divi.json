@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-02--us-securities-exchange-commission-shakes-up-enforcement-divi",
+  "date": "2025-04-02",
+  "title": "US securities exchange commission shakes up enforcement division, exams unit",
+  "summary": "The SEC is restructuring its enforcement and examination divisions, consolidating oversight under new deputy directors and slashing senior reporting lines",
+  "description": "The SEC is restructuring its enforcement and examination divisions, consolidating oversight under new deputy directors and slashing senior reporting lines",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "US securities exchange commission shakes up enforcement division, exams unit",
+      "url": "https://www.reuters.com/world/us/us-securities-exchange-commission-restructures-enforcement-division-memo-says-2025-04-02/",
+      "outlet": "REUTERS",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-02"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

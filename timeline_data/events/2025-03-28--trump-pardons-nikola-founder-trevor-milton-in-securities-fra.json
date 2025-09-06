@@ -1,0 +1,39 @@
+{
+  "id": "2025-03-28--trump-pardons-nikola-founder-trevor-milton-in-securities-fra",
+  "date": "2025-03-28",
+  "title": "Trump pardons Nikola founder Trevor Milton in securities fraud case",
+  "summary": "Trump pardons Nikola founder Trevor Milton in securities fraud case after Milton donated $1.8M to Trump's 2024 re-election campaign",
+  "description": "Trump pardons Nikola founder Trevor Milton in securities fraud case after Milton donated $1.8M to Trump's 2024 re-election campaign",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "pardons",
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Trump pardons Nikola founder Trevor Milton in securities fraud case",
+      "url": "https://www.cnbc.com/2025/03/28/trump-pardons-nikola-trevor-milton-ceo-securities-fraud-electric-vehicle.html",
+      "outlet": "CNBC",
+      "date": "2025-03-28"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-28"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,67 @@
+{
+  "id": "2025-08-25--trump-fires-lisa-cook-fed-independence",
+  "date": "2025-08-25",
+  "title": "Trump Fires Fed Governor Lisa Cook Over Mortgage Fraud Claims, Shattering Central Bank Independence",
+  "summary": "Trump unprecedentedly fires Federal Reserve Governor Lisa Cook based on Pulte's mortgage fraud allegations, breaking 111-year tradition of Fed independence and triggering constitutional crisis over presidential power.",
+  "description": "President Trump sends letter firing Federal Reserve Governor Lisa Cook, citing William Pulte's mortgage fraud allegations as cause. This unprecedented action shatters central bank independence - Fed governors can only be removed for proven malfeasance, not unproven allegations. Cook, the first Black woman on Fed Board, immediately sues Trump, stating \"no cause exists under the law\" and refusing to resign. Markets react negatively to attack on Fed independence. Trump's action follows Fed's refusal to cut interest rates as he demands. Constitutional scholars call this direct assault on separation of powers, as Federal Reserve Act requires actual cause for removal, not politically motivated accusations.",
+  "importance": 10,
+  "tags": [
+    "donald-trump",
+    "lisa-cook",
+    "federal-reserve",
+    "central-bank-independence",
+    "constitutional-crisis",
+    "separation-of-powers",
+    "political-persecution",
+    "racial-targeting",
+    "monetary-policy",
+    "rule-of-law"
+  ],
+  "actors": [
+    "donald-trump",
+    "lisa-cook",
+    "william-pulte",
+    "federal-reserve",
+    "department-of-justice"
+  ],
+  "capture_lane": "constitutional",
+  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "Fox Business",
+      "date": "2025-08-25",
+      "url": "https://www.foxbusiness.com/politics/trump-removes-federal-reserve-governor-lisa-cook-from-office-citing-fraud-allegations",
+      "title": "Trump removes Federal Reserve Governor Lisa Cook from office"
+    },
+    {
+      "outlet": "CNBC",
+      "date": "2025-08-25",
+      "url": "https://www.cnbc.com/2025/08/25/trump-fires-lisa-cook-fed-powell.html",
+      "title": "Trump fires Fed Governor Lisa Cook, cites mortgage fraud claim"
+    },
+    {
+      "outlet": "Washington Post",
+      "date": "2025-08-25",
+      "url": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
+      "title": "Trump moves to fire Federal Reserve governor Cook over fraud allegations"
+    },
+    {
+      "outlet": "CNN Business",
+      "date": "2025-08-28",
+      "url": "https://www.cnn.com/2025/08/28/economy/fed-lisa-cook-lawsuit",
+      "title": "Fed Governor Lisa Cook sues to challenge Trump's attempt to fire her"
+    }
+  ],
+  "connections": [
+    "2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor",
+    "2025-08-20--pulte-mortgage-fraud-campaign-against-democrats",
+    "2022-05-10--lisa-cook-confirmed-fed"
+  ],
+  "patterns": [
+    "central-bank-capture",
+    "constitutional-breakdown",
+    "racial-targeting",
+    "rule-of-law-erosion"
+  ],
+  "notes": "This represents most direct assault on Federal Reserve independence in its 111-year history. No president has ever fired a Fed governor without proven cause. Cook's firing based on unproven allegations from political appointee Pulte establishes precedent for removing any Fed official who opposes presidential policies. Raymond James warns markets viewing this \"attack on Fed independence negatively, amplifying uncertainty.\" Cook's status as first Black woman Fed governor adds racial dimension to targeting. Constitutional crisis as Federal Reserve Act clearly requires actual malfeasance for removal, not politically motivated accusations."
+}

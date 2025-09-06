@@ -1,0 +1,45 @@
+{
+  "id": "2025-07-21--administration-defying-35-percent-court-orders",
+  "date": "2025-07-21",
+  "importance": 10,
+  "title": "Trump Administration Defying 35% of Court Orders, Unprecedented Constitutional Crisis",
+  "summary": "Washington Post analysis finds Trump administration accused of defying or frustrating court oversight in 57 of 165 cases where judges ruled against them, unprecedented 35% noncompliance rate marking end of judicial review",
+  "location": "United States",
+  "actors": [
+    "Trump Administration",
+    "Federal Courts",
+    "Department of Justice",
+    "Federal agencies"
+  ],
+  "tags": [
+    "court-defiance",
+    "constitutional-crisis",
+    "rule-of-law",
+    "judicial-authority",
+    "democracy-breakdown",
+    "authoritarian-governance"
+  ],
+  "capture_lanes": [
+    "Constitutional & Democratic Breakdown",
+    "Executive Power & Emergency Authority",
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "Trump accused of defying about a third of major court orders since taking office",
+      "url": "https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/",
+      "outlet": "Washington Post",
+      "date": "2025-07-21",
+      "archive_url": "https://web.archive.org/web/20250721000000/https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/"
+    },
+    {
+      "title": "Trump Admin Refuses to Abide by 1 in 3 Court Rulings Against Its Policies",
+      "url": "https://truthout.org/articles/trump-white-house-refuses-to-abide-by-1-in-3-court-orders-made-against-them/",
+      "outlet": "Truthout",
+      "date": "2025-07-22",
+      "archive_url": "https://web.archive.org/web/20250722000000/https://truthout.org/articles/trump-white-house-refuses-to-abide-by-1-in-3-court-orders-made-against-them/"
+    }
+  ],
+  "notes": "Analysis of 337 lawsuits found 165 adverse rulings, 57 defied. Experts call unprecedented. Immigration orders most ignored. 72% of voters concerned, 52% call it abuse of power. Courts become advisory bodies without enforcement mechanism.",
+  "status": "confirmed"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-22--trump-linked-lobbyists-are-having-a-hopping-good-time",
+  "date": "2025-04-22",
+  "title": "Trump-linked lobbyists are having a hopping good time",
+  "summary": "Trump-affiliated lobbying firms like Ballard Partners and Mercury Public Affairs posted massive Q1 profits, fueled by a surge of clients seeking influence in his second term – including organizations targeted by the administration and those looking for tariff carve outs",
+  "description": "Trump-affiliated lobbying firms like Ballard Partners and Mercury Public Affairs posted massive Q1 profits, fueled by a surge of clients seeking influence in his second term – including organizations targeted by the administration and those looking for tariff carve outs",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Trump-linked lobbyists are having a hopping good time",
+      "url": "https://www.motherjones.com/politics/2025/04/ballard-trump-lobbying-disclosures-wiles-bondi/",
+      "outlet": "Mother Jones",
+      "date": "2025-04-22"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-22"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

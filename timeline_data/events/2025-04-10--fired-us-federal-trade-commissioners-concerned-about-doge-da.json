@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-10--fired-us-federal-trade-commissioners-concerned-about-doge-da",
+  "date": "2025-04-10",
+  "title": "Fired US Federal Trade Commissioners concerned about DOGE data access",
+  "summary": "Recently fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya sounded the alarm over Elon Musk’s operatives gaining potential access to confidential merger files and nonpublic business data–which could be exploited to manipulate markets or benefit Musk’s companies",
+  "description": "Recently fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya sounded the alarm over Elon Musk’s operatives gaining potential access to confidential merger files and nonpublic business data–which could be exploited to manipulate markets or benefit Musk’s companies",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "title": "Fired US Federal Trade Commissioners concerned about DOGE data access",
+      "url": "https://www.reuters.com/world/us/fired-us-federal-trade-commissioners-concerned-about-doge-data-access-2025-04-10/",
+      "outlet": "REUTERS",
+      "date": "2025-04-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

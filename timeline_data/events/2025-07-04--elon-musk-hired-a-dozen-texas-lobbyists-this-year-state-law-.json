@@ -1,0 +1,37 @@
+{
+  "id": "2025-07-04--elon-musk-hired-a-dozen-texas-lobbyists-this-year-state-law-",
+  "date": "2025-07-04",
+  "title": "Elon Musk hired a dozen Texas lobbyists this year. State law keeps the extent of their influence under wraps",
+  "summary": "Elon Musk hired a small army of lobbyists in Texas to push legislation favorable to his companies–namely SpaceX, Tesla, and X Corp–including getting permission to increase rocket launches at SpaceX’s South Texas facility",
+  "description": "Elon Musk hired a small army of lobbyists in Texas to push legislation favorable to his companies–namely SpaceX, Tesla, and X Corp–including getting permission to increase rocket launches at SpaceX’s South Texas facility",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Elon Musk hired a dozen Texas lobbyists this year. State law keeps the extent of their influence und",
+      "url": "https://www.propublica.org/article/elon-musk-texas-lobbyists-influence-law",
+      "outlet": "ProPublica",
+      "date": "2025-07-04"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-07-04"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

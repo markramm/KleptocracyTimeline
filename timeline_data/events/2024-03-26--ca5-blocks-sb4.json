@@ -1,0 +1,43 @@
+{
+  "date": "2024-03-26",
+  "importance": 5,
+  "title": "Fifth Circuit re-blocks Texas SB 4 pending appeal",
+  "summary": "The Fifth Circuit Court of Appeals issued a 2-1 ruling keeping Texas SB 4 on hold, with Chief Judge Richman citing Supreme Court precedent that immigration control is \"exclusively a federal power\".",
+  "tags": [
+    "appeals",
+    "fifth-circuit",
+    "immigration"
+  ],
+  "capture_lanes": [
+    "Immigration & Border Militarization"
+  ],
+  "citations": [
+    "https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html"
+  ],
+  "id": "2024-03-26--ca5-blocks-sb4",
+  "location": "New Orleans, LA",
+  "actors": [
+    "Fifth Circuit Court of Appeals",
+    "Chief Judge Priscilla Richman",
+    "State of Texas",
+    "Biden Administration"
+  ],
+  "notes": "",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "United States v. Texas, No. 24-50149 (5th Cir. 2024)",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html",
+      "outlet": "Fifth Circuit Court of Appeals via Justia",
+      "date": "2024-03-26",
+      "archive_url": "https://web.archive.org/web/20240327000000*/https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html"
+    },
+    {
+      "title": "Appeals court keeps Texas' SB 4 migrant arrest law on hold",
+      "url": "https://www.texastribune.org/2024/03/27/fifth-circuit-texas-immigration-law",
+      "outlet": "Texas Tribune",
+      "date": "2024-03-27",
+      "archive_url": "https://web.archive.org/web/20240328000000*/https://www.texastribune.org/2024/03/27/fifth-circuit-texas-immigration-law/"
+    }
+  ]
+}

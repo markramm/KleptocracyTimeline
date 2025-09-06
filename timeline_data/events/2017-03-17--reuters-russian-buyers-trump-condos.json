@@ -1,0 +1,42 @@
+{
+  "id": "2017-03-17--reuters-russian-buyers-trump-condos",
+  "date": "2017-03-17",
+  "importance": 8,
+  "title": "Reuters finds Russians paid $98.4 million for Trump-branded Florida condos",
+  "summary": "Reuters investigation revealed at least 63 Russian nationals invested $98.4 million in\nTrump-branded properties in South Florida, primarily in Sunny Isles Beach. The buyers\npurchased units at Trump Grande, Trump Towers, and Trump Hollywood, with about one-third\nof all units owned through LLCs that mask true ownership. Most purchases were all-cash\ntransactions over $1 million each, and owners didn't declare these assets in Russia,\nfitting patterns associated with money laundering though no illegality was proven.\n",
+  "actors": [
+    "Donald Trump",
+    "Trump Organization",
+    "Russian buyers",
+    "Reuters"
+  ],
+  "tags": [
+    "russian-money",
+    "real-estate",
+    "money-laundering",
+    "sunny-isles-beach",
+    "shell-companies"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Russians paid $98.4M for units at Trump-branded South Florida condos",
+      "url": "https://therealdeal.com/miami/2017/03/19/russians-reportedly-paid-98-4m-for-units-at-trump-branded-condos-in-south-florida/",
+      "outlet": "The Real Deal",
+      "date": "2017-03-19"
+    },
+    {
+      "title": "These Russian Oligarchs Are Making Donald Trump Rich",
+      "url": "https://www.newsweek.com/trump-russia-oligarchs-real-estate-florida-715733",
+      "outlet": "Newsweek",
+      "date": "2017-11-21"
+    },
+    {
+      "title": "Secret Money: How Trump Made Millions Selling Condos To Unknown Buyers",
+      "url": "https://www.buzzfeednews.com/article/thomasfrank/secret-money-how-trump-made-millions-selling-condos-to",
+      "outlet": "BuzzFeed News",
+      "date": "2018-01-12"
+    }
+  ],
+  "notes": "Investigation examined seven Trump-branded towers in South Florida. Found 703 of 2,044\nunits (one-third) owned by LLCs. Sunny Isles Beach, nicknamed \"Little Moscow,\" has the\nhighest concentration of Russian-born residents in the U.S. All buyers investigated were\nlegal; none on sanctions lists."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2025-06-03--firings-pardons-and-policy-changes-have-gutted-doj-anti-corr",
+  "date": "2025-06-03",
+  "title": "Firings, pardons and policy changes have gutted DOJ anti-corruption efforts, experts say",
+  "summary": "Mass firings at the FBI and DOJ, the gutting of DOJ's anti-corruption efforts, and pardoning nearly every GOP lawmaker convicted of a felony the past 15 years have stalled the enforcement of corruption, bribery, and white-collar fraud laws",
+  "description": "Mass firings at the FBI and DOJ, the gutting of DOJ's anti-corruption efforts, and pardoning nearly every GOP lawmaker convicted of a felony the past 15 years have stalled the enforcement of corruption, bribery, and white-collar fraud laws",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "pardons",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Firings, pardons and policy changes have gutted DOJ anti-corruption efforts, experts say",
+      "url": "https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571",
+      "outlet": "NBC News",
+      "date": "2025-06-03"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-03"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

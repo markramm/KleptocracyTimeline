@@ -1,0 +1,37 @@
+{
+  "id": "2025-03-28--fdic-says-banks-can-engage-in-crypto-activities-without-prio",
+  "date": "2025-03-28",
+  "title": "FDIC says banks can engage in crypto activities without prior approval",
+  "summary": "The FDIC announced banks can engage in crypto activities without prior approval",
+  "description": "The FDIC announced banks can engage in crypto activities without prior approval",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "FDIC says banks can engage in crypto activities without prior approval",
+      "url": "https://www.reuters.com/business/finance/fdic-says-banks-can-engage-crypto-activities-without-prior-approval-2025-03-28/",
+      "outlet": "REUTERS",
+      "date": "2025-03-28"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-28"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2025-02-21--coinbase-says-sec-intends-to-drop-lawsuit-against-crypto-exc",
+  "date": "2025-02-21",
+  "title": "Coinbase says SEC intends to drop lawsuit against crypto exchange",
+  "summary": "The SEC intends to dismiss its two-year lawsuit against Coinbase—a key part of its effort to regulate crypto as a stock exchange",
+  "description": "The SEC intends to dismiss its two-year lawsuit against Coinbase—a key part of its effort to regulate crypto as a stock exchange",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "regulatory-capture",
+    "justice-weaponization"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Coinbase says SEC intends to drop lawsuit against crypto exchange",
+      "url": "https://www.wsj.com/finance/regulation/coinbase-says-sec-intends-to-drop-lawsuit-against-crypto-exchange-4b3b0c36",
+      "outlet": "Wall Street Journal",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-21"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

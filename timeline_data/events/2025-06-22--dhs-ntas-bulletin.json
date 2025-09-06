@@ -1,0 +1,44 @@
+{
+  "date": "2025-06-22",
+  "importance": 6,
+  "title": "DHS issues National Terrorism Advisory System bulletin",
+  "summary": "DHS Secretary Noem issues NTAS bulletin on heightened threats from US involvement in Israel-Iran conflict. Warns of Iranian cyber attacks, plots against US officials since 2020, potential religious rulings inspiring violence. Bulletin expires Sept 22, 2025. Cites FTO calls for attacks on US targets.",
+  "tags": [
+    "dhs",
+    "ntas",
+    "threat-assessment"
+  ],
+  "citations": [
+    "https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025"
+  ],
+  "id": "2025-06-22--dhs-ntas-bulletin",
+  "actors": [],
+  "notes": "Threats include Iranian hacktivists targeting poorly secured networks, plots against officials for 2020 Soleimani killing, FTO calls (Hamas, Hezbollah, Houthis, PFLP) for attacks on US assets. Warns of hate crimes against Jewish/pro-Israel targets. Public urged to report suspicious activity to FBI/Fusion Centers.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "National Terrorism Advisory System Bulletin - June 22, 2025",
+      "url": "https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025",
+      "outlet": "Department of Homeland Security",
+      "date": "2025-06-22"
+    },
+    {
+      "title": "DHS Issues National Terrorism Advisory System Bulletin Amid Israel-Iran Conflict",
+      "url": "https://www.dhs.gov/news/2025/06/22/dhs-issues-national-terrorism-advisory-system-bulletin-amid-israel-iran-conflict",
+      "outlet": "DHS News",
+      "date": "2025-06-22"
+    },
+    {
+      "title": "June 22, 2025 - National Terrorism Advisory System Bulletin",
+      "url": "https://campusadvisories.gwu.edu/june-22-2025-national-terrorism-advisory-system-bulletin",
+      "outlet": "George Washington University",
+      "date": "2025-06-22"
+    },
+    {
+      "title": "DHS Issues National Terrorism Advisory System Bulletin Amid Israel-Iran Conflict",
+      "url": "https://homelandsecurity.iowa.gov/partner-news/2025-06-23/dhs-issues-national-terrorism-advisory-system-bulletin-amid-israel-iran-conflict",
+      "outlet": "Iowa Homeland Security",
+      "date": "2025-06-23"
+    }
+  ]
+}

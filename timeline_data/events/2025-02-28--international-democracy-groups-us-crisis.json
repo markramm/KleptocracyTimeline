@@ -1,0 +1,38 @@
+{
+  "id": "2025-02-28--international-democracy-groups-us-crisis",
+  "date": "2025-02-28",
+  "importance": 5,
+  "title": "Multiple international democracy research groups declare U.S. in democratic crisis",
+  "summary": "Leading international democracy monitoring organizations including Freedom House, V-Dem Institute, and International IDEA issue coordinated warnings about rapid U.S. democratic deterioration, citing executive overreach, judicial capture, and civic space restrictions.",
+  "location": "International",
+  "actors": [
+    "Freedom House",
+    "V-Dem Institute",
+    "International IDEA",
+    "Varieties of Democracy Project",
+    "United States"
+  ],
+  "tags": [
+    "democracy-crisis",
+    "international-monitoring",
+    "democratic-backsliding",
+    "global-assessment",
+    "coordinated-warning"
+  ],
+  "sources": [
+    {
+      "title": "International democracy groups sound alarm on Trump's U.S.",
+      "url": "https://www.cbc.ca/news/world/trump-democracy-report-1.7486317",
+      "outlet": "CBC News",
+      "date": "2025-02-28"
+    },
+    {
+      "title": "Democracy research groups issue joint warning on U.S.",
+      "url": "https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus",
+      "outlet": "The Guardian",
+      "date": "2025-03-09"
+    }
+  ],
+  "notes": "First time multiple international democracy organizations have issued coordinated warnings about U.S. democratic health",
+  "status": "confirmed"
+}

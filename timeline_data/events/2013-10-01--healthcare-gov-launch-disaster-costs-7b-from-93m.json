@@ -1,0 +1,43 @@
+{
+  "id": "2013-10-01--healthcare-gov-launch-disaster-costs-7b-from-93m",
+  "date": "2013-10-01",
+  "importance": 7,
+  "title": "Healthcare.gov Launch Disaster Costs $1.7B from $93M Contract",
+  "summary": "The Healthcare.gov launch on October 1, 2013 became one of the most expensive government IT failures in history, with costs ballooning from an initial $93.7 million CGI Federal contract to over $1.7 billion total. The site crashed within minutes of launch, with only 6 people successfully enrolling on day one. Of 4.7 million unique visitors in the first day, 99% could not create accounts. CGI Federal, a Canadian company with a history of failures, received the no-bid contract through a small business program loophole. After two months of dysfunction, Accenture replaced CGI at additional cost. State exchanges in Oregon, Nevada, Maryland, and Hawaii failed completely despite receiving $305 million, $75 million, $193 million, and $205 million respectively. Oregon never enrolled a single person online. The disaster demonstrated massive government contracting incompetence, with contractors profiting from failure while millions couldn't access healthcare. GAO found inadequate oversight and testing throughout.",
+  "actors": [
+    "CGI Federal",
+    "Healthcare.gov",
+    "HHS",
+    "CMS",
+    "Accenture",
+    "Oregon"
+  ],
+  "tags": [
+    "healthcare",
+    "it-failure",
+    "government-contracting",
+    "obamacare",
+    "waste"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Healthcare.gov costs exceed $1.7 billion",
+      "url": "https://www.bloomberg.com/news/articles/2014-09-24/obamacare-website-costs-exceed-2-billion-study-finds",
+      "outlet": "Bloomberg",
+      "date": "2014-09-24"
+    },
+    {
+      "title": "6 enrolled on first day of Healthcare.gov",
+      "url": "https://www.washingtonpost.com/national/health-science/six-people-signed-up-for-obamacare-on-launch-day/2013/10/31/",
+      "outlet": "Washington Post",
+      "date": "2013-10-31"
+    },
+    {
+      "title": "Oregon's $305 million exchange failure",
+      "url": "https://www.politico.com/story/2015/04/oregon-obamacare-website-never-worked-117395",
+      "outlet": "Politico",
+      "date": "2015-04-28"
+    }
+  ]
+}

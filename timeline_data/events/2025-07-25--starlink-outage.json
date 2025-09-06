@@ -1,0 +1,33 @@
+{
+  "date": "2025-07-25",
+  "importance": 6,
+  "title": "Starlink global outage disrupts connectivity worldwide",
+  "summary": "Multiple outlets report a global Starlink outage attributed to a network change, impacting users worldwide.",
+  "tags": [
+    "infrastructure",
+    "outage",
+    "spacecomms"
+  ],
+  "citations": [
+    "https://www.reuters.com/technology/space-exploration/elon-musk-says-starlink-suffers-global-outage-2025-07-25",
+    "https://broadbandbreakfast.com/2025/07/starlink-outage"
+  ],
+  "id": "2025-07-25--starlink-outage",
+  "actors": [],
+  "notes": "",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Elon Musk says Starlink suffers global outage",
+      "url": "https://www.reuters.com/technology/space-exploration/elon-musk-says-starlink-suffers-global-outage-2025-07-25",
+      "outlet": "Reuters",
+      "date": "2025-07-25"
+    },
+    {
+      "title": "Starlink Outage Report",
+      "url": "https://broadbandbreakfast.com/2025/07/starlink-outage",
+      "outlet": "Broadband Breakfast",
+      "date": "2025-07-25"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "2025-08-26--ssa-data-breach-whistleblower-complaint",
+  "date": "2025-08-26",
+  "importance": 10,
+  "title": "Whistleblower reports DOGE exposed 300 million Americans' Social Security data",
+  "summary": "SSA Chief Data Officer Charles Borges filed a whistleblower complaint alleging DOGE\nemployees, including 19-year-old Ed \"Big Balls\" Coristine, created an unsecured copy\nof the NUMIDENT database containing Social Security numbers, names, birthdates, and\ncitizenship data for 300+ million Americans on a vulnerable cloud server. SSA cybersecurity\nofficials called it \"very high risk\" and discussed possibly reissuing Social Security\nnumbers to all Americans if breached.\n",
+  "actors": [
+    "Charles Borges",
+    "Ed Coristine",
+    "John Solly",
+    "DOGE",
+    "Social Security Administration"
+  ],
+  "tags": [
+    "data-breach",
+    "whistleblower",
+    "social-security",
+    "cybersecurity",
+    "national-security"
+  ],
+  "status": "reported",
+  "sources": [
+    {
+      "title": "Whistleblower says DOGE put Social Security numbers at risk",
+      "url": "https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy",
+      "outlet": "NPR",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "Social Security official says DOGE compromised Americans' data",
+      "url": "https://www.washingtonpost.com/politics/2025/08/26/social-security-data-cloud-whistleblower/",
+      "outlet": "Washington Post",
+      "date": "2025-08-26"
+    },
+    {
+      "title": "DOGE put Americans' Social Security records at risk, whistleblower says",
+      "url": "https://www.cnn.com/2025/08/26/politics/doge-social-security-records-whistleblower",
+      "outlet": "CNN",
+      "date": "2025-08-26"
+    }
+  ],
+  "notes": "The NUMIDENT database includes all information from Social Security card applications.\nOn June 10, 2025, former DOGE employee John Solly requested the database copy to a\nprivate cloud. Borges warned of potential widespread identity theft and loss of health\ncare and food benefits if breached. SSA claimed data remains secure."
+}

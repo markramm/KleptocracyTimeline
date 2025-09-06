@@ -1,0 +1,44 @@
+{
+  "date": "2025-06-18",
+  "importance": 6,
+  "title": "State Department announces expanded screening and vetting for visa applicants",
+  "summary": "State Department mandates F/M/J visa applicants set all social media profiles to public for comprehensive vetting of 'entire online presence.' Review expanded to include terrorism indicators and antisemitic content. Posts given 5 days to implement. Processing delays expected from thorough screening requirements.",
+  "tags": [
+    "screening",
+    "state-dept",
+    "visas"
+  ],
+  "citations": [
+    "https://www.state.gov/releases/office-of-the-spokesperson/2025/06/announcement-of-expanded-screening-and-vetting-for-visa-applicants"
+  ],
+  "id": "2025-06-18--state-expanded-screening",
+  "actors": [],
+  "notes": "Applicants must set privacy to public on all accounts. Officers conduct temporary refusal until compliance. Vetting includes terrorism support and antisemitic content. Social media details required since 2019, but this tightens procedures. Inconsistent implementation noted in July with some embassies not yet reopening slots.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Announcement of Expanded Screening and Vetting for Visa Applicants",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/06/announcement-of-expanded-screening-and-vetting-for-visa-applicants/",
+      "outlet": "U.S. Department of State",
+      "date": "2025-06-18"
+    },
+    {
+      "title": "State Department Orders U.S. Embassies to Begin Expanded Social Media Screening for Student Visa Applicants",
+      "url": "https://www.visalawyerblog.com/breaking-department-of-state-orders-u-s-embassies-and-consulates-to-begin-expanded-social-media-screening-for-student-visa-applicants-starting-with-harvard/",
+      "outlet": "Visa Lawyer Blog",
+      "date": "2025-06-02"
+    },
+    {
+      "title": "Department of State Announces New Screening and Vetting Requirements for F, J, and M Visas",
+      "url": "https://natlawreview.com/article/department-state-announces-new-screening-and-vetting-requirements-f-j-and-m-visas",
+      "outlet": "National Law Review",
+      "date": "2025-06-19"
+    },
+    {
+      "title": "State Department Unveils Student and Exchange Visitor Visa Social Media Vetting Guidance",
+      "url": "https://www.cupahr.org/resource/state-department-unveils-student-and-exchange-visitor-visa-social-media-vetting-guidance-2025-06-24/",
+      "outlet": "CUPA-HR",
+      "date": "2025-06-24"
+    }
+  ]
+}

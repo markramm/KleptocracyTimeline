@@ -1,0 +1,35 @@
+{
+  "id": "2025-07-18--schedule-g-unlimited-appointments",
+  "date": "2025-07-18",
+  "importance": 9,
+  "title": "Executive Order creates 'Schedule G' for non-career policy-making/advocating positions",
+  "summary": "On July 17, 2025, the White House issued an executive order creating\n'Schedule G' in the excepted service for noncareer policy-making or\npolicy-advocating positions. OPM guidance states these appointees require\nWhite House review and generally depart with the appointing President.\nSupporters call it a fix for a 'gap' in hiring authorities; critics warn it\nerodes merit protections and expands political hiring.\n",
+  "tags": [
+    "civil-service",
+    "politicization-risk",
+    "schedule-g"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Creating Schedule G in the Excepted Service (Executive Order)",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/07/creating-schedule-g-in-the-excepted-service/",
+      "outlet": "White House",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "OPM Guidance on Executive Order Creating Schedule G",
+      "url": "https://www.opm.gov/policy-data-oversight/latest-memos/guidance-on-executive-order-creating-schedule-g-in-the-excepted-service/",
+      "outlet": "U.S. Office of Personnel Management",
+      "date": "2025-07-29"
+    },
+    {
+      "title": "'Schedule G' broadens scope for agencies to hire political appointees (coverage)",
+      "url": "https://federalnewsnetwork.com/workforce/2025/07/trumps-schedule-g-broadens-scope-for-agencies-to-hire-political-appointees/",
+      "outlet": "Federal News Network",
+      "date": "2025-07-18"
+    }
+  ],
+  "notes": "Use the EO and OPM memo as primary; media summaries provide context. Where\ncounts differ, present official guidance alongside independent analyses.\n",
+  "actors": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2025-05-29--trump-nominates-a-former-far-right-podcast-host-to-head-an-e",
+  "date": "2025-05-29",
+  "title": "Trump nominates a former far-right podcast host to head an ethics watchdog",
+  "summary": "Trump nominated 30-year old political loyalist Paul Ingrassia to lead the Office of Special Counsel, which examines public corruption",
+  "description": "Trump nominated 30-year old political loyalist Paul Ingrassia to lead the Office of Special Counsel, which examines public corruption",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "ethics-violations"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump nominates a former far-right podcast host to head an ethics watchdog",
+      "url": "https://www.nytimes.com/2025/05/29/us/politics/ingrassia-office-special-counsel.html",
+      "outlet": "New York Times",
+      "date": "2025-05-29"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-29"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

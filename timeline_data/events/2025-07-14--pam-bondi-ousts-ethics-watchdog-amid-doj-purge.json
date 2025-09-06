@@ -1,0 +1,39 @@
+{
+  "id": "2025-07-14--pam-bondi-ousts-ethics-watchdog-amid-doj-purge",
+  "date": "2025-07-14",
+  "title": "Pam Bondi ousts ethics watchdog amid DOJ purge",
+  "summary": "Attorney General Pam Bondi fired the Department of Justice ethics director–who was in charge of guiding officials on how to navigate conflicts of interest",
+  "description": "Attorney General Pam Bondi fired the Department of Justice ethics director–who was in charge of guiding officials on how to navigate conflicts of interest",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "ethics-violations",
+    "justice-weaponization"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "title": "Pam Bondi ousts ethics watchdog amid DOJ purge",
+      "url": "https://www.axios.com/2025/07/14/pam-bondi-fires-ethics-chief-doj-purge",
+      "outlet": "Axios",
+      "date": "2025-07-14"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-07-14"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

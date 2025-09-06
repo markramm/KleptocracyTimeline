@@ -1,0 +1,41 @@
+{
+  "id": "2002-02-14--bush-valentine-day-massacre-fires-two-inspector-ge",
+  "date": "2002-02-14",
+  "importance": 6,
+  "title": "Bush Valentine Day Massacre Fires Two Inspector Generals",
+  "summary": "President Bush fired two experienced Inspector Generals on Valentine's Day 2002 in what became known as the 'Valentine's Day Massacre,' undermining federal oversight independence. Louise Jordan, Inspector General at Corporation for National and Community Service, and Roberta Gross, NASA Inspector General with 7 years experience battling cost overruns, were both dismissed on February 14, 2002. The firings were handled so poorly they appeared to be personal or political payback, creating lasting concerns about political interference with oversight functions. Bush's broader approach involved systematic appointment of political loyalists rather than mass firings—a 2004 House Government Reform Committee report found 43 Bush-appointed inspectors general had highly politicized backgrounds, with over 60% having prior political experience compared to less than 25% under Clinton. More than one-third had worked in the Bush White House. The 2002 firings sent a clear intimidation message to other IGs about political interference, effectively undermining inspector general independence for the remainder of the administration. The scandal ultimately led to enhanced protections in the Inspector General Reform Act of 2008, requiring 30-day Congressional notice for IG removals.",
+  "actors": [
+    "George W. Bush",
+    "Louise Jordan",
+    "Roberta Gross",
+    "Sean O'Keefe",
+    "Congress"
+  ],
+  "tags": [
+    "inspector-general",
+    "oversight-destruction",
+    "valentines-day-massacre",
+    "political-interference"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Off With Their Heads",
+      "url": "https://www.brookings.edu/articles/off-with-their-heads/",
+      "outlet": "Brookings Institution",
+      "date": "2002-04-01"
+    },
+    {
+      "title": "Report alleges politicized appointments to inspector general positions",
+      "url": "https://www.govexec.com/federal-news/2004/10/report-alleges-politicized-appointments-to-inspector-general-positions/18434/",
+      "outlet": "Government Executive",
+      "date": "2004-10-14"
+    },
+    {
+      "title": "Inspector General Reform Act of 2008",
+      "url": "https://www.congress.gov/110/plaws/publ409/PLAW-110publ409.pdf",
+      "outlet": "U.S. Congress",
+      "date": "2008-10-14"
+    }
+  ]
+}

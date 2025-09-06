@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-10",
+  "importance": 8,
+  "title": "Executive Order pauses Foreign Corrupt Practices Act enforcement for 180 days",
+  "summary": "President Trump issued an executive order on February 10, 2025, pausing Foreign Corrupt Practices Act (FCPA) enforcement for 180 days. The order halts all DOJ and SEC investigations and prosecutions of U.S. companies for bribing foreign officials, pending new guidelines that will \"prioritize American economic and national security interests.\" This effectively legalizes foreign bribery by U.S. corporations during the pause period.",
+  "tags": [
+    "doj",
+    "executive-order",
+    "fcpa",
+    "foreign-bribery",
+    "corruption",
+    "regulatory-rollback",
+    "corporate-crime"
+  ],
+  "capture_lanes": [
+    "Executive Power & Emergency Authority",
+    "Financial Corruption & Kleptocracy"
+  ],
+  "citations": [
+    "https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security",
+    "https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10"
+  ],
+  "id": "2025-02-10--executive-order-fcpa-pause",
+  "actors": [
+    "Donald Trump",
+    "Department of Justice",
+    "Securities and Exchange Commission",
+    "U.S. corporations"
+  ],
+  "notes": "This unprecedented pause in anti-corruption enforcement allows U.S. companies to engage in foreign bribery without consequence for six months. Combined with June 9 DOJ guidelines narrowing enforcement, represents systematic dismantling of anti-corruption law.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Executive Actions Archive",
+      "url": "https://www.whitehouse.gov/presidential-actions",
+      "outlet": "White House",
+      "date": "2025-01-20",
+      "archive_url": "https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/"
+    },
+    {
+      "title": "Trump to loosen enforcement of U.S. law banning bribery of foreign officials",
+      "url": "https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10",
+      "outlet": "Reuters",
+      "date": "2025-02-10"
+    }
+  ]
+}

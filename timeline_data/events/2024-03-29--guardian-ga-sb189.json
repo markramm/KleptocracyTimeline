@@ -1,0 +1,38 @@
+{
+  "date": "2024-03-29",
+  "importance": 5,
+  "title": "Georgia lawmakers make it easier to challenge voter registrations (SB 189)",
+  "summary": "Reporting details how Georgia’s SB 189 facilitates mass challenges to voter eligibility, raising risks of erroneous removals and administrative burden.",
+  "tags": [
+    "elections",
+    "georgia",
+    "legislation",
+    "voter-challenges"
+  ],
+  "capture_lanes": [
+    "Election System Attack"
+  ],
+  "citations": [
+    "https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co"
+  ],
+  "id": "2024-03-29--guardian-ga-sb189",
+  "actors": [],
+  "notes": "",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Georgia lawmakers pass new election rules that could impact 2024 presidential contest",
+      "url": "https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co",
+      "outlet": "NPR",
+      "date": "2024-03-29",
+      "archive_url": "https://web.archive.org/web/20240330000000*/https://www.npr.org/2024/03/29/1241573064/georgia-lawmakers-pass-new-election-rules-that-could-impact-2024-presidential-co"
+    },
+    {
+      "title": "New Georgia Law Spurs Bogus Challenges to Voter Eligibility",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility",
+      "outlet": "Brennan Center for Justice",
+      "date": "2024-07-09",
+      "archive_url": "https://web.archive.org/web/20240710000000*/https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility"
+    }
+  ]
+}

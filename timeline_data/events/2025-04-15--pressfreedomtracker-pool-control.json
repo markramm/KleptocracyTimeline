@@ -1,0 +1,43 @@
+{
+  "date": "2025-04-15",
+  "importance": 5,
+  "title": "Press Freedom Tracker: White House wrests control of press pool structure",
+  "summary": "The U.S. Press Freedom Tracker documented on April 15, 2025, how the White House wrested control of the presidential press pool from journalists, eliminating the permanent wire service position days after a court ordered restoration of AP access. This unprecedented move allows the administration to hand-pick which journalists cover the president, ending decades of independent press pool composition controlled by the White House Correspondents' Association.",
+  "tags": [
+    "media-access",
+    "press-freedom",
+    "white-house"
+  ],
+  "capture_lanes": [
+    "Information & Media Control"
+  ],
+  "citations": [
+    "https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents",
+    "https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions"
+  ],
+  "id": "2025-04-15--pressfreedomtracker-pool-control",
+  "location": "Washington, DC",
+  "actors": [
+    "White House",
+    "U.S. Press Freedom Tracker",
+    "White House Correspondents' Association (WHCA)",
+    "Associated Press",
+    "Trump Administration"
+  ],
+  "notes": "This restructuring came immediately after losing the April 8 court case over AP access, demonstrating the administration's determination to control media coverage despite judicial orders. First time in modern history the executive branch seized control of press pool composition.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "White House wrests control of presidential press pool from correspondents",
+      "url": "https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents",
+      "outlet": "U.S. Press Freedom Tracker",
+      "date": "2025-04-15"
+    },
+    {
+      "title": "Statement on WH changes to wire pool positions",
+      "url": "https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions",
+      "outlet": "White House Correspondents' Association",
+      "date": "2025-04-15"
+    }
+  ]
+}

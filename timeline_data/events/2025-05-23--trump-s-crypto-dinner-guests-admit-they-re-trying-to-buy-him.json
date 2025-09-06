@@ -1,0 +1,37 @@
+{
+  "id": "2025-05-23--trump-s-crypto-dinner-guests-admit-they-re-trying-to-buy-him",
+  "date": "2025-05-23",
+  "title": "Trump’s crypto dinner guests admit they’re trying to buy him off",
+  "summary": "Attendees of Trump’s memecoin dinner sweepstakes admitted their investments are part of their attempt to influence the president",
+  "description": "Attendees of Trump’s memecoin dinner sweepstakes admitted their investments are part of their attempt to influence the president",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump’s crypto dinner guests admit they’re trying to buy him off",
+      "url": "https://newrepublic.com/post/195708/trump-crypto-dinner-guests",
+      "outlet": "New Republic",
+      "date": "2025-05-23"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-23"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

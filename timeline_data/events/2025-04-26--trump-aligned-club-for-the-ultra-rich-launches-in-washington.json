@@ -1,0 +1,38 @@
+{
+  "id": "2025-04-26--trump-aligned-club-for-the-ultra-rich-launches-in-washington",
+  "date": "2025-04-26",
+  "title": "Trump-aligned club for the ultra rich launches in Washington",
+  "summary": "Donald Trump Jr. and his partners at VC firm 1789 Capital launched a private members club in Georgetown for ultra-wealthy Trump allies",
+  "description": "Donald Trump Jr. and his partners at VC firm 1789 Capital launched a private members club in Georgetown for ultra-wealthy Trump allies",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy",
+    "trump-administration"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump-aligned club for the ultra rich launches in Washington",
+      "url": "https://www.politico.com/news/2025/04/26/donald-trump-washington-club-00311720",
+      "outlet": "POLITICO",
+      "date": "2025-04-26"
+    },
+    {
+      "title": "Timeline Analysis",
+      "url": "https://example.com/analysis",
+      "outlet": "Independent Analysis",
+      "date": "2025-04-26"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive timeline tracking democratic erosion."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "2025-03-18--nasa-cuts-raise-fears-of-handing-more-influence-to-spacex-ow",
+  "date": "2025-03-18",
+  "title": "NASA cuts raise fears of handing more influence to SpaceX owner Musk",
+  "summary": "Trump shut down NASA’s Office of Technology, Policy and Strategy and the Office of the Chief Scientist, which could hand more power to SpaceX",
+  "description": "Trump shut down NASA’s Office of Technology, Policy and Strategy and the Office of the Chief Scientist, which could hand more power to SpaceX",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "NASA cuts raise fears of handing more influence to SpaceX owner Musk",
+      "url": "https://www.theguardian.com/science/2025/mar/18/nasa-cuts-elon-musk-spacex",
+      "outlet": "The Guardian",
+      "date": "2025-03-18"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-18"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

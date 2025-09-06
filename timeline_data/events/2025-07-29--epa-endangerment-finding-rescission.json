@@ -1,0 +1,47 @@
+{
+  "id": "2025-07-29--epa-endangerment-finding-rescission",
+  "title": "EPA Proposes Rescinding GHG Endangerment Finding and Vehicle Standards",
+  "date": "2025-07-29",
+  "importance": 6,
+  "summary": "EPA proposed July 29, 2025, rescinding 2009 Endangerment Finding underpinning all U.S. greenhouse gas regulations. Administrator Zeldin called it \"largest deregulatory action in history,\" saving $54 billion annually. Proposal claims CAA Section 202(a) doesn't authorize climate regulations, questions scientific record. Comment period through Sept 22, virtual hearings Aug 19-21.",
+  "location": "Washington DC",
+  "actors": [
+    "Environmental Protection Agency (EPA)",
+    "Lee Zeldin (EPA Administrator)"
+  ],
+  "tags": [
+    "environmental-deregulation",
+    "epa",
+    "greenhouse-gas",
+    "endangerment-finding",
+    "vehicle-standards"
+  ],
+  "notes": "Proposal advances 3 arguments: 1) CAA Section 202(a) doesn't authorize climate standards 2) 2009 Finding unreasonably analyzed science 3) No vehicle tech can meaningfully address climate without greater harm. D.C. Circuit upheld finding in 2023, SCOTUS refused to hear case. Would eliminate legal basis for all EPA GHG regulations if finalized. Major environmental deregulation targeting foundational climate rule.",
+  "sources": [
+    {
+      "title": "EPA Releases Proposal to Rescind Obama-Era Endangerment Finding",
+      "url": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way",
+      "outlet": "EPA",
+      "date": "2025-07-29"
+    },
+    {
+      "title": "The EPA proposes gutting its greenhouse gas rules. Here's what it means for cars and pollution",
+      "url": "https://www.npr.org/2025/07/29/nx-s1-5463771/epa-greenhouse-gas-regulations-cars-pollution",
+      "outlet": "NPR",
+      "date": "2025-07-29"
+    },
+    {
+      "title": "EPA to revoke 'endangerment finding,' landmark basis for regulating greenhouse gases",
+      "url": "https://www.cbsnews.com/news/epa-revoke-endangerment-finding-regulating-greenhouse-gases/",
+      "outlet": "CBS News",
+      "date": "2025-07-29"
+    },
+    {
+      "title": "Reconsideration of 2009 Endangerment Finding and Greenhouse Gas Vehicle Standards",
+      "url": "https://www.federalregister.gov/documents/2025/08/01/2025-14572/reconsideration-of-2009-endangerment-finding-and-greenhouse-gas-vehicle-standards",
+      "outlet": "Federal Register",
+      "date": "2025-08-01"
+    }
+  ],
+  "status": "confirmed"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2013-01-01--intelligence-budget-70-percent-private",
+  "date": "2013-01-01",
+  "importance": 6,
+  "title": "70% of $80 billion intelligence budget goes to private contractors",
+  "summary": "Snowden revelations in 2013 exposed that 70% of the $52.6 billion \"black budget\" went to private contractors. One in four intelligence workers was a contractor, with firms like Booz Allen Hamilton among 1,900 companies supplying tens of thousands of analysts. Post-9/11, intelligence budget grew 250% by 2010. Government officials confirmed in 2008 that 70% of intelligence spending went to private sector.",
+  "location": "United States",
+  "actors": [
+    "Intelligence Community",
+    "Private contractors",
+    "Edward Snowden",
+    "Booz Allen Hamilton",
+    "NSA",
+    "Ronald Sanders (Associate DNI)"
+  ],
+  "tags": [
+    "intelligence-privatization",
+    "private-contractors",
+    "snowden-revelations",
+    "shadow-governance",
+    "black-budget",
+    "post-911-expansion",
+    "booz-allen-hamilton"
+  ],
+  "sources": [
+    {
+      "title": "Leaked Documents Reveal Budget Breakdown Between CIA, NSA",
+      "url": "https://www.npr.org/templates/story/story.php?storyId=216924337",
+      "outlet": "NPR",
+      "date": "2013-08-29",
+      "archive_url": "https://web.archive.org/web/20250814000000/https://www.npr.org/templates/story/story.php?storyId=216924337"
+    },
+    {
+      "title": "Booz Allen Hamilton: 70% of the U.S. Intelligence Budget Goes to Private Contractors",
+      "url": "https://www.mic.com/articles/48845/booz-allen-hamilton-70-of-the-u-s-intelligence-budget-goes-to-private-contractors",
+      "outlet": "Mic",
+      "date": "2013-06-11"
+    },
+    {
+      "title": "Black budget summary details U.S. spy network's successes, failures and objectives",
+      "url": "https://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/7e57bb78-10ab-11e3-8cdd-bcdc09410972_story.html",
+      "outlet": "Washington Post",
+      "date": "2013-08-29"
+    },
+    {
+      "title": "Private contractors play key role in U.S. intelligence work",
+      "url": "https://www.seattletimes.com/nation-world/private-contractors-play-key-role-in-us-intelligence-work/",
+      "outlet": "Seattle Times",
+      "date": "2013-06-10"
+    }
+  ],
+  "notes": "Scale of privatization enables operations outside democratic oversight. Ronald Sanders, associate DNI for human capital, confirmed in 2008 briefing that 70% of intelligence budget goes to private sector. Never before have so many U.S. intelligence workers been hired so quickly or given access to secret government information through networked computers.",
+  "status": "confirmed"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2024-07-30--paul-dans-departs-project-2025",
+  "date": "2024-07-30",
+  "importance": 6,
+  "title": "Paul Dans departs as Project 2025 director amid campaign controversy",
+  "summary": "Paul Dans departed as Project 2025 director on July 30, 2024, amid Trump campaign pressure to distance from the Heritage Foundation blueprint. The departure followed campaign concerns about the project becoming a political liability, though Russell Vought later claimed Trump privately supports the work. Dans also left his position at Heritage Foundation around the same time, with later allegations of professional misconduct emerging, though the policy phase of Project 2025 was largely complete.",
+  "location": "Washington, DC",
+  "actors": [
+    "Paul Dans",
+    "Kevin Roberts",
+    "Heritage Foundation",
+    "Donald Trump",
+    "Russell Vought"
+  ],
+  "tags": [
+    "project-2025",
+    "heritage-foundation",
+    "campaign-strategy",
+    "political-distancing"
+  ],
+  "capture_lanes": [
+    "Corporate Capture & Regulatory Breakdown",
+    "Executive Power & Emergency Authority"
+  ],
+  "sources": [
+    {
+      "title": "Project 2025 director leaves Heritage Foundation",
+      "url": "https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation",
+      "outlet": "PBS NewsHour",
+      "date": "2024-07-30",
+      "verified": true,
+      "verified_date": "2025-08-18",
+      "archive_url": "https://web.archive.org/web/20240731000000*/https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation"
+    },
+    {
+      "title": "Heritage Foundation Says Project 2025 Director Was Fired for Professional Misconduct",
+      "url": "https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout",
+      "outlet": "National Review",
+      "date": "2024-08-03",
+      "verified": true,
+      "archive_url": "https://web.archive.org/web/20240804000000*/https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout/"
+    }
+  ],
+  "notes": "Departure coincided with Trump campaign's public distancing from Project 2025 despite private support. Dans had been with Heritage Foundation since 2021 and led the policy development phase which was nearly complete by July 2024. Later misconduct allegations emerged but were separate from the departure reasons.",
+  "status": "confirmed"
+}

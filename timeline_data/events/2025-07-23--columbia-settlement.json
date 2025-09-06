@@ -1,0 +1,34 @@
+{
+  "date": "2025-07-23",
+  "importance": 6,
+  "title": "Columbia University announces settlement with federal government",
+  "summary": "Columbia agrees to pay $200M over three years to the federal government and $21M to resolve EEOC claims; settlement includes policy and oversight requirements.",
+  "tags": [
+    "monitoring",
+    "settlement",
+    "title-vi",
+    "universities"
+  ],
+  "citations": [
+    "https://president.columbia.edu/news/resolution-federal-investigations-and-restoration-universitys-research-funding",
+    "https://www.whitehouse.gov/fact-sheets/2025/07/19853"
+  ],
+  "id": "2025-07-23--columbia-settlement",
+  "actors": [],
+  "notes": "",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Resolution of Federal Investigations and Restoration of the University's Research Funding",
+      "url": "https://president.columbia.edu/news/resolution-federal-investigations-and-restoration-universitys-research-funding",
+      "outlet": "Columbia University",
+      "date": "2025-07-23"
+    },
+    {
+      "title": "White House Fact Sheet on Columbia Settlement",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/07/19853",
+      "outlet": "White House",
+      "date": "2025-07-23"
+    }
+  ]
+}

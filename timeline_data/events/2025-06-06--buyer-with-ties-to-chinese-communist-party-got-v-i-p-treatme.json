@@ -1,0 +1,38 @@
+{
+  "id": "2025-06-06--buyer-with-ties-to-chinese-communist-party-got-v-i-p-treatme",
+  "date": "2025-06-06",
+  "title": "Buyer with ties to Chinese Communist Party got V.I.P. treatment at Trump crypto dinner",
+  "summary": "He Tianying, a Chinese tech executive and adviser to a Communist Party-linked body, purchased $3.7 million worth of Trump's memecoin to earn a private dinner with the president—despite his crackdown on Chinese nationals",
+  "description": "He Tianying, a Chinese tech executive and adviser to a Communist Party-linked body, purchased $3.7 million worth of Trump's memecoin to earn a private dinner with the president—despite his crackdown on Chinese nationals",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Buyer with ties to Chinese Communist Party got V.I.P. treatment at Trump crypto dinner",
+      "url": "https://www.nytimes.com/2025/06/06/us/politics/trump-crypto-dinner-china-he-tianying.html",
+      "outlet": "New York Times",
+      "date": "2025-06-06"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-06-06"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2025-05-06--us-sec-s-new-chief-says-15-of-staff-have-left-contract-cuts-",
+  "date": "2025-05-06",
+  "title": "US SEC's new chief says 15% of staff have left, contract cuts to come, sources say",
+  "summary": "The chairman of the SEC confirmed that 15% of the financial sector watchdog agency has been purged by the Trump administration, with more to come",
+  "description": "The chairman of the SEC confirmed that 15% of the financial sector watchdog agency has been purged by the Trump administration, with more to come",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "title": "US SEC's new chief says 15% of staff have left, contract cuts to come, sources say",
+      "url": "https://www.reuters.com/business/world-at-work/us-secs-new-chief-says-15-staff-have-left-contract-cuts-come-sources-say-2025-05-06/",
+      "outlet": "REUTERS",
+      "date": "2025-05-06"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-06"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

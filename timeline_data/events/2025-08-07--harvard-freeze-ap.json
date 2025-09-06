@@ -1,0 +1,43 @@
+{
+  "date": "2025-08-07",
+  "importance": 6,
+  "title": "AP: Harvard scientists warn multi-billion research freeze could cause lasting damage",
+  "summary": "Trump administration froze $2.2B grants plus $60M contracts to Harvard after university rejected federal demands. 46% of public health budget affected, researchers laying off staff, decades of research shelved. Harvard filed federal lawsuit alleging retaliation campaign.",
+  "tags": [
+    "funding-freeze",
+    "universities"
+  ],
+  "citations": [
+    "https://apnews.com/article/32c1ae9dc542897496974a85aaa07b85"
+  ],
+  "id": "2025-08-07--harvard-freeze-ap",
+  "actors": [],
+  "notes": "Freeze began April 2025 after Harvard refused administration demands. 7th elite college targeted, 6 of 7 Ivy League. $110M NIH grants halted since Feb. $60M tuberculosis consortium interrupted. Harvard filed lawsuit claiming constitutional violations. Part of $11B cuts to 24+ institutions.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Harvard scientists warn multi-billion research freeze could cause lasting damage",
+      "url": "https://apnews.com/article/32c1ae9dc542897496974a85aaa07b85",
+      "outlet": "AP News",
+      "date": "2025-08-07"
+    },
+    {
+      "title": "Trump administration freezes $2.2 billion in grants to Harvard",
+      "url": "https://hsph.harvard.edu/news/trump-administration-freezes-2-2-billion-in-grants-to-harvard/",
+      "outlet": "Harvard T.H. Chan School of Public Health",
+      "date": "2025-04-15"
+    },
+    {
+      "title": "Funding freeze could set research back years, Harvard scientists say",
+      "url": "https://www.pbs.org/newshour/science/funding-freeze-could-set-research-back-years-harvard-scientists-say",
+      "outlet": "PBS NewsHour",
+      "date": "2025-04-16"
+    },
+    {
+      "title": "Trump admin freezes billions in funding to Harvard University after rejecting demands",
+      "url": "https://abcnews.go.com/US/harvard-university-rejects-trump-administrations-demands-risking-billions/story?id=120799115",
+      "outlet": "ABC News",
+      "date": "2025-04-15"
+    }
+  ]
+}

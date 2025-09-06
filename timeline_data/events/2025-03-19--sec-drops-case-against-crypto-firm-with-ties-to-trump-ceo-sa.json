@@ -1,0 +1,38 @@
+{
+  "id": "2025-03-19--sec-drops-case-against-crypto-firm-with-ties-to-trump-ceo-sa",
+  "date": "2025-03-19",
+  "title": "SEC drops case against crypto firm with ties to Trump, CEO says",
+  "summary": "SEC dropped its case against Ripple Labs, a cryptocurrency firm whose CEO, Brad Garlinghouse, has close ties to Trump",
+  "description": "SEC dropped its case against Ripple Labs, a cryptocurrency firm whose CEO, Brad Garlinghouse, has close ties to Trump",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "SEC drops case against crypto firm with ties to Trump, CEO says",
+      "url": "https://abcnews.go.com/US/sec-drops-case-crypto-firm-ties-trump-ceo/story?id=119963257",
+      "outlet": "ABC News",
+      "date": "2025-03-19"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-19"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

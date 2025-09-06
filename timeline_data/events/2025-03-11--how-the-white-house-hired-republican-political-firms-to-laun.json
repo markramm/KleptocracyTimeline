@@ -1,0 +1,38 @@
+{
+  "id": "2025-03-11--how-the-white-house-hired-republican-political-firms-to-laun",
+  "date": "2025-03-11",
+  "title": "How the White House hired Republican political firms to launch an anti-migrant ad campaign",
+  "summary": "The Department of Homeland Security bypassed standard competitive bidding procedures to award two Republican-linked firms the first contracts of a $200 million television ad campaign promoting Trump’s immigration policies",
+  "description": "The Department of Homeland Security bypassed standard competitive bidding procedures to award two Republican-linked firms the first contracts of a $200 million television ad campaign promoting Trump’s immigration policies",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "How the White House hired Republican political firms to launch an anti-migrant ad campaign",
+      "url": "https://apnews.com/article/dhs-immigration-award-republican-ad-campaign-e7939619195791493e828dfd20604d65",
+      "outlet": "Associated Press",
+      "date": "2025-03-11"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-11"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

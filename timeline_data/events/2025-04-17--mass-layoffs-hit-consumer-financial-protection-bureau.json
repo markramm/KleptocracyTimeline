@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-17--mass-layoffs-hit-consumer-financial-protection-bureau",
+  "date": "2025-04-17",
+  "title": "Mass layoffs hit Consumer Financial Protection Bureau",
+  "summary": "The Trump administration sent layoff notices to up to 1,500 CFPB staff, gutting the agency",
+  "description": "The Trump administration sent layoff notices to up to 1,500 CFPB staff, gutting the agency",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Mass layoffs hit Consumer Financial Protection Bureau",
+      "url": "https://www.nytimes.com/2025/04/17/us/politics/consumer-financial-protection-bureau-layoffs.html",
+      "outlet": "New York Times",
+      "date": "2025-04-17"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-17"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

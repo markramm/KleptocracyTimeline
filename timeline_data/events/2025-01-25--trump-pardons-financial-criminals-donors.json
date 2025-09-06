@@ -1,0 +1,37 @@
+{
+  "id": "2025-01-25--trump-pardons-financial-criminals-donors",
+  "date": "2025-01-25",
+  "title": "Trump pardons financial criminals including wire fraud convict and money launderers",
+  "summary": "President Trump issued pardons to multiple financial criminals in his first week, including a Trump loyalist convicted of wire fraud, a corporation fined $100 million for money laundering violations, and the son of a longtime Republican donor. The pardons extended to Rod Blagojevich who had been convicted of corruption charges for attempting to sell Barack Obama's Senate seat. These pardons established a pattern of using presidential clemency power to protect financial criminals connected to Trump's political network.",
+  "importance": 8,
+  "tags": [
+    "pardons",
+    "financial-crimes",
+    "money-laundering",
+    "wire-fraud",
+    "corruption",
+    "rod-blagojevich",
+    "clemency"
+  ],
+  "actors": [
+    "Donald Trump",
+    "Rod Blagojevich",
+    "Financial criminals",
+    "Republican donors"
+  ],
+  "sources": [
+    {
+      "title": "Warren Details Trump's Pardons for Financial Criminals",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration",
+      "outlet": "Senator Warren's Office",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Trump Issues Wave of Pardons to Financial Crime Convicts",
+      "url": "https://www.reuters.com/legal/trump-pardons-financial-criminals-2025-01-25/",
+      "outlet": "Reuters",
+      "date": "2025-01-25"
+    }
+  ],
+  "status": "confirmed"
+}

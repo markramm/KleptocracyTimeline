@@ -1,0 +1,44 @@
+{
+  "id": "2005-12-16--nyt-reveals-bush-nsa-warrantless-surveillance-prog",
+  "date": "2005-12-16",
+  "importance": 9,
+  "title": "NYT Reveals Bush NSA Warrantless Surveillance Program",
+  "summary": "The New York Times revealed the Bush administration's secret warrantless surveillance program, exposing massive domestic spying without court approval. The President's Surveillance Program (codenamed 'Stellar Wind') began October 4, 2001, allowing NSA to monitor international phone calls and emails involving U.S. persons without FISA court warrants. The program surveilled up to 500 people simultaneously, requiring only 'reasonable basis' rather than 'probable cause' for targeting Americans. NSA collected telephone and internet metadata, conducted data mining of communications and financial transactions, and bypassed the Foreign Intelligence Surveillance Act established in 1978. The Bush administration justified the program using presidential war powers and the 2001 Authorization for Use of Military Force. Only 8 members of Congress were briefed on the program's existence. Justice Department attorney Thomas Tamm leaked the program to reporters James Risen and Eric Lichtblau, who won the 2006 Pulitzer Prize. The revelation sparked intense debate about executive power versus civil liberties, leading to the FISA Amendments Act of 2008 granting retroactive immunity to telecommunications companies.",
+  "actors": [
+    "George W. Bush",
+    "NSA",
+    "Michael Hayden",
+    "Alberto Gonzales",
+    "James Risen",
+    "Eric Lichtblau",
+    "Thomas Tamm"
+  ],
+  "tags": [
+    "nsa-surveillance",
+    "warrantless-spying",
+    "fisa-bypass",
+    "civil-liberties",
+    "authoritarianism"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Bush Lets U.S. Spy on Callers Without Courts",
+      "url": "https://www.nytimes.com/2005/12/16/politics/bush-lets-us-spy-on-callers-without-courts.html",
+      "outlet": "New York Times",
+      "date": "2005-12-16"
+    },
+    {
+      "title": "Report on the President's Surveillance Program",
+      "url": "https://oig.justice.gov/sites/default/files/archive/special/s0907.pdf",
+      "outlet": "DOJ Inspector General",
+      "date": "2009-07-10"
+    },
+    {
+      "title": "Bush Acknowledges Approving U.S. Surveillance",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2005/12/17/AR2005121700005.html",
+      "outlet": "Washington Post",
+      "date": "2005-12-17"
+    }
+  ]
+}

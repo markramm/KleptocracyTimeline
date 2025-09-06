@@ -1,0 +1,38 @@
+{
+  "id": "2025-03-31--trump-commutes-sentence-of-convicted-fraudster-who-aided-gop",
+  "date": "2025-03-31",
+  "title": "Trump commutes sentence of convicted fraudster who aided GOP effort to impeach Biden",
+  "summary": "Trump commuted the prison sentence and financial penalties of Jason Galanis, who was serving over 14 years for defrauding a Native American tribe",
+  "description": "Trump commuted the prison sentence and financial penalties of Jason Galanis, who was serving over 14 years for defrauding a Native American tribe",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "pardons"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump commutes sentence of convicted fraudster who aided GOP effort to impeach Biden",
+      "url": "https://www.politico.com/news/2025/03/31/trump-pardons-jason-galanis-fraud-00262087",
+      "outlet": "POLITICO",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-31"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

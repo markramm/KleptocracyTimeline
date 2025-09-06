@@ -1,0 +1,49 @@
+{
+  "id": "2020-09-20--fincen-files-banks-sars-and-leaks",
+  "date": "2020-09-20",
+  "importance": 8,
+  "title": "'FinCEN Files' leak reveals banks flagged >$2T in suspicious transactions; U.S. warns SAR disclosures are unlawful",
+  "summary": "The ICIJ/BuzzFeed \"FinCEN Files\" project published stories based on ~2,100 leaked Suspicious\nActivity Reports documenting more than $2 trillion in flagged transactions across major banks.\nFinCEN reiterated that SAR disclosures are unlawful and referred the matter for investigation.\n",
+  "notes": "Include both investigative findings (scope and examples) and FinCEN's official response on the\nillegality of SAR disclosures; note that SARs reflect suspicions, not proven crimes.\n",
+  "status": "confirmed",
+  "actors": [
+    "Financial Crimes Enforcement Network (FinCEN)",
+    "International Consortium of Investigative Journalists (ICIJ)",
+    "BuzzFeed News (original partner)"
+  ],
+  "tags": [
+    "money-laundering",
+    "banking",
+    "transparency"
+  ],
+  "patterns": [],
+  "related_events": [],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "location": "United States",
+  "sources": [
+    {
+      "date": "2020-09-20",
+      "outlet": "ICIJ",
+      "title": "FinCEN Files — investigation overview",
+      "url": "https://www.icij.org/investigations/fincen-files/",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "~2,100 SARs; >$2T flagged transactions"
+      ],
+      "verified": true
+    },
+    {
+      "date": "2020-09-01",
+      "outlet": "FinCEN (U.S. Treasury)",
+      "title": "Statement regarding unlawfully disclosed SARs",
+      "url": "https://www.fincen.gov/news/news-releases/statement-fincen-regarding-unlawfully-disclosed-suspicious-activity-reports",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "Unauthorized disclosure of SARs is a crime; referrals to DOJ and Treasury OIG"
+      ],
+      "verified": true
+    }
+  ]
+}

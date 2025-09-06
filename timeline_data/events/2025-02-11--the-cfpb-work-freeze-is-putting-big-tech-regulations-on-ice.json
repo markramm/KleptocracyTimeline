@@ -1,0 +1,38 @@
+{
+  "id": "2025-02-11--the-cfpb-work-freeze-is-putting-big-tech-regulations-on-ice",
+  "date": "2025-02-11",
+  "title": "The CFPB work freeze Is putting Big Tech regulations ‘on ice’",
+  "summary": "Trump ordered a full work stoppage at the CFPB, halting investigations, lawsuits, and enforcement",
+  "description": "Trump ordered a full work stoppage at the CFPB, halting investigations, lawsuits, and enforcement",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "justice-weaponization"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "The CFPB work freeze Is putting Big Tech regulations ‘on ice’",
+      "url": "https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/",
+      "outlet": "Wired",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-11"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

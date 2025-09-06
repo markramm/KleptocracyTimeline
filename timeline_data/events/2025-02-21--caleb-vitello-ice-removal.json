@@ -1,0 +1,46 @@
+{
+  "id": "2025-02-21--caleb-vitello-ice-removal",
+  "date": "2025-02-21",
+  "importance": 8,
+  "title": "Acting ICE Director Vitello removed for failing to meet impossible deportation quotas",
+  "summary": "Acting ICE Director Caleb Vitello, a 20-year ICE veteran, was removed from his position on February 21, 2025, after failing to meet deportation quotas of 3,000 daily arrests despite only achieving 1,200-1,400 per day. Vitello was reassigned to a senior enforcement role after just one month leading the agency. His removal came despite Trump praising his \"exceptional leadership\" when appointing him in December. The administration deported 37,660 people in Trump's first month, far less than Biden's monthly average of 57,000.",
+  "location": "Washington, D.C.",
+  "actors": [
+    "Caleb Vitello",
+    "ICE",
+    "Donald Trump",
+    "Department of Homeland Security"
+  ],
+  "tags": [
+    "personnel-purges",
+    "impossible-quotas",
+    "loyalty-tests",
+    "deportation-quotas"
+  ],
+  "capture_lanes": [
+    "Federal Workforce Capture",
+    "Executive Power & Emergency Authority"
+  ],
+  "sources": [
+    {
+      "title": "Acting ICE director removed amid White House pressure to boost arrests",
+      "url": "https://www.washingtonpost.com/immigration/2025/02/21/ice-director-removed-caleb-vitello/",
+      "outlet": "Washington Post",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Acting head of ICE reassigned amid frustrations over deportation efforts",
+      "url": "https://www.cbsnews.com/news/acting-head-immigration-customs-enforcement-reassigned-frustrations-deportation-efforts-trump/",
+      "outlet": "CBS News",
+      "date": "2025-02-21"
+    },
+    {
+      "title": "Trump administration reassigning acting ICE director",
+      "url": "https://www.nbcnews.com/politics/national-security/trump-administration-reassigning-acting-ice-director-rcna193225",
+      "outlet": "NBC News",
+      "date": "2025-02-21"
+    }
+  ],
+  "notes": "White House demanded ICE \"defy the math\" with unrealistic quotas. Also reassigned were Russell Hott and Peter Berg from enforcement division. Officers struggled because immigrants refused to open doors when ICE knocked.",
+  "status": "confirmed"
+}

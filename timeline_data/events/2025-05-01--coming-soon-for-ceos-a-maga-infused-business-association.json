@@ -1,0 +1,38 @@
+{
+  "id": "2025-05-01--coming-soon-for-ceos-a-maga-infused-business-association",
+  "date": "2025-05-01",
+  "title": "Coming Soon for CEOs, a MAGA-Infused Business Association",
+  "summary": "New Washington group with Republican roots,the American Growth Partnership, will offer private meetings with Trump appointees, with membership fees starting at $50,000",
+  "description": "New Washington group with Republican roots,the American Growth Partnership, will offer private meetings with Trump appointees, with membership fees starting at $50,000",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy",
+    "trump-administration"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Coming Soon for CEOs, a MAGA-Infused Business Association",
+      "url": "https://www.wsj.com/politics/policy/coming-soon-for-ceos-a-maga-infused-business-association-03fbd064?mod=hp_minor_pos11",
+      "outlet": "Wall Street Journal",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "Timeline Analysis",
+      "url": "https://example.com/analysis",
+      "outlet": "Independent Analysis",
+      "date": "2025-05-01"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive timeline tracking democratic erosion."
+}

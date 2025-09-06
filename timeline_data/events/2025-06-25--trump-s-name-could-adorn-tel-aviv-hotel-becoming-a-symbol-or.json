@@ -1,0 +1,31 @@
+{
+  "id": "2025-06-25--trump-s-name-could-adorn-tel-aviv-hotel-becoming-a-symbol-or",
+  "date": "2025-06-25",
+  "title": "Trump’s name could adorn Tel Aviv hotel, becoming a symbol or a target",
+  "summary": "The Trump Organization held talks to brand and manage a hotel in Tel Aviv this past spring, which would mark the firm’s first real estate venture in Israel",
+  "description": "The Trump Organization held talks to brand and manage a hotel in Tel Aviv this past spring, which would mark the firm’s first real estate venture in Israel",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump"
+  ],
+  "tags": [
+    "kleptocracy",
+    "trump-administration"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump’s name could adorn Tel Aviv hotel, becoming a symbol or a target",
+      "url": "https://www.nytimes.com/2025/06/25/us/politics/israel-hotel-trump-destination-target.html",
+      "outlet": "New York Times",
+      "date": "2025-06-25"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+}

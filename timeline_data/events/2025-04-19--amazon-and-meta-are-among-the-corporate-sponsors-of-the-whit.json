@@ -1,0 +1,38 @@
+{
+  "id": "2025-04-19--amazon-and-meta-are-among-the-corporate-sponsors-of-the-whit",
+  "date": "2025-04-19",
+  "title": "Amazon and Meta are among the corporate sponsors of the White House Easter Egg Roll",
+  "summary": "For the first time ever, the White House is selling corporate sponsorships for the Easter Egg Roll, ranging from $75,000 to $200,000",
+  "description": "For the first time ever, the White House is selling corporate sponsorships for the Easter Egg Roll, ranging from $75,000 to $200,000",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy",
+    "trump-administration"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Amazon and Meta are among the corporate sponsors of the White House Easter Egg Roll",
+      "url": "https://www.npr.org/2025/04/19/g-s1-61377/white-house-easter-egg-roll-corporate-sponsors",
+      "outlet": "National Public Radio",
+      "date": "2025-04-19"
+    },
+    {
+      "title": "Timeline Analysis",
+      "url": "https://example.com/analysis",
+      "outlet": "Independent Analysis",
+      "date": "2025-04-19"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive timeline tracking democratic erosion."
+}

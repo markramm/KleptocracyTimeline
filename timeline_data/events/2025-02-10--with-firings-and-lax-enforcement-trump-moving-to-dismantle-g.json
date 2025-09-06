@@ -1,0 +1,38 @@
+{
+  "id": "2025-02-10--with-firings-and-lax-enforcement-trump-moving-to-dismantle-g",
+  "date": "2025-02-10",
+  "title": "With firings and lax enforcement, Trump moving to dismantle government’s public integrity guardrails",
+  "summary": "Trump removed the heads of the Office of Government Ethics and Office of Special Counsel, which handles whistleblower complaints, eliminating key safeguards against corruption",
+  "description": "Trump removed the heads of the Office of Government Ethics and Office of Special Counsel, which handles whistleblower complaints, eliminating key safeguards against corruption",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "ethics-violations"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "With firings and lax enforcement, Trump moving to dismantle government’s public integrity guardrails",
+      "url": "https://apnews.com/article/trump-inspectors-general-firing-justice-department-902d19ae20bcd10c2d11e92dd902d85e",
+      "outlet": "Associated Press",
+      "date": "2025-02-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

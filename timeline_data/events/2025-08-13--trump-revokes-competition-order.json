@@ -1,0 +1,60 @@
+{
+  "id": "2025-08-13--trump-revokes-competition-order",
+  "date": "2025-08-13",
+  "title": "Trump Revokes Biden's Anti-Monopoly Executive Order",
+  "summary": "Trump revokes Biden's 2021 executive order promoting competition in the economy, with DOJ welcoming move toward \"America First Antitrust\" focused o...",
+  "description": "Trump revokes Biden's 2021 executive order promoting competition in the economy, with DOJ welcoming move toward \"America First Antitrust\" focused on \"free markets\" instead of enforcement against monopolies. Critics say this undercuts promises to protect Americans and favors the rich and powerful.",
+  "importance": 8,
+  "tags": [
+    "antitrust",
+    "regulatory-capture",
+    "corporate-consolidation",
+    "economic-policy",
+    "reward-allies",
+    "monopoly-power",
+    "consumer-protection"
+  ],
+  "actors": [
+    "Donald Trump",
+    "Department of Justice"
+  ],
+  "capture_lane": "regulatory",
+  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "The White House",
+      "date": "2025-08-13",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/08/revocation-of-executive-order-on-competition/",
+      "title": "Revocation of Executive Order on Competition"
+    },
+    {
+      "outlet": "UPI",
+      "date": "2025-08-14",
+      "url": "https://www.upi.com/Top_News/US/2025/08/14/Trump-revokes-Biden-executive-order/9451755141651/",
+      "title": "Trump revokes Biden antitrust EO targeting monopolies"
+    },
+    {
+      "outlet": "Hogan Lovells",
+      "date": "2025-08-13",
+      "url": "https://www.hoganlovells.com/en/publications/president-trump-revokes-executive-order-on-competition-rejects-biden-administrations",
+      "title": "President Trump revokes Executive Order on competition, rejects Biden administration's whole-of-government approach"
+    },
+    {
+      "outlet": "Federal Trade Commission",
+      "date": "2025-08-13",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/08/ftc-chairman-applauds-revocation-biden-harris-executive-order-competition",
+      "title": "FTC Chairman Applauds Revocation of Biden-Harris Executive Order on Competition"
+    }
+  ],
+  "connections": [
+    "2021-07-09--biden-competition-executive-order",
+    "2025-01-20--trump-deregulation-agenda",
+    "2024-11-06--tech-billionaire-influence"
+  ],
+  "patterns": [
+    "reward-allies",
+    "regulatory-capture",
+    "corporate-consolidation"
+  ],
+  "notes": "The revocation of competition enforcement measures represents a direct benefit to large corporations and monopolies at the expense of small businesses and consumers. The framing as \"America First Antitrust\" and \"free markets\" obscures the actual impact of reducing enforcement against anti-competitive practices. This aligns with the kleptocratic pattern of rewriting rules to benefit economic elites while claiming to help ordinary Americans. The timing suggests coordination with major corporate donors who opposed Biden's antitrust enforcement."
+}

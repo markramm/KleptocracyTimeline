@@ -1,0 +1,38 @@
+{
+  "id": "2025-03-08--trump-s-justice-department-fires-head-of-organized-crime-dru",
+  "date": "2025-03-08",
+  "title": "Trump's Justice Department fires head of organized crime drug task force",
+  "summary": "The Justice Department fired the head of the organized crime drug task force, continuing the Trump administration's pattern of sidelining career civil servants",
+  "description": "The Justice Department fired the head of the organized crime drug task force, continuing the Trump administration's pattern of sidelining career civil servants",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "justice-weaponization"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "title": "Trump's Justice Department fires head of organized crime drug task force",
+      "url": "https://www.reuters.com/world/us/trump-justice-department-fires-head-organized-crime-drug-task-force-2025-03-08/",
+      "outlet": "REUTERS",
+      "date": "2025-03-08"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-08"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

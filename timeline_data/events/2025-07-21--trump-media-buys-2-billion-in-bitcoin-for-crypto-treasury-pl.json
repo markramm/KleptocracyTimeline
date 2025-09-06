@@ -1,0 +1,64 @@
+{
+  "id": "2025-07-21--trump-media-buys-2-billion-in-bitcoin-for-crypto-treasury-pl",
+  "date": "2025-07-21",
+  "title": "Trump Media buys $2 billion in bitcoin for crypto Treasury plan",
+  "summary": "Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company– –joining other Trump-family linked businesses pursuing the same strategy",
+  "description": "Trump Media and Technology Group purchased $2 billion worth of bitcoin and related securities in an effort to become a crypto treasury company– –joining other Trump-family linked businesses pursuing the same strategy",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "media-control",
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Trump Media buys $2 billion in bitcoin for crypto Treasury plan",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-21/trump-media-buys-2-billion-in-bitcoin-for-crypto-treasury-plan?utm_source=substack&utm_medium=email&embedded-checkout=true",
+      "outlet": "Bloomberg",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Trump Media Announces its Purchases for Bitcoin Treasury Reach $2 Billion",
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118713/0/en/Trump-Media-Announces-its-Purchases-for-Bitcoin-Treasury-Reach-2-Billion.html",
+      "outlet": "GlobeNewswire",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Trump Media's $2 billion Bitcoin buy shows business empire is now crypto empire",
+      "url": "https://fortune.com/crypto/2025/07/22/donald-trump-media-djt-bitcoin-treasury-2-billion-devin-nunes/",
+      "outlet": "Fortune",
+      "date": "2025-07-22"
+    },
+    {
+      "title": "Trump Media: DJT grows $2 billion bitcoin hoard",
+      "url": "https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html",
+      "outlet": "CNBC",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Trump Media buys $2 billion in bitcoin as it pursues crypto treasury strategy",
+      "url": "https://www.cbsnews.com/news/trump-media-2-billion-bitcoin-crypto-treasury-strategy/",
+      "outlet": "CBS News",
+      "date": "2025-07-21"
+    },
+    {
+      "title": "Trump Media invests $2 billion in bitcoin; shares surge after announcement",
+      "url": "https://www.foxbusiness.com/media/trumps-media-company-announces-massive-2b-bitcoin-investment-shares-climb",
+      "outlet": "Fox Business",
+      "date": "2025-07-21"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

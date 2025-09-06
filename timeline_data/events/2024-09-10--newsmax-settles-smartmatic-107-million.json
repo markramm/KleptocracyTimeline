@@ -1,0 +1,40 @@
+{
+  "id": "2024-09-10--newsmax-settles-smartmatic-107-million",
+  "date": "2024-09-10",
+  "importance": 10,
+  "title": "Newsmax Settles Smartmatic Defamation for $107 Million After Knowingly Lying",
+  "summary": "Newsmax settles with Smartmatic for $107 million after internal emails showed CEO Chris Ruddy knew \"We have no evidence\" but network aired election fraud claims 23 more times for ratings",
+  "location": "United States",
+  "actors": [
+    "Newsmax",
+    "Christopher Ruddy",
+    "Smartmatic",
+    "2020 Election"
+  ],
+  "tags": [
+    "newsmax",
+    "defamation-settlement",
+    "election-lies",
+    "knowing-deception",
+    "smartmatic",
+    "financial-consequences"
+  ],
+  "sources": [
+    {
+      "title": "Newsmax settles Smartmatic lawsuit",
+      "url": "https://www.npr.org/2024/09/26/nx-s1-5128868/newsmax-smartmatic-defamation-lawsuit-settlement",
+      "outlet": "NPR",
+      "date": "2024-09-26",
+      "archive_url": "https://web.archive.org/web/20240926000000/https://www.npr.org/2024/09/26/nx-s1-5128868/newsmax-smartmatic-defamation-lawsuit-settlement"
+    },
+    {
+      "title": "Newsmax chief said no evidence but aired claims",
+      "url": "https://edition.cnn.com/2024/08/22/media/newsmax-smartmatic-chris-ruddy-no-evidence-2020-election-rigged/index.html",
+      "outlet": "CNN",
+      "date": "2024-08-22",
+      "archive_url": "https://web.archive.org/web/20240822000000/https://edition.cnn.com/2024/08/22/media/newsmax-smartmatic-chris-ruddy-no-evidence-2020-election-rigged/index.html"
+    }
+  ],
+  "notes": "Internal Nov 2020 email from Ruddy stated \"We have no evidence\" of rigging. Called Sidney Powell crazy privately while promoting publicly. Proves deliberate deception for profit. Settlement confidential but reported as $107M.",
+  "status": "confirmed"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2025-02-10--trump-signs-order-pausing-enforcement-of-foreign-bribery-ban",
+  "date": "2025-02-10",
+  "title": "Trump signs order pausing enforcement of foreign bribery ban",
+  "summary": "Trump signed an executive order suspending enforcement of the Foreign Corrupt Practices Act (FCPA), which has banned US firms from bribing foreign officials since 1977",
+  "description": "Trump signed an executive order suspending enforcement of the Foreign Corrupt Practices Act (FCPA), which has banned US firms from bribing foreign officials since 1977",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "foreign-influence"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump signs order pausing enforcement of foreign bribery ban",
+      "url": "https://www.cnbc.com/2025/02/10/trump-doj-foreign-corrupt-practices-act-pause.html",
+      "outlet": "CNBC",
+      "date": "2025-02-10"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

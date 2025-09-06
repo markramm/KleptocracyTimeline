@@ -1,0 +1,57 @@
+{
+  "id": "2025-04-02--allvoting-ohio-rejections",
+  "date": "2025-04-02",
+  "importance": 6,
+  "title": "Report: 34,000 Ohio ballots rejected in 2024 election after ID/process changes",
+  "summary": "All Voting Is Local analysis on April 2, 2025, revealed 34,364 Ohio provisional ballots rejected in 2024 election (10,000 more than 2020 despite lower turnout) after HB 458's photo ID law took effect. Rejection rate for ID issues tripled, jumping to 28.4% in November 2023. Multiple local races decided by 1-2 votes while 25% of provisional ballots went uncounted. Voters lost 3 days to cure ballots.",
+  "location": "Ohio",
+  "actors": [
+    "All Voting Is Local (voting rights organization)",
+    "Ohio Secretary of State",
+    "Ohio Legislature",
+    "Affected voters"
+  ],
+  "tags": [
+    "ballot-rejections",
+    "elections",
+    "hb458",
+    "ohio",
+    "voter-suppression",
+    "voter-id",
+    "disenfranchisement"
+  ],
+  "capture_lanes": [
+    "Election System Attack"
+  ],
+  "citations": [
+    "https://allvotingislocal.org/reports/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election-2"
+  ],
+  "notes": "HB 458 signed Jan 6, 2023, replaced flexible ID options (utility bills, bank statements) with strict photo ID requirement. Cure period cut from 7 to 4 days. 34,364 rejected provisional ballots = 1 in 4 provisional voters silenced. Marion and Jefferson County races decided by single vote while thousands disenfranchised. Report: \"The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot Box.\"",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "All Voting Is Local Ohio report reveals 34,000 ballots were rejected in the 2024 election",
+      "url": "https://allvotingislocal.org/press-releases/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election/",
+      "outlet": "All Voting Is Local",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Voting rights organization highlights increase in Ohio provisional ballots rejected over ID",
+      "url": "https://ohiocapitaljournal.com/2024/04/03/voting-rights-organization-highlights-increase-in-ohio-provisional-ballots-rejected-over-id/",
+      "outlet": "Ohio Capital Journal",
+      "date": "2024-04-03"
+    },
+    {
+      "title": "HB 458: What Changed and Why Does it Harm Ohio Voters?",
+      "url": "https://www.acluohio.org/news/hb-458-what-changed-and-why-does-it-harm-ohio-voters/",
+      "outlet": "ACLU of Ohio",
+      "date": "2023-04-12"
+    },
+    {
+      "title": "The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot Box",
+      "url": "https://allvotingislocal.org/wp-content/uploads/TheUncountedBallotsof2024Ohio.pdf",
+      "outlet": "All Voting Is Local",
+      "date": "2025-04-02"
+    }
+  ]
+}

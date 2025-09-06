@@ -1,0 +1,39 @@
+{
+  "id": "2025-05-09--sec-settles-case-with-crypto-firm-with-ties-to-the-white-hou",
+  "date": "2025-05-09",
+  "title": "SEC settles case with crypto firm with ties to the White House",
+  "summary": "The SEC reached a settlement with crypto firm Ripple Labs, which has ties to the White House, that would allow it to recoup $75 million of the $125 million fine previously imposed on it",
+  "description": "The SEC reached a settlement with crypto firm Ripple Labs, which has ties to the White House, that would allow it to recoup $75 million of the $125 million fine previously imposed on it",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "regulatory-capture",
+    "government-contracts"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "SEC settles case with crypto firm with ties to the White House",
+      "url": "https://abcnews.go.com/Politics/sec-settles-case-crypto-firm-ties-white-house/story?id=121650659",
+      "outlet": "ABC News",
+      "date": "2025-05-09"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-05-09"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

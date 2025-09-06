@@ -1,0 +1,40 @@
+{
+  "id": "2010-06-27--anna-chapman-and-russian-spy-ring-arrested-in-manh",
+  "date": "2010-06-27",
+  "importance": 5,
+  "title": "Anna Chapman and Russian Spy Ring Arrested in Manhattan",
+  "summary": "FBI arrests Russian spy Anna Chapman and 10 other \"illegals\" in Operation Ghost Stories. Chapman had been operating in Manhattan since 2009, targeting policy circles and using encrypted wireless networks to communicate with Russian intelligence.",
+  "location": "Manhattan, New York",
+  "actors": [
+    "Anna Chapman",
+    "FBI",
+    "Russian Intelligence"
+  ],
+  "tags": [
+    "russian-spy-ring",
+    "kompromat",
+    "intelligence-operations",
+    "gates-network"
+  ],
+  "capture_lanes": [
+    "Epstein Network & Kompromat"
+  ],
+  "sources": [
+    {
+      "title": "Anna Chapman - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anna_Chapman",
+      "outlet": "Wikipedia",
+      "date": "2024-01-01",
+      "archive_url": "https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Anna_Chapman"
+    },
+    {
+      "title": "The SoHo Spy - Stunning Anna Chapman Accused in Russian Spy Ring",
+      "url": "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
+      "outlet": "ABC News",
+      "date": "2010-06-28",
+      "archive_url": "https://web.archive.org/web/20240101000000/https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883"
+    }
+  ],
+  "notes": "Intelligence asset positioning for future leverage operations",
+  "status": "confirmed"
+}

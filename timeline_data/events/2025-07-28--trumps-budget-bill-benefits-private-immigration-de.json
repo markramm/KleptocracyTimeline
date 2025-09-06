@@ -1,0 +1,44 @@
+{
+  "id": "2025-07-28--trumps-budget-bill-benefits-private-immigration-de",
+  "date": "2025-07-28",
+  "title": "Trump’s budget bill benefits private immigration detention companies that donated to Trump",
+  "summary": "Trump’s Big Beautiful Bill allocated $45 billion for ICE detention facilities, portions of which have been awarded to CoreCivic and GEO Group–that both donated to Trump’s campaign",
+  "description": "Trump’s Big Beautiful Bill allocated $45 billion for ICE detention facilities, portions of which have been awarded to CoreCivic and GEO Group–that both donated to Trump’s campaign",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption",
+    "kleptocracy"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump’s budget bill benefits private immigration detention companies that donated to Trump",
+      "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/",
+      "outlet": "Citizens for Ethics",
+      "date": "2025-07-28"
+    },
+    {
+      "title": "The Private Prison Industry Looks Forward to Soaring Profits Thanks to Trump's Budget",
+      "url": "https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/",
+      "outlet": "The Intercept",
+      "date": "2025-07-10"
+    },
+    {
+      "title": "Budget Bill Massively Increases Funding for Immigration Detention",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/budget-bill-massively-increases-funding-immigration-detention",
+      "outlet": "Brennan Center",
+      "date": "2025-07-28"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "High-priority kleptocratic event from comprehensive timeline."
+}

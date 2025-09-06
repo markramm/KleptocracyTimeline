@@ -1,0 +1,39 @@
+{
+  "id": "2021-06-01--trump-bitcoin-scam-statement",
+  "date": "2021-06-01",
+  "importance": 6,
+  "title": "Trump calls Bitcoin 'a scam' competing with the dollar",
+  "summary": "Donald Trump calls Bitcoin 'a scam' competing with the dollar in 2021, marking his initial skepticism before his dramatic transformation to 'crypto president' by 2025.",
+  "location": "United States",
+  "actors": [
+    "Donald Trump",
+    "Bitcoin"
+  ],
+  "tags": [
+    "cryptocurrency",
+    "bitcoin",
+    "trump-statements",
+    "crypto-evolution"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "Donald Trump - Bitcoin a 'Scam,' But 'Competes Against the Dollar'",
+      "url": "https://www.newsweek.com/donald-trump-bitcoin-scam-competes-against-dollar-shrinkflation-raises-retail-costs-1598720",
+      "outlet": "Newsweek",
+      "date": "2021-06-07",
+      "archive_url": "https://web.archive.org/web/20250815000008/https://www.newsweek.com/donald-trump-bitcoin-scam-competes-against-dollar-shrinkflation-raises-retail-costs-1598720"
+    },
+    {
+      "title": "Trump calls Bitcoin a scam, advocates for dollar hegemony",
+      "url": "https://cointelegraph.com/news/trump-calls-bitcoin-a-scam-advocates-for-dollar-hegemony",
+      "outlet": "Cointelegraph",
+      "date": "2021-06-07",
+      "archive_url": "https://web.archive.org/web/20250815000009/https://cointelegraph.com/news/trump-calls-bitcoin-a-scam-advocates-for-dollar-hegemony"
+    }
+  ],
+  "notes": "Major reversal from this position to launching $2.9 billion crypto empire by 2025",
+  "status": "confirmed"
+}

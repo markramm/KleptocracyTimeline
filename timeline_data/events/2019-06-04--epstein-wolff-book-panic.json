@@ -1,0 +1,30 @@
+{
+  "id": "2019-06-04--epstein-wolff-book-panic",
+  "date": "2019-06-04",
+  "importance": 4,
+  "title": "Claims from Michael Wolff ('Siege') and later commentary; no public evidence of 'Trump money laundering' via Epstein",
+  "summary": "Michael Wolff's 2019 book 'Siege' and later interviews/podcast episodes raised\nvarious allegations and speculations around Trump and Jeffrey Epstein. These\nclaims have been disputed and are not substantiated by official investigations\nor court records; treat as disputed commentary rather than established fact.\n",
+  "location": "United States",
+  "actors": [
+    "Jeffrey Epstein",
+    "Michael Wolff",
+    "Donald Trump"
+  ],
+  "tags": [],
+  "status": "disputed",
+  "sources": [
+    {
+      "title": "Guardian—Mueller obstruction indictment claim in 'Siege' denied by Mueller spokesperson",
+      "url": "https://www.theguardian.com/us-news/2019/may/28/mueller-trump-obstruction-charge-michael-wolff-book-siege-under-fire-news",
+      "outlet": "The Guardian",
+      "date": "2019-05-28"
+    },
+    {
+      "title": "Michael Wolff on the 'Epstein files' (essay)",
+      "url": "https://yalereview.org/article/michael-wolff-donald-trump-epstein-files",
+      "outlet": "The Yale Review",
+      "date": "2025-07-24"
+    }
+  ],
+  "notes": "Downgraded to \"disputed\" due to lack of corroboration by official sources or\ncourt records. Keep as media claim unless further evidence emerges.\n"
+}

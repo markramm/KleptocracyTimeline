@@ -1,0 +1,57 @@
+{
+  "id": "2025-02-06--trump-administration-disbands-task-force-targeting",
+  "date": "2025-02-06",
+  "title": "Trump Administration Disbands Task Force Targeting Russian Oligarchs",
+  "summary": "Attorney General Pam Bondi disbanded Task Force KleptoCapture, the DOJ unit created in 2022 to investigate and prosecute Russian oligarchs for sanctions violations. The task force had seized yachts and brought indictments against Deripaska and Malofeyev before being shut down.",
+  "description": "The Trump administration disbanded the Justice Department task force dedicated to investigating and prosecuting Russian oligarchs, effectively ending efforts to hold Russian elites accountable for sanctions violations and money laundering.",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Pam Bondi",
+    "Department of Justice",
+    "Task Force KleptoCapture",
+    "Russian Oligarchs"
+  ],
+  "tags": [
+    "russia",
+    "oligarchs",
+    "justice-department",
+    "sanctions",
+    "money-laundering"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump administration ends Biden-era task force aimed at seizing Russian oligarchs assets",
+      "url": "https://www.pbs.org/newshour/politics/trump-administration-ends-biden-era-task-force-aimed-at-seizing-russian-oligarchs-assets",
+      "outlet": "PBS News",
+      "date": "2025-02-06"
+    },
+    {
+      "title": "Trump's Justice Department ends Biden-era task force aimed at seizing assets of Russian oligarchs",
+      "url": "https://www.washingtonpost.com/politics/2025/02/06/russia-sanctions-trump-treasury-doj-bondi/504f34fa-e4d8-11ef-ab83-bb30e4340014_story.html",
+      "outlet": "Washington Post",
+      "date": "2025-02-06"
+    },
+    {
+      "title": "U.S. Disbands Task Forces on Russian Sanctions, Foreign Influence",
+      "url": "https://www.themoscowtimes.com/2025/02/07/us-disbands-task-forces-on-russian-sanctions-foreign-influence-a87901",
+      "outlet": "The Moscow Times",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "Pam Bondi Ends Task Force On Russian Oligarchs To Focus On Cartels",
+      "url": "https://www.newsweek.com/pam-bondi-ends-task-force-russian-oligarchs-focus-cartels-2027638",
+      "outlet": "Newsweek",
+      "date": "2025-02-06"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "foreign-influence",
+    "justice-obstruction",
+    "oligarch-protection"
+  ],
+  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "2018-05-28--ivanka-trump-china-trademarks",
+  "date": "2018-05-28",
+  "importance": 6,
+  "title": "China grants waves of Ivanka Trump trademarks as she serves in White House; ethics watchdogs flag conflicts",
+  "summary": "China's trademark office granted final approval for 13 Ivanka Trump trademarks over three\nmonths in early 2018, and later provisionally approved 16 more in October 2018, according to\nAP reviews of official records. The brand said filings were routine defensive registrations;\nethics groups cited conflict-of-interest risks given Ivanka Trump's government role.\n",
+  "notes": "Use AP's counts and dates; present both the company's explanation and watchdog concerns.\n",
+  "status": "confirmed",
+  "actors": [
+    "Ivanka Trump",
+    "Ivanka Trump Marks LLC",
+    "China National Intellectual Property Administration"
+  ],
+  "tags": [
+    "trademarks",
+    "conflicts",
+    "foreign-influence"
+  ],
+  "patterns": [],
+  "related_events": [],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "location": "China",
+  "sources": [
+    {
+      "date": "2018-05-28",
+      "outlet": "Associated Press",
+      "title": "China approves 13 new Ivanka Trump trademarks in 3 months",
+      "url": "https://apnews.com/international-news-general-news-united-states-government-9caf2ddbbae84bd09e9d732036d667b4",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "13 final approvals over three months"
+      ],
+      "verified": true
+    },
+    {
+      "date": "2018-11-06",
+      "outlet": "Associated Press",
+      "title": "China grants 16 additional Ivanka Trump trademarks (provisional approvals)",
+      "url": "https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "16 provisional approvals in October 2018"
+      ],
+      "verified": true
+    }
+  ]
+}

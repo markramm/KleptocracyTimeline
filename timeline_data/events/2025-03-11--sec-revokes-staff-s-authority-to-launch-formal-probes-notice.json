@@ -1,0 +1,37 @@
+{
+  "id": "2025-03-11--sec-revokes-staff-s-authority-to-launch-formal-probes-notice",
+  "date": "2025-03-11",
+  "title": "SEC revokes staff's authority to launch formal probes, notice says",
+  "summary": "SEC revoked its enforcement staff’s authority to launch formal investigations without direct approval from Trump-appointed commissioners",
+  "description": "SEC revoked its enforcement staff’s authority to launch formal investigations without direct approval from Trump-appointed commissioners",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "regulatory-capture"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "SEC revokes staff's authority to launch formal probes, notice says",
+      "url": "https://www.reuters.com/world/us/us-sec-revokes-staffs-authority-launch-formal-probes-notice-says-2025-03-11/",
+      "outlet": "REUTERS",
+      "date": "2025-03-11"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-03-11"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}

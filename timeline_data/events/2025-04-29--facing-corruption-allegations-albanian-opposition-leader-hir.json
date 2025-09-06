@@ -1,0 +1,37 @@
+{
+  "id": "2025-04-29--facing-corruption-allegations-albanian-opposition-leader-hir",
+  "date": "2025-04-29",
+  "title": "Facing corruption allegations, Albanian opposition leader hires Trump-linked lobbying team",
+  "summary": "Indicted Albania opposition leader Sali Berisha hired a Trump-aligned lobbying firm to get the Trump administration to remove his sanction designation under a US anti-kleptocracy law. Berisha also employs Chris LaCivita–Trump’s 2024 campaign co-manager–as an advisor in his country’s upcoming parliamentary elections",
+  "description": "Indicted Albania opposition leader Sali Berisha hired a Trump-aligned lobbying firm to get the Trump administration to remove his sanction designation under a US anti-kleptocracy law. Berisha also employs Chris LaCivita–Trump’s 2024 campaign co-manager–as an advisor in his country’s upcoming parliamentary elections",
+  "status": "confirmed",
+  "importance": 6,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "corruption"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Facing corruption allegations, Albanian opposition leader hires Trump-linked lobbying team",
+      "url": "https://www.motherjones.com/politics/2025/04/sali-berisha-chris-lacivita-katie-wiles/",
+      "outlet": "Mother Jones",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-04-29"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking."
+}
