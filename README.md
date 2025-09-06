@@ -53,7 +53,7 @@ npm start
 
 ### Creating and Validating Events
 
-⚠️ **IMPORTANT**: Always use the `timeline_event_manager.py` tool instead of manually creating/editing YAML files. This prevents common errors and ensures consistency.
+⚠️ **IMPORTANT**: Always use the `timeline_event_manager.py` tool instead of manually creating/editing JSON files. This prevents common errors and ensures consistency.
 
 #### Why Use the Event Manager?
 - **Automatic ID generation** - IDs always match filenames

@@ -8,7 +8,6 @@ import requests
 import json
 from typing import List, Dict, Optional, Any
 from datetime import datetime, date
-import yaml
 from pathlib import Path
 
 class TimelineResearchClient:
