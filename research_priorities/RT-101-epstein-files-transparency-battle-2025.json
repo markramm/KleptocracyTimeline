@@ -1,0 +1,81 @@
+{
+  "id": "RT-101-epstein-files-transparency-battle-2025",
+  "title": "Epstein Files Transparency Battle: Bipartisan Coalition vs White House Opposition",
+  "description": "Research the extraordinary September 2025 political battle over releasing Jeffrey Epstein's government files, including the discharge petition needing only 2 more signatures, White House threats calling support a 'hostile act', Republican defections (Massie, Greene, Mace, Boebert), survivor testimony on Capitol Hill, FBI withholding 300GB of data, and Virginia Giuffre's April 2025 death. Document the Epstein Files Transparency Act (H.R.4405/S.2557), institutional resistance patterns, and upcoming Acosta testimony.",
+  "priority": 10,
+  "status": "pending",
+  "category": "epstein-network",
+  "tags": [
+    "epstein-files",
+    "transparency-battle",
+    "survivor-testimony",
+    "bipartisan-coalition",
+    "white-house-opposition",
+    "discharge-petition",
+    "fbi-coverup"
+  ],
+  "estimated_events": 8,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "triggered_by": [
+    "Epstein Files Battle PDF September 2025",
+    "Discharge petition at 216 signatures",
+    "White House hostile act warning"
+  ],
+  "key_sources": [
+    {
+      "title": "Epstein Files Battle Intensifies This Week",
+      "type": "investigative-report",
+      "credibility": 10,
+      "description": "Comprehensive report on September 2025 transparency battle"
+    },
+    {
+      "title": "H.R.4405 - Epstein Files Transparency Act",
+      "type": "legislation",
+      "credibility": 10,
+      "description": "House bill requiring release of all Epstein files within 30 days"
+    },
+    {
+      "title": "Survivor Capitol Hill Testimony",
+      "type": "testimony",
+      "credibility": 10,
+      "description": "Nine survivors speak publicly for first time on September 3, 2025"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents White House characterization of transparency support as hostile act",
+    "Reveals FBI withholding 99% of 300GB Epstein data archive",
+    "Shows Republican fracture with Massie, Greene, Mace, Boebert defying Trump",
+    "Exposes systematic institutional resistance to Epstein transparency",
+    "Documents survivor-led accountability initiative"
+  ],
+  "connections": [
+    {
+      "to": "RT-029-whig-template-trump-administration-constitutional-crisis-acceleration",
+      "type": "implements",
+      "description": "Uses crisis acceleration to prevent transparency"
+    }
+  ],
+  "actors_to_investigate": [
+    "Thomas Massie",
+    "Marjorie Taylor Greene",
+    "Nancy Mace",
+    "Lauren Boebert",
+    "Donald Trump",
+    "Mike Johnson",
+    "Marina Lacerda",
+    "Anouska De Georgiou",
+    "Alexander Acosta",
+    "Prince Andrew"
+  ],
+  "time_period": "2025-09-01 to 2025-09-09",
+  "constitutional_issues": [
+    "separation of powers",
+    "congressional oversight",
+    "executive privilege abuse",
+    "transparency requirements",
+    "victim rights"
+  ],
+  "estimated_importance": 10
+}

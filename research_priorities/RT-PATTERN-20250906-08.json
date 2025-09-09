@@ -1,0 +1,20 @@
+{
+  "id": "RT-PATTERN-20250906-08",
+  "title": "Pattern Analysis Priority: Timeline Event Connections (8)",
+  "description": "Research priority generated from pattern analysis of recent timeline events. Investigates systematic connections and institutional capture patterns identified across multiple events.",
+  "priority": 7,
+  "status": "pending",
+  "category": "pattern-analysis",
+  "tags": [
+    "pattern-analysis",
+    "event-connections",
+    "institutional-capture"
+  ],
+  "estimated_events": 4,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [],
+  "generation_method": "pattern_analysis",
+  "estimated_importance": 7
+}

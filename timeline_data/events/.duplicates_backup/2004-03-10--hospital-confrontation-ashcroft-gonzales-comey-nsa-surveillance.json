@@ -1,0 +1,47 @@
+{
+  "id": "2004-03-10--hospital-confrontation-ashcroft-gonzales-comey-nsa-surveillance",
+  "date": "2004-03-10",
+  "importance": 9,
+  "title": "Hospital Confrontation Over NSA Surveillance Program Legality",
+  "summary": "In a dramatic confrontation at George Washington Medical Center, White House Chief of Staff Andrew Card and White House Counsel Alberto Gonzales attempted to pressure hospitalized Attorney General John Ashcroft to reauthorize the NSA warrantless surveillance program despite Justice Department concerns over its legality. Acting Attorney General James Comey had refused to sign the reauthorization due to legal problems with the program. Around 8 p.m., Comey, FBI Director Robert Mueller, and Office of Legal Counsel head Jack Goldsmith raced to the hospital, abandoning double-parked vehicles and running up stairwells. In the hospital room, Ashcroft, though gravely ill with pancreatitis, raised himself from his pillow to refuse signing the authorization, telling Gonzales he was 'in no condition to decide issues' and supported Comey's position. After Gonzales and Card stormed out, the White House reauthorized the program without Justice Department approval, breaking its own procedures. This sparked preparation for mass resignations including Comey, Mueller, and Ashcroft, but Bush ultimately agreed to unspecified changes to prevent the crisis. Comey later testified this was 'probably the most difficult night of my professional life.'",
+  "actors": [
+    "John Ashcroft",
+    "James Comey", 
+    "Alberto Gonzales",
+    "Andrew Card",
+    "Robert Mueller",
+    "Jack Goldsmith",
+    "George W. Bush"
+  ],
+  "tags": [
+    "surveillance",
+    "stellarwind",
+    "hospital-confrontation",
+    "justice-department",
+    "constitutional-crisis",
+    "executive-power",
+    "warrantless-surveillance"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Gonzales Hospital Episode Detailed",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/05/15/AR2007051500864.html",
+      "outlet": "Washington Post",
+      "date": "2007-05-15"
+    },
+    {
+      "title": "10 years ago: Comey testifies about confrontation with Bush White House",
+      "url": "https://www.cnn.com/2017/05/15/politics/comey-gonzalez-surveillance-showdown/index.html",
+      "outlet": "CNN",
+      "date": "2017-05-15"
+    },
+    {
+      "title": "NSA program led to standoff at Ashcroft's sickbed",
+      "url": "https://www.seattlepi.com/national/article/NSA-program-led-to-standoff-at-Ashcroft-s-sickbed-1237491.php",
+      "outlet": "Seattle Post-Intelligencer",
+      "date": "2007-05-16"
+    }
+  ],
+  "notes": "This confrontation became one of the most dramatic episodes in the debate over executive power and surveillance during the Bush administration. It highlighted the deep legal concerns within the Justice Department about the NSA's warrantless wiretapping program. The event nearly triggered a constitutional crisis with mass resignations from the Justice Department's top leadership."
+}

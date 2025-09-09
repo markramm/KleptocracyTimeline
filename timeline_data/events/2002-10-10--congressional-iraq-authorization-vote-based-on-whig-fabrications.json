@@ -1,0 +1,33 @@
+{
+  "id": "2002-10-10--congressional-iraq-authorization-vote-based-on-whig-fabrications",
+  "date": "2002-10-10",
+  "title": "Congressional Iraq Authorization Vote Based on WHIG Fabrications",
+  "description": "Congress votes to authorize the use of military force against Iraq based primarily on fabricated intelligence and manipulated threat assessments systematically provided by WHIG. The vote represents the successful culmination of a months-long congressional deception campaign.",
+  "significance": "Democratic process fundamentally corrupted by systematic executive branch deception of the legislative branch, resulting in unauthorized war based on fabricated evidence.",
+  "sources": [
+    {
+      "url": "https://www.congress.gov/bill/107th-congress/house-joint-resolution/114",
+      "title": "Authorization for Use of Military Force Against Iraq Resolution",
+      "type": "legislation"
+    }
+  ],
+  "tags": [
+    "iraq_authorization",
+    "congressional_vote",
+    "whig_deception",
+    "democratic_failure",
+    "unauthorized_war"
+  ],
+  "importance": 9,
+  "category": "constitutional_crisis",
+  "verification_status": "documented",
+  "summary": "Congress votes to authorize the use of military force against Iraq based primarily on fabricated intelligence and manipulated threat assessments systematically provided by WHIG. The vote represents the successful culmination of a months-long congressional deception campaign.",
+  "actors": [
+    "White House Iraq Group",
+    "Dick Cheney",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Karen Hughes"
+  ],
+  "status": "confirmed"
+}

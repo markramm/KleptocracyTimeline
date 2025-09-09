@@ -1,0 +1,33 @@
+{
+  "id": "2002-09-18--whig-coordinates-fabricated-intelligence-briefings-for-congressional-leaders",
+  "date": "2002-09-18",
+  "title": "WHIG Coordinates Fabricated Intelligence Briefings for Congressional Leaders",
+  "description": "WHIG coordinates with CIA and Pentagon to provide congressional leaders with intelligence briefings containing systematically fabricated claims about Iraqi WMD capabilities and Al-Qaeda connections. The briefings deliberately omit all contradictory intelligence and dissenting analysis from the intelligence community.",
+  "significance": "Systematic deception of Congress undermines constitutional separation of powers and prevents informed legislative decision-making on matters of war and national security.",
+  "sources": [
+    {
+      "url": "https://www.salon.com/2004/06/16/chalabi_4/",
+      "title": "How Chalabi and the Pentagon's Office of Special Plans Cooked Intelligence",
+      "type": "investigative_report"
+    }
+  ],
+  "tags": [
+    "whig",
+    "congressional_deception",
+    "intelligence_manipulation",
+    "separation_of_powers",
+    "fabricated_briefings"
+  ],
+  "importance": 9,
+  "category": "constitutional_crisis",
+  "verification_status": "documented",
+  "summary": "WHIG coordinates with CIA and Pentagon to provide congressional leaders with intelligence briefings containing systematically fabricated claims about Iraqi WMD capabilities and Al-Qaeda connections. The briefings deliberately omit all contradictory intelligence and dissenting analysis from the intelligence community.",
+  "actors": [
+    "White House Iraq Group",
+    "Dick Cheney",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Karen Hughes"
+  ],
+  "status": "confirmed"
+}

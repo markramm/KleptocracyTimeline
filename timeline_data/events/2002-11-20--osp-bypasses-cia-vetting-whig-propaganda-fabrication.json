@@ -1,0 +1,48 @@
+{
+  "id": "2002-11-20--osp-bypasses-cia-vetting-whig-propaganda-fabrication",
+  "date": "2002-11-20", 
+  "importance": 9,
+  "title": "OSP Systematically Bypasses CIA Vetting to Feed Fabricated Intelligence to WHIG",
+  "summary": "Pentagon's Office of Special Plans under Douglas Feith institutionalizes the systematic bypassing of CIA intelligence vetting processes to provide fabricated intelligence directly to the White House Iraq Group for propaganda dissemination. The Pentagon Inspector General documented that OSP 'developed, produced, and disseminated alternative intelligence assessments' that circumvented normal Intelligence Community coordination processes, presenting 'raw intelligence' directly to senior policymakers without proper analysis or verification. OSP official Harold Rhode coordinated directly with WHIG to ensure that unvetted intelligence reports reached Vice President Cheney and other senior officials, deliberately undermining CIA credibility by stating that CIA interpretations 'ought to be ignored.' This systematic bypass created what Senator Carl Levin called 'an alternative intelligence assessment capability' that operated 'outside of the intelligence community' to manufacture intelligence supporting predetermined policy conclusions. The coordination between Feith's OSP and Rove's WHIG created parallel intelligence channels that completely circumvented constitutional oversight mechanisms, allowing fabricated intelligence to flow directly from Pentagon political appointees to White House propagandists without any professional intelligence analysis or quality control. This represented a fundamental corruption of the constitutional separation between intelligence collection and policy advocacy.",
+  "actors": [
+    "Office of Special Plans",
+    "White House Iraq Group",
+    "Douglas Feith", 
+    "Harold Rhode",
+    "Karl Rove",
+    "Dick Cheney",
+    "CIA",
+    "Carl Levin"
+  ],
+  "tags": [
+    "osp",
+    "whig",
+    "cia-bypass",
+    "intelligence-manipulation", 
+    "feith",
+    "constitutional-violation",
+    "systematic-deception",
+    "parallel-intelligence"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense for Policy", 
+      "url": "https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF",
+      "outlet": "Pentagon Inspector General",
+      "date": "2007-02-09"
+    },
+    {
+      "title": "Senate Report on Pre-war Intelligence on Iraq",
+      "url": "https://www.intelligence.senate.gov/sites/default/files/publications/iraqreport2.pdf", 
+      "outlet": "Senate Intelligence Committee",
+      "date": "2004-07-09"
+    },
+    {
+      "title": "Pentagon Created Phantom Cell to Push Iraq Intelligence",
+      "url": "https://www.nytimes.com/2004/10/25/politics/pentagon-created-phantom-cell-to-push-iraq-intelligence.html",
+      "outlet": "New York Times", 
+      "date": "2004-10-25"
+    }
+  ]
+}

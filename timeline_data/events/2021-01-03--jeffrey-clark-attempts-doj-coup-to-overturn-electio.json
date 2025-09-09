@@ -12,11 +12,18 @@
     "Department of Justice"
   ],
   "tags": [
+    "constitutional_crisis",
+    "institutional_capture",
+    "coup_attempt",
+    "january-6",
+    "kleptocracy",
+    "election_subversion",
+    "abuse-of-power",
+    "doj_weaponization",
     "coup-attempt",
     "election-fraud",
-    "doj-corruption",
-    "abuse-of-power",
-    "january-6"
+    "georgia_election",
+    "doj-corruption"
   ],
   "status": "confirmed",
   "sources": [
@@ -37,6 +44,26 @@
       "url": "https://www.washingtonpost.com/national-security/2022/06/23/jeffrey-clark-jan-6-committee/",
       "outlet": "Washington Post",
       "date": "2022-06-23"
+    },
+    {
+      "title": "Trump wanted to install loyalist as acting attorney general to help overturn election results",
+      "url": "https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html",
+      "outlet": "The New York Times",
+      "date": "2021-01-22"
+    },
+    {
+      "title": "Jan. 6 panel shows how Trump tried to install loyalist at Justice Dept.",
+      "url": "https://www.washingtonpost.com/national-security/2022/06/23/jeffrey-clark-jan6-hearing/",
+      "outlet": "The Washington Post",
+      "date": "2022-06-23"
+    },
+    {
+      "title": "DOJ officials threatened mass resignations if Trump installed Clark as AG",
+      "url": "https://www.cnn.com/2021/01/24/politics/rosen-trump-justice-department-resignations/index.html",
+      "outlet": "CNN",
+      "date": "2021-01-24"
     }
-  ]
+  ],
+  "_merge_note": "Enhanced with information from duplicate event: 2021-01-03--jeffrey-clark-doj-takeover-attempt",
+  "_merge_timestamp": "2025-09-05T23:46:55.903636"
 }

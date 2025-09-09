@@ -1,0 +1,28 @@
+{
+  "id": "2010-04-14--robo-signing-scandal-exposed",
+  "date": "2010-04-14",
+  "importance": 8,
+  "title": "Robo-Signing Scandal Exposed Systematic Foreclosure Document Fraud",
+  "summary": "Investigation reveals major banks systematically falsified foreclosure documents through 'robo-signing', affecting 3.8 million homes.",
+  "actors": [
+    "Bank of America",
+    "JPMorgan Chase",
+    "Wells Fargo",
+    "Citigroup",
+    "GMAC"
+  ],
+  "tags": [
+    "financial-crisis",
+    "fraud",
+    "foreclosure-abuse",
+    "perjury"
+  ],
+  "sources": [
+    {
+      "title": "Robo-Signing, Explained",
+      "url": "https://www.cbsnews.com/news/robo-signing-explained/",
+      "outlet": "CBS News",
+      "date": "2010-10-06"
+    }
+  ]
+}

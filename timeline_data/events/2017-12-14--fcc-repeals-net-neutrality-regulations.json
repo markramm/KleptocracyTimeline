@@ -1,0 +1,28 @@
+{
+  "id": "2017-12-14--fcc-repeals-net-neutrality-regulations",
+  "date": "2017-12-14",
+  "importance": 8,
+  "title": "FCC Repeals Net Neutrality Regulations Under Industry Pressure",
+  "summary": "FCC Chairman Ajit Pai, former Verizon lawyer, leads repeal of net neutrality despite overwhelming public opposition, prioritizing ISP profits over consumer protection.",
+  "actors": [
+    "Ajit Pai",
+    "Federal Communications Commission",
+    "Verizon",
+    "Comcast",
+    "AT&T"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "net-neutrality",
+    "fcc",
+    "telecom"
+  ],
+  "sources": [
+    {
+      "title": "F.C.C. Repeals Net Neutrality Rules",
+      "url": "https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html",
+      "outlet": "New York Times",
+      "date": "2017-12-14"
+    }
+  ]
+}

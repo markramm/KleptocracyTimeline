@@ -10,8 +10,13 @@
     "Trump Organization"
   ],
   "tags": [
-    "real-estate",
-    "russian-oligarch"
+    "russian_oligarchs",
+    "financial_crimes",
+    "epstein_network",
+    "money_laundering",
+    "real_estate",
+    "russian-oligarch",
+    "real-estate"
   ],
   "status": "confirmed",
   "sources": [
@@ -32,7 +37,23 @@
       "url": "https://abcnews.go.com/Politics/follow-money-senator-probes-trumps-95-million-palm/story?id=52970095",
       "outlet": "ABC News",
       "date": "2018-02-09"
+    },
+    {
+      "title": "Maison de L'Amitie - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maison_de_L'Amitie",
+      "outlet": "Wikipedia",
+      "date": "2024-01-01",
+      "archive_url": "https://web.archive.org/web/20240101000000/https://en.wikipedia.org/wiki/Maison_de_L'Amitie"
+    },
+    {
+      "title": "Why did a Russian pay $95M to buy Trump's Palm Beach mansion?",
+      "url": "https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion",
+      "outlet": "Seattle Times",
+      "date": "2018-01-01",
+      "archive_url": "https://web.archive.org/web/20240101000000/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/"
     }
   ],
-  "notes": "Price and timing confirmed by property reporting. High price drew scrutiny; a\nSenate inquiry sought records but found no public allegation of illegality.\nDemolition/subdivision later yielded about $108M in total sales.\n"
+  "notes": "Price and timing confirmed by property reporting. High price drew scrutiny; a\nSenate inquiry sought records but found no public allegation of illegality.\nDemolition/subdivision later yielded about $108M in total sales.\n",
+  "_merge_note": "Enhanced with information from duplicate event: 2008-07-16--trump-sells-palm-beach-mansion-to-russian-oligarch",
+  "_merge_timestamp": "2025-09-05T23:46:55.898319"
 }

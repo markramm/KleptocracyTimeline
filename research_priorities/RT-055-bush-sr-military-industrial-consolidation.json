@@ -1,0 +1,98 @@
+{
+  "id": "RT-055-bush-sr-military-industrial-consolidation",
+  "title": "Bush Sr Military-Industrial Complex Consolidation and Defense Contractor Capture (1989-1993)",
+  "description": "Research Bush Sr administration's systematic consolidation of military-industrial complex through defense industry merger facilitation, revolving door institutionalization, and Pentagon capture acceleration. Document end of Cold War exploitation to justify continued defense spending through new threat construction and contractor dependency establishment. Focus on how Bush Sr's defense industry connections enabled systematic taxpayer resource transfer to private military contractors establishing permanent warfare state infrastructure.",
+  "priority": 8,
+  "status": "pending",
+  "category": "military-industrial-capture",
+  "tags": [
+    "bush-sr-administration",
+    "military-industrial-consolidation",
+    "defense-contractor-capture-acceleration",
+    "cold-war-end-exploitation",
+    "pentagon-systematic-capture",
+    "revolving-door-institutionalization",
+    "permanent-warfare-state-establishment",
+    "taxpayer-resource-transfer-systematization"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "time_period": "1989-1993",
+  "constitutional_issues": [
+    "democratic oversight erosion through contractor capture",
+    "taxpayer protection violations through systematic resource transfer",
+    "congressional war powers circumvention through contractor dependency",
+    "public interest subordination to military-industrial complex"
+  ],
+  "estimated_importance": 7,
+  "key_sources": [
+    {
+      "title": "Bush Sr administration defense industry merger approval records",
+      "type": "regulatory-records",
+      "credibility": 9,
+      "why": "Documents systematic facilitation of defense industry consolidation"
+    },
+    {
+      "title": "Pentagon personnel revolving door records during Bush Sr era",
+      "type": "personnel-records",
+      "credibility": 8,
+      "why": "Shows systematic movement between Pentagon and defense contractors"
+    },
+    {
+      "title": "Defense contractor lobbying records and access documentation",
+      "type": "lobbying-records",
+      "credibility": 8,
+      "why": "Reveals systematic contractor influence over defense policy"
+    },
+    {
+      "title": "Cold War end defense spending justification strategy documents",
+      "type": "strategic-records",
+      "credibility": 8,
+      "why": "Shows systematic strategy to maintain defense spending despite threat reduction"
+    },
+    {
+      "title": "Congressional defense oversight committee records on contractor relationships",
+      "type": "congressional-records",
+      "credibility": 7,
+      "why": "Documents erosion of legislative oversight through contractor capture"
+    }
+  ],
+  "actors_to_investigate": [
+    "George H.W. Bush",
+    "Dick Cheney",
+    "Colin Powell",
+    "Brent Scowcroft",
+    "Defense contractor executives",
+    "Pentagon revolving door participants",
+    "Defense industry lobbyists",
+    "Military-industrial complex coordinators"
+  ],
+  "expected_outcomes": [
+    "Documents systematic consolidation of military-industrial complex under Bush Sr",
+    "Reveals exploitation of Cold War end to justify continued contractor dependency",
+    "Shows establishment of permanent warfare state infrastructure",
+    "Establishes foundation for post-9/11 defense contractor expansion",
+    "Documents systematic taxpayer resource transfer to private military contractors"
+  ],
+  "connections": [
+    {
+      "to": "RT-052-bush-sr-intelligence-privatization-acceleration",
+      "type": "coordinates_with",
+      "description": "Military contractor consolidation coordinates with intelligence privatization"
+    },
+    {
+      "to": "RT-051-reagan-era-regulatory-capture-foundation",
+      "type": "builds_on",
+      "description": "Defense contractor capture builds on Reagan deregulation framework"
+    },
+    {
+      "to": "RT-015-systematic-intelligence-community-corruption",
+      "type": "enables",
+      "description": "Defense contractor capture enables systematic intelligence community corruption"
+    }
+  ],
+  "research_notes": "Bush Sr era crucial for military-industrial consolidation - end of Cold War created opportunity to restructure defense industry for permanent capture rather than downsizing. Dick Cheney's role particularly important for later patterns.",
+  "reprioritization_reason": "Timeline coverage gap analysis - high value for unique content"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "RT-006-whig-congressional-deception-campaigns",
+  "title": "WHIG Congressional Deception and Legislative Manipulation Campaigns",
+  "description": "Research how the White House Iraq Group systematically deceived Congress through coordinated briefings, classified intelligence presentations, and legislative liaison activities designed to secure authorization for Iraq War. Investigate Nicholas Calio's role as WHIG legislative liaison, coordination between WHIG messaging and congressional briefings, manipulation of classified intelligence presentations to Congress, and systematic deception of both parties' leadership. Document how WHIG transformed constitutional war powers into a propaganda-driven rubber stamp process.",
+  "priority": 9,
+  "status": "completed",
+  "category": "congressional-deception",
+  "tags": [
+    "whig",
+    "congressional-deception",
+    "war-authorization",
+    "legislative-manipulation",
+    "classified-briefings",
+    "separation-of-powers",
+    "nicholas-calio"
+  ],
+  "estimated_events": 4,
+  "actual_events": 2,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "completion_date": "2025-09-06",
+  "triggered_by": [
+    "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+    "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz",
+    "2003-07-07--whig-coordinates-wilson-discrediting-campaign-plame-leak"
+  ],
+  "key_sources": [
+    {
+      "title": "Senate Intelligence Committee report on pre-war intelligence briefings",
+      "type": "congressional-report",
+      "credibility": 10,
+      "why": "Official documentation of intelligence presentation to Congress"
+    },
+    {
+      "title": "White House legislative liaison meeting logs and briefing materials",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Direct evidence of WHIG coordination with congressional relations"
+    },
+    {
+      "title": "Congressional leadership meeting transcripts and classified briefing records",
+      "type": "congressional-records",
+      "credibility": 10,
+      "why": "Documentation of actual intelligence presented vs. WHIG public messaging"
+    },
+    {
+      "title": "Iraq War authorization debate records and classified annexes",
+      "type": "congressional-records",
+      "credibility": 10,
+      "why": "Shows how WHIG propaganda influenced legislative process"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic manipulation of congressional war authorization process",
+    "Reveals coordination between WHIG propaganda and classified congressional briefings",
+    "Shows violation of separation of powers through legislative deception",
+    "Connects public propaganda campaigns to private congressional manipulation"
+  ],
+  "connections": [
+    {
+      "to": "RT-005-whig-media-coordination-mechanisms",
+      "type": "parallel",
+      "description": "Simultaneous manipulation of media and congressional audiences"
+    },
+    {
+      "to": "RT-007-office-special-plans-whig-coordination",
+      "type": "related",
+      "description": "Pentagon intelligence manipulation supporting congressional deception"
+    }
+  ],
+  "actors_to_investigate": [
+    "Nicholas Calio",
+    "Karl Rove",
+    "Stephen Hadley",
+    "Condoleezza Rice",
+    "Tom Daschle",
+    "Trent Lott",
+    "Nancy Pelosi",
+    "Dick Gephardt",
+    "Bob Graham",
+    "Porter Goss"
+  ],
+  "time_period": "2002-2003",
+  "constitutional_issues": [
+    "separation of powers",
+    "war powers",
+    "congressional authority",
+    "executive deception",
+    "checks and balances"
+  ],
+  "estimated_importance": 9
+}

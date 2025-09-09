@@ -5,10 +5,11 @@
   "title": "National emergency declared at U.S. southern border",
   "summary": "Trump declared national emergency at southern border citing \"invasion\" by cartels, criminal gangs, and \"unvetted military-age males.\" Deployed 1,500 active-duty troops (1,000 Army, 500 Marines) with helicopters and intelligence analysts. Ordered Pentagon to develop 10-day plan to \"seal off\" border with Mexico including more troops, drones, barriers. Designated cartels as foreign terrorist organizations including Tren de Aragua and MS-13. Signed order authorizing direct military operations against cartels on foreign soil potentially inside Mexico. Ended \"catch and release,\" reinstated \"Remain in Mexico\" policy.",
   "tags": [
+    "immigration",
     "national-emergency",
     "border",
-    "immigration",
-    "capture-patterns"
+    "capture-patterns",
+    "energy"
   ],
   "capture_lanes": [
     "Executive Power & Emergency Authority",
@@ -44,6 +45,31 @@
       "url": "https://www.defenseone.com/policy/2025/01/border-declaration-terrorist-designations-would-unlock-new-optionsand-new-risks/402352/",
       "outlet": "Defense One",
       "date": "2025-01-21"
+    },
+    {
+      "title": "White House – Declaring a National Energy Emergency",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency",
+      "outlet": "White House",
+      "date": "2025-01-21",
+      "archive_url": "https://web.archive.org/web/20250101000000/https://www.whitehouse.gov/presidential-actions/"
+    },
+    {
+      "title": "Trump has declared a national energy emergency. What does that mean?",
+      "url": "https://www.npr.org/2025/01/20/nx-s1-5268653/energy-emergency-trump-oil-evs",
+      "outlet": "NPR",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Trump plans to declare a national energy emergency. What does that mean?",
+      "url": "https://www.opb.org/article/2025/01/21/trumps-energy-emergency-plans-what-we-know/",
+      "outlet": "Oregon Public Broadcasting",
+      "date": "2025-01-21"
+    },
+    {
+      "title": "Demystifying President Trumps National Energy Emergency and the Scope of Emergency Authority",
+      "url": "https://blogs.law.columbia.edu/climatechange/2025/02/14/demystifying-president-trumps-national-energy-emergency-and-the-scope-of-emergency-authority/",
+      "outlet": "Columbia Law School Climate Law Blog",
+      "date": "2025-02-14"
     }
   ],
   "actors": [
@@ -82,5 +108,7 @@
     "posse comitatus concerns",
     "emergency powers expansion"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-01-21--energy-emergency",
+  "_merge_timestamp": "2025-09-05T23:46:55.899532"
 }

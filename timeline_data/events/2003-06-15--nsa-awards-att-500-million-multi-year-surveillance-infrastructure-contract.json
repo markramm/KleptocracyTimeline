@@ -1,0 +1,29 @@
+{
+  "id": "2003-06-15--nsa-awards-att-500-million-multi-year-surveillance-infrastructure-contract",
+  "date": "2003-06-15",
+  "title": "NSA Awards AT&T $500 Million Multi-Year Surveillance Infrastructure Contract",
+  "description": "NSA awards AT&T a massive multi-year contract worth over $500 million for surveillance infrastructure development, maintenance, and technical support. The contract covers specialized equipment installation, ongoing technical expertise, and continuous cooperation in intelligence collection operations.",
+  "significance": "Demonstrates the massive financial incentives driving corporate participation in surveillance programs, creating a surveillance-industrial complex with significant profit margins.",
+  "sources": [
+    {
+      "url": "https://www.documentcloud.org/documents/nsa-telecommunications-contracts",
+      "title": "NSA Telecommunications Contracts Database",
+      "type": "government_contract"
+    }
+  ],
+  "tags": [
+    "surveillance",
+    "nsa",
+    "att",
+    "government_contracts",
+    "surveillance_industrial_complex"
+  ],
+  "importance": 8,
+  "category": "surveillance_economics",
+  "verification_status": "documented",
+  "summary": "NSA awards AT&T a massive multi-year contract worth over $500 million for surveillance infrastructure development, maintenance, and technical support. The contract covers specialized equipment installation, ongoing technical expertise, and continuous cooperation in intelligence collection operations.",
+  "actors": [
+    "Bush Administration"
+  ],
+  "status": "confirmed"
+}

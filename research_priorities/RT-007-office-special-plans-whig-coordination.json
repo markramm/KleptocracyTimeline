@@ -1,0 +1,88 @@
+{
+  "id": "RT-007-office-special-plans-whig-coordination",
+  "title": "Office of Special Plans and WHIG Intelligence Manipulation Coordination",
+  "description": "Research the systematic coordination between the Pentagon's Office of Special Plans (OSP) and the White House Iraq Group in manufacturing and disseminating fabricated intelligence about Iraqi WMD capabilities. Investigate Douglas Feith's role in connecting OSP products to WHIG messaging, coordination meetings between Pentagon and White House staff, transformation of OSP raw intelligence manipulation into WHIG public messaging, and institutional mechanisms bypassing traditional intelligence vetting. Document how this inter-agency conspiracy created a parallel intelligence apparatus designed to justify predetermined war policy.",
+  "priority": 8,
+  "status": "pending",
+  "category": "inter-agency-coordination",
+  "tags": [
+    "office-special-plans",
+    "whig",
+    "intelligence-manipulation",
+    "douglas-feith",
+    "inter-agency-conspiracy",
+    "pentagon-coordination",
+    "parallel-intelligence"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+    "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz",
+    "2003-07-07--whig-coordinates-wilson-discrediting-campaign-plame-leak"
+  ],
+  "key_sources": [
+    {
+      "title": "Pentagon Inspector General report on Office of Special Plans activities",
+      "type": "government-report",
+      "credibility": 10,
+      "why": "Official investigation of OSP intelligence manipulation methods"
+    },
+    {
+      "title": "Senate Intelligence Committee interviews with OSP staff",
+      "type": "congressional-records",
+      "credibility": 10,
+      "why": "Under-oath testimony about coordination with White House"
+    },
+    {
+      "title": "OSP meeting logs and intelligence product distribution records",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Direct evidence of intelligence sharing with WHIG members"
+    },
+    {
+      "title": "Feith-Hadley meeting schedules and communication records",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Documentation of Pentagon-White House intelligence coordination"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic intelligence manufacturing pipeline from OSP to WHIG",
+    "Reveals institutional mechanisms for bypassing traditional intelligence vetting",
+    "Shows inter-agency conspiracy to create parallel intelligence apparatus",
+    "Connects specific fabricated intelligence products to public propaganda campaigns"
+  ],
+  "connections": [
+    {
+      "to": "RT-006-whig-congressional-deception-campaigns",
+      "type": "feeds-into",
+      "description": "OSP fabrications provided content for congressional deception"
+    },
+    {
+      "to": "RT-005-whig-media-coordination-mechanisms",
+      "type": "feeds-into",
+      "description": "OSP products transformed into media talking points"
+    }
+  ],
+  "actors_to_investigate": [
+    "Douglas Feith",
+    "Stephen Hadley",
+    "Paul Wolfowitz",
+    "Abram Shulsky",
+    "William Luti",
+    "John Hannah",
+    "David Wurmser",
+    "Michael Maloof"
+  ],
+  "time_period": "2001-2003",
+  "constitutional_issues": [
+    "separation of powers",
+    "intelligence community integrity",
+    "executive accountability",
+    "inter-agency coordination abuse"
+  ],
+  "estimated_importance": 8
+}

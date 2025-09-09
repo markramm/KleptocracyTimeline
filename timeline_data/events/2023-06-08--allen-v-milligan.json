@@ -12,9 +12,15 @@
     "DOJ Civil Rights Division"
   ],
   "tags": [
-    "voting-rights",
+    "section-2",
+    "section_2_vra",
+    "voting_rights_act",
     "redistricting",
-    "section-2"
+    "racial_discrimination",
+    "alabama",
+    "voting-rights",
+    "supreme_court",
+    "democratic_protection"
   ],
   "patterns": [],
   "related_events": [
@@ -46,6 +52,26 @@
         "DOJ's framing of §2 standards in the Alabama litigation"
       ],
       "verified": true
+    },
+    {
+      "title": "Supreme Court rules in favor of Black voters in Alabama redistricting case",
+      "url": "https://www.scotusblog.com/2023/06/supreme-court-rules-in-favor-of-black-voters-in-alabama-redistricting-case/",
+      "outlet": "SCOTUSblog",
+      "date": "2023-06-08"
+    },
+    {
+      "title": "Supreme Court rejects Alabama redistricting map in major voting rights decision",
+      "url": "https://www.npr.org/2023/06/08/1181018468/supreme-court-alabama-redistricting-map-voting-rights",
+      "outlet": "NPR",
+      "date": "2023-06-08"
+    },
+    {
+      "title": "Court finds Alabama acted with discriminatory intent in redistricting",
+      "url": "https://www.aclu.org/press-releases/federal-court-alabama-discriminatory-intent",
+      "outlet": "ACLU",
+      "date": "2025-05-01"
     }
-  ]
+  ],
+  "_merge_note": "Enhanced with information from duplicate event: 2023-06-08--allen-v-milligan-voting-rights",
+  "_merge_timestamp": "2025-09-05T23:46:55.905005"
 }

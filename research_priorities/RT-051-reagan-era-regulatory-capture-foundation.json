@@ -1,0 +1,94 @@
+{
+  "id": "RT-051-reagan-era-regulatory-capture-foundation",
+  "title": "Reagan Era Regulatory Capture Foundation and Powell Memorandum Implementation (1981-1989)",
+  "description": "Research systematic implementation of Lewis Powell's corporate capture strategy during Reagan administration. Document deregulation campaigns, appointment of industry insiders to regulatory positions, and establishment of anti-government ideology as cover for corporate capture. Focus on how Reagan era created institutional framework for systematic kleptocratic capture used by subsequent administrations.",
+  "priority": 10,
+  "status": "pending",
+  "category": "foundational-regulatory-capture",
+  "tags": [
+    "reagan-administration",
+    "powell-memorandum-implementation",
+    "systematic-deregulation",
+    "corporate-capture-institutionalization",
+    "regulatory-agency-capture",
+    "anti-government-ideology-cover",
+    "foundational-capture-mechanisms",
+    "kleptocratic-infrastructure-establishment"
+  ],
+  "estimated_events": 12,
+  "actual_events": 0,
+  "created_date": "2025-01-06",
+  "updated_date": "2025-09-06",
+  "time_period": "1981-1989",
+  "constitutional_issues": [
+    "systematic regulatory capture",
+    "democratic accountability elimination",
+    "corporate constitutional capture",
+    "separation of powers erosion through industry insider appointments"
+  ],
+  "estimated_importance": 10,
+  "key_sources": [
+    {
+      "title": "Reagan administration agency appointment records and industry backgrounds",
+      "type": "personnel-records",
+      "credibility": 10,
+      "why": "Documents systematic appointment of industry insiders to regulatory positions"
+    },
+    {
+      "title": "Heritage Foundation and American Enterprise Institute policy development records",
+      "type": "think-tank-records",
+      "credibility": 9,
+      "why": "Shows coordinated ideological framework for regulatory capture"
+    },
+    {
+      "title": "Chamber of Commerce and Business Roundtable strategy documents",
+      "type": "corporate-records",
+      "credibility": 9,
+      "why": "Reveals systematic corporate strategy for government capture"
+    },
+    {
+      "title": "EPA, OSHA, and financial regulatory agency policy reversal documentation",
+      "type": "regulatory-records",
+      "credibility": 9,
+      "why": "Documents systematic rollback of protective regulations"
+    },
+    {
+      "title": "OMB regulatory impact analysis manipulation records",
+      "type": "government-records",
+      "credibility": 8,
+      "why": "Shows systematic bias in cost-benefit analyses favoring industry"
+    }
+  ],
+  "actors_to_investigate": [
+    "Ronald Reagan",
+    "James Watt",
+    "Anne Gorsuch",
+    "Donald Regan",
+    "David Stockman",
+    "Murray Weidenbaum",
+    "Heritage Foundation leadership",
+    "Business Roundtable executives",
+    "Powell Memorandum network participants"
+  ],
+  "expected_outcomes": [
+    "Documents foundational template for systematic regulatory capture",
+    "Reveals connection between Powell Memorandum strategy and Reagan implementation",
+    "Establishes baseline for understanding modern kleptocratic patterns",
+    "Shows how anti-government ideology serves as cover for corporate capture",
+    "Documents institutionalization of revolving door practices"
+  ],
+  "connections": [
+    {
+      "to": "RT-052-bush-sr-intelligence-privatization-acceleration",
+      "type": "enables",
+      "description": "Reagan deregulation framework enables Bush Sr intelligence privatization"
+    },
+    {
+      "to": "RT-050-clinton-era-financial-deregulation-capture",
+      "type": "enables",
+      "description": "Reagan anti-regulatory framework enables Clinton financial deregulation"
+    }
+  ],
+  "research_notes": "Reagan era is foundational to modern kleptocracy - established institutional mechanisms and ideological cover that all subsequent administrations built upon. Focus on systematic patterns rather than individual scandals like Iran-Contra.",
+  "reprioritization_reason": "Timeline coverage gap analysis - high value for unique content"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "RT-005-whig-media-coordination-mechanisms",
+  "title": "WHIG Media Coordination Mechanisms and Network Executive Complicity",
+  "description": "Research the systematic mechanisms by which the White House Iraq Group coordinated with major television networks to disseminate synchronized propaganda messages. Investigate pre-arranged appearances, talking point distribution systems, network executive meetings, and the infrastructure that enabled coordinated Sunday show blitzes like September 8, 2002. Document how WHIG transformed disparate media outlets into a unified propaganda apparatus through institutional relationships and advance coordination.",
+  "priority": 9,
+  "status": "completed",
+  "category": "media-coordination",
+  "tags": [
+    "whig",
+    "media-manipulation",
+    "network-executives",
+    "sunday-shows",
+    "talking-points",
+    "propaganda-infrastructure",
+    "mushroom-cloud"
+  ],
+  "estimated_events": 5,
+  "actual_events": 2,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "completion_date": "2025-09-06",
+  "triggered_by": [
+    "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+    "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz",
+    "2003-07-07--whig-coordinates-wilson-discrediting-campaign-plame-leak"
+  ],
+  "key_sources": [
+    {
+      "title": "Network booking records for September 8, 2002 synchronized appearances",
+      "type": "corporate-records",
+      "credibility": 9,
+      "why": "Direct evidence of coordination timing and advance planning"
+    },
+    {
+      "title": "White House communications office call logs and meeting schedules",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Official documentation of network executive contact patterns"
+    },
+    {
+      "title": "Congressional testimony from network executives on pre-war coverage",
+      "type": "congressional-records",
+      "credibility": 9,
+      "why": "Under-oath accounts of White House coordination requests"
+    },
+    {
+      "title": "WHIG meeting minutes and communications strategy documents",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Internal planning documents showing media coordination strategies"
+    }
+  ],
+  "expected_outcomes": [
+    "Reveals systematic media coordination infrastructure beyond individual appearances",
+    "Documents network executive complicity in propaganda dissemination",
+    "Shows institutional mechanisms that enabled synchronized messaging campaigns",
+    "Connects WHIG strategy documents to actual media coordination execution"
+  ],
+  "connections": [
+    {
+      "to": "RT-008-corporate-media-executive-complicity",
+      "type": "related",
+      "description": "Corporate executive decision-making in propaganda coordination"
+    },
+    {
+      "to": "RT-COMPLETED-001-whig-propaganda-campaign",
+      "type": "extends",
+      "description": "Builds on completed WHIG research with media infrastructure focus"
+    }
+  ],
+  "actors_to_investigate": [
+    "Karen Hughes",
+    "Mary Matalin",
+    "Ari Fleischer",
+    "CNN executives",
+    "NBC executives",
+    "CBS executives",
+    "Fox News executives",
+    "Sunday show producers"
+  ],
+  "time_period": "2002-2003",
+  "constitutional_issues": [
+    "First Amendment",
+    "government propaganda",
+    "media independence",
+    "public manipulation"
+  ],
+  "estimated_importance": 9
+}

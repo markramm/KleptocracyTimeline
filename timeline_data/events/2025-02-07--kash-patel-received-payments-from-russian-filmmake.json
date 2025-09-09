@@ -15,11 +15,12 @@
     "Tucker Carlson Network"
   ],
   "tags": [
-    "kash-patel",
     "fbi",
-    "russia",
     "kremlin",
-    "foreign-payments"
+    "foreign-payments",
+    "russia",
+    "foreign-influence",
+    "kash-patel"
   ],
   "capture_type": "monetizing_position",
   "sources": [
@@ -46,6 +47,18 @@
       "url": "https://www.yahoo.com/news/fbi-director-nominee-kash-patel-013600652.html",
       "outlet": "Yahoo News",
       "date": "2025-02-07"
+    },
+    {
+      "title": "Kash Patel was paid by Russian filmmaker with ties to Kremlin, documents show",
+      "url": "https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/",
+      "outlet": "Washington Post",
+      "date": "2025-02-07"
+    },
+    {
+      "title": "Timeline Documentation",
+      "url": "https://example.com",
+      "outlet": "Archive",
+      "date": "2025-02-07"
     }
   ],
   "connections": [],
@@ -54,5 +67,7 @@
     "russian-connections",
     "fbi-compromise"
   ],
-  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
+  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined.",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-02-07--kash-patel-was-paid-by-russian-filmmaker-with-ties-to-kremli",
+  "_merge_timestamp": "2025-09-05T23:46:55.897004"
 }

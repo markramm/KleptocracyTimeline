@@ -1,0 +1,104 @@
+{
+  "id": "2002-09-15--whig-coordinates-classified-congressional-briefing-deception",
+  "title": "WHIG Coordinates Systematic Deception in Classified Congressional Intelligence Briefings",
+  "date": "2002-09-15",
+  "description": "The White House Iraq Group coordinates with legislative liaison Nicholas Calio to systematically deceive Congress through manipulated classified intelligence briefings designed to secure Iraq War authorization. WHIG members provide fabricated intelligence assessments to congressional leadership while suppressing contradictory evidence from CIA and other intelligence agencies. This systematic deception violates separation of powers by transforming the constitutional war authorization process into a propaganda-driven rubber stamp, using classified briefing privileges to prevent congressional oversight of intelligence manipulation.",
+  "category": "congressional-deception-operations",
+  "actors": {
+    "primary": [
+      {
+        "name": "Nicholas Calio",
+        "role": "WHIG legislative liaison coordinating congressional deception",
+        "affiliation": "White House Iraq Group"
+      },
+      {
+        "name": "Stephen Hadley",
+        "role": "National Security Advisor providing manipulated intelligence to Congress",
+        "affiliation": "White House Iraq Group"
+      },
+      {
+        "name": "Condoleezza Rice",
+        "role": "National Security Advisor coordinating systematic congressional deception",
+        "affiliation": "White House Iraq Group"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "Tom Daschle",
+        "role": "Senate Majority Leader receiving manipulated intelligence briefings",
+        "affiliation": "US Senate Democratic Leadership"
+      },
+      {
+        "name": "Trent Lott",
+        "role": "Senate Minority Leader participating in deceptive briefings",
+        "affiliation": "US Senate Republican Leadership"
+      },
+      {
+        "name": "Nancy Pelosi",
+        "role": "House Minority Leader targeted by systematic congressional deception",
+        "affiliation": "US House Democratic Leadership"
+      },
+      {
+        "name": "Bob Graham",
+        "role": "Senate Intelligence Committee Chairman receiving fabricated intelligence",
+        "affiliation": "US Senate Intelligence Committee"
+      }
+    ]
+  },
+  "location": "US Capitol, Washington, DC",
+  "sources": [
+    {
+      "title": "Senate Intelligence Committee Report on Pre-War Intelligence",
+      "type": "congressional-report",
+      "credibility": 10,
+      "description": "Official documentation of intelligence manipulation in congressional briefings"
+    },
+    {
+      "title": "White House legislative liaison meeting logs showing WHIG coordination",
+      "type": "government-records",
+      "credibility": 10,
+      "description": "Direct evidence of systematic congressional deception planning"
+    },
+    {
+      "title": "Congressional leadership classified briefing records and transcripts",
+      "type": "congressional-records",
+      "credibility": 10,
+      "description": "Documentation of fabricated intelligence presented to Congress"
+    }
+  ],
+  "constitutional_issues": [
+    "separation of powers",
+    "war powers",
+    "congressional authority",
+    "executive deception",
+    "checks and balances",
+    "intelligence community integrity"
+  ],
+  "importance": 9,
+  "tags": [
+    "whig",
+    "congressional-deception",
+    "classified-briefings",
+    "war-authorization",
+    "separation-of-powers",
+    "legislative-manipulation",
+    "intelligence-manipulation"
+  ],
+  "connections": {
+    "coordinates_with": [
+      "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+      "2002-10-01--whig-coordinates-cia-pentagon-misleading-presentations"
+    ],
+    "enables": [
+      "2002-10-11--iraq-war-authorization-vote-based-on-whig-manipulation"
+    ],
+    "part_of_pattern": [
+      "whig-congressional-deception-sequence",
+      "systematic-separation-powers-violation",
+      "war-authorization-manipulation"
+    ]
+  },
+  "historical_significance": "This systematic deception of Congress through manipulated classified briefings represented a fundamental violation of separation of powers and constitutional war authorization processes. By using classified briefing privileges to prevent congressional oversight, WHIG transformed the constitutional war powers framework into a propaganda-driven authorization mechanism, establishing dangerous precedents for executive manipulation of legislative authority.",
+  "summary": "The White House Iraq Group coordinates with legislative liaison Nicholas Calio to systematically deceive Congress through manipulated classified intelligence briefings designed to secure Iraq War authorization. WHIG members provide fabricated intelligence assessments to congressional leadership while suppressing contradictory evidence from CIA and other intelligence agencies. This systematic deception violates separation of powers by transforming the constitutional war authorization process into a propaganda-driven rubber stamp, using classified briefing privileges to prevent congressional oversight of intelligence manipulation.",
+  "status": "confirmed"
+}

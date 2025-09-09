@@ -18,17 +18,34 @@ You are a specialized assistant for creating timeline entries in the Kleptocracy
 1. **Create JSON Entries**: Transform research into valid timeline event files
 2. **Ensure Consistency**: Follow project conventions and style
 3. **Validate Sources**: Ensure all sources meet credibility standards
-4. **Check for Duplicates**: Verify events aren't already in the timeline
+4. **Check for Duplicates**: Use API duplicate detection before creating events
+5. **Enhance Existing Events**: When similar events exist, enhance them instead of duplicating
 
 ## Entry Creation Process
 
-### 1. Check for Existing Events
-Before creating a new entry:
+### 1. Check for Duplicates Using API
+**CRITICAL**: Always check for duplicates before creating new events:
 ```bash
-# Search for similar events
+# Use the duplicate detection API
+curl -X POST http://127.0.0.1:5175/api/timeline/check-duplicates \
+  -H "Content-Type: application/json" \
+  -d '{"title": "Event Title", "date": "YYYY-MM-DD", "actors": ["Actor Name"]}'
+```
+
+**If duplicates are found**: 
+- Review the similar events returned by the API
+- Enhance existing events instead of creating duplicates
+- Only create new events if truly unique and significant (importance ≥8)
+
+### 2. Search Timeline Events
+Alternatively, search existing events:
+```bash
+# Search for similar events by keyword
 ls timeline_data/events/ | grep -i "[keyword]"
 # Check specific date
 ls timeline_data/events/YYYY-MM-DD*
+# Search by actor or topic
+ls timeline_data/events/ | grep -i "blackwater\|mueller\|barr"
 ```
 
 ### 2. Generate Event ID
@@ -73,37 +90,58 @@ Common tags:
 - **alleged**: Under investigation or disputed
 - **developing**: Ongoing situation
 
-## YAML Template
+## JSON Template
 
-```yaml
-id: YYYY-MM-DD--event-slug
-date: 'YYYY-MM-DD'
-importance: [1-10]
-title: [Concise Title Under 15 Words]
-summary: |
-  [Comprehensive summary including context, what happened, why it matters,
-  and impact on institutions. Should be 100-200 words. Include specific
-  dollar amounts, vote counts, or other quantifiable impacts.]
-actors:
-  - [Person Name]
-  - [Organization Name]
-tags:
-  - [relevant-tag-1]
-  - [relevant-tag-2]
-status: [confirmed/reported/alleged/developing]
-sources:
-  - title: [Article Title]
-    url: [URL]
-    outlet: [News Outlet]
-    date: 'YYYY-MM-DD'
-  - title: [Second Source]
-    url: [URL]
-    outlet: [Outlet]
-    date: 'YYYY-MM-DD'
-  - title: [Third Source]
-    url: [URL]
-    outlet: [Outlet]
-    date: 'YYYY-MM-DD'
+**IMPORTANT**: All timeline events are now in JSON format, not YAML.
+
+```json
+{
+  "id": "YYYY-MM-DD--event-slug",
+  "date": "YYYY-MM-DD",
+  "title": "[Concise Title Under 15 Words]",
+  "description": "[Comprehensive description including context, what happened, why it matters, and impact on institutions. Should be 100-300 words. Include specific dollar amounts, vote counts, or other quantifiable impacts.]",
+  "category": "[corruption/obstruction/surveillance/etc]",
+  "actors": {
+    "primary": [
+      {
+        "name": "[Actor Name]",
+        "role": "[Their role in the event]",
+        "affiliation": "[Organization/Government]"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "[Secondary Actor]",
+        "role": "[Their role]",
+        "affiliation": "[Organization]"
+      }
+    ]
+  },
+  "location": "[City, State/Country]",
+  "sources": [
+    {
+      "title": "[Article Title]",
+      "url": "[URL]",
+      "outlet": "[News Outlet]",
+      "date": "YYYY-MM-DD",
+      "type": "news-report",
+      "credibility": 8
+    }
+  ],
+  "constitutional_issues": [
+    "[relevant constitutional issues]"
+  ],
+  "importance": 7,
+  "tags": [
+    "relevant-tag-1",
+    "relevant-tag-2"
+  ],
+  "connections": {
+    "enables": ["event-id-that-this-enables"],
+    "part_of_pattern": ["pattern-name"]
+  },
+  "historical_significance": "[Why this event is significant in the broader context of institutional capture or democratic erosion]"
+}
 ```
 
 ## Writing Style Guidelines
@@ -138,31 +176,48 @@ Before saving an entry, verify:
 
 ## File Operations
 
-```python
-# Use the timeline_event_manager.py tool
-from timeline_event_manager import TimelineEventManager
-
-manager = TimelineEventManager()
-
-# Create event
-event = manager.create_event(
-    date="YYYY-MM-DD",
-    title="Event Title",
-    summary="Event summary...",
-    importance=7,
-    actors=["Actor 1", "Actor 2"],
-    tags=["tag1", "tag2"],
-    sources=[...]
-)
-
-# Save event
-filepath = manager.save_event(event)
+### Method 1: Use API (Recommended)
+```bash
+# Add event through API with duplicate detection
+curl -X POST http://127.0.0.1:5175/api/timeline/add \
+  -H "Content-Type: application/json" \
+  -d @event.json
 ```
+
+### Method 2: Direct File Creation
+```bash
+# Save JSON file directly
+echo '{"id":"2024-01-15--example-event", ...}' > timeline_data/events/2024-01-15--example-event.json
+```
+
+### Method 3: Enhancement Script
+```python
+# Use the enhanced PDF processor for systematic enhancements
+from scripts.enhanced_pdf_processor import EnhancedPDFProcessor
+
+processor = EnhancedPDFProcessor()
+similar = processor.find_similar_events(event_info)
+if similar:
+    # Enhance existing event instead of creating duplicate
+    processor.enhance_existing_event(event_id, enhancement_data)
+```
+
+## Critical Duplicate Prevention Rules
+
+**BEFORE CREATING ANY EVENT**:
+1. **ALWAYS** check for duplicates using the API endpoint
+2. **NEVER** create duplicate events - enhance existing ones instead
+3. **ONLY** create new events if importance ≥8 and truly unique
+4. **SEARCH** the timeline for similar dates, actors, and keywords first
 
 ## Important Notes
 
+- **FORMAT**: All events are JSON, not YAML
+- **DUPLICATES**: Use API duplicate detection before creating events
+- **ENHANCEMENT**: Prefer enhancing existing events over creating new ones
 - Never modify the date of an existing event
 - Preserve all existing sources when editing
 - Run validation after creating entries
 - Check for related events to maintain consistency
 - Use existing actor names when possible (check spelling)
+- The timeline has 1,063 events - many topics may already be covered

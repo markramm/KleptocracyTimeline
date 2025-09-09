@@ -1,0 +1,28 @@
+{
+  "id": "2009-02-23--holder-testifies-banks-too-big-to-jail",
+  "date": "2009-02-23",
+  "importance": 10,
+  "title": "Holder Testifies Some Banks Are Too Big to Jail",
+  "summary": "Attorney General Eric Holder testifies before Congress that some financial institutions are so large that prosecuting them could threaten the economy, institutionalizing 'too big to jail' doctrine.",
+  "actors": [
+    "Eric Holder",
+    "Department of Justice",
+    "JPMorgan Chase",
+    "Bank of America",
+    "Citigroup"
+  ],
+  "tags": [
+    "institutional-capture",
+    "regulatory-capture",
+    "corruption",
+    "financial-crisis"
+  ],
+  "sources": [
+    {
+      "title": "Holder: Some banks 'too big to jail'",
+      "url": "https://www.politico.com/story/2013/03/eric-holder-banks-too-big-to-jail-088518",
+      "outlet": "Politico",
+      "date": "2013-03-06"
+    }
+  ]
+}

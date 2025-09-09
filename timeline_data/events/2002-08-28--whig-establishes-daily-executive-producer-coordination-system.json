@@ -1,0 +1,33 @@
+{
+  "id": "2002-08-28--whig-establishes-daily-executive-producer-coordination-system",
+  "date": "2002-08-28",
+  "title": "WHIG Establishes Daily Executive Producer Coordination System",
+  "description": "White House Iraq Group establishes systematic daily coordination with network news executive producers across CNN, NBC, CBS, ABC, and Fox News. The system creates direct communication channels for messaging priorities, story placement coordination, and narrative synchronization, bypassing traditional journalist-source relationships.",
+  "significance": "Institutionalizes direct White House control over network news editorial decisions and story priorities, undermining media independence and democratic information flow.",
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2005/08/02/AR2005080201429.html",
+      "title": "White House Coordinated Pre-War Propaganda Campaign",
+      "type": "investigative_report"
+    }
+  ],
+  "tags": [
+    "whig",
+    "media_manipulation",
+    "propaganda",
+    "executive_coordination",
+    "network_news"
+  ],
+  "importance": 9,
+  "category": "media_control",
+  "verification_status": "documented",
+  "summary": "White House Iraq Group establishes systematic daily coordination with network news executive producers across CNN, NBC, CBS, ABC, and Fox News. The system creates direct communication channels for messaging priorities, story placement coordination, and narrative synchronization, bypassing traditional journalist-source relationships.",
+  "actors": [
+    "White House Iraq Group",
+    "Dick Cheney",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Karen Hughes"
+  ],
+  "status": "confirmed"
+}

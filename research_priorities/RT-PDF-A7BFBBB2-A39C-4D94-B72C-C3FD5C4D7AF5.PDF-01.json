@@ -1,0 +1,17 @@
+{
+  "id": "RT-PDF-A7BFBBB2-A39C-4D94-B72C-C3FD5C4D7AF5.PDF-01",
+  "title": "PDF Analysis Priority: a7bfbbb2-a39c-4d94-b72c-c3fd5c4d7af5.pdf (1)",
+  "description": "Research priority generated from analysis of PDF document a7bfbbb2-a39c-4d94-b72c-c3fd5c4d7af5.pdf.pdf. This represents systematic institutional capture patterns identified in the document content.",
+  "priority": 6,
+  "status": "pending",
+  "category": "pdf-generated",
+  "tags": [
+    "pdf-analysis",
+    "systematic-capture"
+  ],
+  "estimated_events": 3,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "estimated_importance": 6
+}

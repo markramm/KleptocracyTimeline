@@ -1,0 +1,33 @@
+{
+  "id": "2002-11-05--osp-fabricates-iraq-al-qaeda-connection-intelligence-for-whig-distribution",
+  "date": "2002-11-05",
+  "title": "OSP Fabricates Iraq-Al Qaeda Connection Intelligence for WHIG Distribution",
+  "description": "Office of Special Plans produces systematically fabricated intelligence reports claiming operational connections between Iraq and Al-Qaeda, specifically designed for WHIG's propaganda campaign distribution. The reports directly contradict CIA and FBI analysis but provide essential talking points for administration officials.",
+  "significance": "Shows direct coordination between intelligence fabrication and propaganda dissemination operations, demonstrating how false intelligence was systematically created for public consumption.",
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/04/05/AR2007040502263.html",
+      "title": "Pentagon Report on Pre-War Intelligence Activities",
+      "type": "government_report"
+    }
+  ],
+  "tags": [
+    "osp",
+    "whig",
+    "intelligence_fabrication",
+    "iraq_alqaeda_connection",
+    "propaganda_distribution"
+  ],
+  "importance": 9,
+  "category": "intelligence_corruption",
+  "verification_status": "documented",
+  "summary": "Office of Special Plans produces systematically fabricated intelligence reports claiming operational connections between Iraq and Al-Qaeda, specifically designed for WHIG's propaganda campaign distribution. The reports directly contradict CIA and FBI analysis but provide essential talking points for administration officials.",
+  "actors": [
+    "White House Iraq Group",
+    "Dick Cheney",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Karen Hughes"
+  ],
+  "status": "confirmed"
+}

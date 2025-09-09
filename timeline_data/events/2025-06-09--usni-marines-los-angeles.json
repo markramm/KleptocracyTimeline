@@ -14,8 +14,10 @@
     "California National Guard"
   ],
   "tags": [
-    "civil-military",
-    "domestic-operations"
+    "domestic-deployment",
+    "domestic-operations",
+    "military",
+    "civil-military"
   ],
   "citations": [
     "https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles"
@@ -46,6 +48,14 @@
       "url": "https://www.npr.org/2025/06/09/g-s1-71640/trump-mobilizes-marines-for-duty-in-los-angeles",
       "outlet": "NPR",
       "date": "2025-06-09"
+    },
+    {
+      "title": "USNORTHCOM Statement on Additional Military Personnel in the Los Angeles Area",
+      "url": "https://www.northcom.mil/Newsroom/Press-Releases/Article/4210889/usnorthcom-statement-on-additional-military-personnel-in-the-los-angeles-area",
+      "outlet": "US Northern Command",
+      "date": "2025-06-09"
     }
-  ]
+  ],
+  "_merge_note": "Enhanced with information from duplicate event: 2025-06-09--marines-los-angeles",
+  "_merge_timestamp": "2025-09-05T23:46:55.897380"
 }

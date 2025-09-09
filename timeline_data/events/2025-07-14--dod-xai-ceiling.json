@@ -16,11 +16,31 @@
       "url": "https://www.reuters.com/business/autos-transportation/us-department-defense-awards-contracts-google-xai-2025-07-14",
       "outlet": "Reuters",
       "date": "2025-07-14"
+    },
+    {
+      "title": "DoD CDAO press – Partnerships with frontier AI companies",
+      "url": "https://www.ai.mil/latest/news-press/pr-view/article/4242822/cdao-announces-partnerships-with-frontier-ai-companies-to-address-national-secu",
+      "outlet": "U.S. Department of Defense AI",
+      "date": "2025-07-14"
+    },
+    {
+      "title": "Reuters – Pentagon awards vendor list",
+      "url": "https://www.reuters.com/business/autos-transportation/us-department-defense-awards-contracts-google-xai-2025-07-14",
+      "outlet": "Reuters",
+      "date": "2025-07-14",
+      "archive_url": "https://web.archive.org/web/20250814194913/https://www.reuters.com/"
     }
   ],
   "status": "confirmed",
   "tags": [
-    "government-action"
+    "ai",
+    "cdao",
+    "defense",
+    "government-action",
+    "procurement",
+    "xai"
   ],
-  "actors": []
+  "actors": [],
+  "_merge_note": "Enhanced with information from duplicate event: 2025-07-14--dod-frontier-ai-contracts-xai",
+  "_merge_timestamp": "2025-09-05T23:46:55.900947"
 }

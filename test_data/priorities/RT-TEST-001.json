@@ -1,0 +1,15 @@
+{
+  "id": "RT-TEST-001",
+  "title": "Test Priority for Event System",
+  "description": "Testing the event-driven architecture with direct database updates",
+  "priority": 8,
+  "status": "completed",
+  "category": "test",
+  "tags": [
+    "test",
+    "event-driven"
+  ],
+  "estimated_events": 2,
+  "created_date": "2025-09-06",
+  "completion_date": "2025-09-06"
+}

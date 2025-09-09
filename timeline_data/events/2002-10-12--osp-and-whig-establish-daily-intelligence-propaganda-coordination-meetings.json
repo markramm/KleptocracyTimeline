@@ -1,0 +1,33 @@
+{
+  "id": "2002-10-12--osp-and-whig-establish-daily-intelligence-propaganda-coordination-meetings",
+  "date": "2002-10-12",
+  "title": "OSP and WHIG Establish Daily Intelligence-Propaganda Coordination Meetings",
+  "description": "Office of Special Plans and White House Iraq Group establish daily coordination meetings to synchronize intelligence production with propaganda messaging operations. The meetings ensure OSP intelligence products directly support WHIG's public messaging campaigns and media coordination efforts.",
+  "significance": "Institutionalizes coordination between intelligence manipulation and propaganda operations, creating systematic process for converting fabricated intelligence into public messaging.",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/world/2004/jul/17/usa.iraq1",
+      "title": "Pentagon Office Produced 'Alternative' Intelligence on Iraq",
+      "type": "news_report"
+    }
+  ],
+  "tags": [
+    "osp",
+    "whig",
+    "intelligence_coordination",
+    "propaganda_synchronization",
+    "daily_meetings"
+  ],
+  "importance": 8,
+  "category": "intelligence_corruption",
+  "verification_status": "documented",
+  "summary": "Office of Special Plans and White House Iraq Group establish daily coordination meetings to synchronize intelligence production with propaganda messaging operations. The meetings ensure OSP intelligence products directly support WHIG's public messaging campaigns and media coordination efforts.",
+  "actors": [
+    "White House Iraq Group",
+    "Dick Cheney",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Karen Hughes"
+  ],
+  "status": "confirmed"
+}

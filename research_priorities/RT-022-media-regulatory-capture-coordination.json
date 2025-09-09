@@ -1,0 +1,78 @@
+{
+  "id": "RT-022-media-regulatory-capture-coordination",
+  "title": "Media-Regulatory Capture Coordination: FCC-Corporate Network Systematic Cooperation",
+  "description": "Research the systematic coordination between FCC regulatory pressures and corporate media executive decision-making that enabled WHIG propaganda coordination. Investigate how regulatory agencies systematically leveraged licensing authority, merger approval processes, and compliance requirements to ensure media cooperation with government messaging. Document the institutional mechanisms by which regulatory capture transformed independent media oversight into government propaganda facilitation, creating systematic incentives for corporate abandonment of journalistic principles through regulatory pressure rather than direct censorship.",
+  "priority": 9,
+  "status": "pending",
+  "category": "regulatory-media-coordination",
+  "tags": [
+    "regulatory-capture",
+    "fcc-coordination",
+    "media-licensing-leverage",
+    "corporate-compliance-incentives",
+    "systematic-media-pressure",
+    "regulatory-propaganda-facilitation"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2002-09-03--fcc-regulatory-pressure-influences-network-cooperation",
+    "2002-08-20--corporate-media-executives-prioritize-access-over-journalism"
+  ],
+  "key_sources": [
+    {
+      "title": "FCC-network correspondence during Iraq War period showing regulatory pressure coordination",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Direct documentation of regulatory pressure mechanisms"
+    },
+    {
+      "title": "Corporate legal department analyses of regulatory compliance benefits",
+      "type": "corporate-records",
+      "credibility": 8,
+      "why": "Internal corporate assessments of government cooperation advantages"
+    },
+    {
+      "title": "Congressional oversight of FCC media regulation practices 2002-2004",
+      "type": "congressional-records",
+      "credibility": 9,
+      "why": "Legislative investigation of systematic regulatory capture"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic coordination between regulatory agencies and corporate media compliance",
+    "Reveals institutional mechanisms for leveraging regulatory authority for propaganda facilitation",
+    "Shows how regulatory capture systematically compromised media independence",
+    "Connects regulatory pressure to specific corporate policy changes enabling propaganda coordination"
+  ],
+  "connections": [
+    {
+      "to": "2002-09-03--fcc-regulatory-pressure-influences-network-cooperation",
+      "type": "investigates",
+      "description": "Systematic investigation of regulatory pressure mechanisms"
+    },
+    {
+      "to": "RT-008-corporate-media-executive-complicity",
+      "type": "coordinates-with",
+      "description": "Corporate decision-making influenced by regulatory capture"
+    }
+  ],
+  "actors_to_investigate": [
+    "FCC commissioners 2002-2004",
+    "Network corporate legal departments",
+    "Media corporation regulatory affairs",
+    "White House regulatory liaison",
+    "Corporate compliance officers"
+  ],
+  "time_period": "2002-2004",
+  "constitutional_issues": [
+    "regulatory capture",
+    "media independence",
+    "First Amendment",
+    "administrative state abuse",
+    "government coercion"
+  ],
+  "estimated_importance": 9
+}

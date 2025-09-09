@@ -1,0 +1,29 @@
+{
+  "id": "2004-04-28--sec-reduces-leverage-limits-investment-banks",
+  "date": "2004-04-28",
+  "importance": 9,
+  "title": "SEC Reduces Leverage Limits for Major Investment Banks",
+  "summary": "SEC voted to allow five major investment banks to use alternative net capital rules, enabling leverage ratios to increase from 12:1 to over 40:1, contributing to 2008 crisis.",
+  "actors": [
+    "Securities and Exchange Commission",
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "Merrill Lynch",
+    "Lehman Brothers",
+    "Bear Stearns"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "financial-crisis",
+    "sec",
+    "leverage"
+  ],
+  "sources": [
+    {
+      "title": "SEC Concedes Oversight Flaws Fueled Collapse",
+      "url": "https://www.nytimes.com/2008/09/27/business/27sec.html",
+      "outlet": "New York Times",
+      "date": "2008-09-27"
+    }
+  ]
+}

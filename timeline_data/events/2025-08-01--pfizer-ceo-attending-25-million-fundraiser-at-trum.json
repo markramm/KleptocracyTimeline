@@ -12,8 +12,8 @@
     "Trump Administration"
   ],
   "tags": [
-    "corruption",
-    "kleptocracy"
+    "kleptocracy",
+    "corruption"
   ],
   "capture_type": "monetizing_position",
   "sources": [
@@ -46,5 +46,7 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "High-priority kleptocratic event from comprehensive timeline."
+  "notes": "High-priority kleptocratic event from comprehensive timeline.",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-08-01--pfizer-ceo-attending-25-million-fundraiser-at-trump-s-golf-c",
+  "_merge_timestamp": "2025-09-05T23:46:55.897568"
 }

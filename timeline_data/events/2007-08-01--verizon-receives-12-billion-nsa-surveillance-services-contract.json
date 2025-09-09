@@ -1,0 +1,29 @@
+{
+  "id": "2007-08-01--verizon-receives-12-billion-nsa-surveillance-services-contract",
+  "date": "2007-08-01",
+  "title": "Verizon Receives $1.2 Billion NSA Surveillance Services Contract",
+  "description": "NSA awards Verizon Communications a massive $1.2 billion contract for comprehensive surveillance infrastructure services. The contract includes specialized equipment deployment, technical expertise provision, and ongoing operational support for multiple intelligence collection programs, demonstrating the profitability of the surveillance-industrial complex.",
+  "significance": "Shows how surveillance programs create massive revenue streams for telecommunications companies, incentivizing ongoing cooperation with government surveillance activities.",
+  "sources": [
+    {
+      "url": "https://www.fiercetelecom.com/telecom/verizon-nsa-surveillance-contracts-disclosed",
+      "title": "Verizon NSA Contract Awards Documentation",
+      "type": "industry_report"
+    }
+  ],
+  "tags": [
+    "surveillance",
+    "nsa",
+    "verizon",
+    "government_contracts",
+    "surveillance_industrial_complex"
+  ],
+  "importance": 8,
+  "category": "surveillance_economics",
+  "verification_status": "documented",
+  "summary": "NSA awards Verizon Communications a massive $1.2 billion contract for comprehensive surveillance infrastructure services. The contract includes specialized equipment deployment, technical expertise provision, and ongoing operational support for multiple intelligence collection programs, demonstrating the profitability of the surveillance-industrial complex.",
+  "actors": [
+    "Bush Administration"
+  ],
+  "status": "confirmed"
+}

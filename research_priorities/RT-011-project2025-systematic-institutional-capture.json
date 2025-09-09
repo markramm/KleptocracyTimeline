@@ -1,0 +1,103 @@
+{
+  "id": "RT-011-project2025-systematic-institutional-capture",
+  "title": "Project 2025 Systematic Implementation: Constitutional Crisis Through Heritage Foundation Blueprint",
+  "description": "Research the systematic implementation of Project 2025's constitutional transformation agenda through radical expansion of presidential power, elimination of civil service protections via Schedule F, and replacement of merit-based governance with political loyalty tests. Investigate how Trump administration implemented 70% of Project 2025 recommendations within 7 months despite public disavowals, the appointment of 18+ Project 2025 authors to senior positions including OMB Director Russell Vought, and the systematic elimination of oversight mechanisms. Document constitutional violations including: elimination of 50,000 civil service positions, complete dismantling of DEI programs, mass firing of inspectors general, loyalty testing regimes requiring MAGA essay submissions, and deployment of 'MAGA commissars' throughout federal agencies to monitor political compliance.",
+  "priority": 9,
+  "status": "pending",
+  "category": "systematic-institutional-capture",
+  "tags": [
+    "project-2025",
+    "heritage-foundation",
+    "schedule-f",
+    "civil-service-elimination",
+    "russell-vought",
+    "executive-power-expansion",
+    "constitutional-crisis",
+    "political-loyalty-tests",
+    "inspector-general-firings",
+    "systematic-transformation"
+  ],
+  "estimated_events": 8,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2025-01-20--trump-executive-order-blitz-37-orders-project-2025-implementation",
+    "2025-01-20--schedule-f-reinstatement-50000-federal-worker-reclassification",
+    "2025-01-21--systematic-dei-program-elimination-across-government"
+  ],
+  "key_sources": [
+    {
+      "title": "Project 2025 Implementation Analysis - Trump Administration's Systematic Adoption of Heritage Foundation Blueprint",
+      "type": "policy-analysis",
+      "credibility": 9,
+      "why": "Comprehensive documentation of 70% implementation rate within 7 months with specific executive order analysis"
+    },
+    {
+      "title": "Russell Vought OMB appointment and Project 2025 chapter authorship records",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Direct evidence of Project 2025 architect implementing own recommendations through OMB"
+    },
+    {
+      "title": "Schedule F implementation records showing 50,000 position reclassifications",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Official documentation of systematic civil service protection elimination"
+    },
+    {
+      "title": "Federal employee loyalty testing requirements and MAGA essay submissions",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Documentation of unconstitutional political loyalty tests for federal employment"
+    },
+    {
+      "title": "Inspector General mass firing documentation - 17 IGs terminated",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Official records of systematic oversight elimination"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic constitutional transformation through Heritage Foundation blueprint implementation",
+    "Reveals coordinated dismantling of merit-based civil service protections",
+    "Shows elimination of constitutional checks and balances through inspector general firings",
+    "Connects Project 2025 personnel placement to rapid policy implementation",
+    "Establishes pattern of systematic political loyalty requirements violating First Amendment"
+  ],
+  "connections": [
+    {
+      "to": "RT-005-whig-media-coordination-mechanisms",
+      "type": "evolution",
+      "description": "Project 2025 represents evolution from WHIG propaganda coordination to systematic institutional capture"
+    },
+    {
+      "to": "RT-010-whig-systematic-retaliation-patterns",
+      "type": "parallel-operations",
+      "description": "Project 2025 loyalty tests parallel WHIG retaliation against critics"
+    }
+  ],
+  "actors_to_investigate": [
+    "Russell Vought",
+    "Brendan Carr",
+    "Tom Homan",
+    "Linda McMahon",
+    "Paul Dans",
+    "Kevin Roberts",
+    "Karoline Leavitt",
+    "Heritage Foundation",
+    "American Enterprise Institute",
+    "Federalist Society"
+  ],
+  "time_period": "2025-present",
+  "constitutional_issues": [
+    "Article II executive power abuse",
+    "Due process violations",
+    "Equal protection violations",
+    "First Amendment political loyalty tests",
+    "Separation of powers violations",
+    "Constitutional appointment requirements",
+    "Administrative state systematic destruction"
+  ],
+  "estimated_importance": 9
+}

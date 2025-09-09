@@ -1,0 +1,27 @@
+{
+  "id": "2010-01-21--citizens-united-unleashes-unlimited-corporate-spending",
+  "date": "2010-01-21",
+  "importance": 10,
+  "title": "Supreme Court Citizens United Decision Unleashes Unlimited Corporate Spending",
+  "summary": "Supreme Court ruled 5-4 that corporations can spend unlimited amounts on elections through independent expenditures, enabling creation of Super PACs and dark money networks.",
+  "actors": [
+    "Supreme Court",
+    "Citizens United",
+    "Federal Election Commission",
+    "Justice Anthony Kennedy"
+  ],
+  "tags": [
+    "dark-money",
+    "campaign-finance",
+    "supreme-court",
+    "corporate-power"
+  ],
+  "sources": [
+    {
+      "title": "Citizens United v. Federal Election Commission",
+      "url": "https://www.supremecourt.gov/opinions/09pdf/08-205.pdf",
+      "outlet": "Supreme Court",
+      "date": "2010-01-21"
+    }
+  ]
+}

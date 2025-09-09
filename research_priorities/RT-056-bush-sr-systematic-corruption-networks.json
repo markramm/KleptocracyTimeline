@@ -1,0 +1,100 @@
+{
+  "id": "RT-056-bush-sr-systematic-corruption-networks",
+  "title": "Bush Sr Systematic Corruption Networks and Iran-Contra Cover-up Infrastructure (1989-1993)",
+  "description": "Research Bush Sr administration's systematic corruption network operations including Iran-Contra cover-up continuation, BCCI scandal management, and establishment of permanent 'black ops' financial infrastructure. Document pardons-for-silence patterns, witness intimidation systems, and creation of deniable operations framework. Focus on how Bush Sr's intelligence background enabled systematic corruption network institutionalization that became template for later administrations' crisis management and democratic accountability evasion.",
+  "priority": 8,
+  "status": "pending",
+  "category": "systematic-corruption-networks",
+  "tags": [
+    "bush-sr-administration",
+    "iran-contra-coverup-systematization",
+    "bcci-scandal-management",
+    "systematic-corruption-network-institutionalization",
+    "pardons-for-silence-patterns",
+    "witness-intimidation-systematization",
+    "black-ops-financial-infrastructure",
+    "democratic-accountability-evasion-template"
+  ],
+  "estimated_events": 8,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "time_period": "1989-1993",
+  "constitutional_issues": [
+    "systematic obstruction of justice institutionalization",
+    "democratic accountability evasion through corruption networks",
+    "congressional oversight circumvention through witness intimidation",
+    "rule of law erosion through pardons-for-silence patterns",
+    "separation of powers violation through systematic cover-up operations"
+  ],
+  "estimated_importance": 7,
+  "key_sources": [
+    {
+      "title": "Bush Sr Christmas Eve 1992 Iran-Contra pardons and coordination records",
+      "type": "executive-records",
+      "credibility": 10,
+      "why": "Direct documentation of systematic pardons-for-silence strategy"
+    },
+    {
+      "title": "BCCI investigation obstruction and witness intimidation documentation",
+      "type": "investigation-records",
+      "credibility": 9,
+      "why": "Shows systematic pattern of corruption network protection"
+    },
+    {
+      "title": "Congressional Iran-Contra investigation final report and Bush Sr obstruction",
+      "type": "congressional-records",
+      "credibility": 9,
+      "why": "Documents systematic resistance to democratic oversight"
+    },
+    {
+      "title": "Intelligence community 'black ops' financial infrastructure development records",
+      "type": "intelligence-records",
+      "credibility": 8,
+      "why": "Shows systematic creation of deniable operations framework"
+    },
+    {
+      "title": "Justice Department coordination with White House on corruption cases",
+      "type": "legal-records",
+      "credibility": 8,
+      "why": "Reveals systematic justice system capture for corruption network protection"
+    }
+  ],
+  "actors_to_investigate": [
+    "George H.W. Bush",
+    "William Barr",
+    "Caspar Weinberger",
+    "Elliott Abrams",
+    "Robert McFarlane",
+    "Clair George",
+    "BCCI investigation participants",
+    "Iran-Contra network participants",
+    "Justice Department coordination participants"
+  ],
+  "expected_outcomes": [
+    "Documents systematic institutionalization of corruption networks under Bush Sr",
+    "Reveals establishment of pardons-for-silence as systematic strategy",
+    "Shows creation of permanent 'black ops' financial infrastructure",
+    "Establishes template for systematic democratic accountability evasion",
+    "Documents coordination between executive branch and justice system for corruption protection"
+  ],
+  "connections": [
+    {
+      "to": "RT-052-bush-sr-intelligence-privatization-acceleration",
+      "type": "enables",
+      "description": "Corruption networks enable intelligence privatization without oversight"
+    },
+    {
+      "to": "RT-054-bush-sr-executive-power-expansion",
+      "type": "justifies",
+      "description": "Corruption network protection justifies executive power expansion"
+    },
+    {
+      "to": "RT-015-systematic-intelligence-community-corruption",
+      "type": "foundations",
+      "description": "Bush Sr corruption networks establish foundation for systematic intelligence corruption"
+    }
+  ],
+  "research_notes": "Bush Sr era crucial for corruption network institutionalization - Iran-Contra pardons established systematic pattern of using executive power to protect criminal networks. BCCI scandal shows coordination with international corruption systems.",
+  "reprioritization_reason": "Timeline coverage gap analysis - high value for unique content"
+}

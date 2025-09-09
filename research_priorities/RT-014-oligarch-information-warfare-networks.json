@@ -1,0 +1,103 @@
+{
+  "id": "RT-014-oligarch-information-warfare-networks",
+  "title": "Oligarch Information Warfare Networks: Constitutional Crisis Through Weaponized Private Intelligence",
+  "description": "Research how wealthy oligarchs (domestic and foreign) have weaponized the privatized intelligence infrastructure created by post-Watergate reforms and Powell Memorandum implementation to conduct information warfare against democratic institutions. Investigate systematic deployment of private intelligence capabilities by figures like Robert Mercer ($15M Cambridge Analytica), Koch network ($889M infrastructure), and foreign oligarchs using firms like Black Cube and Fusion GPS. Document constitutional violations including: psychological manipulation of democratic processes through data harvesting, foreign influence operations conducted through private intelligence firms, systematic surveillance of American citizens by private contractors serving foreign interests, and coordination between oligarch funding networks and intelligence operations targeting democratic institutions. Examine how the intersection of oligarch funding, private intelligence capabilities, and information warfare technologies creates threats to constitutional democracy unprecedented in American history.",
+  "priority": 9,
+  "status": "pending",
+  "category": "systematic-information-warfare",
+  "tags": [
+    "oligarch-networks",
+    "information-warfare",
+    "cambridge-analytica",
+    "robert-mercer",
+    "koch-network",
+    "foreign-oligarchs",
+    "black-cube",
+    "fusion-gps",
+    "private-surveillance",
+    "democratic-manipulation",
+    "data-harvesting",
+    "psychological-warfare"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2013-01-01--cambridge-analytica-formation-mercer-funding",
+    "2016-03-01--facebook-data-harvesting-87-million-users",
+    "2018-03-17--cambridge-analytica-whistleblower-revelations"
+  ],
+  "key_sources": [
+    {
+      "title": "Cambridge Analytica operations documentation showing $15M Mercer investment and 87M user data harvesting",
+      "type": "corporate-records",
+      "credibility": 9,
+      "why": "Documented evidence of systematic data harvesting for psychological manipulation of democratic processes"
+    },
+    {
+      "title": "Koch network intelligence operations documentation showing $889M infrastructure investment",
+      "type": "financial-records",
+      "credibility": 8,
+      "why": "Evidence of systematic private intelligence network rivaling government capabilities"
+    },
+    {
+      "title": "Black Cube client documentation showing foreign oligarch contracts for surveillance operations",
+      "type": "intelligence-records",
+      "credibility": 8,
+      "why": "Documentation of foreign oligarch deployment of private intelligence against American targets"
+    },
+    {
+      "title": "Fusion GPS operations records showing oligarch funding for opposition research and intelligence gathering",
+      "type": "corporate-records",
+      "credibility": 8,
+      "why": "Evidence of systematic private intelligence operations influencing democratic processes"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic oligarch weaponization of private intelligence infrastructure",
+    "Reveals foreign influence operations conducted through private intelligence firms",
+    "Shows intersection of data harvesting, psychological manipulation, and democratic process interference",
+    "Connects oligarch funding networks to systematic information warfare capabilities",
+    "Establishes constitutional crisis through private intelligence operations targeting democratic institutions"
+  ],
+  "connections": [
+    {
+      "to": "RT-012-post-watergate-intelligence-privatization",
+      "type": "exploits",
+      "description": "Oligarchs exploit private intelligence infrastructure created by post-Watergate reforms"
+    },
+    {
+      "to": "RT-013-powell-memorandum-institutional-capture-blueprint",
+      "type": "weaponizes",
+      "description": "Information warfare networks weaponize institutional capture infrastructure created by Powell blueprint"
+    }
+  ],
+  "actors_to_investigate": [
+    "Robert Mercer",
+    "Charles Koch",
+    "David Koch",
+    "Cambridge Analytica",
+    "Black Cube",
+    "Fusion GPS",
+    "Palantir Technologies",
+    "Peter Thiel",
+    "Beny Steinmetz",
+    "Harvey Weinstein",
+    "Alexander Nix",
+    "Christopher Wylie",
+    "Aleksandr Kogan"
+  ],
+  "time_period": "2010-present",
+  "constitutional_issues": [
+    "Fourth Amendment privacy violations",
+    "First Amendment democratic discourse manipulation",
+    "Equal protection under law",
+    "Foreign influence in domestic politics",
+    "Due process violations through private surveillance",
+    "Democratic election integrity",
+    "Constitutional privacy rights"
+  ],
+  "estimated_importance": 8,
+  "reprioritization_reason": "Timeline coverage gap analysis - high value for unique content"
+}

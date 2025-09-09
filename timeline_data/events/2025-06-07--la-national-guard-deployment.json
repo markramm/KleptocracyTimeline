@@ -13,10 +13,17 @@
     "Pentagon"
   ],
   "tags": [
+    "state-federal-conflict",
+    "posse-comitatus",
+    "civil-military",
+    "dhs",
     "military-deployment",
+    "dod",
     "federalization",
     "domestic-operations",
-    "state-federal-conflict",
+    "emergency-powers",
+    "domestic-deployment",
+    "military",
     "marines"
   ],
   "capture_lanes": [
@@ -45,6 +52,18 @@
       "title": "Trump says more National Guard troops would be deployed in California if needed",
       "url": "https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/",
       "outlet": "Reuters",
+      "date": "2025-06-09"
+    },
+    {
+      "title": "Department of Defense Security for the Protection of Department of Homeland Security Functions",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/06/department-of-defense-security-for-the-protection-of-department-of-homeland-security-functions",
+      "outlet": "White House",
+      "date": "2025-06-07"
+    },
+    {
+      "title": "How can the president put soldiers on the streets of Los Angeles?",
+      "url": "https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles",
+      "outlet": "Brookings Institution",
       "date": "2025-06-09"
     }
   ],
@@ -76,5 +95,7 @@
     "constitutional crisis",
     "military domestic operations"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-06-07--dod-support-dhs-memo-and-la-deployments",
+  "_merge_timestamp": "2025-09-05T23:46:55.903082"
 }

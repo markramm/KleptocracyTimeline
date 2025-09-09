@@ -13,8 +13,13 @@
   ],
   "tags": [
     "crypto",
+    "world-liberty-financial",
+    "government-contracts",
+    "cryptocurrency",
+    "crypto-venture",
     "regulatory-capture",
-    "government-contracts"
+    "conflict-of-interest",
+    "wlfi-token"
   ],
   "capture_type": "regulatory_capture",
   "sources": [
@@ -29,11 +34,37 @@
       "url": "https://example.com",
       "outlet": "Archive",
       "date": "2025-03-17"
+    },
+    {
+      "title": "Trump's World Liberty Financial crypto project says it sold $550 million in tokens",
+      "url": "https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html",
+      "outlet": "CNBC",
+      "date": "2025-03-17"
+    },
+    {
+      "title": "Trump-Inspired World Liberty Financial Closes $550 Million Across Token Sales",
+      "url": "https://www.businesswire.com/news/home/20250317855322/en/Trump-Inspired-World-Liberty-Financial-Closes-$550-Million-Across-Token-Sales",
+      "outlet": "Business Wire",
+      "date": "2025-03-17"
+    },
+    {
+      "title": "Trump-backed World Liberty Financial raises $550 million in WLFI token sales",
+      "url": "https://fortune.com/crypto/2025/03/18/trump-backed-world-liberty-financial-raises-550-million-token-sales/",
+      "outlet": "Fortune",
+      "date": "2025-03-18"
+    },
+    {
+      "title": "Trump's Crypto Project Was a Bust Until Justin Sun Stepped In",
+      "url": "https://www.yahoo.com/news/trump-crypto-project-bust-until-154313241.html",
+      "outlet": "Yahoo News",
+      "date": "2025-01-25"
     }
   ],
   "connections": [],
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-03-17--world-liberty-financial-raises-550-million-after-e",
+  "_merge_timestamp": "2025-09-05T23:46:55.903817"
 }

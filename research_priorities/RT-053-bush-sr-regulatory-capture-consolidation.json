@@ -1,0 +1,93 @@
+{
+  "id": "RT-053-bush-sr-regulatory-capture-consolidation",
+  "title": "Bush Sr Regulatory Capture Consolidation and S&L Crisis Exploitation (1989-1993)",
+  "description": "Research Bush Sr administration's consolidation of Reagan-era regulatory capture through Savings & Loan crisis exploitation. Document systematic weakening of financial oversight, appointment of industry insiders to regulatory positions, and establishment of 'too big to fail' precedents. Focus on how S&L crisis was exploited to justify further deregulation and taxpayer bailouts that became template for 2008 financial crisis response.",
+  "priority": 8,
+  "status": "pending",
+  "category": "financial-regulatory-capture",
+  "tags": [
+    "bush-sr-administration",
+    "sl-crisis-exploitation",
+    "regulatory-capture-consolidation",
+    "financial-deregulation-acceleration",
+    "taxpayer-bailout-precedent",
+    "too-big-to-fail-establishment",
+    "systematic-oversight-weakening",
+    "crisis-exploitation-template"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "time_period": "1989-1993",
+  "constitutional_issues": [
+    "democratic accountability erosion through crisis exploitation",
+    "taxpayer protection violations",
+    "systematic regulatory capture consolidation",
+    "public interest subordination to industry capture"
+  ],
+  "estimated_importance": 8,
+  "key_sources": [
+    {
+      "title": "Resolution Trust Corporation records and industry connections",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Documents systematic approach to S&L crisis resolution favoring industry"
+    },
+    {
+      "title": "Bush Sr regulatory agency appointment records and industry backgrounds",
+      "type": "personnel-records",
+      "credibility": 9,
+      "why": "Shows systematic appointment of industry insiders during crisis"
+    },
+    {
+      "title": "Congressional S&L crisis investigation records",
+      "type": "congressional-records",
+      "credibility": 8,
+      "why": "Documents systematic weakening of oversight during crisis"
+    },
+    {
+      "title": "Financial industry lobbying records during S&L crisis",
+      "type": "lobbying-records",
+      "credibility": 8,
+      "why": "Shows coordinated industry strategy to exploit crisis for deregulation"
+    },
+    {
+      "title": "Treasury Department crisis response strategy documents",
+      "type": "government-records",
+      "credibility": 8,
+      "why": "Reveals systematic approach favoring industry over taxpayer protection"
+    }
+  ],
+  "actors_to_investigate": [
+    "George H.W. Bush",
+    "Nicholas Brady",
+    "William Seidman",
+    "M. Danny Wall",
+    "Charles Keating Jr.",
+    "Keating Five senators",
+    "Resolution Trust Corporation leadership",
+    "Financial industry lobbyists during crisis"
+  ],
+  "expected_outcomes": [
+    "Documents systematic exploitation of S&L crisis for further deregulation",
+    "Reveals establishment of 'too big to fail' precedent under Bush Sr",
+    "Shows consolidation of Reagan-era regulatory capture patterns",
+    "Establishes template for crisis exploitation used in 2008 financial crisis",
+    "Documents systematic subordination of taxpayer interests to industry capture"
+  ],
+  "connections": [
+    {
+      "to": "RT-051-reagan-era-regulatory-capture-foundation",
+      "type": "consolidates",
+      "description": "Bush Sr consolidates Reagan deregulation through crisis exploitation"
+    },
+    {
+      "to": "RT-050-clinton-era-financial-deregulation-capture",
+      "type": "enables",
+      "description": "S&L crisis exploitation enables Clinton Glass-Steagall repeal"
+    }
+  ],
+  "research_notes": "S&L crisis was systematically exploited to accelerate deregulation rather than strengthen oversight - established template for using financial crises to benefit industry at taxpayer expense.",
+  "reprioritization_reason": "Timeline coverage gap analysis - high value for unique content"
+}

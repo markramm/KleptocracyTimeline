@@ -1,0 +1,70 @@
+{
+  "id": "1973-01-01--heritage-foundation-establishment-pillar-one-implementation",
+  "title": "Heritage Foundation Established as Corporate-Funded Think Tank Implementing Powell Memo Pillar One",
+  "date": "1973-01-01",
+  "description": "The Heritage Foundation is established as a $100 million operation implementing the intellectual infrastructure pillar of the Powell Memorandum strategy. Rather than traditional lobbying, Heritage operates as an 'idea factory' designed to reshape fundamental assumptions about government and markets through seemingly neutral scholarly analysis. The foundation recruits academic stars, funds graduate students, and creates an intellectual ecosystem that makes corporate-friendly policies appear to emerge from independent research, establishing the template for systematic intellectual capture.",
+  "category": "intellectual-infrastructure-capture",
+  "actors": {
+    "primary": [
+      {
+        "name": "Heritage Foundation",
+        "role": "Corporate-funded think tank implementing Powell Memo strategy",
+        "affiliation": "Conservative think tank"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "Corporate funders",
+        "role": "Funding systematic intellectual infrastructure capture",
+        "affiliation": "American corporations"
+      }
+    ]
+  },
+  "location": "Washington, DC",
+  "sources": [
+    {
+      "title": "The Capture Cascade: How Democracy's Tools Were Turned Against It - Part 1: The Blueprint",
+      "type": "investigative-analysis",
+      "credibility": 9,
+      "description": "Analysis of Powell Memo implementation through think tank establishment"
+    },
+    {
+      "title": "Invisible Hands: The Businessmen's Crusade Against the New Deal",
+      "author": "Kim Phillips-Fein",
+      "type": "academic-research",
+      "credibility": 9,
+      "description": "Historical analysis of corporate intellectual infrastructure development"
+    }
+  ],
+  "constitutional_issues": [
+    "intellectual independence",
+    "democratic discourse",
+    "policy formation integrity",
+    "corporate influence on research",
+    "systematic capture of ideas"
+  ],
+  "importance": 8,
+  "tags": [
+    "heritage-foundation",
+    "powell-memorandum-implementation",
+    "intellectual-infrastructure",
+    "think-tank-capture",
+    "corporate-funding",
+    "idea-factory"
+  ],
+  "connections": {
+    "implements": [
+      "1971-08-23--powell-memorandum-corporate-capture-blueprint"
+    ],
+    "enables": [
+      "systematic-policy-capture",
+      "intellectual-legitimacy-manufacturing"
+    ],
+    "part_of_pattern": [
+      "powell-memo-implementation-sequence",
+      "corporate-intellectual-capture",
+      "think-tank-network-development"
+    ]
+  },
+  "historical_significance": "The Heritage Foundation's establishment marked the successful implementation of Powell Memorandum's first pillar, creating the template for corporate-funded intellectual infrastructure that would systematically shape American political discourse. It demonstrated how corporate interests could manufacture intellectual legitimacy for their policy preferences through patient, systematic investment in idea generation."
+}

@@ -3,17 +3,25 @@
   "date": "2025-08-25",
   "title": "Trump Fires Federal Reserve Governor Lisa Cook",
   "summary": "In unprecedented move, Trump attempts to fire Fed Governor Lisa Cook citing mortgage fraud allegations, marking first time in Fed's 111-year histor...",
-  "description": "In unprecedented move, Trump attempts to fire Fed Governor Lisa Cook citing mortgage fraud allegations, marking first time in Fed's 111-year history a president has tried to remove a central bank governor. Cook refuses to step down, stating Trump has no legal authority for the firing.",
+  "description": "President Trump sends letter firing Federal Reserve Governor Lisa Cook, citing William Pulte's mortgage fraud allegations as cause. This unprecedented action shatters central bank independence - Fed governors can only be removed for proven malfeasance, not unproven allegations. Cook, the first Black woman on Fed Board, immediately sues Trump, stating \"no cause exists under the law\" and refusing to resign. Markets react negatively to attack on Fed independence. Trump's action follows Fed's refusal to cut interest rates as he demands. Constitutional scholars call this direct assault on separation of powers, as Federal Reserve Act requires actual cause for removal, not politically motivated accusations.",
   "importance": 10,
   "tags": [
-    "federal-reserve",
     "institutional-capture",
-    "regulatory-capture",
+    "political-persecution",
     "democratic-erosion",
     "rule-of-law",
     "economic-policy",
+    "neutralize-referees",
+    "lisa-cook",
+    "separation-of-powers",
+    "constitutional-crisis",
+    "racial-targeting",
+    "regulatory-capture",
+    "monetary-policy",
+    "federal-reserve",
     "authoritarian-tactics",
-    "neutralize-referees"
+    "donald-trump",
+    "central-bank-independence"
   ],
   "actors": [
     "Donald Trump",
@@ -46,6 +54,24 @@
       "date": "2025-08-26",
       "url": "https://www.axios.com/2025/08/26/trump-fires-federal-reserve-lisa-cook",
       "title": "Fed governor Cook responds to Trump firing - I will not resign"
+    },
+    {
+      "outlet": "Fox Business",
+      "date": "2025-08-25",
+      "url": "https://www.foxbusiness.com/politics/trump-removes-federal-reserve-governor-lisa-cook-from-office-citing-fraud-allegations",
+      "title": "Trump removes Federal Reserve Governor Lisa Cook from office"
+    },
+    {
+      "outlet": "Washington Post",
+      "date": "2025-08-25",
+      "url": "https://www.washingtonpost.com/business/2025/08/25/trump-lisa-cook-federal-reserve/",
+      "title": "Trump moves to fire Federal Reserve governor Cook over fraud allegations"
+    },
+    {
+      "outlet": "CNN Business",
+      "date": "2025-08-28",
+      "url": "https://www.cnn.com/2025/08/28/economy/fed-lisa-cook-lawsuit",
+      "title": "Fed Governor Lisa Cook sues to challenge Trump's attempt to fire her"
     }
   ],
   "connections": [
@@ -58,5 +84,7 @@
     "institutional-capture",
     "authoritarian-consolidation"
   ],
-  "notes": "This represents a dramatic escalation in Trump's efforts to control the Federal Reserve. The Fed was specifically designed to be independent from political pressure, with governors serving 14-year terms that span multiple presidencies. Trump's claim of \"mortgage fraud\" as cause for firing appears to be a pretext for removing a governor who might oppose his preferred monetary policies. Cook's refusal to step down sets up a constitutional crisis over the independence of monetary policy."
+  "notes": "This represents a dramatic escalation in Trump's efforts to control the Federal Reserve. The Fed was specifically designed to be independent from political pressure, with governors serving 14-year terms that span multiple presidencies. Trump's claim of \"mortgage fraud\" as cause for firing appears to be a pretext for removing a governor who might oppose his preferred monetary policies. Cook's refusal to step down sets up a constitutional crisis over the independence of monetary policy.",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-08-25--trump-fires-lisa-cook-fed-independence",
+  "_merge_timestamp": "2025-09-05T23:46:55.901165"
 }

@@ -194,4 +194,5 @@ archive/
 ai_notes/
 
 # Flask app files
-timeline_data/static/
+timeline_data/static/logs/
+*.log

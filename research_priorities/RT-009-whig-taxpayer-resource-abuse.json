@@ -1,0 +1,89 @@
+{
+  "id": "RT-009-whig-taxpayer-resource-abuse",
+  "title": "WHIG Abuse of Government Resources for Political Campaign Activities",
+  "description": "Research how the White House Iraq Group systematically abused taxpayer-funded government resources, facilities, and staff time to conduct what was essentially a political campaign for war authorization. Investigate use of Situation Room for propaganda planning meetings, deployment of government communications staff for partisan messaging activities, utilization of Air Force One and government aircraft for propaganda distribution, and coordination between official government business and partisan political objectives. Document violations of laws prohibiting use of government resources for political activities and the transformation of executive branch apparatus into a partisan war marketing operation.",
+  "priority": 7,
+  "status": "pending",
+  "category": "resource-abuse",
+  "tags": [
+    "whig",
+    "taxpayer-resources",
+    "hatch-act",
+    "government-facilities",
+    "situation-room",
+    "air-force-one",
+    "partisan-activities"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+    "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz",
+    "2003-07-07--whig-coordinates-wilson-discrediting-campaign-plame-leak"
+  ],
+  "key_sources": [
+    {
+      "title": "White House visitor logs and Situation Room usage records",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Official documentation of government facility use for propaganda activities"
+    },
+    {
+      "title": "Government Accountability Office analysis of WHIG resource usage",
+      "type": "government-report",
+      "credibility": 10,
+      "why": "Independent audit of taxpayer resource allocation for political activities"
+    },
+    {
+      "title": "White House staff time allocation records and expense reports",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Documentation of government employee time spent on propaganda activities"
+    },
+    {
+      "title": "Air Force One flight manifests and meeting schedules during Africa trip",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Evidence of taxpayer-funded aircraft use for partisan retaliation planning"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic abuse of taxpayer resources for partisan political objectives",
+    "Reveals violations of laws prohibiting government resource use for political activities",
+    "Shows transformation of executive branch into partisan campaign apparatus",
+    "Quantifies taxpayer costs of government-funded propaganda operations"
+  ],
+  "connections": [
+    {
+      "to": "RT-005-whig-media-coordination-mechanisms",
+      "type": "resource-analysis",
+      "description": "Government resources used to coordinate media propaganda campaigns"
+    },
+    {
+      "to": "RT-006-whig-congressional-deception-campaigns",
+      "type": "resource-analysis",
+      "description": "Taxpayer resources used to deceive Congress"
+    }
+  ],
+  "actors_to_investigate": [
+    "Andrew Card",
+    "Karl Rove",
+    "Karen Hughes",
+    "White House facilities management",
+    "Situation Room staff",
+    "Air Force One crew",
+    "Government ethics attorneys",
+    "GAO investigators"
+  ],
+  "time_period": "2002-2003",
+  "constitutional_issues": [
+    "separation of powers",
+    "government ethics",
+    "taxpayer protection",
+    "partisan abuse of office",
+    "executive accountability"
+  ],
+  "estimated_importance": 7
+}

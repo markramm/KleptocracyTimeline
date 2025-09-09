@@ -1,0 +1,45 @@
+{
+  "id": "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz",
+  "date": "2002-09-08",
+  "importance": 9,
+  "title": "WHIG Launches 'Smoking Gun/Mushroom Cloud' Propaganda Blitz",
+  "summary": "The White House Iraq Group executes a coordinated propaganda campaign featuring the 'smoking gun/mushroom cloud' metaphor crafted by chief speechwriter Michael Gerson. On September 7-8, 2002, President Bush and top advisers appeared on multiple networks delivering identical nuclear fear messaging. National Security Advisor Condoleezza Rice declared on CNN: 'We don't want the smoking gun to be a mushroom cloud.' Vice President Cheney claimed on NBC's Meet the Press that Saddam was 'moving aggressively to develop nuclear weapons,' while President Bush told CBS that UN inspectors concluded Saddam was 'six months away from developing a weapon.' This sophisticated media blitz represented the culmination of WHIG's marketing strategy, timed for maximum impact after Labor Day as Andrew Card had stated: 'From a marketing point of view, you don't introduce new products in August.' The synchronized messaging campaign relied on fabricated intelligence about aluminum tubes and nuclear programs that CIA analysts had already debunked. WHIG's September rollout transformed unsubstantiated claims into seeming consensus through coordinated repetition across major media outlets, demonstrating the institutionalization of propaganda within the executive branch.",
+  "actors": [
+    "White House Iraq Group",
+    "Condoleezza Rice",
+    "Dick Cheney", 
+    "George W. Bush",
+    "Michael Gerson",
+    "Karl Rove"
+  ],
+  "tags": [
+    "whig",
+    "mushroom-cloud",
+    "propaganda",
+    "iraq-war",
+    "nuclear-fear",
+    "media-manipulation",
+    "intelligence-manipulation"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Why War? - In Their Own Words - Who Said What When",
+      "url": "https://www.pbs.org/wgbh/pages/frontline/shows/truth/why/said.html",
+      "outlet": "PBS Frontline",
+      "date": "2004-01-29"
+    },
+    {
+      "title": "Interview With Condoleezza Rice",
+      "url": "https://transcripts.cnn.com/show/le/date/2002-09-08/segment/00",
+      "outlet": "CNN",
+      "date": "2002-09-08"
+    },
+    {
+      "title": "'Mushroom Cloud' Sales Pitch Is Back",
+      "url": "https://consortiumnews.com/2012/09/08/mushroom-cloud-sales-pitch-is-back/",
+      "outlet": "Consortium News",
+      "date": "2012-09-08"
+    }
+  ]
+}

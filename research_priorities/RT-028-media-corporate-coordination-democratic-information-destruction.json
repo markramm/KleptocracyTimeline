@@ -1,0 +1,66 @@
+{
+  "id": "RT-028-media-corporate-coordination-democratic-information-destruction",
+  "title": "Media-Corporate Coordination Networks for Systematic Democratic Information Infrastructure Destruction",
+  "description": "Research how WHIG operations accelerated Powell Memorandum media capture strategy through systematic coordination between corporate media executives, government propaganda operations, and think tank information networks to destroy democratic information infrastructure. Investigate how established corporate media coordination protocols enabled WHIG systematic deception campaigns while WHIG operations provided media networks with government-sanctioned narrative coordination that accelerated corporate capture of information systems. Document how media-corporate coordination during Iraq War created template for systematic information warfare that transforms independent journalism into coordinated corporate-state propaganda apparatus. Connect to ongoing information control system evolution and systematic destruction of democratic information-sharing capabilities necessary for informed democratic participation.",
+  "priority": 8,
+  "status": "pending",
+  "category": "systematic-information-warfare",
+  "tags": [
+    "media-corporate-coordination",
+    "democratic-information-destruction",
+    "systematic-propaganda-infrastructure",
+    "information-warfare-acceleration",
+    "journalistic-independence-destruction",
+    "corporate-state-information-fusion"
+  ],
+  "estimated_events": 7,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2002-10-01--powell-memo-media-infrastructure-whig-propaganda-coordination",
+    "2002-09-15--powell-memo-institutional-network-whig-crisis-coordination",
+    "RT-008-corporate-media-executive-complicity"
+  ],
+  "key_sources": [
+    {
+      "title": "Corporate media coordination records during Iraq War period",
+      "type": "organizational-records",
+      "credibility": 8,
+      "why": "Evidence of systematic media-government coordination for propaganda"
+    },
+    {
+      "title": "Media studies analysis of information infrastructure destruction",
+      "type": "academic-research",
+      "credibility": 9,
+      "why": "Scholarly documentation of systematic information warfare patterns"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic media-corporate coordination for information control",
+    "Reveals acceleration of democratic information infrastructure destruction",
+    "Shows transformation of independent journalism into corporate-state propaganda",
+    "Connects Iraq War media capture to ongoing information warfare systems"
+  ],
+  "connections": [
+    {
+      "to": "RT-025-powell-whig-template-acceleration",
+      "type": "implements-component-of",
+      "description": "Media coordination implements Powell Memo media capture acceleration"
+    },
+    {
+      "to": "RT-019-information-control-system-evolution",
+      "type": "accelerates",
+      "description": "WHIG media coordination accelerates information control system evolution"
+    }
+  ],
+  "time_period": "2002-2005",
+  "constitutional_issues": [
+    "information infrastructure destruction",
+    "democratic participation enablement destruction",
+    "systematic propaganda institutionalization",
+    "corporate-state information fusion",
+    "journalistic independence elimination"
+  ],
+  "estimated_importance": 8
+}

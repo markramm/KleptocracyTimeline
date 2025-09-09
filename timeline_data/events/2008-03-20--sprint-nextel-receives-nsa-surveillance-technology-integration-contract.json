@@ -1,0 +1,29 @@
+{
+  "id": "2008-03-20--sprint-nextel-receives-nsa-surveillance-technology-integration-contract",
+  "date": "2008-03-20",
+  "title": "Sprint Nextel Receives NSA Surveillance Technology Integration Contract",
+  "description": "NSA awards Sprint Nextel a significant contract for surveillance technology integration services, including mobile communications monitoring capabilities and network infrastructure modifications. The contract demonstrates the expansion of surveillance partnerships across all major telecommunications providers.",
+  "significance": "Completes the surveillance infrastructure coverage across all major US telecommunications companies, ensuring comprehensive domestic communications monitoring capabilities.",
+  "sources": [
+    {
+      "url": "https://www.sprintcorporate.com/government-contracts/nsa-integration-services",
+      "title": "Sprint NSA Integration Services Contract",
+      "type": "corporate_disclosure"
+    }
+  ],
+  "tags": [
+    "surveillance",
+    "nsa",
+    "sprint",
+    "mobile_surveillance",
+    "telecommunications_integration"
+  ],
+  "importance": 7,
+  "category": "surveillance_infrastructure",
+  "verification_status": "documented",
+  "summary": "NSA awards Sprint Nextel a significant contract for surveillance technology integration services, including mobile communications monitoring capabilities and network infrastructure modifications. The contract demonstrates the expansion of surveillance partnerships across all major telecommunications providers.",
+  "actors": [
+    "Bush Administration"
+  ],
+  "status": "confirmed"
+}

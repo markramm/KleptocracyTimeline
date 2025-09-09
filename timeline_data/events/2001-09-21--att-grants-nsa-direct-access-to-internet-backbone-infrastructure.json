@@ -1,0 +1,29 @@
+{
+  "id": "2001-09-21--att-grants-nsa-direct-access-to-internet-backbone-infrastructure",
+  "date": "2001-09-21",
+  "title": "AT&T Grants NSA Direct Access to Internet Backbone Infrastructure",
+  "description": "AT&T provides NSA with unprecedented direct access to its internet backbone infrastructure through secret facility installations at major network switching centers. This establishes the foundation for mass surveillance programs by routing duplicate internet traffic streams directly to NSA analysis facilities.",
+  "significance": "Establishes the corporate-government surveillance partnership that bypasses traditional warrant requirements and constitutional protections, creating the infrastructure for systematic mass surveillance.",
+  "sources": [
+    {
+      "url": "https://www.eff.org/files/filenode/att/files/SB_Hepting_ATT_20060421.pdf",
+      "title": "Hepting v. AT&T - EFF Lawsuit Documentation",
+      "type": "legal_filing"
+    }
+  ],
+  "tags": [
+    "surveillance",
+    "telecommunications",
+    "nsa",
+    "corporate_cooperation",
+    "internet_backbone"
+  ],
+  "importance": 8,
+  "category": "surveillance_infrastructure",
+  "verification_status": "documented",
+  "summary": "AT&T provides NSA with unprecedented direct access to its internet backbone infrastructure through secret facility installations at major network switching centers. This establishes the foundation for mass surveillance programs by routing duplicate internet traffic streams directly to NSA analysis facilities.",
+  "actors": [
+    "Bush Administration"
+  ],
+  "status": "confirmed"
+}

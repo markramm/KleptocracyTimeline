@@ -1,0 +1,27 @@
+{
+  "id": "2012-01-01--koch-network-spends-400-million-targeting-obama",
+  "date": "2012-01-01",
+  "importance": 8,
+  "title": "Koch Network Spends $400 Million Targeting Obama Reelection",
+  "summary": "Koch brothers coordinate network of wealthy donors and front groups spending approximately $400 million in 2012 election cycle, primarily targeting President Obama's reelection.",
+  "actors": [
+    "Charles Koch",
+    "David Koch",
+    "Americans for Prosperity",
+    "Freedom Partners Chamber of Commerce"
+  ],
+  "tags": [
+    "dark-money",
+    "koch-network",
+    "election-influence",
+    "campaign-finance"
+  ],
+  "sources": [
+    {
+      "title": "The Koch Brothers' Political Network Spent $400 Million in 2012",
+      "url": "https://www.motherjones.com/politics/2013/02/koch-brothers-400-million-2012-election/",
+      "outlet": "Mother Jones",
+      "date": "2013-02-05"
+    }
+  ]
+}

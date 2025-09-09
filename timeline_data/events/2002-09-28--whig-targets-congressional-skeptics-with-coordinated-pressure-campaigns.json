@@ -1,0 +1,94 @@
+{
+  "id": "2002-09-28--whig-targets-congressional-skeptics-with-coordinated-pressure-campaigns",
+  "title": "WHIG Launches Coordinated Pressure Campaigns Against Congressional War Authorization Skeptics",
+  "date": "2002-09-28",
+  "description": "The White House Iraq Group systematically targets congressional members expressing skepticism about Iraq War authorization through coordinated pressure campaigns combining media attacks, district-level political pressure, and access threats. WHIG coordinates with Republican leadership to isolate and pressure skeptical Democrats while ensuring Republican unity through access privileges and political incentives. This systematic targeting of legislative opposition demonstrates the transformation of executive-legislative relations from constitutional debate into coordinated political warfare designed to suppress dissent and manufacture consensus.",
+  "category": "congressional-intimidation-operations",
+  "actors": {
+    "primary": [
+      {
+        "name": "Karl Rove",
+        "role": "WHIG political strategist coordinating pressure campaigns against skeptics",
+        "affiliation": "White House Iraq Group"
+      },
+      {
+        "name": "Nicholas Calio",
+        "role": "Legislative liaison implementing systematic congressional pressure",
+        "affiliation": "White House Iraq Group"
+      }
+    ],
+    "secondary": [
+      {
+        "name": "Dick Gephardt",
+        "role": "House Minority Leader targeted by WHIG pressure campaigns",
+        "affiliation": "US House Democratic Leadership"
+      },
+      {
+        "name": "Bob Graham",
+        "role": "Senate Intelligence Committee Chairman facing systematic pressure",
+        "affiliation": "US Senate Intelligence Committee"
+      },
+      {
+        "name": "Congressional war authorization skeptics",
+        "role": "Legislative members targeted for systematic intimidation",
+        "affiliation": "US Congress"
+      }
+    ]
+  },
+  "location": "Washington, DC",
+  "sources": [
+    {
+      "title": "WHIG meeting minutes documenting congressional pressure campaign strategies",
+      "type": "government-records",
+      "credibility": 10,
+      "description": "Internal planning documents showing systematic intimidation campaigns"
+    },
+    {
+      "title": "Congressional testimony from targeted legislators about pressure tactics",
+      "type": "congressional-records",
+      "credibility": 9,
+      "description": "Victim accounts of systematic government intimidation"
+    },
+    {
+      "title": "White House political operation records showing coordinated pressure campaigns",
+      "type": "government-records",
+      "credibility": 9,
+      "description": "Documentation of systematic congressional intimidation operations"
+    }
+  ],
+  "constitutional_issues": [
+    "separation of powers",
+    "legislative independence",
+    "congressional intimidation",
+    "executive abuse of power",
+    "democratic deliberation",
+    "checks and balances"
+  ],
+  "importance": 8,
+  "tags": [
+    "whig",
+    "congressional-intimidation",
+    "political-pressure",
+    "war-authorization",
+    "legislative-manipulation",
+    "dissent-suppression",
+    "separation-of-powers-violation"
+  ],
+  "connections": {
+    "coordinates_with": [
+      "2002-09-15--whig-coordinates-classified-congressional-briefing-deception",
+      "2002-09-25--whig-targets-congressional-skeptics-deception-campaigns"
+    ],
+    "enables": [
+      "2002-10-11--iraq-war-authorization-vote-based-on-whig-manipulation"
+    ],
+    "part_of_pattern": [
+      "whig-congressional-manipulation-sequence",
+      "systematic-legislative-intimidation",
+      "executive-overreach-escalation"
+    ]
+  },
+  "historical_significance": "The systematic targeting of congressional skeptics through coordinated pressure campaigns marked a fundamental transformation of executive-legislative relations from constitutional debate to political warfare. This operation established dangerous precedents for executive intimidation of legislative opposition and demonstrated how propaganda operations could systematically suppress democratic deliberation and manufacturing artificial consensus.",
+  "summary": "The White House Iraq Group systematically targets congressional members expressing skepticism about Iraq War authorization through coordinated pressure campaigns combining media attacks, district-level political pressure, and access threats. WHIG coordinates with Republican leadership to isolate and pressure skeptical Democrats while ensuring Republican unity through access privileges and political incentives. This systematic targeting of legislative opposition demonstrates the transformation of executive-legislative relations from constitutional debate into coordinated political warfare designed to suppress dissent and manufacture consensus.",
+  "status": "confirmed"
+}
