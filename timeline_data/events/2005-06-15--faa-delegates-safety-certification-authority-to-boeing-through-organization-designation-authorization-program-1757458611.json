@@ -1,0 +1,31 @@
+{
+  "date": "2005-06-15",
+  "title": "FAA Delegates Safety Certification Authority to Boeing Through Organization Designation Authorization Program",
+  "summary": "The Federal Aviation Administration formally transfers critical safety certification responsibilities to aircraft manufacturers through the expanded Organization Designation Authorization (ODA) program, allowing Boeing to essentially self-certify the safety of its own aircraft designs. This regulatory capture mechanism was justified as saving the aviation industry approximately $25 billion between 2006-2015, but created fundamental conflicts of interest that would prove catastrophic. The delegation represents a textbook case of regulatory capture where industry interests override public safety considerations, with the regulator ceding its core oversight function to the regulated entity. This decision established dangerous precedents that enabled Boeing's later 737 MAX certification process to proceed with minimal independent oversight, demonstrating how institutional capture can be formalized through regulatory policy changes that appear legitimate but fundamentally compromise agency independence.",
+  "actors": [
+    "Federal Aviation Administration",
+    "Boeing Corporation",
+    "Aircraft manufacturers",
+    "FAA certification officials",
+    "Aviation industry lobbyists",
+    "ODA program administrators",
+    "Congressional aviation oversight committees"
+  ],
+  "sources": [
+    "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing",
+    "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b",
+    "https://the-razors-edge.ghost.io/razors-edge-boeing-and-regulatory-ccapitalism/"
+  ],
+  "importance": 9,
+  "tags": [
+    "regulatory-capture",
+    "faa-boeing",
+    "self-certification",
+    "aviation-safety",
+    "institutional-capture",
+    "regulatory-delegation"
+  ],
+  "status": "confirmed",
+  "id": "2005-06-15--faa-delegates-safety-certification-authority-to-boeing-through-organization-designation-authorization-program-1757458611",
+  "priority_id": "indigenous-democracy-60dde4fe"
+}

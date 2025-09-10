@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-34CBECB6",
+  "title": "Business Roundtable Formation 1972",
+  "description": "Investigate Business Roundtable founding as CEO lobbying organization parallel to Powell Memo implementation. Connect to current members' capture activities.",
+  "priority": "high",
+  "tags": [
+    "business_roundtable",
+    "ceo_lobbying",
+    "powell_memo_parallel"
+  ],
+  "decade": "1970s",
+  "created": "2025-09-09T20:52:42.725954",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Lewis Powell",
+    "Nixon Administration"
+  ]
+}

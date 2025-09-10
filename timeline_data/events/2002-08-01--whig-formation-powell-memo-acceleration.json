@@ -1,0 +1,26 @@
+{
+  "id": "2002-08-01--whig-formation-powell-memo-acceleration",
+  "date": "2002-08-01",
+  "title": "White House Iraq Group Formation Implements Powell Memo Crisis-Acceleration Model",
+  "summary": "White House Chief of Staff Andrew Card forms WHIG, chaired by Karl Rove, to coordinate systematic propaganda campaign for Iraq invasion. Group represents acceleration of Powell Memo institutional capture strategy, using crisis exploitation to rapidly implement coordinated messaging across government and allied think tanks.",
+  "actors": [
+    "Andrew Card",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Lewis Libby",
+    "Karen Hughes"
+  ],
+  "financial_impact": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+    "https://sourcewatch.org/index.php/White_House_Iraq_Group"
+  ],
+  "importance": 8,
+  "tags": [
+    "whig",
+    "crisis-acceleration",
+    "powell-memo-implementation",
+    "propaganda-coordination"
+  ],
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-FFDF801A",
+  "title": "Council for National Policy Coordination",
+  "description": "Document CNP secret membership, coordination of conservative movement, and dark money distribution networks.",
+  "priority": "critical",
+  "tags": [
+    "cnp",
+    "conservative_coordination",
+    "dark_money"
+  ],
+  "decade": "cross-decade",
+  "created": "2025-09-09T20:52:42.727441",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Heritage Foundation",
+    "religious right"
+  ]
+}

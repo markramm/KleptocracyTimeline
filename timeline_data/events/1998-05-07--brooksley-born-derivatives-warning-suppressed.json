@@ -1,0 +1,37 @@
+{
+  "id": "1998-05-07--brooksley-born-derivatives-warning-suppressed",
+  "date": "1998-05-07",
+  "title": "Brooksley Born's Derivatives Regulation Warning Systematically Suppressed",
+  "summary": "CFTC Chair Brooksley Born issued a concept release seeking public comment on regulating the $29 trillion over-the-counter derivatives market, warning of systemic risks from unregulated trading. Within hours, Treasury Secretary Robert Rubin, Federal Reserve Chairman Alan Greenspan, and SEC Chairman Arthur Levitt issued a joint statement condemning Born's proposal and expressing 'grave concern about this action and its possible consequences.'\n\nLawrence Summers, then Deputy Treasury Secretary, led an aggressive campaign against Born's regulatory efforts. In one phone call, Summers told CFTC officials: 'I have 13 bankers in my office and they say if you go forward with this you will cause the worst financial crisis since World War II.' The opposition was so intense that Congress ultimately stripped the CFTC of regulatory power over derivatives, forcing Born to resign in 1999. Her warnings about unregulated derivatives proved prophetic when credit default swaps became central to the 2008 financial crisis.",
+  "importance": 10,
+  "actors": [
+    "Brooksley Born",
+    "Robert Rubin",
+    "Lawrence Summers",
+    "Alan Greenspan",
+    "Arthur Levitt"
+  ],
+  "tags": [
+    "derivatives",
+    "cftc",
+    "regulatory-capture",
+    "financial-crisis",
+    "systemic-risk",
+    "wall-street"
+  ],
+  "sources": [
+    {
+      "title": "Interviews - Brooksley Born | The Warning",
+      "url": "https://www.pbs.org/wgbh/pages/frontline/warning/interviews/born.html",
+      "outlet": "PBS Frontline",
+      "date": "2009-10-20"
+    },
+    {
+      "title": "The Woman Who Knew",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2009/05/25/AR2009052502108.html",
+      "outlet": "Washington Post",
+      "date": "2009-05-26"
+    }
+  ],
+  "status": "confirmed"
+}

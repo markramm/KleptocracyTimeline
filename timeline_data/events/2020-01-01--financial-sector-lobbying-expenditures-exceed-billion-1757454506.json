@@ -1,0 +1,23 @@
+{
+  "date": "2020-01-01",
+  "title": "Financial Sector Lobbying Expenditures Exceed  Billion",
+  "summary": "Financial sector spends over  billion on lobbying in 2020, making it one of the largest lobbying spenders, demonstrating institutional capture through massive resource deployment to influence regulatory frameworks. This expenditure enables cascading effects across regulatory agencies, policy formation, and enforcement priorities.",
+  "importance": 7,
+  "status": "confirmed",
+  "actors": [
+    "Financial Services Industry",
+    "US Congress",
+    "Federal Financial Regulators"
+  ],
+  "sources": [
+    "https://www.masterclass.com/articles/regulatory-capture"
+  ],
+  "tags": [
+    "lobbying",
+    "financial sector",
+    "regulatory capture",
+    "institutional influence"
+  ],
+  "id": "2020-01-01--financial-sector-lobbying-expenditures-exceed-billion-1757454506",
+  "priority_id": "RP-20250909-capture-cascade-part-6-the-cascade"
+}

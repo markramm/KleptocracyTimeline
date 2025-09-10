@@ -1,0 +1,17 @@
+{
+  "id": "RP-20250909-project-2025-implementation-tracking",
+  "title": "Project 2025 Implementation Tracking",
+  "description": "Track implementation of Project 2025 agenda items, documenting which recommendations have been adopted through executive orders, appointments, and policy changes.",
+  "priority": 10,
+  "status": "pending",
+  "category": "pdf-analysis",
+  "tags": [
+    "project-2025",
+    "critical-priority",
+    "heritage-foundation"
+  ],
+  "estimated_events": 10,
+  "source_document": "documents/incoming/Project 2025 Implementation_ Trump Administration's Systematic Adoption of Heritage Foundation Blueprint.pdf",
+  "created_date": "2025-09-09",
+  "requires_pdf_analysis": true
+}

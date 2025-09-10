@@ -1,0 +1,16 @@
+{
+  "id": "RT-C512EF5E",
+  "title": "Crypto Regulatory Self-Writing",
+  "description": "Track cryptocurrency industry writing own regulations and regulatory capture",
+  "priority": "high",
+  "tags": [
+    "crypto",
+    "self_regulation",
+    "financial_capture"
+  ],
+  "capture_lane": "regulatory",
+  "decade": "2020s",
+  "created": "2025-09-09T20:49:54.598876",
+  "status": "pending",
+  "category": "capture_research"
+}

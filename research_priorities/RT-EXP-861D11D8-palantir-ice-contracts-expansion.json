@@ -1,0 +1,20 @@
+{
+  "id": "RT-EXP-861D11D8",
+  "title": "Palantir ICE Contracts Expansion",
+  "description": "Track Palantir's ICE/CBP contracts growth, predictive policing algorithms, and Thiel's government surveillance infrastructure.",
+  "priority": "critical",
+  "tags": [
+    "palantir",
+    "ice",
+    "thiel",
+    "surveillance"
+  ],
+  "decade": "2010s",
+  "created": "2025-09-09T20:52:42.726884",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Peter Thiel",
+    "immigration enforcement"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "RT-004-enron-cheney-connection",
+  "title": "Enron-Cheney Energy Task Force Connection",
+  "description": "Document Kenneth Lay's 6+ meetings with Cheney (April-May 2001), include Enron's energy policy recommendations adopted verbatim, track timeline to Enron collapse (December 2, 2001), document destroyed/hidden meeting records from the secret Energy Task Force.",
+  "priority": 8,
+  "status": "completed",
+  "category": "corporate-capture",
+  "tags": [
+    "enron",
+    "cheney",
+    "energy",
+    "corruption",
+    "corporate-capture",
+    "kenneth-lay"
+  ],
+  "estimated_events": 2,
+  "actual_events": 6,
+  "created_date": "2025-01-05",
+  "updated_date": "2025-09-09",
+  "triggered_by": [
+    "2001-01-29--cheney-creates-secret-energy-task-force-with-oil-e"
+  ],
+  "key_sources": [
+    {
+      "title": "GAO attempts to obtain energy task force records",
+      "type": "government-report",
+      "credibility": 9,
+      "why": "Official efforts to document corporate influence"
+    },
+    {
+      "title": "Judicial Watch FOIA litigation documents",
+      "type": "legal-documents",
+      "credibility": 8,
+      "why": "Court battle over task force secrecy"
+    },
+    {
+      "title": "Corporate lobbying disclosure forms 2001-2003",
+      "type": "government-documents",
+      "credibility": 9,
+      "why": "Official records of Enron lobbying activity"
+    }
+  ],
+  "expected_outcomes": [
+    "Reveals corporate war profiteering coordination predating public war justifications",
+    "Documents systematic policy capture by energy corporations",
+    "Shows destruction of evidence patterns"
+  ],
+  "connections": [
+    {
+      "to": "RT-001-whig-propaganda-campaign",
+      "type": "precursor",
+      "description": "Energy task force preceded Iraq war planning coordination"
+    }
+  ],
+  "actors_to_investigate": [
+    "Kenneth Lay",
+    "Dick Cheney",
+    "Enron executives",
+    "David Addington"
+  ],
+  "time_period": "2001",
+  "constitutional_issues": [
+    "transparency",
+    "corporate influence",
+    "public records"
+  ],
+  "estimated_importance": 8,
+  "completion_notes": "Completed with 6 events (5 high quality)",
+  "matched_events": [
+    "2005-08-08--energy-task-force-recommendations-become-epa-polic",
+    "2001-01-29--cheney-creates-secret-energy-task-force-with-oil-e",
+    "2003-03-08--halliburton-awarded-7-billion-no-bid-iraq-contract",
+    "2003-03-08--halliburton-gets-95b-iraq-contracts-with-cheney-ti",
+    "2003-02-28--kwiatkowski-whistleblower-osp-whig-intelligence-corruption",
+    "2017-01-20--heritage-foundation-staffs-trump-admin-implements"
+  ]
+}

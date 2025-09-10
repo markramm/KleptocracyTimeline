@@ -1,0 +1,42 @@
+{
+  "id": "2002-09-01--cia-creates-iraqi-operations-group-politicized-intelligence",
+  "date": "2002-09-01",
+  "title": "CIA Creates Iraqi Operations Group Under Political Pressure",
+  "summary": "CIA Director George Tenet establishes the Iraqi Operations Group within the Counterterrorism Center, bypassing traditional intelligence analysis chains. The group was created under intense White House pressure to find intelligence supporting predetermined policy conclusions about Iraqi WMD and al-Qaeda connections. Senate Intelligence Committee later found this represented unprecedented politicization of CIA analysis, with analysts reporting they felt pressured to conform intelligence to policy preferences.",
+  "actors": [
+    "George Tenet",
+    "Dick Cheney", 
+    "Scooter Libby",
+    "Iraqi Operations Group",
+    "CIA Counterterrorism Center"
+  ],
+  "tags": [
+    "intelligence-politicization",
+    "cia-corruption",
+    "iraq-war-deception",
+    "institutional-capture",
+    "wmd-fabrication"
+  ],
+  "sources": [
+    {
+      "url": "https://www.intelligence.senate.gov/sites/default/files/publications/iraqreport2.pdf",
+      "title": "Report on the U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq",
+      "outlet": "Senate Select Committee on Intelligence",
+      "date": "2004-07-09"
+    },
+    {
+      "url": "https://www.washingtonpost.com/wp-dyn/articles/A62042-2004Jul7.html",
+      "title": "CIA Analysis Was 'Dead Wrong' on WMDs, Senate Report Says",
+      "outlet": "Washington Post",
+      "date": "2004-07-08"
+    },
+    {
+      "url": "https://www.nytimes.com/2004/07/10/politics/cia-was-pushed-to-alter-view-of-iraq-threat-report-says.html",
+      "title": "CIA Was Pushed to Alter View of Iraq Threat, Report Says",
+      "outlet": "New York Times", 
+      "date": "2004-07-10"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed"
+}

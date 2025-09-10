@@ -1,9 +1,0 @@
-{
-  "id": "2025-09-06--test-event-2",
-  "date": "2025-09-06",
-  "title": "Second Test Event",
-  "description": "Another test event for the system",
-  "importance": 6,
-  "category": "test",
-  "verification_status": "pending"
-}

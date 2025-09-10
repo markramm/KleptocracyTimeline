@@ -1,0 +1,24 @@
+{
+  "date": "2016-06-01",
+  "title": "Paul Manafort Shares Trump Campaign Data with Russian Intelligence",
+  "summary": "Trump campaign chairman Paul Manafort creates \"grave counterintelligence threat\" by sharing internal polling data with Konstantin Kilimnik, identified Russian intelligence officer, creating direct pipeline to Russian intelligence during election interference.",
+  "actors": [
+    "Paul Manafort",
+    "Konstantin Kilimnik",
+    "Russian intelligence"
+  ],
+  "importance": 10,
+  "sources": [
+    "NPR",
+    "Senate Intelligence Committee Report"
+  ],
+  "tags": [
+    "manafort-russia",
+    "campaign-data-sharing",
+    "election-interference",
+    "intelligence-pipeline"
+  ],
+  "status": "confirmed",
+  "id": "2016-06-01--paul-manafort-shares-trump-campaign-data-with-russian-intelligence-1757456698",
+  "priority_id": "russian-influence-networks-1757456698"
+}

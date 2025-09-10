@@ -1,0 +1,16 @@
+{
+  "id": "RT-90508641",
+  "title": "Fed Regional Bank Corruption",
+  "description": "Investigate Federal Reserve regional bank corruption and capture patterns",
+  "priority": "high",
+  "tags": [
+    "federal_reserve",
+    "banking_corruption",
+    "monetary_capture"
+  ],
+  "capture_lane": "financial",
+  "decade": "2020s",
+  "created": "2025-09-09T20:49:54.599140",
+  "status": "pending",
+  "category": "capture_research"
+}

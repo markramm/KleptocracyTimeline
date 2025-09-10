@@ -1,0 +1,18 @@
+{
+  "date": "2025-09-09",
+  "title": "RESEARCH PRIORITY: Federalist Society Legal Capture Network 1982-2020",
+  "summary": "Priority Level 9/10. Expected 4 timeline events. Focus areas: judicial capture, legal precedent creation. Source: The Capture Cascade Part 1",
+  "importance": 9,
+  "tags": [
+    "research-priority",
+    "pdf-ingestion",
+    "judicial capture"
+  ],
+  "status": "needs_research",
+  "actors": [
+    "PDF Ingestion Agent"
+  ],
+  "notes": "Derived from systematic analysis of The Capture Cascade Part 1 document. Represents high-value research target for kleptocracy timeline development.",
+  "id": "2025-09-09--research-priority:-federalist-society-legal-capture-network-1982-2020-1757456012",
+  "priority_id": "pdf-ingestion-agent"
+}

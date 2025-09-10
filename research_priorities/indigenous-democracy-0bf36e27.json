@@ -1,0 +1,67 @@
+{
+  "id": "indigenous-democracy-0bf36e27",
+  "title": "Haudenosaunee Constitutional Influence on American Democratic Design",
+  "description": "Research the specific mechanisms by which Haudenosaunee (Iroquois) political structures influenced the design of American democratic institutions, including the Great Law of Peace's impact on federal structure, separation of powers, and representation systems.",
+  "priority": 8,
+  "status": "pending",
+  "category": "indigenous-democracy",
+  "tags": [
+    "haudenosaunee",
+    "constitution",
+    "indigenous-governance",
+    "federal-structure",
+    "great-law-of-peace"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Traditional Democratic Innovations for Modern Governance_ Lessons from Indigenous and Pre-Modern Political Systems.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "1142-1787",
+  "constitutional_issues": [
+    "federal-structure",
+    "separation-of-powers",
+    "representation"
+  ],
+  "actors_to_investigate": [
+    "Benjamin Franklin",
+    "Haudenosaunee leaders",
+    "Constitutional Convention delegates",
+    "Canassatego",
+    "Joseph Brant"
+  ],
+  "key_sources": [
+    {
+      "title": "Benjamin Franklin's writings on Iroquois governance",
+      "type": "historical-documents",
+      "credibility": 9,
+      "why": "Direct observations of Indigenous governance systems"
+    },
+    {
+      "title": "Constitutional Convention proceedings and debates",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Official records of constitutional design discussions"
+    },
+    {
+      "title": "Haudenosaunee oral traditions and historical records",
+      "type": "indigenous-sources",
+      "credibility": 9,
+      "why": "Primary sources on traditional governance systems"
+    }
+  ],
+  "expected_outcomes": [
+    "Document specific Haudenosaunee constitutional influences on American design",
+    "Establish historical timeline of Indigenous democratic concepts in colonial period",
+    "Reveal deliberate consultation between Indigenous leaders and framers",
+    "Map federal union concepts from traditional Indigenous governance"
+  ],
+  "research_questions": [
+    "What specific provisions of the Great Law of Peace influenced the Articles of Confederation and Constitution?",
+    "How did Benjamin Franklin's observations of Haudenosaunee governance inform constitutional design?",
+    "What evidence exists of direct consultation between Haudenosaunee leaders and constitutional framers?",
+    "How did concepts of federal union from Haudenosaunee tradition influence American federalism?"
+  ],
+  "estimated_importance": 8
+}

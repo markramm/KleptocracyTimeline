@@ -1,0 +1,20 @@
+{
+  "id": "RT-EXP-C314927C",
+  "title": "WeWork SoftBank Saudi Money Laundering",
+  "description": "Investigate WeWork/Adam Neumann's Saudi funding via SoftBank Vision Fund, Kushner connections, and spectacular fraud collapse.",
+  "priority": "high",
+  "tags": [
+    "wework",
+    "softbank",
+    "saudi_money",
+    "neumann"
+  ],
+  "decade": "2010s",
+  "created": "2025-09-09T20:52:42.726987",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Jared Kushner",
+    "Saudi Arabia"
+  ]
+}

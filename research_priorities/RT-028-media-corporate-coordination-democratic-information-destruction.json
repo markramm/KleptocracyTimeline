@@ -3,7 +3,7 @@
   "title": "Media-Corporate Coordination Networks for Systematic Democratic Information Infrastructure Destruction",
   "description": "Research how WHIG operations accelerated Powell Memorandum media capture strategy through systematic coordination between corporate media executives, government propaganda operations, and think tank information networks to destroy democratic information infrastructure. Investigate how established corporate media coordination protocols enabled WHIG systematic deception campaigns while WHIG operations provided media networks with government-sanctioned narrative coordination that accelerated corporate capture of information systems. Document how media-corporate coordination during Iraq War created template for systematic information warfare that transforms independent journalism into coordinated corporate-state propaganda apparatus. Connect to ongoing information control system evolution and systematic destruction of democratic information-sharing capabilities necessary for informed democratic participation.",
   "priority": 8,
-  "status": "pending",
+  "status": "completed",
   "category": "systematic-information-warfare",
   "tags": [
     "media-corporate-coordination",
@@ -14,9 +14,9 @@
     "corporate-state-information-fusion"
   ],
   "estimated_events": 7,
-  "actual_events": 0,
+  "actual_events": 172,
   "created_date": "2025-09-06",
-  "updated_date": "2025-09-06",
+  "updated_date": "2025-09-09",
   "triggered_by": [
     "2002-10-01--powell-memo-media-infrastructure-whig-propaganda-coordination",
     "2002-09-15--powell-memo-institutional-network-whig-crisis-coordination",
@@ -62,5 +62,18 @@
     "corporate-state information fusion",
     "journalistic independence elimination"
   ],
-  "estimated_importance": 8
+  "estimated_importance": 8,
+  "completion_notes": "Completed with 172 events (136 high quality)",
+  "matched_events": [
+    "2010-01-21--citizens-united-unleashes-unlimited-corporate-spending",
+    "2002-09-15--powell-memo-institutional-network-whig-crisis-coordination",
+    "2018-04-01--t-mobile-executives-spend-95k-at-trump-hotel-durin",
+    "2002-12-18--osp-fabricates-iraq-alqaeda-links-whig-propaganda",
+    "2007-05-23--monica-goodling-admits-political-screening-of-doj-",
+    "2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers",
+    "2025-04-15--press-pool-restructure",
+    "2017-01-20--systematic-government-agency-weaponization-infrastructure-acceleration-institutional-capture",
+    "2017-01-20--trump-organization-receives-36m-from-foreign-gover",
+    "2021-01-20--freedom-house-downgrades-us-democracy-score-to-831"
+  ]
 }

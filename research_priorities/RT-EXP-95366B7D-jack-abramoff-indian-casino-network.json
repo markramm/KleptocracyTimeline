@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-95366B7D",
+  "title": "Jack Abramoff Indian Casino Network",
+  "description": "Map Abramoff's Indian casino lobbying scandal connecting to Ralph Reed, Grover Norquist, and Tom DeLay's K Street Project.",
+  "priority": "high",
+  "tags": [
+    "abramoff",
+    "indian_casinos",
+    "k_street"
+  ],
+  "decade": "2000s",
+  "created": "2025-09-09T20:52:42.726722",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "GOP corruption",
+    "lobbying scandal"
+  ]
+}

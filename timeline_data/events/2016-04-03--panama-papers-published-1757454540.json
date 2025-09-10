@@ -1,0 +1,25 @@
+{
+  "date": "2016-04-03",
+  "title": "Panama Papers Published",
+  "summary": "The International Consortium of Investigative Journalists published the Panama Papers, revealing offshore financial activities of world leaders, politicians, and celebrities. The leak exposed how Mossack Fonseca helped clients launder money, dodge sanctions, and evade taxes.",
+  "actors": [
+    "ICIJ",
+    "Mossack Fonseca",
+    "Vladimir Putin associates",
+    "Various world leaders"
+  ],
+  "sources": [
+    "https://www.icij.org/investigations/panama-papers/"
+  ],
+  "importance": 9,
+  "tags": [
+    "offshore",
+    "money-laundering",
+    "tax-evasion",
+    "investigation",
+    "leak"
+  ],
+  "status": "confirmed",
+  "id": "2016-04-03--panama-papers-published-1757454540",
+  "priority_id": "RP-20250909-capture-cascade-part-1-the-blueprint"
+}

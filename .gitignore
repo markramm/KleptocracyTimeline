@@ -196,3 +196,6 @@ ai_notes/
 # Flask app files
 timeline_data/static/logs/
 *.log
+
+# Archive directory for one-time scripts and reports
+archive/

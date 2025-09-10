@@ -1,0 +1,16 @@
+{
+  "id": "RT-60B27B21",
+  "title": "Derivatives Deregulation Enron Loophole",
+  "description": "Track commodity futures deregulation and creation of 'Enron loophole' for unregulated derivatives",
+  "priority": "critical",
+  "tags": [
+    "derivatives",
+    "enron",
+    "financial_deregulation"
+  ],
+  "capture_lane": "financial",
+  "decade": "1990s",
+  "created": "2025-09-09T20:49:54.598218",
+  "status": "pending",
+  "category": "capture_research"
+}

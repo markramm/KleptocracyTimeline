@@ -1,0 +1,28 @@
+{
+  "date": "2013-08-01",
+  "title": "FAA Safety Official Ali Bahrami Leaves for Aerospace Industries Association During Boeing 737 MAX Development",
+  "summary": "Ali Bahrami, who led the FAA office overseeing Boeing aircraft certification, departed the agency in August 2013 to join the Aerospace Industries Association, a major aviation industry lobby funded partly by Boeing. His departure occurred during the critical early stages of Boeing 737 MAX certification process. As FAA top safety official who later returned to the agency, Bahrami had previously pushed an agenda of regulatory \"abdication\" to Boeing, according to former FAA engineers. This case illustrates the revolving door between aviation regulators and industry that contributed to regulatory capture. The timing is particularly significant as it occurred when Boeing was developing the automated MCAS system that would later contribute to two fatal crashes. The aerospace industry lobby position gave Bahrami influence over regulatory policy while representing Boeing interests.",
+  "actors": [
+    "Ali Bahrami",
+    "FAA",
+    "Boeing",
+    "Aerospace Industries Association",
+    "737 MAX"
+  ],
+  "sources": [
+    "https://www.pogo.org/analysis/corrupted-oversight-the-faa-boeing-and-the-737-max",
+    "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b"
+  ],
+  "importance": 9,
+  "tags": [
+    "regulatory-capture",
+    "aviation-safety",
+    "FAA",
+    "Boeing",
+    "revolving-door",
+    "737-MAX"
+  ],
+  "status": "confirmed",
+  "id": "2013-08-01--faa-safety-official-ali-bahrami-leaves-for-aerospace-industries-association-during-boeing-737-max-development-1757455518",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+}

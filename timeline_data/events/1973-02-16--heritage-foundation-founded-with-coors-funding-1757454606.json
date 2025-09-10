@@ -1,0 +1,27 @@
+{
+  "date": "1973-02-16",
+  "title": "Heritage Foundation Founded with Coors Funding",
+  "summary": "Joseph Coors contributes $250,000 to establish the Heritage Foundation, the first major conservative think tank directly inspired by Powell Memo strategy. Founded by Paul Weyrich, Edwin Feulner, and Joseph Coors, it represents new model of politically aggressive, ideologically-driven \"expert\" organization designed to influence policy and public opinion.",
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "Joseph Coors",
+    "Paul Weyrich",
+    "Edwin Feulner",
+    "Heritage Foundation",
+    "Adolph Coors Foundation"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
+    "https://www.greenpeace.org/usa/the-lewis-powell-memo-corporate-blueprint-to-dominate-democracy/"
+  ],
+  "tags": [
+    "capture-cascade",
+    "blueprint",
+    "heritage-foundation",
+    "think-tanks",
+    "coors-funding"
+  ],
+  "id": "1973-02-16--heritage-foundation-founded-with-coors-funding-1757454606",
+  "priority_id": "RP-20250109-capture-cascade-part1"
+}

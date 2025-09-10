@@ -1,0 +1,26 @@
+{
+  "date": "2012-04-06",
+  "title": "Magnitsky Act Passed by US Congress",
+  "summary": "The Magnitsky Act was signed into law, authorizing the US government to sanction foreign government officials implicated in human rights violations and corruption. Named after Sergei Magnitsky, who died in Russian custody after exposing a $230 million tax fraud scheme.",
+  "actors": [
+    "US Congress",
+    "Sergei Magnitsky",
+    "Bill Browder",
+    "Russian officials"
+  ],
+  "sources": [
+    "https://www.congress.gov/bill/112th-congress/house-bill/6156",
+    "https://www.justice.gov/opa/pr/russian-official-charged-connection-magnitsky-case"
+  ],
+  "importance": 8,
+  "tags": [
+    "sanctions",
+    "human-rights",
+    "corruption",
+    "russia",
+    "legislation"
+  ],
+  "status": "confirmed",
+  "id": "2012-04-06--magnitsky-act-passed-by-us-congress-1757454486",
+  "priority_id": "RP-20250909-capture-cascade-part-2-the-accelerant"
+}

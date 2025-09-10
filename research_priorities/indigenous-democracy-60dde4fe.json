@@ -1,0 +1,65 @@
+{
+  "id": "indigenous-democracy-60dde4fe",
+  "title": "Early Warning Systems for Institutional Capture",
+  "description": "Research metrics and monitoring systems that can detect early signs of institutional capture, regulatory capture, and systemic corruption before they become entrenched.",
+  "priority": 9,
+  "status": "pending",
+  "category": "capture-detection",
+  "tags": [
+    "institutional-capture",
+    "regulatory-capture",
+    "corruption-detection",
+    "early-warning"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Outcome Measurement Framework_ Democratic Institutional Health Metrics.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "1980-2025",
+  "constitutional_issues": [
+    "corruption-prevention",
+    "regulatory-integrity",
+    "institutional-independence"
+  ],
+  "actors_to_investigate": [
+    "Regulatory capture researchers",
+    "Anti-corruption investigators",
+    "Government oversight specialists",
+    "Network analysis experts"
+  ],
+  "key_sources": [
+    {
+      "title": "Regulatory agency personnel and decision records",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Direct evidence of regulatory decision patterns"
+    },
+    {
+      "title": "Financial disclosure and lobbying registration databases",
+      "type": "financial-records",
+      "credibility": 10,
+      "why": "Verifiable financial connections between regulators and regulated"
+    },
+    {
+      "title": "Academic studies on regulatory capture patterns",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Systematic analysis of capture mechanisms"
+    }
+  ],
+  "expected_outcomes": [
+    "Create financial and personnel indicators for institutional capture detection",
+    "Develop revolving door pattern quantification and monitoring systems",
+    "Design policy outcome metrics indicating regulatory capture",
+    "Implement network analysis for detecting influence operations"
+  ],
+  "research_questions": [
+    "What financial and personnel indicators signal institutional capture?",
+    "How can revolving door patterns be quantified and monitored?",
+    "What policy outcome metrics indicate regulatory capture?",
+    "How can network analysis detect influence operations?"
+  ],
+  "estimated_importance": 9
+}

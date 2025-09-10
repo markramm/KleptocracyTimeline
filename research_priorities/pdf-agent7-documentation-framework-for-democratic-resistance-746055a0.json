@@ -1,0 +1,25 @@
+{
+  "id": "746055a0",
+  "title": "Documentation Framework for Democratic Resistance",
+  "description": "Investigation into systematic documentation methods for tracking democratic resistance movements, institutional pushback, and civil society responses to authoritarian capture.",
+  "priority": 7,
+  "estimated_events": 6,
+  "category": "pdf_ingestion",
+  "tags": [
+    "Resistance movements",
+    "Documentation methods",
+    "Civil society"
+  ],
+  "research_areas": [
+    "What are the specific dates and actors involved in Documentation Framework for Democratic Resistance?",
+    "What are the financial amounts and policy changes related to this investigation?",
+    "How does this connect to broader institutional capture patterns?",
+    "What documentation and sources verify these timeline events?"
+  ],
+  "timeline_focus": "2008-01-01 to 2025-01-31",
+  "actors": [],
+  "source_requirements": "Government documents, financial records, policy communications",
+  "created_by": "pdf-ingestion-agent-7",
+  "pdf_source": "Resistance Documentation Framework.pdf",
+  "created_at": "2025-09-09T18:52:52.069416"
+}

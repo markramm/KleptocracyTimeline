@@ -1,0 +1,33 @@
+{
+  "id": "20f82c31",
+  "title": "Congressional Response Failure: Legislative Branch Paralysis During Constitutional Crisis",
+  "description": "Examine how partisan gridlock prevented Congressional action on emoluments violations, emergency powers abuse, and constitutional remedies during the 2025 crisis.",
+  "priority": 7,
+  "estimated_events": 5,
+  "category": "constitutional_crisis",
+  "tags": [
+    "constitutional-crisis",
+    "congressional-gridlock",
+    "legislative-paralysis",
+    "impeachment",
+    "oversight-failure"
+  ],
+  "research_areas": [
+    "What specific legislation was proposed to address emoluments violations?",
+    "Which Congressional hearings addressed the National Guard federalization?",
+    "How did partisan voting patterns prevent constitutional remedies?",
+    "What impeachment discussions occurred during the crisis period?"
+  ],
+  "timeline_focus": "2025-01-01 to 2025-06-30",
+  "actors": [
+    "House Speaker",
+    "Senate Majority Leader",
+    "Committee chairs",
+    "Ranking members",
+    "Constitutional scholars"
+  ],
+  "source_requirements": "Congressional hearing transcripts, proposed legislation, committee reports, voting records",
+  "created_by": "pdf-ingestion-agent-4",
+  "pdf_source": "Constitutional Crisis Assessment_ The Convergence of Foreign Emoluments, Federal Overreach, and Popular Resistance.pdf",
+  "created_at": "2025-09-09T18:29:46.186383"
+}

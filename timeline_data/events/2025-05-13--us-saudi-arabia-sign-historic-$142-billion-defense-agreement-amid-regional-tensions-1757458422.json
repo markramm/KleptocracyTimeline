@@ -1,0 +1,33 @@
+{
+  "date": "2025-05-13",
+  "title": "US-Saudi Arabia Sign Historic $142 Billion Defense Agreement Amid Regional Tensions",
+  "summary": "The United States and Saudi Arabia finalize the largest defense cooperation agreement in history worth $142 billion, providing Saudi Arabia with advanced military technology including MQ-9B drones, THAAD missile defense systems, and C-130J aircraft. The deal involves contracts with over a dozen American defense firms including Lockheed Martin, Boeing, Raytheon, Northrop Grumman, and General Atomics, spanning air and missile defense, space capabilities, naval and coastal security, and military modernization. Saudi Arabia commits to $20 billion investment in US artificial intelligence sector as part of the agreement. This unprecedented defense partnership positions Saudi Arabia as a crucial US ally in containing Iranian regional influence, while demonstrating Trump administration's strategic shift toward Gulf monarchies over traditional democratic allies. The timing coincides with escalating Israeli-Iranian tensions and Iranian threats against Saudi oil infrastructure.",
+  "actors": [
+    "Donald Trump",
+    "Saudi Crown Prince Mohammed bin Salman",
+    "Lockheed Martin",
+    "Boeing",
+    "Raytheon",
+    "Northrop Grumman",
+    "General Atomics",
+    "US Defense Department",
+    "Saudi Defense Ministry"
+  ],
+  "sources": [
+    "https://breakingdefense.com/2025/05/at-nearly-142-billion-white-house-claims-largest-defense-deal-in-history-with-saudi-arabia/",
+    "https://bulgarianmilitary.com/2025/05/13/us-arms-saudi-arabia-with-142b-in-advanced-military-tech-deal/",
+    "https://www.euronews.com/2025/05/13/trump-joined-by-musk-in-saudi-arabia-as-us-seeks-major-investment-from-gulf-states"
+  ],
+  "importance": 8,
+  "tags": [
+    "us-saudi-defense",
+    "arms-deals",
+    "regional-security",
+    "iran-containment",
+    "defense-contractors",
+    "strategic-partnerships"
+  ],
+  "status": "confirmed",
+  "id": "2025-05-13--us-saudi-arabia-sign-historic-$142-billion-defense-agreement-amid-regional-tensions-1757458422",
+  "priority_id": "geopolitics-15ecda65"
+}

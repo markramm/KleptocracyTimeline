@@ -1,0 +1,33 @@
+{
+  "date": "2025-02-05",
+  "title": "Trump Administration Shuts Down KleptoCapture Task Force",
+  "summary": "Attorney General Pam Bondi announced the immediate closure of the Kleptocracy Initiative, its KleptoCapture Task Force, and the Kleptocracy Asset Recovery Initiative, marking a significant shift in U.S. anti-corruption policy. The Task Force KleptoCapture, established in March 2022 under the Biden administration to enforce sanctions on Russian oligarchs following Russia's invasion of Ukraine, was disbanded along with the Foreign Influence Task Force. Bondi justified the move as implementing Trump's executive order on designating cartels as foreign terrorist organizations, redirecting resources to \"total elimination of Cartels and Transnational Criminal Organizations (TCOs).\" The shutdown eliminates programs that had successfully identified, frozen, and seized billions of dollars controlled by supporters of America's adversaries. Transparency International criticized the move, warning it would \"significantly diminish the U.S.'s ability to counter transnational corruption.\" The decision also redirects seized funds from victim countries to building detention centers in Texas and Guantanamo Bay. The changes represent a dramatic policy reversal from the Biden administration's approach to Russian sanctions enforcement and demonstrate how institutional capture can dismantle anti-corruption mechanisms through administrative action.",
+  "actors": [
+    "Pam Bondi",
+    "Donald Trump",
+    "Task Force KleptoCapture",
+    "Department of Justice",
+    "Gary Kalman",
+    "Transparency International",
+    "Russian oligarchs"
+  ],
+  "sources": [
+    "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/",
+    "https://www.rollingstone.com/politics/politics-news/pam-bondi-disbands-anti-corruption-task-force-1235259073/",
+    "https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/",
+    "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/"
+  ],
+  "importance": 9,
+  "tags": [
+    "institutional-capture",
+    "anti-corruption",
+    "kleptocracy",
+    "sanctions",
+    "russia",
+    "trump-administration",
+    "doj"
+  ],
+  "status": "confirmed",
+  "id": "2025-02-05--trump-administration-shuts-down-kleptocapture-task-force-1757455486",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-14"
+}

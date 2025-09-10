@@ -1,0 +1,26 @@
+{
+  "date": "2014-06-01",
+  "title": "FDA Statistician Joan Buenconsejo Joins AstraZeneca After Overseeing Company Drug Reviews",
+  "summary": "Joan Buenconsejo, who led FDA analysis of medical statistics for drug reviews including AstraZeneca products in 2012-2013, joined AstraZeneca as a director and biometrics team leader in June 2014. By 2015, she was representing AstraZeneca before her former FDA colleagues as the company sought drug approvals. This case exemplifies the systemic revolving door problem where regulatory officials move directly to companies they previously regulated, potentially creating conflicts of interest. Buenconsejo had intimate knowledge of FDA review processes and internal standards that could benefit AstraZeneca in future regulatory interactions. This pattern undermines public trust in regulatory independence and raises questions about whether officials may make decisions with future employment prospects in mind.",
+  "actors": [
+    "Joan Buenconsejo",
+    "FDA",
+    "AstraZeneca",
+    "Center for Drug Evaluation and Research"
+  ],
+  "sources": [
+    "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
+    "https://www.statnews.com/2025/04/25/fda-revolving-door-pharma-industry-workers/"
+  ],
+  "importance": 7,
+  "tags": [
+    "regulatory-capture",
+    "pharmaceutical-industry",
+    "FDA",
+    "revolving-door",
+    "conflict-of-interest"
+  ],
+  "status": "confirmed",
+  "id": "2014-06-01--fda-statistician-joan-buenconsejo-joins-astrazeneca-after-overseeing-company-drug-reviews-1757455518",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+}

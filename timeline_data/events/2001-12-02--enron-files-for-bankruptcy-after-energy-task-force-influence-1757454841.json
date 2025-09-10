@@ -1,0 +1,26 @@
+{
+  "date": "2001-12-02",
+  "title": "Enron Files for Bankruptcy After Energy Task Force Influence",
+  "summary": "Enron, whose CEO Kenneth Lay had extensive influence over the Bush administration's National Energy Policy through meetings with Vice President Cheney's Energy Task Force, files for bankruptcy with 3.4 billion in assets - the largest corporate bankruptcy in U.S. history at the time. The collapse occurs just seven months after the energy policy incorporating Enron's recommendations was released.",
+  "importance": 9,
+  "status": "confirmed",
+  "actors": [
+    "Enron",
+    "Kenneth Lay",
+    "Jeffrey Skilling"
+  ],
+  "sources": [
+    "https://www.history.com/this-day-in-history/enron-files-for-bankruptcy",
+    "https://www.fbi.gov/history/famous-cases/enron",
+    "https://en.wikipedia.org/wiki/Enron_scandal"
+  ],
+  "tags": [
+    "enron",
+    "bankruptcy",
+    "corporate-fraud",
+    "corruption",
+    "financial-crime"
+  ],
+  "id": "2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence-1757454841",
+  "priority_id": "RT-COMPLETED-004-enron-cheney-connection"
+}

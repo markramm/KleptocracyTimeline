@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-CE2C8534",
+  "title": "Private Prison Expansion GEO Group",
+  "description": "Track GEO Group and CoreCivic's expansion under immigration crackdowns, facility conditions, and political contribution networks.",
+  "priority": "critical",
+  "tags": [
+    "geo_group",
+    "corecivic",
+    "private_prisons"
+  ],
+  "decade": "2020s",
+  "created": "2025-09-09T20:52:42.727286",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "ICE detention",
+    "mass deportation"
+  ]
+}

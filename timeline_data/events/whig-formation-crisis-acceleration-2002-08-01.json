@@ -1,0 +1,26 @@
+{
+  "id": "whig-formation-crisis-acceleration-2002-08-01",
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "date": "2002-08-01",
+  "title": "White House Iraq Group Formed Demonstrating Crisis-Accelerated Institutional Capture",
+  "summary": "Andrew Card establishes WHIG chaired by Karl Rove to coordinate Iraq War propaganda, demonstrating Powell Memo template applied to crisis exploitation. Group includes Rice, Libby, Hughes, Matalin, and Hadley meeting weekly in Situation Room. Represents systematic coordination of executive branch elements for rapid public opinion transformation using crisis as acceleration mechanism.",
+  "actors": [
+    "Andrew Card",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Lewis Libby",
+    "Karen Hughes"
+  ],
+  "financial_impact": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+    "https://sourcewatch.org/index.php/White_House_Iraq_Group"
+  ],
+  "importance": 8,
+  "tags": [
+    "whig-crisis-implementation",
+    "systematic-capture-acceleration",
+    "crisis-exploitation-template",
+    "institutional-coordination"
+  ]
+}

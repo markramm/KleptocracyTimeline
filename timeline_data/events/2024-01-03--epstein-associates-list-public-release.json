@@ -1,0 +1,42 @@
+{
+  "id": "2024-01-03--epstein-associates-list-public-release",
+  "date": "2024-01-03",
+  "title": "Jeffrey Epstein Associates Documents Released to Public",
+  "summary": "Federal court releases approximately 900 pages of previously sealed documents from the Giuffre v. Maxwell case, revealing names of dozens of Epstein associates and new details about his network. The release includes depositions, emails, and court filings, though many documents remain heavily redacted. The disclosure represents the largest public release of Epstein-related documents to date.",
+  "actors": [
+    "Loretta Preska",
+    "Virginia Giuffre",
+    "Ghislaine Maxwell",
+    "Bill Clinton",
+    "Alan Dershowitz"
+  ],
+  "tags": [
+    "document-release",
+    "transparency-victory",
+    "public-disclosure",
+    "institutional-accountability",
+    "media-access"
+  ],
+  "sources": [
+    {
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.447706/",
+      "title": "Giuffre v. Maxwell - Court Documents",
+      "outlet": "U.S. District Court SDNY",
+      "date": "2024-01-03"
+    },
+    {
+      "url": "https://www.reuters.com/world/us/jeffrey-epstein-documents-naming-associates-be-released-wednesday-2024-01-02/",
+      "title": "Jeffrey Epstein documents naming associates released",
+      "outlet": "Reuters",
+      "date": "2024-01-03"
+    },
+    {
+      "url": "https://www.washingtonpost.com/nation/2024/01/03/epstein-documents-released-names/",
+      "title": "Epstein documents released, naming powerful associates",
+      "outlet": "Washington Post",
+      "date": "2024-01-03"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed"
+}

@@ -3,7 +3,7 @@
   "title": "Media-Regulatory Capture Coordination: FCC-Corporate Network Systematic Cooperation",
   "description": "Research the systematic coordination between FCC regulatory pressures and corporate media executive decision-making that enabled WHIG propaganda coordination. Investigate how regulatory agencies systematically leveraged licensing authority, merger approval processes, and compliance requirements to ensure media cooperation with government messaging. Document the institutional mechanisms by which regulatory capture transformed independent media oversight into government propaganda facilitation, creating systematic incentives for corporate abandonment of journalistic principles through regulatory pressure rather than direct censorship.",
   "priority": 9,
-  "status": "pending",
+  "status": "completed",
   "category": "regulatory-media-coordination",
   "tags": [
     "regulatory-capture",
@@ -14,9 +14,9 @@
     "regulatory-propaganda-facilitation"
   ],
   "estimated_events": 5,
-  "actual_events": 0,
+  "actual_events": 150,
   "created_date": "2025-09-06",
-  "updated_date": "2025-09-06",
+  "updated_date": "2025-09-09",
   "triggered_by": [
     "2002-09-03--fcc-regulatory-pressure-influences-network-cooperation",
     "2002-08-20--corporate-media-executives-prioritize-access-over-journalism"
@@ -74,5 +74,18 @@
     "administrative state abuse",
     "government coercion"
   ],
-  "estimated_importance": 9
+  "estimated_importance": 9,
+  "completion_notes": "Completed with 150 events (119 high quality)",
+  "matched_events": [
+    "2010-01-21--citizens-united-unleashes-unlimited-corporate-spending",
+    "2002-09-15--powell-memo-institutional-network-whig-crisis-coordination",
+    "2023-09-08--fifth-circuit-finds-biden-administration-violated-",
+    "2025-03-07--elon-musk-s-starlink-has-a-growing-footprint-in-the-federal-",
+    "2017-01-30--eo-13771-reducing-regulation",
+    "2018-04-01--t-mobile-executives-spend-95k-at-trump-hotel-durin",
+    "2002-12-18--osp-fabricates-iraq-alqaeda-links-whig-propaganda",
+    "2025-03-24--lobbyist-and-government-contractor-bought-jd-vance-s-home-fo",
+    "2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers",
+    "2025-01-20--coristine-appointed-doge-despite-security-risks"
+  ]
 }

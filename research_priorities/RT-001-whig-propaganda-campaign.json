@@ -1,0 +1,84 @@
+{
+  "id": "RT-001-whig-propaganda-campaign",
+  "title": "White House Iraq Group (WHIG) Intelligence Manipulation Campaign",
+  "description": "Research the White House Iraq Group formation and coordination of WMD propaganda campaign, including WHIG membership (Rove, Libby, Hughes, Rice, Hadley), coordination between WHIG messaging and Plame leak timing, connection to Powell's UN presentation preparation, and corporate media coordination with talking points distribution.",
+  "priority": 9,
+  "status": "completed",
+  "category": "intelligence-manipulation",
+  "tags": [
+    "whig",
+    "iraq-war",
+    "propaganda",
+    "plame",
+    "rove",
+    "libby",
+    "media-manipulation"
+  ],
+  "estimated_events": 3,
+  "actual_events": 89,
+  "created_date": "2025-01-05",
+  "updated_date": "2025-09-09",
+  "triggered_by": [
+    "2003-07-14--plame-cia-identity-leaked-retaliation-wilson",
+    "2003-02-05--powell-un-false-wmd-presentation"
+  ],
+  "key_sources": [
+    {
+      "title": "Senate Intelligence Committee Report on Pre-war Intelligence",
+      "type": "government-report",
+      "credibility": 10,
+      "why": "Official documentation of intelligence manipulation"
+    },
+    {
+      "title": "Libby trial exhibits showing WHIG documents",
+      "type": "court-records",
+      "credibility": 9,
+      "why": "Direct evidence of coordination"
+    },
+    {
+      "title": "Journalist subpoena records from Fitzgerald investigation",
+      "type": "legal-documents",
+      "credibility": 9,
+      "why": "Media coordination evidence"
+    }
+  ],
+  "expected_outcomes": [
+    "Reveals systematic intelligence manipulation apparatus",
+    "Connects all five events through coordinated disinformation campaign",
+    "Documents corporate media coordination patterns"
+  ],
+  "connections": [
+    {
+      "to": "RT-002-bush-cheney-pardon-conflict",
+      "type": "related",
+      "description": "Both involve Libby and executive power abuse"
+    }
+  ],
+  "actors_to_investigate": [
+    "Karl Rove",
+    "Scooter Libby",
+    "Karen Hughes",
+    "Condoleezza Rice",
+    "Stephen Hadley"
+  ],
+  "time_period": "2002-2003",
+  "constitutional_issues": [
+    "First Amendment",
+    "separation of powers",
+    "executive accountability"
+  ],
+  "estimated_importance": 9,
+  "completion_notes": "Completed with 89 events (78 high quality)",
+  "matched_events": [
+    "2002-09-15--powell-memo-institutional-network-whig-crisis-coordination",
+    "2023-09-08--fifth-circuit-finds-biden-administration-violated-",
+    "2002-12-18--osp-fabricates-iraq-alqaeda-links-whig-propaganda",
+    "2007-05-23--monica-goodling-admits-political-screening-of-doj-",
+    "2025-02-06--ambassadors-and-nasa-nomination",
+    "2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers",
+    "2017-01-20--systematic-government-agency-weaponization-infrastructure-acceleration-institutional-capture",
+    "2025-03-23--white-house-invites-a-new-guest-to-its-easter-event-corporat",
+    "2021-01-20--freedom-house-downgrades-us-democracy-score-to-831",
+    "2018-01-01--apple-tariff-exemptions-tim-cook"
+  ]
+}

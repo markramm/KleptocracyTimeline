@@ -1,0 +1,69 @@
+{
+  "id": "geopolitics-15ecda65",
+  "title": "Israeli Strikes on Iran: Regional Power Realignment Analysis",
+  "description": "Research the geopolitical consequences of Israeli military strikes on Iran, focusing on how Saudi Arabia leverages the conflict to expand regional influence, shift energy markets, and strengthen strategic partnerships.",
+  "priority": 8,
+  "status": "pending",
+  "category": "regional-geopolitics",
+  "tags": [
+    "israel",
+    "iran",
+    "saudi-arabia",
+    "middle-east",
+    "regional-power",
+    "energy-geopolitics"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Regional Power Dynamics After Israeli Strikes on Iran_ Saudi Arabia's Strategic Advantage.pdf",
+  "created_by": "pdf-agent-6-additional",
+  "time_period": "2020-2025",
+  "constitutional_issues": [
+    "war-powers",
+    "foreign-policy",
+    "congressional-oversight"
+  ],
+  "actors_to_investigate": [
+    "Israeli defense establishment",
+    "Iranian Revolutionary Guard",
+    "Saudi Crown Prince Mohammed bin Salman",
+    "U.S. defense contractors",
+    "Regional energy companies",
+    "Gulf Cooperation Council leaders"
+  ],
+  "key_sources": [
+    {
+      "title": "Intelligence reports on Israeli-Iranian military confrontation",
+      "type": "intelligence-documents",
+      "credibility": 8,
+      "why": "Official assessments of military actions and strategic impacts"
+    },
+    {
+      "title": "Saudi diplomatic communications and public statements",
+      "type": "diplomatic-records",
+      "credibility": 8,
+      "why": "Saudi strategic positioning and regional influence operations"
+    },
+    {
+      "title": "Energy market analysis and trading data",
+      "type": "financial-records",
+      "credibility": 9,
+      "why": "Quantifiable impacts on regional energy dynamics"
+    }
+  ],
+  "expected_outcomes": [
+    "Map Saudi Arabia's strategic gains from Israeli-Iranian confrontation",
+    "Document regional alliance shifts favoring Saudi influence",
+    "Analyze energy market realignments benefiting Saudi interests",
+    "Track U.S. policy coordination with Saudi strategic objectives"
+  ],
+  "research_questions": [
+    "How does Saudi Arabia benefit strategically from Israeli-Iranian military confrontation?",
+    "What energy market advantages does Saudi Arabia gain from regional instability?",
+    "How do U.S. defense partnerships with Saudi Arabia influence regional conflict dynamics?",
+    "What constitutional questions arise from U.S. support for Saudi regional ambitions?"
+  ],
+  "estimated_importance": 8
+}

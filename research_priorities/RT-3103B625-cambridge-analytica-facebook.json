@@ -1,0 +1,16 @@
+{
+  "id": "RT-3103B625",
+  "title": "Cambridge Analytica Facebook",
+  "description": "Investigate Cambridge Analytica scandal and Facebook electoral manipulation infrastructure",
+  "priority": "critical",
+  "tags": [
+    "cambridge_analytica",
+    "facebook",
+    "data_manipulation"
+  ],
+  "capture_lane": "electoral",
+  "decade": "2010s",
+  "created": "2025-09-09T20:49:54.598672",
+  "status": "pending",
+  "category": "capture_research"
+}

@@ -1,0 +1,21 @@
+{
+  "date": "1999-08-09",
+  "title": "Putin Appointed Prime Minister",
+  "summary": "Vladimir Putin is appointed Prime Minister by Boris Yeltsin, beginning his rise to power. This appointment sets the stage for the consolidation of the kleptocratic system that will define Russian governance.",
+  "importance": 9,
+  "actors": [
+    "Vladimir Putin",
+    "Boris Yeltsin"
+  ],
+  "sources": [
+    "https://www.bbc.com/news/world-europe-20341903"
+  ],
+  "tags": [
+    "putin",
+    "power-consolidation",
+    "appointment"
+  ],
+  "status": "confirmed",
+  "id": "1999-08-09--putin-appointed-prime-minister-1757454957",
+  "priority_id": "RP-20250909-intelligence-privatization-timeline"
+}

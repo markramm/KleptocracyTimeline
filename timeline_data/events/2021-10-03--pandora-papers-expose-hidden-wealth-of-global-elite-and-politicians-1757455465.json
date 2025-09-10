@@ -1,0 +1,34 @@
+{
+  "date": "2021-10-03",
+  "title": "Pandora Papers Expose Hidden Wealth of Global Elite and Politicians",
+  "summary": "The International Consortium of Investigative Journalists released the Pandora Papers, the largest offshore data leak in history, containing 11.9 million files from 14 financial services companies across multiple jurisdictions. The investigation exposed the secret offshore affairs of 35 current and former world leaders, including King Abdullah II of Jordan, Czech Prime Minister Andrej Babi\u0161, Chilean President Sebasti\u00e1n Pi\u00f1era, and Ukrainian President Volodymyr Zelensky. The papers revealed how more than 130 billionaires and 330 politicians from 90+ countries used shell companies, trusts, and offshore accounts to hide assets worth hundreds of billions of dollars. Key revelations included Putin associates moving $2.5 billion through a network of companies, Tony Blair and his wife avoiding property taxes through offshore companies, and how the family of Pakistan's former finance minister owned luxury London properties through shell companies. The leak demonstrated how offshore finance had become even more sophisticated since the Panama Papers, with wealthy individuals using increasingly complex structures involving multiple jurisdictions to obscure ownership and avoid taxation.",
+  "actors": [
+    "International Consortium of Investigative Journalists",
+    "King Abdullah II of Jordan",
+    "Andrej Babi\u0161",
+    "Sebasti\u00e1n Pi\u00f1era",
+    "Volodymyr Zelensky",
+    "Tony Blair",
+    "Vladimir Putin associates",
+    "Shaukat Tarin"
+  ],
+  "sources": [
+    "https://www.icij.org/investigations/pandora-papers/",
+    "https://www.bbc.com/news/world-58780561",
+    "https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-of-world-leaders",
+    "https://www.washingtonpost.com/world/interactive/2021/pandora-papers-offshore-finance/"
+  ],
+  "importance": 9,
+  "tags": [
+    "corruption",
+    "offshore-finance",
+    "tax-avoidance",
+    "pandora-papers",
+    "kleptocracy",
+    "shell-companies",
+    "political-corruption"
+  ],
+  "status": "confirmed",
+  "id": "2021-10-03--pandora-papers-expose-hidden-wealth-of-global-elite-and-politicians-1757455465",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-35"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-D1F3485F",
+  "title": "Russian Oligarch NYC Property Boom",
+  "description": "Map 1990s Russian oligarch money laundering through NYC real estate, connecting Mogilevich network to Trump properties and Felix Sater.",
+  "priority": "critical",
+  "tags": [
+    "russian_oligarchs",
+    "money_laundering",
+    "nyc_real_estate"
+  ],
+  "decade": "1990s",
+  "created": "2025-09-09T20:52:42.726504",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Trump Organization",
+    "Bayrock Group"
+  ]
+}

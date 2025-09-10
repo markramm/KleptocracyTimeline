@@ -1,0 +1,25 @@
+{
+  "id": "32e86357",
+  "title": "Tech Industry Regulatory Capture During Obama Era",
+  "description": "Investigation into early tech industry influence on Obama administration policies, including Google's influence on antitrust policy and NSA surveillance programs.",
+  "priority": 8,
+  "estimated_events": 4,
+  "category": "pdf_ingestion",
+  "tags": [
+    "Tech policy",
+    "Antitrust enforcement",
+    "Privacy regulations"
+  ],
+  "research_areas": [
+    "What are the specific dates and actors involved in Tech Industry Regulatory Capture During Obama Era?",
+    "What are the financial amounts and policy changes related to this investigation?",
+    "How does this connect to broader institutional capture patterns?",
+    "What documentation and sources verify these timeline events?"
+  ],
+  "timeline_focus": "2008-01-01 to 2025-01-31",
+  "actors": [],
+  "source_requirements": "Government documents, financial records, policy communications",
+  "created_by": "pdf-ingestion-agent-7",
+  "pdf_source": "Institutional Patterns in the Obama Administration_ Industry Influence, Regulatory Enforcement, and Governance Challenges.pdf",
+  "created_at": "2025-09-09T18:52:40.562682"
+}

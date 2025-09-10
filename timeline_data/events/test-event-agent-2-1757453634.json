@@ -1,0 +1,18 @@
+{
+  "id": "test-event-agent-2-1757453634",
+  "date": "2001-01-02",
+  "title": "Test Event from Agent 2",
+  "summary": "Testing atomic queue system with agent 2",
+  "actors": [
+    "Test Actor 2"
+  ],
+  "sources": [
+    "test://source2"
+  ],
+  "importance": 5,
+  "tags": [
+    "test",
+    "queue-validation"
+  ],
+  "priority_id": "RP-20250909-project-2025-implementation-tracking"
+}

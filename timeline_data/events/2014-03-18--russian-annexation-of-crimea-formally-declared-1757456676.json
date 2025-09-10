@@ -1,0 +1,25 @@
+{
+  "date": "2014-03-18",
+  "title": "Russian Annexation of Crimea Formally Declared",
+  "summary": "President Vladimir Putin signed a treaty formally incorporating Crimea into the Russian Federation, following a disputed referendum held under Russian military occupation. The annexation was widely condemned by the international community and led to the first wave of sanctions against Russian officials and entities. The move marked a significant escalation in Russian territorial expansion and violation of international law, setting a precedent for future aggressive actions.",
+  "actors": [
+    "Vladimir Putin",
+    "Sergey Aksyonov",
+    "Russian Federation",
+    "Republic of Crimea"
+  ],
+  "sources": [
+    "https://www.reuters.com/article/ukraine-crisis-putin-speech-idUSL6N0ME4TA20140318",
+    "https://www.bbc.com/news/world-europe-26606097"
+  ],
+  "importance": 9,
+  "tags": [
+    "territorial-expansion",
+    "sanctions",
+    "international-law",
+    "crimea"
+  ],
+  "status": "confirmed",
+  "id": "2014-03-18--russian-annexation-of-crimea-formally-declared-1757456676",
+  "priority_id": "capture-cascade-part3-russian-financial-network-penetration-strategy-201-20250909-182422"
+}

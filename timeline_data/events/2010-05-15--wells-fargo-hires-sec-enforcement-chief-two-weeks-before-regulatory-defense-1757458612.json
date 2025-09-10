@@ -1,0 +1,31 @@
+{
+  "date": "2010-05-15",
+  "title": "Wells Fargo Hires SEC Enforcement Chief Two Weeks Before Regulatory Defense",
+  "summary": "A senior enforcement branch chief from the SEC's San Francisco office leaves the agency in May 2010 to become in-house counsel at Wells Fargo & Co., then immediately files six disclosure statements indicating representation of Wells Fargo in pending enforcement matters, including investigations conducted by her former office. This case exemplifies the revolving door's most problematic aspects: regulators leaving for lucrative private sector positions with intimate knowledge of ongoing investigations, creating obvious conflicts of interest and undermining enforcement credibility. Between 2001-2010, POGO documented 419 former SEC employees filing 1,949 disclosure statements for private representation, with Wells Fargo's case representing the most blatant example of regulatory capture through personnel movement. The timing demonstrates how financial institutions systematically exploit regulatory relationships, hiring former enforcement officials specifically to defend against their former colleagues' investigations.",
+  "actors": [
+    "Wells Fargo & Co.",
+    "Securities and Exchange Commission",
+    "SEC San Francisco enforcement branch",
+    "Former SEC enforcement chief",
+    "Private financial defense attorneys",
+    "SEC investigation teams",
+    "Banking industry compliance officers"
+  ],
+  "sources": [
+    "https://www.pogo.org/post/secs-revolving-door-blurs-line-between-regulator-and-industry",
+    "https://ips-dc.org/the_secs_revolving_door/",
+    "https://therevolvingdoorproject.org/top-sec-enforcement-officials-take-a-swing-through-the-revolving-door/"
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory-capture",
+    "sec-revolving-door",
+    "wells-fargo",
+    "enforcement-conflicts",
+    "financial-regulation",
+    "personnel-capture"
+  ],
+  "status": "confirmed",
+  "id": "2010-05-15--wells-fargo-hires-sec-enforcement-chief-two-weeks-before-regulatory-defense-1757458612",
+  "priority_id": "indigenous-democracy-60dde4fe"
+}

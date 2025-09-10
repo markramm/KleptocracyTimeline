@@ -1,0 +1,16 @@
+{
+  "id": "RT-81B635BD",
+  "title": "Citizens United Corporate Spending",
+  "description": "Track Citizens United (2010) implementation and unlimited corporate political spending explosion",
+  "priority": "critical",
+  "tags": [
+    "citizens_united",
+    "dark_money",
+    "corporate_speech"
+  ],
+  "capture_lane": "judicial",
+  "decade": "2010s",
+  "created": "2025-09-09T20:49:54.598539",
+  "status": "pending",
+  "category": "capture_research"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "RT-024-constitutional-crisis-precedent-establishment",
+  "title": "Constitutional Crisis Precedent Establishment Through WHIG Operations",
+  "description": "Research how WHIG operations systematically established institutional precedents and legal frameworks that enable ongoing constitutional crisis and executive abuse of power. Investigate how WHIG's systematic violation of separation of powers, media manipulation, congressional deception, and critic retaliation created institutional templates and legal precedents that subsequent administrations could exploit for further democratic erosion. Document how WHIG operations established the institutional foundation for systematic constitutional crisis acceleration, creating frameworks for ongoing oligarchic capture and democratic institution neutralization.",
+  "priority": 10,
+  "status": "completed",
+  "category": "constitutional-crisis-precedents",
+  "tags": [
+    "constitutional-crisis-precedents",
+    "institutional-template-establishment",
+    "democratic-erosion-frameworks",
+    "executive-abuse-precedents",
+    "systematic-crisis-enablement",
+    "oligarchic-capture-foundation"
+  ],
+  "estimated_events": 4,
+  "actual_events": 139,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-09",
+  "triggered_by": [
+    "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+    "2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers",
+    "2004-01-10--whig-retaliation-patterns-expand-beyond-wilson-case"
+  ],
+  "key_sources": [
+    {
+      "title": "Legal analyses of WHIG precedents enabling subsequent executive abuse",
+      "type": "legal-analysis",
+      "credibility": 9,
+      "why": "Expert assessment of constitutional precedent establishment"
+    },
+    {
+      "title": "Constitutional scholars' documentation of democratic erosion frameworks",
+      "type": "academic-research",
+      "credibility": 9,
+      "why": "Scholarly analysis of systematic constitutional crisis mechanisms"
+    },
+    {
+      "title": "Government accountability studies on WHIG institutional impact",
+      "type": "government-reports",
+      "credibility": 10,
+      "why": "Official documentation of institutional precedent establishment"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic establishment of constitutional crisis precedents",
+    "Reveals institutional templates enabling ongoing democratic erosion",
+    "Shows connection between WHIG operations and subsequent constitutional crises",
+    "Identifies systematic frameworks for oligarchic capture acceleration"
+  ],
+  "connections": [
+    {
+      "to": "RT-020-constitutional-crisis-acceleration-mechanisms",
+      "type": "establishes-precedents-for",
+      "description": "WHIG operations created frameworks for systematic crisis acceleration"
+    },
+    {
+      "to": "RT-021-powell-memo-acceleration-crisis-exploitation",
+      "type": "implements",
+      "description": "Crisis-accelerated implementation of Powell Memo systematic capture"
+    }
+  ],
+  "actors_to_investigate": [
+    "Constitutional law experts analyzing WHIG precedents",
+    "Legal scholars documenting democratic erosion",
+    "Government accountability researchers",
+    "Institutional analysis experts",
+    "Democratic resilience analysts"
+  ],
+  "time_period": "2002-2025",
+  "constitutional_issues": [
+    "constitutional precedent establishment",
+    "democratic erosion frameworks",
+    "executive abuse enablement",
+    "separation of powers violation",
+    "institutional capture acceleration"
+  ],
+  "estimated_importance": 10,
+  "completion_notes": "Completed with 139 events (114 high quality)",
+  "matched_events": [
+    "2002-09-15--powell-memo-institutional-network-whig-crisis-coordination",
+    "2023-09-08--fifth-circuit-finds-biden-administration-violated-",
+    "2002-12-18--osp-fabricates-iraq-alqaeda-links-whig-propaganda",
+    "2007-05-23--monica-goodling-admits-political-screening-of-doj-",
+    "2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers",
+    "2017-01-20--systematic-government-agency-weaponization-infrastructure-acceleration-institutional-capture",
+    "2021-01-20--freedom-house-downgrades-us-democracy-score-to-831",
+    "2025-08-01--court-defiance-35-percent-pattern",
+    "2025-01-01--judicial-independence-assault",
+    "2002-10-15--osp-whig-coordination-meetings-intelligence-manipulation"
+  ]
+}

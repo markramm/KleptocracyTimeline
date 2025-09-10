@@ -1,0 +1,82 @@
+{
+  "id": "RT-002-fisa-court-resistance",
+  "title": "FISA Court Resistance and Legal Challenge Suppression",
+  "description": "Research specific FISA court orders rejecting surveillance requests, DOJ legal strategies to circumvent court oversight, Congressional briefings minimizing surveillance scope, and suppression of internal legal dissent within the Justice Department.",
+  "priority": 9,
+  "status": "completed",
+  "category": "judicial-override",
+  "tags": [
+    "fisa",
+    "courts",
+    "surveillance",
+    "constitutional-crisis",
+    "judicial-independence"
+  ],
+  "estimated_events": 3,
+  "actual_events": 56,
+  "created_date": "2025-01-05",
+  "updated_date": "2025-09-09",
+  "triggered_by": [
+    "2004-03-10--hospital-confrontation-ashcroft-surveillance",
+    "2001-10-04--bush-authorizes-stellarwind-surveillance"
+  ],
+  "key_sources": [
+    {
+      "title": "Declassified FISA court opinions",
+      "type": "court-records",
+      "credibility": 10,
+      "why": "Direct judicial pushback documentation"
+    },
+    {
+      "title": "DOJ Office of Legal Counsel memos on surveillance",
+      "type": "government-documents",
+      "credibility": 9,
+      "why": "Legal strategies to circumvent courts"
+    },
+    {
+      "title": "Congressional intelligence briefing records",
+      "type": "government-documents",
+      "credibility": 8,
+      "why": "Evidence of scope minimization"
+    }
+  ],
+  "expected_outcomes": [
+    "Reveals systematic circumvention of judicial oversight",
+    "Documents constitutional protections violations",
+    "Shows pattern of legal system manipulation"
+  ],
+  "connections": [
+    {
+      "to": "RT-003-telecom-nsa-financial",
+      "type": "legal-framework",
+      "description": "Court resistance led to corporate partnership emphasis"
+    }
+  ],
+  "actors_to_investigate": [
+    "FISA Court judges",
+    "James Comey",
+    "Jack Goldsmith",
+    "John Ashcroft",
+    "Alberto Gonzales"
+  ],
+  "time_period": "2001-2008",
+  "constitutional_issues": [
+    "Fourth Amendment",
+    "separation of powers",
+    "judicial independence"
+  ],
+  "estimated_importance": 9,
+  "completion_notes": "Completed with 56 events (47 high quality)",
+  "matched_events": [
+    "2007-05-23--monica-goodling-admits-political-screening-of-doj-",
+    "2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers",
+    "2006-12-07--bush-administration-fires-9-us-attorneys-for-polit",
+    "2017-01-20--systematic-government-agency-weaponization-infrastructure-acceleration-institutional-capture",
+    "2025-01-01--judicial-independence-assault",
+    "2005-12-16--whig-precedent-enables-ongoing-surveillance-state-constitutional-crisis",
+    "2002-02-14--bush-valentine-day-massacre-fires-two-inspector-ge",
+    "2006-07-24--aba-condemns-bush-800-signing-statements-nullifyin",
+    "2005-08-08--energy-task-force-recommendations-become-epa-polic",
+    "2025-04-11--binance-seeks-to-curb-u-s-oversight-while-in-deal-talks-with"
+  ]
+}

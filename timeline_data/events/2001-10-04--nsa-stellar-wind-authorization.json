@@ -1,0 +1,37 @@
+{
+  "id": "2001-10-04--nsa-stellar-wind-authorization",
+  "date": "2001-10-04",
+  "title": "Bush Authorizes NSA Stellar Wind Program Bypassing FISA Court",
+  "summary": "President George W. Bush authorized the NSA's Stellar Wind warrantless domestic surveillance program, completely bypassing FISA court oversight in a fundamental alteration of constitutional checks and balances. The program allowed the NSA to collect phone metadata and internet communications of US citizens without warrants, establishing a parallel legal framework where executive authorization alone sufficed for domestic surveillance.\n\nThe authorization came just 23 days after 9/11, with only select members of Congress briefed under extreme secrecy. NSA Director Michael Hayden later testified that the program operated under the President's Article II constitutional authority as Commander in Chief, arguing this superseded FISA requirements. Only two FISA court judges were eventually given limited briefings, fundamentally altering the judicial oversight role and creating a template for systematic constitutional bypass that would expand over the following years.",
+  "importance": 10,
+  "actors": [
+    "George W. Bush",
+    "Michael Hayden",
+    "NSA",
+    "Dick Cheney",
+    "David Addington"
+  ],
+  "tags": [
+    "surveillance",
+    "nsa",
+    "stellar-wind",
+    "fisa-bypass",
+    "constitutional-crisis",
+    "warrantless-surveillance"
+  ],
+  "sources": [
+    {
+      "title": "Unclassified Report on the President's Surveillance Program",
+      "url": "https://fas.org/irp/eprint/psp.pdf",
+      "outlet": "Inspectors General Report",
+      "date": "2009-07-10"
+    },
+    {
+      "title": "NSA collecting phone records of millions of Verizon customers daily",
+      "url": "https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order",
+      "outlet": "The Guardian",
+      "date": "2013-06-06"
+    }
+  ],
+  "status": "confirmed"
+}

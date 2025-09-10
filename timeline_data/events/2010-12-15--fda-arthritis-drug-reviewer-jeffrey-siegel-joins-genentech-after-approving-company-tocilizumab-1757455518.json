@@ -1,0 +1,27 @@
+{
+  "date": "2010-12-15",
+  "title": "FDA Arthritis Drug Reviewer Jeffrey Siegel Joins Genentech After Approving Company Tocilizumab",
+  "summary": "Jeffrey Siegel, an FDA staff member specializing in arthritis drug reviews, oversaw the 2010 approval of Genentech tocilizumab (Actemra) for arthritis treatment. Within months of the approval, Siegel left the FDA to join Genentech and its parent company Roche as director of the division that includes Actemra. Subsequently, Siegel represented Roche before his former FDA colleagues when the company sought approval to promote Actemra for new medical conditions. This case demonstrates how pharmaceutical companies strategically recruit FDA officials who have direct knowledge of their products and regulatory history. The practice creates potential conflicts where officials may consider future employment opportunities when making regulatory decisions, undermining the independence and objectivity of drug safety and efficacy reviews.",
+  "actors": [
+    "Jeffrey Siegel",
+    "FDA",
+    "Genentech",
+    "Roche",
+    "Actemra"
+  ],
+  "sources": [
+    "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
+    "https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry"
+  ],
+  "importance": 7,
+  "tags": [
+    "regulatory-capture",
+    "pharmaceutical-industry",
+    "FDA",
+    "revolving-door",
+    "drug-approval"
+  ],
+  "status": "confirmed",
+  "id": "2010-12-15--fda-arthritis-drug-reviewer-jeffrey-siegel-joins-genentech-after-approving-company-tocilizumab-1757455518",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+}

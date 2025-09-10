@@ -1,0 +1,25 @@
+{
+  "date": "2016-01-01",
+  "title": "Deutsche Bank Flags Suspicious Trump-Russia Transactions",
+  "summary": "Deutsche Bank internal specialists flag suspicious transactions between Trump businesses and Russian individuals in 2016-2017, as bank was implicated in 0 billion Russian money-laundering scheme while continuing to loan Trump billions.",
+  "actors": [
+    "Deutsche Bank",
+    "Donald Trump",
+    "Russian money launderers"
+  ],
+  "importance": 9,
+  "sources": [
+    "NPR",
+    "ProPublica",
+    "Russian Influence Networks analysis"
+  ],
+  "tags": [
+    "deutsche-bank",
+    "money-laundering",
+    "suspicious-transactions",
+    "russian-finance"
+  ],
+  "status": "confirmed",
+  "id": "2016-01-01--deutsche-bank-flags-suspicious-trump-russia-transactions-1757456698",
+  "priority_id": "russian-influence-networks-1757456698"
+}

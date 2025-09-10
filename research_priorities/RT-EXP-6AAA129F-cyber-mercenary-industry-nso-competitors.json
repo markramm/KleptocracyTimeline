@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-6AAA129F",
+  "title": "Cyber Mercenary Industry NSO Competitors",
+  "description": "Map NSO Group competitors: Candiru, Cytrox, RCS Lab creating global surveillance-for-hire industry.",
+  "priority": "critical",
+  "tags": [
+    "cyber_mercenaries",
+    "surveillance_tech",
+    "spyware"
+  ],
+  "decade": "cross-decade",
+  "created": "2025-09-09T20:52:42.727559",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Pegasus",
+    "journalist targeting"
+  ]
+}

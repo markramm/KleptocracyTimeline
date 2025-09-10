@@ -1,0 +1,34 @@
+{
+  "id": "c57f1c5a",
+  "title": "Trump's Crypto Evolution: From 'Scam' to Empire (2017-2025)",
+  "description": "Document Trump's systematic transformation from cryptocurrency skeptic to crypto empire operator, tracking the strategic realization, infrastructure development, and coordination with oligarchic networks.",
+  "priority": 8,
+  "estimated_events": 6,
+  "category": "capture_cascade",
+  "tags": [
+    "trump-crypto-evolution",
+    "strategic-transformation",
+    "oligarchic-networks",
+    "infrastructure-development",
+    "thiel-influence"
+  ],
+  "research_areas": [
+    "What specific events triggered Trump's shift from crypto skeptic to supporter?",
+    "Which advisors and networks influenced his crypto strategy development?",
+    "How did Truth Social and other platforms provide crypto infrastructure?",
+    "What role did Peter Thiel's network play in the crypto transformation?",
+    "How did legal and financial pressures accelerate crypto adoption?"
+  ],
+  "timeline_focus": "2017-01-01 to 2025-01-20",
+  "actors": [
+    "Donald Trump",
+    "Peter Thiel network",
+    "Truth Social executives",
+    "Crypto industry advisors",
+    "Legal team members"
+  ],
+  "source_requirements": "Social media posts, platform development records, advisor communications, legal strategy documents",
+  "created_by": "pdf-ingestion-capture-cascade",
+  "pdf_source": "The Capture Cascade - Part 5_ The Breakthrough.pdf",
+  "created_at": "2025-09-09T18:31:03.966272"
+}

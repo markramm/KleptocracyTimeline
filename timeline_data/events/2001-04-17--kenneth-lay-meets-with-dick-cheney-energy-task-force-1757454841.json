@@ -1,0 +1,27 @@
+{
+  "date": "2001-04-17",
+  "title": "Kenneth Lay Meets with Dick Cheney Energy Task Force",
+  "summary": "Enron CEO Kenneth Lay personally meets with Vice President Dick Cheney and his Energy Task Force, presenting a three-page \"wish list\" of corporate energy policy recommendations. This was one of at least six meetings between Enron executives and the task force during April-May 2001.",
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "Kenneth Lay",
+    "Dick Cheney",
+    "Enron",
+    "National Energy Policy Development Group"
+  ],
+  "sources": [
+    "https://www.thenation.com/article/archive/enron-what-dick-cheney-knew/",
+    "https://www.wind-watch.org/documents/how-the-white-house-energy-plan-benefitted-enron/",
+    "https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force"
+  ],
+  "tags": [
+    "enron",
+    "cheney",
+    "energy-task-force",
+    "corporate-capture",
+    "corruption"
+  ],
+  "id": "2001-04-17--kenneth-lay-meets-with-dick-cheney-energy-task-force-1757454841",
+  "priority_id": "RT-COMPLETED-004-enron-cheney-connection"
+}

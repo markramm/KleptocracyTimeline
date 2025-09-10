@@ -1,0 +1,25 @@
+{
+  "date": "1973-09-01",
+  "title": "American Legislative Exchange Council (ALEC) Established",
+  "summary": "Creation of ALEC as systematic vehicle for corporate influence over state-level legislation. Organization provides platform for corporations to draft model legislation and coordinate with state legislators, representing advanced form of institutional capture through \"pay-to-play\" politics as outlined in Powell strategy.",
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "American Legislative Exchange Council",
+    "State Legislators",
+    "Corporate Members"
+  ],
+  "sources": [
+    "https://www.alecattacks.org/history-of-alec",
+    "https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council"
+  ],
+  "tags": [
+    "capture-cascade",
+    "blueprint",
+    "ALEC",
+    "state-legislation",
+    "model-bills"
+  ],
+  "id": "1973-09-01--american-legislative-exchange-council-(alec)-established-1757454606",
+  "priority_id": "RP-20250109-capture-cascade-part1"
+}

@@ -1,0 +1,25 @@
+{
+  "date": "1978-12-31",
+  "title": "Corporate Lobbying Presence Quintuples in Washington DC",
+  "summary": "By end of decade, corporate public affairs offices in Washington expand from 100 (1968) to over 500 companies, while registered corporate lobbyists increase from 175 (1971) to nearly 2,500. This represents \"domestic version of Shock and Awe\" mobilization of business resources implementing Powell Memo blueprint for systematic institutional influence.",
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "Corporate Public Affairs Offices",
+    "Washington DC Lobbying Industry",
+    "Fortune 500 Companies"
+  ],
+  "sources": [
+    "https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html",
+    "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations"
+  ],
+  "tags": [
+    "capture-cascade",
+    "blueprint",
+    "corporate-lobbying",
+    "washington-dc",
+    "institutional-capture"
+  ],
+  "id": "1978-12-31--corporate-lobbying-presence-quintuples-in-washington-dc-1757454606",
+  "priority_id": "RP-20250109-capture-cascade-part1"
+}
