@@ -1,0 +1,35 @@
+{
+  "date": "2019-04-22",
+  "title": "Trump Files Lawsuit to Block House Subpoena of Financial Records from Mazars USA",
+  "summary": "President Trump sues his own accounting firm Mazars USA and the House Oversight Committee to quash subpoena for his company financial records. Trump's attorneys argue \"There is no possible legislation at the end of this tunnel,\" directly challenging decades of legal precedent regarding Congress's investigative authority and constitutional oversight powers.",
+  "actors": [
+    "Donald Trump",
+    "Mazars USA",
+    "House Oversight Committee",
+    "Trump Legal Team"
+  ],
+  "sources": [
+    {
+      "title": "Trump sues in bid to block congressional subpoena of financial records",
+      "url": "https://www.washingtonpost.com/politics/trump-sues-in-bid-to-block-congressional-subpoena-of-financial-records/2019/04/22/a98de3d0-6500-11e9-82ba-fcfeff232e8f_story.html",
+      "outlet": "Washington Post"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "trump_administration",
+    "financial_records",
+    "congressional_subpoena",
+    "legal_challenge",
+    "oversight_obstruction"
+  ],
+  "status": "confirmed",
+  "id": "2019-04-22--trump-files-lawsuit-block-house-subpoena-mazars",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

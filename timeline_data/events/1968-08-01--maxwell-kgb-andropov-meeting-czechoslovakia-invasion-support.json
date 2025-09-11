@@ -1,0 +1,43 @@
+{
+  "id": "1968-08-01--maxwell-kgb-andropov-meeting-czechoslovakia-invasion-support",
+  "date": "1968-08-01",
+  "title": "Robert Maxwell's Secret KGB Meeting Coincides with Czechoslovakia Invasion Planning",
+  "summary": "British media mogul and Labour MP Robert Maxwell secretly travels to Moscow to meet KGB head Yuri Andropov in 1968. This meeting occurs during Soviet planning for the invasion of Czechoslovakia, with Andropov as the main advocate for 'extreme measures' against Prague Spring reforms. Maxwell, a Czechoslovakian native, subsequently defends the August 1968 Soviet invasion in Parliament, being 'notably conciliatory' about the brutal suppression of democratic reforms. This establishes Maxwell as a potential Soviet intelligence asset while serving in the British Parliament, creating a pattern of media-intelligence coordination that would define his career.",
+  "importance": 8,
+  "location": "Moscow, USSR",
+  "actors": [
+    "Robert Maxwell",
+    "Yuri Andropov",
+    "KGB",
+    "Labour Party",
+    "British Parliament"
+  ],
+  "tags": [
+    "KGB",
+    "Robert Maxwell",
+    "Soviet intelligence",
+    "media capture",
+    "Czechoslovakia",
+    "Yuri Andropov",
+    "parliamentary influence"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ],
+  "sources": [
+    {
+      "title": "Robert Maxwell & the KGB",
+      "url": "https://espionagehistoryarchive.com/2019/12/20/robert-maxwell-the-kgb/",
+      "outlet": "Espionage History Archive",
+      "date": "2019-12-20",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Maxwell met KGB head Yuri Andropov in Moscow in 1968",
+        "Meeting coincided with Soviet invasion planning for Czechoslovakia",
+        "Maxwell was 'notably conciliatory' in Parliament about invasion"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

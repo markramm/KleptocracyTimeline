@@ -1,0 +1,39 @@
+{
+  "id": "1982-01-01--federalist-society-founding-conservative-legal-movement",
+  "date": "1982-01-01",
+  "title": "Federalist Society Founded to Capture Conservative Legal Pipeline",
+  "summary": "Yale Law School students Steven Calabresi, David McIntosh, and Lee Liberman Otis found the Federalist Society to challenge liberal ideology in elite law schools and create systematic pipeline for conservative legal talent. Named after The Federalist Papers, the organization provides safe space for right-of-center students to discuss conservative legal theories including originalism and limited government. This founding represents the beginning of the most successful judicial capture operation in American history, creating a pathway from law school to Supreme Court that will dominate conservative legal appointments for decades.",
+  "importance": 9,
+  "location": "New Haven, CT",
+  "actors": [
+    "Steven Calabresi",
+    "David McIntosh",
+    "Lee Liberman Otis",
+    "Yale Law School"
+  ],
+  "tags": [
+    "Federalist Society",
+    "conservative legal movement",
+    "judicial pipeline",
+    "originalism",
+    "legal education"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption",
+    "Academic Capture"
+  ],
+  "sources": [
+    {
+      "title": "Federalist Society - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Federalist_Society",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Founded in 1982 by Yale Law School students",
+        "Founded by Steven Calabresi, David McIntosh, and Lee Liberman Otis",
+        "Aimed to challenge liberal ideology in elite law schools"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

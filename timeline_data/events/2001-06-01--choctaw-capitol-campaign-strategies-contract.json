@@ -1,0 +1,31 @@
+{
+  "id": "2001-06-01--choctaw-capitol-campaign-strategies-contract",
+  "date": "2001-06-01",
+  "title": "Mississippi Choctaw Begin 4.7M Capitol Campaign Strategies Contract",
+  "summary": "The Mississippi Band of Choctaw Indians begins paying Michael Scanlon's Capitol Campaign Strategies, ultimately transferring 4.765 million through April 2004. Of this amount, approximately 2.7 million was diverted through the Abramoff-Scanlon \"gimme five\" kickback scheme, with only .2 million actually spent on tribal interests.",
+  "actors": [
+    "Mississippi Band of Choctaw Indians",
+    "Michael Scanlon",
+    "Capitol Campaign Strategies",
+    "Jack Abramoff"
+  ],
+  "sources": [
+    {
+      "title": "Senate Report 109-325 - GIMME FIVE Investigation",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm",
+      "outlet": "Senate Indian Affairs Committee"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "choctaw",
+    "michael_scanlon",
+    "gimme_five",
+    "tribal_fraud",
+    "kickbacks"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

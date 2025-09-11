@@ -9,9 +9,21 @@
   ],
   "importance": 10,
   "sources": [
-    "Wikipedia",
-    "Newsweek",
-    "Russian Influence Networks analysis"
+    {
+      "title": "Wikipedia",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Newsweek",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "trump-tower-moscow",
@@ -21,5 +33,8 @@
   ],
   "status": "confirmed",
   "id": "2015-10-28--trump-signs-letter-of-intent-for-trump-tower-moscow-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

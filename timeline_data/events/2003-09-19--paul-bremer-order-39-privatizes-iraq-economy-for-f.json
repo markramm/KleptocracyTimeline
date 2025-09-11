@@ -37,5 +37,10 @@
       "outlet": "Middle East Research and Information Project",
       "date": "2004-12-01"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

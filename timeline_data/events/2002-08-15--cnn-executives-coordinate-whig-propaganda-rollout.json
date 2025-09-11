@@ -41,5 +41,12 @@
       "outlet": "Democracy Now",
       "date": "2008-04-24"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

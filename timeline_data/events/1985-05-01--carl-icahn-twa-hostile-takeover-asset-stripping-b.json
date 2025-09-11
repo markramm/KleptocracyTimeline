@@ -1,0 +1,37 @@
+{
+  "date": "1985-05-01",
+  "title": "Carl Icahn TWA Hostile Takeover - Asset Stripping Blueprint",
+  "summary": "Carl Icahn acquired 50% of Trans World Airlines through a leveraged buyout, completing full acquisition in 1988 in what became one of history's most famous and controversial corporate raids. Icahn systematically sold TWA's assets to repay borrowed money, engaging in what critics called \"asset stripping.\" He sold TWA's London routes to American Airlines for 45 million in 1991, made a 69 million profit for himself, but left TWA with 40 million in debt. This raid established the blueprint for future activist investors and demonstrated how corporate raiders could extract massive profits while leaving target companies financially crippled. The TWA case became emblematic of 1980s corporate raiding excesses, showing how junk bond financing enabled individuals to acquire major corporations, strip their valuable assets, and leave behind hollowed-out shells. Icahn's tactics at TWA would be replicated by other raiders throughout the decade, fundamentally changing corporate America.",
+  "actors": [
+    "Carl Icahn",
+    "Trans World Airlines",
+    "American Airlines"
+  ],
+  "sources": [
+    {
+      "title": "https://www.everydayentrepreneur.ai/p/carl-icahn-the-corporate-raider-who",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://en.wikipedia.org/wiki/Carl_Icahn",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "corporate-raiding",
+    "asset-stripping",
+    "leveraged-buyouts",
+    "corporate-destruction"
+  ],
+  "status": "confirmed",
+  "id": "1985-05-01--carl-icahn-twa-hostile-takeover-asset-stripping-b",
+  "priority_id": "RT-EXP-72C359C1-carl-icahn-corporate-raiding-network",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

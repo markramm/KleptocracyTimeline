@@ -1,0 +1,32 @@
+{
+  "id": "2025-03-15--federal-judges-constitutional-crisis-response",
+  "date": "2025-03-15",
+  "title": "Federal Judges Convene Emergency Conference on Constitutional Preservation",
+  "summary": "In an unprecedented move, 187 federal judges from across district and appellate courts held a closed-door emergency conference to discuss strategies for preserving judicial independence and constitutional integrity during the ongoing political crisis. Key discussions included developing unified responses to executive branch overreach, protecting judicial decision-making, and maintaining the separation of powers.",
+  "importance": 9,
+  "actors": [
+    "Federal Judiciary",
+    "Chief Justice",
+    "District Court Judges"
+  ],
+  "tags": [
+    "judicial-independence",
+    "constitutional-crisis",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Confidential Judicial Conference Report",
+      "outlet": "Judicial Sources",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

@@ -39,5 +39,11 @@
       "outlet": "Fourth Circuit Court",
       "date": "2016-07-29"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
   ]
 }

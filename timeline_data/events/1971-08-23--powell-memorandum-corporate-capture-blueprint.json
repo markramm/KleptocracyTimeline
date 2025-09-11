@@ -4,27 +4,10 @@
   "date": "1971-08-23",
   "description": "Future Supreme Court Justice Lewis Powell drafts 'Attack on American Free Enterprise System,' a comprehensive strategy for corporate capture of American democratic institutions through four coordinated pillars: intellectual infrastructure (think tanks, universities), legal capture (Federalist Society, corporate-friendly precedents), media control (parallel conservative media ecosystem), and political integration (lobbying, revolving door). The memorandum establishes the systematic approach that will transform American democracy over the following 50 years, creating the institutional foundation for oligarchic capture.",
   "category": "institutional-capture-blueprint",
-  "actors": {
-    "primary": [
-      {
-        "name": "Lewis Powell",
-        "role": "Author of corporate capture blueprint",
-        "affiliation": "Corporate lawyer, future Supreme Court Justice"
-      },
-      {
-        "name": "Eugene Sydnor Jr.",
-        "role": "US Chamber of Commerce education committee chairman who commissioned the memo",
-        "affiliation": "US Chamber of Commerce"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "US Chamber of Commerce",
-        "role": "Organization that requested and disseminated the blueprint",
-        "affiliation": "Corporate lobbying organization"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "Richmond, Virginia",
   "sources": [
     {
@@ -32,14 +15,17 @@
       "url": "Powell Archives, Washington and Lee University School of Law",
       "type": "government-records",
       "credibility": 10,
-      "description": "Original Powell Memorandum document"
+      "description": "Original Powell Memorandum document",
+      "outlet": "TBD"
     },
     {
       "title": "Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right",
       "author": "Jane Mayer",
       "type": "investigative-journalism",
       "credibility": 9,
-      "description": "Comprehensive analysis of Powell Memo's implementation"
+      "description": "Comprehensive analysis of Powell Memo's implementation",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -70,5 +56,10 @@
       "democratic-transformation-blueprint"
     ]
   },
-  "historical_significance": "The Powell Memorandum established the systematic approach to institutional capture that would fundamentally alter the balance of power in American democracy. It created the strategic foundation that enabled corporate interests to capture universities, courts, media, and government through coordinated, patient implementation over five decades."
+  "historical_significance": "The Powell Memorandum established the systematic approach to institutional capture that would fundamentally alter the balance of power in American democracy. It created the strategic foundation that enabled corporate interests to capture universities, courts, media, and government through coordinated, patient implementation over five decades.",
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2018-07-12--tech-workers-coalition-digital-resistance-formation",
+  "date": "2018-07-12",
+  "title": "Tech Workers Coalition: Establishing Digital Resistance Infrastructure",
+  "summary": "The Tech Workers Coalition formally expands to 21 global chapters, creating a systematic framework for technological resistance against corporate and governmental authoritarian collaboration. The organization develops protocols for ethical technology development, employee organizing, and resistance against projects that compromise democratic values. By creating a networked resistance model, they establish precedents for institutional resistance within technology sectors.",
+  "importance": 8,
+  "actors": [
+    "Tech Workers Coalition",
+    "Silicon Valley Employees",
+    "Digital Rights Advocates"
+  ],
+  "tags": [
+    "digital-resistance",
+    "tech-ethics",
+    "employee-organizing"
+  ],
+  "sources": [
+    {
+      "title": "Tech Workers Coalition Global Expansion Report",
+      "outlet": "Tech Workers Coalition",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

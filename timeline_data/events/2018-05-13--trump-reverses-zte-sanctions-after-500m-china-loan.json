@@ -38,5 +38,11 @@
       "outlet": "CNN",
       "date": "2018-05-13"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

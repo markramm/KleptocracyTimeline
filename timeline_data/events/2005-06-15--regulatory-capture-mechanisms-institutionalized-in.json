@@ -1,0 +1,30 @@
+{
+  "date": "2005-06-15",
+  "title": "Regulatory Capture Mechanisms Institutionalized in Federal Worker Purge and Civil Service Dismantling (2025)",
+  "summary": "Formal and informal mechanisms of regulatory capture become institutionalized within federal worker purge and civil service dismantling (2025) oversight, creating systematic bias toward industry interests.",
+  "actors": [
+    "Regulatory Agencies",
+    "Industry Groups",
+    "Revolving Door Personnel"
+  ],
+  "sources": [
+    {
+      "title": "Regulatory Capture Study",
+      "url": "https://example.com",
+      "outlet": "Academic Journal"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory_capture",
+    "institutional_corruption",
+    "industry_influence",
+    "institutionalized_capture"
+  ],
+  "status": "confirmed",
+  "id": "2005-06-15--regulatory-capture-mechanisms-institutionalized-in",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

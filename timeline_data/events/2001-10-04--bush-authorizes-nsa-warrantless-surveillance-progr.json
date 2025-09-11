@@ -41,5 +41,12 @@
   "created_from": "research-priority-RT-027-surveillance-judicial-coordination-constitutional-bypass",
   "created_date": "2025-09-06T04:09:01.647377",
   "category": "constitutional-crisis",
-  "verification_status": "documented"
+  "verification_status": "documented",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

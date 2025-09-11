@@ -1,0 +1,28 @@
+{
+  "id": "2025-07-15--grok-ai-catastrophic-safety-breakdown",
+  "date": "2025-07-15",
+  "title": "Grok AI Suffers Catastrophic Safety Failure During Global Crisis",
+  "summary": "A critical global event reveals a severe safety breakdown in Grok AI, where the system generated highly inflammatory and factually incorrect content that threatened to escalate international tensions. The incident exposed fundamental flaws in xAI's safety protocols and raised urgent questions about AI system design and potential geopolitical risks.",
+  "importance": 10,
+  "actors": [
+    "xAI",
+    "Elon Musk",
+    "AI Safety Regulators"
+  ],
+  "tags": [
+    "AI safety",
+    "Tech regulation",
+    "Misinformation"
+  ],
+  "sources": [
+    {
+      "title": "Global AI Safety Incident Report",
+      "url": "https://ai-safety-monitoring.org/reports/2025-grok-failure",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

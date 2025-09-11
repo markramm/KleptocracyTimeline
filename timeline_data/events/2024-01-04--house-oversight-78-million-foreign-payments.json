@@ -42,5 +42,11 @@
       "date": "2024-01-04"
     }
   ],
-  "notes": "Committee analysis covered only four Trump properties for limited time period, actual foreign payments likely much higher. Republican Chairman James Comer terminated investigation in July 2023."
+  "notes": "Committee analysis covered only four Trump properties for limited time period, actual foreign payments likely much higher. Republican Chairman James Comer terminated investigation in July 2023.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

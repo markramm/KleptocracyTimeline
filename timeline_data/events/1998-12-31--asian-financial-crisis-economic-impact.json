@@ -1,0 +1,32 @@
+{
+  "id": "1998-12-31--asian-financial-crisis-economic-impact",
+  "date": "1998-12-31",
+  "title": "Asian Financial Crisis: Comprehensive Economic Transformation",
+  "summary": "By year's end, the Asian Financial Crisis results in a fundamental restructuring of Southeast Asian economies. Millions lose jobs, local companies are sold at fire-sale prices to multinational corporations, and national economic policies are effectively rewritten under IMF and World Bank guidance.",
+  "importance": 9,
+  "actors": [
+    "International Monetary Fund",
+    "World Bank",
+    "McKinsey & Company",
+    "Multinational Corporations"
+  ],
+  "sources": [
+    {
+      "title": "Aftermath of the Asian Financial Crisis",
+      "url": "https://www.brookings.edu/articles/lessons-from-the-asian-financial-crisis/",
+      "outlet": "Brookings Institution"
+    }
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "structural_adjustment",
+    "imf",
+    "economic_shock_therapy",
+    "corporate_capture"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

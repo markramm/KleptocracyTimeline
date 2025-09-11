@@ -1,0 +1,33 @@
+{
+  "id": "2025-02-15--bondi-establishes-weaponization-working-group",
+  "date": "2025-02-15",
+  "title": "Attorney General Bondi Establishes 'Weaponization Working Group' to Target Prosecutors",
+  "summary": "Attorney General Pam Bondi establishes 'Weaponization Working Group' as first priority after confirmation, tasked with investigating 'activities of all departments and agencies exercising civil or criminal enforcement authority over the last four years.' Bondi declares intention to 'investigate the investigators' and 'prosecute the prosecutors' who worked on Trump-related cases. The working group identifies career DOJ employees for firing based on their involvement in prosecuting Trump, creating systematic mechanism for political retaliation against prosecutors. This institutionalizes DOJ weaponization through formal bureaucratic structure designed to punish prosecutors for conducting investigations, representing unprecedented transformation of Justice Department into political enforcement arm.",
+  "importance": 8,
+  "tags": [
+    "doj_weaponization",
+    "pam_bondi",
+    "weaponization_working_group",
+    "prosecutor_targeting",
+    "institutional_capture",
+    "political_retaliation"
+  ],
+  "actors": [
+    "Pam Bondi",
+    "Weaponization Working Group",
+    "Department of Justice",
+    "Trump Administration"
+  ],
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/justice-department-firings-include-trump-investigators-jan-6-prosecutors/",
+      "title": "Justice Department purge continues; firings include Trump classified document case investigators and Jan. 6 prosecutors",
+      "outlet": "CBS News",
+      "date": "2025-02-15"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

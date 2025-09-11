@@ -34,5 +34,8 @@
     }
   ],
   "notes": "Blueprint for what would become Fox News 26 years later. Shows long-term Republican strategy to create alternative media ecosystem. Nixon embraced idea of bypassing existing media.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

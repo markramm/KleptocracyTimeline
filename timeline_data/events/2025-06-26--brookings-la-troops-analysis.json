@@ -3,7 +3,7 @@
   "title": "Brookings warns on legal limits of putting soldiers on Los Angeles streets",
   "date": "2025-06-26",
   "importance": 6,
-  "summary": "Brookings June 26, 2025, analysis warned Trump's deployment of 700 Marines and 4,000 federalized National Guard to LA violates Posse Comitatus Act. Trump invoked 10 USC §12406 (not Insurrection Act) claiming \"inherent constitutional authority\" to protect federal property. California alleged violations - Guard accompanied ICE on 75% of missions, formed security perimeters, detained civilians. Ninth Circuit accepted Trump's \"unable with regular forces\" claim despite no evidence ICE raids were thwarted.",
+  "summary": "Brookings June 26, 2025, analysis warned Trump's deployment of 700 Marines and 4,000 federalized National Guard to LA violates Posse Comitatus Act. Trump invoked 10 USC \u00a712406 (not Insurrection Act) claiming \"inherent constitutional authority\" to protect federal property. California alleged violations - Guard accompanied ICE on 75% of missions, formed security perimeters, detained civilians. Ninth Circuit accepted Trump's \"unable with regular forces\" claim despite no evidence ICE raids were thwarted.",
   "location": "Washington, DC",
   "actors": [
     "Brookings Institution",
@@ -24,7 +24,7 @@
   "citations": [
     "https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles"
   ],
-  "notes": "OLC claims Posse Comitatus doesn't apply when protecting federal property, but courts say PCA triggered when troops subject civilians to \"regulatory, prescriptive, or compulsory\" military power. No court has addressed if §12406 allows Guard law enforcement. Ninth Circuit applied \"extremely deferential standard\" in Trump's favor. Newsom sued alleging PCA violations. Brennan Center: deployment \"legally dubious.\" Rolling Stone: \"Absolutely unprecedented.\" Key legal questions remain unanswered.",
+  "notes": "OLC claims Posse Comitatus doesn't apply when protecting federal property, but courts say PCA triggered when troops subject civilians to \"regulatory, prescriptive, or compulsory\" military power. No court has addressed if \u00a712406 allows Guard law enforcement. Ninth Circuit applied \"extremely deferential standard\" in Trump's favor. Newsom sued alleging PCA violations. Brennan Center: deployment \"legally dubious.\" Rolling Stone: \"Absolutely unprecedented.\" Key legal questions remain unanswered.",
   "status": "confirmed",
   "sources": [
     {
@@ -51,5 +51,9 @@
       "outlet": "CalMatters",
       "date": "2025-08-11"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
   ]
 }

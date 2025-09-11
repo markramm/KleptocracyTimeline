@@ -36,5 +36,9 @@
       "verified": true
     }
   ],
-  "notes": "French intelligence officials reportedly suspected Kroll's Paris branch was a CIA front and even bugged its offices, though Kroll's chairman denied any CIA involvement. Kroll's growth during the post-Watergate era demonstrated how private-sector investigations and security services could expand to fill roles once handled by government agencies, setting the template for modern corporate intelligence firms."
+  "notes": "French intelligence officials reportedly suspected Kroll's Paris branch was a CIA front and even bugged its offices, though Kroll's chairman denied any CIA involvement. Kroll's growth during the post-Watergate era demonstrated how private-sector investigations and security services could expand to fill roles once handled by government agencies, setting the template for modern corporate intelligence firms.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

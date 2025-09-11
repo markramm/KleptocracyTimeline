@@ -1,0 +1,37 @@
+{
+  "date": "1985-01-01",
+  "title": "Carl Icahn Phillips Petroleum Hostile Takeover Attempt",
+  "summary": "Carl Icahn launched his first multi-billion dollar hostile takeover attempt against Phillips Petroleum, offering .2 billion for half the company. Using Michael Milken and Drexel Burnham Lambert's junk bond financing network, Icahn demonstrated the power of leveraged corporate raids. Drexel raised .5 billion for Icahn in 48 hours through their \"highly confident letter\" system. Although Icahn failed to gain control, he made 0 million profit by selling shares back to Phillips. This established Icahn as a major 1980s corporate raider and showed how junk bond financing could enable small investor groups to threaten even the largest corporations through financial leverage.",
+  "actors": [
+    "Carl Icahn",
+    "Phillips Petroleum",
+    "Michael Milken",
+    "Drexel Burnham Lambert"
+  ],
+  "sources": [
+    {
+      "title": "https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://en.wikipedia.org/wiki/Carl_Icahn",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "corporate-raiding",
+    "hostile-takeovers",
+    "junk-bonds",
+    "financial-manipulation"
+  ],
+  "status": "confirmed",
+  "id": "1985-01-01--carl-icahn-phillips-petroleum-hostile-takeover-att",
+  "priority_id": "RT-EXP-72C359C1-carl-icahn-corporate-raiding-network",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

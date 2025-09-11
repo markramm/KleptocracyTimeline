@@ -1,0 +1,37 @@
+{
+  "id": "2016-05-18--trump-promises-federalist-society-supreme-court-picks",
+  "date": "2016-05-18",
+  "title": "Trump Promises All Supreme Court Picks Will Come From Federalist Society",
+  "summary": "During the 2016 campaign, Donald Trump promises that his judicial nominees would \"all [be] picked by the Federalist Society\" and acknowledges turning to \"Federalist people\" and Heritage Foundation to assemble list of 21 potential Supreme Court nominees. This public commitment represents the complete outsourcing of judicial selection to a private conservative organization, formalizing the Federalist Society's capture of the Republican judicial appointment process. Leonard Leo draws up the nominee lists, ensuring systematic ideological screening of all potential justices through the Federalist Society network.",
+  "importance": 10,
+  "location": "United States",
+  "actors": [
+    "Donald Trump",
+    "Leonard Leo",
+    "Federalist Society",
+    "Heritage Foundation"
+  ],
+  "tags": [
+    "Trump judicial nominees",
+    "Federalist Society vetting",
+    "Leonard Leo",
+    "Supreme Court outsourcing"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "How the Federalist Society came to dominate the Supreme Court",
+      "url": "https://news.harvard.edu/gazette/story/2021/03/in-audiobook-takeover-noah-feldman-lidia-jean-kott-explore-how-federalist-society-captured-supreme-court/",
+      "outlet": "Harvard Gazette",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Trump promised nominees would all be picked by Federalist Society",
+        "Turned to Federalist people and Heritage Foundation for list",
+        "Leonard Leo drew up lists of potential justices"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

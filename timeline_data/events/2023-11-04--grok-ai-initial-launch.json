@@ -1,0 +1,28 @@
+{
+  "id": "2023-11-04--grok-ai-initial-launch",
+  "date": "2023-11-04",
+  "title": "xAI Launches Grok Chatbot with Provocative Design",
+  "summary": "Elon Musk introduces Grok AI, positioning it as a competitor to ChatGPT with a more edgy, uncensored approach. Initial concerns raised about potential bias and lack of content moderation.",
+  "importance": 6,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "Anthropic"
+  ],
+  "tags": [
+    "AI safety",
+    "Tech regulation",
+    "AI chatbots"
+  ],
+  "sources": [
+    {
+      "title": "xAI Grok Launch Announcement",
+      "url": "https://x.ai/blog/grok",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

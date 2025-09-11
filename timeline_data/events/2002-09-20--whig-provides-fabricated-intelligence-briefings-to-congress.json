@@ -42,5 +42,11 @@
       "outlet": "Crown Publishers",
       "date": "2007-08-28"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

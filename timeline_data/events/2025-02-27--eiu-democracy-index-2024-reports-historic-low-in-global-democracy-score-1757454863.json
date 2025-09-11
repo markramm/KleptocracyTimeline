@@ -9,8 +9,16 @@
     "Global democracy researchers"
   ],
   "sources": [
-    "https://www.axios.com/2025/02/27/global-democracy-score-record-low-report",
-    "https://www.prnewswire.com/news-releases/eius-2024-democracy-index-trend-of-global-democratic-decline-and-strengthening-authoritarianism-continues-through-2024-302384989.html"
+    {
+      "title": "https://www.axios.com/2025/02/27/global-democracy-score-record-low-report",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.prnewswire.com/news-releases/eius-2024-democracy-index-trend-of-global-democratic-decline-and-strengthening-authoritarianism-continues-through-2024-302384989.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "democracy index",
@@ -19,5 +27,8 @@
     "measurement"
   ],
   "id": "2025-02-27--eiu-democracy-index-2024-reports-historic-low-in-global-democracy-score-1757454863",
-  "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal"
+  "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

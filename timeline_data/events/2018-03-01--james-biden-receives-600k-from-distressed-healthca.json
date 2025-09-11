@@ -35,5 +35,11 @@
       "outlet": "FactCheck.org",
       "date": "2023-10-24"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

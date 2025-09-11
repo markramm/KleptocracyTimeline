@@ -48,5 +48,10 @@
     "cryptocurrency-corruption",
     "conflict-of-interest"
   ],
-  "notes": "Lutnick's massive Tether stake represents one of the largest financial conflicts in cabinet history. Tether, the world's largest stablecoin, faces DOJ investigation for facilitating money laundering, terrorism financing, and sanctions evasion. As Commerce Secretary overseeing trade and technology policy while serving on the Digital Asset Working Group, Lutnick can directly influence cryptocurrency regulation benefiting his $600 million position. His refusal to recuse demonstrates open defiance of ethics norms."
+  "notes": "Lutnick's massive Tether stake represents one of the largest financial conflicts in cabinet history. Tether, the world's largest stablecoin, faces DOJ investigation for facilitating money laundering, terrorism financing, and sanctions evasion. As Commerce Secretary overseeing trade and technology policy while serving on the Digital Asset Working Group, Lutnick can directly influence cryptocurrency regulation benefiting his $600 million position. His refusal to recuse demonstrates open defiance of ethics norms.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

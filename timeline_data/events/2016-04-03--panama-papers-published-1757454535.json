@@ -9,7 +9,11 @@
     "Various world leaders"
   ],
   "sources": [
-    "https://www.icij.org/investigations/panama-papers/"
+    {
+      "title": "https://www.icij.org/investigations/panama-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -21,5 +25,11 @@
   ],
   "status": "confirmed",
   "id": "2016-04-03--panama-papers-published-1757454535",
-  "priority_id": "RP-20250909-bush-administration-architecture-of-capt"
+  "priority_id": "RP-20250909-bush-administration-architecture-of-capt",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

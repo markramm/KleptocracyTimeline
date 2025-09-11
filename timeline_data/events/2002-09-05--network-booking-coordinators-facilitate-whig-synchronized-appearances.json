@@ -9,7 +9,7 @@
     "Karen Hughes",
     "White House Communications Staff",
     "CNN Booking Producers",
-    "NBC Booking Producers", 
+    "NBC Booking Producers",
     "CBS Booking Producers",
     "Fox News Booking Staff"
   ],
@@ -40,8 +40,15 @@
     {
       "title": "Networks as Propaganda Platforms: The September 2002 Campaign",
       "url": "https://www.commondreams.org/views/2007/09/08/networks-propaganda-platforms-september-2002-campaign",
-      "outlet": "Common Dreams", 
+      "outlet": "Common Dreams",
       "date": "2007-09-08"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

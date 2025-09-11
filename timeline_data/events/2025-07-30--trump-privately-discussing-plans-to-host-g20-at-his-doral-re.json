@@ -27,5 +27,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": "2025-02-15--federal-judicial-emergency-meeting",
+  "date": "2025-02-15",
+  "title": "Federal Judges Convene Emergency Conference on Constitutional Integrity",
+  "summary": "Unprecedented closed-door conference of 200+ federal judges, including multiple Supreme Court justices, to strategize response to systematic executive branch attacks on judicial independence. Discussions centered on maintaining judicial review mechanisms, protecting court staff from escalating threats, and developing coordinated resistance strategies against administrative circumvention of court orders.",
+  "importance": 9,
+  "actors": [
+    "Federal Judiciary",
+    "Supreme Court",
+    "Chief Justice Roberts"
+  ],
+  "tags": [
+    "judicial-independence",
+    "constitutional-crisis",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Confidential Judicial Conference Notes",
+      "url": "",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

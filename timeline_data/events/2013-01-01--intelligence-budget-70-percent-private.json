@@ -50,5 +50,9 @@
     }
   ],
   "notes": "Scale of privatization enables operations outside democratic oversight. Ronald Sanders, associate DNI for human capital, confirmed in 2008 briefing that 70% of intelligence budget goes to private sector. Never before have so many U.S. intelligence workers been hired so quickly or given access to secret government information through networked computers.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

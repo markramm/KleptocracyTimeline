@@ -2,8 +2,8 @@
   "id": "2025-04-16--under-trump-consumer-watchdog-to-slash-industry-supervision",
   "date": "2025-04-16",
   "title": "Under Trump, consumer watchdog to slash industry supervision",
-  "summary": "The CFPB, under pressure from Trump and Elon Musk, will cut financial industry oversight by 50%, retreating from key areas like student loans, medical debt, digital payments, and consumer data–narrowing its focus almost entirely to protections for military personnel",
-  "description": "The CFPB, under pressure from Trump and Elon Musk, will cut financial industry oversight by 50%, retreating from key areas like student loans, medical debt, digital payments, and consumer data–narrowing its focus almost entirely to protections for military personnel",
+  "summary": "The CFPB, under pressure from Trump and Elon Musk, will cut financial industry oversight by 50%, retreating from key areas like student loans, medical debt, digital payments, and consumer data\u2013narrowing its focus almost entirely to protections for military personnel",
+  "description": "The CFPB, under pressure from Trump and Elon Musk, will cut financial industry oversight by 50%, retreating from key areas like student loans, medical debt, digital payments, and consumer data\u2013narrowing its focus almost entirely to protections for military personnel",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -34,5 +34,11 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

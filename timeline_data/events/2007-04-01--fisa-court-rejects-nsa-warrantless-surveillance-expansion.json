@@ -7,7 +7,7 @@
   "actors": [
     "Roger Vinson",
     "FISA Court",
-    "NSA", 
+    "NSA",
     "Bush Administration",
     "Justice Department"
   ],
@@ -34,5 +34,11 @@
       "date": "2007-08-01"
     }
   ],
-  "notes": "This ruling came after the Bush administration ended the warrantless surveillance program in January 2007 following public revelation and legal challenges. When Judge Vinson refused to approve the government's attempt to expand surveillance authority, intelligence officials turned to Congress for new surveillance powers, resulting in the Protect America Act and ultimately the FISA Amendments Act of 2008."
+  "notes": "This ruling came after the Bush administration ended the warrantless surveillance program in January 2007 following public revelation and legal challenges. When Judge Vinson refused to approve the government's attempt to expand surveillance authority, intelligence officials turned to Congress for new surveillance powers, resulting in the Protect America Act and ultimately the FISA Amendments Act of 2008.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-04-14--trump-administration-retreats-from-white-collar-criminal-enf",
   "date": "2025-04-14",
   "title": "Trump administration retreats from white-collar criminal enforcement",
-  "summary": "Trump’s DOJ is ending white-collar crime enforcement—dropping foreign bribery, crypto fraud, and money laundering cases",
-  "description": "Trump’s DOJ is ending white-collar crime enforcement—dropping foreign bribery, crypto fraud, and money laundering cases",
+  "summary": "Trump\u2019s DOJ is ending white-collar crime enforcement\u2014dropping foreign bribery, crypto fraud, and money laundering cases",
+  "description": "Trump\u2019s DOJ is ending white-collar crime enforcement\u2014dropping foreign bribery, crypto fraud, and money laundering cases",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -36,5 +36,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

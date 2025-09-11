@@ -1,9 +1,9 @@
 {
   "id": "2025-07-26--doge-reportedly-using-ai-tool-to-create-delete-list-of-feder",
   "date": "2025-07-26",
-  "title": "Doge reportedly using AI tool to create ‘delete list’ of federal regulations",
-  "summary": "DOGE is using an AI tool to create a “delete list” of federal regulations to cut, aiming to reduce rules by 50% by January",
-  "description": "DOGE is using an AI tool to create a “delete list” of federal regulations to cut, aiming to reduce rules by 50% by January",
+  "title": "Doge reportedly using AI tool to create \u2018delete list\u2019 of federal regulations",
+  "summary": "DOGE is using an AI tool to create a \u201cdelete list\u201d of federal regulations to cut, aiming to reduce rules by 50% by January",
+  "description": "DOGE is using an AI tool to create a \u201cdelete list\u201d of federal regulations to cut, aiming to reduce rules by 50% by January",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Doge reportedly using AI tool to create ‘delete list’ of federal regulations",
+      "title": "Doge reportedly using AI tool to create \u2018delete list\u2019 of federal regulations",
       "url": "https://www.theguardian.com/us-news/2025/jul/26/doge-ai-tool-delete-list-federal-regulations",
       "outlet": "The Guardian",
       "date": "2025-07-26"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "2025-02-11--the-cfpb-work-freeze-is-putting-big-tech-regulations-on-ice",
   "date": "2025-02-11",
-  "title": "The CFPB work freeze Is putting Big Tech regulations ‘on ice’",
+  "title": "The CFPB work freeze Is putting Big Tech regulations \u2018on ice\u2019",
   "summary": "Trump ordered a full work stoppage at the CFPB, halting investigations, lawsuits, and enforcement",
   "description": "Trump ordered a full work stoppage at the CFPB, halting investigations, lawsuits, and enforcement",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "The CFPB work freeze Is putting Big Tech regulations ‘on ice’",
+      "title": "The CFPB work freeze Is putting Big Tech regulations \u2018on ice\u2019",
       "url": "https://www.wired.com/story/cfpb-trump-freeze-tech-investigations/",
       "outlet": "Wired",
       "date": "2025-02-11"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

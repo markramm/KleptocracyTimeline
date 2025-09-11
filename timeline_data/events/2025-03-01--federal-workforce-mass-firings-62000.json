@@ -57,5 +57,8 @@
     "purge-professionals",
     "loyalty-over-competence"
   ],
-  "notes": "This represents the most dramatic purge of federal employees in US history. A 41,311% increase is not normal attrition or performance management - it's systematic political cleansing of the civil service. The targeting of specific agencies like Interior (environmental protection), Forest Service (public lands), CFPB (consumer protection), and SBA (small business support) shows the purge focuses on agencies that regulate corporate interests or provide public services. Combined with Schedule F stripping protections from 50,000 positions, this transforms the federal government from a professional civil service into a patronage system where political loyalty trumps expertise. The scale suggests not just policy change but fundamental restructuring of American governance."
+  "notes": "This represents the most dramatic purge of federal employees in US history. A 41,311% increase is not normal attrition or performance management - it's systematic political cleansing of the civil service. The targeting of specific agencies like Interior (environmental protection), Forest Service (public lands), CFPB (consumer protection), and SBA (small business support) shows the purge focuses on agencies that regulate corporate interests or provide public services. Combined with Schedule F stripping protections from 50,000 positions, this transforms the federal government from a professional civil service into a patronage system where political loyalty trumps expertise. The scale suggests not just policy change but fundamental restructuring of American governance.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

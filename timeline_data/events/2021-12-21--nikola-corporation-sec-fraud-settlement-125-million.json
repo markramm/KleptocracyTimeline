@@ -1,0 +1,33 @@
+{
+  "id": "2021-12-21--nikola-corporation-sec-fraud-settlement-125-million",
+  "date": "2021-12-21",
+  "title": "SEC Charges Nikola Corporation $125 Million for SPAC-Related Fraud and False Claims",
+  "summary": "The SEC settled fraud charges against Nikola Corporation for $125 million, finding the electric vehicle company made materially false and misleading statements about its products, technical capabilities, and partnerships during its 2020 SPAC merger. The case involved fraudulent promotional videos showing a Nikola truck rolling downhill to simulate functionality, inflated partnership claims, and systematic deception of retail investors who lost billions in the subsequent stock collapse.",
+  "status": "confirmed",
+  "actors": [
+    "Securities and Exchange Commission",
+    "Nikola Corporation",
+    "Trevor Milton (Founder and Former Executive Chairman)",
+    "VectoIQ Acquisition Corp (SPAC)"
+  ],
+  "sources": [
+    {
+      "title": "SEC Charges Nikola and its Founder with Fraud",
+      "url": "https://www.sec.gov/news/press-release/2021-254",
+      "date": "2021-12-21",
+      "outlet": "SEC"
+    }
+  ],
+  "tags": [
+    "spac_fraud",
+    "electric_vehicles",
+    "sec_enforcement",
+    "material_misrepresentation",
+    "retail_fraud",
+    "trevor_milton"
+  ],
+  "importance": 8,
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

@@ -36,5 +36,11 @@
       "date": "2025-02-15"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -8,7 +8,8 @@
     {
       "url": "https://www.congress.gov/bill/107th-congress/house-joint-resolution/114",
       "title": "Authorization for Use of Military Force Against Iraq Resolution",
-      "type": "legislation"
+      "type": "legislation",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,9 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

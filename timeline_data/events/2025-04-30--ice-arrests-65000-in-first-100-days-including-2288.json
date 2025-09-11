@@ -43,5 +43,8 @@
   ],
   "status": "confirmed",
   "_merge_note": "Enhanced with information from duplicate event: 2025-04-30--ice-100-day-milestone-65000-arrests-gang-members",
-  "_merge_timestamp": "2025-09-05T23:46:55.902908"
+  "_merge_timestamp": "2025-09-05T23:46:55.902908",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

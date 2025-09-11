@@ -8,7 +8,8 @@
     {
       "url": "https://www.newyorker.com/magazine/2004/03/01/the-stovepipe",
       "title": "The Stovepipe - Intelligence Manipulation Analysis",
-      "type": "investigative_report"
+      "type": "investigative_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,9 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
 }

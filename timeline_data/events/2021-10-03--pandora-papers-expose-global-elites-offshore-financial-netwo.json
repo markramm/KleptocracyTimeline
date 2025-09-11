@@ -1,0 +1,59 @@
+{
+  "date": "2021-10-03",
+  "title": "Pandora Papers Expose Global Elite's Offshore Financial Networks",
+  "summary": "The International Consortium of Investigative Journalists (ICIJ) released the Pandora Papers, the largest leak of offshore financial documents in history, exposing the secret wealth and tax avoidance schemes of world leaders, politicians, and billionaires. The 11.9 million documents from 14 financial services companies revealed how more than 330 politicians and public officials from 90+ countries used offshore companies and trusts to hide assets worth billions of dollars. Key revelations included King Abdullah II of Jordan's $100 million property empire, Czech Prime Minister Andrej Babi\u0161's undisclosed French Riviera properties, and Ukrainian President Volodymyr Zelenskyy's offshore network. The leak exposed systematic abuse of offshore financial systems by the global elite, highlighting how legal loopholes enable massive wealth concealment while ordinary citizens face increasing tax burdens. The revelations sparked investigations, resignations, and renewed calls for international tax reform.",
+  "actors": [
+    "International Consortium of Investigative Journalists (ICIJ)",
+    "King Abdullah II of Jordan",
+    "Andrej Babi\u0161",
+    "Volodymyr Zelenskyy",
+    "Tony Blair",
+    "Shakira",
+    "Mossack Fonseca",
+    "Alem\u00e1n, Cordero, Galindo & Lee"
+  ],
+  "sources": [
+    {
+      "title": "https://www.icij.org/investigations/pandora-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-58780561",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.washingtonpost.com/business/interactive/2021/pandora-papers-global-offshore/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 10,
+  "tags": [
+    "offshore",
+    "tax-avoidance",
+    "corruption",
+    "pandora-papers",
+    "icij",
+    "investigation",
+    "kleptocracy",
+    "politicians",
+    "wealth"
+  ],
+  "status": "confirmed",
+  "id": "2021-10-03--pandora-papers-expose-global-elites-offshore-financial-netwo",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-15",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

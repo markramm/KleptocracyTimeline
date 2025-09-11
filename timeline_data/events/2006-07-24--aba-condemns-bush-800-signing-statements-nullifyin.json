@@ -38,5 +38,11 @@
       "outlet": "Government Accountability Office",
       "date": "2007-06-18"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

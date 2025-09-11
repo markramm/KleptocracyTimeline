@@ -23,7 +23,7 @@
     "institutional-coordination",
     "constitutional-crisis"
   ],
-  "status": "confirmed", 
+  "status": "confirmed",
   "sources": [
     {
       "title": "Office of Global Communications",
@@ -43,5 +43,11 @@
       "outlet": "Encyclopedia.com",
       "date": "2006"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "2025-05-22--more-than-a-dozen-u-s-officials-sold-stocks-before-trump-s-t",
   "date": "2025-05-22",
-  "title": "More than a dozen U.S. officials sold stocks before Trump’s tariffs sent the market plunging",
+  "title": "More than a dozen U.S. officials sold stocks before Trump\u2019s tariffs sent the market plunging",
   "summary": "Trump hosted a dinner for the top 220 investors in his memecoin at his Virginia golf club, some having spent 10s of millions of dollars on the digital token",
   "description": "Trump hosted a dinner for the top 220 investors in his memecoin at his Virginia golf club, some having spent 10s of millions of dollars on the digital token",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "More than a dozen U.S. officials sold stocks before Trump’s tariffs sent the market plunging",
+      "title": "More than a dozen U.S. officials sold stocks before Trump\u2019s tariffs sent the market plunging",
       "url": "https://www.nytimes.com/2025/05/22/us/politics/trump-memecoin-dinner.html",
       "outlet": "ProPublica",
       "date": "2025-05-22"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "1997-07-02--asian-financial-crisis-thai-baht-collapse",
+  "date": "1997-07-02",
+  "title": "Thai Baht Collapse Triggers Asian Financial Crisis",
+  "summary": "The Thai government floats the baht, causing a massive currency devaluation and sparking a regional economic crisis. This moment marks the beginning of systematic economic destabilization across Southeast Asian economies, with IMF and Western financial institutions positioning to implement structural adjustment policies.",
+  "importance": 8,
+  "actors": [
+    "Thai Government",
+    "IMF",
+    "World Bank",
+    "McKinsey & Company"
+  ],
+  "sources": [
+    {
+      "title": "IMF Report on Asian Financial Crisis",
+      "url": "https://www.imf.org/external/pubs/ft/wp/1998/wp9880.pdf",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "currency_collapse",
+    "imf_intervention",
+    "structural_adjustment"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -48,5 +48,9 @@
     "security-compromise",
     "russian-alignment"
   ],
-  "notes": "Gabbard's appointment as DNI despite secret meetings with Assad and consistent pro-Russia positioning represents unprecedented security risk. Her 2017 Assad trip, financed by groups with Syrian regime ties, violated congressional notification requirements. She regularly appears on Russian state media, blamed NATO for Ukraine invasion, and called Zelensky a \"dictator.\" Intelligence allies now questioning whether to share sensitive information with U.S., potentially blind America to threats. Her minimal intelligence experience compounds concerns about protecting sources and methods."
+  "notes": "Gabbard's appointment as DNI despite secret meetings with Assad and consistent pro-Russia positioning represents unprecedented security risk. Her 2017 Assad trip, financed by groups with Syrian regime ties, violated congressional notification requirements. She regularly appears on Russian state media, blamed NATO for Ukraine invasion, and called Zelensky a \"dictator.\" Intelligence allies now questioning whether to share sensitive information with U.S., potentially blind America to threats. Her minimal intelligence experience compounds concerns about protecting sources and methods.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

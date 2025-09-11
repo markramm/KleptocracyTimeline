@@ -38,5 +38,12 @@
       "outlet": "NPR",
       "date": "2008-07-28"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "date": "2025-01-20",
+  "title": "Pam Bondi Rescinds Journalist Protection Safeguards as AG",
+  "summary": "Attorney General Pam Bondi eliminates journalist protection policies established by Merrick Garland after Trump-era surveillance revelations, stating previous safeguards struck \"the wrong balance.\" Action removes barriers to covert pursuit of news outlets internal communications, representing systematic elimination of press freedom protections and return to Trump-era surveillance tactics.",
+  "actors": [
+    "Pam Bondi",
+    "DOJ",
+    "Merrick Garland",
+    "News Outlets"
+  ],
+  "sources": [
+    {
+      "title": "The Trump administration spied on journalists. The Biden administration defended it.",
+      "url": "https://www.cjr.org/the_media_today/trump_washington_post_surveillance_biden.php",
+      "outlet": "Columbia Journalism Review"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "pam_bondi",
+    "journalist_protections",
+    "surveillance_policy",
+    "press_freedom_elimination",
+    "systematic_intimidation"
+  ],
+  "status": "confirmed",
+  "id": "2025-01-20--bondi-rescinds-journalist-protection-safeguards",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
+}

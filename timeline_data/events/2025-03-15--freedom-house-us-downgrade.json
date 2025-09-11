@@ -32,5 +32,9 @@
     }
   ],
   "notes": "Historic downgrade places U.S. alongside countries like Hungary and India in \"Partly Free\" category",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture"
+  ]
 }

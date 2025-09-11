@@ -38,5 +38,8 @@
       "date": "2023-07-27"
     }
   ],
-  "notes": "De Oliveira, a 20-year Trump employee who became property manager in January 2022, asked\nabout server retention period (45 days) before requesting deletion. He later lied to FBI\nin January 2023 interview, saying he \"never saw nothing\" regarding boxes. This brought\ntotal charges against Trump to 40 counts."
+  "notes": "De Oliveira, a 20-year Trump employee who became property manager in January 2022, asked\nabout server retention period (45 days) before requesting deletion. He later lied to FBI\nin January 2023 interview, saying he \"never saw nothing\" regarding boxes. This brought\ntotal charges against Trump to 40 counts.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

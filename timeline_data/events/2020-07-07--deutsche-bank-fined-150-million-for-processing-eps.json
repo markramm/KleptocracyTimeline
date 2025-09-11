@@ -41,5 +41,10 @@
       "date": "2020-07-07"
     }
   ],
-  "notes": "The fine represents one of the largest penalties related to Epstein's financial network and highlights how major financial institutions enabled his operations."
+  "notes": "The fine represents one of the largest penalties related to Epstein's financial network and highlights how major financial institutions enabled his operations.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

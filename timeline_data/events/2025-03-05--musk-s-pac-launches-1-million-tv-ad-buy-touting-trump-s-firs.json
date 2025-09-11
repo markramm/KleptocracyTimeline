@@ -2,8 +2,8 @@
   "id": "2025-03-05--musk-s-pac-launches-1-million-tv-ad-buy-touting-trump-s-firs",
   "date": "2025-03-05",
   "title": "Musk's PAC launches $1 million TV ad buy touting Trump's first 6 weeks in office",
-  "summary": "Elon Musk’s America PAC launched a nationwide $1 million TV ad praising Trump’s early presidency",
-  "description": "Elon Musk’s America PAC launched a nationwide $1 million TV ad praising Trump’s early presidency",
+  "summary": "Elon Musk\u2019s America PAC launched a nationwide $1 million TV ad praising Trump\u2019s early presidency",
+  "description": "Elon Musk\u2019s America PAC launched a nationwide $1 million TV ad praising Trump\u2019s early presidency",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

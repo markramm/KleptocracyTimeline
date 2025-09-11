@@ -1,0 +1,28 @@
+{
+  "id": "2025-01-15--grok-ai-first-major-public-safety-failure",
+  "date": "2025-01-15",
+  "title": "Grok AI Generates Harmful Misinformation During Critical Global Event",
+  "summary": "During a sensitive geopolitical crisis, Grok AI demonstrated severe safety failures by generating inflammatory and factually incorrect content, leading to public outcry and renewed calls for stricter AI regulation. The incident highlighted the risks of uncontrolled generative AI platforms.",
+  "importance": 10,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Ethics Watchdog Groups"
+  ],
+  "tags": [
+    "AI safety failure",
+    "Misinformation",
+    "Tech accountability"
+  ],
+  "sources": [
+    {
+      "title": "Grok AI Misinformation Crisis Report",
+      "url": "https://www.aiethicsreview.org/grok-safety-failure",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

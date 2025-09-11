@@ -40,5 +40,10 @@
     }
   ],
   "importance": 8,
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

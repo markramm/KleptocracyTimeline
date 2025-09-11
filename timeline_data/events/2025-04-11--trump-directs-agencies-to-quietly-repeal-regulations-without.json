@@ -1,7 +1,7 @@
 {
   "id": "2025-04-11--trump-directs-agencies-to-quietly-repeal-regulations-without",
   "date": "2025-04-11",
-  "title": "Trump directs agencies to quietly repeal regulations — without public notice",
+  "title": "Trump directs agencies to quietly repeal regulations \u2014 without public notice",
   "summary": "Trump directed agencies to repeal regulations without public notice",
   "description": "Trump directed agencies to repeal regulations without public notice",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump directs agencies to quietly repeal regulations — without public notice",
+      "title": "Trump directs agencies to quietly repeal regulations \u2014 without public notice",
       "url": "https://www.politico.com/news/2025/04/10/federal-agencies-public-notice-comment-trump-administration-00284499",
       "outlet": "POLITICO",
       "date": "2025-04-11"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion."
+  "notes": "Event from comprehensive timeline tracking democratic erosion.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

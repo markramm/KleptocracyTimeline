@@ -1,0 +1,45 @@
+{
+  "id": "2015-12-01--guardian-exposes-cambridge-analytica-ted-cruz-unauthorized-data-use",
+  "date": "2015-12-01",
+  "title": "Guardian Exposes Cambridge Analytica's Unauthorized Facebook Data Use for Ted Cruz Campaign",
+  "summary": "The Guardian's Harry Davies publishes the first expos\u00e9 revealing Cambridge Analytica's use of harvested Facebook data for US Senator Ted Cruz's presidential campaign without user consent. The investigation reveals how millions of Americans' personal information was collected and weaponized for political targeting without their knowledge. Facebook learns of the data misuse and demands Cambridge Analytica delete all harvested information, but receives only assurances of deletion without verification. This early reporting demonstrates how social media platforms enabled systematic electoral manipulation while failing to enforce their own data policies. The story establishes the pattern of tech companies prioritizing growth over user protection that would characterize subsequent electoral interference campaigns.",
+  "importance": 8,
+  "actors": [
+    "Harry Davies",
+    "The Guardian",
+    "Cambridge Analytica",
+    "Ted Cruz",
+    "Facebook",
+    "Christopher Wylie"
+  ],
+  "tags": [
+    "guardian_investigation",
+    "ted_cruz_campaign",
+    "unauthorized_data_use",
+    "electoral_manipulation",
+    "facebook_policy_violation",
+    "data_deletion_demands"
+  ],
+  "sources": [
+    {
+      "title": "Facebook-Cambridge Analytica Data Scandal",
+      "url": "https://en.wikipedia.org/wiki/Facebook\u2013Cambridge_Analytica_data_scandal",
+      "outlet": "Wikipedia",
+      "date": "2015-12-01"
+    },
+    {
+      "title": "Cambridge Analytica and Facebook: The Scandal So Far",
+      "url": "https://www.aljazeera.com/news/2018/3/28/cambridge-analytica-and-facebook-the-scandal-so-far",
+      "outlet": "Al Jazeera",
+      "date": "2015-12-11"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
+}

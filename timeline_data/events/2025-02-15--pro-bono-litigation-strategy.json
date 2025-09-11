@@ -1,0 +1,28 @@
+{
+  "id": "2025-02-15--pro-bono-litigation-strategy",
+  "date": "2025-02-15",
+  "title": "Pro Bono Litigation Coordination Summit",
+  "summary": "Major law firms and civil rights organizations develop shared litigation strategies to systematically challenge executive overreach and protect constitutional rights.",
+  "importance": 7,
+  "actors": [
+    "Lawyers for Civil Rights",
+    "Brennan Center",
+    "EarthJustice"
+  ],
+  "sources": [
+    {
+      "title": "Legal Strategy Coordination Report",
+      "url": "https://brennancenter.org/legal-resistance",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "Pro bono support",
+    "Litigation strategy",
+    "Constitutional defense"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
+}

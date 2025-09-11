@@ -1,9 +1,9 @@
 {
   "id": "2025-06-05--this-is-how-much-trump-has-made-from-crypto-so-far",
   "date": "2025-06-05",
-  "title": "This is how much Trump has made from crypto—so far",
-  "summary": "Trump has made $1.2 billion from cryptocurrency ventures—including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across his 2024 presidential campaign and deals in his second term",
-  "description": "Trump has made $1.2 billion from cryptocurrency ventures—including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin—across his 2024 presidential campaign and deals in his second term",
+  "title": "This is how much Trump has made from crypto\u2014so far",
+  "summary": "Trump has made $1.2 billion from cryptocurrency ventures\u2014including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin\u2014across his 2024 presidential campaign and deals in his second term",
+  "description": "Trump has made $1.2 billion from cryptocurrency ventures\u2014including NFTs, $TRUMP memecoins, token sales from World Liberty Financial, and a $2.2 billion stablecoin\u2014across his 2024 presidential campaign and deals in his second term",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -19,13 +19,13 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "This is how much Trump has made from crypto—so far",
+      "title": "This is how much Trump has made from crypto\u2014so far",
       "url": "https://www.forbes.com/sites/danalexander/2025/06/05/this-is-how-much-trump-has-made-from-crypto-so-far/",
       "outlet": "Forbes",
       "date": "2025-06-05"
     },
     {
-      "title": "Crypto Has Made Trump $1.2 BILLION Richer – and Counting",
+      "title": "Crypto Has Made Trump $1.2 BILLION Richer \u2013 and Counting",
       "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677",
       "outlet": "House Financial Services Democrats",
       "date": "2025-06-05"
@@ -53,5 +53,11 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

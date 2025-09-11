@@ -1,7 +1,7 @@
 {
   "id": "2025-05-12--elon-musk-s-boring-company-is-in-talks-with-government-over-",
   "date": "2025-05-12",
-  "title": "Elon Musk’s Boring Company is in talks with government over Amtrak project",
+  "title": "Elon Musk\u2019s Boring Company is in talks with government over Amtrak project",
   "summary": "The Federal Railroad Administration solicited Elon Musk's Boring Company for help with a multi-billion dollar Amtrak tunneling project",
   "description": "The Federal Railroad Administration solicited Elon Musk's Boring Company for help with a multi-billion dollar Amtrak tunneling project",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Elon Musk’s Boring Company is in talks with government over Amtrak project",
+      "title": "Elon Musk\u2019s Boring Company is in talks with government over Amtrak project",
       "url": "https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html",
       "outlet": "New York Times",
       "date": "2025-05-12"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

@@ -10,9 +10,21 @@
   ],
   "importance": 9,
   "sources": [
-    "FEC filings",
-    "Trump endorsement statement",
-    "Super PAC records"
+    {
+      "title": "FEC filings",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Trump endorsement statement",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Super PAC records",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "trump-endorsement",
@@ -22,5 +34,8 @@
   ],
   "status": "confirmed",
   "id": "2022-04-15--trump-endorses-vance-after-thiel-5m-investment-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

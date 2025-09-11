@@ -13,10 +13,26 @@
     "Gerard Ryle"
   ],
   "sources": [
-    "https://www.icij.org/investigations/panama-papers/",
-    "https://www.bbc.com/news/world-35918844",
-    "https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore",
-    "https://www.sueddeutsche.de/thema/Panama_Papers"
+    {
+      "title": "https://www.icij.org/investigations/panama-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-35918844",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.sueddeutsche.de/thema/Panama_Papers",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 10,
   "tags": [
@@ -30,5 +46,12 @@
   ],
   "status": "confirmed",
   "id": "2016-04-03--panama-papers-released--massive-global-financial-scandal-exposed-1757455465",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-35"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-35",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

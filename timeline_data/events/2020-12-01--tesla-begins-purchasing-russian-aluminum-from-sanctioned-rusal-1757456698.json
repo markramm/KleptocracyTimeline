@@ -10,8 +10,16 @@
   ],
   "importance": 7,
   "sources": [
-    "Metal.com",
-    "Russian Influence Networks analysis"
+    {
+      "title": "Metal.com",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "tesla-russia",
@@ -21,5 +29,8 @@
   ],
   "status": "confirmed",
   "id": "2020-12-01--tesla-begins-purchasing-russian-aluminum-from-sanctioned-rusal-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

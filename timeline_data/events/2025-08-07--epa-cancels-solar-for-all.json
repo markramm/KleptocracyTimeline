@@ -42,5 +42,10 @@
       "outlet": "Renewable Energy World",
       "date": "2025-08-07"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "id": "2025-03-31--trump-doj-fires-50-prosecutors",
+  "date": "2025-03-31",
+  "title": "Trump Administration Fires 50 Prosecutors and Deputies in DOJ Overhaul",
+  "summary": "Trump administration expands prosecutor purge by firing 50 prosecutors and deputy prosecutors in systematic DOJ overhaul designed to eliminate career officials who investigated Trump or his allies. The mass firings represent unprecedented targeting of career Justice Department personnel, breaking decades of tradition that insulates prosecutors from political interference. Critics warn the systematic removal of experienced prosecutors creates 'chilling effect' designed to deter future investigations of Trump administration, while compromising DOJ's institutional independence. The coordinated purge demonstrates systematic weaponization where Justice Department becomes instrument of political retaliation rather than impartial law enforcement agency.",
+  "importance": 9,
+  "tags": [
+    "doj_weaponization",
+    "prosecutor_purge",
+    "mass_firings",
+    "trump_administration",
+    "institutional_destruction",
+    "political_retaliation"
+  ],
+  "actors": [
+    "Trump Administration",
+    "Department of Justice",
+    "Career Prosecutors"
+  ],
+  "sources": [
+    {
+      "url": "https://www.axios.com/2025/03/31/trump-doj-prosecutors-fired",
+      "title": "Trump admin fires 50 prosecutors and deputies in DOJ overhaul",
+      "outlet": "Axios",
+      "date": "2025-03-31"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

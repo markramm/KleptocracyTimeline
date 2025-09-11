@@ -40,5 +40,8 @@
       "date": "2018-09-20"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

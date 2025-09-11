@@ -43,5 +43,8 @@
     }
   ],
   "notes": "First major law firm to capitulate to economic coercion",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

@@ -4,51 +4,35 @@
   "date": "2003-01-15",
   "description": "The White House Iraq Group formalizes systematic opposition research and critic monitoring apparatus designed to identify, track, and prepare coordinated responses against administration critics and potential whistleblowers. This institutional system maintains detailed files on intelligence professionals, journalists, former officials, and other potential sources of dissent, developing comprehensive character assassination materials and coordinated response strategies. The apparatus transforms WHIG from propaganda creation into active suppression of dissent, establishing institutional mechanisms for weaponizing government power against truthtellers and critics of Iraq War policy.",
   "category": "systematic-retaliation-infrastructure",
-  "actors": {
-    "primary": [
-      {
-        "name": "Karl Rove",
-        "role": "WHIG political strategist coordinating systematic critic surveillance",
-        "affiliation": "White House Iraq Group"
-      },
-      {
-        "name": "Scooter Libby",
-        "role": "WHIG member overseeing opposition research operations",
-        "affiliation": "White House Iraq Group"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "White House communications office staff",
-        "role": "Government personnel maintaining systematic critic files and response materials",
-        "affiliation": "Executive Branch"
-      },
-      {
-        "name": "Republican National Committee opposition research",
-        "role": "Political organization providing systematic critic monitoring support",
-        "affiliation": "Republican Party"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "Washington, DC",
   "sources": [
     {
       "title": "White House communications office opposition research files and critic databases",
       "type": "government-records",
       "credibility": 9,
-      "description": "Documentation of systematic character assassination preparation and critic monitoring"
+      "description": "Documentation of systematic character assassination preparation and critic monitoring",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "WHIG meeting minutes discussing institutional critic response strategies",
       "type": "government-records",
       "credibility": 10,
-      "description": "Internal planning documents showing systematic retaliation infrastructure development"
+      "description": "Internal planning documents showing systematic retaliation infrastructure development",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Justice Department investigations into administration retaliation patterns",
       "type": "government-records",
       "credibility": 9,
-      "description": "Official documentation of systematic government intimidation operations"
+      "description": "Official documentation of systematic government intimidation operations",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -86,5 +70,12 @@
   },
   "historical_significance": "The establishment of systematic critic monitoring and opposition research apparatus marked WHIG's evolution from propaganda creation to active suppression of dissent. This institutional infrastructure created systematic mechanisms for weaponizing government power against critics, establishing dangerous precedents for executive branch intimidation of whistleblowers, journalists, and dissenting officials that threatened democratic accountability.",
   "summary": "The White House Iraq Group formalizes systematic opposition research and critic monitoring apparatus designed to identify, track, and prepare coordinated responses against administration critics and potential whistleblowers. This institutional system maintains detailed files on intelligence professionals, journalists, former officials, and other potential sources of dissent, developing comprehensive character assassination materials and coordinated response strategies. The apparatus transforms WHIG from propaganda creation into active suppression of dissent, establishing institutional mechanisms for weaponizing government power against truthtellers and critics of Iraq War policy.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

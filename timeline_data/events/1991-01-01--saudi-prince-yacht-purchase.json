@@ -20,7 +20,7 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "A Saudi prince helped save Trump from bankruptcy—twice",
+      "title": "A Saudi prince helped save Trump from bankruptcy\u2014twice",
       "url": "https://finance.yahoo.com/news/saudi-prince-helped-save-trump-170443885.html",
       "outlet": "Yahoo Finance",
       "date": "2018-11-20"
@@ -38,5 +38,9 @@
       "date": "2018-06-14"
     }
   ],
-  "notes": "The yacht was originally named \"Nabila\" and was purchased by Trump from the Sultan of Brunei in 1988 for $29 million, then renamed \"Trump Princess.\" Prince Alwaleed renamed it \"Kingdom 5KR\" after purchase. Trump reportedly sailed on it only once - its maiden voyage from the Azores to New York harbor. In 1995, Prince Alwaleed would again rescue Trump by taking his 51% stake in the Plaza Hotel. This established a pattern of Saudi financial intervention during Trump's business crises, creating potential future conflicts of interest."
+  "notes": "The yacht was originally named \"Nabila\" and was purchased by Trump from the Sultan of Brunei in 1988 for $29 million, then renamed \"Trump Princess.\" Prince Alwaleed renamed it \"Kingdom 5KR\" after purchase. Trump reportedly sailed on it only once - its maiden voyage from the Azores to New York harbor. In 1995, Prince Alwaleed would again rescue Trump by taking his 51% stake in the Plaza Hotel. This established a pattern of Saudi financial intervention during Trump's business crises, creating potential future conflicts of interest.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

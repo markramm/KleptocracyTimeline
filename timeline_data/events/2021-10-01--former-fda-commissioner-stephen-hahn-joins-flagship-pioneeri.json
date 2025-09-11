@@ -1,0 +1,38 @@
+{
+  "id": "2021-10-01--former-fda-commissioner-stephen-hahn-joins-flagship-pioneeri",
+  "title": "Former FDA Commissioner Stephen Hahn Joins Flagship Pioneering Following Moderna COVID Vaccine Authorization",
+  "date": "2021-10-01",
+  "location": "Cambridge, MA, United States",
+  "category": "regulatory-capture",
+  "importance": 8,
+  "summary": "Former FDA Commissioner Stephen Hahn, who led the agency during the Emergency Use Authorization of Moderna's COVID-19 vaccines, took an executive-level position with Flagship Pioneering, the venture capital firm that launched Moderna. This transition occurred shortly after Hahn oversaw critical regulatory decisions regarding COVID-19 vaccine approvals under emergency protocols. Flagship Pioneering holds 20 million shares of Moderna stock, valued at $6.5 billion as of October 16, 2021, creating substantial financial interests tied to regulatory decisions Hahn made while at the FDA. The move exemplifies the revolving door between FDA leadership and pharmaceutical industry financial networks, where former regulators join companies that directly benefit from their previous regulatory decisions. This pattern extends beyond individual commissioners - all three companies with FDA-authorized COVID-19 shots (Pfizer, Moderna, and Johnson & Johnson) now employ former FDA commissioners, raising systemic concerns about regulatory capture and the independence of drug approval processes during public health emergencies.",
+  "actors": [
+    "Stephen Hahn",
+    "Flagship Pioneering",
+    "Moderna",
+    "Food and Drug Administration"
+  ],
+  "sources": [
+    {
+      "title": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "priority_id": "claude-priority-regulatory-capture-pharma-fda",
+  "tags": [
+    "needs_tags"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "2025-03-13--inside-elon-musk-s-digital-coup",
   "date": "2025-03-13",
-  "title": "Inside Elon Musk’s ‘digital coup’",
+  "title": "Inside Elon Musk\u2019s \u2018digital coup\u2019",
   "summary": "Elon Musk's operatives have rewritten federal systems, slashed budgets, and centralized power across government",
   "description": "Elon Musk's operatives have rewritten federal systems, slashed budgets, and centralized power across government",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Inside Elon Musk’s ‘digital coup’",
+      "title": "Inside Elon Musk\u2019s \u2018digital coup\u2019",
       "url": "https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/",
       "outlet": "Wired",
       "date": "2025-03-13"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

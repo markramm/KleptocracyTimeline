@@ -1,0 +1,42 @@
+{
+  "date": "2025-08-15",
+  "title": "Education Department Faces 50% Workforce Reduction",
+  "summary": "Education Secretary Linda McMahon initiates 50% workforce reduction while administration pushes legislation to completely abolish Department of Education, directly implementing Project 2025's recommendation to eliminate the department entirely.",
+  "actors": [
+    "Linda McMahon",
+    "Department of Education",
+    "Federal education workforce"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "Food Research & Action Center",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "ACLU",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "NPR",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "education-dismantling",
+    "department-elimination",
+    "workforce-cuts",
+    "federal-education"
+  ],
+  "status": "confirmed",
+  "id": "2025-08-15--education-department-faces-50-workforce-reduction",
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture"
+  ]
+}

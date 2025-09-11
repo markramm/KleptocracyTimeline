@@ -3,7 +3,7 @@
   "date": "2025-05-22",
   "importance": 6,
   "title": "GAO finds EV charging funds freeze violated Impoundment Control Act",
-  "summary": "GAO’s legal opinion B‑337137 concluded the administration violated the ICA by withholding congressionally appropriated NEVI funds. OMB/DOT did not cure the violation.",
+  "summary": "GAO\u2019s legal opinion B\u2011337137 concluded the administration violated the ICA by withholding congressionally appropriated NEVI funds. OMB/DOT did not cure the violation.",
   "tags": [
     "budget",
     "impoundment",
@@ -12,7 +12,7 @@
   ],
   "sources": [
     {
-      "title": "B-337137: Department of Transportation—Impoundment Control Act—NEVI Funds",
+      "title": "B-337137: Department of Transportation\u2014Impoundment Control Act\u2014NEVI Funds",
       "url": "https://www.gao.gov/products/b-337137",
       "outlet": "U.S. GAO",
       "date": "2025-05-22",
@@ -34,5 +34,11 @@
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
 }

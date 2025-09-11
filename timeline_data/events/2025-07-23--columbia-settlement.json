@@ -14,7 +14,9 @@
     "https://www.whitehouse.gov/fact-sheets/2025/07/19853"
   ],
   "id": "2025-07-23--columbia-settlement",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "",
   "status": "confirmed",
   "sources": [
@@ -30,5 +32,9 @@
       "outlet": "White House",
       "date": "2025-07-23"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
   ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-02-18--trump-administration-terminates-privacy-officials-at-agency-",
   "date": "2025-02-18",
   "title": "Trump administration terminates privacy officials at agency overseeing government hiring and firing",
-  "summary": "Trump terminated multiple members of the Office of Personnel Management’s privacy and communications teams—those tasked with handling FOIA requests and safeguarding public records—effectively cutting off external access to information—including info on security clearances granted to Elon Musk and his operatives",
-  "description": "Trump terminated multiple members of the Office of Personnel Management’s privacy and communications teams—those tasked with handling FOIA requests and safeguarding public records—effectively cutting off external access to information—including info on security clearances granted to Elon Musk and his operatives",
+  "summary": "Trump terminated multiple members of the Office of Personnel Management\u2019s privacy and communications teams\u2014those tasked with handling FOIA requests and safeguarding public records\u2014effectively cutting off external access to information\u2014including info on security clearances granted to Elon Musk and his operatives",
+  "description": "Trump terminated multiple members of the Office of Personnel Management\u2019s privacy and communications teams\u2014those tasked with handling FOIA requests and safeguarding public records\u2014effectively cutting off external access to information\u2014including info on security clearances granted to Elon Musk and his operatives",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -1,0 +1,34 @@
+{
+  "date": "1982-10-06",
+  "title": "Josemaria Escriva Beatified Despite Controversies",
+  "summary": "Pope John Paul II beatifies Opus Dei founder Josemaria Escriva in the fastest beatification process in modern Church history, despite opposition from theologians and allegations of Opus Dei's authoritarian practices. This rapid elevation strengthens Opus Dei's political influence and recruitment of conservative elites.",
+  "importance": 6,
+  "actors": [
+    "Pope John Paul II",
+    "Josemaria Escriva",
+    "Vatican"
+  ],
+  "sources": [
+    {
+      "title": "Escriva Beatification Ceremony",
+      "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_19920517_escriva_en.html",
+      "outlet": "Vatican"
+    },
+    {
+      "title": "Opus Dei Controversies Analysis",
+      "url": "https://www.ncronline.org/news/vatican/opus-dei-controversies-persist-despite-popes-defense",
+      "outlet": "National Catholic Reporter"
+    }
+  ],
+  "tags": [
+    "beatification",
+    "opus-dei",
+    "vatican-influence",
+    "conservative-catholicism"
+  ],
+  "status": "confirmed",
+  "id": "1982-10-06--josemaria-escriva-beatified-despite-controversies",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

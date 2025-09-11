@@ -8,7 +8,8 @@
     {
       "url": "https://www.salon.com/2004/06/16/chalabi_4/",
       "title": "How Chalabi and the Pentagon's Office of Special Plans Cooked Intelligence",
-      "type": "investigative_report"
+      "type": "investigative_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,10 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

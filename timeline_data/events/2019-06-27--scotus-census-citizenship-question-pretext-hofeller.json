@@ -3,7 +3,7 @@
   "date": "2019-06-27",
   "importance": 10,
   "title": "Supreme Court blocks 2020 Census citizenship question as 'contrived'; filings tie rationale to Hofeller partisan plan",
-  "summary": "In Department of Commerce v. New York, the Supreme Court held that the Secretary's stated\nrationale for adding a Census citizenship question was \"contrived\" and set aside the decision.\nSeparate court filings introduced the late GOP strategist Thomas Hofeller's 2015 study and\ndocuments indicating the citizenship question would advantage \"Republicans and Non‑Hispanic\nWhites\" and that Hofeller helped draft DOJ language used to justify the question.\n",
+  "summary": "In Department of Commerce v. New York, the Supreme Court held that the Secretary's stated\nrationale for adding a Census citizenship question was \"contrived\" and set aside the decision.\nSeparate court filings introduced the late GOP strategist Thomas Hofeller's 2015 study and\ndocuments indicating the citizenship question would advantage \"Republicans and Non\u2011Hispanic\nWhites\" and that Hofeller helped draft DOJ language used to justify the question.\n",
   "notes": "Balance the official Supreme Court ruling with the extensive record from plaintiffs showing the\npolitical advantage rationale in Hofeller's files; include motions introducing those documents.\n",
   "status": "confirmed",
   "actors": [
@@ -46,7 +46,7 @@
       "archive_url": "",
       "key_facts_confirmed": [
         {
-          "Hofeller study": "citizenship question advantages Republicans and Non‑Hispanic Whites"
+          "Hofeller study": "citizenship question advantages Republicans and Non\u2011Hispanic Whites"
         }
       ],
       "verified": true

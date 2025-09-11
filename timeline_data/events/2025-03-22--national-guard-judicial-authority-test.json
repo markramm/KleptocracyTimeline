@@ -1,0 +1,32 @@
+{
+  "id": "2025-03-22--national-guard-judicial-authority-test",
+  "date": "2025-03-22",
+  "title": "First Major Court Battle Over National Guard Deployment Authority",
+  "summary": "Federal District Court in D.C. issued landmark ruling challenging Trump administration's unilateral National Guard deployment powers. Court argued that gubernatorial consent and congressional oversight are constitutionally required, directly challenging executive branch claims of unlimited military mobilization authority.",
+  "importance": 8,
+  "actors": [
+    "Federal District Court",
+    "Department of Defense",
+    "State Governors"
+  ],
+  "tags": [
+    "national-guard",
+    "military-authority",
+    "constitutional-interpretation"
+  ],
+  "sources": [
+    {
+      "title": "Federal Court Ruling",
+      "url": "",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "2025-04-11--binance-seeks-to-curb-u-s-oversight-while-in-deal-talks-with",
   "date": "2025-04-11",
-  "title": "Binance seeks to curb U.S. oversight while in deal talks with Trump’s crypto company",
+  "title": "Binance seeks to curb U.S. oversight while in deal talks with Trump\u2019s crypto company",
   "summary": "Binance executives met with Treasury officials to request removal of U.S. monitor overseeing anti-money-laundering compliance while simultaneously negotiating deals with Trump's World Liberty Financial crypto venture",
   "description": "Binance CEO Richard Teng and Chief Legal Officer Eleanor Hughes asked Treasury officials to remove or reduce the scope of U.S. monitorship while the company was in talks to list USD1 stablecoin from Trump's World Liberty Financial",
   "status": "confirmed",
@@ -19,7 +19,7 @@
   "capture_type": "personnel_rewiring",
   "sources": [
     {
-      "title": "Binance seeks to curb U.S. oversight while in deal talks with Trump’s crypto company",
+      "title": "Binance seeks to curb U.S. oversight while in deal talks with Trump\u2019s crypto company",
       "url": "https://www.wsj.com/finance/regulation/binance-world-liberty-financial-crypto-deals-70c817c3?mod=hp_lead_pos6",
       "outlet": "Wall Street Journal",
       "date": "2025-04-11"
@@ -53,5 +53,11 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "2025-05-11--elon-musk-s-regulatory-woes-are-conveniently-vanishing-under",
   "date": "2025-05-11",
-  "title": "Elon Musk’s regulatory woes are conveniently vanishing under Trump",
-  "summary": "Over 40 regulatory cases involving Elon Musk’s companies–which face fines over $2.3 billion–have stalled or been dropped since the beginning of Trump’s second term",
-  "description": "Over 40 regulatory cases involving Elon Musk’s companies–which face fines over $2.3 billion–have stalled or been dropped since the beginning of Trump’s second term",
+  "title": "Elon Musk\u2019s regulatory woes are conveniently vanishing under Trump",
+  "summary": "Over 40 regulatory cases involving Elon Musk\u2019s companies\u2013which face fines over $2.3 billion\u2013have stalled or been dropped since the beginning of Trump\u2019s second term",
+  "description": "Over 40 regulatory cases involving Elon Musk\u2019s companies\u2013which face fines over $2.3 billion\u2013have stalled or been dropped since the beginning of Trump\u2019s second term",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Elon Musk’s regulatory woes are conveniently vanishing under Trump",
+      "title": "Elon Musk\u2019s regulatory woes are conveniently vanishing under Trump",
       "url": "https://www.rollingstone.com/politics/politics-news/elon-musk-regulatory-matters-under-trump-1235336699/",
       "outlet": "Rolling Stone",
       "date": "2025-05-11"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

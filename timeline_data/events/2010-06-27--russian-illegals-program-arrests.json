@@ -3,7 +3,7 @@
   "date": "2010-06-27",
   "importance": 5,
   "title": "DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and are swapped",
-  "summary": "The Department of Justice charged 11 individuals on June 27, 2010, for acting\nas unregistered agents of the Russian Federation. Ten pleaded guilty on July\n8, 2010, and were exchanged in a U.S.–Russia spy swap. The case, known as\n\"Operation Ghost Stories,\" involved covert communications and deep-cover\nidentities.\n",
+  "summary": "The Department of Justice charged 11 individuals on June 27, 2010, for acting\nas unregistered agents of the Russian Federation. Ten pleaded guilty on July\n8, 2010, and were exchanged in a U.S.\u2013Russia spy swap. The case, known as\n\"Operation Ghost Stories,\" involved covert communications and deep-cover\nidentities.\n",
   "actors": [
     "Anna Chapman",
     "US Department of Justice",
@@ -28,5 +28,10 @@
       "date": "2010-07-01"
     }
   ],
-  "notes": "Event framed with primary DOJ/FBI sources. Removed speculative linkages\nunrelated to the case record.\n"
+  "notes": "Event framed with primary DOJ/FBI sources. Removed speculative linkages\nunrelated to the case record.\n",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -42,5 +42,10 @@
       "outlet": "Star Tribune",
       "date": "2025-08-10"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

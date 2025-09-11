@@ -37,5 +37,11 @@
       "date": "2022-08-26"
     }
   ],
-  "notes": "Boxes also contained Trump's \"love letters\" with Kim Jong Un and a letter from Barack Obama.\nFederal agents found classified documents in 14 of the 15 boxes. Materials included signals\nintelligence and documents governed by special access programs (SAP). Of 337 total classified\ndocuments eventually recovered: 197 in January 2022, 38 in June 2022, and 102 in August search."
+  "notes": "Boxes also contained Trump's \"love letters\" with Kim Jong Un and a letter from Barack Obama.\nFederal agents found classified documents in 14 of the 15 boxes. Materials included signals\nintelligence and documents governed by special access programs (SAP). Of 337 total classified\ndocuments eventually recovered: 197 in January 2022, 38 in June 2022, and 102 in August search.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

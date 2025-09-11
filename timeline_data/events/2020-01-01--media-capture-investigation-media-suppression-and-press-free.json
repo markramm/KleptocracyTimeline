@@ -1,0 +1,37 @@
+{
+  "date": "2020-01-01",
+  "title": "Media Capture Investigation: Media Suppression and Press Freedom Attacks",
+  "summary": "Research into Media Suppression and Press Freedom Attacks reveals systematic patterns of information control and media manipulation. This investigation documents how corporate and political actors coordinate to capture media outlets and shape public discourse for systematic institutional capture.",
+  "actors": [
+    "Media Executives",
+    "Corporate Interests",
+    "Political Operatives"
+  ],
+  "sources": [
+    {
+      "title": "Media Ownership Studies",
+      "url": "https://www.freepress.net/our-response/expert-analysis/explainers/media-consolidation",
+      "outlet": "Free Press"
+    },
+    {
+      "title": "Corporate Media Analysis",
+      "url": "https://fair.org/",
+      "outlet": "FAIR"
+    }
+  ],
+  "tags": [
+    "media_capture",
+    "information_warfare",
+    "systematic_corruption",
+    "institutional_capture"
+  ],
+  "importance": 7,
+  "status": "confirmed",
+  "connections": [],
+  "contradictions": [],
+  "verification_status": "needs_verification",
+  "id": "2020-01-01--media-capture-investigation-media-suppression-and-press-free",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

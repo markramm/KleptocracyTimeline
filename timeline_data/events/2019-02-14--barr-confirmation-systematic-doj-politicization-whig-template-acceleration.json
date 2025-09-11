@@ -13,7 +13,7 @@
   "tags": [
     "doj-politicization",
     "whig-template-implementation",
-    "systematic-institutional-capture", 
+    "systematic-institutional-capture",
     "crisis-accelerated-capture",
     "executive-immunity-institutionalization",
     "law-enforcement-corruption",
@@ -31,7 +31,7 @@
     {
       "title": "Trump's Politicization of the Justice System",
       "url": "https://www.americanprogress.org/article/trumps-politicization-justice-system/",
-      "outlet": "Center for American Progress", 
+      "outlet": "Center for American Progress",
       "date": "2020-10-30"
     },
     {
@@ -42,7 +42,7 @@
     }
   ],
   "importance": 10,
-  "status": "confirmed", 
+  "status": "confirmed",
   "triggered_by": [
     "2003-05-01--powell-whig-template-establishes-crisis-accelerated-capture-blueprint",
     "2002-11-25--whig-establishes-executive-deception-infrastructure-constitutional-precedent",
@@ -54,5 +54,10 @@
     "Equal protection violations through selective law enforcement protecting executive allies",
     "Constitutional separation of powers corruption through executive capture of law enforcement"
   ],
-  "historical_significance": "Barr's confirmation marks the systematic acceleration of WHIG constitutional crisis template into comprehensive institutional capture, demonstrating how episodic crisis exploitation precedents enable permanent transformation of law enforcement from constitutional constraint into executive political weapon. This represents the culmination of WHIG precedent establishment enabling ongoing oligarchic governance through systematic corruption of accountability institutions."
+  "historical_significance": "Barr's confirmation marks the systematic acceleration of WHIG constitutional crisis template into comprehensive institutional capture, demonstrating how episodic crisis exploitation precedents enable permanent transformation of law enforcement from constitutional constraint into executive political weapon. This represents the culmination of WHIG precedent establishment enabling ongoing oligarchic governance through systematic corruption of accountability institutions.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

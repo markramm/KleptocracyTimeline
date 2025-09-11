@@ -36,5 +36,10 @@
     }
   ],
   "notes": "First time in history a presidential candidate owns publicly traded media company. Stock can be purchased by anyone including foreign governments. Creates direct path for influence buying.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

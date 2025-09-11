@@ -64,5 +64,8 @@
     }
   ],
   "notes": "John Oliver called anchors \"members of brainwashed cult.\" Exposed how Sinclair uses trusted local anchors to spread identical political messages. Major public backlash.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

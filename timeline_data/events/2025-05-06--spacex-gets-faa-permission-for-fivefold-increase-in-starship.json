@@ -2,8 +2,8 @@
   "id": "2025-05-06--spacex-gets-faa-permission-for-fivefold-increase-in-starship",
   "date": "2025-05-06",
   "title": "SpaceX gets FAA permission for fivefold increase in Starship launches from Texas",
-  "summary": "The FAA–where Elon Musk has installed several DOGE operatives–has increased SpaceX's allotted starship launches out of Boca Chica, Texas to 25 annually",
-  "description": "The FAA–where Elon Musk has installed several DOGE operatives–has increased SpaceX's allotted starship launches out of Boca Chica, Texas to 25 annually",
+  "summary": "The FAA\u2013where Elon Musk has installed several DOGE operatives\u2013has increased SpaceX's allotted starship launches out of Boca Chica, Texas to 25 annually",
+  "description": "The FAA\u2013where Elon Musk has installed several DOGE operatives\u2013has increased SpaceX's allotted starship launches out of Boca Chica, Texas to 25 annually",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-04-02--top-officials-leave-us-sec-s-anti-bribery-unit-sources-say",
   "date": "2025-04-02",
   "title": "Top officials leave US SEC's anti-bribery unit, sources say",
-  "summary": "Charles Cain and Tracy Price, the longtime heads of the SEC’s Foreign Corrupt Practices Act unit, are departing amid a broader exodus of officials following Trump’s order to pause anti-bribery enforcement",
-  "description": "Charles Cain and Tracy Price, the longtime heads of the SEC’s Foreign Corrupt Practices Act unit, are departing amid a broader exodus of officials following Trump’s order to pause anti-bribery enforcement",
+  "summary": "Charles Cain and Tracy Price, the longtime heads of the SEC\u2019s Foreign Corrupt Practices Act unit, are departing amid a broader exodus of officials following Trump\u2019s order to pause anti-bribery enforcement",
+  "description": "Charles Cain and Tracy Price, the longtime heads of the SEC\u2019s Foreign Corrupt Practices Act unit, are departing amid a broader exodus of officials following Trump\u2019s order to pause anti-bribery enforcement",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -35,5 +35,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

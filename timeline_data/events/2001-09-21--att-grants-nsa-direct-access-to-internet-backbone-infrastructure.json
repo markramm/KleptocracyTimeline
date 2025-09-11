@@ -8,7 +8,8 @@
     {
       "url": "https://www.eff.org/files/filenode/att/files/SB_Hepting_ATT_20060421.pdf",
       "title": "Hepting v. AT&T - EFF Lawsuit Documentation",
-      "type": "legal_filing"
+      "type": "legal_filing",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -25,5 +26,9 @@
   "actors": [
     "Bush Administration"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

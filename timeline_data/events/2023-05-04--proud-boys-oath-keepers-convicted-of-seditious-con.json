@@ -39,5 +39,8 @@
       "outlet": "House January 6 Committee",
       "date": "2022-12-22"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture"
   ]
 }

@@ -43,5 +43,9 @@
     }
   ],
   "notes": "Protections later violated by Trump administration in 2025",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
 }

@@ -43,5 +43,10 @@
       "outlet": "Axios",
       "date": "2023-06-30"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Executive Power Expansion"
   ]
 }

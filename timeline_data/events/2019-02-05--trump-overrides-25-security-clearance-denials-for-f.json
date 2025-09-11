@@ -39,5 +39,12 @@
       "outlet": "Washington Post",
       "date": "2019-04-03"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

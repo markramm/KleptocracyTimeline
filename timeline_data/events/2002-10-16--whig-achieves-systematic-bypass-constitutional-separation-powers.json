@@ -6,7 +6,7 @@
   "summary": "President Bush signs the Authorization for Use of Military Force Against Iraq Resolution, marking the successful culmination of WHIG's systematic campaign to bypass constitutional separation of powers through coordinated congressional deception. The signed authorization represents not legitimate legislative deliberation but the product of WHIG's institutional corruption of the constitutional relationship between executive and legislative branches. Through fabricated intelligence briefings, coordinated agency deception, systematic withholding of contradictory evidence, and targeted manipulation of congressional skeptics, WHIG transformed the constitutional requirement for congressional war authorization from meaningful deliberative check on executive power into rubber-stamp approval based on manufactured evidence. The authorization signing ceremony celebrates not democratic decision-making but the successful corruption of constitutional governance, demonstrating that systematic executive branch deception can effectively nullify legislative oversight of war powers. WHIG's achievement represents a fundamental constitutional crisis: the executive branch has demonstrated that coordinated propaganda campaigns can manipulate Congress into authorizing military action based on fabricated rather than genuine intelligence analysis. This precedent establishes the institutional framework for systematic executive deception of Congress, corrupting the foundational principle of checks and balances that constrains executive power in democratic societies.",
   "actors": [
     "George W. Bush",
-    "White House Iraq Group", 
+    "White House Iraq Group",
     "U.S. Congress",
     "Constitutional Framework",
     "Andrew Card",
@@ -46,5 +46,11 @@
       "outlet": "Little, Brown and Company",
       "date": "2007-06-05"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

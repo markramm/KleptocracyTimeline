@@ -40,5 +40,12 @@
       "outlet": "BBC",
       "date": "2020-08-20"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-07-24--fcc-approves-8-billion-paramount-skydance-merger",
   "date": "2025-07-24",
   "title": "FCC approves $8 billion Paramount-Skydance merger",
-  "summary": "The FCC approved Paramount’s merger deal with Skydance—after the media company paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show with Stephen Colbert",
-  "description": "The FCC approved Paramount’s merger deal with Skydance—after the media company paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show with Stephen Colbert",
+  "summary": "The FCC approved Paramount\u2019s merger deal with Skydance\u2014after the media company paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show with Stephen Colbert",
+  "description": "The FCC approved Paramount\u2019s merger deal with Skydance\u2014after the media company paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show with Stephen Colbert",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -59,5 +59,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

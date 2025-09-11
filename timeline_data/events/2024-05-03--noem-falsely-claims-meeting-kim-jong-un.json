@@ -36,5 +36,9 @@
       "date": "2024-05-07"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture"
+  ]
 }

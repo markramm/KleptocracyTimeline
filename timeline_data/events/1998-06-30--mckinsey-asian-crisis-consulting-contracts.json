@@ -1,0 +1,33 @@
+{
+  "id": "1998-06-30--mckinsey-asian-crisis-consulting-contracts",
+  "date": "1998-06-30",
+  "title": "McKinsey Leverages Asian Financial Crisis for Consulting Expansion",
+  "summary": "McKinsey & Company secures unprecedented consulting contracts across Thailand, Indonesia, and South Korea, helping restructure economies in ways that systematically benefit Western corporate interests. These contracts represent a significant mechanism of economic shock therapy.",
+  "importance": 8,
+  "actors": [
+    "McKinsey & Company",
+    "IMF",
+    "World Bank",
+    "Asian Governments"
+  ],
+  "sources": [
+    {
+      "title": "McKinsey's Role in Asian Financial Crisis",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-economics",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "mckinsey",
+    "consulting",
+    "structural_adjustment",
+    "economic_shock_therapy",
+    "asian_financial_crisis"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

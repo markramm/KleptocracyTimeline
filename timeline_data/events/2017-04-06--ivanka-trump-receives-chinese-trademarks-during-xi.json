@@ -38,5 +38,11 @@
       "outlet": "CNBC",
       "date": "2018-11-06"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
   ]
 }

@@ -23,5 +23,10 @@
       "outlet": "Supreme Court",
       "date": "2010-01-21"
     }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Electoral Manipulation"
   ]
 }

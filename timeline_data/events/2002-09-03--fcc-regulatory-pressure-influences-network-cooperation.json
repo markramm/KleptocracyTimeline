@@ -4,51 +4,35 @@
   "date": "2002-09-03",
   "description": "Federal Communications Commission regulatory pressures and implied licensing threats create systematic incentives for television networks to cooperate with government messaging and avoid challenging administration narratives. Network executives recognize that maintaining positive relationships with the administration provides regulatory advantages while adversarial coverage could result in licensing complications, merger difficulties, and other regulatory obstacles. This regulatory capture mechanism transforms supposedly independent media oversight into government propaganda facilitation, demonstrating how regulatory agencies can systematically compromise media independence through licensing leverage.",
   "category": "regulatory-media-capture",
-  "actors": {
-    "primary": [
-      {
-        "name": "FCC commissioners",
-        "role": "Federal regulators creating systematic pressure for network cooperation",
-        "affiliation": "Federal Communications Commission"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "Network corporate legal departments",
-        "role": "Corporate attorneys advising executives on regulatory compliance advantages",
-        "affiliation": "Major television networks"
-      },
-      {
-        "name": "Media corporation executives",
-        "role": "Corporate leaders recognizing regulatory incentives for government cooperation",
-        "affiliation": "Television network parent companies"
-      },
-      {
-        "name": "White House communications staff",
-        "role": "Government personnel leveraging regulatory relationships for media cooperation",
-        "affiliation": "Executive Branch"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "Washington, DC",
   "sources": [
     {
       "title": "FCC correspondence and licensing records with major television networks",
       "type": "government-records",
       "credibility": 9,
-      "description": "Official documentation of regulatory pressure mechanisms"
+      "description": "Official documentation of regulatory pressure mechanisms",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Network legal department analyses of regulatory compliance advantages",
       "type": "corporate-records",
       "credibility": 8,
-      "description": "Internal corporate assessments of government cooperation benefits"
+      "description": "Internal corporate assessments of government cooperation benefits",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Congressional oversight hearings on FCC media regulation practices",
       "type": "congressional-records",
       "credibility": 9,
-      "description": "Legislative investigation of regulatory capture mechanisms"
+      "description": "Legislative investigation of regulatory capture mechanisms",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -82,5 +66,11 @@
       "administrative-state-media-pressure"
     ]
   },
-  "historical_significance": "FCC regulatory pressures creating systematic incentives for network cooperation with government propaganda demonstrated how regulatory capture could systematically compromise media independence. This mechanism established how government agencies could leverage regulatory authority to transform independent media oversight into compliant government messaging, creating institutional incentives for corporate abandonment of journalistic principles."
+  "historical_significance": "FCC regulatory pressures creating systematic incentives for network cooperation with government propaganda demonstrated how regulatory capture could systematically compromise media independence. This mechanism established how government agencies could leverage regulatory authority to transform independent media oversight into compliant government messaging, creating institutional incentives for corporate abandonment of journalistic principles.",
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
 }

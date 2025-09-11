@@ -1,0 +1,41 @@
+{
+  "date": "2024-11-04",
+  "title": "Meta Provides Llama AI Models to US Government and Military Contractors",
+  "summary": "Meta announced that its open-source Llama models would be made available to US government agencies and private sector defense contractors, representing a strategic shift from previous military use prohibitions to deep integration with national security infrastructure.\n\nMeta partnered with major technology and consulting firms including Accenture Federal Services, Amazon Web Services, Anduril, Booz Allen, Databricks, Deloitte, IBM, Leidos, Lockheed Martin, Microsoft, Oracle, Palantir, Scale AI and Snowflake to bring Llama models to government agencies and military applications.\n\nThe partnership includes Space Llama, deployed on the International Space Station through Booz Allen's collaboration with HPE's Spaceborne Computer-2, demonstrating the reach of corporate AI integration into critical government infrastructure. Oracle is already using Llama to synthesize aircraft maintenance documents, potentially affecting military readiness and operations.\n\nThis government integration strategy allows Meta to position Llama as essential national security infrastructure while maintaining the 'open source' narrative that differentiates it from competitors. The move comes amid mounting regulatory challenges, suggesting government partnerships serve as protection against adverse regulation while expanding market dominance through public sector adoption.",
+  "actors": [
+    "Meta",
+    "Mark Zuckerberg",
+    "US government agencies",
+    "Lockheed Martin",
+    "Palantir",
+    "Oracle",
+    "Booz Allen"
+  ],
+  "tags": [
+    "ai_governance",
+    "military_contracts",
+    "open_source",
+    "regulatory_capture",
+    "national_security"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "https://www.cio.com/article/3599448/meta-offers-llama-ai-to-us-government-for-national-security.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://about.fb.com/news/2025/04/space-llama-metas-open-source-ai-model-heading-into-orbit/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2024-11-04--meta-provides-llama-ai-models-to-us-government-and",
+  "priority_id": "RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

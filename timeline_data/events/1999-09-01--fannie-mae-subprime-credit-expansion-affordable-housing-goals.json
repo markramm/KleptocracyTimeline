@@ -1,0 +1,44 @@
+{
+  "id": "1999-09-01--fannie-mae-subprime-credit-expansion-affordable-housing-goals",
+  "date": "1999-09-01",
+  "title": "Fannie Mae Eases Credit Requirements Under HUD Affordable Housing Pressure",
+  "summary": "Fannie Mae significantly relaxes credit requirements to meet HUD-mandated affordable housing goals, encouraging banks to extend loans to borrowers with credit scores below conventional standards. This government-sponsored enterprise policy change, coordinated with banking industry lobbying, catalyzes massive growth in subprime lending from 0 billion in 1994 to over 60 billion by 2000. The policy demonstrates institutional capture where regulatory agencies serve industry profit motives under the guise of social policy. Banks exploited these loosened standards to originate high-risk mortgages they could securitize and sell, transferring risk to taxpayers through GSE backing while retaining origination fees.",
+  "importance": 8,
+  "actors": [
+    "Fannie Mae",
+    "Franklin Raines",
+    "HUD",
+    "Andrew Cuomo",
+    "Mortgage Bankers Association",
+    "National Association of Realtors"
+  ],
+  "tags": [
+    "fannie_mae",
+    "subprime_expansion",
+    "credit_standards",
+    "affordable_housing",
+    "gse_capture",
+    "systemic_risk"
+  ],
+  "sources": [
+    {
+      "title": "HUD Increases Affordable Housing Goals",
+      "url": "https://www.huduser.gov/portal/periodicals/ushmc/fall99/fall99.html",
+      "outlet": "HUD",
+      "date": "1999-09-01"
+    },
+    {
+      "title": "Fannie Mae Eases Credit Requirements",
+      "url": "https://www.nytimes.com/1999/09/30/business/fannie-mae-eases-credit-to-aid-mortgage-lending.html",
+      "outlet": "New York Times",
+      "date": "1999-09-30"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

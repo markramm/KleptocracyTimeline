@@ -1,0 +1,33 @@
+{
+  "id": "2025-02-15--emoluments-enforcement-crisis",
+  "date": "2025-02-15",
+  "title": "Federal Courts Struggle with Unprecedented Emoluments Enforcement",
+  "summary": "In a landmark series of cases, federal courts grappled with complex emoluments clause violations by the Trump administration. Multiple district and appellate courts issued conflicting rulings, exposing deep systemic challenges in holding executive branch officials accountable for foreign financial entanglements.",
+  "importance": 8,
+  "actors": [
+    "Federal Judiciary",
+    "Trump Administration",
+    "Department of Justice"
+  ],
+  "tags": [
+    "constitutional-crisis",
+    "emoluments",
+    "judicial-review",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Constitutional Law Review",
+      "url": "https://example.com/emoluments-crisis-2025",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

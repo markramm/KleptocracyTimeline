@@ -41,5 +41,8 @@
     "oversight-destruction",
     "accountability-evasion"
   ],
-  "notes": "This event represents significant kleptocratic capture and institutional destruction."
+  "notes": "This event represents significant kleptocratic capture and institutional destruction.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

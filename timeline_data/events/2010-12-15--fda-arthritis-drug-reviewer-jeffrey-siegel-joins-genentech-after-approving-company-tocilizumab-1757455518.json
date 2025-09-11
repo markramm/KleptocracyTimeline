@@ -10,8 +10,16 @@
     "Actemra"
   ],
   "sources": [
-    "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
-    "https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry"
+    {
+      "title": "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 7,
   "tags": [
@@ -23,5 +31,9 @@
   ],
   "status": "confirmed",
   "id": "2010-12-15--fda-arthritis-drug-reviewer-jeffrey-siegel-joins-genentech-after-approving-company-tocilizumab-1757455518",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

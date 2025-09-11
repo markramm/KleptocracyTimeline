@@ -2,8 +2,8 @@
   "id": "2025-02-25--trump-to-launch-gold-card-visa-program-for-5-million-to-the-",
   "date": "2025-02-25",
   "title": "Trump to launch 'gold card' visa program for $5 million to the rich",
-  "summary": "Trump proposed a new “Gold Card” visa program granting residency and a path to citizenship for foreign investors—including Russian oligarchs he specifically mentioned—who pay $5 million",
-  "description": "Trump proposed a new “Gold Card” visa program granting residency and a path to citizenship for foreign investors—including Russian oligarchs he specifically mentioned—who pay $5 million",
+  "summary": "Trump proposed a new \u201cGold Card\u201d visa program granting residency and a path to citizenship for foreign investors\u2014including Russian oligarchs he specifically mentioned\u2014who pay $5 million",
+  "description": "Trump proposed a new \u201cGold Card\u201d visa program granting residency and a path to citizenship for foreign investors\u2014including Russian oligarchs he specifically mentioned\u2014who pay $5 million",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -52,5 +52,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

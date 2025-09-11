@@ -1,0 +1,39 @@
+{
+  "date": "2024-07-01",
+  "title": "Paul Pelosi Visa Stock Sale Controversy",
+  "summary": "Paul Pelosi, husband of former House Speaker Nancy Pelosi, sold 2,000 shares of Visa worth between 00,001 and  million on July 1, 2024. This transaction became controversial when the Department of Justice filed a civil antitrust lawsuit against Visa on September 24 for monopolizing the debit market. The sale followed a pattern of well-timed trades by Paul Pelosi, including previous transactions involving Nvidia, Google, and Palo Alto Networks that coincided with significant legislative or policy developments. Critics argued that the couple's trades, which yielded a 54% portfolio return in 2024 compared to the S&P 500's 25%, suggested unfair advantage from non-public information. Senator Rick Scott called for a GAO audit of Nancy Pelosi's trading history, while the controversy prompted renewed legislative efforts including the HONEST Act to ban lawmakers and their spouses from trading stocks. The case exemplified ongoing concerns about congressional insider trading despite existing disclosure requirements.",
+  "actors": [
+    "Paul Pelosi",
+    "Nancy Pelosi",
+    "Rick Scott",
+    "Visa Inc.",
+    "Department of Justice"
+  ],
+  "sources": [
+    {
+      "title": "https://www.foxbusiness.com/politics/nancy-pelosis-husband-sold-more-than-500k-visa-stock-ahead-doj-action",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.rickscott.senate.gov/2025/8/sen-rick-scott-calls-for-gao-review-of-nancy-pelosi-s-trading-history",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "congressional-corruption",
+    "insider-trading",
+    "market-manipulation",
+    "regulatory-capture"
+  ],
+  "status": "confirmed",
+  "id": "2024-07-01--paul-pelosi-visa-stock-sale-controversy",
+  "priority_id": "RT-EE57E913-congressional-insider-trading",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2025-01-20",
+  "title": "Coordinated Federal Workforce Purge: Schedule F and DOJ Personnel Removal",
+  "summary": "Trump reinstates Schedule F on first day of second presidency while simultaneously firing DOJ prosecutors involved in Trump investigations, demonstrating coordinated systematic approach to institutional capture. Actions include dismissing special counsel prosecutors Molly Gaston, J.P. Cooney, Anne McNamara and Mary Dohrmann, while directing agencies to identify 50,000 federal workers for reclassification under Schedule F.",
+  "actors": [
+    "Donald Trump",
+    "DOJ Personnel",
+    "Office of Personnel Management",
+    "Federal Agencies"
+  ],
+  "sources": [
+    {
+      "title": "Trump administration fires DOJ officials who worked on criminal investigations of the president",
+      "url": "https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512",
+      "outlet": "NBC News"
+    }
+  ],
+  "importance": 10,
+  "tags": [
+    "schedule_f",
+    "doj_purge",
+    "systematic_coordination",
+    "institutional_capture",
+    "federal_workforce"
+  ],
+  "status": "confirmed",
+  "id": "2025-01-20--coordinated-federal-workforce-purge-schedule-f-doj",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

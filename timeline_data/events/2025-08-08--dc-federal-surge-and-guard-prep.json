@@ -3,7 +3,7 @@
   "date": "2025-08-08",
   "importance": 6,
   "title": "White House orders federal surge in D.C.; FBI agents patrol streets; Guard activation prepared",
-  "summary": "The White House announced an increased federal law‑enforcement presence in Washington, D.C. Reports indicated ~120 FBI agents on street patrols and preparations to activate hundreds of D.C. National Guard members.",
+  "summary": "The White House announced an increased federal law\u2011enforcement presence in Washington, D.C. Reports indicated ~120 FBI agents on street patrols and preparations to activate hundreds of D.C. National Guard members.",
   "tags": [
     "federal",
     "law-enforcement",
@@ -33,5 +33,14 @@
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "2025-05-12--fcc-threatens-charlie-ergen-s-hold-on-satellite-5g-spectrum-",
   "date": "2025-05-12",
-  "title": "FCC threatens Charlie Ergen’s hold on satellite, 5G spectrum licenses",
-  "summary": "FCC Chair Brendan Carr accused telecoms company EchoStar of underutilizing its 5G and satellite spectrum licenses following a complaint from SpaceX–which stands to gain from a potential reallocation of licenses",
-  "description": "FCC Chair Brendan Carr accused telecoms company EchoStar of underutilizing its 5G and satellite spectrum licenses following a complaint from SpaceX–which stands to gain from a potential reallocation of licenses",
+  "title": "FCC threatens Charlie Ergen\u2019s hold on satellite, 5G spectrum licenses",
+  "summary": "FCC Chair Brendan Carr accused telecoms company EchoStar of underutilizing its 5G and satellite spectrum licenses following a complaint from SpaceX\u2013which stands to gain from a potential reallocation of licenses",
+  "description": "FCC Chair Brendan Carr accused telecoms company EchoStar of underutilizing its 5G and satellite spectrum licenses following a complaint from SpaceX\u2013which stands to gain from a potential reallocation of licenses",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "FCC threatens Charlie Ergen’s hold on satellite, 5G spectrum licenses",
+      "title": "FCC threatens Charlie Ergen\u2019s hold on satellite, 5G spectrum licenses",
       "url": "https://www.wsj.com/business/telecom/fcc-threatens-charlie-ergens-hold-on-satellite-5g-spectrum-licenses-e2913889?mod=lead_feature_below_a_pos2",
       "outlet": "Wall Street Journal",
       "date": "2025-05-12"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

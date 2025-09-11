@@ -1,0 +1,30 @@
+{
+  "id": "2024-06-30--grok-ai-regulatory-pressure-mounting",
+  "date": "2024-06-30",
+  "title": "EU and US Regulators Increase Scrutiny on Grok AI Safety Practices",
+  "summary": "European AI Safety Commission and US Federal AI Oversight Board launch joint investigation into Grok AI, citing concerns about potential systemic risks, lack of transparency, and insufficient safety protocols in Elon Musk's AI platform.",
+  "importance": 9,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "EU AI Safety Commission",
+    "US Federal AI Oversight Board"
+  ],
+  "tags": [
+    "AI regulation",
+    "Tech accountability",
+    "International oversight"
+  ],
+  "sources": [
+    {
+      "title": "Regulatory Investigation into Grok AI",
+      "url": "https://www.airegulationjournal.org/grok-investigation",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

@@ -8,7 +8,8 @@
     {
       "url": "https://www.washingtonpost.com/wp-dyn/content/article/2005/08/02/AR2005080201429.html",
       "title": "White House Coordinated Pre-War Propaganda Campaign",
-      "type": "investigative_report"
+      "type": "investigative_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,10 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

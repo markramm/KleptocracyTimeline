@@ -34,5 +34,11 @@
   "created_from": "research-priority-RT-022-media-regulatory-capture-coordination",
   "created_date": "2025-09-06T03:41:26.657370",
   "category": "constitutional-crisis",
-  "verification_status": "documented"
+  "verification_status": "documented",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

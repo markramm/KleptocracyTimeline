@@ -2,8 +2,8 @@
   "id": "2025-03-25--musk-s-super-pac-jumps-into-florida-s-special-elections",
   "date": "2025-03-25",
   "title": "Musk's super PAC jumps into Florida's special elections",
-  "summary": "Elon Musk’s America PAC has started spending in two Republican-held Florida House races ahead of next week’s special elections",
-  "description": "Elon Musk’s America PAC has started spending in two Republican-held Florida House races ahead of next week’s special elections",
+  "summary": "Elon Musk\u2019s America PAC has started spending in two Republican-held Florida House races ahead of next week\u2019s special elections",
+  "description": "Elon Musk\u2019s America PAC has started spending in two Republican-held Florida House races ahead of next week\u2019s special elections",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
 }

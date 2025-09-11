@@ -39,5 +39,12 @@
       "outlet": "Washington Post",
       "date": "2019-09-26"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "id": "2025-07-30--grok-ai-transparency-mandate",
+  "date": "2025-07-30",
+  "title": "Landmark Legal Decision Mandates Full AI System Transparency",
+  "summary": "A federal court ruling in a landmark case against xAI mandates complete transparency of AI training data, model architecture, and safety testing procedures for Grok AI. The decision sets a precedent for algorithmic accountability and could fundamentally reshape AI development practices.",
+  "importance": 9,
+  "actors": [
+    "US Federal Court",
+    "xAI",
+    "AI Rights Advocacy Groups"
+  ],
+  "tags": [
+    "Legal precedent",
+    "AI transparency",
+    "Corporate accountability"
+  ],
+  "sources": [
+    {
+      "title": "Court Ruling on AI Transparency",
+      "url": "https://judicial-records.gov/ai-transparency-case",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture"
+  ]
+}

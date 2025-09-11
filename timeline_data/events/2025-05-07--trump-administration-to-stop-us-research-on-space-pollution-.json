@@ -2,8 +2,8 @@
   "id": "2025-05-07--trump-administration-to-stop-us-research-on-space-pollution-",
   "date": "2025-05-07",
   "title": "Trump administration to stop US research on space pollution, in boon to Elon Musk",
-  "summary": "The Trump administration moved to end federal research into space pollution from satellites and rockets, much of which is caused by SpaceX–which ultimately could have led to new regulations for private space exploration companies like Musk's",
-  "description": "The Trump administration moved to end federal research into space pollution from satellites and rockets, much of which is caused by SpaceX–which ultimately could have led to new regulations for private space exploration companies like Musk's",
+  "summary": "The Trump administration moved to end federal research into space pollution from satellites and rockets, much of which is caused by SpaceX\u2013which ultimately could have led to new regulations for private space exploration companies like Musk's",
+  "description": "The Trump administration moved to end federal research into space pollution from satellites and rockets, much of which is caused by SpaceX\u2013which ultimately could have led to new regulations for private space exploration companies like Musk's",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

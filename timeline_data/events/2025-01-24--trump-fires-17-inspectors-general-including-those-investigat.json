@@ -43,5 +43,11 @@
     "crony-protection",
     "legal-violations"
   ],
-  "notes": "This event represents significant kleptocratic capture and institutional destruction."
+  "notes": "This event represents significant kleptocratic capture and institutional destruction.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
 }

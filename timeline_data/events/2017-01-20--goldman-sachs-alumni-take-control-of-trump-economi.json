@@ -39,5 +39,11 @@
       "outlet": "Wikipedia",
       "date": "2024-01-01"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

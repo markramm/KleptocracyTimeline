@@ -39,5 +39,11 @@
       "outlet": "CNN",
       "date": "2019-03-05"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

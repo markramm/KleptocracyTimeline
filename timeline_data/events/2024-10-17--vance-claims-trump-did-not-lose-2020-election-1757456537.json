@@ -9,8 +9,16 @@
   ],
   "importance": 10,
   "sources": [
-    "Interview transcript",
-    "Media coverage"
+    {
+      "title": "Interview transcript",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Media coverage",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "election-denial",
@@ -20,5 +28,8 @@
   ],
   "status": "confirmed",
   "id": "2024-10-17--vance-claims-trump-did-not-lose-2020-election-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
 }

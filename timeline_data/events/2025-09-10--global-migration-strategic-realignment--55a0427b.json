@@ -1,0 +1,30 @@
+{
+  "id": "2025-09-10--global-migration-strategic-realignment--55a0427b",
+  "date": "2025-09-10",
+  "title": "Global Migration Patterns Shift Due to Demographic Pressures",
+  "summary": "Unprecedented demographic imbalances trigger massive global migration realignments. Countries with shrinking populations like Japan, South Korea, and parts of Europe are implementing aggressive immigration policies to counteract workforce decline. Simultaneously, regions with young populations become critical strategic assets.",
+  "importance": 7,
+  "actors": [
+    "International Migration Organization",
+    "United Nations Population Division",
+    "Global Workforce Monitoring Agency"
+  ],
+  "sources": [
+    {
+      "title": "Global Migration Trends 2025",
+      "url": "https://example.com/global-migration-report",
+      "outlet": "International Migration Research Center"
+    }
+  ],
+  "priority_id": "geopolitics-76e54a5a",
+  "tags": [
+    "migration",
+    "workforce",
+    "demographic-transition",
+    "global-strategic-shift"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

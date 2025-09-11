@@ -1,0 +1,33 @@
+{
+  "id": "2025-03-22--national-guard-deployment-legal-challenge",
+  "date": "2025-03-22",
+  "title": "Federal Courts Rule on National Guard Deployment Constitutionality",
+  "summary": "A consolidated panel of federal judges heard arguments challenging the president's authority to federalize and deploy National Guard units in multiple states. The hearings revealed deep constitutional tensions surrounding emergency powers, state sovereignty, and executive military deployment.",
+  "importance": 9,
+  "actors": [
+    "Federal Judiciary",
+    "National Guard",
+    "State Governors",
+    "Executive Branch"
+  ],
+  "tags": [
+    "national-guard",
+    "constitutional-crisis",
+    "military-authority",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Federal Courts Journal",
+      "url": "https://example.com/national-guard-deployment-ruling",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

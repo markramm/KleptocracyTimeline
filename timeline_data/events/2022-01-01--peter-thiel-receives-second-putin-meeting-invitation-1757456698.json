@@ -9,8 +9,16 @@
   ],
   "importance": 8,
   "sources": [
-    "Russian Influence Networks PDF",
-    "Intelligence reports"
+    {
+      "title": "Russian Influence Networks PDF",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Intelligence reports",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "thiel-targeting",
@@ -20,5 +28,9 @@
   ],
   "status": "confirmed",
   "id": "2022-01-01--peter-thiel-receives-second-putin-meeting-invitation-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -11,9 +11,21 @@
     "Corporate Executives"
   ],
   "sources": [
-    "Regulatory appointment tracking",
-    "Enforcement action analysis",
-    "Industry capture documentation"
+    {
+      "title": "Regulatory appointment tracking",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Enforcement action analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Industry capture documentation",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "status": "confirmed",
@@ -25,5 +37,9 @@
     "pattern-analysis"
   ],
   "id": "2025-03-10--regulatory-capture-template-replication-across-federal-agencies-documented-1757454988",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-22"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-22",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

@@ -1,0 +1,32 @@
+{
+  "id": "2025-04-10--federal-judges-removal-crisis",
+  "date": "2025-04-10",
+  "title": "Mass Judicial Removal Attempt Triggers Constitutional Emergency",
+  "summary": "Trump administration initiated unprecedented moves to remove federal judges deemed obstructionist, invoking rarely used judicial review procedures. Multiple federal circuit courts issued emergency injunctions, creating a complex legal standoff that threatened judicial independence and separation of powers.",
+  "importance": 9,
+  "actors": [
+    "Trump Administration",
+    "Federal Judiciary",
+    "Department of Justice"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Emergency Response",
+      "url": "https://www.uscourts.gov/emergency-notices/2025",
+      "outlet": "US Courts Official Website"
+    }
+  ],
+  "tags": [
+    "judicial-independence",
+    "constitutional-crisis",
+    "executive-overreach"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1973-01-01--heritage-foundation-established-as-powell-memo-implementatio",
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "date": "1973-01-01",
+  "title": "Heritage Foundation Established as Powell Memo Implementation Vehicle",
+  "summary": "Joseph Coors establishes Heritage Foundation think tank, directly inspired by Powell Memorandum strategy. Represents first major institutional implementation of Powell plan for coordinated corporate influence through policy research organizations. Part of explosion in conservative think tanks following Powell blueprint including Business Roundtable (1972) and ALEC (1973).",
+  "actors": [
+    "Joseph Coors",
+    "Heritage Foundation",
+    "Edwin Feulner"
+  ],
+  "financial_impact": null,
+  "sources": [
+    {
+      "title": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "powell-memorandum-acceleration",
+    "heritage-foundation",
+    "think-tank-creation",
+    "institutional-coordination"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

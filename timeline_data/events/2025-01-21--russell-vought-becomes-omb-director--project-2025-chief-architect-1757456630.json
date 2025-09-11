@@ -9,8 +9,16 @@
   ],
   "importance": 9,
   "sources": [
-    "AFGE",
-    "Project 2025 Implementation PDF"
+    {
+      "title": "AFGE",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Project 2025 Implementation PDF",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "russell-vought",
@@ -20,5 +28,8 @@
   ],
   "status": "confirmed",
   "id": "2025-01-21--russell-vought-becomes-omb-director--project-2025-chief-architect-1757456630",
-  "priority_id": "project-2025-implementation-1757456630"
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

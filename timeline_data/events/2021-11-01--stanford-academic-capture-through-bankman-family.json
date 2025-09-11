@@ -1,0 +1,42 @@
+{
+  "id": "2021-11-01--stanford-academic-capture-through-bankman-family",
+  "title": "Joseph Bankman Orchestrates $5.5 Million FTX Donation Campaign to Stanford University",
+  "date": "2021-11-01",
+  "description": "SBF's father Joseph Bankman, a Stanford Law professor, directs $5.5 million in FTX customer funds to Stanford University between November 2021 and May 2022, including $4 million for pandemic preparedness research and $500,000 to Stanford Law School. The donations represented a systematic academic capture operation using family connections to legitimize FTX operations while enriching the Bankman family's institutional standing.",
+  "category": "academic_capture",
+  "tags": [
+    "stanford",
+    "academic_capture",
+    "joseph_bankman",
+    "family_enrichment",
+    "pandemic_preparedness",
+    "law_school"
+  ],
+  "sources": [
+    {
+      "title": "Sam Bankman-Fried's father wanted to keep $5.5 million donated to Stanford from FTX under the radar: 'Seems too close to home'",
+      "url": "https://fortune.com/crypto/2023/09/19/ftx-alameda-sam-bankman-fried-joseph-bankman-stanford-university-donations-5-5-million-lawsuit/",
+      "date": "2023-09-19",
+      "outlet": "Fortune"
+    },
+    {
+      "title": "Stanford received millions in donations from FTX and Alameda Research",
+      "url": "https://www.cnn.com/2023/09/19/business/stanford-ftx-bankman-fried-donations/index.html",
+      "date": "2023-09-19",
+      "outlet": "CNN"
+    }
+  ],
+  "importance": 7,
+  "priority_id": "RT-CLAUDE-2025-ftx-sbf-effective-altruism-network",
+  "actors": [
+    "Joseph Bankman",
+    "Sam Bankman-Fried",
+    "Stanford University"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

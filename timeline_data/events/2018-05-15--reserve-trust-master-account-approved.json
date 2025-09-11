@@ -1,0 +1,40 @@
+{
+  "id": "2018-05-15--reserve-trust-master-account-approved",
+  "date": "2018-05-15",
+  "title": "Kansas City Fed Approves Reserve Trust Master Account After Raskin Intervention",
+  "summary": "Federal Reserve Bank of Kansas City reverses its 2017 denial and approves Reserve Trust Company's master account application, approximately nine months after former Fed Governor Sarah Bloom Raskin allegedly contacted Kansas City Fed President Esther George about the denied application. The approval raises corruption concerns about systematic revolving door influence where former Fed officials leverage relationships to benefit private sector clients, with Senator Pat Toomey later claiming he was 'stonewalled' when requesting documents about the decision process.",
+  "importance": 7,
+  "tags": [
+    "federal_reserve",
+    "corruption",
+    "revolving_door",
+    "sarah_bloom_raskin",
+    "kansas_city_fed",
+    "reserve_trust_company",
+    "regulatory_capture",
+    "master_account_approval"
+  ],
+  "actors": [
+    "Sarah Bloom Raskin",
+    "Reserve Trust Company",
+    "Federal Reserve Bank of Kansas City",
+    "Esther George",
+    "Pat Toomey"
+  ],
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2022/02/15/bank-regulator-disputes-kc-fed-claim-about-firm-linked-to-biden-nominee-raskin.html",
+      "title": "State bank regulator disputes KC Fed's claim about fintech firm linked to Biden nominee Raskin",
+      "outlet": "CNBC",
+      "date": "2022-02-15"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

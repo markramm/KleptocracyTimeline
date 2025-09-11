@@ -1,0 +1,27 @@
+{
+  "id": "2024-01-15--cheney-energy-task-force-event-1",
+  "date": "2024-01-15",
+  "title": "Cheney Energy Task Force - Initial Development",
+  "summary": "Research Agent 6 scalability test: Initial development phase of Cheney Energy Task Force. This event was created as part of a 6-agent concurrent testing scenario.",
+  "importance": 6,
+  "status": "confirmed",
+  "actors": [
+    "Test Actor",
+    "Research Agent 6"
+  ],
+  "sources": [
+    {
+      "title": "Scalability Test Source",
+      "url": "https://example.com/test",
+      "outlet": "Test Framework"
+    }
+  ],
+  "tags": [
+    "scalability-test",
+    "agent-6",
+    "api-testing"
+  ],
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

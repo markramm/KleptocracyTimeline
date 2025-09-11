@@ -2,8 +2,8 @@
   "id": "2025-02-13--acting-nasa-chief-says-doge-plans-to-review-space-agency-s-s",
   "date": "2025-02-13",
   "title": "Acting NASA chief says DOGE plans to review space agency's spending as hundreds take buyout",
-  "summary": "Elon Musk’s DOGE targets NASA spending for cuts amid mass buyouts",
-  "description": "Elon Musk’s DOGE targets NASA spending for cuts amid mass buyouts",
+  "summary": "Elon Musk\u2019s DOGE targets NASA spending for cuts amid mass buyouts",
+  "description": "Elon Musk\u2019s DOGE targets NASA spending for cuts amid mass buyouts",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

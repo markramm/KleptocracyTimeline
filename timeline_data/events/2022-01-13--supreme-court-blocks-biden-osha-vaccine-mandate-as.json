@@ -43,5 +43,11 @@
       "outlet": "Supreme Court of the United States",
       "date": "2022-01-13"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

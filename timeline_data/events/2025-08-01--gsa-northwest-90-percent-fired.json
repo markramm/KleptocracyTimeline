@@ -18,12 +18,20 @@
       "date": "2025-03-07"
     },
     {
-      "title": "RIF watch—running tally of agency layoffs",
+      "title": "RIF watch\u2014running tally of agency layoffs",
       "url": "https://www.govexec.com/workforce/2025/02/rif-watch-see-which-agencies-are-laying-federal-workers/403342/",
       "outlet": "Government Executive",
       "date": "2025-02-27"
     }
   ],
   "notes": "Use GovExec's specific reporting for Region 10 (Mar. 7) rather than Wikipedia\nsummaries. If GSA/OPM release official numbers later, update to reflect exact\nfigures.\n",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,0 +1,42 @@
+{
+  "id": "2023-07-20--sec-charges-dwac-material-misrepresentations-trump-media",
+  "title": "SEC Charges DWAC SPAC with Material Misrepresentations Over Trump Media Merger",
+  "date": "2023-07-20",
+  "description": "The SEC charged Digital World Acquisition Corp with securities fraud for making material misrepresentations in IPO filings by falsely claiming no pre-IPO discussions with potential targets. The agency found DWAC had extensive merger discussions with Trump Media dating to February 2021, months before their September 2021 IPO. DWAC agreed to pay an $18 million penalty and cease-and-desist order.",
+  "category": "regulatory_capture",
+  "tags": [
+    "sec_enforcement",
+    "dwac",
+    "trump_media",
+    "disclosure_violations",
+    "spac_fraud",
+    "material_misrepresentations"
+  ],
+  "sources": [
+    {
+      "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors",
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-135",
+      "date": "2023-07-20",
+      "outlet": "SEC"
+    },
+    {
+      "title": "Trump Media merger partner DWAC settles with SEC over fraud charges",
+      "url": "https://www.cnbc.com/2023/07/20/trump-media-merger-partner-dwac-settles-with-sec-over-fraud-charges.html",
+      "date": "2023-07-20",
+      "outlet": "CNBC"
+    }
+  ],
+  "importance": 8,
+  "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "actors": [
+    "SEC",
+    "Digital World Acquisition Corp",
+    "Trump Media"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "1973-06-25",
+  "title": "Opus Dei Established as Personal Prelature by Pope Paul VI",
+  "summary": "Pope Paul VI issues the apostolic constitution Ut Sit establishing Opus Dei as a personal prelature, giving it unique autonomous status within the Catholic Church. This ecclesiastical structure later facilitates Opus Dei's political networking across national boundaries while maintaining religious cover.",
+  "importance": 7,
+  "actors": [
+    "Pope Paul VI",
+    "Josemaria Escriva",
+    "Opus Dei"
+  ],
+  "sources": [
+    {
+      "title": "Ut Sit Apostolic Constitution",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19821128_ut-sit.html",
+      "outlet": "Vatican"
+    },
+    {
+      "title": "Opus Dei Prelature Status",
+      "url": "https://opusdei.org/en/article/personal-prelature/",
+      "outlet": "Opus Dei Official"
+    }
+  ],
+  "tags": [
+    "opus-dei",
+    "catholic-church",
+    "prelature",
+    "religious-autonomy"
+  ],
+  "status": "confirmed",
+  "id": "1973-06-25--opus-dei-established-as-personal-prelature-by-pope",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

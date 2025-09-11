@@ -1,0 +1,40 @@
+{
+  "date": "2025-02-01",
+  "title": "Schedule F Implementation Targets 50,000 Federal Workers",
+  "summary": "Trump administration implements Project 2025's Schedule F recommendation, rebranded as \"Schedule Policy/Career,\" identifying 50,000 federal positions for reclassification from career civil servants to political appointees screened for ideological loyalty.",
+  "actors": [
+    "Donald Trump",
+    "Russell Vought",
+    "Federal workforce"
+  ],
+  "importance": 9,
+  "sources": [
+    {
+      "title": "Federal News Network",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Project 2025 analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "schedule-f",
+    "civil-service",
+    "political-loyalty",
+    "administrative-state"
+  ],
+  "status": "confirmed",
+  "id": "2025-02-01--schedule-f-implementation-targets-50000-federal-workers",
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

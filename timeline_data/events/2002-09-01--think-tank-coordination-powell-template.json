@@ -12,8 +12,16 @@
   ],
   "financial_impact": null,
   "sources": [
-    "https://www.cato.org/blog/think-tanks-iraq-war",
-    "https://en.wikipedia.org/wiki/American_Enterprise_Institute"
+    {
+      "title": "https://www.cato.org/blog/think-tanks-iraq-war",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://en.wikipedia.org/wiki/American_Enterprise_Institute",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 7,
   "tags": [
@@ -22,5 +30,9 @@
     "institutional-capture",
     "personnel-embedding"
   ],
-  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration"
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

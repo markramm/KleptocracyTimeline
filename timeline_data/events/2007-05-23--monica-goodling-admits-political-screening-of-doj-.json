@@ -38,5 +38,12 @@
       "outlet": "Virginia State Bar",
       "date": "2011-05-27"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

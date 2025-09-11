@@ -1,7 +1,7 @@
 {
   "id": "2025-07-25--trump-s-trip-to-scotland-as-his-new-golf-course-opens-blurs-",
   "date": "2025-07-25",
-  "title": "Trump’s trip to Scotland as his new golf course opens blurs politics and the family’s business",
+  "title": "Trump\u2019s trip to Scotland as his new golf course opens blurs politics and the family\u2019s business",
   "summary": "Trump traveled to Scotland to open a new golf course, using the presidency to promote his own business",
   "description": "Trump traveled to Scotland to open a new golf course, using the presidency to promote his own business",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump’s trip to Scotland as his new golf course opens blurs politics and the family’s business",
+      "title": "Trump\u2019s trip to Scotland as his new golf course opens blurs politics and the family\u2019s business",
       "url": "https://apnews.com/article/trump-scotland-golf-course-opening-legal-issues-92aa09043e036d6aa87ad99e5fd755bb",
       "outlet": "Associated Press",
       "date": "2025-07-25"
@@ -27,5 +27,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

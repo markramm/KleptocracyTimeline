@@ -2,8 +2,8 @@
   "id": "2025-06-19--trump-company-reduces-stake-in-crypto-venture",
   "date": "2025-06-19",
   "title": "Trump company reduces stake in crypto venture",
-  "summary": "The Trump Organization reduced its stake in World Liberty Financial, allowing the president’s family to profit while his supporters  continue to throw money at his cryptocurrency projects",
-  "description": "The Trump Organization reduced its stake in World Liberty Financial, allowing the president’s family to profit while his supporters  continue to throw money at his cryptocurrency projects",
+  "summary": "The Trump Organization reduced its stake in World Liberty Financial, allowing the president\u2019s family to profit while his supporters  continue to throw money at his cryptocurrency projects",
+  "description": "The Trump Organization reduced its stake in World Liberty Financial, allowing the president\u2019s family to profit while his supporters  continue to throw money at his cryptocurrency projects",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

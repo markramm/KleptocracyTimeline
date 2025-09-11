@@ -1,7 +1,7 @@
 {
   "id": "2025-05-12--eric-trump-s-american-bitcoin-going-public-in-latest-crypto-",
   "date": "2025-05-12",
-  "title": "Eric Trump’s American Bitcoin going public in latest crypto move by president’s family",
+  "title": "Eric Trump\u2019s American Bitcoin going public in latest crypto move by president\u2019s family",
   "summary": "Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin, went public through its merger with Gryphon Digital Mining. The company's public shares will serve as yet another vehicle for purchasing influence with the Trump family",
   "description": "Donald Trump Jr. and Eric Trump's bitcoin mining firm, American Bitcoin, went public through its merger with Gryphon Digital Mining. The company's public shares will serve as yet another vehicle for purchasing influence with the Trump family",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Eric Trump’s American Bitcoin going public in latest crypto move by president’s family",
+      "title": "Eric Trump\u2019s American Bitcoin going public in latest crypto move by president\u2019s family",
       "url": "https://www.cnbc.com/2025/05/12/eric-trump-american-bitcoin-public.html",
       "outlet": "CNBC",
       "date": "2025-05-12"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

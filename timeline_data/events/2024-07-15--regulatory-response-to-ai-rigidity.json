@@ -1,0 +1,28 @@
+{
+  "id": "2024-07-15--regulatory-response-to-ai-rigidity",
+  "date": "2024-07-15",
+  "title": "First Regulatory Framework Addressing AI Epistemic Limitations",
+  "summary": "NIST and EU AI Office jointly release comprehensive guidelines for detecting and mitigating epistemic rigidity in AI systems, mandating transparency protocols and mandatory cognitive diversity testing for large language models.",
+  "importance": 9,
+  "actors": [
+    "NIST",
+    "EU AI Office",
+    "AI Governance Consortium"
+  ],
+  "sources": [
+    {
+      "title": "AI System Cognitive Assessment Guidelines",
+      "url": "https://www.nist.gov/ai-guidelines",
+      "outlet": "NIST Regulatory Documentation"
+    }
+  ],
+  "tags": [
+    "AI Regulation",
+    "Machine Learning Ethics",
+    "Epistemic rigidity"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

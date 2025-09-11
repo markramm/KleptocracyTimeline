@@ -1,0 +1,30 @@
+{
+  "id": "1997-10-11--imf-indonesia-structural-adjustment-loan",
+  "date": "1997-10-11",
+  "title": "IMF Imposes Harsh Structural Adjustment on Indonesia",
+  "summary": "IMF approves a $23 billion rescue package for Indonesia, mandating severe economic reforms including privatization, budget cuts, and corporate restructuring. These conditions fundamentally reshape Indonesia's economic landscape, prioritizing Western corporate interests over local economic stability.",
+  "importance": 9,
+  "actors": [
+    "IMF",
+    "Indonesian Government",
+    "World Bank",
+    "McKinsey & Company"
+  ],
+  "sources": [
+    {
+      "title": "The IMF and Indonesia in the Financial Crisis",
+      "url": "https://www.brookings.edu/articles/the-imf-and-indonesia-in-the-financial-crisis/",
+      "outlet": "Brookings Institution"
+    }
+  ],
+  "tags": [
+    "imf_intervention",
+    "structural_adjustment",
+    "indonesia",
+    "economic_shock"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

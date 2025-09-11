@@ -8,7 +8,8 @@
     {
       "url": "https://www.cjr.org/politics/whig_media_coordination_sunday_shows.php",
       "title": "How the White House Coordinated Sunday Show Coverage",
-      "type": "media_analysis"
+      "type": "media_analysis",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,9 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
+  ]
 }

@@ -42,5 +42,11 @@
       "outlet": "CBS News",
       "date": "2024-12-01"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

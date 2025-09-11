@@ -1,0 +1,28 @@
+{
+  "id": "1750-01-01--andean-ayllu-community-governance",
+  "date": "1750-01-01",
+  "title": "Andean Ayllu: Communal Decision-Making and Resource Management",
+  "summary": "The Andean Ayllu system demonstrated a sophisticated form of collective governance where land, resources, and decision-making were shared communally. This model prioritized consensus, mutual aid, and ecological sustainability, challenging Western individualistic governance paradigms.",
+  "importance": 7,
+  "actors": [
+    "Andean Indigenous Communities",
+    "Quechua Leaders"
+  ],
+  "tags": [
+    "traditional-governance",
+    "consensus-democracy",
+    "indigenous-politics",
+    "ecological-governance"
+  ],
+  "sources": [
+    {
+      "title": "Indigenous Governance and Ecological Wisdom",
+      "url": "https://www.andeangovernance.org/communal-systems",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

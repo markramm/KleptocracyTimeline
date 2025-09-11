@@ -52,5 +52,9 @@
     "revolving-door",
     "environmental-destruction",
     "conflicts-of-interest"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
   ]
 }

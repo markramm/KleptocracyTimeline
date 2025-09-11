@@ -12,10 +12,26 @@
     "Russian oligarchs"
   ],
   "sources": [
-    "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/",
-    "https://www.rollingstone.com/politics/politics-news/pam-bondi-disbands-anti-corruption-task-force-1235259073/",
-    "https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/",
-    "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/"
+    {
+      "title": "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.rollingstone.com/politics/politics-news/pam-bondi-disbands-anti-corruption-task-force-1235259073/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -29,5 +45,9 @@
   ],
   "status": "confirmed",
   "id": "2025-02-05--trump-administration-shuts-down-kleptocapture-task-force-1757455486",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-14"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-14",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
+  ]
 }

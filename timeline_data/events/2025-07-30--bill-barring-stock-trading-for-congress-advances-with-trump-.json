@@ -2,8 +2,8 @@
   "id": "2025-07-30--bill-barring-stock-trading-for-congress-advances-with-trump-",
   "date": "2025-07-30",
   "title": "Bill barring stock trading for Congress advances with Trump carve-out",
-  "summary": "A bill that would bar members of Congress, the vice president, and the president from trading stocks advanced out of a key Senate committee–after Republican Senator Josh Hawley amended the legislation to exempt Trump",
-  "description": "A bill that would bar members of Congress, the vice president, and the president from trading stocks advanced out of a key Senate committee–after Republican Senator Josh Hawley amended the legislation to exempt Trump",
+  "summary": "A bill that would bar members of Congress, the vice president, and the president from trading stocks advanced out of a key Senate committee\u2013after Republican Senator Josh Hawley amended the legislation to exempt Trump",
+  "description": "A bill that would bar members of Congress, the vice president, and the president from trading stocks advanced out of a key Senate committee\u2013after Republican Senator Josh Hawley amended the legislation to exempt Trump",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -27,5 +27,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

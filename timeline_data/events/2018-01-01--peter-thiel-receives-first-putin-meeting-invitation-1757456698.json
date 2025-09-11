@@ -10,9 +10,21 @@
   ],
   "importance": 9,
   "sources": [
-    "Benzinga",
-    "Business Insider",
-    "Russian Influence Networks analysis"
+    {
+      "title": "Benzinga",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Business Insider",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "thiel-putin",
@@ -22,5 +34,8 @@
   ],
   "status": "confirmed",
   "id": "2018-01-01--peter-thiel-receives-first-putin-meeting-invitation-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

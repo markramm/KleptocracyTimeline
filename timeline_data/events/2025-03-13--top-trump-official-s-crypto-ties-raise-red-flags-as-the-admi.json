@@ -1,9 +1,9 @@
 {
   "id": "2025-03-13--top-trump-official-s-crypto-ties-raise-red-flags-as-the-admi",
   "date": "2025-03-13",
-  "title": "Top Trump official’s crypto ties raise red flags as the administration touts digital assets",
-  "summary": "Commerce Secretary Lutnick is under scrutiny for his deep ties to crypto investments while leading Trump’s push for lighter cryptocurrency regulation",
-  "description": "Commerce Secretary Lutnick is under scrutiny for his deep ties to crypto investments while leading Trump’s push for lighter cryptocurrency regulation",
+  "title": "Top Trump official\u2019s crypto ties raise red flags as the administration touts digital assets",
+  "summary": "Commerce Secretary Lutnick is under scrutiny for his deep ties to crypto investments while leading Trump\u2019s push for lighter cryptocurrency regulation",
+  "description": "Commerce Secretary Lutnick is under scrutiny for his deep ties to crypto investments while leading Trump\u2019s push for lighter cryptocurrency regulation",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Top Trump official’s crypto ties raise red flags as the administration touts digital assets",
+      "title": "Top Trump official\u2019s crypto ties raise red flags as the administration touts digital assets",
       "url": "https://www.cnn.com/2025/03/13/business/trump-officials-crypto-bitcoin/index.html",
       "outlet": "CNN",
       "date": "2025-03-13"
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

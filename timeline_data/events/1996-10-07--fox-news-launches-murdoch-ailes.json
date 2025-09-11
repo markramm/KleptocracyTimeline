@@ -39,5 +39,8 @@
     }
   ],
   "notes": "Ailes hired February 1996. Used slogan \"Fair and Balanced\" to mask partisan agenda. Quickly established right-wing identity. Became template for conservative media ecosystem.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

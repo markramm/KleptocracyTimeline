@@ -1,0 +1,30 @@
+{
+  "id": "1973-09-11--chicago-boys-economic-shock-therapy-development",
+  "date": "1973-09-11",
+  "title": "Chicago Boys Develop Economic Shock Therapy Model in Chile",
+  "summary": "Economists trained by Milton Friedman at University of Chicago begin implementing radical free-market economic reforms in Chile under Pinochet, using psychological and economic shock techniques. This model demonstrates how psychological manipulation research could be applied to systemic economic transformation.",
+  "importance": 9,
+  "actors": [
+    "Milton Friedman",
+    "Chicago Boys",
+    "Augusto Pinochet"
+  ],
+  "tags": [
+    "economic-shock-therapy",
+    "psychological-manipulation",
+    "institutional-capture"
+  ],
+  "sources": [
+    {
+      "title": "The Shock Doctrine",
+      "author": "Naomi Klein",
+      "year": 2007,
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2019-04-24",
+  "title": "Trump Declares Total War on Congressional Oversight: \"We're Fighting All the Subpoenas\"",
+  "summary": "President Donald Trump explicitly declares blanket resistance to congressional oversight, stating \"We're fighting all the subpoenas\" and dismissing House Democrats as not \"impartial people.\" This marks a systematic escalation from selective resistance to total obstruction of legislative branch oversight authority, representing unprecedented defiance of constitutional separation of powers.",
+  "actors": [
+    "Donald Trump",
+    "White House",
+    "House Democrats",
+    "Congressional Investigators"
+  ],
+  "sources": [
+    {
+      "title": "Trump at war with Democrats: We're fighting all the subpoenas",
+      "url": "https://edition.cnn.com/2019/04/24/politics/donald-trump-fight-subpoenas-don-mcgahn-ridiculous/",
+      "outlet": "CNN Politics"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "trump_administration",
+    "congressional_obstruction",
+    "subpoena_defiance",
+    "constitutional_crisis",
+    "systematic_corruption"
+  ],
+  "status": "confirmed",
+  "id": "2019-04-24--trump-declares-total-war-congressional-oversight",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
+}

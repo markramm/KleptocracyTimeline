@@ -1,9 +1,9 @@
 {
   "id": "2025-04-09--trump-offers-buy-tip-on-social-media-hours-before-tariff-pau",
   "date": "2025-04-09",
-  "title": "Trump offers ‘buy’ tip on social media hours before tariff pause that made stocks soar",
-  "summary": "Hours before announcing a 90-day tariff pause that sent markets soaring, Trump posted “THIS IS A GREAT TIME TO BUY!!! DJT” on Truth Social; the S&P 500 jumped 9.5%, with Trump Media stock skyrocketing 22.7%, netting Trump—via his 53% stake—over $400 million in a day",
-  "description": "Hours before announcing a 90-day tariff pause that sent markets soaring, Trump posted “THIS IS A GREAT TIME TO BUY!!! DJT” on Truth Social; the S&P 500 jumped 9.5%, with Trump Media stock skyrocketing 22.7%, netting Trump—via his 53% stake—over $400 million in a day",
+  "title": "Trump offers \u2018buy\u2019 tip on social media hours before tariff pause that made stocks soar",
+  "summary": "Hours before announcing a 90-day tariff pause that sent markets soaring, Trump posted \u201cTHIS IS A GREAT TIME TO BUY!!! DJT\u201d on Truth Social; the S&P 500 jumped 9.5%, with Trump Media stock skyrocketing 22.7%, netting Trump\u2014via his 53% stake\u2014over $400 million in a day",
+  "description": "Hours before announcing a 90-day tariff pause that sent markets soaring, Trump posted \u201cTHIS IS A GREAT TIME TO BUY!!! DJT\u201d on Truth Social; the S&P 500 jumped 9.5%, with Trump Media stock skyrocketing 22.7%, netting Trump\u2014via his 53% stake\u2014over $400 million in a day",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -52,5 +52,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "High-priority kleptocratic event from comprehensive timeline."
+  "notes": "High-priority kleptocratic event from comprehensive timeline.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
 }

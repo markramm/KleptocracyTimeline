@@ -24,5 +24,10 @@
       "outlet": "New York Times",
       "date": "2017-12-14"
     }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
   ]
 }

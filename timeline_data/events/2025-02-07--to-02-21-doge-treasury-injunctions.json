@@ -19,19 +19,21 @@
   ],
   "sources": [
     {
-      "title": "Reuters – Judge extends block on DOGE access to Treasury systems (Feb 21)",
+      "title": "Reuters \u2013 Judge extends block on DOGE access to Treasury systems (Feb 21)",
       "url": "https://www.reuters.com/world/us/judge-extends-block-musks-doge-treasury-systems-2025-02-21",
       "outlet": "Reuters",
       "date": "2025-02-21",
       "archive_url": "https://web.archive.org/web/20250814194913/https://www.reuters.com/"
     },
     {
-      "title": "EFF – Preliminary injunction re OPM Privacy Act suit (doc set)",
+      "title": "EFF \u2013 Preliminary injunction re OPM Privacy Act suit (doc set)",
       "url": "https://www.eff.org/press/releases/privacy-victory-judge-grants-preliminary-injunction-opmdoge-lawsuit",
       "outlet": "Electronic Frontier Foundation",
       "date": "2025-02-07"
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ]
 }

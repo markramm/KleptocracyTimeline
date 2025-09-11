@@ -10,8 +10,16 @@
   ],
   "financial_impact": null,
   "sources": [
-    "http://edition.cnn.com/2002/ALLPOLITICS/09/12/schneider.iraq/index.html",
-    "https://www.azquotes.com/quote/685260"
+    {
+      "title": "http://edition.cnn.com/2002/ALLPOLITICS/09/12/schneider.iraq/index.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.azquotes.com/quote/685260",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -20,5 +28,10 @@
     "powell-memo-acceleration",
     "crisis-timing"
   ],
-  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration"
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

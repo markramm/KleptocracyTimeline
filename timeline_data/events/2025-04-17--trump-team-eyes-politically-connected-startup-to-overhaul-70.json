@@ -2,8 +2,8 @@
   "id": "2025-04-17--trump-team-eyes-politically-connected-startup-to-overhaul-70",
   "date": "2025-04-17",
   "title": "Trump team eyes politically connected startup to overhaul $700 billion government payments program",
-  "summary": "Trump is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies, to help manage the federal government’s $700 billion SmartPay system",
-  "description": "Trump is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies, to help manage the federal government’s $700 billion SmartPay system",
+  "summary": "Trump is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies, to help manage the federal government\u2019s $700 billion SmartPay system",
+  "description": "Trump is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies, to help manage the federal government\u2019s $700 billion SmartPay system",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -41,7 +41,7 @@
       "date": "2025-04-17"
     },
     {
-      "title": "Peter Thiel's protégés: a common thread runs through Trump's tech team",
+      "title": "Peter Thiel's prot\u00e9g\u00e9s: a common thread runs through Trump's tech team",
       "url": "https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/",
       "outlet": "Fortune",
       "date": "2025-05-21"
@@ -51,5 +51,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

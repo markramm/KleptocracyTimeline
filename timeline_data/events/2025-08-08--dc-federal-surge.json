@@ -34,5 +34,10 @@
       "outlet": "Reuters",
       "date": "2025-08-08"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

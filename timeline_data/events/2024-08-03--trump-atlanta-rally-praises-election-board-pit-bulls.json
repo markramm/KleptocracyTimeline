@@ -1,0 +1,43 @@
+{
+  "id": "2024-08-03--trump-atlanta-rally-praises-election-board-pit-bulls",
+  "date": "2024-08-03",
+  "title": "Trump Praises Georgia Election Board MAGA Members as \"Pit Bulls\" at Atlanta Rally",
+  "summary": "At an Atlanta rally, Donald Trump publicly identifies and praises Georgia State Election Board members Janice Johnston, Rick Jeffares, and Janelle King in the audience, calling them \"pit bulls fighting for honesty, transparency and victory.\" Trump boasts about the MAGA takeover: \"the Georgia State Election Board is in a very positive way... They're on fire, they're doing a great job.\" The public acknowledgment demonstrates Trump's direct coordination with captured election officials and signals to supporters that the board will implement his agenda. This unprecedented presidential endorsement of state election officials creates expectations for partisan rule-making favorable to Trump's 2024 campaign.",
+  "importance": 8,
+  "location": "Atlanta, Georgia",
+  "actors": [
+    "Donald Trump",
+    "Janice Johnston",
+    "Rick Jeffares",
+    "Janelle King",
+    "Georgia State Election Board",
+    "MAGA Rally Attendees"
+  ],
+  "tags": [
+    "trump_rally",
+    "election_capture",
+    "georgia",
+    "pit_bulls",
+    "public_coordination"
+  ],
+  "capture_lanes": [
+    "Election Infrastructure Capture"
+  ],
+  "sources": [
+    {
+      "title": "Trump Brags About MAGA Takeover of Georgia Election Board",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-brags-maga-takeover-georgia-election-board-1235073860/",
+      "outlet": "Rolling Stone",
+      "date": "2024-08-04",
+      "verified": true
+    },
+    {
+      "title": "Georgia election rule changes by Trump allies raise fear of chaos in November",
+      "url": "https://www.washingtonpost.com/politics/2024/09/19/georgia-state-election-board-trump-certification-results/",
+      "outlet": "Washington Post",
+      "date": "2024-09-19",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

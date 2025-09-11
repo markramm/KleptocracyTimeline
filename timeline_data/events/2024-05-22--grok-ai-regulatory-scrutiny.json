@@ -1,0 +1,29 @@
+{
+  "id": "2024-05-22--grok-ai-regulatory-scrutiny",
+  "date": "2024-05-22",
+  "title": "Regulatory Bodies Begin Investigating Grok AI Safety Practices",
+  "summary": "U.S. technology oversight committees initiate formal investigation into Grok AI's development practices, focusing on potential risks to public information ecosystem and algorithmic transparency.",
+  "importance": 8,
+  "actors": [
+    "U.S. Senate Technology Committee",
+    "Elon Musk",
+    "xAI"
+  ],
+  "tags": [
+    "AI regulation",
+    "Tech oversight",
+    "Congressional investigation"
+  ],
+  "sources": [
+    {
+      "title": "Senate Technology Subcommittee Hearing Transcript",
+      "url": "https://www.senate.gov/placeholder",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
+}

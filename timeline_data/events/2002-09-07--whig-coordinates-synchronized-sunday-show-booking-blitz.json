@@ -13,7 +13,7 @@
     "Condoleezza Rice",
     "Andrew Card",
     "CBS booking producers",
-    "NBC booking producers", 
+    "NBC booking producers",
     "CNN booking producers"
   ],
   "tags": [
@@ -46,5 +46,12 @@
       "outlet": "PBS Frontline",
       "date": "2004-01-29"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

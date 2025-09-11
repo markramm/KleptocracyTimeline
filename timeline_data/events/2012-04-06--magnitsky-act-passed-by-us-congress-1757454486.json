@@ -9,8 +9,16 @@
     "Russian officials"
   ],
   "sources": [
-    "https://www.congress.gov/bill/112th-congress/house-bill/6156",
-    "https://www.justice.gov/opa/pr/russian-official-charged-connection-magnitsky-case"
+    {
+      "title": "https://www.congress.gov/bill/112th-congress/house-bill/6156",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.justice.gov/opa/pr/russian-official-charged-connection-magnitsky-case",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -22,5 +30,9 @@
   ],
   "status": "confirmed",
   "id": "2012-04-06--magnitsky-act-passed-by-us-congress-1757454486",
-  "priority_id": "RP-20250909-capture-cascade-part-2-the-accelerant"
+  "priority_id": "RP-20250909-capture-cascade-part-2-the-accelerant",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

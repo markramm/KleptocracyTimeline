@@ -9,8 +9,16 @@
   ],
   "importance": 9,
   "sources": [
-    "The Dossier Center",
-    "Russian Influence Networks PDF"
+    {
+      "title": "The Dossier Center",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks PDF",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "epstein-russia",
@@ -20,5 +28,8 @@
   ],
   "status": "confirmed",
   "id": "2014-01-01--jeffrey-epstein-begins-meetings-with-russian-fsb-graduate-belyakov-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

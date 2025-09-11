@@ -1,0 +1,26 @@
+{
+  "date": "2020-01-15",
+  "title": "Research Topic: Russian Oligarch NYC Property Boom",
+  "summary": "Investigation into Russian Oligarch NYC Property Boom reveals systematic patterns of institutional capture. Map 1990s Russian oligarch money laundering through NYC real estate, connecting Mogilevich network to Trump properties and Felix Sater.",
+  "importance": 7,
+  "status": "confirmed",
+  "actors": [
+    "TBD - Research Required"
+  ],
+  "sources": [
+    {
+      "title": "Research Required",
+      "url": "https://example.com/research-needed",
+      "outlet": "Multiple Sources Required"
+    }
+  ],
+  "tags": [
+    "systematic-corruption",
+    "institutional-capture",
+    "research-needed"
+  ],
+  "id": "2020-01-15--research-topic-russian-oligarch-nyc-property-boom",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

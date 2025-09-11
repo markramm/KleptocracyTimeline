@@ -1,0 +1,42 @@
+{
+  "date": "1996-06-01",
+  "title": "Clear Channel Begins Massive Radio Station Acquisition Spree Following Deregulation",
+  "summary": "Just four months after the Telecommunications Act takes effect in February, Clear Channel Communications launches an unprecedented acquisition campaign, purchasing or agreeing to acquire 81 million worth of radio and television stations by June 1996. The company immediately doubles its holdings by acquiring 49 radio stations, demonstrating how quickly corporate interests mobilize to exploit deregulatory opportunities. Clear Channel, previously limited to 43 radio stations nationwide, begins transforming from a regional broadcaster into a media colossus. The rapid acquisition pace reveals how deregulation creates artificial scarcity - the finite number of radio licenses becomes concentrated in fewer corporate hands rather than expanding competition as promised. CEO Lowry Mays strategically targets stations in major markets, understanding that controlling radio means controlling political and cultural discourse at the local level. This marks the beginning of what becomes the largest media consolidation in American history, with Clear Channel eventually acquiring over 1,200 stations. The company's aggressive strategy eliminates thousands of local broadcasting jobs, replacing local DJs and news teams with centralized, automated programming that can be broadcast to multiple markets simultaneously. Within months, communities across America begin losing their unique local radio voices, replaced by corporate-controlled content that prioritizes profit over public service and community connection.",
+  "importance": 7,
+  "key_actors": [
+    "Clear Channel Communications",
+    "Lowry Mays",
+    "Local radio station owners",
+    "Radio industry workforce"
+  ],
+  "tags": [
+    "clear-channel",
+    "media-consolidation",
+    "radio-acquisitions",
+    "corporate-expansion",
+    "local-media-destruction"
+  ],
+  "sources": [
+    {
+      "title": "https://www.tshaonline.org/handbook/entries/iheartmedia-inc",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.govinfo.gov/content/pkg/CHRG-108shrg88772/html/CHRG-108shrg88772.htm",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "1996-06-01--clear-channel-begins-massive-radio-station-acquisi",
+  "priority_id": "RT-EXP-0C04C22A-clear-channel-media-consolidation",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2019-04-16",
+  "title": "Treasury Secretary Mnuchin Refuses Congressional Demand for Trump Tax Returns",
+  "summary": "Treasury Secretary Steven Mnuchin defies legal requirement to provide Trump's tax returns to House Ways and Means Committee after consulting with White House. This represents systematic coordination between executive agencies and White House to obstruct congressional oversight, using Treasury Department as instrument of personal protection rather than law enforcement.",
+  "actors": [
+    "Steven Mnuchin",
+    "Treasury Department",
+    "House Ways and Means Committee",
+    "White House"
+  ],
+  "sources": [
+    {
+      "title": "Trump moves to resist House inquiries, setting up fight over congressional subpoena powers",
+      "url": "https://www.washingtonpost.com/politics/trump-moves-to-resist-house-inquiries-setting-up-fight-over-congressional-subpoena-powers/2019/04/16/49f4c75c-6057-11e9-9412-daf3d2e67c6d_story.html",
+      "outlet": "Washington Post"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "steven_mnuchin",
+    "treasury_department",
+    "tax_returns",
+    "congressional_obstruction",
+    "systematic_coordination"
+  ],
+  "status": "confirmed",
+  "id": "2019-04-16--mnuchin-refuses-congressional-demand-trump-tax-returns",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
+}

@@ -36,5 +36,11 @@
       "outlet": "NBC News",
       "date": "2020-01-18"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

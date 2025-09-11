@@ -10,7 +10,11 @@
     "Federal Financial Regulators"
   ],
   "sources": [
-    "https://www.masterclass.com/articles/regulatory-capture"
+    {
+      "title": "https://www.masterclass.com/articles/regulatory-capture",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "lobbying",
@@ -19,5 +23,10 @@
     "institutional influence"
   ],
   "id": "2020-01-01--financial-sector-lobbying-expenditures-exceed-billion-1757454506",
-  "priority_id": "RP-20250909-capture-cascade-part-6-the-cascade"
+  "priority_id": "RP-20250909-capture-cascade-part-6-the-cascade",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

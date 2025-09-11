@@ -1,0 +1,41 @@
+{
+  "date": "2006-03-09",
+  "title": "Dubai Ports World Abandons US Port Takeover Under Congressional Pressure",
+  "summary": "Dubai Ports World announced it would abandon its plan to control US port operations and transfer them to an American entity, ending the most significant foreign investment controversy of the Bush presidency. The decision came after the House Appropriations Committee voted 62-2 to block the deal on March 8, and Republican leaders privately warned Bush that Congressional opposition was insurmountable despite his veto threats. DP World ultimately sold the US port operations to American International Group in December 2006. The controversy permanently damaged Bush's approval ratings and transformed CFIUS procedures, leading to a 74% increase in reviewed transactions in 2007. This marked a rare defeat for corporate foreign investment and demonstrated the limits of executive power when confronted with bipartisan Congressional and public opposition over national security concerns.",
+  "actors": [
+    "Dubai Ports World",
+    "House Appropriations Committee",
+    "American International Group",
+    "CFIUS",
+    "US Congress"
+  ],
+  "tags": [
+    "corporate-defeat",
+    "congressional-oversight",
+    "foreign-investment",
+    "national-security"
+  ],
+  "importance": 9,
+  "sources": [
+    {
+      "title": "https://www.aljazeera.com/news/2006/3/10/dubai-firm-abandons-us-ports-plan",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.cbsnews.com/news/dubai-company-gives-up-on-ports-deal/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2006-03-09--dubai-ports-world-abandons-us-port-takeover-under",
+  "priority_id": "RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

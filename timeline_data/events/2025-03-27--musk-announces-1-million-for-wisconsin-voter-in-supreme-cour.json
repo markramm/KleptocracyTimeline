@@ -2,8 +2,8 @@
   "id": "2025-03-27--musk-announces-1-million-for-wisconsin-voter-in-supreme-cour",
   "date": "2025-03-27",
   "title": "Musk announces $1 million for Wisconsin voter in Supreme Court race",
-  "summary": "Musk awarded $1 million to a voter in Green Bay days before Wisconsin’s pivotal state Supreme Court election as part of his sweepstakes for Republican voters",
-  "description": "Musk awarded $1 million to a voter in Green Bay days before Wisconsin’s pivotal state Supreme Court election as part of his sweepstakes for Republican voters",
+  "summary": "Musk awarded $1 million to a voter in Green Bay days before Wisconsin\u2019s pivotal state Supreme Court election as part of his sweepstakes for Republican voters",
+  "description": "Musk awarded $1 million to a voter in Green Bay days before Wisconsin\u2019s pivotal state Supreme Court election as part of his sweepstakes for Republican voters",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Electoral Manipulation"
+  ]
 }

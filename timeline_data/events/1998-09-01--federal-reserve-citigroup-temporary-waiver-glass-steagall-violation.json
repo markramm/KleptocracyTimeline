@@ -1,0 +1,44 @@
+{
+  "id": "1998-09-01--federal-reserve-citigroup-temporary-waiver-glass-steagall-violation",
+  "date": "1998-09-01",
+  "title": "Federal Reserve Grants Citigroup Temporary Waiver for Glass-Steagall Violation",
+  "summary": "The Federal Reserve grants Citicorp a temporary waiver allowing its merger with Travelers Group to form Citigroup, despite this combination of commercial banking, investment banking, and insurance violating both the Glass-Steagall Act and Bank Holding Company Act of 1956. This regulatory capture demonstrates coordinated planning between financial institutions and regulators to circumvent existing law. The waiver was granted with the expectation that Congress would pass legislation to make such mergers permanently legal, which occurred with the Gramm-Leach-Bliley Act in 1999. This precedent established a pattern where financial institutions could violate regulations while lobbying for retroactive legalization.",
+  "importance": 8,
+  "actors": [
+    "Federal Reserve",
+    "Alan Greenspan",
+    "Citicorp",
+    "Travelers Group",
+    "Sandy Weill",
+    "John Reed"
+  ],
+  "tags": [
+    "federal_reserve",
+    "citigroup",
+    "glass_steagall_violation",
+    "regulatory_waiver",
+    "systemic_corruption",
+    "banking_merger"
+  ],
+  "sources": [
+    {
+      "title": "Fed Waiver for Citicorp Merger",
+      "url": "https://www.federalregister.gov/documents/1998/09/23/98-25456/citicorp-new-york-new-york-order-approving-formation-of-a-bank-holding-company",
+      "outlet": "Federal Register",
+      "date": "1998-09-01"
+    },
+    {
+      "title": "Citigroup Merger Creates Financial Giant",
+      "url": "https://www.wsj.com/articles/SB891132908068471000",
+      "outlet": "Wall Street Journal",
+      "date": "1998-04-06"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

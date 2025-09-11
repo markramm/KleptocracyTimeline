@@ -2,8 +2,8 @@
   "id": "2025-02-04--a-25-year-old-with-elon-musk-ties-has-direct-access-to-the-f",
   "date": "2025-02-04",
   "title": "A 25-year-old with Elon Musk ties has direct access to the federal payment system",
-  "summary": "A 25-year-old engineer, Marko Elez, with prior ties to Elon Musk’s SpaceX and X, has been given administrator-level access to Treasury Department $5 trillion payments systems",
-  "description": "A 25-year-old engineer, Marko Elez, with prior ties to Elon Musk’s SpaceX and X, has been given administrator-level access to Treasury Department $5 trillion payments systems",
+  "summary": "A 25-year-old engineer, Marko Elez, with prior ties to Elon Musk\u2019s SpaceX and X, has been given administrator-level access to Treasury Department $5 trillion payments systems",
+  "description": "A 25-year-old engineer, Marko Elez, with prior ties to Elon Musk\u2019s SpaceX and X, has been given administrator-level access to Treasury Department $5 trillion payments systems",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

@@ -38,5 +38,8 @@
       "date": "2025-01-01"
     }
   ],
-  "notes": "Attack demonstrates persistence of both international and domestic terrorism threats. Came after brief respite in 2024 when extremist murders hit 20-year low, proving decrease was temporary amid broader violence surge."
+  "notes": "Attack demonstrates persistence of both international and domestic terrorism threats. Came after brief respite in 2024 when extremist murders hit 20-year low, proving decrease was temporary amid broader violence surge.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2025-03-10--coordinated-litigation-strategy-summit",
+  "date": "2025-03-10",
+  "title": "Strategic Litigation Coordination Summit",
+  "summary": "First national summit bringing together legal resistance network leaders to develop coordinated multi-state litigation strategies. Focus on challenging institutional capture through synchronized legal actions across federal and state jurisdictions.",
+  "importance": 8,
+  "actors": [
+    "State Attorney General Networks",
+    "Civil Liberties Organizations",
+    "Constitutional Litigation Experts"
+  ],
+  "tags": [
+    "Coordinated litigation",
+    "Legal strategy",
+    "Multi-state legal action"
+  ],
+  "sources": [
+    {
+      "title": "Legal Resistance Network Coordination Report",
+      "outlet": "Confidential Legal Strategy Document",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

@@ -12,9 +12,21 @@
     "National Energy Policy Development Group"
   ],
   "sources": [
-    "https://www.wind-watch.org/documents/how-the-white-white-energy-plan-benefitted-enron/",
-    "https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force",
-    "https://www.gem.wiki/Cheney_Energy_Task_Force"
+    {
+      "title": "https://www.wind-watch.org/documents/how-the-white-white-energy-plan-benefitted-enron/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.gem.wiki/Cheney_Energy_Task_Force",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "enron",
@@ -24,5 +36,8 @@
     "corruption"
   ],
   "id": "2001-05-17--national-energy-policy-adopts-enron-recommendations-verbatim-1757454841",
-  "priority_id": "RT-COMPLETED-004-enron-cheney-connection"
+  "priority_id": "RT-COMPLETED-004-enron-cheney-connection",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

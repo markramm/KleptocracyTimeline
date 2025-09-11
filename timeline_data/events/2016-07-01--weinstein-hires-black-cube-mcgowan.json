@@ -38,5 +38,10 @@
     }
   ],
   "notes": "Explicit goal to \"completely stop publication.\" Agent posed as women's rights advocate. 4 secretly recorded meetings. Also hired K2 and Kroll. Industrial-scale intimidation operation.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

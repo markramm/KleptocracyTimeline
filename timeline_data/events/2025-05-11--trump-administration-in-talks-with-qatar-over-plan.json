@@ -2,8 +2,8 @@
   "id": "2025-05-11--trump-administration-in-talks-with-qatar-over-plan",
   "date": "2025-05-11",
   "title": "Trump administration in talks with Qatar over plane gift",
-  "summary": "Trump held talks with Qatar to accept a $400 million Boeing 747 as a replacement for Air Force One–which he plans to keep as part of his presidential library after leaving office",
-  "description": "Trump held talks with Qatar to accept a $400 million Boeing 747 as a replacement for Air Force One–which he plans to keep as part of his presidential library after leaving office",
+  "summary": "Trump held talks with Qatar to accept a $400 million Boeing 747 as a replacement for Air Force One\u2013which he plans to keep as part of his presidential library after leaving office",
+  "description": "Trump held talks with Qatar to accept a $400 million Boeing 747 as a replacement for Air Force One\u2013which he plans to keep as part of his presidential library after leaving office",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -54,5 +54,8 @@
   ],
   "notes": "High-priority kleptocratic event from comprehensive timeline.",
   "_merge_note": "Enhanced with information from duplicate event: 2025-05-11--trump-administration-in-talks-with-qatar-over-plane-gift",
-  "_merge_timestamp": "2025-09-05T23:46:55.901357"
+  "_merge_timestamp": "2025-09-05T23:46:55.901357",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

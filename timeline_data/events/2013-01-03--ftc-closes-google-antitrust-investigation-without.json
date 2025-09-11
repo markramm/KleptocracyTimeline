@@ -1,0 +1,42 @@
+{
+  "date": "2013-01-03",
+  "title": "FTC Closes Google Antitrust Investigation Without Action Despite Staff Recommendation",
+  "summary": "The Federal Trade Commission closed its 19-month antitrust investigation of Google without bringing charges, despite FTC staff attorneys recommending legal action. Google had conducted 230 meetings with the White House during 2012-2013, demonstrating unprecedented regulatory capture. Internal FTC memos later revealed staff regarded Google's conduct as detrimental to consumers and causing \"real and substantial harm to Google's competitors.\" The settlement allowed Google to continue its anticompetitive practices while making only minor concessions regarding patent licensing and advertiser flexibility. This marked a pivotal moment where regulatory capture enabled Big Tech to avoid meaningful antitrust enforcement.",
+  "actors": [
+    "Federal Trade Commission",
+    "Google Inc.",
+    "Larry Page",
+    "Eric Schmidt",
+    "FTC Staff Attorneys",
+    "Obama Administration"
+  ],
+  "sources": [
+    {
+      "title": "https://www.ftc.gov/legal-library/browse/cases-proceedings/public-statements/statement-federal-trade-commission-regarding-googles-search-practices-matter-google-inc",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://searchengineland.com/ftc-law-protects-competition-not-competitors-says-not-enough-evidence-to-prove-search-bias-144119",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory-capture",
+    "tech-industry",
+    "antitrust",
+    "google",
+    "ftc"
+  ],
+  "status": "confirmed",
+  "id": "2013-01-03--ftc-closes-google-antitrust-investigation-without",
+  "priority_id": "claude-priority-tech-antitrust-regulatory-capture",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

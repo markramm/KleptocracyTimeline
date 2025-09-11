@@ -8,7 +8,8 @@
     {
       "url": "https://www.fiercetelecom.com/telecom/verizon-nsa-surveillance-contracts-disclosed",
       "title": "Verizon NSA Contract Awards Documentation",
-      "type": "industry_report"
+      "type": "industry_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -25,5 +26,8 @@
   "actors": [
     "Bush Administration"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

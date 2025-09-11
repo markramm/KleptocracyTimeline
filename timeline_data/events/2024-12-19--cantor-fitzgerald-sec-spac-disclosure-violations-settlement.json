@@ -1,0 +1,33 @@
+{
+  "id": "2024-12-19--cantor-fitzgerald-sec-spac-disclosure-violations-settlement",
+  "date": "2024-12-19",
+  "title": "SEC Charges Cantor Fitzgerald $6.75 Million for SPAC Disclosure Violations",
+  "summary": "The SEC charged Cantor Fitzgerald $6.75 million for disclosure violations related to SPAC underwriting activities, finding the firm failed to properly disclose conflicts of interest and compensation arrangements in multiple SPAC transactions. This settlement preceded Howard Lutnick's appointment as Commerce Secretary, creating additional conflicts given his firm's history of regulatory violations and his current oversight of cryptocurrency policy while maintaining a $600 million Tether stake.",
+  "status": "confirmed",
+  "actors": [
+    "Securities and Exchange Commission",
+    "Cantor Fitzgerald",
+    "Howard Lutnick (CEO)"
+  ],
+  "sources": [
+    {
+      "title": "SEC Charges Cantor Fitzgerald for SPAC Disclosure Failures",
+      "url": "https://www.sec.gov/news/press-release/2024-172",
+      "date": "2024-12-19",
+      "outlet": "SEC"
+    }
+  ],
+  "tags": [
+    "spac_fraud",
+    "disclosure_violations",
+    "sec_enforcement",
+    "cantor_fitzgerald",
+    "howard_lutnick",
+    "regulatory_capture"
+  ],
+  "importance": 7,
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

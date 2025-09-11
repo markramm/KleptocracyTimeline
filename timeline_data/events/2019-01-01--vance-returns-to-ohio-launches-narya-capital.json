@@ -1,0 +1,36 @@
+{
+  "date": "2019-01-01",
+  "title": "Vance Returns to Ohio, Launches Narya Capital",
+  "summary": "J.D. Vance returns to Ohio and co-founds Narya Capital venture firm with 5 million backing from Peter Thiel, Eric Schmidt, and other Silicon Valley elites, positioning for political run.",
+  "actors": [
+    "J.D. Vance",
+    "Peter Thiel",
+    "Eric Schmidt",
+    "Narya Capital"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "Narya Capital founding documents",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Forbes reporting",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "narya-capital",
+    "political-preparation",
+    "ohio-return",
+    "thiel-funding"
+  ],
+  "status": "confirmed",
+  "id": "2019-01-01--vance-returns-to-ohio-launches-narya-capital",
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

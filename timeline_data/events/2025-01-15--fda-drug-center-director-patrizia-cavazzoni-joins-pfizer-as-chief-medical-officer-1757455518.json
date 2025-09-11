@@ -9,8 +9,16 @@
     "Center for Drug Evaluation and Research"
   ],
   "sources": [
-    "https://www.agencyiq.com/blog/what-cder-director-patrizia-cavazzonis-retirement-means-for-fda/",
-    "https://www.biospace.com/fda/fda-job-cuts-key-departures-bring-revolving-door-debate-front-and-center"
+    {
+      "title": "https://www.agencyiq.com/blog/what-cder-director-patrizia-cavazzonis-retirement-means-for-fda/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.biospace.com/fda/fda-job-cuts-key-departures-bring-revolving-door-debate-front-and-center",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -22,5 +30,11 @@
   ],
   "status": "confirmed",
   "id": "2025-01-15--fda-drug-center-director-patrizia-cavazzoni-joins-pfizer-as-chief-medical-officer-1757455518",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

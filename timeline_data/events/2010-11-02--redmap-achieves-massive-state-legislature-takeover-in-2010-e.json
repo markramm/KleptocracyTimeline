@@ -1,0 +1,48 @@
+{
+  "id": "2010-11-02--redmap-achieves-massive-state-legislature-takeover-in-2010-e",
+  "title": "REDMAP Achieves Massive State Legislature Takeover in 2010 Elections",
+  "date": "2010-11-02",
+  "description": "The REDMAP project achieves unprecedented success in the 2010 midterm elections, fundamentally altering the balance of power in state legislatures across America. Prior to Election Day, Democrats controlled 60 state legislative chambers while Republicans controlled 36. After the elections, the balance flipped dramatically with Republicans controlling 55 chambers and Democrats reduced to 40. Republicans gained control of 21 legislative bodies and now hold majorities in both chambers in 25 states, up from 14. The project's targeted investments prove devastatingly effective: $1 million in Michigan results in a 20-seat pickup; $1 million in Ohio secures Republican control of the House; $1.1 million in Wisconsin flips both chambers; and over $1.2 million in North Carolina, combined with Art Pope's $2.3 million investment, delivers Republican control for the first time since Reconstruction. This systematic takeover gives Republicans control of the redistricting process in 10 of the 15 states that will gain or lose U.S. House seats following the 2010 census, affecting 193 of 435 total House seats including all seats from the swing states of Ohio, Pennsylvania, Michigan, and Wisconsin.",
+  "category": "Electoral Manipulation",
+  "tags": [
+    "gerrymandering",
+    "state capture",
+    "election results",
+    "redistricting control",
+    "systematic manipulation"
+  ],
+  "importance": 5,
+  "priority_id": "REDMAP Project Gerrymandering 2010",
+  "sources": [
+    {
+      "title": "2012 REDMAP Summary Report",
+      "url": "https://www.redistrictingmajorityproject.com/?p=646",
+      "type": "official",
+      "outlet": "TBD"
+    },
+    {
+      "title": "In 2010, Republicans 'Weaponized' Gerrymandering. Here's How They Did It.",
+      "url": "https://billmoyers.com/story/in-2010-republicans-weaponized-gerrymandering-heres-how-they-did-it/",
+      "type": "analysis",
+      "outlet": "TBD"
+    },
+    {
+      "title": "How The GOP's Project REDMAP Helped Them Fix Election Wins Until 2020",
+      "url": "https://allthatsinteresting.com/redmap-project",
+      "type": "investigation",
+      "outlet": "TBD"
+    }
+  ],
+  "actors": [
+    "{'name': 'Republican State Leadership Committee', 'role': 'coordinating_organization', 'type': 'organization'}",
+    "{'name': 'Art Pope', 'role': 'major_donor_north_carolina', 'type': 'individual'}",
+    "{'name': 'Koch Brothers Network', 'role': 'funding_source', 'type': 'organization'}",
+    "{'name': 'State Republican Parties', 'role': 'implementation_partners', 'type': 'organization'}",
+    "{'name': 'Caliper Corporation', 'role': 'mapping_technology_provider', 'type': 'organization'}"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
+}

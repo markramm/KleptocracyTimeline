@@ -35,5 +35,8 @@
     }
   ],
   "notes": "Guaranteed minimum plus ad revenue share. Most popular podcast globally 3 years running. Shows Spotify's continued investment despite controversies. Total Rogan earnings from Spotify now $450M+. Platform dependency creates content shift.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

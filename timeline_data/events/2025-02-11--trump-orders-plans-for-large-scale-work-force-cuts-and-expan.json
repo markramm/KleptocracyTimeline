@@ -1,7 +1,7 @@
 {
   "id": "2025-02-11--trump-orders-plans-for-large-scale-work-force-cuts-and-expan",
   "date": "2025-02-11",
-  "title": "Trump orders plans for ‘large scale’ work force cuts and expands Musk’s power",
+  "title": "Trump orders plans for \u2018large scale\u2019 work force cuts and expands Musk\u2019s power",
   "summary": "Trump signed an executive order directing agencies to plan for mass federal workforce reductions and granted Elon Musk sweeping power over future hiring",
   "description": "Trump signed an executive order directing agencies to plan for mass federal workforce reductions and granted Elon Musk sweeping power over future hiring",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump orders plans for ‘large scale’ work force cuts and expands Musk’s power",
+      "title": "Trump orders plans for \u2018large scale\u2019 work force cuts and expands Musk\u2019s power",
       "url": "https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html",
       "outlet": "New York Times",
       "date": "2025-02-11"
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
 }

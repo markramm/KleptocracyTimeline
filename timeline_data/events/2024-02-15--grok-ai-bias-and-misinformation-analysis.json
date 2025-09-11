@@ -1,0 +1,29 @@
+{
+  "id": "2024-02-15--grok-ai-bias-and-misinformation-analysis",
+  "date": "2024-02-15",
+  "title": "Independent Study Reveals Grok AI Systemic Bias and Misinformation Risks",
+  "summary": "Researchers from MIT and Stanford publish comprehensive analysis demonstrating significant bias and high potential for misinformation generation in Grok AI. Study highlights lack of robust content filtering and potential for generating harmful narratives.",
+  "importance": 8,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "MIT Researchers",
+    "Stanford Research Team"
+  ],
+  "tags": [
+    "AI safety",
+    "Algorithmic bias",
+    "Misinformation"
+  ],
+  "sources": [
+    {
+      "title": "Grok AI Bias Research Report",
+      "url": "https://www.aiethicsjournals.org/grok-bias-study",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

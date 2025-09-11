@@ -2,8 +2,8 @@
   "id": "2025-07-24--fcc-approves-skydance-paramount",
   "date": "2025-07-24",
   "importance": 6,
-  "title": "FCC approves Skydance–Paramount merger 2–1; deal closes Aug. 7",
-  "summary": "The FCC approved Skydance’s purchase of Paramount in a 2–1 vote; the merger closed Aug. 7. Coverage noted unusual conditions and concerns about editorial independence.",
+  "title": "FCC approves Skydance\u2013Paramount merger 2\u20131; deal closes Aug. 7",
+  "summary": "The FCC approved Skydance\u2019s purchase of Paramount in a 2\u20131 vote; the merger closed Aug. 7. Coverage noted unusual conditions and concerns about editorial independence.",
   "tags": [
     "media",
     "regulators",
@@ -22,7 +22,7 @@
       "archive_url": "https://web.archive.org/web/20250814000000/https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs"
     },
     {
-      "title": "Reuters: US clears way for $8.4B Paramount–Skydance merger",
+      "title": "Reuters: US clears way for $8.4B Paramount\u2013Skydance merger",
       "url": "https://www.reuters.com/sustainability/boards-policy-regulation/us-clears-way-8-billion-paramount-skydance-merger-2025-07-25",
       "outlet": "Reuters",
       "date": "2025-07-25",
@@ -36,5 +36,7 @@
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ]
 }

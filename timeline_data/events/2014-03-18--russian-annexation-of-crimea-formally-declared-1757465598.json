@@ -9,8 +9,16 @@
     "Republic of Crimea"
   ],
   "sources": [
-    "https://www.reuters.com/article/ukraine-crisis-putin-speech-idUSL6N0ME4TA20140318",
-    "https://www.bbc.com/news/world-europe-26606097"
+    {
+      "title": "https://www.reuters.com/article/ukraine-crisis-putin-speech-idUSL6N0ME4TA20140318",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-europe-26606097",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -21,5 +29,10 @@
   ],
   "status": "confirmed",
   "id": "2014-03-18--russian-annexation-of-crimea-formally-declared-1757465598",
-  "priority_id": "RT-EXP-D1F3485F-russian-oligarch-nyc-property-boom"
+  "priority_id": "RT-EXP-D1F3485F-russian-oligarch-nyc-property-boom",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

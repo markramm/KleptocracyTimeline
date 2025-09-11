@@ -40,5 +40,11 @@
       "outlet": "The Guardian",
       "date": "2018-06-22"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

@@ -40,5 +40,9 @@
       "outlet": "Politico",
       "date": "2018-01-23"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Executive Power Expansion"
   ]
 }

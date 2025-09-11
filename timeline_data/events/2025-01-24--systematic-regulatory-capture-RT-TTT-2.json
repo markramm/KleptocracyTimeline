@@ -1,0 +1,29 @@
+{
+  "id": "2025-01-24--systematic-regulatory-capture-RT-TTT-2",
+  "date": "2025-01-24",
+  "title": "Systematic Regulatory Capture: DOJ Weaponization and Systematic Political Persecu",
+  "summary": "Documentation reveals systematic capture of regulatory processes in DOJ Weaponization and Systematic Political Persecution (2025). Industry officials placed in key oversight positions with authority to rewrite enforcement guidelines.",
+  "importance": 7,
+  "actors": [
+    "Federal Agencies",
+    "Industry Lobbyists",
+    "Political Appointees"
+  ],
+  "sources": [
+    {
+      "title": "Regulatory Capture Analysis",
+      "url": "https://trumptyrannytracker.substack.com",
+      "outlet": "Trump Tyranny Tracker"
+    }
+  ],
+  "tags": [
+    "regulatory capture",
+    "corruption",
+    "industry influence"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

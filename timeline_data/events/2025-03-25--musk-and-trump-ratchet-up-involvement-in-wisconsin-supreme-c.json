@@ -2,8 +2,8 @@
   "id": "2025-03-25--musk-and-trump-ratchet-up-involvement-in-wisconsin-supreme-c",
   "date": "2025-03-25",
   "title": "Musk and Trump ratchet up involvement in Wisconsin Supreme Court race",
-  "summary": "Musk’s PAC has poured $18 million into Wisconsin's Supreme Court race, where Tesla has a lawsuit challenging the state's “factory store” law, which prohibits vehicle manufacturers from directly selling cars",
-  "description": "Musk’s PAC has poured $18 million into Wisconsin's Supreme Court race, where Tesla has a lawsuit challenging the state's “factory store” law, which prohibits vehicle manufacturers from directly selling cars",
+  "summary": "Musk\u2019s PAC has poured $18 million into Wisconsin's Supreme Court race, where Tesla has a lawsuit challenging the state's \u201cfactory store\u201d law, which prohibits vehicle manufacturers from directly selling cars",
+  "description": "Musk\u2019s PAC has poured $18 million into Wisconsin's Supreme Court race, where Tesla has a lawsuit challenging the state's \u201cfactory store\u201d law, which prohibits vehicle manufacturers from directly selling cars",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Judicial Capture"
+  ]
 }

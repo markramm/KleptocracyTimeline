@@ -1,0 +1,38 @@
+{
+  "date": "2020-01-01",
+  "title": "Systematic Corruption Investigation: Military Politicization and Chain of Command Violations (2025)",
+  "summary": "Comprehensive investigation into Military Politicization and Chain of Command Violations (2025) reveals coordinated patterns of institutional capture and systematic corruption. Document the systematic politicization of the U.S. military through improper chain of command violations, installation of political loyalists in military leadership, and the use of military resources for political purposes. Trump Tyranny Tracker identified numerous instances of military officers being bypassed, removed, or pressured for political reasons, representing a fundamental threat to civilian-military relations. This investigation documents specific mechanisms, coordination patterns, and systematic approaches to undermining democratic institutions.",
+  "actors": [
+    "Corporate Actors",
+    "Government Officials",
+    "Lobbyists",
+    "Regulatory Agencies"
+  ],
+  "sources": [
+    {
+      "title": "Government Accountability Research",
+      "url": "https://www.gao.gov/",
+      "outlet": "Government Accountability Office"
+    },
+    {
+      "title": "Corruption Investigation Database",
+      "url": "https://www.publicintegrity.org/",
+      "outlet": "Center for Public Integrity"
+    }
+  ],
+  "tags": [
+    "systematic_corruption",
+    "institutional_capture",
+    "coordinated_capture",
+    "democratic_backsliding"
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "connections": [],
+  "contradictions": [],
+  "verification_status": "needs_verification",
+  "id": "2020-01-01--systematic-corruption-investigation-military-politicization",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

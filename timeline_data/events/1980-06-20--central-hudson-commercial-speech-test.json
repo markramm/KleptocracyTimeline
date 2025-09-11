@@ -51,5 +51,9 @@
     }
   ],
   "notes": "Powell's four-part test requires (1) speech concerns lawful activity and is not misleading, (2) governmental interest is substantial, (3) regulation directly advances that interest, and (4) restriction is \"not more extensive than necessary.\" Decision arose from 1973 energy crisis advertising ban that remained after shortage ended. Only Justice Rehnquist dissented. Central Hudson test remains dominant framework for commercial speech cases. Further implements Powell's 1971 memo strategy of using courts to expand business rights, extending beyond political speech (Bellotti) to commercial advertising rights.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Intelligence Penetration"
+  ]
 }

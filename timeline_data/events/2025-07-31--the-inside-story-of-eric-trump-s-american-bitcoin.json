@@ -1,9 +1,9 @@
 {
   "id": "2025-07-31--the-inside-story-of-eric-trump-s-american-bitcoin",
   "date": "2025-07-31",
-  "title": "The inside story of Eric Trump’s American Bitcoin",
-  "summary": "American Bitcoin, Eric Trump’s crypto venture, has raised $220 million to build a massive US bitcoin reserve after launching late last year",
-  "description": "American Bitcoin, Eric Trump’s crypto venture, has raised $220 million to build a massive US bitcoin reserve after launching late last year",
+  "title": "The inside story of Eric Trump\u2019s American Bitcoin",
+  "summary": "American Bitcoin, Eric Trump\u2019s crypto venture, has raised $220 million to build a massive US bitcoin reserve after launching late last year",
+  "description": "American Bitcoin, Eric Trump\u2019s crypto venture, has raised $220 million to build a massive US bitcoin reserve after launching late last year",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "The inside story of Eric Trump’s American Bitcoin",
+      "title": "The inside story of Eric Trump\u2019s American Bitcoin",
       "url": "https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/?_sp=2b1cc2c7-616d-43f0-a3cf-b711e5b3432b.1754433047130",
       "outlet": "Wired",
       "date": "2025-07-31"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

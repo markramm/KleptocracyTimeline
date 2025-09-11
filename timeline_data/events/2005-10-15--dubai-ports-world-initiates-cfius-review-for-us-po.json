@@ -1,0 +1,38 @@
+{
+  "date": "2005-10-15",
+  "title": "Dubai Ports World Initiates CFIUS Review for US Port Acquisition",
+  "summary": "Dubai Ports World (DP World), a state-owned UAE company controlled by Dubai ruler Sheikh Mohammed bin Rashid Al Maktoum, approached the Committee on Foreign Investment in the United States (CFIUS) to clear regulatory hurdles for acquiring British firm P&O. The acquisition would give DP World management contracts for six major US ports. CFIUS requested an intelligence assessment on November 2, 2005, before DP World and P&O formally filed. This initiated a controversial 45-day review process that exposed significant intelligence gaps. Coast Guard intelligence officials later raised security concerns, stating that broad intelligence gaps prevented proper risk assessment of DP World's operations, personnel, and foreign influence - all relating to potential support for terrorist operations.",
+  "actors": [
+    "Dubai Ports World",
+    "Sheikh Mohammed bin Rashid Al Maktoum",
+    "CFIUS",
+    "US Coast Guard",
+    "P&O"
+  ],
+  "tags": [
+    "foreign-investment",
+    "national-security",
+    "regulatory-capture",
+    "intelligence-gaps"
+  ],
+  "importance": 7,
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Dubai_Ports_World_controversy",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://home.treasury.gov/news/press-releases/js4071",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2005-10-15--dubai-ports-world-initiates-cfius-review-for-us-po",
+  "priority_id": "RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

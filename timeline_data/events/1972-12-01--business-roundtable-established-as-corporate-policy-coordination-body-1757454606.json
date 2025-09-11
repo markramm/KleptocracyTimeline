@@ -9,8 +9,16 @@
     "Fortune 500 CEOs"
   ],
   "sources": [
-    "https://www.commondreams.org/views/2011/08/25/lewis-powell-memo-corporate-blueprint-dominate-democracy",
-    "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations"
+    {
+      "title": "https://www.commondreams.org/views/2011/08/25/lewis-powell-memo-corporate-blueprint-dominate-democracy",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "capture-cascade",
@@ -20,5 +28,8 @@
     "powell-memo"
   ],
   "id": "1972-12-01--business-roundtable-established-as-corporate-policy-coordination-body-1757454606",
-  "priority_id": "RP-20250109-capture-cascade-part1"
+  "priority_id": "RP-20250109-capture-cascade-part1",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

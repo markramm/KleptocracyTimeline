@@ -36,5 +36,9 @@
       "date": "2004-05-18"
     }
   ],
-  "notes": "The $1.9 billion sale price reflects the massive commercial value of intelligence capabilities that had been pushed into private hands by post-Watergate reforms, creating a shadow intelligence industry serving the highest bidders. Sale demonstrates how post-Watergate intelligence privatization created lucrative industry where former government capabilities were monetized through private firms serving corporate clients and foreign governments without equivalent oversight."
+  "notes": "The $1.9 billion sale price reflects the massive commercial value of intelligence capabilities that had been pushed into private hands by post-Watergate reforms, creating a shadow intelligence industry serving the highest bidders. Sale demonstrates how post-Watergate intelligence privatization created lucrative industry where former government capabilities were monetized through private firms serving corporate clients and foreign governments without equivalent oversight.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

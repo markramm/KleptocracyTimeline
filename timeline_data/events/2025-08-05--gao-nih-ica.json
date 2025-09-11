@@ -37,5 +37,8 @@
       "outlet": "Government Executive",
       "date": "2025-08-05"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture"
   ]
 }

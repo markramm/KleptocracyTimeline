@@ -18,7 +18,7 @@
     "institutional-defense"
   ],
   "citations": [
-    "Federal News Network — Senate appropriators reject House proposal to halve GAO's budget (Jul 10, 2025): https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year/"
+    "Federal News Network \u2014 Senate appropriators reject House proposal to halve GAO's budget (Jul 10, 2025): https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year/"
   ],
   "notes": "Senate pushback against House attempt to gut oversight capacity, though the original attempt still demonstrates institutional pressure.",
   "sources": [
@@ -47,5 +47,9 @@
       "date": "2025-06-27"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
 }

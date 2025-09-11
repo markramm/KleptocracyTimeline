@@ -1,0 +1,32 @@
+{
+  "date": "2020-10-21",
+  "title": "Trump Issues Original Schedule F Executive Order: Civil Service Protection Elimination",
+  "summary": "President Trump signs executive order creating Schedule F classification to strip job protections from federal employees in \"policy-determining, policy-making, or policy-advocating\" positions. This represents systematic effort to convert up to 50,000 career civil servants into at-will political appointees, coordinating with Heritage Foundation Project 2025 planning for comprehensive federal workforce capture.",
+  "actors": [
+    "Donald Trump",
+    "Office of Personnel Management",
+    "Heritage Foundation",
+    "Project 2025"
+  ],
+  "sources": [
+    {
+      "title": "Trump revives executive order aiming to strip some federal employees of civil service protections",
+      "url": "https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/",
+      "outlet": "Federal News Network"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "schedule_f",
+    "civil_service_capture",
+    "systematic_coordination",
+    "federal_workforce",
+    "institutional_capture"
+  ],
+  "status": "confirmed",
+  "id": "2020-10-21--trump-issues-original-schedule-f-executive-order",
+  "capture_lanes": [
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

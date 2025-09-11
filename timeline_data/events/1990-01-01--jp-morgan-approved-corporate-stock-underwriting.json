@@ -1,0 +1,37 @@
+{
+  "id": "1990-01-01--jp-morgan-approved-corporate-stock-underwriting",
+  "date": "1990-01-01",
+  "title": "Federal Reserve Approves JP Morgan Corporate Stock Underwriting",
+  "summary": "The Federal Reserve Board approves JP Morgan & Co. to underwrite corporate stock, completing the reunification of commercial and investment banking activities that Glass-Steagall had separated since 1933. With both the commercial (JP Morgan & Co.) and investment (Morgan Stanley) arms of the original House of Morgan now competing in securities markets, the Fed has effectively recreated the pre-1933 financial structure that Glass-Steagall was designed to prevent. This approval demonstrates complete regulatory capture, as the Fed systematically authorizes activities explicitly prohibited by congressional legislation.",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Federal Reserve Board",
+    "JP Morgan & Co.",
+    "Morgan Stanley"
+  ],
+  "tags": [
+    "corporate stock underwriting",
+    "JP Morgan",
+    "Morgan Stanley",
+    "Glass-Steagall violation",
+    "regulatory capture"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture"
+  ],
+  "sources": [
+    {
+      "title": "Decline of the Glass\u2013Steagall Act",
+      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass\u2013Steagall_Act",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "In 1990 Board approved J.P. Morgan & Co. underwriting corporate stock",
+        "Both commercial and investment arms of House of Morgan now competed in single market",
+        "Fed order recreated what Glass-Steagall sought to rule out"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

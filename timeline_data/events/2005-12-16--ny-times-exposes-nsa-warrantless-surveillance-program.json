@@ -61,5 +61,14 @@
   ],
   "notes": "This article marked a turning point in public awareness of domestic surveillance programs. The Bush administration had warned that revealing the program would have 'grave consequences for national security,' but the reporting exposed constitutional violations that had been occurring in secret for over four years. The FBI launched an aggressive leak investigation, and the NSA recommended DOJ investigate the source of the story.",
   "_merge_note": "Enhanced with information from duplicate event: 2005-12-16--nyt-reveals-bush-nsa-warrantless-surveillance-prog",
-  "_merge_timestamp": "2025-09-05T23:46:55.899063"
+  "_merge_timestamp": "2025-09-05T23:46:55.899063",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
 }

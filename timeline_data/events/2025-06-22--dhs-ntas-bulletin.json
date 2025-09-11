@@ -12,7 +12,9 @@
     "https://www.dhs.gov/ntas/advisory/national-terrorism-advisory-system-bulletin-june-22-2025"
   ],
   "id": "2025-06-22--dhs-ntas-bulletin",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "Threats include Iranian hacktivists targeting poorly secured networks, plots against officials for 2020 Soleimani killing, FTO calls (Hamas, Hezbollah, Houthis, PFLP) for attacks on US assets. Warns of hate crimes against Jewish/pro-Israel targets. Public urged to report suspicious activity to FBI/Fusion Centers.",
   "status": "confirmed",
   "sources": [
@@ -40,5 +42,10 @@
       "outlet": "Iowa Homeland Security",
       "date": "2025-06-23"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Intelligence Penetration"
   ]
 }

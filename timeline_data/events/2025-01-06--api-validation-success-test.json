@@ -1,0 +1,24 @@
+{
+  "date": "2025-01-06",
+  "title": "API Validation SUCCESS Test",
+  "summary": "Testing API validation with fixed logic - should auto-convert and succeed now",
+  "importance": 10,
+  "actors": [
+    "single-actor-string"
+  ],
+  "sources": [
+    {
+      "title": "single-source-string",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "single-tag"
+  ],
+  "id": "2025-01-06--api-validation-success-test",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

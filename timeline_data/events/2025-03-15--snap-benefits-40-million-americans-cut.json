@@ -53,5 +53,8 @@
     "project-2025-implementation",
     "attack-working-class"
   ],
-  "notes": "These changes represent the human cost of Project 2025 implementation. The 40 million Americans facing SNAP reductions include families, elderly, and disabled individuals who rely on food assistance. The elimination of Head Start removes early childhood education for over 1 million children, primarily from low-income families, perpetuating cycles of poverty. The removal of overtime protections for 4.3 million workers allows employers to demand longer hours without additional compensation. Together, these policies transfer economic security from working families to corporate interests while claiming to promote \"self-sufficiency.\""
+  "notes": "These changes represent the human cost of Project 2025 implementation. The 40 million Americans facing SNAP reductions include families, elderly, and disabled individuals who rely on food assistance. The elimination of Head Start removes early childhood education for over 1 million children, primarily from low-income families, perpetuating cycles of poverty. The removal of overtime protections for 4.3 million workers allows employers to demand longer hours without additional compensation. Together, these policies transfer economic security from working families to corporate interests while claiming to promote \"self-sufficiency.\"",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

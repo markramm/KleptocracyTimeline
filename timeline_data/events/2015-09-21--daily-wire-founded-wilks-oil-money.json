@@ -24,7 +24,7 @@
       "date": "2023-02-10"
     },
     {
-      "title": "How fracking billionaires built a climate denial empire—and bankrolled Ben Shapiro",
+      "title": "How fracking billionaires built a climate denial empire\u2014and bankrolled Ben Shapiro",
       "url": "https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/",
       "outlet": "VICE",
       "date": "2023-04-20"
@@ -36,5 +36,8 @@
       "date": "2018-10-05"
     }
   ],
-  "notes": "Marked \"reported\" because details rely on investigative reporting and a public\nstatement by Shapiro rather than formal filings. Consider supplementing with\nany available corporate records for ownership history.\n"
+  "notes": "Marked \"reported\" because details rely on investigative reporting and a public\nstatement by Shapiro rather than formal filings. Consider supplementing with\nany available corporate records for ownership history.\n",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

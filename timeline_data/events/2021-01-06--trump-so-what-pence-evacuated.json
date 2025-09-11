@@ -30,5 +30,11 @@
       "date": "2025-01-14"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

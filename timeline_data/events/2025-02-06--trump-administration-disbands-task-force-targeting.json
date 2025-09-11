@@ -53,5 +53,8 @@
     "justice-obstruction",
     "oligarch-protection"
   ],
-  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined."
+  "notes": "This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

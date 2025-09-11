@@ -3,7 +3,7 @@
   "date": "2003-03-01",
   "importance": 9,
   "title": "Vanity Fair editor removes Epstein victim allegations after intimidation meeting",
-  "summary": "Vanity Fair editor Graydon Carter removes allegations from reporter Vicky Ward's exposé about Jeffrey Epstein's abuse of underage girls after a meeting with Epstein. The original story included detailed accounts from victims, but the published version omitted these crucial allegations, representing a major media cover-up that protected Epstein for years.",
+  "summary": "Vanity Fair editor Graydon Carter removes allegations from reporter Vicky Ward's expos\u00e9 about Jeffrey Epstein's abuse of underage girls after a meeting with Epstein. The original story included detailed accounts from victims, but the published version omitted these crucial allegations, representing a major media cover-up that protected Epstein for years.",
   "actors": [
     "Graydon Carter",
     "Vicky Ward",
@@ -40,5 +40,9 @@
       "outlet": "Vanity Fair",
       "date": "2003-03-01"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
   ]
 }

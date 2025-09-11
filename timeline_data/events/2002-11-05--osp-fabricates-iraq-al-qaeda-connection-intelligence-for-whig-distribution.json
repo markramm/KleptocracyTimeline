@@ -8,7 +8,8 @@
     {
       "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/04/05/AR2007040502263.html",
       "title": "Pentagon Report on Pre-War Intelligence Activities",
-      "type": "government_report"
+      "type": "government_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,8 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

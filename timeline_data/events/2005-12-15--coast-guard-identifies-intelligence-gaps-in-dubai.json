@@ -1,0 +1,39 @@
+{
+  "date": "2005-12-15",
+  "title": "Coast Guard Identifies Intelligence Gaps in Dubai Ports Security Assessment",
+  "summary": "US Coast Guard intelligence officials produced a classified report raising significant security risks associated with DP World's proposed management of US port operations. The assessment identified critical intelligence gaps preventing proper evaluation of risks from DP World's operations, personnel, and potential foreign influence that could support terrorist activities. The report highlighted UAE's problematic connections: it was one of only three countries to recognize the Taliban government, the 9/11 Commission found most attack financing flowed through UAE, two September 11 hijackers were UAE citizens, and the country served as a key transfer point for illegal nuclear components to Iran, North Korea, and Libya. These intelligence concerns would later fuel Congressional opposition to the deal.",
+  "actors": [
+    "US Coast Guard",
+    "UAE",
+    "Taliban",
+    "9/11 Commission",
+    "Dubai Ports World"
+  ],
+  "tags": [
+    "intelligence-assessment",
+    "national-security",
+    "terrorism-financing",
+    "regulatory-gaps"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "https://www.nti.org/analysis/articles/dp-world-and-us-port-security/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.govinfo.gov/content/pkg/CHRG-109hhrg32987/html/CHRG-109hhrg32987.htm",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2005-12-15--coast-guard-identifies-intelligence-gaps-in-dubai",
+  "priority_id": "RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "2013-06-01--aleksandr-kogan-creates-thisisyourdigitallife-facebook-data-harvesting-app",
+  "date": "2013-06-01",
+  "title": "Aleksandr Kogan Creates \"thisisyourdigitallife\" Facebook Data Harvesting App",
+  "summary": "University of Cambridge researcher Aleksandr Kogan develops the \"thisisyourdigitallife\" personality quiz app through his company Global Science Research, designed to exploit Facebook's API permissions to harvest user data. The app is marketed as a psychological research tool offering personality predictions, but is actually designed to collect personal information from both quiz-takers and all their Facebook friends without explicit consent. Kogan's app leverages Facebook's permissive data sharing policies to access profile information, posts, likes, and friend networks. This marks the beginning of systematic data collection that would eventually compromise 87 million Facebook users' personal information for political manipulation purposes by Cambridge Analytica.",
+  "importance": 8,
+  "actors": [
+    "Aleksandr Kogan",
+    "Global Science Research",
+    "University of Cambridge",
+    "Facebook",
+    "Cambridge Analytica precursors"
+  ],
+  "tags": [
+    "aleksandr_kogan",
+    "thisisyourdigitallife",
+    "data_harvesting",
+    "facebook_api",
+    "personality_quiz",
+    "systematic_data_collection"
+  ],
+  "sources": [
+    {
+      "title": "Facebook-Cambridge Analytica Data Scandal",
+      "url": "https://en.wikipedia.org/wiki/Facebook\u2013Cambridge_Analytica_data_scandal",
+      "outlet": "Wikipedia",
+      "date": "2013-06-01"
+    },
+    {
+      "title": "Cambridge Analytica Timeline",
+      "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html",
+      "outlet": "CNBC",
+      "date": "2018-04-10"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

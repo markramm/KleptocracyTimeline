@@ -52,5 +52,10 @@
     "cabinet-corruption",
     "environmental-destruction",
     "public-land-privatization"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

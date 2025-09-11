@@ -1,0 +1,41 @@
+{
+  "id": "1984-07-01--maxwell-daily-mirror-acquisition-media-empire-expansion",
+  "date": "1984-07-01",
+  "title": "Maxwell Acquires Daily Mirror for \u00a3113 Million, Expanding Media Empire",
+  "summary": "Robert Maxwell acquires Mirror Group Newspapers (MGN) from Reed International for \u00a3113 million, gaining control of six British newspapers including the Daily Mirror, traditionally a pro-Labour tabloid. This acquisition significantly expands Maxwell's media influence in Britain and triggers a media war with Rupert Murdoch. The Daily Mirror acquisition provides Maxwell with a major platform for information warfare and intelligence influence operations, while his continued Eastern Bloc connections raise questions about foreign intelligence penetration of British media infrastructure.",
+  "importance": 8,
+  "location": "London, UK",
+  "actors": [
+    "Robert Maxwell",
+    "Mirror Group Newspapers",
+    "Reed International",
+    "Daily Mirror",
+    "Rupert Murdoch"
+  ],
+  "tags": [
+    "Robert Maxwell",
+    "Daily Mirror",
+    "media acquisition",
+    "Mirror Group Newspapers",
+    "media empire",
+    "information warfare",
+    "British media"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control"
+  ],
+  "sources": [
+    {
+      "title": "Robert Maxwell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Maxwell",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Maxwell acquired MGN from Reed International for \u00a3113 million in July 1984",
+        "Acquisition included six British newspapers including Daily Mirror",
+        "Triggered media war with Rupert Murdoch"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

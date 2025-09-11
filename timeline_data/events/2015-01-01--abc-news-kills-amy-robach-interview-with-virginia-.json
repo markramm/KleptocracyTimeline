@@ -42,5 +42,10 @@
       "outlet": "The Atlantic",
       "date": "2019-11-07"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

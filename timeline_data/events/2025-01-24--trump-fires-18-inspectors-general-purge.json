@@ -69,5 +69,12 @@
   ],
   "status": "confirmed",
   "_merge_note": "Enhanced with information from duplicate event: 2025-01-24--inspector-general-mass-firings",
-  "_merge_timestamp": "2025-09-05T23:46:55.898503"
+  "_merge_timestamp": "2025-09-05T23:46:55.898503",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

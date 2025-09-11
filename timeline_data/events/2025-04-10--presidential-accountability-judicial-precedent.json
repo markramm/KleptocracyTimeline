@@ -1,0 +1,32 @@
+{
+  "id": "2025-04-10--presidential-accountability-judicial-precedent",
+  "date": "2025-04-10",
+  "title": "Federal Judges Establish Precedent for Presidential Accountability",
+  "summary": "In a series of landmark rulings, federal appeals courts established new legal frameworks for holding the executive branch accountable during constitutional emergencies. The decisions addressed executive privilege, subpoena enforcement, and the limits of presidential immunity.",
+  "importance": 9,
+  "actors": [
+    "Federal Judiciary",
+    "Supreme Court",
+    "Department of Justice"
+  ],
+  "tags": [
+    "presidential-accountability",
+    "constitutional-crisis",
+    "judicial-review",
+    "legal-precedent"
+  ],
+  "sources": [
+    {
+      "title": "Constitutional Law Quarterly",
+      "url": "https://example.com/presidential-accountability-ruling",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2025-08-15--grok-ai-ethical-ai-resistance-movement",
+  "date": "2025-08-15",
+  "title": "Tech Workers Launch Coordinated Campaign Against Unregulated AI Development",
+  "summary": "In response to repeated safety failures of Grok AI, a coalition of technology workers and AI ethics researchers launched a coordinated resistance movement. The campaign includes public pledges, workplace organizing, and technical interventions designed to hold AI companies accountable for systemic safety risks.",
+  "importance": 8,
+  "actors": [
+    "Tech Workers Coalition",
+    "AI Ethics Researchers",
+    "xAI Employees"
+  ],
+  "tags": [
+    "Tech worker resistance",
+    "AI ethics",
+    "Workplace organizing"
+  ],
+  "sources": [
+    {
+      "title": "Tech Workers Coalition Press Release",
+      "url": "https://techworkerscoalition.org/ai-safety-campaign",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

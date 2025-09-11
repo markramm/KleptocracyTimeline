@@ -9,8 +9,16 @@
   ],
   "importance": 10,
   "sources": [
-    "Trump campaign announcement",
-    "Official VP nomination"
+    {
+      "title": "Trump campaign announcement",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Official VP nomination",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "vp-nomination",
@@ -20,5 +28,8 @@
   ],
   "status": "confirmed",
   "id": "2024-07-15--trump-selects-vance-as-vp-running-mate-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

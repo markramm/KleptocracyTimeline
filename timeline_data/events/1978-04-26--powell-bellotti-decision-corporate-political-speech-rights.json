@@ -1,0 +1,37 @@
+{
+  "id": "1978-04-26--powell-bellotti-decision-corporate-political-speech-rights",
+  "date": "1978-04-26",
+  "title": "Powell Authors Bellotti Decision Granting Corporations First Amendment Political Rights",
+  "summary": "Justice Lewis Powell authors the majority opinion in First National Bank of Boston v. Bellotti, holding for the first time that corporations have First Amendment rights to influence political ballot questions through unlimited expenditures. Powell's 5-4 decision directly implements his 1971 memo's call for corporate political activism, writing that corporate speech receives the same constitutional protection as individual political speech. This decision becomes the foundation for Citizens United (2010) and establishes the constitutional framework for unlimited corporate influence in elections that Powell had advocated in his secret corporate blueprint.",
+  "importance": 10,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Lewis F. Powell Jr.",
+    "First National Bank of Boston",
+    "Supreme Court"
+  ],
+  "tags": [
+    "Bellotti decision",
+    "corporate political speech",
+    "First Amendment",
+    "political influence",
+    "Citizens United foundation"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "The Scheme 2: Powell on the Court",
+      "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/",
+      "outlet": "Senator Sheldon Whitehouse",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Powell authored majority opinion in First National Bank v. Bellotti",
+        "Decision held corporations have First Amendment right to influence ballot initiatives",
+        "5-4 decision granting corporations constitutional right to political activity"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

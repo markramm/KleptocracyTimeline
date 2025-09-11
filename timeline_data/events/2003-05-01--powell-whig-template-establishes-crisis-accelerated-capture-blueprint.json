@@ -1,5 +1,5 @@
 {
-  "id": "2003-05-01--powell-whig-template-establishes-crisis-accelerated-capture-blueprint", 
+  "id": "2003-05-01--powell-whig-template-establishes-crisis-accelerated-capture-blueprint",
   "date": "2003-05-01",
   "importance": 9,
   "title": "Powell-WHIG Template Establishes Crisis-Accelerated Institutional Capture Blueprint for Ongoing Democratic Transformation",
@@ -7,7 +7,7 @@
   "actors": [
     "George W. Bush",
     "Powell Memorandum Institutional Network",
-    "White House Iraq Group", 
+    "White House Iraq Group",
     "Heritage Foundation",
     "Federalist Society",
     "Corporate Media Networks",
@@ -19,7 +19,7 @@
   "tags": [
     "powell-memorandum-acceleration",
     "whig-template-establishment",
-    "crisis-accelerated-capture-blueprint", 
+    "crisis-accelerated-capture-blueprint",
     "institutional-transformation-template",
     "oligarchic-capture-culmination",
     "democratic-transformation-blueprint",
@@ -43,9 +43,15 @@
     },
     {
       "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
-      "url": "https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999", 
+      "url": "https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999",
       "outlet": "Metropolitan Books",
       "date": "2007-09-18"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

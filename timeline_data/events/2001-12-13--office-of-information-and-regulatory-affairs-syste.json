@@ -38,5 +38,11 @@
   "created_from": "research-priority-RT-011-project2025-systematic-institutional-capture",
   "created_date": "2025-09-06T03:41:26.656350",
   "category": "constitutional-crisis",
-  "verification_status": "documented"
+  "verification_status": "documented",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

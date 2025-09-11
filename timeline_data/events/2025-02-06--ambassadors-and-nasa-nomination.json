@@ -12,26 +12,32 @@
   ],
   "sources": [
     {
-      "title": "Reuters – Stephens nomination coverage",
+      "title": "Reuters \u2013 Stephens nomination coverage",
       "url": "https://www.reuters.com/world/uk/trump-nominates-warren-stephens-ambassador-uk-2025-02-06",
       "outlet": "Reuters",
       "date": "2025-02-06",
       "archive_url": "https://web.archive.org/web/20250814194913/https://www.reuters.com/"
     },
     {
-      "title": "State Dept – Announcement page (if archived)",
+      "title": "State Dept \u2013 Announcement page (if archived)",
       "url": "https://www.state.gov",
       "outlet": "U.S. State Department",
       "date": "2025-02-06",
       "archive_url": "https://web.archive.org/web/20250814000000/https://www.state.gov/"
     },
     {
-      "title": "NASA Watch – Isaacman nomination and withdrawal",
+      "title": "NASA Watch \u2013 Isaacman nomination and withdrawal",
       "url": "https://nasawatch.com/post/isaacman-nomination-withdrawn-2025",
       "outlet": "NASA Watch",
       "date": "2025-02-06"
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

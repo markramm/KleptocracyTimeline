@@ -1,0 +1,33 @@
+{
+  "id": "2025-01-23--doj-journalist-surveillance-expansion",
+  "date": "2025-01-23",
+  "title": "DOJ Expands Surveillance of Journalists Covering Administration",
+  "summary": "DOJ implements broad surveillance program targeting journalists reporting on 2016 Election Russian Social Media Shock Therapy Implementation. Program bypasses traditional media shield protections through national security classifications.",
+  "importance": 8,
+  "actors": [
+    "DOJ",
+    "FBI",
+    "Journalists",
+    "News Organizations"
+  ],
+  "sources": [
+    {
+      "title": "DOJ Press Surveillance Program",
+      "url": "https://trumptyrannytracker.substack.com",
+      "outlet": "Trump Tyranny Tracker"
+    }
+  ],
+  "tags": [
+    "press freedom",
+    "surveillance",
+    "doj",
+    "first amendment"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
+}

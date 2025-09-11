@@ -10,8 +10,16 @@
   ],
   "financial_impact": null,
   "sources": [
-    "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-    "https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/"
+    {
+      "title": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 7,
   "tags": [
@@ -20,5 +28,9 @@
     "systematic-messaging",
     "crisis-exploitation"
   ],
-  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration"
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

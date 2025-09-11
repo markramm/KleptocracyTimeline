@@ -39,5 +39,11 @@
       "date": "2020-09-20"
     }
   ],
-  "notes": "The bank paid $425 million to New York regulators and £163 million to UK authorities.\nMirror trades involved fake stock transactions to convert rubles to dollars through\noffshore accounts in Cyprus and British Virgin Islands. While no direct Trump involvement\nproven, the timing overlapped with Trump receiving major loans when other banks refused."
+  "notes": "The bank paid $425 million to New York regulators and \u00a3163 million to UK authorities.\nMirror trades involved fake stock transactions to convert rubles to dollars through\noffshore accounts in Cyprus and British Virgin Islands. While no direct Trump involvement\nproven, the timing overlapped with Trump receiving major loans when other banks refused.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

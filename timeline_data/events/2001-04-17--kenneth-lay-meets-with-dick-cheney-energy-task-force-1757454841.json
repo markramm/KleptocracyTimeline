@@ -11,9 +11,21 @@
     "National Energy Policy Development Group"
   ],
   "sources": [
-    "https://www.thenation.com/article/archive/enron-what-dick-cheney-knew/",
-    "https://www.wind-watch.org/documents/how-the-white-house-energy-plan-benefitted-enron/",
-    "https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force"
+    {
+      "title": "https://www.thenation.com/article/archive/enron-what-dick-cheney-knew/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.wind-watch.org/documents/how-the-white-house-energy-plan-benefitted-enron/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "enron",
@@ -23,5 +35,8 @@
     "corruption"
   ],
   "id": "2001-04-17--kenneth-lay-meets-with-dick-cheney-energy-task-force-1757454841",
-  "priority_id": "RT-COMPLETED-004-enron-cheney-connection"
+  "priority_id": "RT-COMPLETED-004-enron-cheney-connection",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

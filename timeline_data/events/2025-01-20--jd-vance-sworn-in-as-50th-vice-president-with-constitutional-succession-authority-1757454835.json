@@ -10,8 +10,16 @@
     "Donald Trump"
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/Vice_presidency_of_JD_Vance",
-    "https://www.newsx.com/trump-inauguration/vice-president-jd-vance-sworn-in-by-justice-brett-kavanaugh-at-2025-inauguration/"
+    {
+      "title": "https://en.wikipedia.org/wiki/Vice_presidency_of_JD_Vance",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.newsx.com/trump-inauguration/vice-president-jd-vance-sworn-in-by-justice-brett-kavanaugh-at-2025-inauguration/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "succession-risk",
@@ -21,5 +29,9 @@
     "constitutional-authority"
   ],
   "id": "2025-01-20--jd-vance-sworn-in-as-50th-vice-president-with-constitutional-succession-authority-1757454835",
-  "priority_id": "RP-20250909-vance-succession-risk-analysis"
+  "priority_id": "RP-20250909-vance-succession-risk-analysis",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Executive Power Expansion"
+  ]
 }

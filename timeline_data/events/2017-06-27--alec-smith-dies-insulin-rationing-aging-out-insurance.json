@@ -1,0 +1,54 @@
+{
+  "id": "2017-06-27--alec-smith-dies-insulin-rationing-aging-out-insurance",
+  "title": "Alec Raeshawn Smith Dies from Diabetic Ketoacidosis After Rationing Insulin Due to Unaffordable Costs",
+  "date": "2017-06-27",
+  "description": "Alec Raeshawn Smith, 26, was found dead in his apartment from diabetic ketoacidosis, 27 days after losing health insurance coverage when he aged out of his mother's plan. Diagnosed with type 1 diabetes at age 23, Smith faced $1,300 monthly costs for diabetes supplies without insurance\u2014most of that for insulin\u2014while earning $35,000 annually as a restaurant manager. He made too much to qualify for Medicaid but too little to afford available insurance plans with premiums of $450 per month and $7,600 annual deductibles. His death became a symbol of the deadly consequences of the insulin price-fixing cartel's artificially inflated prices, which forced patients to ration life-saving medication they could not afford.",
+  "category": "Patient Death",
+  "tags": [
+    "insulin rationing",
+    "patient death",
+    "alec smith",
+    "diabetic ketoacidosis",
+    "aging out insurance",
+    "insulin costs",
+    "healthcare crisis",
+    "pharmaceutical pricing",
+    "medicaid gap"
+  ],
+  "sources": [
+    {
+      "title": "Did Alex Smith Die at Age 26 Because He Couldn't Afford Insulin?",
+      "url": "https://www.snopes.com/fact-check/alex-smith-died-couldnt-afford-insulin/",
+      "type": "fact-check",
+      "credibility": "high",
+      "outlet": "TBD"
+    },
+    {
+      "title": "High Price Of Insulin Leads Patients To Ration The Drug. That Can Be Lethal",
+      "url": "https://www.npr.org/sections/health-shots/2018/09/01/641615877/insulins-high-cost-leads-to-lethal-rationing",
+      "type": "news",
+      "credibility": "high",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Why 1 in 4 patients with diabetes resort to rationing\u2014and how this 'dangerous solution' led to one 26-year-old's death",
+      "url": "https://www.advisory.com/daily-briefing/2018/09/14/insulin",
+      "type": "healthcare analysis",
+      "credibility": "high",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "priority_id": "insulin-price-fixing-pharmaceutical-cartel",
+  "actors": [
+    "{'name': 'Alec Raeshawn Smith', 'role': 'Victim of insulin price fixing', 'type': 'individual'}",
+    "{'name': 'Eli Lilly', 'role': 'Insulin manufacturer setting artificially high prices', 'type': 'corporation'}",
+    "{'name': 'Novo Nordisk', 'role': 'Insulin manufacturer setting artificially high prices', 'type': 'corporation'}",
+    "{'name': 'Sanofi', 'role': 'Insulin manufacturer setting artificially high prices', 'type': 'corporation'}"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

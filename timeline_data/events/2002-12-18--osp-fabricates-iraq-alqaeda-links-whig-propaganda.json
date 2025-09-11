@@ -8,7 +8,7 @@
     "Office of Special Plans",
     "White House Iraq Group",
     "Douglas Feith",
-    "Michael Maloof", 
+    "Michael Maloof",
     "David Wurmser",
     "Karl Rove",
     "Scooter Libby",
@@ -21,7 +21,7 @@
     "iraq-alqaeda-fabrication",
     "intelligence-manipulation",
     "feith",
-    "systematic-deception", 
+    "systematic-deception",
     "false-intelligence",
     "propaganda-coordination"
   ],
@@ -30,7 +30,7 @@
     {
       "title": "Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense for Policy",
       "url": "https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF",
-      "outlet": "Pentagon Inspector General", 
+      "outlet": "Pentagon Inspector General",
       "date": "2007-02-09"
     },
     {
@@ -45,5 +45,10 @@
       "outlet": "Washington Post",
       "date": "2004-06-21"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

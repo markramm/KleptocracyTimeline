@@ -18,7 +18,7 @@
     "institutional-weakening"
   ],
   "citations": [
-    "Federal News Network — GAO faces nearly 50% budget cut… (Jun 23, 2025): https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/"
+    "Federal News Network \u2014 GAO faces nearly 50% budget cut\u2026 (Jun 23, 2025): https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/"
   ],
   "notes": "Full committee advanced bill 34-28 party-line vote June 27. Rep Lynch: Decimating GAO makes government less efficient/accountable. Senate approved $812M (current level) instead. Bill redirects GAO to Congressional priorities vs self-directed work. Nearly $400M cut from current spending.",
   "sources": [
@@ -47,5 +47,9 @@
       "date": "2025-06-23"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
 }

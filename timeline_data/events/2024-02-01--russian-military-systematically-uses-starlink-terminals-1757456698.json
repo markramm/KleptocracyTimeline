@@ -10,9 +10,21 @@
   ],
   "importance": 9,
   "sources": [
-    "CNN",
-    "The Kyiv Independent",
-    "CNBC"
+    {
+      "title": "CNN",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "The Kyiv Independent",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "CNBC",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "starlink-russia",
@@ -22,5 +34,8 @@
   ],
   "status": "confirmed",
   "id": "2024-02-01--russian-military-systematically-uses-starlink-terminals-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

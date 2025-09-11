@@ -41,5 +41,10 @@
       "outlet": "U.S. Senate Committee on Indian Affairs",
       "date": "2006-11-20"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture"
   ]
 }

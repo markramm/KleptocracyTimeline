@@ -2,8 +2,8 @@
   "id": "2025-02-21--coinbase-says-sec-intends-to-drop-lawsuit-against-crypto-exc",
   "date": "2025-02-21",
   "title": "Coinbase says SEC intends to drop lawsuit against crypto exchange",
-  "summary": "The SEC intends to dismiss its two-year lawsuit against Coinbase—a key part of its effort to regulate crypto as a stock exchange",
-  "description": "The SEC intends to dismiss its two-year lawsuit against Coinbase—a key part of its effort to regulate crypto as a stock exchange",
+  "summary": "The SEC intends to dismiss its two-year lawsuit against Coinbase\u2014a key part of its effort to regulate crypto as a stock exchange",
+  "description": "The SEC intends to dismiss its two-year lawsuit against Coinbase\u2014a key part of its effort to regulate crypto as a stock exchange",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -35,5 +35,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

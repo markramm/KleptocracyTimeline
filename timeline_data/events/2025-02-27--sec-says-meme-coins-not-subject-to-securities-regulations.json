@@ -2,8 +2,8 @@
   "id": "2025-02-27--sec-says-meme-coins-not-subject-to-securities-regulations",
   "date": "2025-02-27",
   "title": "SEC says meme coins not subject to securities regulations",
-  "summary": "The SEC declared that memecoins, including Trump's $TRUMP token, are “collectibles” and not subject to federal securities laws",
-  "description": "The SEC declared that memecoins, including Trump's $TRUMP token, are “collectibles” and not subject to federal securities laws",
+  "summary": "The SEC declared that memecoins, including Trump's $TRUMP token, are \u201ccollectibles\u201d and not subject to federal securities laws",
+  "description": "The SEC declared that memecoins, including Trump's $TRUMP token, are \u201ccollectibles\u201d and not subject to federal securities laws",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

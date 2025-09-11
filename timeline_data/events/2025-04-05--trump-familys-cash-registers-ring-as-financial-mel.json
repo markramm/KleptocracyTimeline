@@ -1,7 +1,7 @@
 {
   "id": "2025-04-05--trump-familys-cash-registers-ring-as-financial-mel",
   "date": "2025-04-05",
-  "title": "Trump family’s cash registers ring as financial meltdown plays out",
+  "title": "Trump family\u2019s cash registers ring as financial meltdown plays out",
   "summary": "Trump spent the weekend cashing in and playing golf at his Florida resorts, and the Saudi-backed LIV Golf tournament rolled on at Trump National Doral",
   "description": "Trump spent the weekend cashing in and playing golf at his Florida resorts, and the Saudi-backed LIV Golf tournament rolled on at Trump National Doral",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump family’s cash registers ring as financial meltdown plays out",
+      "title": "Trump family\u2019s cash registers ring as financial meltdown plays out",
       "url": "https://www.nytimes.com/2025/04/05/us/politics/trump-family-saudi-golf.html",
       "outlet": "New York Times",
       "date": "2025-04-05"
@@ -51,5 +51,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion."
+  "notes": "Event from comprehensive timeline tracking democratic erosion.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

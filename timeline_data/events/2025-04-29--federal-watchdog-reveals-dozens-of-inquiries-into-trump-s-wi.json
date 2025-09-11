@@ -1,7 +1,7 @@
 {
   "id": "2025-04-29--federal-watchdog-reveals-dozens-of-inquiries-into-trump-s-wi",
   "date": "2025-04-29",
-  "title": "Federal watchdog reveals dozens of inquiries Into Trump’s withholding of funds",
+  "title": "Federal watchdog reveals dozens of inquiries Into Trump\u2019s withholding of funds",
   "summary": "The Government Accountability Office is investigating whether Trump illegally withheld over $430 billion in congressional appropriations from a variety of agencies",
   "description": "The Government Accountability Office is investigating whether Trump illegally withheld over $430 billion in congressional appropriations from a variety of agencies",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Federal watchdog reveals dozens of inquiries Into Trump’s withholding of funds",
+      "title": "Federal watchdog reveals dozens of inquiries Into Trump\u2019s withholding of funds",
       "url": "https://www.nytimes.com/2025/04/29/us/politics/trump-funds-gao.html",
       "outlet": "New York Times",
       "date": "2025-04-29"
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Financial Capture"
+  ]
 }

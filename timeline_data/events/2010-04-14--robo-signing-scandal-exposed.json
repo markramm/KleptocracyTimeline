@@ -24,5 +24,10 @@
       "outlet": "CBS News",
       "date": "2010-10-06"
     }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

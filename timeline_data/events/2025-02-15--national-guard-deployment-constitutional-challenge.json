@@ -1,0 +1,32 @@
+{
+  "id": "2025-02-15--national-guard-deployment-constitutional-challenge",
+  "date": "2025-02-15",
+  "title": "Landmark Case: Constitutional Challenge to National Guard Federalization",
+  "summary": "Supreme Court heard arguments in unprecedented case challenging presidential authority to federalize state National Guard units during the 2025 constitutional crisis. Key legal questions involved separation of powers, state vs. federal control, and emergency powers interpretation. Multiple states filed amicus briefs arguing executive overreach.",
+  "importance": 9,
+  "actors": [
+    "Supreme Court",
+    "Trump Administration",
+    "State Governors"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court Docket Analysis",
+      "url": "https://www.supremecourt.gov/docket/2025",
+      "outlet": "Supreme Court Official Records"
+    }
+  ],
+  "tags": [
+    "national-guard",
+    "constitutional-crisis",
+    "executive-power",
+    "separation-of-powers"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

@@ -42,8 +42,13 @@
     {
       "title": "The Italian Letter: How the Bush Administration Used a Fake Letter to Build the Case for War in Iraq",
       "url": "https://www.newyorker.com/magazine/2003/10/27/the-stovepipe",
-      "outlet": "The New Yorker", 
+      "outlet": "The New Yorker",
       "date": "2003-10-27"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

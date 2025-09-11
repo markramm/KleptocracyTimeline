@@ -1,0 +1,63 @@
+{
+  "id": "2019-06-15--josh-wilkerson-dies-insulin-rationing-walmart-insulin-switch",
+  "title": "Josh Wilkerson Dies After Switching to Cheaper Walmart Insulin Due to Unaffordable Prescription Costs",
+  "date": "2019-06-15",
+  "description": "Josh Wilkerson, 27, died from diabetes-related complications after switching to over-the-counter Walmart insulin when he could no longer afford prescription insulin costing $1,200 per month. After aging out of his stepfather's insurance at 26, Wilkerson consulted his endocrinologist who suggested Walmart's $25 insulin as an alternative. However, this older human insulin takes up to four hours to become effective versus 30 minutes for newer insulins. Wilkerson experienced severe complications including exhaustion, stomach pain, and increased aggression. He was hospitalized with diabetic ketoacidosis, blood sugar at 1,700, and brain swelling that caused strokes. His family removed life support on June 14, and he died June 15, 2019. His death highlighted how the insulin price-fixing cartel's inflated costs forced patients into dangerous rationing behaviors and substandard treatments.",
+  "category": "Patient Death",
+  "tags": [
+    "insulin rationing",
+    "patient death",
+    "josh wilkerson",
+    "walmart insulin",
+    "aging out insurance",
+    "diabetic ketoacidosis",
+    "healthcare crisis",
+    "insulin costs",
+    "pharmaceutical pricing",
+    "treatment downgrade"
+  ],
+  "sources": [
+    {
+      "title": "Over the counter insulin: Josh Wilkerson's death illustrates the risks for diabetics of human insulin",
+      "url": "https://www.washingtonpost.com/local/he-lost-his-insurance-and-turned-to-cheaper-form-of-insulin-it-was-a-fatal-decision/2019/08/02/106ee79a-b24d-11e9-8f6c-7828e68cb15f_story.html",
+      "type": "news",
+      "credibility": "high",
+      "outlet": "TBD"
+    },
+    {
+      "title": "27-year-old who couldn't afford $1,200 insulin copay dies after trying cheaper version",
+      "url": "https://www.fox5dc.com/news/27-year-old-who-couldnt-afford-1200-insulin-copay-dies-after-trying-cheaper-version",
+      "type": "news",
+      "credibility": "high",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Insulin Prices Killed Josh Wilkerson. Now His Mother Is Taking On Big Pharma",
+      "url": "https://truthout.org/articles/insulin-prices-killed-josh-wilkerson-now-his-mother-is-taking-on-big-pharma/",
+      "type": "investigative journalism",
+      "credibility": "high",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Josh Died Because His Insulin Cost Too Much",
+      "url": "https://www.t1international.com/blog/2019/08/01/josh-died-because-his-insulin-cost-too-much/",
+      "type": "advocacy organization",
+      "credibility": "high",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "priority_id": "insulin-price-fixing-pharmaceutical-cartel",
+  "actors": [
+    "{'name': 'Josh Wilkerson', 'role': 'Victim of insulin price fixing', 'type': 'individual'}",
+    "{'name': 'Eli Lilly', 'role': 'Insulin manufacturer setting artificially high prices', 'type': 'corporation'}",
+    "{'name': 'Novo Nordisk', 'role': 'Insulin manufacturer setting artificially high prices', 'type': 'corporation'}",
+    "{'name': 'Sanofi', 'role': 'Insulin manufacturer setting artificially high prices', 'type': 'corporation'}",
+    "{'name': 'Walmart', 'role': 'Pharmacy providing less effective insulin alternative', 'type': 'corporation'}"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

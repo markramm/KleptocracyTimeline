@@ -20,17 +20,20 @@
   ],
   "sources": [
     {
-      "title": "Experts explain your rights – as an immigrant or a bystander – if you're caught up in an ICE raid",
+      "title": "Experts explain your rights \u2013 as an immigrant or a bystander \u2013 if you're caught up in an ICE raid",
       "url": "https://www.cnn.com/2025/08/23/us/immigrant-bystander-rights-ice-raid",
       "outlet": "CNN",
       "date": "2025-08-23"
     },
     {
-      "title": "The ICE Raids — What You Need to Know",
+      "title": "The ICE Raids \u2014 What You Need to Know",
       "url": "https://hias.org/news/ice-raids-what-you-need-know/",
       "outlet": "HIAS",
       "date": "2025-08-01"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

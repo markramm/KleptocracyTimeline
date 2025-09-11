@@ -3,7 +3,7 @@
   "date": "2025-07-11",
   "importance": 6,
   "title": "Federal court restrains LAPD from using projectiles on journalists covering protests",
-  "summary": "Following dozens of reported injuries and detentions of credentialed journalists during LA protests, a judge granted a TRO barring LAPD from firing ‘less‑lethal’ munitions at reporters.",
+  "summary": "Following dozens of reported injuries and detentions of credentialed journalists during LA protests, a judge granted a TRO barring LAPD from firing \u2018less\u2011lethal\u2019 munitions at reporters.",
   "tags": [
     "press-freedom",
     "protests",
@@ -33,5 +33,7 @@
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ]
 }

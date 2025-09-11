@@ -1,0 +1,44 @@
+{
+  "date": "2018-05-08",
+  "title": "Armenian Velvet Revolution Succeeds: Anti-Corruption Movement Achieves Peaceful Transition",
+  "summary": "Nikol Pashinyan is elected Prime Minister of Armenia after massive grassroots protests against systematic corruption force out the ruling Republican Party. The movement, characterized by nonviolent civil disobedience and broad social participation, represents a successful civil society victory over kleptocratic governance without a single casualty.",
+  "actors": [
+    "Nikol Pashinyan",
+    "Armenian Civil Society",
+    "Republican Party of Armenia",
+    "My Step Alliance"
+  ],
+  "sources": [
+    {
+      "title": "https://www.gppac.net/news/armenias-velvet-revolution-civil-society-success-peace",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.fpri.org/article/2019/02/armenia-and-the-velvet-revolution-the-merits-and-flaws-of-a-protest-based-civil-society/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.journalofdemocracy.org/articles/armenias-velvet-revolution/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "resistance",
+    "civil-society",
+    "armenia",
+    "anti-corruption",
+    "nonviolent-revolution",
+    "grassroots"
+  ],
+  "status": "confirmed",
+  "id": "2018-05-08--armenian-velvet-revolution-succeeds-anti-corruption-movement",
+  "priority_id": "RP-20250909-resistance-movement-documentation",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Intelligence Penetration"
+  ]
+}

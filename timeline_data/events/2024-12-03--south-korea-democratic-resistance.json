@@ -1,0 +1,29 @@
+{
+  "id": "2024-12-03--south-korea-democratic-resistance",
+  "date": "2024-12-03",
+  "title": "South Korean Democratic Resistance Against Presidential Martial Law",
+  "summary": "Following a presidential martial law declaration, South Korean parliament and civil society demonstrate a coordinated resistance strategy. The response includes mass protests, parliamentary impeachment proceedings, and international diplomatic pressure, successfully reversing the authoritarian move and highlighting democratic resilience.",
+  "importance": 9,
+  "actors": [
+    "South Korean Parliament",
+    "Civil Society Organizations",
+    "International Democracy Watchdogs"
+  ],
+  "tags": [
+    "international-resistance",
+    "democratic-safeguards",
+    "parliamentary-action"
+  ],
+  "sources": [
+    {
+      "title": "South Korea Democracy Crisis Response Report",
+      "outlet": "EIU Democracy Index",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
+  ]
+}

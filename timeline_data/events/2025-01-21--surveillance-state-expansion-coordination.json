@@ -1,0 +1,34 @@
+{
+  "id": "2025-01-21--surveillance-state-expansion-coordination",
+  "date": "2025-01-21",
+  "title": "Surveillance State Expansion: White House Iraq Group (WHIG) Intelligence Manipul",
+  "summary": "Investigation into White House Iraq Group (WHIG) Intelligence Manipulation Campaign reveals coordinated expansion of domestic surveillance capabilities with reduced oversight. Analysis documents integration of intelligence community resources with political objectives, raising constitutional concerns about Fourth Amendment protections and separation of powers.",
+  "importance": 9,
+  "actors": [
+    "Intelligence Community",
+    "NSA",
+    "FBI",
+    "White House",
+    "Tech Companies"
+  ],
+  "sources": [
+    {
+      "title": "Surveillance Oversight Analysis",
+      "url": "https://surveillancetracker.org",
+      "outlet": "Electronic Frontier Foundation"
+    }
+  ],
+  "tags": [
+    "surveillance state",
+    "intelligence community",
+    "fourth amendment",
+    "domestic surveillance"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

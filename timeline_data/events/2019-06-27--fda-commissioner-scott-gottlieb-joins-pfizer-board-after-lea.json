@@ -1,0 +1,37 @@
+{
+  "id": "2019-06-27--fda-commissioner-scott-gottlieb-joins-pfizer-board-after-lea",
+  "title": "FDA Commissioner Scott Gottlieb Joins Pfizer Board After Leaving Agency",
+  "date": "2019-06-27",
+  "location": "Washington, DC, United States",
+  "category": "regulatory-capture",
+  "importance": 8,
+  "summary": "Former FDA Commissioner Scott Gottlieb joined Pfizer's board of directors less than three months after departing the FDA on April 5, 2019. Before his FDA appointment in May 2017, Gottlieb had extensive financial ties to the pharmaceutical industry through consulting work and board positions. As FDA Commissioner, he oversaw regulatory decisions affecting Pfizer and other major pharmaceutical companies. His rapid transition to Pfizer's board exemplifies the revolving door phenomenon, as he moved from regulating the pharmaceutical industry to directly representing one of its largest companies with over $53 billion in revenue in 2018. Gottlieb maintains several thousand shares of Pfizer stock and receives compensation in the six figures annually from the company. He frequently appears on CNBC as a Pfizer-sponsored guest, representing pharmaceutical industry interests in public discourse. This case illustrates the pattern where 9 out of 10 FDA commissioners moved to pharmaceutical companies between 2006-2019, raising concerns about regulatory independence and potential conflicts of interest in drug approval processes.",
+  "actors": [
+    "Scott Gottlieb",
+    "Pfizer",
+    "Food and Drug Administration",
+    "CNBC"
+  ],
+  "sources": [
+    {
+      "title": "https://www.citizen.org/article/outrage-of-the-month-revolving-door-to-fda-commissioners-office-sows-distrust-in-agency/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "priority_id": "claude-priority-regulatory-capture-pharma-fda",
+  "tags": [
+    "needs_tags"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

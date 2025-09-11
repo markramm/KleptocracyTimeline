@@ -2,8 +2,8 @@
   "id": "2025-04-11--doge-takes-over-federal-grants-website-wresting-control-of-b",
   "date": "2025-04-11",
   "title": "DOGE takes over federal grants website, wresting control of billions",
-  "summary": "Elon Musk’s operatives have taken over grants.gov, the main portal for federal grant applications, removing agency access and rerouting approvals through an unauthorized DOGE-monitored system–affecting over $500 billion in annual awards",
-  "description": "Elon Musk’s operatives have taken over grants.gov, the main portal for federal grant applications, removing agency access and rerouting approvals through an unauthorized DOGE-monitored system–affecting over $500 billion in annual awards",
+  "summary": "Elon Musk\u2019s operatives have taken over grants.gov, the main portal for federal grant applications, removing agency access and rerouting approvals through an unauthorized DOGE-monitored system\u2013affecting over $500 billion in annual awards",
+  "description": "Elon Musk\u2019s operatives have taken over grants.gov, the main portal for federal grant applications, removing agency access and rerouting approvals through an unauthorized DOGE-monitored system\u2013affecting over $500 billion in annual awards",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

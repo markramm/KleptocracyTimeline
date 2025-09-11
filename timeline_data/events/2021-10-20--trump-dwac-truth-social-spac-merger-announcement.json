@@ -1,0 +1,42 @@
+{
+  "id": "2021-10-20--trump-dwac-truth-social-spac-merger-announcement",
+  "title": "Trump Media & Technology Group Announces SPAC Merger with DWAC to Launch Truth Social",
+  "date": "2021-10-20",
+  "description": "Digital World Acquisition Corp (DWAC) and Trump Media & Technology Group announced a definitive merger agreement valuing TMTG at $875 million initially, with potential earnouts of $825 million. DWAC stock surged 357% following the announcement as retail investors poured in, despite undisclosed pre-IPO negotiations between DWAC leadership and Trump dating back to February 2021.",
+  "category": "financial_fraud",
+  "tags": [
+    "spac_fraud",
+    "truth_social",
+    "dwac",
+    "trump_media",
+    "retail_fraud",
+    "disclosure_violations"
+  ],
+  "sources": [
+    {
+      "title": "Trump SPAC shares DWAC soar on social media deal news",
+      "url": "https://www.cnbc.com/2021/10/21/trump-linked-spac-shares-soar-more-than-40percent-on-news-of-social-media-deal.html",
+      "date": "2021-10-21",
+      "outlet": "CNBC"
+    },
+    {
+      "title": "Trump Media's merger with DWAC gets regulatory nod. Trump could get a stake worth $4 billion",
+      "url": "https://www.cbsnews.com/news/trump-media-dwac-sec-approval-spac/",
+      "date": "2021-10-20",
+      "outlet": "CBS News"
+    }
+  ],
+  "importance": 9,
+  "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "actors": [
+    "Donald Trump",
+    "Digital World Acquisition Corp",
+    "Trump Media & Technology Group"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
+}

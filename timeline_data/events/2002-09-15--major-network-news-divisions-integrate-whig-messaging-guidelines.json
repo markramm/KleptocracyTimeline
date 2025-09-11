@@ -8,7 +8,8 @@
     {
       "url": "https://www.fair.org/extra/network-news-iraq-propaganda-analysis/",
       "title": "Network News and Iraq War Propaganda - Content Analysis",
-      "type": "academic_study"
+      "type": "academic_study",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,9 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Electoral Manipulation"
+  ]
 }

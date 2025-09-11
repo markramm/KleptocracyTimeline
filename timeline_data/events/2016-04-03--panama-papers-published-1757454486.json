@@ -9,8 +9,16 @@
     "Various world leaders"
   ],
   "sources": [
-    "https://www.icij.org/investigations/panama-papers/",
-    "https://panamapapers.icij.org/"
+    {
+      "title": "https://www.icij.org/investigations/panama-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://panamapapers.icij.org/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -22,5 +30,11 @@
   ],
   "status": "confirmed",
   "id": "2016-04-03--panama-papers-published-1757454486",
-  "priority_id": "RP-20250909-capture-cascade-part-2-the-accelerant"
+  "priority_id": "RP-20250909-capture-cascade-part-2-the-accelerant",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

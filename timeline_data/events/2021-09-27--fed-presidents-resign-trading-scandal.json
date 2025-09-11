@@ -1,0 +1,43 @@
+{
+  "id": "2021-09-27--fed-presidents-resign-trading-scandal",
+  "date": "2021-09-27",
+  "title": "Dallas and Boston Fed Presidents Resign Over Trading Scandal",
+  "summary": "Robert Kaplan (Dallas Fed) and Eric Rosengren (Boston Fed) announce resignations within hours of each other following massive public backlash over their 2020 trading activities. Rosengren claims early retirement due to 'kidney condition' while Kaplan admits his financial dealings risk 'becoming a distraction.' Their simultaneous resignations demonstrate systematic corruption within Federal Reserve regional banks where senior officials routinely exploit privileged information for personal profit while setting monetary policy affecting millions of Americans during economic crisis.",
+  "importance": 9,
+  "tags": [
+    "federal_reserve",
+    "resignation",
+    "trading_scandal",
+    "robert_kaplan",
+    "eric_rosengren",
+    "institutional_corruption",
+    "dallas_fed",
+    "boston_fed"
+  ],
+  "actors": [
+    "Robert Kaplan",
+    "Eric Rosengren",
+    "Federal Reserve Bank of Dallas",
+    "Federal Reserve Bank of Boston"
+  ],
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/finance/dallas-fed-president-kaplan-step-down-oct-8-2021-09-27/",
+      "title": "Dallas Fed President Kaplan to Step Down Oct. 8",
+      "outlet": "Reuters",
+      "date": "2021-09-27"
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/boston-fed-president-rosengren-retire-early-due-health-reasons-2021-09-27/",
+      "title": "Boston Fed President Rosengren to Retire Early Due to Health Reasons",
+      "outlet": "Reuters",
+      "date": "2021-09-27"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

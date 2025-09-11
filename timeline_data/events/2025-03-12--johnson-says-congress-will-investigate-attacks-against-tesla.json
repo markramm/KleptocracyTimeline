@@ -2,8 +2,8 @@
   "id": "2025-03-12--johnson-says-congress-will-investigate-attacks-against-tesla",
   "date": "2025-03-12",
   "title": "Johnson says Congress will investigate attacks against Tesla owners, vehicles",
-  "summary": "House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla owners and vehicles, framing it as “domestic terrorism” orchestrated by the “radical Left”",
-  "description": "House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla owners and vehicles, framing it as “domestic terrorism” orchestrated by the “radical Left”",
+  "summary": "House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla owners and vehicles, framing it as \u201cdomestic terrorism\u201d orchestrated by the \u201cradical Left\u201d",
+  "description": "House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla owners and vehicles, framing it as \u201cdomestic terrorism\u201d orchestrated by the \u201cradical Left\u201d",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

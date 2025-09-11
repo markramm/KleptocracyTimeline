@@ -1,0 +1,44 @@
+{
+  "id": "2020-01-01--spac-boom-begins-regulatory-capture-enables-46-billion-retai",
+  "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "date": "2020-01-01",
+  "title": "SPAC Boom Begins: Regulatory Capture Enables $46 Billion Retail Investor Losses",
+  "summary": "The 2020-2022 SPAC (Special Purpose Acquisition Company) boom began as financial institutions exploited regulatory gaps to create a new vehicle for extracting wealth from retail investors. Over 610 SPACs completed IPOs during this period, raising hundreds of billions while operating under weaker disclosure requirements than traditional IPOs. The boom was enabled by systematic regulatory capture, where SEC officials adopted a hands-off approach and allowed SPACs to make forward-looking projections that would be illegal in traditional IPOs. Bloomberg later estimated that SPACs that went bankrupt in 2023 alone resulted in $46 billion in investor losses, with more than one-fifth of SPAC-backed companies trading below $1. The structure was designed to benefit SPAC sponsors and insiders regardless of outcomes, with guaranteed returns for sponsors even when retail investors faced total losses. Celebrity endorsements from figures like Donald Trump, Colin Kaepernick, and Shaquille O'Neal were used to attract retail money while sophisticated investors and sponsors extracted guaranteed fees and preferential treatment, representing a massive transfer of wealth enabled by captured regulators.",
+  "key_actors": [
+    "SEC",
+    "SPAC sponsors",
+    "Wall Street banks",
+    "retail investors",
+    "celebrity endorsers"
+  ],
+  "importance": 9,
+  "tags": [
+    "spac_boom",
+    "regulatory_capture",
+    "retail_fraud",
+    "wealth_extraction",
+    "financial_innovation",
+    "sec_enforcement"
+  ],
+  "sources": [
+    {
+      "url": "https://www.warren.senate.gov/download/spacs",
+      "title": "The SPAC Hack: How Wall Street, SPACs, and Celebrities Bilked Ordinary Investors",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://corpgov.law.harvard.edu/2022/04/13/spac-related-enforcement-and-litigation-what-to-expect-in-2022/",
+      "title": "SPAC-Related Enforcement and Litigation: What to Expect in 2022",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

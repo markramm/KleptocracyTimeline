@@ -2,8 +2,8 @@
   "id": "2025-05-15--the-trump-administration-leaned-on-african-countries-the-goa",
   "date": "2025-05-15",
   "title": "The Trump administration leaned on african countries. The goal: get business for Elon Musk",
-  "summary": "The State Department pressured Gambia to adopt Starlink’s internet service by threatening to cut off developmental aid to the low-income African nation. US diplomats used similar tactics on behalf of Musk’s Starlink in Cameroon, Lesotho, and Bangladesh",
-  "description": "The State Department pressured Gambia to adopt Starlink’s internet service by threatening to cut off developmental aid to the low-income African nation. US diplomats used similar tactics on behalf of Musk’s Starlink in Cameroon, Lesotho, and Bangladesh",
+  "summary": "The State Department pressured Gambia to adopt Starlink\u2019s internet service by threatening to cut off developmental aid to the low-income African nation. US diplomats used similar tactics on behalf of Musk\u2019s Starlink in Cameroon, Lesotho, and Bangladesh",
+  "description": "The State Department pressured Gambia to adopt Starlink\u2019s internet service by threatening to cut off developmental aid to the low-income African nation. US diplomats used similar tactics on behalf of Musk\u2019s Starlink in Cameroon, Lesotho, and Bangladesh",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-04-11--the-us-is-turning-a-blind-eye-to-crypto-crimes",
   "date": "2025-04-11",
   "title": "The US is turning a blind eye to crypto crimes",
-  "summary": "Trump has disbanded the DOJ’s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges",
-  "description": "Trump has disbanded the DOJ’s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges",
+  "summary": "Trump has disbanded the DOJ\u2019s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges",
+  "description": "Trump has disbanded the DOJ\u2019s National Cryptocurrency Enforcement Team and deprioritized prosecutions of crypto firms, effectively greenlighting regulatory violations like money laundering and unlicensed exchanges",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -36,5 +36,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

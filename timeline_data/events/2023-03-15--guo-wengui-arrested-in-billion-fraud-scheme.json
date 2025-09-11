@@ -1,0 +1,40 @@
+{
+  "date": "2023-03-15",
+  "title": "Guo Wengui Arrested in  Billion Fraud Scheme",
+  "summary": "The Department of Justice arrested Ho Wan Kwok (Guo Wengui/Miles Guo) in Manhattan on federal fraud charges related to a  billion conspiracy to defraud thousands of victims. The twelve-count indictment included wire fraud, securities fraud, bank fraud, and money laundering charges spanning from 2018 to 2023. The fraud scheme involved soliciting investments in GTV Media, Himalaya Farm Alliance, G|CLUBS, and Himalaya Exchange through false representations to hundreds of thousands of online followers. Authorities seized over 34 million in fraud proceeds, including 78 million from Himalaya Exchange accounts. The arrest exposed how Guo had leveraged his anti-Communist Party platform and American political connections to perpetrate one of the largest fraud schemes prosecuted by the Southern District of New York, while simultaneously operating influence networks including the Gettr social media platform.",
+  "actors": [
+    "Guo Wengui",
+    "Ho Wan Kwok",
+    "DOJ",
+    "GTV Media",
+    "Himalaya Farm Alliance"
+  ],
+  "tags": [
+    "fraud-charges",
+    "money-laundering",
+    "influence-operations",
+    "chinese-exile"
+  ],
+  "importance": 9,
+  "sources": [
+    {
+      "title": "https://www.justice.gov/usao-sdny/pr/ho-wan-kwok-aka-miles-guo-arrested-orchestrating-over-1-billion-dollar-fraud-conspiracy",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.cnbc.com/2023/03/15/doj-charges-guo-wengui-steve-bannon-associate-in-1-billion-fraud.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2023-03-15--guo-wengui-arrested-in-billion-fraud-scheme",
+  "priority_id": "RT-EXP-2E557553-gettr-jason-miller-chinese-funding",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

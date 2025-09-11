@@ -46,5 +46,9 @@
       "date": "2025-05-14"
     }
   ],
-  "notes": "This represents Congress grappling with entirely new form of potential presidential corruption through cryptocurrency channels designed to circumvent traditional financial oversight mechanisms. SAR request acknowledgment that traditional anti-corruption mechanisms inadequate for cryptocurrency-enabled influence operations, requiring new investigative approaches for pseudonymous blockchain transactions worth hundreds of millions."
+  "notes": "This represents Congress grappling with entirely new form of potential presidential corruption through cryptocurrency channels designed to circumvent traditional financial oversight mechanisms. SAR request acknowledgment that traditional anti-corruption mechanisms inadequate for cryptocurrency-enabled influence operations, requiring new investigative approaches for pseudonymous blockchain transactions worth hundreds of millions.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

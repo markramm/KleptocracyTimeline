@@ -1,0 +1,31 @@
+{
+  "id": "2025-05-18--national-guard-authority-judicial-ruling",
+  "date": "2025-05-18",
+  "title": "Supreme Court Hearing Challenges Presidential National Guard Federalization Powers",
+  "summary": "The Supreme Court heard oral arguments in a landmark case challenging the president's authority to unilaterally federalize state National Guard units. Legal scholars argue this represents a critical test of executive power, with potential long-term implications for state-federal military coordination and constitutional balance of powers.",
+  "importance": 9,
+  "actors": [
+    "Supreme Court",
+    "State Governors",
+    "Department of Defense"
+  ],
+  "tags": [
+    "national-guard",
+    "constitutional-crisis",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court Oral Arguments Transcript",
+      "outlet": "Federal Court Records",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

@@ -28,5 +28,9 @@
       "outlet": "Forbes",
       "date": "2016-10-12"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Intelligence Penetration"
   ]
 }

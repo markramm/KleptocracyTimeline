@@ -13,7 +13,9 @@
     "https://broadbandbreakfast.com/2025/07/starlink-outage"
   ],
   "id": "2025-07-25--starlink-outage",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "",
   "status": "confirmed",
   "sources": [
@@ -29,5 +31,8 @@
       "outlet": "Broadband Breakfast",
       "date": "2025-07-25"
     }
+  ],
+  "capture_lanes": [
+    "Systematic Corruption"
   ]
 }

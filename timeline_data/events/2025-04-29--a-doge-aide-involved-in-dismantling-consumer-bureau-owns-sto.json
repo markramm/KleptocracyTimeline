@@ -2,8 +2,8 @@
   "id": "2025-04-29--a-doge-aide-involved-in-dismantling-consumer-bureau-owns-sto",
   "date": "2025-04-29",
   "title": "A DOGE aide involved in dismantling Consumer Bureau owns stock in companies that could benefit from the cuts",
-  "summary": "DOGE aide Gavin Kilger–who has helped oversee massive cuts at CFPB–holds more than $300,000 of stock in companies the agency regulates",
-  "description": "DOGE aide Gavin Kilger–who has helped oversee massive cuts at CFPB–holds more than $300,000 of stock in companies the agency regulates",
+  "summary": "DOGE aide Gavin Kilger\u2013who has helped oversee massive cuts at CFPB\u2013holds more than $300,000 of stock in companies the agency regulates",
+  "description": "DOGE aide Gavin Kilger\u2013who has helped oversee massive cuts at CFPB\u2013holds more than $300,000 of stock in companies the agency regulates",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

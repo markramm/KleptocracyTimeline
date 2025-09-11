@@ -2,8 +2,8 @@
   "id": "2025-06-16--trump-media-seeks-sec-approval-for-bitcoin-and-ethereum-etf",
   "date": "2025-06-16",
   "title": "Trump Media seeks SEC approval for bitcoin and ethereum ETF",
-  "summary": "Trump Media sought SEC approval to launch an exchange-traded fund that will invest in bitcoin and ethereum, marking the firm’s second cryptocurrency ETF filing",
-  "description": "Trump Media sought SEC approval to launch an exchange-traded fund that will invest in bitcoin and ethereum, marking the firm’s second cryptocurrency ETF filing",
+  "summary": "Trump Media sought SEC approval to launch an exchange-traded fund that will invest in bitcoin and ethereum, marking the firm\u2019s second cryptocurrency ETF filing",
+  "description": "Trump Media sought SEC approval to launch an exchange-traded fund that will invest in bitcoin and ethereum, marking the firm\u2019s second cryptocurrency ETF filing",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -35,5 +35,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
 }

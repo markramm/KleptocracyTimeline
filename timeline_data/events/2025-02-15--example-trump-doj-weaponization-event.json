@@ -1,0 +1,34 @@
+{
+  "id": "2025-02-15--example-trump-doj-weaponization-event",
+  "date": "2025-02-15",
+  "title": "Example Trump DOJ Weaponization Event",
+  "summary": "Attorney General directs systematic targeting of prosecutors who investigated Trump cases, firing 15 federal prosecutors in coordinated purge. This represents escalation of DOJ weaponization for political retaliation, undermining prosecutorial independence and rule of law.",
+  "importance": 9,
+  "actors": [
+    "Attorney General",
+    "Department of Justice",
+    "Federal Prosecutors",
+    "Trump Administration"
+  ],
+  "sources": [
+    {
+      "title": "DOJ Fires 15 Prosecutors in Trump Investigation Purge",
+      "url": "https://example.com/doj-purge-2025",
+      "outlet": "Washington Post",
+      "date": "2025-02-15"
+    }
+  ],
+  "tags": [
+    "DOJ weaponization",
+    "prosecutorial independence",
+    "Trump administration",
+    "retaliation",
+    "rule of law"
+  ],
+  "status": "confirmed",
+  "location": "Washington, D.C.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

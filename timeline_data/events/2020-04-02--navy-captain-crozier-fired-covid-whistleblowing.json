@@ -1,0 +1,43 @@
+{
+  "id": "2020-04-02--navy-captain-crozier-fired-covid-whistleblowing",
+  "date": "2020-04-02",
+  "title": "Navy Captain Crozier Fired for Requesting COVID Help for USS Roosevelt Crew",
+  "summary": "Acting Navy Secretary Thomas Modly fires Captain Brett Crozier, commander of the USS Theodore Roosevelt, for sending a letter requesting immediate evacuation of his crew as COVID-19 spreads among nearly 5,000 sailors. Crozier wrote \"We are not at war. Sailors do not need to die\" in his plea for help. CNN reports that Modly told colleagues the firing came because \"Trump wants him fired.\" The dismissal demonstrates systematic punishment of military officers who prioritize troop welfare over political image. Crozier receives a standing ovation from his crew, who chant his name as he leaves the ship, highlighting the disconnect between military values and political loyalty demands.",
+  "importance": 8,
+  "location": "USS Theodore Roosevelt, Pacific Ocean",
+  "actors": [
+    "Captain Brett Crozier",
+    "Thomas Modly",
+    "Donald Trump",
+    "USS Theodore Roosevelt crew",
+    "U.S. Navy"
+  ],
+  "tags": [
+    "crozier",
+    "covid",
+    "whistleblower",
+    "navy",
+    "military_politicization",
+    "retaliation"
+  ],
+  "capture_lanes": [
+    "Military Politicization"
+  ],
+  "sources": [
+    {
+      "title": "Defense Secretary insists Trump didnt order firing of Theodore Roosevelt commander",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2020/04/05/defense-secretary-insists-trump-didnt-order-firing-of-theodore-roosevelt-commander/",
+      "outlet": "Military Times",
+      "date": "2020-04-05",
+      "verified": true
+    },
+    {
+      "title": "Inside the ouster of Capt. Brett Crozier",
+      "url": "https://www.washingtonpost.com/opinions/2020/04/04/trump-wants-him-fired-inside-ouster-capt-brett-crozier/",
+      "outlet": "Washington Post",
+      "date": "2020-04-04",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

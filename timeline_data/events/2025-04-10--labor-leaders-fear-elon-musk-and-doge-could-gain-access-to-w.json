@@ -2,8 +2,8 @@
   "id": "2025-04-10--labor-leaders-fear-elon-musk-and-doge-could-gain-access-to-w",
   "date": "2025-04-10",
   "title": "Labor leaders fear Elon Musk and DOGE could gain access to whistleblower files",
-  "summary": "The AFL-CIO and former OSHA officials warn that Elon Musk’s operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations",
-  "description": "The AFL-CIO and former OSHA officials warn that Elon Musk’s operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations",
+  "summary": "The AFL-CIO and former OSHA officials warn that Elon Musk\u2019s operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk's companies\u2014Tesla, SpaceX, and The Boring Company\u2014have over 50 active OSHA investigations for workplace injuries and safety violations",
+  "description": "The AFL-CIO and former OSHA officials warn that Elon Musk\u2019s operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk's companies\u2014Tesla, SpaceX, and The Boring Company\u2014have over 50 active OSHA investigations for workplace injuries and safety violations",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

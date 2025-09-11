@@ -2,8 +2,8 @@
   "id": "2025-03-07--us-okays-higher-power-cellphone-service-musks-starlink-despi",
   "date": "2025-03-07",
   "title": "US okays higher power cellphone service Musks Starlink despite objections",
-  "summary": "The FCC granted Starlink, Elon Musk’s satellite internet service, approval to operate a high-power direct-to-cell service with T-Mobile, overriding objections from AT&T and Verizon",
-  "description": "The FCC granted Starlink, Elon Musk’s satellite internet service, approval to operate a high-power direct-to-cell service with T-Mobile, overriding objections from AT&T and Verizon",
+  "summary": "The FCC granted Starlink, Elon Musk\u2019s satellite internet service, approval to operate a high-power direct-to-cell service with T-Mobile, overriding objections from AT&T and Verizon",
+  "description": "The FCC granted Starlink, Elon Musk\u2019s satellite internet service, approval to operate a high-power direct-to-cell service with T-Mobile, overriding objections from AT&T and Verizon",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

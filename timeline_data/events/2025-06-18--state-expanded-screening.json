@@ -12,7 +12,9 @@
     "https://www.state.gov/releases/office-of-the-spokesperson/2025/06/announcement-of-expanded-screening-and-vetting-for-visa-applicants"
   ],
   "id": "2025-06-18--state-expanded-screening",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "Applicants must set privacy to public on all accounts. Officers conduct temporary refusal until compliance. Vetting includes terrorism support and antisemitic content. Social media details required since 2019, but this tightens procedures. Inconsistent implementation noted in July with some embassies not yet reopening slots.",
   "status": "confirmed",
   "sources": [
@@ -40,5 +42,10 @@
       "outlet": "CUPA-HR",
       "date": "2025-06-24"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration"
   ]
 }

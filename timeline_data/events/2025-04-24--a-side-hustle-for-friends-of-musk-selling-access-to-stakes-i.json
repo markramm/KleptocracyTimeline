@@ -2,8 +2,8 @@
   "id": "2025-04-24--a-side-hustle-for-friends-of-musk-selling-access-to-stakes-i",
   "date": "2025-04-24",
   "title": "A side hustle for friends of Musk: selling access to stakes in his private companies",
-  "summary": "Elon Musk’s inner circle is quietly profiting from selling access to private shares in Musk’s companies—like SpaceX and xAI—through exclusive shell companies and special-purpose vehicles",
-  "description": "Elon Musk’s inner circle is quietly profiting from selling access to private shares in Musk’s companies—like SpaceX and xAI—through exclusive shell companies and special-purpose vehicles",
+  "summary": "Elon Musk\u2019s inner circle is quietly profiting from selling access to private shares in Musk\u2019s companies\u2014like SpaceX and xAI\u2014through exclusive shell companies and special-purpose vehicles",
+  "description": "Elon Musk\u2019s inner circle is quietly profiting from selling access to private shares in Musk\u2019s companies\u2014like SpaceX and xAI\u2014through exclusive shell companies and special-purpose vehicles",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

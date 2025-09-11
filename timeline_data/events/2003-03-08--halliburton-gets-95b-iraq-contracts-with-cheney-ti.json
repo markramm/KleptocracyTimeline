@@ -47,5 +47,12 @@
       "outlet": "New York Times",
       "date": "2003-12-11"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-02-20--x-hinted-at-possible-deal-trouble-in-talks-with-ad-giant-to-",
   "date": "2025-02-20",
   "title": "X hinted at possible deal trouble in talks with ad giant to increase spending",
-  "summary": "A lawyer at Interpublic Group received a call from a representative at X in December delivering an ultimatum: boost client spending on Elon Musk’s social platform or face repercussions",
-  "description": "A lawyer at Interpublic Group received a call from a representative at X in December delivering an ultimatum: boost client spending on Elon Musk’s social platform or face repercussions",
+  "summary": "A lawyer at Interpublic Group received a call from a representative at X in December delivering an ultimatum: boost client spending on Elon Musk\u2019s social platform or face repercussions",
+  "description": "A lawyer at Interpublic Group received a call from a representative at X in December delivering an ultimatum: boost client spending on Elon Musk\u2019s social platform or face repercussions",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

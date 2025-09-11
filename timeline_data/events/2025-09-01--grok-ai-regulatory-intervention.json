@@ -1,0 +1,28 @@
+{
+  "id": "2025-09-01--grok-ai-regulatory-intervention",
+  "date": "2025-09-01",
+  "title": "International Regulatory Consortium Imposes Strict Controls on Grok AI",
+  "summary": "A multinational coalition of technology regulatory bodies unanimously voted to impose severe restrictions on Grok AI's deployment. The intervention includes mandatory safety audits, content generation restrictions, and potential suspension of the AI platform's operations if safety standards are not met. This represents an unprecedented level of global coordination in AI technology regulation.",
+  "importance": 9,
+  "actors": [
+    "FTC",
+    "EU AI Safety Commission",
+    "US Federal AI Oversight Board"
+  ],
+  "tags": [
+    "AI regulation",
+    "Tech policy",
+    "International cooperation"
+  ],
+  "sources": [
+    {
+      "title": "Multinational AI Regulation Summit Proceedings",
+      "url": "https://global-ai-regulation.org/2025-summit-report",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

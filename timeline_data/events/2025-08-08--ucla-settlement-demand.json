@@ -13,7 +13,9 @@
     "https://www.politico.com/news/2025/08/08/trump-administration-demands-1-billion-from-university-of-california-los-angeles-00500213"
   ],
   "id": "2025-08-08--ucla-settlement-demand",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "",
   "status": "confirmed",
   "sources": [
@@ -29,5 +31,9 @@
       "outlet": "Politico",
       "date": "2025-08-08"
     }
+  ],
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

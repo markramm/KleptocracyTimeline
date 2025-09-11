@@ -9,9 +9,21 @@
   ],
   "importance": 10,
   "sources": [
-    "White House records",
-    "NPR",
-    "Project 2025 Implementation analysis"
+    {
+      "title": "White House records",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "NPR",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Project 2025 Implementation analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "project-2025-implementation",
@@ -21,5 +33,9 @@
   ],
   "status": "confirmed",
   "id": "2025-01-20--trump-implements-37-project-2025-executive-orders-on-day-one-1757456630",
-  "priority_id": "project-2025-implementation-1757456630"
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
 }

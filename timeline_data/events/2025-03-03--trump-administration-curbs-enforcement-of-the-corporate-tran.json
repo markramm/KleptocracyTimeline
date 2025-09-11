@@ -2,8 +2,8 @@
   "id": "2025-03-03--trump-administration-curbs-enforcement-of-the-corporate-tran",
   "date": "2025-03-03",
   "title": "Trump administration curbs enforcement of the Corporate Transparency Act",
-  "summary": "The Treasury Department announced it will not enforce penalties on U.S. businesses that fail to disclose ownership information under the Corporate Transparency Act – hampering anti-money laundering efforts",
-  "description": "The Treasury Department announced it will not enforce penalties on U.S. businesses that fail to disclose ownership information under the Corporate Transparency Act – hampering anti-money laundering efforts",
+  "summary": "The Treasury Department announced it will not enforce penalties on U.S. businesses that fail to disclose ownership information under the Corporate Transparency Act \u2013 hampering anti-money laundering efforts",
+  "description": "The Treasury Department announced it will not enforce penalties on U.S. businesses that fail to disclose ownership information under the Corporate Transparency Act \u2013 hampering anti-money laundering efforts",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

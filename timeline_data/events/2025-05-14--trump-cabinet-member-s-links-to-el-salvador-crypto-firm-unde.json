@@ -1,9 +1,9 @@
 {
   "id": "2025-05-14--trump-cabinet-member-s-links-to-el-salvador-crypto-firm-unde",
   "date": "2025-05-14",
-  "title": "Trump cabinet member’s links to El Salvador crypto firm under scrutiny",
-  "summary": "Commerce Secretary Howard Lutnick has significant business interests linked to El Salvador through Cantor Fitzgerald, which he headed until leaving control of the financial firm to his sons at the beginning of the second Trump administration. His exposure includes Cantor Fitzgerald’s 5% stake in Tether, the cryptocurrency company now based in El Salvador, and its $775 million investment in Rumble, the right wing video platform which has cloud computing contracts with the Bukele government",
-  "description": "Commerce Secretary Howard Lutnick has significant business interests linked to El Salvador through Cantor Fitzgerald, which he headed until leaving control of the financial firm to his sons at the beginning of the second Trump administration. His exposure includes Cantor Fitzgerald’s 5% stake in Tether, the cryptocurrency company now based in El Salvador, and its $775 million investment in Rumble, the right wing video platform which has cloud computing contracts with the Bukele government",
+  "title": "Trump cabinet member\u2019s links to El Salvador crypto firm under scrutiny",
+  "summary": "Commerce Secretary Howard Lutnick has significant business interests linked to El Salvador through Cantor Fitzgerald, which he headed until leaving control of the financial firm to his sons at the beginning of the second Trump administration. His exposure includes Cantor Fitzgerald\u2019s 5% stake in Tether, the cryptocurrency company now based in El Salvador, and its $775 million investment in Rumble, the right wing video platform which has cloud computing contracts with the Bukele government",
+  "description": "Commerce Secretary Howard Lutnick has significant business interests linked to El Salvador through Cantor Fitzgerald, which he headed until leaving control of the financial firm to his sons at the beginning of the second Trump administration. His exposure includes Cantor Fitzgerald\u2019s 5% stake in Tether, the cryptocurrency company now based in El Salvador, and its $775 million investment in Rumble, the right wing video platform which has cloud computing contracts with the Bukele government",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -19,7 +19,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Trump cabinet member’s links to El Salvador crypto firm under scrutiny",
+      "title": "Trump cabinet member\u2019s links to El Salvador crypto firm under scrutiny",
       "url": "https://www.theguardian.com/us-news/2025/may/14/lutnick-el-salvador-crypto-immigration",
       "outlet": "The Guardian",
       "date": "2025-05-14"
@@ -35,5 +35,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

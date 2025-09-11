@@ -53,5 +53,11 @@
     }
   ],
   "notes": "Crow initially refused voluntary compliance. Committee seeking full accounting of decades of gifts. Part of broader investigation into Supreme Court ethics crisis. Also subpoenaed Leonard Leo of Federalist Society.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

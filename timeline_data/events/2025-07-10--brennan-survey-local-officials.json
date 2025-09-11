@@ -15,12 +15,14 @@
     "https://www.brennancenter.org/our-work/research-reports/local-election-officials-survey-july-2025"
   ],
   "id": "2025-07-10--brennan-survey-local-officials",
-  "actors": [],
-  "notes": "Survey conducted mid-April to mid-May, 858 officials, margin of error ±3%. 36% very concerned, 24% somewhat concerned about cuts. 90% of those who heard a lot about cuts were concerned. DOGE task force cut funding for Elections Infrastructure ISAC. Lawrence Norden: federal government has big picture advantage difficult for states to replicate.",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "notes": "Survey conducted mid-April to mid-May, 858 officials, margin of error \u00b13%. 36% very concerned, 24% somewhat concerned about cuts. 90% of those who heard a lot about cuts were concerned. DOGE task force cut funding for Elections Infrastructure ISAC. Lawrence Norden: federal government has big picture advantage difficult for states to replicate.",
   "status": "confirmed",
   "sources": [
     {
-      "title": "Local Election Officials Survey — July 2025",
+      "title": "Local Election Officials Survey \u2014 July 2025",
       "url": "https://www.brennancenter.org/our-work/research-reports/local-election-officials-survey-july-2025",
       "outlet": "Brennan Center for Justice",
       "date": "2025-07-10"

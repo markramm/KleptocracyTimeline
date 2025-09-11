@@ -30,5 +30,10 @@
       "archive_url": "https://web.archive.org/web/20240424000000*/https://pfas.pillsburylaw.com/epa-rule-pfas-substances-hazardous-cercla/"
     }
   ],
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

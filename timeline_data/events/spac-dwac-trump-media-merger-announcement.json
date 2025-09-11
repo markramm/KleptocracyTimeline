@@ -1,0 +1,35 @@
+{
+  "id": "spac-dwac-trump-media-merger-announcement",
+  "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "date": "2021-10-20",
+  "title": "Digital World Acquisition Corp Announces Trump Media SPAC Merger",
+  "summary": "Digital World Acquisition Corp (DWAC), a special purpose acquisition company, announced its agreement to merge with Trump Media & Technology Group Corp (TMTG), bringing Trump's Truth Social platform public. The announcement triggered massive trading volume and price volatility, with DWAC shares soaring over 350% in two days. However, federal investigators later revealed that insider trading by connected investors had already begun before the public announcement, representing a massive breach of securities laws. The deal exemplified the regulatory capture and enforcement gaps that enabled widespread SPAC fraud during the 2020-2022 boom, where celebrity-backed SPACs operated with minimal oversight while extracting billions from retail investors. The SEC later charged DWAC with material misrepresentations for failing to disclose pre-IPO discussions with TMTG, demonstrating how SPAC sponsors systematically misled investors and regulators about their business plans and target acquisitions.",
+  "key_actors": [
+    "Donald Trump",
+    "Digital World Acquisition Corp",
+    "Trump Media & Technology Group",
+    "SEC",
+    "Bruce Garelick",
+    "Patrick Orlando"
+  ],
+  "importance": 8,
+  "tags": [
+    "spac_fraud",
+    "truth_social",
+    "dwac",
+    "regulatory_capture",
+    "trump_media",
+    "insider_trading"
+  ],
+  "sources": [
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-135",
+      "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors"
+    },
+    {
+      "url": "https://www.washingtonpost.com/technology/2024/02/03/trump-social-dwac-investigation/",
+      "title": "The wild probe into investors of DWAC, Trump Media's proposed merger ally"
+    }
+  ],
+  "status": "confirmed"
+}

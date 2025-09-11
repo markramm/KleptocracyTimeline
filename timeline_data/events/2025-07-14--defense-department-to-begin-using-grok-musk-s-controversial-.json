@@ -1,9 +1,9 @@
 {
   "id": "2025-07-14--defense-department-to-begin-using-grok-musk-s-controversial-",
   "date": "2025-07-14",
-  "title": "Defense Department to begin using Grok, Musk’s controversial AI model",
-  "summary": "The Department of Defense awarded xAI, Elon Musk’s AI company, a $200 million contract for its Grok AI tool–which just generated a slew of antisemitic posts on X",
-  "description": "The Department of Defense awarded xAI, Elon Musk’s AI company, a $200 million contract for its Grok AI tool–which just generated a slew of antisemitic posts on X",
+  "title": "Defense Department to begin using Grok, Musk\u2019s controversial AI model",
+  "summary": "The Department of Defense awarded xAI, Elon Musk\u2019s AI company, a $200 million contract for its Grok AI tool\u2013which just generated a slew of antisemitic posts on X",
+  "description": "The Department of Defense awarded xAI, Elon Musk\u2019s AI company, a $200 million contract for its Grok AI tool\u2013which just generated a slew of antisemitic posts on X",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Defense Department to begin using Grok, Musk’s controversial AI model",
+      "title": "Defense Department to begin using Grok, Musk\u2019s controversial AI model",
       "url": "https://www.washingtonpost.com/technology/2025/07/14/elon-musk-grok-defense-department/",
       "outlet": "Washington Post",
       "date": "2025-07-14"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

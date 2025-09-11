@@ -1,7 +1,7 @@
 {
   "id": "2025-02-14--how-trump-s-justice-department-has-gutted-the-government-s-a",
   "date": "2025-02-14",
-  "title": "How Trump’s Justice Department has gutted the government’s ability to chase public corruption",
+  "title": "How Trump\u2019s Justice Department has gutted the government\u2019s ability to chase public corruption",
   "summary": "Trump has dismantled federal efforts to fight public corruption, pausing investigations into corporate bribery and weakening the Foreign Agents Registration Act",
   "description": "Trump has dismantled federal efforts to fight public corruption, pausing investigations into corporate bribery and weakening the Foreign Agents Registration Act",
   "status": "confirmed",
@@ -20,7 +20,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "How Trump’s Justice Department has gutted the government’s ability to chase public corruption",
+      "title": "How Trump\u2019s Justice Department has gutted the government\u2019s ability to chase public corruption",
       "url": "https://www.cnn.com/2025/02/14/politics/corruption-justice-department-trump-new-york/index.html",
       "outlet": "CNN",
       "date": "2025-02-14"
@@ -36,5 +36,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

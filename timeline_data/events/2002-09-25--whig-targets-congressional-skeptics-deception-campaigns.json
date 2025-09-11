@@ -8,7 +8,7 @@
     "White House Iraq Group",
     "Robert Byrd",
     "Ted Kennedy",
-    "Carl Levin", 
+    "Carl Levin",
     "John Conyers",
     "Dennis Kucinich",
     "Barbara Lee",
@@ -36,7 +36,7 @@
       "date": "2006-10-03"
     },
     {
-      "title": "The Argument: Billionaires, Bloggers, and the Battle to Remake Democratic Politics", 
+      "title": "The Argument: Billionaires, Bloggers, and the Battle to Remake Democratic Politics",
       "url": "https://www.amazon.com/Argument-Billionaires-Bloggers-Democratic-Politics/dp/1594201323",
       "outlet": "Penguin Press",
       "date": "2007-08-07"
@@ -47,5 +47,11 @@
       "outlet": "Congressional Record",
       "date": "2002-10-09"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "2025-05-14--trump-s-middle-east-visit-comes-as-his-family-deepens-its-bu",
   "date": "2025-05-14",
-  "title": "Trump’s Middle East visit comes as his family deepens its business, crypto ties in the region",
+  "title": "Trump\u2019s Middle East visit comes as his family deepens its business, crypto ties in the region",
   "summary": "While Trump touted multi-billion dollar foreign investments in the US during his state visits across the Persian Gulf, a sizable portion of those investments were steered towards Trump family businesses like the Trump Organization and World Liberty Financial",
   "description": "While Trump touted multi-billion dollar foreign investments in the US during his state visits across the Persian Gulf, a sizable portion of those investments were steered towards Trump family businesses like the Trump Organization and World Liberty Financial",
   "status": "confirmed",
@@ -19,7 +19,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump’s Middle East visit comes as his family deepens its business, crypto ties in the region",
+      "title": "Trump\u2019s Middle East visit comes as his family deepens its business, crypto ties in the region",
       "url": "https://apnews.com/article/trump-business-interests-family-middle-east-cryptocurrency-cbb7d2354304ce0308800819944cf3f8",
       "outlet": "Associated Press",
       "date": "2025-05-14"
@@ -53,5 +53,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

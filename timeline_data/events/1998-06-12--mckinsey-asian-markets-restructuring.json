@@ -1,0 +1,32 @@
+{
+  "id": "1998-06-12--mckinsey-asian-markets-restructuring",
+  "date": "1998-06-12",
+  "title": "McKinsey Advises Comprehensive Asian Market Restructuring",
+  "summary": "McKinsey & Company releases a strategic report recommending extensive market liberalization and corporate restructuring across Southeast Asian economies. The report becomes a blueprint for IMF and World Bank interventions, prioritizing foreign investment and corporate interests over local economic sovereignty.",
+  "importance": 7,
+  "actors": [
+    "McKinsey & Company",
+    "International Monetary Fund",
+    "World Bank",
+    "Southeast Asian Governments"
+  ],
+  "sources": [
+    {
+      "title": "McKinsey Global Institute Report",
+      "url": "https://www.mckinsey.com/featured-insights/asia-pacific/asian-crisis",
+      "outlet": "McKinsey Global Institute"
+    }
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "mckinsey",
+    "structural_adjustment",
+    "corporate_strategy",
+    "economic_shock_therapy"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

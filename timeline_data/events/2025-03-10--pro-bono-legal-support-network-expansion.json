@@ -1,0 +1,29 @@
+{
+  "id": "2025-03-10--pro-bono-legal-support-network-expansion",
+  "date": "2025-03-10",
+  "title": "Expansion of Pro Bono Legal Support Network",
+  "summary": "Major law firms and legal clinics across the United States begin coordinating a nationwide pro bono support system to provide legal representation for individuals and organizations facing constitutional challenges. The network establishes a centralized funding and resource allocation mechanism.",
+  "importance": 8,
+  "actors": [
+    "Pro Bono Legal Alliance",
+    "Law Firm Consortium for Constitutional Defense",
+    "National Legal Aid & Defender Association"
+  ],
+  "sources": [
+    {
+      "title": "Pro Bono Network Coordination Report",
+      "url": "https://probonoalliance.org/network-expansion-2025",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "pro-bono-support",
+    "legal-defense",
+    "constitutional-protection",
+    "collaborative-legal-response"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

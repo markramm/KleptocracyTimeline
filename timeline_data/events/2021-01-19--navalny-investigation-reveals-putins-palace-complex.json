@@ -1,0 +1,52 @@
+{
+  "date": "2021-01-19",
+  "title": "Navalny Investigation Reveals Putin's Palace Complex",
+  "summary": "Russian opposition leader Alexei Navalny released a detailed investigation exposing a lavish palace complex on the Black Sea allegedly built for Vladimir Putin. The investigation, titled 'Putin's Palace: History of World's Largest Bribe,' detailed a $1.35 billion estate featuring luxury amenities including a casino, theater, and ice hockey rink. The 17,691 square meter palace sits on a 7,000 hectare estate, making it 39 times larger than Monaco. Navalny's team used drone footage, satellite imagery, and insider testimony to document the construction funded through a corruption scheme involving Putin's inner circle. The investigation implicated oligarchs and government officials in the largest known example of personal enrichment by a sitting head of state. Within days of release, the video gained over 100 million views, sparking widespread protests across Russia.",
+  "actors": [
+    "Vladimir Putin",
+    "Alexei Navalny",
+    "Arkady Rotenberg",
+    "Boris Rotenberg",
+    "Gennady Timchenko",
+    "Anti-Corruption Foundation (FBK)"
+  ],
+  "sources": [
+    {
+      "title": "https://www.youtube.com/watch?v=ipAnwilMncI",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://palace.navalny.com/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-europe-55713045",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.reuters.com/article/us-russia-politics-navalny-palace-idUSKBN29O1Y8",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "corruption",
+    "russia",
+    "putin",
+    "navalny",
+    "investigation",
+    "kleptocracy",
+    "palace",
+    "bribery"
+  ],
+  "status": "confirmed",
+  "id": "2021-01-19--navalny-investigation-reveals-putins-palace-complex",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-15",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
+}

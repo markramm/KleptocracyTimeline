@@ -1,0 +1,34 @@
+{
+  "id": "2021-09-07--kaplan-fed-trading-scandal-revealed",
+  "date": "2021-09-07",
+  "title": "Dallas Fed President Kaplan Trading Scandal Revealed",
+  "summary": "Wall Street Journal reports Dallas Federal Reserve President Robert Kaplan made multiple stock trades worth over $1 million during 2020 while orchestrating Fed's COVID-19 pandemic response. Trades included Apple, Delta Air Lines, Occidental Petroleum, and iShares Floating Rate Bond ETFs. Kaplan was instrumental in engineering unprecedented market interventions while simultaneously profiting from individual stock positions, creating systematic conflicts of interest that undermined Federal Reserve independence and public trust in monetary policy decisions during national crisis.",
+  "importance": 8,
+  "tags": [
+    "federal_reserve",
+    "trading_scandal",
+    "conflict_of_interest",
+    "robert_kaplan",
+    "dallas_fed",
+    "financial_corruption"
+  ],
+  "actors": [
+    "Robert Kaplan",
+    "Federal Reserve Bank of Dallas",
+    "Wall Street Journal"
+  ],
+  "sources": [
+    {
+      "url": "https://www.wsj.com/articles/federal-reserve-ethics-officials-pandemic-trades-11630959600",
+      "title": "Fed Officials Made Trades During Pandemic",
+      "outlet": "Wall Street Journal",
+      "date": "2021-09-07"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2024-02-23",
+  "title": "Federal Agents Charge Two with 2 Million NFT 'Rug Pull' Money Laundering Scheme",
+  "summary": "HSI agents charged Devin Alan Rhoden and Berman Jerry Nowlin Jr. with conspiracy to commit wire fraud and money laundering through NFT schemes. The defendants used 'chain-hopping' techniques, transferring fraud proceeds from Solana to Ethereum blockchain to obfuscate illicit funds. This case represents federal recognition of NFTs as vehicles for money laundering and sophisticated crypto obfuscation techniques.",
+  "importance": 8,
+  "actors": [
+    "Devin Alan Rhoden",
+    "Berman Jerry Nowlin Jr.",
+    "HSI",
+    "DHS"
+  ],
+  "sources": [
+    {
+      "title": "2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains",
+      "url": "https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains",
+      "outlet": "DHS HSI"
+    }
+  ],
+  "tags": [
+    "NFT",
+    "money laundering",
+    "fraud",
+    "blockchain",
+    "federal prosecution",
+    "rug pull"
+  ],
+  "id": "2024-02-23--federal-agents-charge-two-with-2-million-nft-'rug"
+}

@@ -8,7 +8,11 @@
     "Test Agent Final"
   ],
   "sources": [
-    "test://streamlined-api-final"
+    {
+      "title": "test://streamlined-api-final",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "test",
@@ -17,5 +21,8 @@
     "final"
   ],
   "id": "2001-01-01--test-streamlined-api-integration-final-1757454125",
-  "priority_id": "RT-COMPLETED-001-whig-propaganda-campaign"
+  "priority_id": "RT-COMPLETED-001-whig-propaganda-campaign",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

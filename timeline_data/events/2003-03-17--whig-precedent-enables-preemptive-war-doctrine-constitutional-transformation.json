@@ -3,11 +3,11 @@
   "date": "2003-03-17",
   "importance": 9,
   "title": "WHIG Constitutional Crisis Precedent Enables Bush Doctrine of Preemptive War as Democratic Transformation",
-  "summary": "President Bush's ultimatum to Saddam Hussein and subsequent invasion of Iraq represents the successful constitutional transformation achieved through WHIG's precedent establishment, demonstrating how systematic executive deception creates new constitutional realities that override democratic constraints. The Bush Doctrine of preemptive war—launched without genuine threat, based on fabricated intelligence, and justified through manufactured crisis—represents not foreign policy decision but successful completion of WHIG's constitutional transformation project. WHIG's systematic corruption of intelligence analysis, congressional deliberation, and media scrutiny created the institutional precedent allowing executive branch unilateral military action based on manufactured rather than genuine national security threats. This precedent fundamentally transforms the constitutional relationship between executive power and democratic oversight, establishing that coordinated propaganda campaigns can effectively nullify constitutional constraints on presidential war powers. The invasion demonstrates that WHIG's institutional capture mechanisms—intelligence manipulation, media coordination, congressional deception—enable executive branch bypass of constitutional limitations through systematic deception rather than constitutional amendment. WHIG's achievement represents permanent constitutional transformation: the executive can now initiate military action based on fabricated threats, provided sufficient coordination between intelligence agencies, media networks, and propaganda operations creates public support for unconstitutional executive actions.",
+  "summary": "President Bush's ultimatum to Saddam Hussein and subsequent invasion of Iraq represents the successful constitutional transformation achieved through WHIG's precedent establishment, demonstrating how systematic executive deception creates new constitutional realities that override democratic constraints. The Bush Doctrine of preemptive war\u2014launched without genuine threat, based on fabricated intelligence, and justified through manufactured crisis\u2014represents not foreign policy decision but successful completion of WHIG's constitutional transformation project. WHIG's systematic corruption of intelligence analysis, congressional deliberation, and media scrutiny created the institutional precedent allowing executive branch unilateral military action based on manufactured rather than genuine national security threats. This precedent fundamentally transforms the constitutional relationship between executive power and democratic oversight, establishing that coordinated propaganda campaigns can effectively nullify constitutional constraints on presidential war powers. The invasion demonstrates that WHIG's institutional capture mechanisms\u2014intelligence manipulation, media coordination, congressional deception\u2014enable executive branch bypass of constitutional limitations through systematic deception rather than constitutional amendment. WHIG's achievement represents permanent constitutional transformation: the executive can now initiate military action based on fabricated threats, provided sufficient coordination between intelligence agencies, media networks, and propaganda operations creates public support for unconstitutional executive actions.",
   "actors": [
     "George W. Bush",
     "White House Iraq Group",
-    "Dick Cheney", 
+    "Dick Cheney",
     "Donald Rumsfeld",
     "Colin Powell",
     "Constitutional Framework",
@@ -20,7 +20,7 @@
     "whig",
     "constitutional-crisis-precedents",
     "preemptive-war-doctrine",
-    "executive-power-expansion", 
+    "executive-power-expansion",
     "democratic-transformation",
     "constitutional-violation",
     "war-powers-abuse",
@@ -31,14 +31,14 @@
   "sources": [
     {
       "title": "President's Ultimatum to Saddam Hussein",
-      "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2003/03/20030317-7.html", 
+      "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2003/03/20030317-7.html",
       "outlet": "White House Archives",
       "date": "2003-03-17"
     },
     {
       "title": "The Imperial Presidency and Constitutional Democracy",
       "url": "https://www.jstor.org/stable/25098753",
-      "outlet": "Harvard Law Review", 
+      "outlet": "Harvard Law Review",
       "date": "2007-12-01"
     },
     {
@@ -47,5 +47,12 @@
       "outlet": "Viking",
       "date": "2007-07-24"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

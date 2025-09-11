@@ -56,5 +56,10 @@
     "attack-international-institutions",
     "undermine-rule-of-law"
   ],
-  "notes": "This represents an unprecedented attack on international judicial independence. The US is sanctioning judges from allied nations (Canada, France) for doing their jobs. The ICC's jurisdiction over war crimes is being treated as a \"national security threat\" simply because it might investigate US or Israeli actions. This fundamentally undermines the post-WWII international legal order and signals that the US will punish any international institution that attempts to hold it accountable. The sanctions effectively tell the world that international law only applies to America's enemies, not to America or its allies."
+  "notes": "This represents an unprecedented attack on international judicial independence. The US is sanctioning judges from allied nations (Canada, France) for doing their jobs. The ICC's jurisdiction over war crimes is being treated as a \"national security threat\" simply because it might investigate US or Israeli actions. This fundamentally undermines the post-WWII international legal order and signals that the US will punish any international institution that attempts to hold it accountable. The sanctions effectively tell the world that international law only applies to America's enemies, not to America or its allies.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

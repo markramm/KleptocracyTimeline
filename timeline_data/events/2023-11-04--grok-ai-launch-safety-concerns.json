@@ -1,0 +1,28 @@
+{
+  "id": "2023-11-04--grok-ai-launch-safety-concerns",
+  "date": "2023-11-04",
+  "title": "xAI Launches Grok: Immediate Safety Concerns Emerge",
+  "summary": "Elon Musk launches Grok AI chatbot, claiming ability to answer spicy questions. Immediate concerns raised about potential safety risks and lack of content moderation. The chatbot represents a new approach to conversational AI with minimal filtering.",
+  "importance": 7,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Safety Researchers"
+  ],
+  "tags": [
+    "AI safety",
+    "Tech regulation",
+    "Musk enterprises"
+  ],
+  "sources": [
+    {
+      "title": "Grok AI Launch Announcement",
+      "url": "https://x.ai/blog/grok",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "2025-04-03--resistance-is-futile-make-a-deal-trump-s-tariff-message-to-t",
   "date": "2025-04-03",
-  "title": "Resistance is futile, make a deal: Trump’s tariff message to the world",
+  "title": "Resistance is futile, make a deal: Trump\u2019s tariff message to the world",
   "summary": "Trump's \"Liberation Day\" tariff announcement opened the door to corruption, pay-to-play diplomacy, and quid-pro-quo arrangements with firms seeking carve outs",
   "description": "Trump's \"Liberation Day\" tariff announcement opened the door to corruption, pay-to-play diplomacy, and quid-pro-quo arrangements with firms seeking carve outs",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Resistance is futile, make a deal: Trump’s tariff message to the world",
+      "title": "Resistance is futile, make a deal: Trump\u2019s tariff message to the world",
       "url": "https://www.wsj.com/politics/policy/trump-tariffs-world-retaliatory-measures-9094ce24?mod=politics_lead_pos1",
       "outlet": "Wall Street Journal",
       "date": "2025-04-03"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

@@ -27,5 +27,10 @@
       "date": "2025-07-11"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

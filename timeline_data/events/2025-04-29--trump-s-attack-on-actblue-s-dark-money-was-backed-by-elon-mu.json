@@ -1,9 +1,9 @@
 {
   "id": "2025-04-29--trump-s-attack-on-actblue-s-dark-money-was-backed-by-elon-mu",
   "date": "2025-04-29",
-  "title": "Trump’s attack on ActBlue’s “dark money” was backed by Elon Musk’s dark money",
-  "summary": "The DOJ investigation into ActBlue is based on false claims of “donor fraud” spread by a group secretly bankrolled by Elon Musk",
-  "description": "The DOJ investigation into ActBlue is based on false claims of “donor fraud” spread by a group secretly bankrolled by Elon Musk",
+  "title": "Trump\u2019s attack on ActBlue\u2019s \u201cdark money\u201d was backed by Elon Musk\u2019s dark money",
+  "summary": "The DOJ investigation into ActBlue is based on false claims of \u201cdonor fraud\u201d spread by a group secretly bankrolled by Elon Musk",
+  "description": "The DOJ investigation into ActBlue is based on false claims of \u201cdonor fraud\u201d spread by a group secretly bankrolled by Elon Musk",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -19,7 +19,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Trump’s attack on ActBlue’s “dark money” was backed by Elon Musk’s dark money",
+      "title": "Trump\u2019s attack on ActBlue\u2019s \u201cdark money\u201d was backed by Elon Musk\u2019s dark money",
       "url": "https://www.motherjones.com/politics/2025/04/trumps-attack-on-actblues-dark-money-was-backed-by-dark-money/",
       "outlet": "Mother Jones",
       "date": "2025-04-29"
@@ -35,5 +35,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

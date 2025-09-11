@@ -54,5 +54,10 @@
     "election-interference",
     "foreign-coordination"
   ],
-  "notes": "This meeting, occurring in May 2016 before most public awareness of Russian interference, demonstrates how Russian operatives systematically approached Trump associates with offers of compromising information on Clinton. \"Henry Greenberg\" (also known as Henry Oknyansky) claimed to be an FBI informant, adding layers of complexity to the interaction. Stone and Caputo's failure to initially disclose this meeting to congressional investigators suggests consciousness of its problematic nature. While Stone claims he rejected the offer due to the price, the meeting itself shows willingness to engage with foreign nationals offering stolen information."
+  "notes": "This meeting, occurring in May 2016 before most public awareness of Russian interference, demonstrates how Russian operatives systematically approached Trump associates with offers of compromising information on Clinton. \"Henry Greenberg\" (also known as Henry Oknyansky) claimed to be an FBI informant, adding layers of complexity to the interaction. Stone and Caputo's failure to initially disclose this meeting to congressional investigators suggests consciousness of its problematic nature. While Stone claims he rejected the offer due to the price, the meeting itself shows willingness to engage with foreign nationals offering stolen information.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
 }

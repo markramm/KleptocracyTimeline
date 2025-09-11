@@ -1,0 +1,43 @@
+{
+  "id": "1979-12-27--bcci-positioned-for-cia-afghanistan-operations-soviet-invasion",
+  "date": "1979-12-27",
+  "title": "Soviet Afghanistan Invasion Positions BCCI for CIA Covert Operations Expansion",
+  "summary": "The Soviet invasion of Afghanistan creates strategic opportunity for BCCI to become primary financial conduit for CIA covert operations. BCCI's existing relationships with Pakistan's ISI, General Zia ul-Haq, and presence in regional banking markets position it perfectly to handle the billions in secret US aid to Afghan mujahideen. The bank begins serving as a financial bridge between CIA operations, Pakistani intelligence, and weapons trafficking networks. BCCI's regulatory evasion structure across multiple jurisdictions enables untraceaable money flows for Operation Cyclone. This marks BCCI's transformation from criminal banking network to essential infrastructure for US intelligence operations, demonstrating how geopolitical crises enable systematic corruption to expand under national security justifications.",
+  "importance": 9,
+  "actors": [
+    "CIA",
+    "ISI Pakistan",
+    "General Zia ul-Haq",
+    "BCCI",
+    "Afghan mujahideen",
+    "Soviet Union"
+  ],
+  "tags": [
+    "afghanistan_invasion",
+    "cia_operations",
+    "operation_cyclone",
+    "isi_pakistan",
+    "covert_funding",
+    "mujahideen"
+  ],
+  "sources": [
+    {
+      "title": "Operation Cyclone",
+      "url": "https://en.wikipedia.org/wiki/Operation_Cyclone",
+      "outlet": "Wikipedia",
+      "date": "1979-12-27"
+    },
+    {
+      "title": "The CIA and BCCI",
+      "url": "https://www.newsweek.com/cia-and-bcci-202850",
+      "outlet": "Newsweek",
+      "date": "1991-08-12"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

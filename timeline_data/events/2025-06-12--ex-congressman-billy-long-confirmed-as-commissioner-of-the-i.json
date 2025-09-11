@@ -2,8 +2,8 @@
   "id": "2025-06-12--ex-congressman-billy-long-confirmed-as-commissioner-of-the-i",
   "date": "2025-06-12",
   "title": "Ex-congressman Billy Long confirmed as commissioner of the IRS, an agency he once sought to abolish",
-  "summary": "The Senate confirmed ex-Republican Representative Billy Long as the commissioner of the IRS—though he previously tried to abolish the agency and recently helped a firm distribute fraudulent pandemic-era tax credits",
-  "description": "The Senate confirmed ex-Republican Representative Billy Long as the commissioner of the IRS—though he previously tried to abolish the agency and recently helped a firm distribute fraudulent pandemic-era tax credits",
+  "summary": "The Senate confirmed ex-Republican Representative Billy Long as the commissioner of the IRS\u2014though he previously tried to abolish the agency and recently helped a firm distribute fraudulent pandemic-era tax credits",
+  "description": "The Senate confirmed ex-Republican Representative Billy Long as the commissioner of the IRS\u2014though he previously tried to abolish the agency and recently helped a firm distribute fraudulent pandemic-era tax credits",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "date": "1973-10-01",
+  "title": "Trilateral Commission Founded by David Rockefeller",
+  "summary": "David Rockefeller, chairman of Chase Manhattan Bank, founded the Trilateral Commission as a private organization to foster cooperation between the United States, Western Europe, and Japan. Working alongside Zbigniew Brzezinski (later Carter's national security advisor), Rockefeller established the Commission during a period of considerable discord among Western allies following Nixon's unilateral economic policies and the collapse of Bretton Woods. The Commission held its first meeting in Tokyo in October 1973, bringing together over 300 elite politicians, businesspeople, and intellectuals to coordinate policies across the three regions. The founding declaration emphasized 'growing interdependence as a fact of life' and the need for coordinated international policies. Critics viewed this as an effort to consolidate control over political, monetary, intellectual, and ecclesiastical power centers, with the Commission receiving funding from the Rockefeller, Ford, and Kettering foundations.",
+  "actors": [
+    "David Rockefeller",
+    "Zbigniew Brzezinski",
+    "Chase Manhattan Bank",
+    "Trilateral Commission"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "corporate-influence",
+    "international-coordination",
+    "banking-networks"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Trilateral_Commission",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.britannica.com/topic/Trilateral-Commission",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "1973-10-01--trilateral-commission-founded-by-david-rockefeller",
+  "priority_id": "RT-EXP-28753E16-trilateral-commission-1973-banking-networks",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

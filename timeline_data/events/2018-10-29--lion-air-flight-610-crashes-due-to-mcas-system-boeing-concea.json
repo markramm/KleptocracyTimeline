@@ -1,0 +1,62 @@
+{
+  "id": "2018-10-29--lion-air-flight-610-crashes-due-to-mcas-system-boeing-concea",
+  "date": "2018-10-29",
+  "title": "Lion Air Flight 610 Crashes Due to MCAS System Boeing Concealed from Pilots",
+  "summary": "Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea shortly after takeoff from Jakarta, Indonesia, killing all 189 passengers and crew aboard. The crash was directly caused by the Maneuvering Characteristics Augmentation System (MCAS) that Boeing had deliberately concealed from pilot manuals and training materials. A miscalibrated angle of attack sensor triggered MCAS to repeatedly push the aircraft's nose down, while the pilots - having no knowledge of the system's existence - were unable to understand or counteract its commands. The flight crew fought desperately against the automated system for 11 minutes before losing control. This tragedy represented the fatal consequence of Boeing's regulatory capture strategy, where commercial considerations were prioritized over aviation safety through systematic deception of both regulators and airlines. The crash exposed how Boeing's influence over the FAA's self-certification process had allowed a fundamentally dangerous system to enter commercial service without proper disclosure, training, or safety protocols. Investigation revealed that if pilots had been informed about MCAS and provided proper training, the crash could have been prevented. The disaster marked the beginning of the Boeing 737 MAX crisis and demonstrated the lethal consequences of corporate capture of aviation safety regulation.",
+  "key_actors": [
+    "Captain Bhavye Suneja",
+    "First Officer Harvino",
+    "Lion Air crew",
+    "Boeing executives",
+    "FAA officials"
+  ],
+  "organizations": [
+    "Lion Air",
+    "Boeing",
+    "Federal Aviation Administration",
+    "Indonesian aviation authorities"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
+      "title": "Lion Air Flight 610 - Wikipedia",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.pogo.org/analysis/corrupted-oversight-the-faa-boeing-and-the-737-max",
+      "title": "Corrupted Oversight: The FAA, Boeing, and the 737 Max - POGO",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/",
+      "title": "Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Contributing Factors - Avionics International",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.seattletimes.com/business/boeing-aerospace/indonesias-investigation-of-lion-air-737-max-crash-faults-boeing-design-and-faa-certification-as-well-as-airlines-maintenance-and-pilot-errors/",
+      "title": "Indonesia's investigation of Lion Air 737 MAX crash faults Boeing design and FAA certification - Seattle Times",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/boeing-737-max-8-lion-air-plane-crash-mcas-system-flight-jt610-pilots/",
+      "title": "Boeing 737 Max 8 in Lion Air plane crash had close call with MCAS system - CBS News",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "aviation-disaster",
+    "regulatory-capture",
+    "boeing",
+    "mcas-system",
+    "pilot-training-failure"
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

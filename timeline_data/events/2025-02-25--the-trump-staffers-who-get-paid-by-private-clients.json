@@ -2,8 +2,8 @@
   "id": "2025-02-25--the-trump-staffers-who-get-paid-by-private-clients",
   "date": "2025-02-25",
   "title": "The Trump staffers who get paid by private clients",
-  "summary": "Key Trump officials, including Elon Musk and top aides, are operating as \"Special Government Employees,” allowing them to work for both the government and private clients",
-  "description": "Key Trump officials, including Elon Musk and top aides, are operating as \"Special Government Employees,” allowing them to work for both the government and private clients",
+  "summary": "Key Trump officials, including Elon Musk and top aides, are operating as \"Special Government Employees,\u201d allowing them to work for both the government and private clients",
+  "description": "Key Trump officials, including Elon Musk and top aides, are operating as \"Special Government Employees,\u201d allowing them to work for both the government and private clients",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

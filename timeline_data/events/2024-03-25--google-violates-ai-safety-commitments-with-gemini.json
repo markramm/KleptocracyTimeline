@@ -1,0 +1,38 @@
+{
+  "date": "2024-03-25",
+  "title": "Google Violates AI Safety Commitments with Gemini 2.5 Pro Release",
+  "summary": "Sixty U.K. lawmakers accused Google of breaking AI safety pledges when the company released Gemini 2.5 Pro without proper disclosure of external safety testing, violating commitments made at the February 2024 international AI summit co-hosted by the U.K. and South Korean governments.\n\nGoogle had signed Frontier AI Safety Commitments pledging to publicly report system capabilities, risk assessments, and explain if external actors like government AI safety institutes were involved in testing. However, when releasing Gemini 2.5 Pro, Google only mentioned 'third-party external testers' without disclosing which ones or whether the U.K. AI Security Institute had conducted pre-release testing.\n\nA Google DeepMind spokesperson later confirmed they had shared Gemini 2.5 Pro with the U.K. AI Security Institute, but crucially only after the model was already released to the public. This post-hoc disclosure pattern suggests safety partnerships serve more as public relations tools than genuine regulatory constraints.\n\nThis incident exemplifies the gap between AI companies' public safety rhetoric and actual practices, revealing how voluntary safety frameworks can be manipulated to provide the appearance of oversight while maintaining operational independence from meaningful regulatory constraints.",
+  "actors": [
+    "Google DeepMind",
+    "U.K. lawmakers",
+    "U.K. AI Security Institute",
+    "South Korean government"
+  ],
+  "tags": [
+    "ai_safety",
+    "regulatory_violations",
+    "tech_oligarchy",
+    "transparency_failures",
+    "ai_governance"
+  ],
+  "importance": 7,
+  "sources": [
+    {
+      "title": "https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.gov.uk/government/news/prime-minister-launches-new-ai-safety-institute",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2024-03-25--google-violates-ai-safety-commitments-with-gemini",
+  "priority_id": "RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

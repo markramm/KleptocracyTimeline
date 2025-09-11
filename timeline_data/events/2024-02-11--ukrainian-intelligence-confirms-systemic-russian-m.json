@@ -34,5 +34,8 @@
     }
   ],
   "notes": "Critical infrastructure compromise enabling enemy military operations",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

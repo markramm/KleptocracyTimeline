@@ -3,9 +3,9 @@
   "date": "2005-12-16",
   "importance": 9,
   "title": "WHIG Constitutional Crisis Precedent Enables Permanent Surveillance State as Ongoing Democratic Erosion",
-  "summary": "The New York Times revelation of NSA warrantless surveillance program represents the successful institutionalization of WHIG's constitutional crisis precedent, demonstrating how systematic executive deception creates permanent infrastructure for ongoing democratic erosion beyond specific crisis events. The surveillance program—authorized through WHIG-established precedents of executive immunity, congressional bypass, and intelligence community capture—represents not temporary crisis response but permanent constitutional transformation enabling ongoing oligarchic governance. WHIG's systematic establishment of executive deception infrastructure, crisis exploitation mechanisms, and constitutional precedent violations created the institutional framework allowing permanent surveillance state implementation without constitutional amendment or legitimate emergency powers. The surveillance program demonstrates that WHIG operations successfully transformed temporary crisis exploitation into permanent constitutional transformation, establishing ongoing institutional capture mechanisms that persist beyond specific administrations. This represents the culmination of WHIG's constitutional crisis precedent establishment: systematic executive deception during crisis creates permanent institutional frameworks enabling ongoing violation of constitutional constraints through coordinated capture of intelligence, legislative, and judicial oversight mechanisms. WHIG's achievement proves that crisis-accelerated institutional capture can establish permanent oligarchic governance infrastructure within democratic systems through systematic precedent establishment rather than formal constitutional change.",
+  "summary": "The New York Times revelation of NSA warrantless surveillance program represents the successful institutionalization of WHIG's constitutional crisis precedent, demonstrating how systematic executive deception creates permanent infrastructure for ongoing democratic erosion beyond specific crisis events. The surveillance program\u2014authorized through WHIG-established precedents of executive immunity, congressional bypass, and intelligence community capture\u2014represents not temporary crisis response but permanent constitutional transformation enabling ongoing oligarchic governance. WHIG's systematic establishment of executive deception infrastructure, crisis exploitation mechanisms, and constitutional precedent violations created the institutional framework allowing permanent surveillance state implementation without constitutional amendment or legitimate emergency powers. The surveillance program demonstrates that WHIG operations successfully transformed temporary crisis exploitation into permanent constitutional transformation, establishing ongoing institutional capture mechanisms that persist beyond specific administrations. This represents the culmination of WHIG's constitutional crisis precedent establishment: systematic executive deception during crisis creates permanent institutional frameworks enabling ongoing violation of constitutional constraints through coordinated capture of intelligence, legislative, and judicial oversight mechanisms. WHIG's achievement proves that crisis-accelerated institutional capture can establish permanent oligarchic governance infrastructure within democratic systems through systematic precedent establishment rather than formal constitutional change.",
   "actors": [
-    "NSA", 
+    "NSA",
     "George W. Bush",
     "White House Iraq Group Legacy",
     "Alberto Gonzales",
@@ -20,14 +20,14 @@
     "whig",
     "constitutional-crisis-precedents",
     "surveillance-state-institutionalization",
-    "permanent-constitutional-transformation", 
+    "permanent-constitutional-transformation",
     "democratic-erosion-infrastructure",
     "executive-immunity-expansion",
     "constitutional-violation-normalization",
     "oligarchic-governance-establishment",
     "institutional-capture-permanence"
   ],
-  "status": "confirmed", 
+  "status": "confirmed",
   "sources": [
     {
       "title": "Bush Lets U.S. Spy on Callers Without Courts",
@@ -37,7 +37,7 @@
     },
     {
       "title": "State of War: The Secret History of the CIA and the Bush Administration",
-      "url": "https://www.amazon.com/State-War-Secret-History-Administration/dp/0743270665", 
+      "url": "https://www.amazon.com/State-War-Secret-History-Administration/dp/0743270665",
       "outlet": "Free Press",
       "date": "2006-01-03"
     },
@@ -47,5 +47,12 @@
       "outlet": "Skyhorse Publishing",
       "date": "2017-04-04"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

@@ -25,5 +25,10 @@
       "outlet": "Reuters",
       "date": "2012-02-09"
     }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
   ]
 }

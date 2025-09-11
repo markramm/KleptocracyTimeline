@@ -1,0 +1,31 @@
+{
+  "date": "2023-12-12",
+  "title": "Trump Launches Third 'Mugshot' NFT Collection Generating .9 Million Revenue",
+  "summary": "Trump launched his third NFT collection titled 'MugShot' featuring 100,000 digital trading cards based on his Georgia election interference mugshot, priced at 9 each. The collection generated approximately .9 million in initial revenue and offered pieces of Trump's actual mugshot suit to buyers purchasing 47 cards. The launch caused his previous NFT collection prices to drop nearly 50% initially, demonstrating potential market cannibalization.",
+  "importance": 7,
+  "actors": [
+    "Donald Trump",
+    "NFT INT LLC"
+  ],
+  "sources": [
+    {
+      "title": "Trump sells mugshot suit, Mar-a-Lago dinner in latest NFT promotion",
+      "url": "https://www.cnbc.com/2023/12/12/trump-sells-mugshot-suit-mar-a-lago-dinner-in-latest-nft-promotion.html",
+      "outlet": "CNBC"
+    }
+  ],
+  "tags": [
+    "NFT",
+    "Trump",
+    "mugshot",
+    "Georgia",
+    "election interference",
+    "crypto",
+    "revenue"
+  ],
+  "id": "2023-12-12--trump-launches-third-mugshot-nft-collection-generating-9-mil",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
+}

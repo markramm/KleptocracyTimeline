@@ -1,9 +1,9 @@
 {
   "id": "2025-06-21--this-presidency-is-a-brand-franchise-trump-has-taken-the-com",
   "date": "2025-06-21",
-  "title": "‘This presidency is a brand-franchise’: Trump has taken the commercialization of politics to a new level",
-  "summary": "Trump’s net worth has doubled to $5.4 billion since returning to office as he commercializes the presidency through luxury product sales, foreign real estate deals, and cryptocurrency ventures",
-  "description": "Trump’s net worth has doubled to $5.4 billion since returning to office as he commercializes the presidency through luxury product sales, foreign real estate deals, and cryptocurrency ventures",
+  "title": "\u2018This presidency is a brand-franchise\u2019: Trump has taken the commercialization of politics to a new level",
+  "summary": "Trump\u2019s net worth has doubled to $5.4 billion since returning to office as he commercializes the presidency through luxury product sales, foreign real estate deals, and cryptocurrency ventures",
+  "description": "Trump\u2019s net worth has doubled to $5.4 billion since returning to office as he commercializes the presidency through luxury product sales, foreign real estate deals, and cryptocurrency ventures",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -19,7 +19,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "‘This presidency is a brand-franchise’: Trump has taken the commercialization of politics to a new l",
+      "title": "\u2018This presidency is a brand-franchise\u2019: Trump has taken the commercialization of politics to a new l",
       "url": "https://www.theguardian.com/us-news/2025/jun/21/trump-products-presidency-as-a-brand",
       "outlet": "The Guardian",
       "date": "2025-06-21"
@@ -53,5 +53,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

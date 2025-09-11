@@ -2,8 +2,8 @@
   "id": "2025-07-02--paramount-to-pay-trump-16m-to-settle-60-minutes-lawsuit",
   "date": "2025-07-02",
   "title": "Paramount to pay Trump $16m to settle 60 Minutes lawsuit",
-  "summary": "Paramount agreed to pay $16 million to settle its frivolous lawsuit with Trump over the editing of Kamala Harris’ pre-election ’60 Minutes’ interview",
-  "description": "Paramount agreed to pay $16 million to settle its frivolous lawsuit with Trump over the editing of Kamala Harris’ pre-election ’60 Minutes’ interview",
+  "summary": "Paramount agreed to pay $16 million to settle its frivolous lawsuit with Trump over the editing of Kamala Harris\u2019 pre-election \u201960 Minutes\u2019 interview",
+  "description": "Paramount agreed to pay $16 million to settle its frivolous lawsuit with Trump over the editing of Kamala Harris\u2019 pre-election \u201960 Minutes\u2019 interview",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
 }

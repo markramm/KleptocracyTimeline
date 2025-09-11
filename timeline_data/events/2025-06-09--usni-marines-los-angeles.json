@@ -57,5 +57,9 @@
     }
   ],
   "_merge_note": "Enhanced with information from duplicate event: 2025-06-09--marines-los-angeles",
-  "_merge_timestamp": "2025-09-05T23:46:55.897380"
+  "_merge_timestamp": "2025-09-05T23:46:55.897380",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

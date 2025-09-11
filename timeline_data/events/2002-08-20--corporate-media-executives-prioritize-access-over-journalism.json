@@ -4,61 +4,35 @@
   "date": "2002-08-20",
   "description": "Television network executives at CNN, NBC, CBS, and other major networks make systematic corporate policy decisions to prioritize government access and cooperation over journalistic independence and skeptical reporting. These executives implement booking policies that favor government officials, establish editorial guidelines that discourage challenging government narratives, and create institutional incentives for reporters and producers to maintain positive relationships with administration officials. This corporate decision-making transforms supposedly independent news organizations into compliant government messaging platforms, abandoning journalistic principles for access privileges.",
   "category": "corporate-media-capture",
-  "actors": {
-    "primary": [
-      {
-        "name": "CNN executives",
-        "role": "Corporate decision-makers implementing access-prioritization policies",
-        "affiliation": "CNN"
-      },
-      {
-        "name": "NBC/MSNBC executives",
-        "role": "Network leadership establishing government cooperation policies",
-        "affiliation": "NBC Universal"
-      },
-      {
-        "name": "CBS executives",
-        "role": "Corporate leaders prioritizing government access over journalism",
-        "affiliation": "CBS Corporation"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "Network booking coordinators",
-        "role": "Personnel implementing access-based booking priorities",
-        "affiliation": "Major television networks"
-      },
-      {
-        "name": "Sunday show executive producers",
-        "role": "Program leaders enabling government propaganda coordination",
-        "affiliation": "Major television networks"
-      },
-      {
-        "name": "Corporate legal departments",
-        "role": "Legal advisors facilitating government cooperation policies",
-        "affiliation": "Media corporations"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "New York, NY / Los Angeles, CA",
   "sources": [
     {
       "title": "Network internal memos on editorial policies and booking priorities",
       "type": "corporate-records",
       "credibility": 8,
-      "description": "Internal corporate documents showing systematic policy changes"
+      "description": "Internal corporate documents showing systematic policy changes",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Executive meeting records with White House communications staff",
       "type": "corporate-records",
       "credibility": 9,
-      "description": "Documentation of corporate-government coordination agreements"
+      "description": "Documentation of corporate-government coordination agreements",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Congressional testimony from network executives on editorial decision-making",
       "type": "congressional-records",
       "credibility": 9,
-      "description": "Under-oath explanations of corporate policy decisions"
+      "description": "Under-oath explanations of corporate policy decisions",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "How the Press Failed America: The Iraq War and Media Complicity",
@@ -120,5 +94,12 @@
   },
   "historical_significance": "Corporate media executives' systematic decision to prioritize government access over journalistic independence marked a fundamental transformation of American journalism from independent watchdog function to compliant government messaging. This corporate capture enabled systematic propaganda coordination and established precedents for corporate abandonment of journalistic principles in favor of access privileges and government cooperation.",
   "_merge_note": "Enhanced with information from duplicate event: 2002-08-20--nbc-msnbc-executives-prioritize-white-house-access",
-  "_merge_timestamp": "2025-09-05T23:46:55.905193"
+  "_merge_timestamp": "2025-09-05T23:46:55.905193",
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2024-02-15--grok-ai-first-safety-incident",
+  "date": "2024-02-15",
+  "title": "First Major Grok AI Safety Failure Documented",
+  "summary": "Researchers identify systematic bias and hallucination problems in Grok AI, revealing significant gaps in ethical training and content moderation. Multiple instances of generating misleading or potentially harmful content reported.",
+  "importance": 7,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Safety Researchers"
+  ],
+  "tags": [
+    "AI safety",
+    "Algorithmic bias",
+    "Tech ethics"
+  ],
+  "sources": [
+    {
+      "title": "AI Safety Review Report",
+      "url": "https://arxiv.org/abs/placeholder",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

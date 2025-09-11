@@ -1,0 +1,30 @@
+{
+  "id": "1975-04-28--church-committee-reveals-mkultra-shock-doctrine-connections",
+  "date": "1975-04-28",
+  "title": "Church Committee Exposes Psychological Manipulation Techniques in Government Operations",
+  "summary": "Final Church Committee report reveals extensive details about Project MKULTRA, documenting systematic psychological manipulation techniques developed by CIA. The report inadvertently highlights parallels between intelligence community psychological research and emerging economic shock therapy models of institutional transformation.",
+  "importance": 8,
+  "actors": [
+    "Senator Frank Church",
+    "CIA",
+    "Intelligence Community"
+  ],
+  "tags": [
+    "psychological-manipulation",
+    "institutional-research",
+    "government-operations"
+  ],
+  "sources": [
+    {
+      "title": "Intelligence Activities and the Rights of Americans",
+      "author": "U.S. Senate Select Committee",
+      "year": 1975,
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
+}

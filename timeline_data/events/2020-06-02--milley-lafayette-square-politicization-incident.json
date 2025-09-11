@@ -1,0 +1,42 @@
+{
+  "id": "2020-06-02--milley-lafayette-square-politicization-incident",
+  "date": "2020-06-02",
+  "title": "General Milley Appears with Trump at Lafayette Square After Protest Clearing",
+  "summary": "Joint Chiefs Chairman General Mark Milley accompanies President Trump to Lafayette Square for a photo opportunity at St. John's Church immediately after federal forces violently clear peaceful protesters. Milley appears in military camouflage uniform, creating the appearance of military support for domestic political actions. Milley later apologizes, stating \"I should not have been there. My presence in that moment and in that environment created a perception of the military involved in domestic politics.\" The incident demonstrates systematic attempts to politicize military leadership and blur civilian-military boundaries, establishing precedents for using military imagery in political contexts.",
+  "importance": 8,
+  "location": "Lafayette Square, Washington DC",
+  "actors": [
+    "General Mark Milley",
+    "Donald Trump",
+    "Joint Chiefs of Staff",
+    "Federal Law Enforcement",
+    "Peaceful Protesters"
+  ],
+  "tags": [
+    "milley",
+    "lafayette_square",
+    "protest_clearing",
+    "military_politicization",
+    "domestic_politics"
+  ],
+  "capture_lanes": [
+    "Military Politicization"
+  ],
+  "sources": [
+    {
+      "title": "Gen. Mark Milley, polarizing Joint Chiefs chairman, exits center stage",
+      "url": "https://www.washingtonpost.com/national-security/2023/09/24/mark-milley-trump-biden/",
+      "outlet": "Washington Post",
+      "date": "2023-09-24",
+      "verified": true
+    },
+    {
+      "title": "How Was Chairman Milley Able to Thwart President Trump?",
+      "url": "https://www.lawfaremedia.org/article/how-was-chairman-milley-able-to-thwart-president-trump",
+      "outlet": "Lawfare",
+      "date": "2024-01-01",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

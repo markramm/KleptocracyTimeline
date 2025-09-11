@@ -12,9 +12,21 @@
     "Banking industry compliance officers"
   ],
   "sources": [
-    "https://www.pogo.org/post/secs-revolving-door-blurs-line-between-regulator-and-industry",
-    "https://ips-dc.org/the_secs_revolving_door/",
-    "https://therevolvingdoorproject.org/top-sec-enforcement-officials-take-a-swing-through-the-revolving-door/"
+    {
+      "title": "https://www.pogo.org/post/secs-revolving-door-blurs-line-between-regulator-and-industry",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://ips-dc.org/the_secs_revolving_door/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://therevolvingdoorproject.org/top-sec-enforcement-officials-take-a-swing-through-the-revolving-door/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -27,5 +39,12 @@
   ],
   "status": "confirmed",
   "id": "2010-05-15--wells-fargo-hires-sec-enforcement-chief-two-weeks-before-regulatory-defense-1757458612",
-  "priority_id": "indigenous-democracy-60dde4fe"
+  "priority_id": "indigenous-democracy-60dde4fe",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

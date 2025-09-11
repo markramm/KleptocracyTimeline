@@ -1,9 +1,9 @@
 {
   "id": "2025-03-09--chinese-investors-privately-take-stakes-in-elon-musk-s-compa",
   "date": "2025-03-09",
-  "title": "Chinese investors privately take stakes in Elon Musk’s companies",
-  "summary": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest in Elon Musk’s firms",
-  "description": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest in Elon Musk’s firms",
+  "title": "Chinese investors privately take stakes in Elon Musk\u2019s companies",
+  "summary": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest in Elon Musk\u2019s firms",
+  "description": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest in Elon Musk\u2019s firms",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Chinese investors privately take stakes in Elon Musk’s companies",
+      "title": "Chinese investors privately take stakes in Elon Musk\u2019s companies",
       "url": "https://www.ft.com/content/66857e1e-a217-4ddd-8332-d9f0f75aa459",
       "outlet": "Financial Times",
       "date": "2025-03-09"
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

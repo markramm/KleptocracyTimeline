@@ -32,5 +32,10 @@
     }
   ],
   "notes": "Places U.S. in same category as Turkey, Ukraine, and Mexico - regimes with democratic facades but authoritarian practices",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
 }

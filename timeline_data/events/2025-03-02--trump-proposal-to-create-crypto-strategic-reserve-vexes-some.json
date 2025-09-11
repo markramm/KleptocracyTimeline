@@ -2,8 +2,8 @@
   "id": "2025-03-02--trump-proposal-to-create-crypto-strategic-reserve-vexes-some",
   "date": "2025-03-02",
   "title": "Trump proposal to create 'crypto strategic reserve' vexes some industry supporters",
-  "summary": "Trump announced a US Crypto Strategic Reserve, committing the government to stockpile Bitcoin, Ether, XRP, Solana, and Cardano – boosting the value of his crypto holdings",
-  "description": "Trump announced a US Crypto Strategic Reserve, committing the government to stockpile Bitcoin, Ether, XRP, Solana, and Cardano – boosting the value of his crypto holdings",
+  "summary": "Trump announced a US Crypto Strategic Reserve, committing the government to stockpile Bitcoin, Ether, XRP, Solana, and Cardano \u2013 boosting the value of his crypto holdings",
+  "description": "Trump announced a US Crypto Strategic Reserve, committing the government to stockpile Bitcoin, Ether, XRP, Solana, and Cardano \u2013 boosting the value of his crypto holdings",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

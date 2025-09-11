@@ -40,5 +40,11 @@
   "created_from": "research-priority-RT-004-enron-cheney-connection",
   "created_date": "2025-09-06T03:41:26.656456",
   "category": "constitutional-crisis",
-  "verification_status": "documented"
+  "verification_status": "documented",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

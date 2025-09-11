@@ -10,9 +10,21 @@
     "Jeffrey Skilling"
   ],
   "sources": [
-    "https://www.history.com/this-day-in-history/enron-files-for-bankruptcy",
-    "https://www.fbi.gov/history/famous-cases/enron",
-    "https://en.wikipedia.org/wiki/Enron_scandal"
+    {
+      "title": "https://www.history.com/this-day-in-history/enron-files-for-bankruptcy",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.fbi.gov/history/famous-cases/enron",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://en.wikipedia.org/wiki/Enron_scandal",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "enron",
@@ -22,5 +34,10 @@
     "financial-crime"
   ],
   "id": "2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence-1757454841",
-  "priority_id": "RT-COMPLETED-004-enron-cheney-connection"
+  "priority_id": "RT-COMPLETED-004-enron-cheney-connection",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

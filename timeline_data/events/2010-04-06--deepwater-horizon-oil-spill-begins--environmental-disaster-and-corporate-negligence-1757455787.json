@@ -12,9 +12,21 @@
     "Steven Chu"
   ],
   "sources": [
-    "https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-mexico-oil-spill",
-    "https://www.nytimes.com/2010/04/21/us/21rig.html",
-    "https://www.justice.gov/opa/pr/bp-exploration-and-production-inc-agrees-plead-guilty-felony-manslaughter-environmental"
+    {
+      "title": "https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-mexico-oil-spill",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.nytimes.com/2010/04/21/us/21rig.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.justice.gov/opa/pr/bp-exploration-and-production-inc-agrees-plead-guilty-felony-manslaughter-environmental",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -25,5 +37,10 @@
     "gulf-coast"
   ],
   "id": "2010-04-06--deepwater-horizon-oil-spill-begins--environmental-disaster-and-corporate-negligence-1757455787",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-23"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-23",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Executive Power Expansion"
+  ]
 }

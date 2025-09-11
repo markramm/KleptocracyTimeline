@@ -30,5 +30,8 @@
       "date": "2024-11-15"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

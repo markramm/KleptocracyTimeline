@@ -1,0 +1,29 @@
+{
+  "date": "2025-01-20",
+  "title": "Research finding: Clear Channel Media Consolidation...",
+  "summary": "Test event created by shared server research agent for priority: Clear Channel Media Consolidation. This demonstrates the complete workflow from priority reservation through event creation to completion tracking.",
+  "importance": 6,
+  "actors": [
+    "Test Agent",
+    "Research Priority System",
+    "Shared Server"
+  ],
+  "sources": [
+    {
+      "title": "Shared Server Test",
+      "url": "https://example.com/test",
+      "outlet": "Test System"
+    }
+  ],
+  "tags": [
+    "test",
+    "agent_research",
+    "shared_server",
+    "workflow_demo"
+  ],
+  "status": "confirmed",
+  "id": "2025-01-20--research-finding-clear-channel-media-consolidation",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

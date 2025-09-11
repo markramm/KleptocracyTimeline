@@ -1,7 +1,7 @@
 {
   "id": "2025-05-22--hundreds-join-trump-at-exclusive-dinner-with-dreams-of-crypt",
   "date": "2025-05-22",
-  "title": "Hundreds join Trump at ‘exclusive’ dinner, with dreams of crypto fortunes in mind",
+  "title": "Hundreds join Trump at \u2018exclusive\u2019 dinner, with dreams of crypto fortunes in mind",
   "summary": "Trump hosted a dinner for the top 220 investors in his memecoin at his Virginia golf club, some having spent 10s of millions of dollars on the digital token",
   "description": "Trump hosted a dinner for the top 220 investors in his memecoin at his Virginia golf club, some having spent 10s of millions of dollars on the digital token",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Hundreds join Trump at ‘exclusive’ dinner, with dreams of crypto fortunes in mind",
+      "title": "Hundreds join Trump at \u2018exclusive\u2019 dinner, with dreams of crypto fortunes in mind",
       "url": "https://www.nytimes.com/2025/05/22/us/politics/trump-memecoin-dinner.html",
       "outlet": "New York Times",
       "date": "2025-05-22"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

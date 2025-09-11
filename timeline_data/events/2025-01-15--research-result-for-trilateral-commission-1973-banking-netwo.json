@@ -1,0 +1,27 @@
+{
+  "date": "2025-01-15",
+  "title": "Research result for: Trilateral Commission 1973 Banking Networks",
+  "summary": "Test event created by research agent",
+  "importance": 6,
+  "actors": [
+    "Test Agent",
+    "Research Priority System"
+  ],
+  "sources": [
+    {
+      "title": "Agent Test",
+      "url": "https://example.com",
+      "outlet": "Test System"
+    }
+  ],
+  "tags": [
+    "test",
+    "agent_research",
+    "shared_server"
+  ],
+  "id": "2025-01-15--research-result-for-trilateral-commission-1973-banking-netwo",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

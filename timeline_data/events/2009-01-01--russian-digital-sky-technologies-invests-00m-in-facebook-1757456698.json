@@ -10,8 +10,16 @@
   ],
   "importance": 8,
   "sources": [
-    "Medium",
-    "Russian Influence Networks analysis"
+    {
+      "title": "Medium",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "facebook-russia",
@@ -21,5 +29,9 @@
   ],
   "status": "confirmed",
   "id": "2009-01-01--russian-digital-sky-technologies-invests-00m-in-facebook-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
 }

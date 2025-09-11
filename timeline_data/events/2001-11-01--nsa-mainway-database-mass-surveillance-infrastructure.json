@@ -7,7 +7,7 @@
   "actors": [
     "NSA",
     "AT&T",
-    "Verizon", 
+    "Verizon",
     "T-Mobile",
     "FBI",
     "Dick Cheney",
@@ -27,7 +27,7 @@
     {
       "title": "U.S. surveillance architecture includes collection of revealing Internet, phone metadata",
       "url": "https://www.washingtonpost.com/investigations/us-surveillance-architecture-includes-collection-of-revealing-internet-phone-metadata/2013/06/15/e9bf004a-d511-11e2-b05f-3ea3f0e7bb5a_story.html",
-      "outlet": "Washington Post", 
+      "outlet": "Washington Post",
       "date": "2013-06-15"
     },
     {
@@ -43,5 +43,10 @@
       "date": "2013-06-27"
     }
   ],
-  "notes": "MAINWAY represented the technical infrastructure enabling STELLARWIND's mass surveillance capabilities. The database's unprecedented scale - 1.9 trillion records - demonstrates the scope of domestic surveillance conducted without warrants. The system was ordered by Vice President Dick Cheney and built to support contact chaining analysis, fundamentally changing NSA operations from targeted to bulk collection."
+  "notes": "MAINWAY represented the technical infrastructure enabling STELLARWIND's mass surveillance capabilities. The database's unprecedented scale - 1.9 trillion records - demonstrates the scope of domestic surveillance conducted without warrants. The system was ordered by Vice President Dick Cheney and built to support contact chaining analysis, fundamentally changing NSA operations from targeted to bulk collection.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

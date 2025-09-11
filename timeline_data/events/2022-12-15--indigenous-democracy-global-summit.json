@@ -1,0 +1,28 @@
+{
+  "id": "2022-12-15--indigenous-democracy-global-summit",
+  "date": "2022-12-15",
+  "title": "Global Indigenous Democracy and Governance Summit",
+  "summary": "International conference bringing together indigenous leaders to discuss traditional governance models, consensus-building techniques, and strategies for integrating indigenous democratic practices into modern political systems. Highlighted the potential of indigenous democratic innovations for addressing contemporary governance challenges.",
+  "importance": 6,
+  "actors": [
+    "Global Indigenous Leaders",
+    "Academic Researchers"
+  ],
+  "tags": [
+    "traditional-governance",
+    "consensus-democracy",
+    "indigenous-politics",
+    "democratic-innovation"
+  ],
+  "sources": [
+    {
+      "title": "Indigenous Governance Conference Proceedings",
+      "url": "https://www.indigenousdemocracy.org/2022-summit",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

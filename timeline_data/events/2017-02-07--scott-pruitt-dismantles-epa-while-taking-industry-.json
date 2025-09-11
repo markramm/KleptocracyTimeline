@@ -27,7 +27,7 @@
       "date": "2017-08-11"
     },
     {
-      "title": "All of Scott Pruitt scandals — a complete guide",
+      "title": "All of Scott Pruitt scandals \u2014 a complete guide",
       "url": "https://www.vox.com/policy-and-politics/2018/7/5/17535910/scott-pruitt-resigns-epa-scandals-list",
       "outlet": "Vox",
       "date": "2018-07-05"
@@ -38,5 +38,10 @@
       "outlet": "NBC News",
       "date": "2020-01-15"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture"
   ]
 }

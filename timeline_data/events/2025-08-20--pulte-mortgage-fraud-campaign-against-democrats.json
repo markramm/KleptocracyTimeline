@@ -58,5 +58,10 @@
     "weaponized-government",
     "political-persecution"
   ],
-  "notes": "Pulte's systematic campaign represents unprecedented abuse of government mortgage databases for political targeting. FHFA oversees Fannie Mae and Freddie Mac which process majority of US mortgages, giving Pulte access to private financial data of millions. His focus on primary residence technicalities in mortgage applications creates pretext for criminal referrals. Rep. Maxine Waters calls this \"alarming actions\" raising \"serious concerns about conflicts of interest, legal violations.\" Pattern resembles Nixon's enemies list but with modern financial surveillance capabilities."
+  "notes": "Pulte's systematic campaign represents unprecedented abuse of government mortgage databases for political targeting. FHFA oversees Fannie Mae and Freddie Mac which process majority of US mortgages, giving Pulte access to private financial data of millions. His focus on primary residence technicalities in mortgage applications creates pretext for criminal referrals. Rep. Maxine Waters calls this \"alarming actions\" raising \"serious concerns about conflicts of interest, legal violations.\" Pattern resembles Nixon's enemies list but with modern financial surveillance capabilities.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

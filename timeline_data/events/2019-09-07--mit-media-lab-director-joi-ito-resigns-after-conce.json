@@ -46,5 +46,9 @@
       "date": "2019-09-07"
     }
   ],
-  "notes": "The MIT case demonstrates how Epstein used charitable giving to elite institutions to rehabilitate his reputation and gain access to influential networks after his 2008 conviction."
+  "notes": "The MIT case demonstrates how Epstein used charitable giving to elite institutions to rehabilitate his reputation and gain access to influential networks after his 2008 conviction.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
 }

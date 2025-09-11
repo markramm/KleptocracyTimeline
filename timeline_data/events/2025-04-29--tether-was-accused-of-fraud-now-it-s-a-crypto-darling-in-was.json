@@ -1,9 +1,9 @@
 {
   "id": "2025-04-29--tether-was-accused-of-fraud-now-it-s-a-crypto-darling-in-was",
   "date": "2025-04-29",
-  "title": "Tether was accused of fraud. Now it’s a crypto darling in Washington",
-  "summary": "Tether–a cryptocurrency firm that previously settled a fraud investigation and has since endeared itself to Republican lawmakers and Commerce Secretary Howard Lutnick–is pushing to shape legislation that seeks to set rules for stablecoins",
-  "description": "Tether–a cryptocurrency firm that previously settled a fraud investigation and has since endeared itself to Republican lawmakers and Commerce Secretary Howard Lutnick–is pushing to shape legislation that seeks to set rules for stablecoins",
+  "title": "Tether was accused of fraud. Now it\u2019s a crypto darling in Washington",
+  "summary": "Tether\u2013a cryptocurrency firm that previously settled a fraud investigation and has since endeared itself to Republican lawmakers and Commerce Secretary Howard Lutnick\u2013is pushing to shape legislation that seeks to set rules for stablecoins",
+  "description": "Tether\u2013a cryptocurrency firm that previously settled a fraud investigation and has since endeared itself to Republican lawmakers and Commerce Secretary Howard Lutnick\u2013is pushing to shape legislation that seeks to set rules for stablecoins",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -19,7 +19,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Tether was accused of fraud. Now it’s a crypto darling in Washington",
+      "title": "Tether was accused of fraud. Now it\u2019s a crypto darling in Washington",
       "url": "https://www.nytimes.com/2025/04/29/technology/trump-crypto-tether.html",
       "outlet": "New York Times",
       "date": "2025-04-29"
@@ -35,5 +35,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
 }

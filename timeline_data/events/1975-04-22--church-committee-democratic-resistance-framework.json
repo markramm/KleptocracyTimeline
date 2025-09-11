@@ -1,0 +1,33 @@
+{
+  "id": "1975-04-22--church-committee-democratic-resistance-framework",
+  "date": "1975-04-22",
+  "title": "Church Committee: Landmark Democratic Resistance Framework Against Intelligence Abuses",
+  "summary": "The Church Committee, led by Senator Frank Church, conducted a comprehensive investigation into US intelligence agency abuses, establishing a critical democratic resistance framework. The investigation exposed systematic violations by CIA, NSA, and FBI, leading to the creation of permanent intelligence oversight mechanisms like the Senate Select Committee on Intelligence and restrictions on executive power. This represents a pivotal moment in developing institutional resistance strategies against governmental overreach.",
+  "importance": 9,
+  "actors": [
+    "Senator Frank Church",
+    "US Senate",
+    "CIA",
+    "NSA",
+    "FBI"
+  ],
+  "tags": [
+    "institutional-resistance",
+    "intelligence-oversight",
+    "democratic-safeguards"
+  ],
+  "sources": [
+    {
+      "title": "The Church Committee Report",
+      "outlet": "US Senate Historical Office",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

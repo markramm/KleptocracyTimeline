@@ -12,8 +12,16 @@
   ],
   "financial_impact": null,
   "sources": [
-    "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-    "https://sourcewatch.org/index.php/White_House_Iraq_Group"
+    {
+      "title": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -22,5 +30,10 @@
     "powell-memo-implementation",
     "propaganda-coordination"
   ],
-  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration"
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

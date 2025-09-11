@@ -11,7 +11,7 @@
   ],
   "sources": [
     {
-      "title": "Kash Patel — Director, Federal Bureau of Investigation",
+      "title": "Kash Patel \u2014 Director, Federal Bureau of Investigation",
       "url": "https://www.fbi.gov/about/leadership-and-structure/director",
       "outlet": "FBI.gov",
       "date": "2025-02-20",
@@ -26,5 +26,12 @@
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

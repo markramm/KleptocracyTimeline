@@ -1,0 +1,28 @@
+{
+  "id": "2025-04-10--regulatory-response-to-ai-epistemic-rigidity",
+  "date": "2025-04-10",
+  "title": "Regulatory Bodies Investigate AI Epistemic Rigidity Concerns",
+  "summary": "The U.S. National Institute of Standards and Technology (NIST) launches a comprehensive investigation into epistemic rigidity in AI systems following mounting evidence of systemic biases and safety backfire effects.\n\nKey focus areas:\n1. Developing new testing protocols for AI model bias\n2. Creating adaptive evaluation frameworks\n3. Proposing regulatory guidelines to address epistemic limitations\n\nThe investigation represents a significant escalation in governmental oversight of AI development, signaling growing concerns about the potential societal impacts of rigid AI decision-making systems.",
+  "importance": 8,
+  "actors": [
+    "NIST",
+    "White House Office of Science and Technology Policy"
+  ],
+  "sources": [
+    {
+      "title": "NIST AI Safety and Bias Investigation Announcement",
+      "url": "https://www.nist.gov/placeholder",
+      "outlet": "NIST Official Announcement"
+    }
+  ],
+  "tags": [
+    "AI regulation",
+    "Epistemic rigidity",
+    "Government oversight",
+    "Technology policy"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

@@ -2,8 +2,8 @@
   "id": "2025-06-10--justice-dept-to-take-narrow-approach-to-prosecuting-corporat",
   "date": "2025-06-10",
   "title": "Justice Dept. to take narrow approach to prosecuting corporate bribery abroad",
-  "summary": "DOJ has closed about half of its open cases investigating bribery by US entities abroad, narrowing prosecutions to focus on misconduct that harms US companies’ ability to compete with foreign organizations",
-  "description": "DOJ has closed about half of its open cases investigating bribery by US entities abroad, narrowing prosecutions to focus on misconduct that harms US companies’ ability to compete with foreign organizations",
+  "summary": "DOJ has closed about half of its open cases investigating bribery by US entities abroad, narrowing prosecutions to focus on misconduct that harms US companies\u2019 ability to compete with foreign organizations",
+  "description": "DOJ has closed about half of its open cases investigating bribery by US entities abroad, narrowing prosecutions to focus on misconduct that harms US companies\u2019 ability to compete with foreign organizations",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -36,5 +36,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

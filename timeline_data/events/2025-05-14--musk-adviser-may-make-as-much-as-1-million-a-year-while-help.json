@@ -2,8 +2,8 @@
   "id": "2025-05-14--musk-adviser-may-make-as-much-as-1-million-a-year-while-help",
   "date": "2025-05-14",
   "title": "Musk adviser may make as much as $1 million a year while helping to dismantle agency that regulates Tesla and X",
-  "summary": "DOGE operative Chris Young worked to gut the CFPB–which has jurisdiction over Tesla and X–while also on Elon Musk’s payroll as a “political advisor,” earning up to $1 million annually",
-  "description": "DOGE operative Chris Young worked to gut the CFPB–which has jurisdiction over Tesla and X–while also on Elon Musk’s payroll as a “political advisor,” earning up to $1 million annually",
+  "summary": "DOGE operative Chris Young worked to gut the CFPB\u2013which has jurisdiction over Tesla and X\u2013while also on Elon Musk\u2019s payroll as a \u201cpolitical advisor,\u201d earning up to $1 million annually",
+  "description": "DOGE operative Chris Young worked to gut the CFPB\u2013which has jurisdiction over Tesla and X\u2013while also on Elon Musk\u2019s payroll as a \u201cpolitical advisor,\u201d earning up to $1 million annually",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

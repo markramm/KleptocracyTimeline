@@ -49,5 +49,8 @@
     "regulatory-capture",
     "conflict-of-interest"
   ],
-  "notes": "Kennedy's appointment places an anti-vaccine activist with zero medical training in charge of America's health infrastructure. His $11.3 million anti-vaccine income and biotech investments create massive conflicts while overseeing FDA drug approvals and NIH research funding. Plans to fire 600 NIH employees and end water fluoridation demonstrate ideology over science. His Children's Health Defense spread vaccine misinformation linked to measles outbreaks, yet he now controls CDC vaccine policy."
+  "notes": "Kennedy's appointment places an anti-vaccine activist with zero medical training in charge of America's health infrastructure. His $11.3 million anti-vaccine income and biotech investments create massive conflicts while overseeing FDA drug approvals and NIH research funding. Plans to fire 600 NIH employees and end water fluoridation demonstrate ideology over science. His Children's Health Defense spread vaccine misinformation linked to measles outbreaks, yet he now controls CDC vaccine policy.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

@@ -1,0 +1,28 @@
+{
+  "id": "2025-09-01--global-ai-epistemic-rigidity-summit",
+  "date": "2025-09-01",
+  "title": "First Global Summit on AI Cognitive Limitations",
+  "summary": "International conference in Geneva brings together leading AI researchers, ethicists, and policymakers to develop comprehensive strategies for addressing epistemic rigidity in artificial intelligence systems, marking a critical turning point in AI safety research.",
+  "importance": 9,
+  "actors": [
+    "UN AI Governance Council",
+    "Global AI Research Consortium",
+    "IEEE"
+  ],
+  "sources": [
+    {
+      "title": "Geneva AI Cognitive Limitations Conference Proceedings",
+      "url": "https://un.org/ai-summit-2025",
+      "outlet": "United Nations Conference Documentation"
+    }
+  ],
+  "tags": [
+    "AI Governance",
+    "International Collaboration",
+    "Epistemic rigidity"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
+}

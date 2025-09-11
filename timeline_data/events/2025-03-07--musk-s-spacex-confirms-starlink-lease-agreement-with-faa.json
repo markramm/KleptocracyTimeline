@@ -1,9 +1,9 @@
 {
   "id": "2025-03-07--musk-s-spacex-confirms-starlink-lease-agreement-with-faa",
   "date": "2025-03-07",
-  "title": "Musk’s SpaceX confirms Starlink lease agreement with FAA",
-  "summary": "Elon Musk’s SpaceX confirmed Starlink lease agreement to provide telecommunications services to the FAA",
-  "description": "Elon Musk’s SpaceX confirmed Starlink lease agreement to provide telecommunications services to the FAA",
+  "title": "Musk\u2019s SpaceX confirms Starlink lease agreement with FAA",
+  "summary": "Elon Musk\u2019s SpaceX confirmed Starlink lease agreement to provide telecommunications services to the FAA",
+  "description": "Elon Musk\u2019s SpaceX confirmed Starlink lease agreement to provide telecommunications services to the FAA",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Musk’s SpaceX confirms Starlink lease agreement with FAA",
+      "title": "Musk\u2019s SpaceX confirms Starlink lease agreement with FAA",
       "url": "https://www.washingtonpost.com/business/2025/03/06/starlink-faa-verizon-contract-musk/",
       "outlet": "Washington Post",
       "date": "2025-03-07"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

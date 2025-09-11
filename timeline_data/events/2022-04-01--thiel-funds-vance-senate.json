@@ -53,5 +53,8 @@
     "democracy-capture",
     "billionaire-kingmaking"
   ],
-  "notes": "Thiel's $15 million investment represents approximately 75% of pro-Vance super PAC spending, effectively purchasing Ohio Senate seat. Investment pays immediate dividends when Vance wins despite trailing in polls before Thiel's money and Trump's endorsement. This demonstrates new model of political capture where tech billionaires directly purchase political offices for ideological allies, bypassing traditional party structures. Vance's transformation from Trump critic to MAGA champion shows price of Thiel's patronage."
+  "notes": "Thiel's $15 million investment represents approximately 75% of pro-Vance super PAC spending, effectively purchasing Ohio Senate seat. Investment pays immediate dividends when Vance wins despite trailing in polls before Thiel's money and Trump's endorsement. This demonstrates new model of political capture where tech billionaires directly purchase political offices for ideological allies, bypassing traditional party structures. Vance's transformation from Trump critic to MAGA champion shows price of Thiel's patronage.",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

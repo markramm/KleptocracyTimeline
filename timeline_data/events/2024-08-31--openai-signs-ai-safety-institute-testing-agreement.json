@@ -1,0 +1,41 @@
+{
+  "date": "2024-08-31",
+  "title": "OpenAI Signs AI Safety Institute Testing Agreement",
+  "summary": "OpenAI formally signed agreements with the U.S. AI Safety Institute at NIST for AI safety research, testing and evaluation, marking a crucial step in industry-government regulatory coordination. Sam Altman specifically announced that OpenAI would provide early access to its next major generative AI model for government safety testing, representing unprecedented corporate voluntary submission to federal oversight.\n\nThe agreement exemplifies the emerging pattern of AI regulatory capture through voluntary partnership frameworks. By positioning themselves as proactive partners in safety evaluation, major AI companies like OpenAI effectively gain influence over the regulatory standards being developed while maintaining public credibility as responsible actors.\n\nThis partnership follows the Biden-Harris administration's 2023 Executive Order establishing the AI Safety Institute, which created the institutional framework for these industry-government collaborations. The voluntary nature of these agreements allows companies to shape regulatory expectations while avoiding binding oversight mechanisms.\n\nThe timing coincides with OpenAI's broader strategy of publicly advocating for AI safety regulation while simultaneously working to ensure such regulation benefits their competitive position and limits regulatory burden on their operations.",
+  "actors": [
+    "Sam Altman",
+    "OpenAI",
+    "U.S. AI Safety Institute",
+    "NIST",
+    "Biden-Harris administration"
+  ],
+  "tags": [
+    "ai_governance",
+    "regulatory_capture",
+    "ai_safety",
+    "tech_oligarchy",
+    "government_partnerships"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://techcrunch.com/2024/07/31/openai-pledges-to-give-u-s-ai-safety-institute-early-access-to-its-next-model/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2024-08-31--openai-signs-ai-safety-institute-testing-agreement",
+  "priority_id": "RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

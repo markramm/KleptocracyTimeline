@@ -1,0 +1,31 @@
+{
+  "id": "1998-02-05--mckinsey-asian-markets-restructuring",
+  "date": "1998-02-05",
+  "title": "McKinsey Strategizes Corporate Capture in Asian Markets",
+  "summary": "McKinsey & Company develops comprehensive strategic recommendations for multinational corporations to exploit the economic vulnerability of Asian countries following the financial crisis. Their strategy involves acquiring distressed assets, restructuring local industries, and implementing Western-centric economic models that prioritize foreign corporate interests.",
+  "importance": 8,
+  "actors": [
+    "McKinsey & Company",
+    "World Bank",
+    "IMF",
+    "Multinational Corporations"
+  ],
+  "sources": [
+    {
+      "title": "McKinsey Global Institute Report on Asian Financial Crisis",
+      "url": "https://www.mckinsey.com/featured-insights/asia-pacific",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "corporate_capture",
+    "mckinsey",
+    "structural_adjustment"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

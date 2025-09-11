@@ -13,10 +13,26 @@
     "Shaukat Tarin"
   ],
   "sources": [
-    "https://www.icij.org/investigations/pandora-papers/",
-    "https://www.bbc.com/news/world-58780561",
-    "https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-of-world-leaders",
-    "https://www.washingtonpost.com/world/interactive/2021/pandora-papers-offshore-finance/"
+    {
+      "title": "https://www.icij.org/investigations/pandora-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-58780561",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-of-world-leaders",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.washingtonpost.com/world/interactive/2021/pandora-papers-offshore-finance/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -30,5 +46,12 @@
   ],
   "status": "confirmed",
   "id": "2021-10-03--pandora-papers-expose-hidden-wealth-of-global-elite-and-politicians-1757455465",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-35"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-35",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

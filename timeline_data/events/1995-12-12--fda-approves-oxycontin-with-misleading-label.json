@@ -1,0 +1,51 @@
+{
+  "id": "1995-12-12--fda-approves-oxycontin-with-misleading-label",
+  "title": "FDA Approves OxyContin with Deceptive Addiction-Resistance Claims",
+  "date": "1995-12-12",
+  "description": "The FDA approves Purdue Pharma's OxyContin with controversial labeling claiming 'delayed absorption, as provided by OxyContin tablets, is believed to reduce the abuse liability of a drug.' This approval was overseen by Dr. Curtis Wright IV, who allowed Purdue to help draft his medical officer's review and met secretly with company representatives in a hotel near FDA offices. The approval was based on theory rather than rigorous clinical studies designed to assess abuse potential, despite Wright knowing this claim was unsubstantiated. This misleading label language would become central to Purdue's aggressive marketing campaign that fueled the opioid epidemic.",
+  "category": "Regulatory Capture",
+  "tags": [
+    "FDA",
+    "regulatory capture",
+    "pharmaceutical industry",
+    "opioid crisis",
+    "deceptive labeling",
+    "revolving door"
+  ],
+  "sources": [
+    {
+      "url": "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/",
+      "title": "How the FDA Approved OxyContin: The 1995 Decision That Started America's Opioid Crisis",
+      "type": "Government Report",
+      "date": "2024",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://journalofethics.ama-assn.org/article/how-fda-failures-contributed-opioid-crisis/2020-08",
+      "title": "How FDA Failures Contributed to the Opioid Crisis",
+      "type": "Medical Journal",
+      "date": "2020-08",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/",
+      "title": "The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy",
+      "type": "Academic Paper",
+      "date": "2008",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "priority_id": "purdue_pharma_oxycontin_regulatory_capture",
+  "actors": [
+    "{'name': 'Curtis Wright IV', 'role': 'FDA Medical Review Officer', 'affiliation': 'FDA Center for Drug Evaluation and Research'}",
+    "{'name': 'Purdue Pharma', 'role': 'Pharmaceutical Company', 'affiliation': 'Private Corporation'}",
+    "{'name': 'Food and Drug Administration', 'role': 'Regulatory Agency', 'affiliation': 'U.S. Government'}",
+    "{'name': 'Robert F. Bedford', 'role': 'Acting Director, Division of Anesthetic, Critical Care, and Addiction Drug Products', 'affiliation': 'FDA'}"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

@@ -12,9 +12,21 @@
     "Congressional aviation oversight committees"
   ],
   "sources": [
-    "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing",
-    "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b",
-    "https://the-razors-edge.ghost.io/razors-edge-boeing-and-regulatory-ccapitalism/"
+    {
+      "title": "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://the-razors-edge.ghost.io/razors-edge-boeing-and-regulatory-ccapitalism/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -27,5 +39,9 @@
   ],
   "status": "confirmed",
   "id": "2005-06-15--faa-delegates-safety-certification-authority-to-boeing-through-organization-designation-authorization-program-1757458611",
-  "priority_id": "indigenous-democracy-60dde4fe"
+  "priority_id": "indigenous-democracy-60dde4fe",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

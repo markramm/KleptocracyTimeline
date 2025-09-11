@@ -8,7 +8,8 @@
     {
       "url": "https://fas.org/irp/congress/2004_rpt/ssci_iraq.html",
       "title": "Senate Intelligence Committee Report on Pre-war Intelligence",
-      "type": "congressional_report"
+      "type": "congressional_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,9 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

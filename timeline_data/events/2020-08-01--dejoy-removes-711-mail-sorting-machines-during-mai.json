@@ -37,5 +37,11 @@
       "outlet": "Wikipedia",
       "date": "2024-01-01"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Financial Capture",
+    "Electoral Manipulation"
   ]
 }

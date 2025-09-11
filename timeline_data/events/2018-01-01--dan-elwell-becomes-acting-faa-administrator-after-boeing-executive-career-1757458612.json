@@ -1,0 +1,74 @@
+{
+  "date": "2018-01-07",
+  "title": "Dan Elwell Becomes Acting FAA Administrator After Boeing Executive Career",
+  "summary": "Dan Elwell becomes acting FAA Administrator on January 7, 2018, when Michael Huerta's five-year term ends, exemplifying the revolving door between aviation regulators and the industry they oversee. Elwell, who had served as Deputy Administrator since June 2017, brought extensive aviation industry connections including his role as Vice President of the Aerospace Industries Association (2008-2013), which represents major manufacturers like Boeing, and Senior Vice President at Airlines for America (2013-2015). His appointment occurred during the critical 737 MAX certification period, when Boeing's aircraft was facing scrutiny over its MCAS software system. The FAA under Elwell's leadership maintained the industry-friendly regulatory approach established through the ODA program, allowing Boeing to self-certify critical safety systems. This personnel pattern represents systematic regulatory capture, where former industry executives and officials rotate between regulatory agencies and private companies, creating institutional biases that prioritize industry interests over public safety. The timing of Elwell's leadership during the 737 MAX certification process demonstrates how revolving door appointments can directly impact regulatory outcomes, with catastrophic consequences becoming evident in the subsequent aircraft crashes.",
+  "actors": [
+    "Dan Elwell",
+    "Federal Aviation Administration",
+    "Michael Huerta",
+    "Transportation Secretary Elaine Chao",
+    "Boeing Corporation",
+    "Aerospace Industries Association",
+    "Airlines for America",
+    "American Airlines",
+    "Trump administration officials",
+    "Aviation industry executives",
+    "FAA certification teams",
+    "Congressional oversight committees"
+  ],
+  "sources": [
+    {
+      "title": "Dan Elwell Takes Helm of FAA as Huerta Departs",
+      "url": "https://www.ainonline.com/aviation-news/business-aviation/2018-01-08/dan-elwell-takes-helm-faa-huerta-departs",
+      "date": "2018-01-08",
+      "outlet": "Aviation International News"
+    },
+    {
+      "title": "Deputy FAA Administrator Dan Elwell Steps in as Acting FAA Administrator",
+      "url": "https://cessnaowner.org/deputy-faa-administrator-dan-elwell-steps-in-as-acting-faa-administrator/",
+      "date": "2018-01-18",
+      "outlet": "Cessna Owner Organization"
+    },
+    {
+      "title": "Elwell Named Acting FAA Administrator",
+      "url": "https://aviationweek.com/air-transport/elwell-named-acting-faa-administrator",
+      "date": "2018-01-08",
+      "outlet": "Aviation Week Network"
+    },
+    {
+      "title": "The FAA and Flights of Financial Folly",
+      "url": "https://therevolvingdoorproject.org/the-faa-and-flights-of-financial-folly/",
+      "date": "",
+      "outlet": "The Revolving Door Project"
+    },
+    {
+      "title": "How the revolving door at FAA spins Boeing's way",
+      "url": "https://www.sentinelsource.com/how-the-revolving-door-at-faa-spins-boeing-s-way/article_73ba51c8-97ed-11ef-8007-ef69f110458e.html",
+      "date": "",
+      "outlet": "The Sentinel Source"
+    },
+    {
+      "title": "How the FAA Ceded Aviation Safety Oversight to Boeing",
+      "url": "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing",
+      "date": "",
+      "outlet": "Project on Government Oversight"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory-capture",
+    "faa-leadership",
+    "boeing-737-max",
+    "revolving-door",
+    "aviation-regulation",
+    "personnel-conflicts"
+  ],
+  "status": "confirmed",
+  "id": "2018-01-01--dan-elwell-becomes-acting-faa-administrator-after-boeing-executive-career-1757458612",
+  "priority_id": "indigenous-democracy-60dde4fe",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

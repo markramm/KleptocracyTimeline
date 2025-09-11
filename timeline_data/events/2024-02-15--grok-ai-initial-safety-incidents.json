@@ -1,0 +1,28 @@
+{
+  "id": "2024-02-15--grok-ai-initial-safety-incidents",
+  "date": "2024-02-15",
+  "title": "First Public Reports of Grok AI Safety and Bias Concerns Emerge",
+  "summary": "Independent researchers and tech journalists begin documenting significant safety failures in Grok AI, including problematic content generation, potential bias in responses, and inconsistent fact-checking mechanisms. Early analysis suggests underlying architectural issues with the AI's training and moderation systems.",
+  "importance": 7,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Safety Researchers"
+  ],
+  "tags": [
+    "AI safety",
+    "Tech regulation",
+    "AI bias"
+  ],
+  "sources": [
+    {
+      "title": "AI Safety Research Report",
+      "url": "https://arxiv.org/abs/2024.02.safety-report",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

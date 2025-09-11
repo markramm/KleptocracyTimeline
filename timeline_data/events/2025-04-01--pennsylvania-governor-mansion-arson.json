@@ -38,5 +38,10 @@
       "date": "2025-04-01"
     }
   ],
-  "notes": "Attack occurred amid broader surge in threats against state officials. Gubernatorial mansions becoming high-profile targets as political violence expands from federal to state level institutions."
+  "notes": "Attack occurred amid broader surge in threats against state officials. Gubernatorial mansions becoming high-profile targets as political violence expands from federal to state level institutions.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

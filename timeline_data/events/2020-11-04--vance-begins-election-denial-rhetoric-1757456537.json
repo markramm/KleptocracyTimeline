@@ -9,8 +9,16 @@
   ],
   "importance": 9,
   "sources": [
-    "Social media posts",
-    "Interview statements"
+    {
+      "title": "Social media posts",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Interview statements",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "election-denial",
@@ -20,5 +28,8 @@
   ],
   "status": "confirmed",
   "id": "2020-11-04--vance-begins-election-denial-rhetoric-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
 }

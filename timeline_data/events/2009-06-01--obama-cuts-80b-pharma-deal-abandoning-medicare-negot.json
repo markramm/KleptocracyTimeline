@@ -39,5 +39,11 @@
       "outlet": "Politico",
       "date": "2016-07-13"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

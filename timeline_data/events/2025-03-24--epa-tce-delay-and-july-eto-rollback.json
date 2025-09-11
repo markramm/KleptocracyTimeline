@@ -16,19 +16,21 @@
   ],
   "sources": [
     {
-      "title": "EPA – Status update on TSCA TCE rule",
+      "title": "EPA \u2013 Status update on TSCA TCE rule",
       "url": "https://www.epa.gov/chemicals-under-tsca/update-status-tsca-risk-management-rule-tce",
       "outlet": "U.S. Environmental Protection Agency",
       "date": "2025-03-24",
       "archive_url": "https://web.archive.org/web/20250814000000/https://www.epa.gov/chemicals-under-tsca/update-status-tsca-risk-management-rule-tce"
     },
     {
-      "title": "ProPublica – Republicans move to block TCE ban; delays",
+      "title": "ProPublica \u2013 Republicans move to block TCE ban; delays",
       "url": "https://www.propublica.org/article/tce-ban-cancer-parkinsons-trump-republicans",
       "outlet": "ProPublica",
       "date": "2025-03-24"
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ]
 }

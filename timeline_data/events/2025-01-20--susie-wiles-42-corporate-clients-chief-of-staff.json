@@ -48,5 +48,9 @@
     "corporate-capture",
     "regulatory-influence"
   ],
-  "notes": "Wiles's appointment places a corporate lobbyist with extensive industry ties at the center of White House power. Her clients included companies fighting environmental cleanup, public health measures, and safety regulations - directly conflicting with stated administration goals. Republic Services sought to avoid removing radioactive waste, Swisher fought youth tobacco restrictions despite MAHA agenda, and Northern Dynasty wanted permits for environmentally devastating Pebble Mine. This represents unprecedented corporate access to presidential decision-making."
+  "notes": "Wiles's appointment places a corporate lobbyist with extensive industry ties at the center of White House power. Her clients included companies fighting environmental cleanup, public health measures, and safety regulations - directly conflicting with stated administration goals. Republic Services sought to avoid removing radioactive waste, Swisher fought youth tobacco restrictions despite MAHA agenda, and Northern Dynasty wanted permits for environmentally devastating Pebble Mine. This represents unprecedented corporate access to presidential decision-making.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "id": "1999-01-25--long-term-asian-economic-transformation",
+  "date": "1999-01-25",
+  "title": "IMF Concludes Structural Adjustment Policies in Southeast Asia",
+  "summary": "IMF completes its systematic economic restructuring of Southeast Asian economies, fundamentally transforming corporate landscapes. The intervention results in unprecedented foreign corporate access, weakened local economic sovereignty, and a permanent shift in regional economic power dynamics.",
+  "importance": 9,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "Asian Governments",
+    "Multinational Corporations"
+  ],
+  "sources": [
+    {
+      "title": "Aftermath: The Remaking of the Global Economy",
+      "url": "https://www.worldbank.org/economic-interventions",
+      "outlet": "World Bank Economic Report"
+    }
+  ],
+  "tags": [
+    "imf_intervention",
+    "economic_transformation",
+    "corporate_globalization",
+    "structural_adjustment"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

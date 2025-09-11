@@ -1,0 +1,44 @@
+{
+  "id": "2020-02-07--vindman-fired-nsc-retaliation-impeachment-testimony",
+  "date": "2020-02-07",
+  "title": "Trump Fires Lt. Col. Vindman from NSC in Retaliation for Impeachment Testimony",
+  "summary": "Army Lt. Col. Alexander Vindman, the Ukraine expert on the National Security Council who testified in Trump's impeachment proceedings, is escorted out of the White House and removed from his NSC position. Trump calls Vindman \"very insubordinate\" and claims he had \"problems with judgment, adhering to the chain of command and leaking information.\" The firing occurs just two days after Trump's Senate acquittal, demonstrating systematic retaliation against military officers who provide truthful testimony to Congress. Vindman's twin brother, also an NSC lawyer, is simultaneously dismissed despite not testifying, showing the administration's willingness to punish military families for constitutional duty.",
+  "importance": 8,
+  "location": "White House, Washington DC",
+  "actors": [
+    "Donald Trump",
+    "Lt. Col. Alexander Vindman",
+    "Lt. Col. Yevgeny Vindman",
+    "National Security Council",
+    "U.S. Army"
+  ],
+  "tags": [
+    "vindman",
+    "retaliation",
+    "impeachment",
+    "nsc",
+    "military_politicization",
+    "chain_command"
+  ],
+  "capture_lanes": [
+    "Military Politicization",
+    "Executive Branch Corruption"
+  ],
+  "sources": [
+    {
+      "title": "Lt. Col. Vindman, fired by White House after testifying in Trump impeachment",
+      "url": "https://www.stripes.com/branches/army/lt-col-vindman-fired-by-white-house-after-testifying-in-trump-impeachment-will-retire-from-army-1.636781",
+      "outlet": "Stars and Stripes",
+      "date": "2020-07-08",
+      "verified": true
+    },
+    {
+      "title": "Trump blasts dismissed Army officer at center of impeachment inquiry",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2020/02/08/trump-blasts-fired-army-officer-at-center-of-impeachment-inquiry-as-insubordinate-dishonest/",
+      "outlet": "Military Times",
+      "date": "2020-02-08",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

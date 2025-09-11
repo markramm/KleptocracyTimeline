@@ -9,8 +9,16 @@
   ],
   "importance": 9,
   "sources": [
-    "Project 2025 Implementation PDF",
-    "Heritage Foundation records"
+    {
+      "title": "Project 2025 Implementation PDF",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Heritage Foundation records",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "project-2025",
@@ -20,5 +28,8 @@
   ],
   "status": "confirmed",
   "id": "2022-04-01--heritage-foundation-launches-2-million-project-2025-initiative-1757456630",
-  "priority_id": "project-2025-implementation-1757456630"
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

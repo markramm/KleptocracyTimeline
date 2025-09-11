@@ -1,0 +1,49 @@
+{
+  "id": "2010-01-21--redmap-project-launched-following-citizens-united-decision",
+  "title": "REDMAP Project Launched Following Citizens United Decision",
+  "date": "2010-01-21",
+  "description": "The Republican State Leadership Committee, led by Chris Jankowski, launches the Redistricting Majority Project (REDMAP) immediately following the Supreme Court's Citizens United v. FEC decision that removed restrictions on corporate political spending. The project systematically targets 107 state legislative races across 16 states to gain control of redistricting following the 2010 census. With newly available corporate funding, REDMAP allocates $30 million to flip state legislatures in key swing states including Pennsylvania, Ohio, Michigan, Wisconsin, and North Carolina. The strategy specifically exploits the timing of the 2010 midterm election cycle, recognizing that control of state legislatures would enable Republicans to redraw congressional district maps for the following decade. Ed Gillespie, former counselor to President George W. Bush, serves as RSLC chairman, while Karl Rove provides strategic coordination through American Crossroads. The project represents an unprecedented systematic approach to gerrymandering, leveraging advanced mapping software including Caliper Corporation's Maptitude to achieve precise partisan advantage.",
+  "category": "Electoral Manipulation",
+  "tags": [
+    "gerrymandering",
+    "redistricting",
+    "corporate influence",
+    "Citizens United",
+    "state capture",
+    "electoral fraud"
+  ],
+  "importance": 5,
+  "priority_id": "REDMAP Project Gerrymandering 2010",
+  "sources": [
+    {
+      "title": "REDMAP - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/REDMAP",
+      "type": "reference",
+      "outlet": "TBD"
+    },
+    {
+      "title": "The RSLC Redistricting Majority Project \u2013 REDMAP",
+      "url": "https://www.redistrictingmajorityproject.com/",
+      "type": "official",
+      "outlet": "TBD"
+    },
+    {
+      "title": "'Gerrymandering On Steroids': How Republicans Stacked The Nation's Statehouses",
+      "url": "https://www.wbur.org/hereandnow/2016/07/19/gerrymandering-republicans-redmap",
+      "type": "news",
+      "outlet": "TBD"
+    }
+  ],
+  "actors": [
+    "{'name': 'Republican State Leadership Committee', 'role': 'primary_actor', 'type': 'organization'}",
+    "{'name': 'Chris Jankowski', 'role': 'executive_director', 'type': 'individual'}",
+    "{'name': 'Ed Gillespie', 'role': 'chairman', 'type': 'individual'}",
+    "{'name': 'Karl Rove', 'role': 'strategic_coordinator', 'type': 'individual'}",
+    "{'name': 'American Crossroads', 'role': 'funding_source', 'type': 'organization'}"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
+}

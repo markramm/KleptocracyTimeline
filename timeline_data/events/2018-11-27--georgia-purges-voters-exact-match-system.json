@@ -40,5 +40,12 @@
       "outlet": "New York Times",
       "date": "2018-11-19"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
   ]
 }

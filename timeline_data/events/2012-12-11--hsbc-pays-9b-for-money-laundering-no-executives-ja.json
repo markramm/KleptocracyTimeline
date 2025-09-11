@@ -39,5 +39,11 @@
       "outlet": "ICIJ",
       "date": "2015-02-08"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

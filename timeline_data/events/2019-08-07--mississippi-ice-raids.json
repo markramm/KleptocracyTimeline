@@ -33,5 +33,8 @@
     }
   ],
   "notes": "Historic scale workplace enforcement action",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

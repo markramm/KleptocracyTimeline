@@ -1,0 +1,26 @@
+{
+  "id": "2025-01-15--agent1-rapid-test-1757510739-2",
+  "date": "2025-01-15",
+  "title": "Agent 1 Rapid Test Event 3",
+  "summary": "Rapid creation test event 3 for concurrency testing. Testing system performance under rapid event creation load.",
+  "importance": 3,
+  "tags": [
+    "rapid-test",
+    "agent-1",
+    "performance"
+  ],
+  "actors": [
+    "Test Actor"
+  ],
+  "sources": [
+    {
+      "title": "Rapid Test Source",
+      "url": "https://example.com/rapid",
+      "outlet": "Test"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "1988-01-01--maxwell-macmillan-publishers-acquisition-us-expansion",
+  "date": "1988-01-01",
+  "title": "Maxwell Acquires Macmillan Publishers, Expanding US Media Empire",
+  "summary": "Robert Maxwell completes acquisition of Macmillan book publishers in 1988-1989, along with Berlitz International language instruction and Official Airline Guides, significantly expanding his media empire into the United States. This acquisition, part of Maxwell's broader strategy to 'tilt the balance toward the United States,' provides additional platforms for potential intelligence influence operations. By the end of the 1980s, Maxwell's empire encompasses 125 countries and employs 16,000 people across newspapers, publishing, records, directories, and language schools, creating a vast international network potentially vulnerable to intelligence exploitation.",
+  "importance": 7,
+  "location": "United States",
+  "actors": [
+    "Robert Maxwell",
+    "Macmillan Publishers",
+    "Berlitz International",
+    "Official Airline Guides"
+  ],
+  "tags": [
+    "Robert Maxwell",
+    "Macmillan Publishers",
+    "US media expansion",
+    "Berlitz",
+    "international media empire",
+    "intelligence infrastructure"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Academic Capture"
+  ],
+  "sources": [
+    {
+      "title": "Robert Maxwell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Maxwell",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Maxwell acquired Macmillan publishers in 1988-1989",
+        "Also acquired Berlitz International and Official Airline Guides",
+        "Part of strategy to 'tilt balance toward United States'"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

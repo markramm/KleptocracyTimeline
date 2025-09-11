@@ -1,0 +1,33 @@
+{
+  "date": "2025-02-14",
+  "title": "DOJ Public Corruption Division Systematic Dismantling Coordinated Across Agencies",
+  "summary": "Trump administration systematically dismantles federal government ability to pursue public corruption cases through coordinated personnel purges and case dismissals. Actions include forcing Eric Adams prosecution dismissal, firing prosecutors who worked Capitol riot cases, and pushing out senior FBI officials, representing coordinated effort to eliminate institutional capacity for investigating systematic corruption.",
+  "actors": [
+    "DOJ Leadership",
+    "FBI Officials",
+    "Public Corruption Division",
+    "Acting Deputy Attorney General"
+  ],
+  "sources": [
+    {
+      "title": "How Trump's Justice Department has gutted the government's ability to chase public corruption",
+      "url": "https://amp.cnn.com/cnn/2025/02/14/politics/corruption-justice-department-trump-new-york",
+      "outlet": "CNN Politics"
+    }
+  ],
+  "importance": 10,
+  "tags": [
+    "public_corruption",
+    "doj_dismantling",
+    "systematic_coordination",
+    "institutional_capture",
+    "law_enforcement_capture"
+  ],
+  "status": "confirmed",
+  "id": "2025-02-14--doj-public-corruption-division-systematic-dismantling",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

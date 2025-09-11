@@ -9,7 +9,11 @@
     "Media-Most"
   ],
   "sources": [
-    "https://www.washingtonpost.com/archive/politics/2000/06/14/russian-media-mogul-arrested/"
+    {
+      "title": "https://www.washingtonpost.com/archive/politics/2000/06/14/russian-media-mogul-arrested/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "media-control",
@@ -19,5 +23,8 @@
   ],
   "status": "confirmed",
   "id": "2000-07-28--media-magnate-gusinsky-arrested-1757454957",
-  "priority_id": "RP-20250909-intelligence-privatization-timeline"
+  "priority_id": "RP-20250909-intelligence-privatization-timeline",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

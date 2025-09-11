@@ -1,0 +1,52 @@
+{
+  "id": "2007-05-10--purdue-pharma-guilty-plea-deceptive-marketing",
+  "title": "Purdue Pharma Pleads Guilty to Criminal Misbranding Charges for OxyContin Deception",
+  "date": "2007-05-10",
+  "description": "Purdue Frederick Company Inc. (Purdue Pharma affiliate) and three top executives plead guilty to criminal charges of misbranding OxyContin by falsely claiming it was less addictive and less subject to abuse than other opioids. The company pays $634 million in fines while executives Michael Friedman, Howard R. Udell, and Paul D. Goldenheim pay $34.5 million in personal fines. Despite making $2.8 billion in revenue from OxyContin from 1996-2001, evidence shows Purdue trained sales representatives to falsely tell doctors that addiction risk was 'less than one percent' and continued deceptive practices even after this plea agreement. This represents one of the largest pharmaceutical fraud settlements at the time, yet failed to adequately deter the company's ongoing deceptive marketing practices.",
+  "category": "Corporate Crime",
+  "tags": [
+    "criminal prosecution",
+    "pharmaceutical fraud",
+    "deceptive marketing",
+    "opioid crisis",
+    "plea agreement",
+    "corporate accountability"
+  ],
+  "sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/",
+      "title": "The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy",
+      "type": "Academic Paper",
+      "date": "2008",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.cbsnews.com/news/oxycontin-purdue-pharma-former-sales-representative-deceptive-sales-psuedoaddiction/",
+      "title": "Purdue Pharma used deceptive sales tactic for OxyContin after settlement, ex-sales rep says",
+      "type": "News Investigation",
+      "date": "2020",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.statnews.com/2020/01/09/prescriber-fears-oxycontin-misuse-purdue-pharma-sales-reps-misleadingly-played-up-safety/",
+      "title": "Faced with prescriber fears of OxyContin misuse, Purdue sales reps misleadingly played up drug's safety, documents show",
+      "type": "Investigative Journalism",
+      "date": "2020-01-09",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "priority_id": "purdue_pharma_oxycontin_regulatory_capture",
+  "actors": [
+    "{'name': 'Purdue Frederick Company Inc.', 'role': 'Defendant Pharmaceutical Company', 'affiliation': 'Purdue Pharma Affiliate'}",
+    "{'name': 'Michael Friedman', 'role': 'Company President', 'affiliation': 'Purdue Pharma'}",
+    "{'name': 'Howard R. Udell', 'role': 'Top Lawyer', 'affiliation': 'Purdue Pharma'}",
+    "{'name': 'Paul D. Goldenheim', 'role': 'Former Chief Medical Officer', 'affiliation': 'Purdue Pharma'}",
+    "{'name': 'U.S. Department of Justice', 'role': 'Prosecutor', 'affiliation': 'U.S. Government'}"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

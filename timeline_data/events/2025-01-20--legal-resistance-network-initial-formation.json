@@ -1,0 +1,28 @@
+{
+  "id": "2025-01-20--legal-resistance-network-initial-formation",
+  "date": "2025-01-20",
+  "title": "National Legal Resistance Network Founding Conference",
+  "summary": "Following the 2025 transition, 287 civil rights attorneys and constitutional law experts convene in Washington D.C. to establish a coordinated national legal resistance infrastructure. Key focus areas include election law, immigration rights, and institutional accountability.",
+  "importance": 8,
+  "actors": [
+    "Civil Rights Attorneys Coalition",
+    "Constitutional Law Experts",
+    "Pro Bono Legal Organizations"
+  ],
+  "tags": [
+    "Legal networks",
+    "Coordinated litigation",
+    "Civil Rights"
+  ],
+  "sources": [
+    {
+      "title": "Confidential Legal Resistance Network Strategy Document",
+      "outlet": "Internal Coordination Memo",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
+}

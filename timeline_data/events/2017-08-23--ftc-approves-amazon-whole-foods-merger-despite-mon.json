@@ -1,0 +1,41 @@
+{
+  "date": "2017-08-23",
+  "title": "FTC Approves Amazon-Whole Foods Merger Despite Monopolization Concerns",
+  "summary": "The Federal Trade Commission approved Amazon's 3.7 billion acquisition of Whole Foods Market, despite clear evidence of Amazon's growing monopoly power in e-commerce. The approval demonstrated regulatory capture as the FTC applied outdated antitrust frameworks that failed to address 21st-century tech monopolies. Antitrust expert Lina Khan criticized the decision, noting it showed how current antitrust law interpretation was inadequate for dealing with tech giants. The merger allowed Amazon to extend its monopolistic practices into grocery retail, further consolidating market power while regulators remained captured by narrow legal interpretations that prioritized theoretical consumer benefits over competitive market structure.",
+  "actors": [
+    "Amazon.com Inc.",
+    "Jeff Bezos",
+    "Whole Foods Market Inc.",
+    "Walter Robb",
+    "Federal Trade Commission",
+    "Lina Khan"
+  ],
+  "sources": [
+    {
+      "title": "https://www.ftc.gov/news-events/news/press-releases/2017/08/statement-federal-trade-commissions-acting-director-bureau-competition-agencys-review-amazoncom-incs",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.seattletimes.com/business/amazon/amazons-whole-foods-deal-wins-ftc-antitrust-approval/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "regulatory-capture",
+    "tech-industry",
+    "antitrust",
+    "amazon",
+    "ftc",
+    "acquisitions"
+  ],
+  "status": "confirmed",
+  "id": "2017-08-23--ftc-approves-amazon-whole-foods-merger-despite-mon",
+  "priority_id": "claude-priority-tech-antitrust-regulatory-capture",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

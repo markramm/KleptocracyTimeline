@@ -2,8 +2,8 @@
   "id": "2025-03-31--musk-funded-political-group-spends-big-and-goes-do",
   "date": "2025-03-31",
   "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
-  "summary": "Musk’s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
-  "description": "Musk’s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
+  "summary": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
+  "description": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -51,5 +51,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Judicial Capture"
+  ]
 }

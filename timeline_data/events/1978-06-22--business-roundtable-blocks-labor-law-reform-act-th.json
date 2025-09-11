@@ -1,0 +1,47 @@
+{
+  "title": "Business Roundtable Blocks Labor Law Reform Act Through Senate Filibuster",
+  "date": "1978-06-22",
+  "summary": "The Business Roundtable achieved its most significant early victory by orchestrating the defeat of the Labor Law Reform Act of 1978, which had passed the House and aimed to strengthen workers' rights to form unions and protect them from employer intimidation. Initially split on whether to oppose the bill, the Business Roundtable ultimately voted to oppose it and mounted a massive, coordinated lobbying campaign that prevented Senate supporters from securing the 60 votes needed to overcome a filibuster. This represented the AFL-CIO's major legislative priority, designed to make it easier for workers to organize unions and harder for companies to retaliate against union organizers. The Business Roundtable's aggressive lobbying efforts included direct CEO-to-senator communications and mobilization of member companies' political resources across multiple states. The defeat of this pro-union legislation marked a turning point in American labor relations, contributing to the long-term decline of private-sector unionization and demonstrating corporate America's ability to block worker-friendly reforms. This victory established the Business Roundtable as the premier corporate lobbying force and showed how concentrated CEO influence could overcome both House passage and strong labor movement support.",
+  "key_actors": [
+    "Business Roundtable CEOs",
+    "AFL-CIO leadership"
+  ],
+  "organizations": [
+    "Business Roundtable",
+    "AFL-CIO",
+    "U.S. Senate",
+    "U.S. House of Representatives"
+  ],
+  "tags": [
+    "business_roundtable",
+    "labor_law_reform",
+    "union_organizing",
+    "legislative_defeat",
+    "corporate_influence",
+    "regulatory_capture"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Business_Roundtable",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.epi.org/unequalpower/publications/private-sector-unions-corporate-legal-erosion/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance_score": 9,
+  "status": "confirmed",
+  "id": "1978-06-22--business-roundtable-blocks-labor-law-reform-act-th",
+  "priority_id": "RT-EXP-34CBECB6-business-roundtable-formation-1972",
+  "importance": 5,
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
+}

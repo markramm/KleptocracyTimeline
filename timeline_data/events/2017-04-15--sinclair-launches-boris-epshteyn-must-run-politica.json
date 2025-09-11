@@ -1,0 +1,47 @@
+{
+  "title": "Sinclair Launches Boris Epshteyn Must-Run Political Commentary Segments",
+  "date": "2017-04-15",
+  "summary": "Sinclair Broadcast Group hired former Trump administration press aide Boris Epshteyn as chief political analyst and began mandating that all 191 local stations air his pro-Trump commentary segments as 'must-run' content, forcing local news programs to sacrifice editorial independence and airtime for corporate-directed political messaging. The \"Bottom Line with Boris\" segments represented an unprecedented use of media consolidation power to inject partisan political content into local news broadcasts, overriding the editorial judgment of local news directors and journalists across the country. Epshteyn's commentary included controversial content defending Trump administration policies, using inflammatory language about immigration (including describing migrant influx as an \"invasion\"), and supporting the tear-gassing of migrant children at the southern border. Local Sinclair journalists expressed frustration about being forced to give up local news time for what they characterized as \"Fox-style right-wing opinion,\" demonstrating how corporate media consolidation can be leveraged to override professional journalism standards. The mandatory nature of these segments illustrated Sinclair's systematic approach to using its media empire for political influence, establishing a template for corporate messaging that bypassed traditional editorial processes and local community input.",
+  "key_actors": [
+    "Boris Epshteyn",
+    "David Smith",
+    "Donald Trump",
+    "Sinclair local journalists"
+  ],
+  "organizations": [
+    "Sinclair Broadcast Group",
+    "Trump Administration",
+    "Local Sinclair stations"
+  ],
+  "tags": [
+    "sinclair",
+    "boris_epshteyn",
+    "must_run_segments",
+    "corporate_influence",
+    "media_manipulation",
+    "trump_administration"
+  ],
+  "sources": [
+    {
+      "title": "https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.washingtonpost.com/lifestyle/style/sinclair-tv-drops-pro-trump-commentator-boris-epshteyn-and-says-it-will-add-investigative-journalism/2019/12/11/d380f2c8-1c47-11ea-87f7-f2e91143c60d_story.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance_score": 9,
+  "status": "confirmed",
+  "id": "2017-04-15--sinclair-launches-boris-epshteyn-must-run-politica",
+  "priority_id": "RT-EXP-44F1FF71-sinclair-broadcasting-must-run-segments",
+  "importance": 5,
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

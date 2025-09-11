@@ -8,7 +8,8 @@
     {
       "url": "https://www.motherjones.com/politics/2004/01/lie-factory/",
       "title": "The Lie Factory: How the Bush Administration Used Network of Front Groups",
-      "type": "investigative_report"
+      "type": "investigative_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,10 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

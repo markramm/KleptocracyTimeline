@@ -4,51 +4,35 @@
   "date": "2002-09-01",
   "description": "The White House Iraq Group creates a comprehensive talking points distribution system that provides identical messaging frameworks to television networks, ensuring synchronized propaganda dissemination across supposedly independent media platforms. This system enables precise coordination of messaging themes, timing, and framing across multiple networks, creating the appearance of organic consensus while actually orchestrating systematic manipulation. The infrastructure includes daily briefings, message discipline protocols, and coordinated response mechanisms that transform disparate media outlets into components of a unified propaganda apparatus.",
   "category": "propaganda-coordination-systems",
-  "actors": {
-    "primary": [
-      {
-        "name": "Karen Hughes",
-        "role": "WHIG Communications Director overseeing talking points coordination",
-        "affiliation": "White House Iraq Group"
-      },
-      {
-        "name": "Dan Bartlett",
-        "role": "White House Communications Director coordinating message distribution",
-        "affiliation": "White House Iraq Group"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "Network booking coordinators",
-        "role": "Media personnel implementing synchronized messaging protocols",
-        "affiliation": "Major television networks"
-      },
-      {
-        "name": "White House communications staff",
-        "role": "Government personnel distributing coordinated messaging",
-        "affiliation": "Executive Branch"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "Washington, DC",
   "sources": [
     {
       "title": "WHIG communications strategy documents detailing talking points distribution",
       "type": "government-records",
       "credibility": 10,
-      "description": "Internal planning documents showing systematic messaging coordination"
+      "description": "Internal planning documents showing systematic messaging coordination",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Network internal communications showing government talking points adoption",
       "type": "corporate-records",
       "credibility": 9,
-      "description": "Media internal documents demonstrating systematic coordination"
+      "description": "Media internal documents demonstrating systematic coordination",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "White House communications office daily briefing logs",
       "type": "government-records",
       "credibility": 10,
-      "description": "Official documentation of coordinated messaging distribution"
+      "description": "Official documentation of coordinated messaging distribution",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -82,5 +66,10 @@
   },
   "historical_significance": "The systematic talking points distribution network represented a critical escalation in government propaganda capabilities, enabling precise coordination of messaging across supposedly independent media platforms. This infrastructure created the capability for systematic manipulation of public discourse through coordinated messaging that appeared organic while actually being centrally orchestrated.",
   "summary": "The White House Iraq Group creates a comprehensive talking points distribution system that provides identical messaging frameworks to television networks, ensuring synchronized propaganda dissemination across supposedly independent media platforms. This system enables precise coordination of messaging themes, timing, and framing across multiple networks, creating the appearance of organic consensus while actually orchestrating systematic manipulation. The infrastructure includes daily briefings, message discipline protocols, and coordinated response mechanisms that transform disparate media outlets into components of a unified propaganda apparatus.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

@@ -4,41 +4,28 @@
   "date": "1982-01-01",
   "description": "The Federalist Society is established to systematically cultivate conservative lawyers from law school through their entire careers, implementing Pillar Two of the Powell Memorandum strategy. Operating alongside corporate-funded legal foundations like Pacific Legal Foundation (1973) and Mountain States Legal Foundation (1977), the Federalist Society creates a comprehensive legal capture apparatus. By 2020, this patient strategy achieves complete success with six of nine Supreme Court justices as Federalist Society members, lower courts packed with corporate-friendly judges, and legal doctrines limiting corporate liability established as constitutional orthodoxy.",
   "category": "legal-system-capture",
-  "actors": {
-    "primary": [
-      {
-        "name": "Federalist Society",
-        "role": "Organization systematically cultivating conservative legal professionals",
-        "affiliation": "Conservative legal organization"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "Pacific Legal Foundation",
-        "role": "Corporate-funded legal foundation established 1973",
-        "affiliation": "Corporate legal advocacy"
-      },
-      {
-        "name": "Mountain States Legal Foundation",
-        "role": "Corporate-funded legal foundation established 1977",
-        "affiliation": "Corporate legal advocacy"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "United States",
   "sources": [
     {
       "title": "The Capture Cascade: How Democracy's Tools Were Turned Against It - Part 1: The Blueprint",
       "type": "investigative-analysis",
       "credibility": 9,
-      "description": "Analysis of Powell Memo legal capture implementation"
+      "description": "Analysis of Powell Memo legal capture implementation",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Winner-Take-All Politics: How Washington Made the Rich Richer",
       "author": "Jacob Hacker and Paul Pierson",
       "type": "academic-research",
       "credibility": 9,
-      "description": "Analysis of systematic legal system capture"
+      "description": "Analysis of systematic legal system capture",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -74,5 +61,12 @@
       "judicial-transformation"
     ]
   },
-  "historical_significance": "The Federalist Society's establishment completed the systematic legal capture strategy outlined in the Powell Memorandum. Through patient, comprehensive cultivation of conservative legal professionals, it achieved near-complete transformation of the American legal system, establishing corporate-friendly legal doctrines as constitutional orthodoxy and demonstrating the effectiveness of long-term institutional capture strategies."
+  "historical_significance": "The Federalist Society's establishment completed the systematic legal capture strategy outlined in the Powell Memorandum. Through patient, comprehensive cultivation of conservative legal professionals, it achieved near-complete transformation of the American legal system, establishing corporate-friendly legal doctrines as constitutional orthodoxy and demonstrating the effectiveness of long-term institutional capture strategies.",
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

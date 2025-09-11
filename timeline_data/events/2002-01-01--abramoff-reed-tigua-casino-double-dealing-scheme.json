@@ -1,0 +1,40 @@
+{
+  "id": "2002-01-01--abramoff-reed-tigua-casino-double-dealing-scheme",
+  "date": "2002-01-01",
+  "title": "Abramoff-Reed Execute Double-Dealing Scheme Against Tigua Tribe",
+  "summary": "Jack Abramoff and Ralph Reed complete a cynical double-dealing operation against the Tigua Tribal Nation, first working to close their El Paso casino through Texas gambling bans, then convincing the tribe to hire Abramoff to lobby Congress for its reopening. This scheme demonstrates the sophisticated corruption at the heart of the Abramoff network: Reed's Century Strategies mobilizes Christian conservative groups to oppose gambling, while Abramoff simultaneously profits from both sides of the conflict. The Tigua are charged millions in lobbying fees for problems Abramoff's network created. This dual-purpose exploitation represents regulatory capture at its most cynical - manipulating both religious constituencies and tribal governments while extracting maximum profit. The scheme reveals how conservative movement leaders weaponize moral issues for financial gain while maintaining plausible deniability through organizational separation.",
+  "actors": [
+    "Jack Abramoff",
+    "Ralph Reed",
+    "Century Strategies",
+    "Tigua Tribal Nation"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.sourcewatch.org/index.php?title=Abramoff-Reed_Indian_Gambling_Scandal",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "political-corruption",
+    "double-dealing",
+    "native-american-exploitation",
+    "conservative-movement-corruption",
+    "lobbying-fraud"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-EXP-95366B7D-jack-abramoff-indian-casino-network",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

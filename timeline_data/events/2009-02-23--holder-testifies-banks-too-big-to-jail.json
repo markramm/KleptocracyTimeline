@@ -24,5 +24,12 @@
       "outlet": "Politico",
       "date": "2013-03-06"
     }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

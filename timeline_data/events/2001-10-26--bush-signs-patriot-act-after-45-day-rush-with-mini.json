@@ -38,5 +38,13 @@
       "outlet": "American Civil Liberties Union",
       "date": "2002-04-03"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
   ]
 }

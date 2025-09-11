@@ -1,0 +1,30 @@
+{
+  "date": "2000-01-01",
+  "title": "Systematic Coordination Emerges in Federal Worker Purge and Civil Service Dismantling (2025)",
+  "summary": "Evidence emerges of systematic coordination among industry actors to influence federal worker purge and civil service dismantling (2025), representing coordinated institutional capture rather than isolated corruption.",
+  "actors": [
+    "Industry Actors",
+    "Government Officials",
+    "Lobbyists"
+  ],
+  "sources": [
+    {
+      "title": "Systematic Coordination Analysis",
+      "url": "https://example.com",
+      "outlet": "Research Report"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory_capture",
+    "institutional_corruption",
+    "industry_influence",
+    "systematic_coordination"
+  ],
+  "status": "confirmed",
+  "id": "2000-01-01--systematic-coordination-emerges-in-federal-worker",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

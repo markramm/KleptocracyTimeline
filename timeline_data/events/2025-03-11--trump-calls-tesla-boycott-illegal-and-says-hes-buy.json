@@ -1,9 +1,9 @@
 {
   "id": "2025-03-11--trump-calls-tesla-boycott-illegal-and-says-hes-buy",
   "date": "2025-03-11",
-  "title": "Trump calls Tesla boycott ‘illegal’ and says he’s buying one to support Musk",
-  "summary": "Trump called Tesla boycott ‘illegal’ and threatened a federal crackdown on the protest movement",
-  "description": "Trump called Tesla boycott ‘illegal’ and threatened a federal crackdown on the protest movement",
+  "title": "Trump calls Tesla boycott \u2018illegal\u2019 and says he\u2019s buying one to support Musk",
+  "summary": "Trump called Tesla boycott \u2018illegal\u2019 and threatened a federal crackdown on the protest movement",
+  "description": "Trump called Tesla boycott \u2018illegal\u2019 and threatened a federal crackdown on the protest movement",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump calls Tesla boycott ‘illegal’ and says he’s buying one to support Musk",
+      "title": "Trump calls Tesla boycott \u2018illegal\u2019 and says he\u2019s buying one to support Musk",
       "url": "https://www.theguardian.com/us-news/2025/mar/11/trump-tesla-boycott-musk",
       "outlet": "The Guardian",
       "date": "2025-03-11"
@@ -51,5 +51,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

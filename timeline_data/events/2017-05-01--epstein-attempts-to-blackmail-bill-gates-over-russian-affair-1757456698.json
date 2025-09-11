@@ -10,8 +10,16 @@
   ],
   "importance": 8,
   "sources": [
-    "Washington Times",
-    "The Daily Beast"
+    {
+      "title": "Washington Times",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "The Daily Beast",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "epstein-blackmail",
@@ -21,5 +29,8 @@
   ],
   "status": "confirmed",
   "id": "2017-05-01--epstein-attempts-to-blackmail-bill-gates-over-russian-affair-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

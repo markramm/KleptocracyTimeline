@@ -1,9 +1,9 @@
 {
   "id": "2025-04-21--this-chicken-company-paid-over-100-million-in-fines-for-fixi",
   "date": "2025-04-21",
-  "title": "This chicken company paid over $100 million in fines for fixing prices, then gave $5 million to Trump’s inauguration",
-  "summary": "This chicken company paid over $100 Million in fines for fixing prices, then gave $5 Million to Trump’s inauguration",
-  "description": "This chicken company paid over $100 Million in fines for fixing prices, then gave $5 Million to Trump’s inauguration",
+  "title": "This chicken company paid over $100 million in fines for fixing prices, then gave $5 million to Trump\u2019s inauguration",
+  "summary": "This chicken company paid over $100 Million in fines for fixing prices, then gave $5 Million to Trump\u2019s inauguration",
+  "description": "This chicken company paid over $100 Million in fines for fixing prices, then gave $5 Million to Trump\u2019s inauguration",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

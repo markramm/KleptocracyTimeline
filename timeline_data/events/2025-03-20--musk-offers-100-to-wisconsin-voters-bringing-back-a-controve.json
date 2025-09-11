@@ -2,8 +2,8 @@
   "id": "2025-03-20--musk-offers-100-to-wisconsin-voters-bringing-back-a-controve",
   "date": "2025-03-20",
   "title": "Musk offers $100 to Wisconsin voters, bringing back a controversial tactic",
-  "summary": "Musk’s America PAC is offering $100 to Wisconsin voters who sign a petition against \"activist judges,\" aiming to mobilize conservative voters ahead of the April 1 Wisconsin Supreme Court race",
-  "description": "Musk’s America PAC is offering $100 to Wisconsin voters who sign a petition against \"activist judges,\" aiming to mobilize conservative voters ahead of the April 1 Wisconsin Supreme Court race",
+  "summary": "Musk\u2019s America PAC is offering $100 to Wisconsin voters who sign a petition against \"activist judges,\" aiming to mobilize conservative voters ahead of the April 1 Wisconsin Supreme Court race",
+  "description": "Musk\u2019s America PAC is offering $100 to Wisconsin voters who sign a petition against \"activist judges,\" aiming to mobilize conservative voters ahead of the April 1 Wisconsin Supreme Court race",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Electoral Manipulation"
+  ]
 }

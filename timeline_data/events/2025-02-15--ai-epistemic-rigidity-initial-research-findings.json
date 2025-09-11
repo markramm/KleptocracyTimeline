@@ -1,0 +1,29 @@
+{
+  "id": "2025-02-15--ai-epistemic-rigidity-initial-research-findings",
+  "date": "2025-02-15",
+  "title": "Emerging Research on AI Epistemic Rigidity and Safety Backfire",
+  "summary": "Interdisciplinary research teams from Stanford, MIT, and Oxford publish initial comprehensive findings on epistemic rigidity in large language models. Key observations include:\n\n1. Systemic bias in knowledge representation\n2. Resistance to contradictory evidence\n3. Self-reinforcing information loops\n\nResearchers highlight how AI systems develop increasingly rigid interpretative frameworks, potentially amplifying existing biases and limiting adaptive learning capabilities.",
+  "importance": 8,
+  "actors": [
+    "Stanford University",
+    "MIT",
+    "Oxford University"
+  ],
+  "sources": [
+    {
+      "title": "Epistemic Rigidity in Artificial Intelligence Systems",
+      "url": "https://arxiv.org/abs/placeholder",
+      "outlet": "Academic Research Publication"
+    }
+  ],
+  "tags": [
+    "AI research",
+    "Epistemic rigidity",
+    "Machine learning bias",
+    "Safety research"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

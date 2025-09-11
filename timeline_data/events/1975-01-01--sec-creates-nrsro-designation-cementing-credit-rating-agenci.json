@@ -1,0 +1,62 @@
+{
+  "id": "1975-01-01--sec-creates-nrsro-designation-cementing-credit-rating-agenci",
+  "date": "1975-01-01",
+  "title": "SEC Creates NRSRO Designation, Cementing Credit Rating Agencies Regulatory Oligopoly",
+  "summary": "The Securities and Exchange Commission formally created the \"Nationally Recognized Statistical Rating Organization\" (NRSRO) designation, granting official regulatory status to just three credit rating agencies: Moody's, Standard & Poor's, and Fitch. This designation was ostensibly designed to ensure credible bond ratings for broker-dealer capital requirements under Rule 15c3-1, but instead created a regulatory cartel that would prove catastrophic decades later. The SEC worried about \"bogus\" rating firms promising AAA ratings for payment, yet ironically institutionalized the same conflict through regulatory capture. By limiting NRSRO status to these three agencies, the SEC created insurmountable barriers to entry and gave the established firms quasi-governmental authority over financial markets. This regulatory framework coincided with the agencies' transition from the traditional \"investor pays\" model established by John Moody in 1909 to the fundamentally conflicted \"issuer pays\" model, where bond issuers directly compensate the agencies rating their securities. The 1975 designation effectively granted these private companies a license to operate as financial market gatekeepers with minimal oversight, setting the stage for the systematic ratings fraud that would enable the 2008 financial crisis.",
+  "key_actors": [
+    "SEC officials",
+    "Moody's Investors Service",
+    "Standard & Poor's",
+    "Fitch Ratings"
+  ],
+  "organizations": [
+    "Securities and Exchange Commission",
+    "Moody's",
+    "Standard & Poor's",
+    "Fitch Ratings"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Nationally_recognized_statistical_rating_organization",
+      "title": "Nationally recognized statistical rating organization - Wikipedia",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.mercatus.org/research/policy-briefs/brief-history-credit-rating-agencies-how-financial-regulation-entrenched",
+      "title": "A Brief History of Credit Rating Agencies - Mercatus Center",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.sec.gov/rules-regulations/2003/06/rating-agencies-use-credit-ratings-under-federal-securities-laws",
+      "title": "SEC.gov | Rating Agencies and the Use of Credit Ratings Under the Federal Securities Laws",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://academic.oup.com/cmlj/article/17/3/334/6609964",
+      "title": "Dealing with the conflicts of interest of credit rating agencies - Oxford Academic",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.federalregister.gov/documents/2005/04/25/05-8158/definition-of-nationally-recognized-statistical-rating-organization",
+      "title": "Federal Register :: Definition of Nationally Recognized Statistical Rating Organization",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "regulatory-capture",
+    "credit-rating-agencies",
+    "sec-capture",
+    "financial-regulation",
+    "nrsro"
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

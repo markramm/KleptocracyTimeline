@@ -1,0 +1,36 @@
+{
+  "id": "1996-01-01--abramoff-norquist-delay-defeat-native-american-casino-tax-bill",
+  "date": "1996-01-01",
+  "title": "Abramoff-Norquist-DeLay Network Defeats Native American Casino Tax Bill",
+  "summary": "Jack Abramoff begins working for the Mississippi Band of Choctaw Indians and, with the help of Grover Norquist's Americans for Tax Reform and House Majority Whip Tom DeLay, successfully defeats a Congressional bill that would have taxed Native American casinos. This early collaboration establishes the operational template for the Abramoff lobbying network that will later evolve into one of Washington's largest corruption scandals.",
+  "actors": [
+    "Jack Abramoff",
+    "Grover Norquist",
+    "Tom DeLay",
+    "Americans for Tax Reform"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.sourcewatch.org/index.php?title=Abramoff-Reed_Indian_Gambling_Scandal",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "lobbying-corruption",
+    "regulatory-capture",
+    "political-corruption"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-EXP-95366B7D-jack-abramoff-indian-casino-network",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture"
+  ]
+}

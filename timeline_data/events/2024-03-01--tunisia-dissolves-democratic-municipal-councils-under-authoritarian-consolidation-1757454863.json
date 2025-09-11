@@ -10,7 +10,11 @@
     "Tunisian opposition"
   ],
   "sources": [
-    "https://www.birmingham.ac.uk/news/2023/how-the-global-rise-of-authoritarianism-is-misunderstood-and-why-it-matters"
+    {
+      "title": "https://www.birmingham.ac.uk/news/2023/how-the-global-rise-of-authoritarianism-is-misunderstood-and-why-it-matters",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "Tunisia",
@@ -19,5 +23,8 @@
     "institutional capture"
   ],
   "id": "2024-03-01--tunisia-dissolves-democratic-municipal-councils-under-authoritarian-consolidation-1757454863",
-  "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal"
+  "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

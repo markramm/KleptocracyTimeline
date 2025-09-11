@@ -9,9 +9,21 @@
   ],
   "importance": 10,
   "sources": [
-    "Wikipedia",
-    "Time magazine analysis",
-    "Independent analysis"
+    {
+      "title": "Wikipedia",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Time magazine analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Independent analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "executive-orders",
@@ -21,5 +33,8 @@
   ],
   "status": "confirmed",
   "id": "2025-08-07--trump-signs-186-executive-orders--two-thirds-mirror-project-2025-1757456630",
-  "priority_id": "project-2025-implementation-1757456630"
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

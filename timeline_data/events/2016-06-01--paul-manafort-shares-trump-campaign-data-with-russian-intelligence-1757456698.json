@@ -9,8 +9,16 @@
   ],
   "importance": 10,
   "sources": [
-    "NPR",
-    "Senate Intelligence Committee Report"
+    {
+      "title": "NPR",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Senate Intelligence Committee Report",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "manafort-russia",
@@ -20,5 +28,9 @@
   ],
   "status": "confirmed",
   "id": "2016-06-01--paul-manafort-shares-trump-campaign-data-with-russian-intelligence-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
 }

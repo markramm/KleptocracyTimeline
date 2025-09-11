@@ -1,0 +1,31 @@
+{
+  "id": "1999-03-25--long-term-geopolitical-consequences",
+  "date": "1999-03-25",
+  "title": "Long-term Geopolitical Consequences of IMF Structural Adjustment",
+  "summary": "The IMF's systematic economic intervention during the Asian Financial Crisis creates lasting geopolitical shifts, fundamentally altering regional economic sovereignty. Asian nations develop strategic resistance to Western financial institutions, sparking long-term diplomatic and economic recalibration.",
+  "importance": 7,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "Asian Development Bank",
+    "Emerging Asian Economies"
+  ],
+  "tags": [
+    "geopolitical_transformation",
+    "economic_sovereignty",
+    "imf_intervention",
+    "structural_adjustment"
+  ],
+  "sources": [
+    {
+      "title": "Geopolitical Shifts in Post-Crisis Asia",
+      "url": "https://www.foreignaffairs.com/articles/asia/1999-03-01/asian-financial-crisis-and-changing-global-order",
+      "outlet": "Foreign Affairs"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

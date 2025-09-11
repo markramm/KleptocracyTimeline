@@ -2,8 +2,8 @@
   "id": "2025-05-02--trump-justice-dept-to-settle-babbitt-family-lawsuit-in-fatal",
   "date": "2025-05-02",
   "title": "Trump Justice Dept. to settle Babbitt family lawsuit in fatal Jan. 6 shooting",
-  "summary": "The DOJ has reversed its previous decision and agreed to settle a $30 million wrongful death claim brought by the family of Ashli Babbit–the January 6 rioter who was shot by Capitol police as she attempted to break into the House Chamber. The move signals to right wing militia members that not only will Trump protect you from legal prosecution, you (or your family) may also get a huge payday for doing the president's bidding",
-  "description": "The DOJ has reversed its previous decision and agreed to settle a $30 million wrongful death claim brought by the family of Ashli Babbit–the January 6 rioter who was shot by Capitol police as she attempted to break into the House Chamber. The move signals to right wing militia members that not only will Trump protect you from legal prosecution, you (or your family) may also get a huge payday for doing the president's bidding",
+  "summary": "The DOJ has reversed its previous decision and agreed to settle a $30 million wrongful death claim brought by the family of Ashli Babbit\u2013the January 6 rioter who was shot by Capitol police as she attempted to break into the House Chamber. The move signals to right wing militia members that not only will Trump protect you from legal prosecution, you (or your family) may also get a huge payday for doing the president's bidding",
+  "description": "The DOJ has reversed its previous decision and agreed to settle a $30 million wrongful death claim brought by the family of Ashli Babbit\u2013the January 6 rioter who was shot by Capitol police as she attempted to break into the House Chamber. The move signals to right wing militia members that not only will Trump protect you from legal prosecution, you (or your family) may also get a huge payday for doing the president's bidding",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -35,5 +35,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

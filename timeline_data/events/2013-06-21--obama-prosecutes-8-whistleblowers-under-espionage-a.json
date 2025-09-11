@@ -40,5 +40,12 @@
       "outlet": "The Guardian",
       "date": "2013-05-20"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

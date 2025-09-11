@@ -1,0 +1,43 @@
+{
+  "id": "2005-04-01--office-comptroller-currency-preempts-state-predatory-lending-laws",
+  "date": "2005-04-01",
+  "title": "OCC Federal Preemption Blocks State Anti-Predatory Lending Protections",
+  "summary": "The Office of the Comptroller of the Currency (OCC) under John Hawke Jr. issues sweeping federal preemption rules that override state consumer protection laws targeting predatory lending practices. This regulatory capture systematically dismantles state-level safeguards that attorneys general like Eliot Spitzer were using to combat subprime mortgage abuses. The OCC action, heavily lobbied for by national banks, creates a regulatory race to the bottom by preventing states from enforcing stronger consumer protections than weak federal standards. This preemption enables the unchecked growth of predatory lending practices that fuel the subprime bubble, demonstrating how federal regulators can be captured to serve industry interests against state-level democratic accountability.",
+  "importance": 8,
+  "actors": [
+    "OCC",
+    "John Hawke Jr",
+    "Julie Williams",
+    "Eliot Spitzer",
+    "National City Bank",
+    "Wells Fargo",
+    "Bank of America"
+  ],
+  "tags": [
+    "occ_preemption",
+    "state_law_override",
+    "predatory_lending",
+    "regulatory_race_to_bottom",
+    "consumer_protection",
+    "federal_capture"
+  ],
+  "sources": [
+    {
+      "title": "OCC Preemption Rule and Visitorial Powers",
+      "url": "https://www.federalregister.gov/documents/2004/08/05/04-17700/bank-activities-and-operations-real-estate-lending-and-appraisals",
+      "outlet": "Federal Register",
+      "date": "2004-08-05"
+    },
+    {
+      "title": "State AGs Challenge OCC Preemption",
+      "url": "https://www.americanbanker.com/news/state-ags-challenge-occ-preemption-rule",
+      "outlet": "American Banker",
+      "date": "2005-03-15"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

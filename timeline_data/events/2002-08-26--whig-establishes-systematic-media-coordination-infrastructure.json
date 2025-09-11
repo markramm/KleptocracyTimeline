@@ -4,66 +4,35 @@
   "date": "2002-08-26",
   "description": "The White House Iraq Group formalizes systematic media coordination infrastructure through regular meetings with television network executives, establishing pre-arranged booking protocols, talking point distribution systems, and synchronized messaging frameworks. This infrastructure enables coordinated propaganda campaigns like the September 8, 2002 'mushroom cloud' blitz by transforming disparate media outlets into a unified propaganda apparatus. Network executives agree to prioritize government access over journalistic independence, creating institutional mechanisms for systematic manipulation of public discourse.",
   "category": "media-coordination-infrastructure",
-  "actors": {
-    "primary": [
-      {
-        "name": "Karen Hughes",
-        "role": "WHIG Communications Director coordinating media strategy",
-        "affiliation": "White House Iraq Group"
-      },
-      {
-        "name": "Mary Matalin",
-        "role": "WHIG member coordinating network relationships",
-        "affiliation": "White House Iraq Group"
-      },
-      {
-        "name": "Ari Fleischer",
-        "role": "White House Press Secretary facilitating media coordination",
-        "affiliation": "White House Iraq Group"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "CNN executives",
-        "role": "Network executives participating in coordination protocols",
-        "affiliation": "CNN"
-      },
-      {
-        "name": "NBC executives",
-        "role": "Network executives enabling synchronized messaging",
-        "affiliation": "NBC/MSNBC"
-      },
-      {
-        "name": "CBS executives",
-        "role": "Network executives facilitating government propaganda distribution",
-        "affiliation": "CBS"
-      },
-      {
-        "name": "Sunday show producers",
-        "role": "Program producers implementing synchronized booking arrangements",
-        "affiliation": "Major television networks"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "Washington, DC",
   "sources": [
     {
       "title": "Network booking records showing coordinated September 8, 2002 appearances",
       "type": "corporate-records",
       "credibility": 9,
-      "description": "Direct evidence of systematic booking coordination and timing"
+      "description": "Direct evidence of systematic booking coordination and timing",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "White House communications office logs documenting network executive meetings",
       "type": "government-records",
       "credibility": 10,
-      "description": "Official documentation of institutional media coordination"
+      "description": "Official documentation of institutional media coordination",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Congressional testimony from media executives on pre-war coverage coordination",
       "type": "congressional-records",
       "credibility": 9,
-      "description": "Under-oath accounts of systematic government-media coordination"
+      "description": "Under-oath accounts of systematic government-media coordination",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -98,5 +67,10 @@
   },
   "historical_significance": "This infrastructure establishment marked the systematic transformation of American media from independent journalism into government propaganda distribution. It created institutional mechanisms that enabled coordinated manipulation of public discourse, demonstrating how government entities could capture media institutions through access privileges and institutional relationships.",
   "summary": "The White House Iraq Group formalizes systematic media coordination infrastructure through regular meetings with television network executives, establishing pre-arranged booking protocols, talking point distribution systems, and synchronized messaging frameworks. This infrastructure enables coordinated propaganda campaigns like the September 8, 2002 'mushroom cloud' blitz by transforming disparate media outlets into a unified propaganda apparatus. Network executives agree to prioritize government access over journalistic independence, creating institutional mechanisms for systematic manipulation of public discourse.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

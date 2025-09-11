@@ -1,0 +1,28 @@
+{
+  "id": "2025-03-10--litigation-coordination-summit",
+  "date": "2025-03-10",
+  "title": "Legal Resistance Network Litigation Summit",
+  "summary": "National summit for legal experts to develop coordinated multi-state litigation strategies challenging institutional capture. 126 attorneys from 37 states discuss synchronized legal actions across federal and state jurisdictions.",
+  "importance": 8,
+  "actors": [
+    "State Attorney General Networks",
+    "Civil Liberties Organizations",
+    "Constitutional Litigation Experts"
+  ],
+  "tags": [
+    "Coordinated litigation",
+    "Legal strategy",
+    "Multi-state legal action"
+  ],
+  "sources": [
+    {
+      "title": "Legal Resistance Network Strategy Document",
+      "outlet": "Confidential Legal Coordination Report",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

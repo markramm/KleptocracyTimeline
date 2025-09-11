@@ -1,0 +1,41 @@
+{
+  "date": "2016-04-03",
+  "title": "Panama Papers Expose Global Offshore Financial Networks",
+  "summary": "The International Consortium of Investigative Journalists published the Panama Papers, revealing how Mossack Fonseca helped wealthy individuals and public officials hide assets in offshore shell companies. The leak exposed over 214,000 offshore entities and implicated 12 current and former world leaders, 128 politicians, and hundreds of celebrities, business leaders, and criminals in tax avoidance and money laundering schemes.",
+  "actors": [
+    "Mossack Fonseca",
+    "Vladimir Putin",
+    "Petro Poroshenko",
+    "Nawaz Sharif",
+    "King Salman",
+    "ICIJ"
+  ],
+  "sources": [
+    {
+      "title": "https://www.icij.org/investigations/panama-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 10,
+  "tags": [
+    "panama-papers",
+    "offshore-finance",
+    "tax-avoidance",
+    "shell-companies"
+  ],
+  "status": "confirmed",
+  "id": "2016-04-03--panama-papers-expose-global-offshore-financial-net",
+  "priority_id": "capture-cascade-part4-thiel-international-oligarchic-network-operations--20250909-182540",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

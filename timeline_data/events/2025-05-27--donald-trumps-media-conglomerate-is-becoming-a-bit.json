@@ -1,7 +1,7 @@
 {
   "id": "2025-05-27--donald-trumps-media-conglomerate-is-becoming-a-bit",
   "date": "2025-05-27",
-  "title": "Donald Trump’s media conglomerate is becoming a bitcoin reserve",
+  "title": "Donald Trump\u2019s media conglomerate is becoming a bitcoin reserve",
   "summary": "Trump Media planned to raise $2.5 billion in equity and debt to build a massive bitcoin reserve, as the president continued to cash in on cryptocurrency while in control of the industry's regulatory landscape",
   "description": "Trump Media planned to raise $2.5 billion in equity and debt to build a massive bitcoin reserve, as the president continued to cash in on cryptocurrency while in control of the industry's regulatory landscape",
   "status": "confirmed",
@@ -20,7 +20,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Donald Trump’s media conglomerate is becoming a bitcoin reserve",
+      "title": "Donald Trump\u2019s media conglomerate is becoming a bitcoin reserve",
       "url": "https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/",
       "outlet": "New York Times",
       "date": "2025-05-27"
@@ -54,5 +54,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Executive Power Expansion"
+  ]
 }

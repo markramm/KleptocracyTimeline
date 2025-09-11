@@ -10,8 +10,16 @@
     "737 MAX"
   ],
   "sources": [
-    "https://www.pogo.org/analysis/corrupted-oversight-the-faa-boeing-and-the-737-max",
-    "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b"
+    {
+      "title": "https://www.pogo.org/analysis/corrupted-oversight-the-faa-boeing-and-the-737-max",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -24,5 +32,9 @@
   ],
   "status": "confirmed",
   "id": "2013-08-01--faa-safety-official-ali-bahrami-leaves-for-aerospace-industries-association-during-boeing-737-max-development-1757455518",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

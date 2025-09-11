@@ -51,5 +51,10 @@
     "foreign-influence",
     "abuse-of-office",
     "china-connections"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
   ]
 }

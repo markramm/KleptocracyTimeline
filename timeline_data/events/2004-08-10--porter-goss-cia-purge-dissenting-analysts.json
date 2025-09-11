@@ -39,5 +39,9 @@
     }
   ],
   "importance": 8,
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

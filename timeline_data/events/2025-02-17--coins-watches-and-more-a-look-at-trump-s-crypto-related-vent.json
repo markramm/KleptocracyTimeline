@@ -1,9 +1,9 @@
 {
   "id": "2025-02-17--coins-watches-and-more-a-look-at-trump-s-crypto-related-vent",
   "date": "2025-02-17",
-  "title": "Coins, watches and more: A look at Trump’s crypto-related ventures, by the numbers",
-  "summary": "Trump has rebranded himself as the “crypto president,” launching a suite of crypto-themed ventures",
-  "description": "Trump has rebranded himself as the “crypto president,” launching a suite of crypto-themed ventures",
+  "title": "Coins, watches and more: A look at Trump\u2019s crypto-related ventures, by the numbers",
+  "summary": "Trump has rebranded himself as the \u201ccrypto president,\u201d launching a suite of crypto-themed ventures",
+  "description": "Trump has rebranded himself as the \u201ccrypto president,\u201d launching a suite of crypto-themed ventures",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Coins, watches and more: A look at Trump’s crypto-related ventures, by the numbers",
+      "title": "Coins, watches and more: A look at Trump\u2019s crypto-related ventures, by the numbers",
       "url": "https://apnews.com/article/trump-crypto-watch-sneakers-memecoin-2b49fd975e2cce7a6f61e068f6fd04af",
       "outlet": "Associated Press",
       "date": "2025-02-17"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

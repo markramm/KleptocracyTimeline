@@ -1,0 +1,36 @@
+{
+  "date": "2025-06-01",
+  "title": "Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan",
+  "summary": "Federal workforce reduced by 59,000 positions with additional 154,000 employees on paid administrative leave through deferred resignation program designed to accelerate exodus of career officials, implementing Project 2025's government reduction goals.",
+  "actors": [
+    "Federal workforce",
+    "Trump administration",
+    "Russell Vought"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "Federal News Network",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Project 2025 Implementation analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "workforce-reduction",
+    "federal-employees",
+    "government-shrinkage",
+    "administrative-exodus"
+  ],
+  "status": "confirmed",
+  "id": "2025-06-01--federal-workforce-shrinks-by-59000-jobs-under-project-2025-p",
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

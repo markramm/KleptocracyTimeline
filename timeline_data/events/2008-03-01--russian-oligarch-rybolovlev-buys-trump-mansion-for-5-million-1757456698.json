@@ -8,8 +8,16 @@
   ],
   "importance": 9,
   "sources": [
-    "The Seattle Times",
-    "Russian Influence Networks PDF"
+    {
+      "title": "The Seattle Times",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks PDF",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "trump-russia",
@@ -19,5 +27,9 @@
   ],
   "status": "confirmed",
   "id": "2008-03-01--russian-oligarch-rybolovlev-buys-trump-mansion-for-5-million-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

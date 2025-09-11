@@ -1,0 +1,28 @@
+{
+  "id": "2024-07-15--grok-ai-safety-protocol-update",
+  "date": "2024-07-15",
+  "title": "xAI Implements Comprehensive AI Safety Protocols in Response to Investigations",
+  "summary": "Following months of scrutiny, xAI announces a major overhaul of Grok AI's safety mechanisms, including enhanced content moderation, improved bias detection algorithms, and the establishment of an independent AI ethics advisory board. The changes represent a significant shift in Musk's approach to AI development and regulation.",
+  "importance": 8,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Safety Experts"
+  ],
+  "tags": [
+    "AI safety",
+    "Corporate accountability",
+    "Tech regulation"
+  ],
+  "sources": [
+    {
+      "title": "xAI Safety Protocol Announcement",
+      "url": "https://x.ai/safety-update",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

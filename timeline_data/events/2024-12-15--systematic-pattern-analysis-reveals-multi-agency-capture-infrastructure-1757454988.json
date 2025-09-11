@@ -10,8 +10,16 @@
     "Regulatory Agencies"
   ],
   "sources": [
-    "Internal pattern analysis",
-    "Cross-event correlation study"
+    {
+      "title": "Internal pattern analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Cross-event correlation study",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "status": "confirmed",
@@ -22,5 +30,8 @@
     "systematic-corruption"
   ],
   "id": "2024-12-15--systematic-pattern-analysis-reveals-multi-agency-capture-infrastructure-1757454988",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-22"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-22",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

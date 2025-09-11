@@ -39,5 +39,9 @@
       "date": "2019-04-19"
     }
   ],
-  "notes": "The Moscow Project documented 272 total contacts including 38 meetings. The report detailed\nRussian efforts through the Internet Research Agency's social media campaign and GRU hacking\nof Democratic emails. Multiple Trump associates made false statements about these contacts\nand obstructed investigations."
+  "notes": "The Moscow Project documented 272 total contacts including 38 meetings. The report detailed\nRussian efforts through the Internet Research Agency's social media campaign and GRU hacking\nof Democratic emails. Multiple Trump associates made false statements about these contacts\nand obstructed investigations.",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
 }

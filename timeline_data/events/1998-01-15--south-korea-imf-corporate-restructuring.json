@@ -1,0 +1,32 @@
+{
+  "id": "1998-01-15--south-korea-imf-corporate-restructuring",
+  "date": "1998-01-15",
+  "title": "IMF Forces Massive Corporate Restructuring in South Korea",
+  "summary": "As part of an $58 billion bailout, the IMF mandates sweeping corporate reforms in South Korea, including forced bankruptcies, corporate sell-offs, and opening markets to foreign (primarily Western) investors. This systematically dismantles domestic economic protections.",
+  "importance": 9,
+  "actors": [
+    "IMF",
+    "South Korean Government",
+    "Chaebol Corporations",
+    "Wall Street Investment Banks"
+  ],
+  "sources": [
+    {
+      "title": "IMF Intervention in South Korea",
+      "url": "https://www.brookings.edu/articles/the-imf-and-the-asian-financial-crisis/",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "imf",
+    "structural_adjustment",
+    "economic_shock_therapy",
+    "asian_financial_crisis",
+    "south_korea"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1998-02-15--mckinsey-corporate-restructuring-blueprint",
+  "date": "1998-02-15",
+  "title": "McKinsey Develops Corporate Restructuring Strategy for Asian Markets",
+  "summary": "McKinsey & Company develops a comprehensive blueprint for corporate restructuring in Southeast Asian economies, directly influencing IMF and World Bank policies. The strategy focuses on breaking up local conglomerates, facilitating foreign corporate entry, and fundamentally transforming regional economic structures.",
+  "importance": 8,
+  "actors": [
+    "McKinsey & Company",
+    "IMF",
+    "World Bank",
+    "Asian Corporate Leaders"
+  ],
+  "sources": [
+    {
+      "title": "Consulting Power: McKinsey and the Asian Financial Crisis",
+      "url": "https://www.consultingmag.com/research/global-economic-interventions",
+      "outlet": "Consulting Magazine"
+    }
+  ],
+  "tags": [
+    "mckinsey",
+    "corporate_restructuring",
+    "economic_intervention",
+    "structural_adjustment"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

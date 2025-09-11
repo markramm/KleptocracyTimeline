@@ -2,8 +2,8 @@
   "id": "2025-08-04--as-trump-pushes-tariffs-sons-back-firm-aimed-at-revitalizing",
   "date": "2025-08-04",
   "title": "As Trump pushes tariffs, sons back firm aimed at 'revitalizing' US manufacturing",
-  "summary": "New America Acquisition I Corp, a blank-check firm aimed at financing US manufacturing projects and backed by Eric Trump and Donald Trump Jr., filed for an initial public offering–seeking to capitalize on the president’s protectionist policies",
-  "description": "New America Acquisition I Corp, a blank-check firm aimed at financing US manufacturing projects and backed by Eric Trump and Donald Trump Jr., filed for an initial public offering–seeking to capitalize on the president’s protectionist policies",
+  "summary": "New America Acquisition I Corp, a blank-check firm aimed at financing US manufacturing projects and backed by Eric Trump and Donald Trump Jr., filed for an initial public offering\u2013seeking to capitalize on the president\u2019s protectionist policies",
+  "description": "New America Acquisition I Corp, a blank-check firm aimed at financing US manufacturing projects and backed by Eric Trump and Donald Trump Jr., filed for an initial public offering\u2013seeking to capitalize on the president\u2019s protectionist policies",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -29,5 +29,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

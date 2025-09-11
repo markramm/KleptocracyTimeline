@@ -1,0 +1,34 @@
+{
+  "date": "2009-01-01",
+  "title": "Carl Icahn Partners with Andrew Beal in Trump Entertainment Resorts Bankruptcy Restructuring",
+  "summary": "During Trump Entertainment Resorts' 2009 bankruptcy proceedings, Carl Icahn partnered with banker Andrew Beal, whose Beal Bank held $500 million in the company's debt, to take control of the casino empire. Icahn brought experience from restructuring Atlantic City's Tropicana casino. Trump fought the Icahn-Beal partnership in court, arguing they could not use his name and likeness on properties.",
+  "importance": 8,
+  "actors": [
+    "Carl Icahn",
+    "Andrew Beal",
+    "Donald Trump",
+    "Trump Entertainment Resorts",
+    "Beal Bank"
+  ],
+  "sources": [
+    {
+      "title": "Inside the rocky relationship of billionaires Trump and Icahn",
+      "url": "https://www.chicagotribune.com/2016/05/02/inside-the-rocky-relationship-of-billionaires-trump-and-icahn/",
+      "outlet": "Chicago Tribune"
+    }
+  ],
+  "tags": [
+    "Carl Icahn",
+    "Trump",
+    "Atlantic City",
+    "bankruptcy",
+    "casino",
+    "restructuring"
+  ],
+  "id": "2009-01-01--carl-icahn-partners-with-andrew-beal-in-trump-ente",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture"
+  ]
+}

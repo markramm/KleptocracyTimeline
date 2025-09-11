@@ -1,0 +1,31 @@
+{
+  "id": "2025-05-05--judicial-accountability-crisis",
+  "date": "2025-05-05",
+  "title": "Federal Judicial Oversight Commission Suspended Under Emergency Powers",
+  "summary": "Trump administration invoked emergency powers to suspend the Federal Judicial Conduct and Disability Act, effectively removing independent oversight mechanisms for federal judges. This move created a constitutional crisis by eliminating checks on judicial misconduct while simultaneously threatening judicial independence.",
+  "importance": 8,
+  "actors": [
+    "Trump Administration",
+    "Federal Judicial Conduct Commission",
+    "Department of Justice"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Oversight Emergency Suspension",
+      "url": "https://www.uscourts.gov/rules-policies/emergency-notices/2025",
+      "outlet": "US Courts Official Website"
+    }
+  ],
+  "tags": [
+    "judicial-independence",
+    "constitutional-crisis",
+    "emergency-powers"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

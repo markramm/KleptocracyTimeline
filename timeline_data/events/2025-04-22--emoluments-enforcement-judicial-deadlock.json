@@ -1,0 +1,31 @@
+{
+  "id": "2025-04-22--emoluments-enforcement-judicial-deadlock",
+  "date": "2025-04-22",
+  "title": "Federal Courts Reach Impasse on Presidential Emoluments Enforcement",
+  "summary": "A critical judicial standoff emerged as multiple federal courts issued conflicting rulings on presidential emoluments violations. The D.C. Circuit Court suggested potential criminal referrals for foreign financial entanglements, while the 4th Circuit Court blocked enforcement mechanisms, creating a constitutional deadlock that effectively paralyzed traditional accountability mechanisms.",
+  "importance": 8,
+  "actors": [
+    "D.C. Circuit Court",
+    "4th Circuit Court",
+    "Department of Justice"
+  ],
+  "tags": [
+    "emoluments",
+    "constitutional-crisis",
+    "judicial-review"
+  ],
+  "sources": [
+    {
+      "title": "Federal Court Ruling Summaries",
+      "outlet": "Legal Monitoring Report",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

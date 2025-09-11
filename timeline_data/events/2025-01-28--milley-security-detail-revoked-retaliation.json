@@ -1,0 +1,44 @@
+{
+  "id": "2025-01-28--milley-security-detail-revoked-retaliation",
+  "date": "2025-01-28",
+  "title": "Defense Secretary Revokes General Milley Security Detail in Political Retaliation",
+  "summary": "Defense Secretary Pete Hegseth revokes former Joint Chiefs Chairman General Mark Milley's security detail and clearance, ordering an investigation to determine if Milley should be stripped of his four-star rank. The action targets Milley despite active Iranian assassination threats against him for his role in the Soleimani killing. Hegseth orders the Pentagon Inspector General to review \"the facts and circumstances\" of Milley's conduct to justify potential rank reduction. The move represents systematic retaliation against military leaders who opposed Trump's political demands, including Milley's post-January 6 communications with China to prevent conflict and his criticism of Lafayette Square militarization.",
+  "importance": 9,
+  "location": "Pentagon, Washington DC",
+  "actors": [
+    "Pete Hegseth",
+    "General Mark Milley",
+    "Pentagon Inspector General",
+    "Iranian Regime",
+    "Donald Trump"
+  ],
+  "tags": [
+    "milley",
+    "retaliation",
+    "security_detail",
+    "hegseth",
+    "military_politicization",
+    "iran_threats"
+  ],
+  "capture_lanes": [
+    "Military Politicization",
+    "Executive Branch Corruption"
+  ],
+  "sources": [
+    {
+      "title": "Defense secretary revokes Mark Milleys security detail and orders IG review",
+      "url": "https://www.nbcnews.com/politics/donald-trump/defense-secretary-revokes-mark-milleys-security-detail-orders-ig-revie-rcna189767",
+      "outlet": "NBC News",
+      "date": "2025-01-28",
+      "verified": true
+    },
+    {
+      "title": "Gen. Mark Milleys security detail and security clearance revoked",
+      "url": "https://www.cbsnews.com/news/gen-mark-milley-security-detail-and-clearance-revoked/",
+      "outlet": "CBS News",
+      "date": "2025-01-28",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

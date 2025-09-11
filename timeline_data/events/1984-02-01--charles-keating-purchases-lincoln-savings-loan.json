@@ -1,0 +1,44 @@
+{
+  "id": "1984-02-01--charles-keating-purchases-lincoln-savings-loan",
+  "date": "1984-02-01",
+  "title": "Charles Keating Purchases Lincoln S&L: Systematic Fraud Network",
+  "summary": "Charles Keating, through American Continental Corporation, purchases Lincoln Savings and Loan for $51 million. Exploiting the deregulated environment created by Garn-St Germain, Keating rapidly expands Lincoln's assets from $1.1 billion to $5.5 billion over four years through high-risk real estate speculation and fraudulent bond sales. Keating coordinates a systematic influence network, providing $1.5 million in campaign contributions to five U.S. Senators (the \"Keating Five\") who later pressure regulators to overlook Lincoln's suspicious activities, demonstrating coordinated regulatory capture across legislative and executive branches.",
+  "importance": 8,
+  "location": "Irvine, California",
+  "actors": [
+    "Charles Keating",
+    "American Continental Corporation",
+    "Lincoln Savings and Loan",
+    "Keating Five Senators",
+    "Federal Home Loan Bank Board"
+  ],
+  "tags": [
+    "charles_keating",
+    "lincoln_savings",
+    "fraud",
+    "keating_five",
+    "regulatory_capture",
+    "s&l_crisis"
+  ],
+  "capture_lanes": [
+    "Financial Regulatory Capture",
+    "Congressional Capture"
+  ],
+  "sources": [
+    {
+      "title": "Lincoln Savings and Loan Association",
+      "url": "https://en.wikipedia.org/wiki/Lincoln_Savings_and_Loan_Association",
+      "outlet": "Wikipedia",
+      "date": "2024-01-01",
+      "verified": true
+    },
+    {
+      "title": "Charles Keating and Lincoln Savings and Loan",
+      "url": "https://www.fdic.gov/resources/publications/s-and-l-crisis/s-and-l-biblio-09.html",
+      "outlet": "Federal Deposit Insurance Corporation",
+      "date": "2024-01-01",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

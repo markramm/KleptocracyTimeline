@@ -2,8 +2,8 @@
   "id": "2025-04-29--it-was-supposed-to-be-a-tax-and-border-bill-it-could-also-ha",
   "date": "2025-04-29",
   "title": "It was supposed to be a tax and border bill. It could also hand Trump vast new executive powers",
-  "summary": "A draft bill released by the House Judiciary Committee would give Trump expansive new executive capabilities – including curtailing the FTC’s antitrust enforcement powers, a move supported by Elon Musk",
-  "description": "A draft bill released by the House Judiciary Committee would give Trump expansive new executive capabilities – including curtailing the FTC’s antitrust enforcement powers, a move supported by Elon Musk",
+  "summary": "A draft bill released by the House Judiciary Committee would give Trump expansive new executive capabilities \u2013 including curtailing the FTC\u2019s antitrust enforcement powers, a move supported by Elon Musk",
+  "description": "A draft bill released by the House Judiciary Committee would give Trump expansive new executive capabilities \u2013 including curtailing the FTC\u2019s antitrust enforcement powers, a move supported by Elon Musk",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,11 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

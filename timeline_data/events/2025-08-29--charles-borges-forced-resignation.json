@@ -38,5 +38,9 @@
       "date": "2025-08-30"
     }
   ],
-  "notes": "Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating policies to\ncreate unsecured cloud copy of Social Security data. His resignation letter stated SSA's\nactions made his duties \"impossible to perform legally and ethically.\" Posted on LinkedIn:\n\"It is never wrong to be morally and ethically right with yourself.\""
+  "notes": "Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating policies to\ncreate unsecured cloud copy of Social Security data. His resignation letter stated SSA's\nactions made his duties \"impossible to perform legally and ethically.\" Posted on LinkedIn:\n\"It is never wrong to be morally and ethically right with yourself.\"",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

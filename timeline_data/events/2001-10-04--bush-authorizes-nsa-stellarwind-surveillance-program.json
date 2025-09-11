@@ -38,5 +38,10 @@
       "date": "2020-03-01"
     }
   ],
-  "notes": "The October 4, 2001 date represents the formal presidential authorization of what became known as STELLARWIND. Created by Dick Cheney and classified as 'exceptionally controlled information,' the program collected phone and internet metadata on millions of Americans without warrants. The authorization was renewed every 45 days for over 5 years until exposed by the New York Times in December 2005. The program operated under the code name of the President's Surveillance Program (PSP) and represented mass constitutional violations of the Fourth Amendment."
+  "notes": "The October 4, 2001 date represents the formal presidential authorization of what became known as STELLARWIND. Created by Dick Cheney and classified as 'exceptionally controlled information,' the program collected phone and internet metadata on millions of Americans without warrants. The authorization was renewed every 45 days for over 5 years until exposed by the New York Times in December 2005. The program operated under the code name of the President's Surveillance Program (PSP) and represented mass constitutional violations of the Fourth Amendment.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

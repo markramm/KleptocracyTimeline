@@ -36,5 +36,9 @@
       "outlet": "Washington Post",
       "date": "2025-07-23"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture"
   ]
 }

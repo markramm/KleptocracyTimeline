@@ -1,0 +1,38 @@
+{
+  "id": "1987-04-01--federal-reserve-approves-section-20-subsidiaries-jp-morgan-citicorp",
+  "date": "1987-04-01",
+  "title": "Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and Bankers Trust",
+  "summary": "The Federal Reserve Board approves bank holding companies JP Morgan & Co., Citicorp, and Bankers Trust to establish Section 20 subsidiaries for underwriting mortgage-backed securities, municipal revenue bonds, and commercial paper. This regulatory decision represents the first major breach in Glass-Steagall's separation of commercial and investment banking, allowing banks to earn up to 5% of revenue from previously prohibited securities activities. The approval establishes 'firewalls' between commercial banks and their securities affiliates but creates the regulatory framework for systematic Glass-Steagall erosion.",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Federal Reserve Board",
+    "JP Morgan & Co.",
+    "Citicorp",
+    "Bankers Trust"
+  ],
+  "tags": [
+    "Section 20 subsidiaries",
+    "Glass-Steagall erosion",
+    "Federal Reserve",
+    "securities underwriting",
+    "regulatory approval"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture"
+  ],
+  "sources": [
+    {
+      "title": "Decline of the Glass\u2013Steagall Act",
+      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass\u2013Steagall_Act",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Fed approved Bankers Trust, Citicorp, and J.P. Morgan Section 20 subsidiaries in April 1987",
+        "Allowed underwriting of mortgage-backed securities, municipal revenue bonds, commercial paper",
+        "Permitted 5% revenue from bank-ineligible activities with firewalls"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

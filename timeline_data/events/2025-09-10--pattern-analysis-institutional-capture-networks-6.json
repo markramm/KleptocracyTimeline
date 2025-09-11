@@ -1,0 +1,29 @@
+{
+  "id": "2025-09-10--pattern-analysis-institutional-capture-networks-6",
+  "date": "2025-09-10",
+  "title": "Pattern Analysis: Institutional Capture Networks (Part 6)",
+  "summary": "Comprehensive mapping of ideological transmission mechanisms reveals how strategic think tanks, educational networks, and political action committees create persistent pathways for long-term institutional transformation. Highlights how ideological alignment becomes a primary vector for systematic capture of democratic institutions.",
+  "importance": 9,
+  "actors": [
+    "Think Tanks",
+    "Political Action Committees",
+    "Educational Institutions"
+  ],
+  "sources": [
+    {
+      "title": "Institutional Capture Research Project",
+      "url": "http://internal-research-portal",
+      "outlet": "Trump Tyranny Tracker Research Division"
+    }
+  ],
+  "tags": [
+    "institutional-capture",
+    "ideological-networks",
+    "think-tank-influence",
+    "systematic-corruption"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "date": "2025-08-05",
   "importance": 6,
-  "title": "Federal court blocks California’s political deepfake labeling/removal law",
+  "title": "Federal court blocks California\u2019s political deepfake labeling/removal law",
   "summary": "Judge Menendez (E.D. Cal.) struck down AB 2655 Defending Democracy from Deepfake Deception Act on Section 230 grounds, not reaching First Amendment arguments. Law would have required platforms to block/label election deepfakes. Applies to X and Rumble platforms. Injunction negotiations ongoing.",
   "tags": [
     "ai",
@@ -17,7 +17,9 @@
     "https://www.eff.org/deeplinks/2025/08/court-blocks-california-political-ad-deepfake-law"
   ],
   "id": "2025-08-05--ca-political-deepfake-law-blocked",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "AB 2655 signed Sept 2024, would have required platforms to block materially deceptive election content. Menendez previously struck down related AB 2839 on First Amendment grounds as \"blunt tool\" hindering \"humorous expression.\" Plaintiff attorneys \"optimistic\" about injunction negotiations with California.",
   "status": "confirmed",
   "sources": [

@@ -1,0 +1,41 @@
+{
+  "date": "1989-01-01",
+  "title": "Global Climate Coalition Formation to Oppose Climate Regulation",
+  "summary": "The Global Climate Coalition (GCC) was formed as a project of the National Association of Manufacturers to represent fossil fuel producers and oppose regulation to mitigate global warming. The coalition included all major oil companies (until 1996), with leadership from Phillips Petroleum's Tom Lambrix as Chairman and Southern Company's J. Minter as government liaison. About 40 companies and industry associations represented over 230,000 businesses through member corporations and trade associations. The GCC became the most powerful lobbyist group against climate action and prominent industry advocate in international climate negotiations. Internal documents reveal the coalition engaged in systematic regulatory capture, meeting with high-ranking US government officials on at least ten occasions from 1996-1997, supplying the State Department with talking points and GCC-written reports. A 2001 State Department briefing script shows an Undersecretary telling the GCC that \"POTUS rejected Kyoto, in part, based on input from you.\"",
+  "actors": [
+    "Global Climate Coalition",
+    "Tom Lambrix",
+    "J. Minter",
+    "Phillips Petroleum",
+    "Southern Company",
+    "ExxonMobil",
+    "National Association of Manufacturers"
+  ],
+  "importance": 8,
+  "tags": [
+    "climate-denial",
+    "regulatory-capture",
+    "fossil-fuels",
+    "lobbying",
+    "international-influence"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Global_Climate_Coalition",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://climateinvestigations.org/global-climate-coalition-industry-climate-denial/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "1989-01-01--global-climate-coalition-formation-to-oppose-clima",
+  "priority_id": "claude-priority-climate-denial-fossil-fuel-network",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

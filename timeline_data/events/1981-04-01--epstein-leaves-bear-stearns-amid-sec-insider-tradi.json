@@ -39,5 +39,10 @@
       "outlet": "New York Magazine",
       "date": "2002-04-28"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

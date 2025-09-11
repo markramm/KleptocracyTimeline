@@ -1,0 +1,49 @@
+{
+  "title": "Sinclair Forces 200 Local News Anchors to Read Identical \"Dangerous to Democracy\" Script",
+  "date": "2018-03-23",
+  "summary": "Sinclair Broadcast Group mandated that anchors at nearly 200 local television stations read an identical script warning against \"fake news\" and declaring that media bias is \"extremely dangerous to our democracy,\" demonstrating unprecedented corporate control over local news content and creating a chilling example of centralized media manipulation. The scripted message, which began airing on March 23, 2018, forced trusted local news anchors to deliver corporate-approved messaging that criticized national media while positioning Sinclair as a defender of truth, effectively weaponizing local news credibility for corporate and political purposes. The mandatory script included the specific phrase \"This is extremely dangerous to our democracy,\" ironically highlighting the very threat that media consolidation posed to democratic discourse through its elimination of diverse local voices and editorial independence. Station managers were explicitly instructed that anchors had \"no choice\" in reading the script, with internal memos stating \"Please produce the attached scripts exactly as they are written,\" revealing the authoritarian nature of Sinclair's content control system. The controversy exploded when Deadspin created a viral compilation video showing dozens of anchors reciting identical words, exposing to the public how media consolidation enables corporate entities to manipulate information flow and undermine the appearance of independent local journalism across the nation.",
+  "key_actors": [
+    "Local news anchors",
+    "Scott Livingston",
+    "David Smith",
+    "Deadspin editors"
+  ],
+  "organizations": [
+    "Sinclair Broadcast Group",
+    "Deadspin",
+    "Local Sinclair stations",
+    "NPR",
+    "Various media outlets"
+  ],
+  "tags": [
+    "sinclair",
+    "media_manipulation",
+    "local_news",
+    "corporate_control",
+    "information_control",
+    "democracy_threat"
+  ],
+  "sources": [
+    {
+      "title": "https://www.npr.org/sections/thetwo-way/2018/04/02/598794433/video-reveals-power-of-sinclair-as-local-news-anchors-recite-script-in-unison",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://variety.com/2018/tv/news/sinclair-promos-backlash-1202741019/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance_score": 9,
+  "status": "confirmed",
+  "id": "2018-03-23--sinclair-forces-200-local-news-anchors-to-read-ide",
+  "priority_id": "RT-EXP-44F1FF71-sinclair-broadcasting-must-run-segments",
+  "importance": 5,
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

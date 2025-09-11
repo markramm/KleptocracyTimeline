@@ -8,7 +8,8 @@
     {
       "url": "https://www.theguardian.com/world/2004/jul/17/usa.iraq1",
       "title": "Pentagon Office Produced 'Alternative' Intelligence on Iraq",
-      "type": "news_report"
+      "type": "news_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,11 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

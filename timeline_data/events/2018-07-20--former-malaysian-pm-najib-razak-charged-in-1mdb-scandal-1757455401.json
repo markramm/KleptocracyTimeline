@@ -13,10 +13,26 @@
     "Malaysian Anti-Corruption Commission"
   ],
   "sources": [
-    "https://www.justice.gov/opa/pr/us-seeks-forfeit-additional-540-million-assets-acquired-funds-misappropriated-1malaysia",
-    "https://www.reuters.com/article/us-malaysia-politics-najib-idUSKBN1K50B5",
-    "https://www.bbc.com/news/world-asia-44890066",
-    "https://www.theguardian.com/world/2018/jul/04/former-malaysian-pm-najib-razak-arrested-in-1mdb-corruption-probe"
+    {
+      "title": "https://www.justice.gov/opa/pr/us-seeks-forfeit-additional-540-million-assets-acquired-funds-misappropriated-1malaysia",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.reuters.com/article/us-malaysia-politics-najib-idUSKBN1K50B5",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-asia-44890066",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.theguardian.com/world/2018/jul/04/former-malaysian-pm-najib-razak-arrested-in-1mdb-corruption-probe",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -32,5 +48,9 @@
   ],
   "status": "confirmed",
   "id": "2018-07-20--former-malaysian-pm-najib-razak-charged-in-1mdb-scandal-1757455401",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-15"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-15",
+  "capture_lanes": [
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,0 +1,34 @@
+{
+  "date": "2017-04-15",
+  "title": "DOJ Begins Surveillance of Washington Post Journalists Reporting on Russia Investigation",
+  "summary": "Trump Justice Department initiates surveillance of Washington Post journalists Ellen Nakashima, Greg Miller, and Adam Entous, secretly obtaining phone records from April 15-July 31, 2017. Surveillance targets reporters investigating Russia interference, Kushner-Kislyak communications, and Sessions-Russian contacts, representing systematic effort to identify sources and suppress national security journalism.",
+  "actors": [
+    "DOJ",
+    "Ellen Nakashima",
+    "Greg Miller",
+    "Adam Entous",
+    "Washington Post"
+  ],
+  "sources": [
+    {
+      "title": "Trump Justice Department seized Post reporters phone records",
+      "url": "https://www.washingtonpost.com/national-security/trump-justice-dept-seized-post-reporters-phone-records/2021/05/07/933cdfc6-af5b-11eb-b476-c3b287e52a01_story.html",
+      "outlet": "Washington Post"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "journalist_surveillance",
+    "press_freedom",
+    "doj_surveillance",
+    "russia_investigation",
+    "systematic_intimidation"
+  ],
+  "status": "confirmed",
+  "id": "2017-04-15--doj-begins-surveillance-wapo-journalists-russia",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

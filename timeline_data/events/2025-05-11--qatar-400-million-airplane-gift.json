@@ -51,5 +51,8 @@
   ],
   "status": "confirmed",
   "_merge_note": "Enhanced with information from duplicate event: 2025-05-11--qatar-gifts-trump-400-million-airplane-as-replacem",
-  "_merge_timestamp": "2025-09-05T23:46:55.901536"
+  "_merge_timestamp": "2025-09-05T23:46:55.901536",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

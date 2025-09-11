@@ -1,0 +1,40 @@
+{
+  "id": "2025-01-27--trump-doj-fires-jack-smith-prosecutors",
+  "date": "2025-01-27",
+  "title": "Trump DOJ Fires Jack Smith Special Counsel Team in Systematic Purge",
+  "summary": "Trump administration Justice Department fires at least 35 DOJ employees who worked on Special Counsel Jack Smith investigations into Trump's classified documents case and January 6th election interference. Fired prosecutors included career attorneys Molly Gaston, J.P. Cooney, Anne McNamara, and Mary Dohrmann. Acting Attorney General James McHenry stated 'the Acting Attorney General does not trust these officials to assist in faithfully implementing the President's agenda', breaking traditional norm that career prosecutors remain across administrations. The unprecedented targeting of career prosecutors who investigated a president demonstrates systematic DOJ weaponization designed to intimidate future investigations and transform Justice Department into Trump's personal law firm.",
+  "importance": 9,
+  "tags": [
+    "doj_weaponization",
+    "trump_administration",
+    "special_counsel",
+    "prosecutor_firings",
+    "jack_smith",
+    "career_prosecutors",
+    "institutional_capture"
+  ],
+  "actors": [
+    "James McHenry",
+    "Jack Smith",
+    "Molly Gaston",
+    "J.P. Cooney",
+    "Anne McNamara",
+    "Mary Dohrmann",
+    "Trump Administration"
+  ],
+  "sources": [
+    {
+      "url": "https://www.npr.org/2025/01/27/nx-s1-5276334/justice-department-firings-trump-special-counsel-jack-smith",
+      "title": "Justice Department moves to fire at least 12 officials who investigated Trump",
+      "outlet": "NPR",
+      "date": "2025-01-27"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
+}

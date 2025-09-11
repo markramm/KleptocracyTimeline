@@ -46,5 +46,9 @@
       "date": "2019-11-19"
     }
   ],
-  "notes": "Epstein's death eliminated a key witness who had connections to numerous powerful figures and potential knowledge of money laundering operations."
+  "notes": "Epstein's death eliminated a key witness who had connections to numerous powerful figures and potential knowledge of money laundering operations.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -35,5 +35,9 @@
     }
   ],
   "notes": "Largest owner of local TV stations. Forces local anchors to read identical scripts. Must-run segments from Boris Epshteyn. Uses trusted local news format for political propaganda. Scale enables information control.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture"
+  ]
 }

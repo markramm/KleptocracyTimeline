@@ -1,0 +1,40 @@
+{
+  "id": "2004-07-22--citizens-sound-economy-splits-freedomworks-americans-prosperity",
+  "date": "2004-07-22",
+  "title": "Citizens for a Sound Economy Splits into FreedomWorks and Americans for Prosperity",
+  "summary": "Citizens for a Sound Economy (CSE), the Koch brothers-funded lobbying organization founded in 1984, officially splits into two separate entities following internal disagreements. The 501(c)(4) advocacy activities continue under FreedomWorks (formed through merger with Empower America), while the educational foundation becomes Americans for Prosperity Foundation. This organizational restructuring creates the primary infrastructure that will later orchestrate the Tea Party movement. CSE had previously received over $5.3 million from tobacco companies between 1991-2004 and had established the first Tea Party Movement website at usteaparty.com in 2002. The split allows the Koch network to expand their political influence through parallel organizations while maintaining plausible separation.",
+  "actors": [
+    "David Koch",
+    "Charles Koch",
+    "Dick Armey",
+    "Citizens for a Sound Economy",
+    "FreedomWorks",
+    "Americans for Prosperity"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Citizens_for_a_Sound_Economy",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.greenpeace.org/usa/climate/climate-deniers/front-groups/citizens-for-a-sound-economy-now-freedomworks/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory-capture",
+    "corporate-influence",
+    "astroturf-organizing",
+    "koch-network",
+    "political-infrastructure"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-C7D79DA1-tea-party-koch-astroturf",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

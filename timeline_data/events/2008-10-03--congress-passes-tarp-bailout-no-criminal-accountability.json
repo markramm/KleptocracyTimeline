@@ -43,5 +43,12 @@
       "outlet": "Washington Post",
       "date": "2008-09-24"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

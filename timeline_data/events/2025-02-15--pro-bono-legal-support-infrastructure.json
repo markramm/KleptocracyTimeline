@@ -1,0 +1,28 @@
+{
+  "id": "2025-02-15--pro-bono-legal-support-infrastructure",
+  "date": "2025-02-15",
+  "title": "Pro Bono Legal Support Network Expansion",
+  "summary": "Major law firms and legal nonprofits establish a centralized pro bono coordination platform to support litigation against institutional overreach. Network includes 42 law firms, connecting 1,200+ attorneys with rapid response capabilities for constitutional defense.",
+  "importance": 7,
+  "actors": [
+    "Major Law Firms Consortium",
+    "Legal Nonprofits Alliance",
+    "Constitutional Defense Fund"
+  ],
+  "tags": [
+    "Pro bono support",
+    "Legal networks",
+    "Constitutional defense"
+  ],
+  "sources": [
+    {
+      "title": "Pro Bono Legal Coordination Platform Launch Report",
+      "outlet": "Legal Professional Network",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

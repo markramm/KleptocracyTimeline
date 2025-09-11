@@ -2,8 +2,8 @@
   "id": "2025-04-21--trump-drops-or-pauses-cases-against-17-corporations-that-fun",
   "date": "2025-04-21",
   "title": "Trump drops or pauses cases against 17 corporations that funded his inauguration",
-  "summary": "Trump’s inauguration donor pool included $50 million in contributions from corporations under investigation or facing federal enforcement, 17 of which have seen their cases halted",
-  "description": "Trump’s inauguration donor pool included $50 million in contributions from corporations under investigation or facing federal enforcement, 17 of which have seen their cases halted",
+  "summary": "Trump\u2019s inauguration donor pool included $50 million in contributions from corporations under investigation or facing federal enforcement, 17 of which have seen their cases halted",
+  "description": "Trump\u2019s inauguration donor pool included $50 million in contributions from corporations under investigation or facing federal enforcement, 17 of which have seen their cases halted",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -51,5 +51,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

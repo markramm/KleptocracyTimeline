@@ -9,8 +9,16 @@
     "Cryptocurrency Exchanges"
   ],
   "sources": [
-    "Financial network analysis",
-    "Shell company registry cross-reference"
+    {
+      "title": "Financial network analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Shell company registry cross-reference",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 7,
   "status": "confirmed",
@@ -22,5 +30,9 @@
     "pattern-analysis"
   ],
   "id": "2023-06-20--shell-company-network-analysis-links-cryptocurrency-to-kleptocracy-infrastructure-1757454988",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-22"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-22",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

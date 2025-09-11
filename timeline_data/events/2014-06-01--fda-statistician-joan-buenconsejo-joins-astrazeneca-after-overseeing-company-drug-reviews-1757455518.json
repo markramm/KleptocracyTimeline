@@ -9,8 +9,16 @@
     "Center for Drug Evaluation and Research"
   ],
   "sources": [
-    "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
-    "https://www.statnews.com/2025/04/25/fda-revolving-door-pharma-industry-workers/"
+    {
+      "title": "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.statnews.com/2025/04/25/fda-revolving-door-pharma-industry-workers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 7,
   "tags": [
@@ -22,5 +30,9 @@
   ],
   "status": "confirmed",
   "id": "2014-06-01--fda-statistician-joan-buenconsejo-joins-astrazeneca-after-overseeing-company-drug-reviews-1757455518",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-02"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

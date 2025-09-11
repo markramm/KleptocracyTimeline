@@ -16,7 +16,9 @@
     "https://www.congress.gov/crs-product/LSB11274"
   ],
   "id": "2025-05-09--crs-geofence-sidebar",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "Fourth Circuit rehearing en banc in Chatrie resulted in 1-line affirmance April 30, 2025. Circuit split: Fifth Circuit categorical prohibition vs Fourth Circuit deadlock. Both cases involved Google Location History warrants. CRS identifies two key issues: Is data collection a search? Is warrant sufficient protection?",
   "status": "confirmed",
   "sources": [

@@ -1,0 +1,38 @@
+{
+  "id": "1995-02-01--gingrich-delay-formalize-k-street-project-coordination",
+  "date": "1995-02-01",
+  "title": "Gingrich-DeLay Formalize K Street Project Coordination Structure",
+  "summary": "Speaker Newt Gingrich formally deputizes Majority Whip Tom DeLay to oversee the K Street Project's systematic approach to lobbying control. This coordination creates an institutionalized framework where Republican leadership directly pressures lobbying firms to hire Republicans in top positions and reward loyal GOP lobbyists with access. The structure locks lobbyists into what officials openly called a 'pay-to-play system.' Within 8 years, this approach transforms K Street from roughly equal Republican-Democratic representation to 33 of 36 top positions held by Republicans.",
+  "importance": 7,
+  "tags": [
+    "gingrich",
+    "tom_delay",
+    "k_street_project",
+    "institutional_capture",
+    "lobbying_coordination"
+  ],
+  "actors": [
+    "Newt Gingrich",
+    "Tom DeLay",
+    "Grover Norquist"
+  ],
+  "sources": [
+    {
+      "title": "Republicans take over K Street",
+      "url": "https://www.csmonitor.com/2003/0829/p01s01-uspo.html",
+      "outlet": "Christian Science Monitor",
+      "date": "2003-08-29"
+    },
+    {
+      "title": "K Street Project",
+      "url": "https://www.sourcewatch.org/index.php/K_Street_Project",
+      "outlet": "SourceWatch",
+      "date": "2024-01-01"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
+}

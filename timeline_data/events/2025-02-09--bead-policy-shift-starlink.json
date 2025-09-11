@@ -13,18 +13,23 @@
   ],
   "sources": [
     {
-      "title": "Ars Technica – Changes could steer tens of billions to Starlink",
+      "title": "Ars Technica \u2013 Changes could steer tens of billions to Starlink",
       "url": "https://arstechnica.com/tech-policy/2025/02/commerce-dept-changes-could-steer-20b-in-broadband-funding-to-starlink",
       "outlet": "Ars Technica",
       "date": "2025-02-09"
     },
     {
-      "title": "The Verge – Eligibility change draws backlash",
+      "title": "The Verge \u2013 Eligibility change draws backlash",
       "url": "https://www.theverge.com/2025/2/10/24112323/starlink-bead-broadband-eligibility-change",
       "outlet": "The Verge",
       "date": "2025-02-10"
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

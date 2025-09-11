@@ -1,0 +1,44 @@
+{
+  "id": "1985-01-01--maxwell-promis-software-distribution-kgb-china",
+  "date": "1985-01-01",
+  "title": "Maxwell Begins Distribution of Backdoored PROMIS Software to KGB and China",
+  "summary": "Robert Maxwell begins systematic distribution of the weaponized PROMIS software with intelligence backdoors to foreign governments including the Soviet KGB and Chinese Military Intelligence (PLA-2). According to sworn affidavits, Maxwell sells China a copy of PROMIS for $9 million in 1985, revealing the software's 'trap door' secret. Working with Israeli Mossad operative Rafi Eitan, Maxwell ultimately distributes over $500 million worth of the surveillance-enabled PROMIS software to intelligence agencies worldwide, creating a global espionage network that allows Western intelligence to monitor foreign governments and organizations.",
+  "importance": 9,
+  "location": "Global",
+  "actors": [
+    "Robert Maxwell",
+    "KGB",
+    "Chinese Military Intelligence",
+    "PLA-2",
+    "Rafi Eitan",
+    "Israeli Mossad"
+  ],
+  "tags": [
+    "Robert Maxwell",
+    "PROMIS software",
+    "KGB",
+    "Chinese intelligence",
+    "Mossad",
+    "Rafi Eitan",
+    "surveillance backdoors",
+    "international espionage"
+  ],
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Surveillance Infrastructure"
+  ],
+  "sources": [
+    {
+      "title": "Robert Maxwell, Promisgate, and the advent of the Israeli cybersecurity industry",
+      "url": "https://www.exposetheenemy.com/robert-maxwell-promisgate-and-the-advent-of-the-israeli-cybersecurity-industry",
+      "outlet": "Expose the Enemy",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Maxwell sold PROMIS to Chinese Military Intelligence for $9 million in 1985",
+        "Worked with Israeli Mossad operative Rafi Eitan",
+        "Distributed over $500 million worth of surveillance-enabled PROMIS"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

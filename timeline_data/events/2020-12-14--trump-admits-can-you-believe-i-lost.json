@@ -31,5 +31,10 @@
       "date": "2025-01-14"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
 }

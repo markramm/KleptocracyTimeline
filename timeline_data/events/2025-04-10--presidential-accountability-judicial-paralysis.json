@@ -1,0 +1,33 @@
+{
+  "id": "2025-04-10--presidential-accountability-judicial-paralysis",
+  "date": "2025-04-10",
+  "title": "Judicial System Struggles with Presidential Accountability Mechanisms",
+  "summary": "A series of federal court rulings reveals systemic weaknesses in holding the executive branch accountable. Multiple circuit courts issue conflicting opinions on subpoena enforcement, executive privilege, and criminal investigations, demonstrating a fundamental breakdown in traditional checks and balances.",
+  "importance": 9,
+  "actors": [
+    "Federal Circuit Courts",
+    "Department of Justice",
+    "Presidential Administration"
+  ],
+  "tags": [
+    "judicial-review",
+    "constitutional-crisis",
+    "executive-accountability",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Accountability Research Report",
+      "url": "https://example.com/presidential-accountability-crisis-2025",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

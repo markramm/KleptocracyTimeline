@@ -1,9 +1,9 @@
 {
   "id": "2025-08-02--donor-list-suggests-scale-of-trump-s-pay-for-access-operatio",
   "date": "2025-08-02",
-  "title": "Donor list suggests scale of Trump’s pay-for-access operation",
-  "summary": "MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president–and, at times, policy outcomes, pardons, and ambassadorships",
-  "description": "MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president–and, at times, policy outcomes, pardons, and ambassadorships",
+  "title": "Donor list suggests scale of Trump\u2019s pay-for-access operation",
+  "summary": "MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president\u2013and, at times, policy outcomes, pardons, and ambassadorships",
+  "description": "MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president\u2013and, at times, policy outcomes, pardons, and ambassadorships",
   "status": "confirmed",
   "importance": 10,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Donor list suggests scale of Trump’s pay-for-access operation",
+      "title": "Donor list suggests scale of Trump\u2019s pay-for-access operation",
       "url": "https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html",
       "outlet": "New York Times",
       "date": "2025-08-02"
@@ -54,5 +54,8 @@
   ],
   "notes": "High-priority kleptocratic event from comprehensive timeline.",
   "_merge_note": "Enhanced with information from duplicate event: 2025-08-02--donor-list-suggests-scale-of-trumps-pay-for-access",
-  "_merge_timestamp": "2025-09-05T23:46:55.900242"
+  "_merge_timestamp": "2025-09-05T23:46:55.900242",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

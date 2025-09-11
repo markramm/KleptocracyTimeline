@@ -15,7 +15,7 @@
   ],
   "tags": [
     "office-global-communications",
-    "executive-order", 
+    "executive-order",
     "whig",
     "institutional-coordination",
     "network-executives",
@@ -40,8 +40,14 @@
     {
       "title": "Office of Global Communications",
       "url": "https://www.sourcewatch.org/index.php/Office_of_Global_Communications",
-      "outlet": "SourceWatch", 
+      "outlet": "SourceWatch",
       "date": "2007"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

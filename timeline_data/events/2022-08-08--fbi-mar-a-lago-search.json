@@ -39,5 +39,10 @@
       "date": "2022-08-12"
     }
   ],
-  "notes": "FBI seized four sets of top-secret documents, seven other sets of classified information,\nand multiple items including binders of photos and information about the President of France.\nSearch warrant was approved by Judge Reinhart on August 5, 2022, based on violations of the\nEspionage Act, obstruction, and illegal removal of government records."
+  "notes": "FBI seized four sets of top-secret documents, seven other sets of classified information,\nand multiple items including binders of photos and information about the President of France.\nSearch warrant was approved by Judge Reinhart on August 5, 2022, based on violations of the\nEspionage Act, obstruction, and illegal removal of government records.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

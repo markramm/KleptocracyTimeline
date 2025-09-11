@@ -57,5 +57,10 @@
     "political-persecution",
     "regulatory-capture"
   ],
-  "notes": "This marks unprecedented use of government mortgage databases for political targeting. Pulte accessed private financial records through FHFA's oversight of Fannie Mae and Freddie Mac, which process most US mortgages. The targeting of Cook, the first Black woman on the Fed Board, occurs amid Fed's refusal to cut interest rates as Trump demands. Pattern shows systematic use of mortgage application technicalities (primary residence declarations) to manufacture criminal referrals against political opponents."
+  "notes": "This marks unprecedented use of government mortgage databases for political targeting. Pulte accessed private financial records through FHFA's oversight of Fannie Mae and Freddie Mac, which process most US mortgages. The targeting of Cook, the first Black woman on the Fed Board, occurs amid Fed's refusal to cut interest rates as Trump demands. Pattern shows systematic use of mortgage application technicalities (primary residence declarations) to manufacture criminal referrals against political opponents.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

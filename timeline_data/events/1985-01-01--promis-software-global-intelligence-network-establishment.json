@@ -1,0 +1,43 @@
+{
+  "id": "1985-01-01--promis-software-global-intelligence-network-establishment",
+  "date": "1985-01-01",
+  "title": "PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell Distribution",
+  "summary": "The systematic distribution of backdoored PROMIS software through Robert Maxwell and other intermediaries creates an unprecedented global surveillance network, with intelligence agencies in Zimbabwe, South Africa, Guatemala, Colombia, Nicaragua, Bulgaria, Egypt, East Germany, Poland, Belgium, Turkey, Thailand, Australia, New Zealand, China, and the Soviet KGB unknowingly using compromised software. The Soviets and Eastern European allies use PROMIS to spy on the U.S. State Department and 170 American embassies worldwide, while Western intelligence simultaneously monitors their activities through the software's hidden backdoors, creating a complex web of mutual surveillance and counter-intelligence operations.",
+  "importance": 9,
+  "location": "Global",
+  "actors": [
+    "Robert Maxwell",
+    "US Intelligence",
+    "Soviet KGB",
+    "Multiple intelligence agencies",
+    "State Department"
+  ],
+  "tags": [
+    "PROMIS software",
+    "global surveillance",
+    "intelligence network",
+    "backdoors",
+    "mutual espionage",
+    "State Department",
+    "embassy surveillance"
+  ],
+  "capture_lanes": [
+    "Surveillance Infrastructure",
+    "Intelligence Penetration"
+  ],
+  "sources": [
+    {
+      "title": "Dirtier than Watergate",
+      "url": "https://www.newstatesman.com/politics/2011/04/promis-government-inslaw",
+      "outlet": "New Statesman",
+      "date": "2011-04-01",
+      "verified": true,
+      "key_facts_confirmed": [
+        "PROMIS distributed to multiple intelligence agencies globally",
+        "Soviets used PROMIS to spy on State Department and 170 embassies",
+        "Created complex web of mutual surveillance operations"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

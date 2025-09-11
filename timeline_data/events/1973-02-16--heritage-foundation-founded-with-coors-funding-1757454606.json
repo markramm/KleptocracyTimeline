@@ -12,8 +12,16 @@
     "Adolph Coors Foundation"
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
-    "https://www.greenpeace.org/usa/the-lewis-powell-memo-corporate-blueprint-to-dominate-democracy/"
+    {
+      "title": "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.greenpeace.org/usa/the-lewis-powell-memo-corporate-blueprint-to-dominate-democracy/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "capture-cascade",
@@ -23,5 +31,8 @@
     "coors-funding"
   ],
   "id": "1973-02-16--heritage-foundation-founded-with-coors-funding-1757454606",
-  "priority_id": "RP-20250109-capture-cascade-part1"
+  "priority_id": "RP-20250109-capture-cascade-part1",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

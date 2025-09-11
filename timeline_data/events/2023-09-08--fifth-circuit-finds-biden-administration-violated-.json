@@ -45,5 +45,13 @@
       "outlet": "Brennan Center for Justice",
       "date": "2024-06-26"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

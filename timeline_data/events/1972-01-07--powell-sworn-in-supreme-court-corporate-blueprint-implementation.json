@@ -1,0 +1,36 @@
+{
+  "id": "1972-01-07--powell-sworn-in-supreme-court-corporate-blueprint-implementation",
+  "date": "1972-01-07",
+  "title": "Lewis Powell Sworn in as Supreme Court Justice, Begins Implementing Corporate Blueprint",
+  "summary": "Lewis F. Powell Jr. is sworn in as Associate Justice of the Supreme Court, confirmed by the Senate 89-1, positioning him to implement the corporate capture strategy he outlined in his secret 1971 memo to the Chamber of Commerce. As a well-connected corporate lawyer who sat on boards of 11 major corporations including Philip Morris, Powell brings systematic understanding of corporate interests to the Court. His appointment represents the successful placement of a corporate capture architect in position to reshape constitutional law in favor of business interests through judicial interpretation.",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Lewis F. Powell Jr.",
+    "Supreme Court",
+    "U.S. Senate"
+  ],
+  "tags": [
+    "Powell Supreme Court",
+    "judicial capture",
+    "corporate interests",
+    "constitutional interpretation"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "Lewis F. Powell Jr. - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Powell sworn in January 7, 1972",
+        "Confirmed by Senate 89-1",
+        "Sat on boards of 11 major corporations including Philip Morris"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

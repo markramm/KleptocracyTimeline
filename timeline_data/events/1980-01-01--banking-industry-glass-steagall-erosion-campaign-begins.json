@@ -1,0 +1,39 @@
+{
+  "id": "1980-01-01--banking-industry-glass-steagall-erosion-campaign-begins",
+  "date": "1980-01-01",
+  "title": "Banking Industry Launches Systematic Campaign to Erode Glass-Steagall Act",
+  "summary": "Large commercial banks begin coordinated lobbying campaign against Glass-Steagall Act restrictions, claiming the Depression-era regulations render them less competitive against foreign securities firms. This systematic effort involves regulatory capture through administrative interpretations, academic influence campaigns to discredit Glass-Steagall's rationale, and legislative pressure for formal repeal. The campaign represents a fundamental shift from compliance with New Deal banking reforms toward aggressive circumvention and ultimate dismantling of financial safeguards separating commercial and investment banking.",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Major commercial banks",
+    "Banking lobbyists",
+    "Federal regulators",
+    "Academic economists"
+  ],
+  "tags": [
+    "Glass-Steagall",
+    "banking deregulation",
+    "regulatory capture",
+    "financial lobbying",
+    "New Deal reforms"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Academic Capture"
+  ],
+  "sources": [
+    {
+      "title": "Decline of the Glass\u2013Steagall Act",
+      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass\u2013Steagall_Act",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Starting in 1970s, large banks pushed back against Glass-Steagall regulations",
+        "Banks claimed regulations made them less competitive against foreign securities firms",
+        "Bankers and regulators began working on ways to overturn the act in 1980s"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

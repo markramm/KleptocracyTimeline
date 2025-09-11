@@ -39,5 +39,10 @@
     }
   ],
   "importance": 9,
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
 }

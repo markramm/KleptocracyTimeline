@@ -2,8 +2,8 @@
   "id": "2025-06-16--trump-organization-announces-mobile-plan-499-smartphone",
   "date": "2025-06-16",
   "title": "Trump Organization announces mobile plan, $499 smartphone",
-  "summary": "The Trump Organization announced a new mobile phone offering–dubbed Trump mobile–and smartphone, capitalizing on the firm’s association with the president",
-  "description": "The Trump Organization announced a new mobile phone offering–dubbed Trump mobile–and smartphone, capitalizing on the firm’s association with the president",
+  "summary": "The Trump Organization announced a new mobile phone offering\u2013dubbed Trump mobile\u2013and smartphone, capitalizing on the firm\u2019s association with the president",
+  "description": "The Trump Organization announced a new mobile phone offering\u2013dubbed Trump mobile\u2013and smartphone, capitalizing on the firm\u2019s association with the president",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -27,5 +27,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -8,7 +8,8 @@
     {
       "url": "https://www.newyorker.com/magazine/2003/05/12/selective-intelligence",
       "title": "Selective Intelligence - Seymour Hersh Investigation",
-      "type": "investigative_report"
+      "type": "investigative_report",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -20,5 +21,13 @@
   ],
   "importance": 8,
   "category": "intelligence_corruption",
-  "verification_status": "documented"
+  "verification_status": "documented",
+  "summary": "Summary needs completion",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-07-14--pam-bondi-ousts-ethics-watchdog-amid-doj-purge",
   "date": "2025-07-14",
   "title": "Pam Bondi ousts ethics watchdog amid DOJ purge",
-  "summary": "Attorney General Pam Bondi fired the Department of Justice ethics director–who was in charge of guiding officials on how to navigate conflicts of interest",
-  "description": "Attorney General Pam Bondi fired the Department of Justice ethics director–who was in charge of guiding officials on how to navigate conflicts of interest",
+  "summary": "Attorney General Pam Bondi fired the Department of Justice ethics director\u2013who was in charge of guiding officials on how to navigate conflicts of interest",
+  "description": "Attorney General Pam Bondi fired the Department of Justice ethics director\u2013who was in charge of guiding officials on how to navigate conflicts of interest",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -35,5 +35,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

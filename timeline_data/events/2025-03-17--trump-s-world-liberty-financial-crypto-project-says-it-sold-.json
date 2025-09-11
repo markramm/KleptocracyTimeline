@@ -1,9 +1,9 @@
 {
   "id": "2025-03-17--trump-s-world-liberty-financial-crypto-project-says-it-sold-",
   "date": "2025-03-17",
-  "title": "Trump’s World Liberty Financial crypto project says it sold $550 million in tokens",
-  "summary": "World Liberty Financial, a crypto venture backed by Trump’s family, announced it raised $250 million in its second token sale, bringing total sales to $550 million",
-  "description": "World Liberty Financial, a crypto venture backed by Trump’s family, announced it raised $250 million in its second token sale, bringing total sales to $550 million",
+  "title": "Trump\u2019s World Liberty Financial crypto project says it sold $550 million in tokens",
+  "summary": "World Liberty Financial, a crypto venture backed by Trump\u2019s family, announced it raised $250 million in its second token sale, bringing total sales to $550 million",
+  "description": "World Liberty Financial, a crypto venture backed by Trump\u2019s family, announced it raised $250 million in its second token sale, bringing total sales to $550 million",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -24,7 +24,7 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Trump’s World Liberty Financial crypto project says it sold $550 million in tokens",
+      "title": "Trump\u2019s World Liberty Financial crypto project says it sold $550 million in tokens",
       "url": "https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html",
       "outlet": "CNBC",
       "date": "2025-03-17"
@@ -66,5 +66,10 @@
   ],
   "notes": "Event from comprehensive kleptocracy timeline tracking.",
   "_merge_note": "Enhanced with information from duplicate event: 2025-03-17--world-liberty-financial-raises-550-million-after-e",
-  "_merge_timestamp": "2025-09-05T23:46:55.903817"
+  "_merge_timestamp": "2025-09-05T23:46:55.903817",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

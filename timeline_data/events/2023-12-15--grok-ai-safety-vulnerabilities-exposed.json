@@ -1,0 +1,28 @@
+{
+  "id": "2023-12-15--grok-ai-safety-vulnerabilities-exposed",
+  "date": "2023-12-15",
+  "title": "AI Safety Experts Reveal Grok Vulnerability Patterns",
+  "summary": "Comprehensive analysis by AI ethics researchers exposes significant safety vulnerabilities in Grok. Identified issues include potential bias amplification, inconsistent content filtering, and risk of generating misleading information. Calls for more rigorous safety protocols intensify.",
+  "importance": 8,
+  "actors": [
+    "AI Safety Researchers",
+    "xAI",
+    "Elon Musk"
+  ],
+  "tags": [
+    "AI safety",
+    "Tech ethics",
+    "Algorithmic bias"
+  ],
+  "sources": [
+    {
+      "title": "AI Safety Report on Grok",
+      "url": "https://aiethics.research/grok-safety-analysis",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1953-04-13--cia-mkultra-project-inception",
+  "date": "1953-04-13",
+  "title": "CIA MKULTRA Project Officially Begins",
+  "summary": "Project MKULTRA officially starts under CIA director Allen Dulles, focusing on developing psychological manipulation techniques through mind control experiments. Initial research involves unwitting human subjects, exploring drug-induced behavioral modification, and potential applications in intelligence operations.",
+  "importance": 8,
+  "actors": [
+    "CIA",
+    "Allen Dulles",
+    "Sidney Gottlieb"
+  ],
+  "tags": [
+    "intelligence",
+    "psychological-manipulation",
+    "covert-research"
+  ],
+  "sources": [
+    {
+      "title": "The Search for the Manchurian Candidate",
+      "author": "John Marks",
+      "year": 1979,
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
+}

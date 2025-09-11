@@ -35,5 +35,10 @@
       "outlet": "Newsweek",
       "date": "2016-03-02"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Legislative Capture",
+    "Financial Capture"
   ]
 }

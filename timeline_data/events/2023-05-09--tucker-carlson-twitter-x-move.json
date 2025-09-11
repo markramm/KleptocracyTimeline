@@ -36,5 +36,9 @@
     }
   ],
   "notes": "No exclusive contract or special deal. Operates as regular creator. Forfeited $25M from Fox. Shows ideological alignment over financial incentive. Platform provided without formal agreement.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
 }

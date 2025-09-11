@@ -8,7 +8,7 @@
     "U.S. Congress",
     "George W. Bush",
     "Senate",
-    "House of Representatives", 
+    "House of Representatives",
     "Telecommunications Companies",
     "AT&T",
     "Verizon"
@@ -43,5 +43,12 @@
       "date": "2015-09-01"
     }
   ],
-  "notes": "The FISA Amendments Act represented Congress's response to the legal crisis created by the revelation of warrantless surveillance programs. The law directed the inspectors general of multiple intelligence agencies to conduct comprehensive reviews of the President's Surveillance Program and its constitutional violations. The telecom immunity provisions effectively ended dozens of lawsuits that could have revealed the full scope of the surveillance programs."
+  "notes": "The FISA Amendments Act represented Congress's response to the legal crisis created by the revelation of warrantless surveillance programs. The law directed the inspectors general of multiple intelligence agencies to conduct comprehensive reviews of the President's Surveillance Program and its constitutional violations. The telecom immunity provisions effectively ended dozens of lawsuits that could have revealed the full scope of the surveillance programs.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

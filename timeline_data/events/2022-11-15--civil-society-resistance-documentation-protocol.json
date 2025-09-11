@@ -1,0 +1,28 @@
+{
+  "id": "2022-11-15--civil-society-resistance-documentation-protocol",
+  "date": "2022-11-15",
+  "title": "Global Civil Society Develops Standardized Resistance Documentation Protocol",
+  "summary": "International NGOs and human rights organizations collaborate to create a standardized documentation framework for tracking and resisting democratic backsliding. The protocol establishes systematic methods for collecting, verifying, and disseminating evidence of institutional capture, creating a transnational resistance infrastructure that can rapidly respond to and document threats to democratic governance.",
+  "importance": 8,
+  "actors": [
+    "International NGO Alliance",
+    "Human Rights Watch",
+    "Amnesty International"
+  ],
+  "tags": [
+    "civil-society-resistance",
+    "documentation-strategy",
+    "transnational-organizing"
+  ],
+  "sources": [
+    {
+      "title": "Resistance Documentation Framework Conference Report",
+      "outlet": "International Civil Society Network",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

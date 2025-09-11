@@ -45,5 +45,8 @@
       "date": "2025-07-24"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

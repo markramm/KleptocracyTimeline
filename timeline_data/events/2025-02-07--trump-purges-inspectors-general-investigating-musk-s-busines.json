@@ -1,9 +1,9 @@
 {
   "id": "2025-02-07--trump-purges-inspectors-general-investigating-musk-s-busines",
   "date": "2025-02-07",
-  "title": "Trump purges inspectors general investigating Musk’s businesses",
-  "summary": "Trump fired over a dozen inspectors general, including at least five agencies that have investigated Elon Musk’s companies",
-  "description": "Trump fired over a dozen inspectors general, including at least five agencies that have investigated Elon Musk’s companies",
+  "title": "Trump purges inspectors general investigating Musk\u2019s businesses",
+  "summary": "Trump fired over a dozen inspectors general, including at least five agencies that have investigated Elon Musk\u2019s companies",
+  "description": "Trump fired over a dozen inspectors general, including at least five agencies that have investigated Elon Musk\u2019s companies",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "personnel_rewiring",
   "sources": [
     {
-      "title": "Trump purges inspectors general investigating Musk’s businesses",
+      "title": "Trump purges inspectors general investigating Musk\u2019s businesses",
       "url": "https://www.levernews.com/trump-purges-inspectors-general-investigating-musks-businesses/",
       "outlet": "Lever News",
       "date": "2025-02-07"
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

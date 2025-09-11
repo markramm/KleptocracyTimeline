@@ -27,5 +27,9 @@
       "outlet": "New York Times",
       "date": "2017-04-08"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture"
   ]
 }

@@ -37,5 +37,8 @@
       "date": "2024-01-01"
     }
   ],
-  "notes": "Trump's team requested deadline extension and raised claims about presidential declassification\nauthority without asserting Trump had actually declassified the documents. The indictment later\nalleged Trump directed boxes be moved before his attorney's June 2 search, ensuring the attorney\nwould not locate all responsive documents."
+  "notes": "Trump's team requested deadline extension and raised claims about presidential declassification\nauthority without asserting Trump had actually declassified the documents. The indictment later\nalleged Trump directed boxes be moved before his attorney's June 2 search, ensuring the attorney\nwould not locate all responsive documents.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

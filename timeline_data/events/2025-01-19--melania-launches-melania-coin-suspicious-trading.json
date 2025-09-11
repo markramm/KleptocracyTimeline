@@ -31,5 +31,10 @@
       "date": "2025-01-19"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -8,9 +8,21 @@
   ],
   "importance": 10,
   "sources": [
-    "CNBC",
-    "Wall Street Journal",
-    "Russian Influence Networks analysis"
+    {
+      "title": "CNBC",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Wall Street Journal",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "musk-putin",
@@ -20,5 +32,9 @@
   ],
   "status": "confirmed",
   "id": "2022-10-01--musk-begins-regular-contact-with-vladimir-putin-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

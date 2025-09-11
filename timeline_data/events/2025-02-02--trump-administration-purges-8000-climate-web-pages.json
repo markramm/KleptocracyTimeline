@@ -45,5 +45,10 @@
     }
   ],
   "notes": "EPA removed EJScreen environmental justice mapping tool on Feb 5; over dozen climate analysis tools removed in first 3 weeks",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

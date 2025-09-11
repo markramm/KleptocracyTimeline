@@ -40,5 +40,9 @@
       "outlet": "Office of Director of National Intelligence",
       "date": "2008-08-27"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
   ]
 }

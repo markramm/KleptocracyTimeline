@@ -39,5 +39,12 @@
       "outlet": "Washington Post",
       "date": "2007-08-27"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
   ]
 }

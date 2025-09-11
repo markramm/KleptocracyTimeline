@@ -1,0 +1,43 @@
+{
+  "id": "1984-03-01--empire-savings-failure-exposes-systematic-fraud",
+  "date": "1984-03-01",
+  "title": "Empire Savings Failure Exposes Land Flip Fraud Networks",
+  "summary": "The failure of Empire Savings of Mesquite, Texas exposes systematic \"land flip\" fraud schemes that would eventually cost taxpayers $300 million. The failure reveals coordinated criminal networks exploiting deregulated thrift powers, including inflated real estate appraisals, circular lending arrangements, and accounting manipulation. This failure marks the turning point for FHLBB Chairman Edwin Gray, who begins reversing deregulatory policies despite opposition from the Reagan administration and industry groups. The Empire case demonstrates how Garn-St Germain deregulation enabled sophisticated fraud operations across the thrift network.",
+  "importance": 7,
+  "location": "Mesquite, Texas",
+  "actors": [
+    "Empire Savings",
+    "Edwin Gray",
+    "Federal Home Loan Bank Board",
+    "Texas Real Estate Networks",
+    "Reagan Administration"
+  ],
+  "tags": [
+    "empire_savings",
+    "land_flip_fraud",
+    "s&l_crisis",
+    "edwin_gray",
+    "systematic_fraud",
+    "texas_thrifts"
+  ],
+  "capture_lanes": [
+    "Financial Regulatory Capture"
+  ],
+  "sources": [
+    {
+      "title": "Savings and Loan Crisis",
+      "url": "https://www.federalreservehistory.org/essays/savings-and-loan-crisis",
+      "outlet": "Federal Reserve History",
+      "date": "2013-11-22",
+      "verified": true
+    },
+    {
+      "title": "The S&L Crisis: A Chrono-Bibliography",
+      "url": "https://www.fdic.gov/publications/sl-crisis-chrono-bibliography",
+      "outlet": "Federal Deposit Insurance Corporation",
+      "date": "2024-01-01",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

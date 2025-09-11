@@ -1,7 +1,7 @@
 {
   "id": "2025-05-15--political-committees-have-spent-675k-at-trump-properties-sin",
   "date": "2025-05-15",
-  "title": "Political committees have spent $675K at Trump properties since Trump’s reelection",
+  "title": "Political committees have spent $675K at Trump properties since Trump\u2019s reelection",
   "summary": "Republican-linked political committees have spent more than $675,000 at Trump properties in the six months following the 2024 election, helping line the president's pockets",
   "description": "Republican-linked political committees have spent more than $675,000 at Trump properties in the six months following the 2024 election, helping line the president's pockets",
   "status": "confirmed",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Political committees have spent $675K at Trump properties since Trump’s reelection",
+      "title": "Political committees have spent $675K at Trump properties since Trump\u2019s reelection",
       "url": "https://www.citizensforethics.org/reports-investigations/crew-investigations/political-committees-have-spent-675k-at-trump-properties-since-trumps-reelection/",
       "outlet": "CREW",
       "date": "2025-05-15"
@@ -27,5 +27,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns."
+  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "capture_lanes": [
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "2025-01-15--baseline-test-1757510836",
+  "date": "2025-01-15",
+  "title": "Performance Baseline Test Event",
+  "summary": "Single agent performance baseline test for system scalability assessment.",
+  "importance": 4,
+  "tags": [
+    "performance-test",
+    "baseline"
+  ],
+  "actors": [
+    "Test Actor"
+  ],
+  "sources": [
+    {
+      "title": "Baseline Source",
+      "url": "https://example.com",
+      "outlet": "Test"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

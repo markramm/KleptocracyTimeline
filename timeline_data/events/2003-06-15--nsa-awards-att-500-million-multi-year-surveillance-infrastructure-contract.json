@@ -8,7 +8,8 @@
     {
       "url": "https://www.documentcloud.org/documents/nsa-telecommunications-contracts",
       "title": "NSA Telecommunications Contracts Database",
-      "type": "government_contract"
+      "type": "government_contract",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -25,5 +26,8 @@
   "actors": [
     "Bush Administration"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

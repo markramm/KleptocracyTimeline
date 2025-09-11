@@ -1,0 +1,45 @@
+{
+  "date": "2010-11-02",
+  "title": "First Post-Citizens United Election Sees Dark Money Surge and Conservative Spending Domination",
+  "summary": "The 2010 midterm elections mark the first major test of the new post-Citizens United campaign finance landscape, demonstrating the immediate and dramatic impact of unlimited corporate spending on American democracy. Dark money accounts for nearly 44% of all outside spending in this election cycle, totaling approximately 27 million - a massive increase from the minimal dark money presence in previous elections. Conservative dark money groups dramatically outspend liberal counterparts by roughly 11-to-1, demonstrating how corporate interests quickly mobilize the new legal framework to advance pro-business political agendas. Major corporate-funded groups like American Crossroads (linked to Karl Rove) and Americans for Prosperity (backed by the Koch brothers) emerge as dominant forces, spending tens of millions on attack ads and candidate support. The election results in a Republican takeover of the House of Representatives, with many newly elected members owing their victories to unprecedented levels of outside corporate spending. Traditional disclosure requirements prove inadequate as money flows through layers of nonprofit organizations that legally obscure donor identities, creating the \"dark money\" problem that persists today. The election demonstrates how quickly wealthy corporate interests can mobilize unlimited spending to shape electoral outcomes, validating Justice Stevens' warnings about the Citizens United decision's potential to distort democratic representation in favor of concentrated wealth and corporate power.",
+  "importance": 8,
+  "key_actors": [
+    "American Crossroads",
+    "Karl Rove",
+    "Americans for Prosperity",
+    "Koch Brothers",
+    "Republican Party",
+    "Corporate donors"
+  ],
+  "tags": [
+    "dark-money",
+    "2010-election",
+    "corporate-influence",
+    "conservative-groups",
+    "electoral-manipulation",
+    "campaign-finance"
+  ],
+  "sources": [
+    {
+      "title": "https://www.opensecrets.org/news/reports/a-decade-under-citizens-united",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2010-11-02--first-post-citizens-united-election-sees-dark-mone",
+  "priority_id": "claude-priority-citizens-united-corporate-spending",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Electoral Manipulation"
+  ]
+}

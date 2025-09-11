@@ -1,0 +1,24 @@
+{
+  "id": "2025-01-02--api-validation-test",
+  "date": "2025-01-02",
+  "title": "API Validation Test",
+  "summary": "Testing API validation",
+  "importance": 7,
+  "actors": [
+    "single-actor-string"
+  ],
+  "sources": [
+    {
+      "title": "single-source-string",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "single-tag"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

@@ -2,8 +2,8 @@
   "id": "2025-07-10--this-is-doge-2-0",
   "date": "2025-07-10",
   "title": "This Is DOGE 2.0",
-  "summary": "Though Elon Musk is no longer working for the Trump administration, DOGE operatives are still installed in different positions across governmental agencies–where they have access to sensitive data and continue to take direction from Musk allies via encrypted messaging apps",
-  "description": "Though Elon Musk is no longer working for the Trump administration, DOGE operatives are still installed in different positions across governmental agencies–where they have access to sensitive data and continue to take direction from Musk allies via encrypted messaging apps",
+  "summary": "Though Elon Musk is no longer working for the Trump administration, DOGE operatives are still installed in different positions across governmental agencies\u2013where they have access to sensitive data and continue to take direction from Musk allies via encrypted messaging apps",
+  "description": "Though Elon Musk is no longer working for the Trump administration, DOGE operatives are still installed in different positions across governmental agencies\u2013where they have access to sensitive data and continue to take direction from Musk allies via encrypted messaging apps",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

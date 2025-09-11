@@ -10,8 +10,16 @@
     "U.S. Chamber of Commerce"
   ],
   "sources": [
-    "https://scholarlycommons.law.wlu.edu/powellmemo/",
-    "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+    {
+      "title": "https://scholarlycommons.law.wlu.edu/powellmemo/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "capture-cascade",
@@ -21,5 +29,9 @@
     "chamber-of-commerce"
   ],
   "id": "1971-08-23--lewis-powell-authors-corporate-blueprint-memo-1757454606",
-  "priority_id": "RP-20250109-capture-cascade-part1"
+  "priority_id": "RP-20250109-capture-cascade-part1",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture"
+  ]
 }

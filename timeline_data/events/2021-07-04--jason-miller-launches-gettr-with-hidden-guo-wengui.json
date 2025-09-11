@@ -1,0 +1,39 @@
+{
+  "date": "2021-07-04",
+  "title": "Jason Miller Launches Gettr with Hidden Guo Wengui Funding",
+  "summary": "Former Trump aide Jason Miller officially launched Gettr, an alt-tech social media platform targeting American conservatives, with initial funding from a foundation owned by Chinese exile billionaire Guo Wengui and his family. While Miller described financing as coming from a \"consortium of international investors,\" he confirmed Guo's family foundation provided early funding. The platform had previously existed as a Chinese-language social media network linked to Guo before being rebranded as Miller's conservative platform. Gettr provided 0,000 to Bannon's \"War Room\" podcast, demonstrating continued financial connections between the Guo network and Trump-aligned media operations. The hidden Chinese funding of a platform marketed to American conservatives represented a significant foreign influence operation in US political discourse.",
+  "actors": [
+    "Jason Miller",
+    "Guo Wengui",
+    "Gettr",
+    "Steve Bannon",
+    "War Room podcast"
+  ],
+  "tags": [
+    "social-media",
+    "foreign-funding",
+    "conservative-platform",
+    "hidden-influence"
+  ],
+  "importance": 8,
+  "sources": [
+    {
+      "title": "https://www.thedailybeast.com/trumpworld-app-is-bankrolled-by-fugitive-chinese-billionaire/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.washingtonpost.com/technology/2023/03/26/gettr-guo-wengui-social-media/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2021-07-04--jason-miller-launches-gettr-with-hidden-guo-wengui",
+  "priority_id": "RT-EXP-2E557553-gettr-jason-miller-chinese-funding",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

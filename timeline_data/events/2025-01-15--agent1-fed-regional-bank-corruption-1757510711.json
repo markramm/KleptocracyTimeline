@@ -1,0 +1,28 @@
+{
+  "id": "2025-01-15--agent1-fed-regional-bank-corruption-1757510711",
+  "date": "2025-01-15",
+  "title": "Agent 1 Test: Fed Regional Bank Corruption Analysis",
+  "summary": "Research Agent 1 scalability test event for priority RT-4C056BCA-blackwater-pmc-founding. Testing concurrent API operations and duplicate detection for Fed Regional Bank corruption research.",
+  "importance": 6,
+  "tags": [
+    "scalability-test",
+    "agent-1",
+    "federal-reserve",
+    "corruption"
+  ],
+  "actors": [
+    "Federal Reserve",
+    "Regional Banks"
+  ],
+  "sources": [
+    {
+      "title": "Test Source",
+      "url": "https://example.com/test",
+      "outlet": "Test Outlet"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

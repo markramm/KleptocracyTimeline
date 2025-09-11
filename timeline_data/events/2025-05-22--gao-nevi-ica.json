@@ -3,7 +3,7 @@
   "title": "GAO finds unlawful withholding of EV charger funds (NEVI)",
   "date": "2025-05-22",
   "importance": 6,
-  "summary": "GAO concluded that DOT’s actions on NEVI funds violated the Impoundment Control Act, finding funds were unlawfully withheld.",
+  "summary": "GAO concluded that DOT\u2019s actions on NEVI funds violated the Impoundment Control Act, finding funds were unlawfully withheld.",
   "actors": [
     "GAO",
     "DOT",
@@ -33,5 +33,8 @@
       "outlet": "Government Executive",
       "date": "2025-05-22"
     }
+  ],
+  "capture_lanes": [
+    "Systematic Corruption"
   ]
 }

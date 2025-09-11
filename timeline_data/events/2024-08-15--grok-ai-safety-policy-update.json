@@ -1,0 +1,29 @@
+{
+  "id": "2024-08-15--grok-ai-safety-policy-update",
+  "date": "2024-08-15",
+  "title": "Grok AI Implements Enhanced Safety Protocols After Regulatory Pressure",
+  "summary": "Following months of scrutiny, xAI announces significant updates to Grok AI's content moderation and bias mitigation strategies. New transparency measures include external audit processes and enhanced ethical training datasets.",
+  "importance": 7,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Ethics Review Board"
+  ],
+  "tags": [
+    "AI safety",
+    "Tech ethics",
+    "Corporate accountability"
+  ],
+  "sources": [
+    {
+      "title": "xAI Safety Policy Update Press Release",
+      "url": "https://x.ai/safety-update",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
+}

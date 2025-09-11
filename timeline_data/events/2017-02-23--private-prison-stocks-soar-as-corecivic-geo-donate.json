@@ -39,5 +39,11 @@
       "outlet": "Mother Jones",
       "date": "2017-08-01"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
   ]
 }

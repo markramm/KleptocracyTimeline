@@ -45,5 +45,9 @@
       "outlet": "CNN",
       "date": "2025-08-07"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
   ]
 }

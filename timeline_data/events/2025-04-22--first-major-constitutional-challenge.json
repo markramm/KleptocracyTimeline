@@ -1,0 +1,30 @@
+{
+  "id": "2025-04-22--first-major-constitutional-challenge",
+  "date": "2025-04-22",
+  "title": "Coordinated Constitutional Challenge Filed",
+  "summary": "Legal resistance network files simultaneous federal lawsuits in multiple jurisdictions challenging recent executive orders that potentially violate constitutional separation of powers.",
+  "importance": 9,
+  "actors": [
+    "ACLU",
+    "Protect Democracy",
+    "State Attorney Generals"
+  ],
+  "sources": [
+    {
+      "title": "Multistate Lawsuit Filing",
+      "url": "https://aclu.org/constitutional-challenge",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "Litigation",
+    "Constitutional defense",
+    "Legal networks"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

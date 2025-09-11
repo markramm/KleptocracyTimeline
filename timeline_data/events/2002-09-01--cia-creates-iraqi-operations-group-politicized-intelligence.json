@@ -5,7 +5,7 @@
   "summary": "CIA Director George Tenet establishes the Iraqi Operations Group within the Counterterrorism Center, bypassing traditional intelligence analysis chains. The group was created under intense White House pressure to find intelligence supporting predetermined policy conclusions about Iraqi WMD and al-Qaeda connections. Senate Intelligence Committee later found this represented unprecedented politicization of CIA analysis, with analysts reporting they felt pressured to conform intelligence to policy preferences.",
   "actors": [
     "George Tenet",
-    "Dick Cheney", 
+    "Dick Cheney",
     "Scooter Libby",
     "Iraqi Operations Group",
     "CIA Counterterrorism Center"
@@ -33,10 +33,16 @@
     {
       "url": "https://www.nytimes.com/2004/07/10/politics/cia-was-pushed-to-alter-view-of-iraq-threat-report-says.html",
       "title": "CIA Was Pushed to Alter View of Iraq Threat, Report Says",
-      "outlet": "New York Times", 
+      "outlet": "New York Times",
       "date": "2004-07-10"
     }
   ],
   "importance": 9,
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

@@ -27,7 +27,7 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "Key Players in the Valerie Plame Affair", 
+      "title": "Key Players in the Valerie Plame Affair",
       "url": "https://www.washingtonpost.com/wp-srv/politics/special/plame/Plame_KeyPlayers.html",
       "outlet": "Washington Post",
       "date": "2007-07-03"
@@ -35,7 +35,7 @@
     {
       "title": "23 Administration Officials Involved In Plame Leak",
       "url": "https://thinkprogress.org/23-administration-officials-involved-in-plame-leak-ea5a42de4684/",
-      "outlet": "Think Progress", 
+      "outlet": "Think Progress",
       "date": "2005-10-21"
     },
     {
@@ -44,5 +44,12 @@
       "outlet": "Time Magazine",
       "date": "2003-07-17"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

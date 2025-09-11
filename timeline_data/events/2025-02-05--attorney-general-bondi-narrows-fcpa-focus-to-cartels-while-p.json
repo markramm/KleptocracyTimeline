@@ -40,5 +40,9 @@
     "regulatory-destruction",
     "competitive-corruption"
   ],
-  "notes": "This event represents significant kleptocratic capture and institutional destruction."
+  "notes": "This event represents significant kleptocratic capture and institutional destruction.",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

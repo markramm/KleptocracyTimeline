@@ -38,5 +38,9 @@
       "date": "2025-02-01"
     }
   ],
-  "notes": "Law enforcement officials tracked Coristine in cybercrime chat rooms under usernames\n\"Rivage\" and \"JoeyCrafter.\" In November 2022, \"JoeyCrafter\" posted seeking \"capable,\npowerful & reliable L7\" referring to Layer 7 DDoS attacks. EGodly thanked DiamondCDN\nin 2023 for providing \"amazing DDoS protection and caching systems.\""
+  "notes": "Law enforcement officials tracked Coristine in cybercrime chat rooms under usernames\n\"Rivage\" and \"JoeyCrafter.\" In November 2022, \"JoeyCrafter\" posted seeking \"capable,\npowerful & reliable L7\" referring to Layer 7 DDoS attacks. EGodly thanked DiamondCDN\nin 2023 for providing \"amazing DDoS protection and caching systems.\"",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

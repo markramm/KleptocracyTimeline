@@ -1,0 +1,28 @@
+{
+  "id": "2025-04-22--rapid-response-litigation-protocol",
+  "date": "2025-04-22",
+  "title": "Rapid Response Litigation Protocol Developed",
+  "summary": "Legal resistance network establishes a rapid response protocol for challenging unconstitutional administrative actions. The protocol includes 24-hour emergency legal review, pre-prepared litigation templates, and a coordinated media strategy to support constitutional challenges.",
+  "importance": 8,
+  "actors": [
+    "Constitutional Defense Network",
+    "Emergency Legal Response Team"
+  ],
+  "sources": [
+    {
+      "title": "Rapid Response Litigation Protocol Report",
+      "url": "https://constitutionaldefense.org/rapid-response-protocol",
+      "outlet": "Legal Innovation Quarterly"
+    }
+  ],
+  "tags": [
+    "rapid-response",
+    "legal-strategy",
+    "constitutional-defense"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
+}

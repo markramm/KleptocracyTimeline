@@ -8,8 +8,16 @@
   ],
   "importance": 8,
   "sources": [
-    "Hillbilly Elegy book",
-    "Private messages later revealed"
+    {
+      "title": "Hillbilly Elegy book",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Private messages later revealed",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "hillbilly-elegy",
@@ -19,5 +27,8 @@
   ],
   "status": "confirmed",
   "id": "2016-06-28--hillbilly-elegy-published--vance-as-trump-critic-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

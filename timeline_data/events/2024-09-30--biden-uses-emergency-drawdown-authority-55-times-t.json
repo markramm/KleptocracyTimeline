@@ -44,5 +44,11 @@
       "outlet": "CNN",
       "date": "2024-11-27"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

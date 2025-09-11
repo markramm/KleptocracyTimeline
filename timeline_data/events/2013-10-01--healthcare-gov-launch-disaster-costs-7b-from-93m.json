@@ -39,5 +39,9 @@
       "outlet": "Politico",
       "date": "2015-04-28"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
   ]
 }

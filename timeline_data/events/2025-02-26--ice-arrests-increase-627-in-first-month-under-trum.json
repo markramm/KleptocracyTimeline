@@ -51,5 +51,8 @@
   ],
   "status": "confirmed",
   "_merge_note": "Enhanced with information from duplicate event: 2025-02-26--ice-arrests-increase-627-percent-under-trump",
-  "_merge_timestamp": "2025-09-05T23:46:55.903457"
+  "_merge_timestamp": "2025-09-05T23:46:55.903457",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

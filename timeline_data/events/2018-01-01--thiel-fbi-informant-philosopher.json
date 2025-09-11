@@ -34,5 +34,8 @@
     }
   ],
   "notes": "Sophisticated Russian approach targeting tech leaders",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

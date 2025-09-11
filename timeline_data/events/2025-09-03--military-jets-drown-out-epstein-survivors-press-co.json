@@ -36,5 +36,10 @@
       "outlet": "NPR",
       "date": "2025-09-03"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Executive Power Expansion"
   ]
 }

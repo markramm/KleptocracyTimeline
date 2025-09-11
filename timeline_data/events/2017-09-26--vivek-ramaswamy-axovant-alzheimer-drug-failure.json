@@ -21,7 +21,7 @@
   ],
   "sources": [
     {
-      "title": "Vivek Ramaswamy Is a Fraud—and Always Has Been",
+      "title": "Vivek Ramaswamy Is a Fraud\u2014and Always Has Been",
       "url": "https://www.newsweek.com/vivek-ramaswamy-fraud-always-has-been-opinion-1823853",
       "outlet": "Newsweek",
       "date": "2023-08-16"
@@ -39,5 +39,10 @@
       "date": "2024-11-25"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

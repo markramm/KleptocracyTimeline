@@ -46,5 +46,8 @@
     }
   ],
   "notes": "Multiple climate websites taken offline as part of dismantling. Program tracked global climate change and shaped regulations across government. Under Vought's proposal, USGCRP would be \"confined to more limited advisory role\" because \"USGCRP actions can frustrate successful litigation defense.\" OMB would select researchers who question human contributions to climate change, give equal weight to industry studies.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

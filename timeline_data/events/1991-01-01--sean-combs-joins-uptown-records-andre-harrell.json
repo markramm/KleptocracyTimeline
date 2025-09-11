@@ -31,5 +31,8 @@
       "date": "2025-01-27"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

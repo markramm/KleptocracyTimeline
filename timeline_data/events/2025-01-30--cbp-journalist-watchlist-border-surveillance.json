@@ -1,0 +1,33 @@
+{
+  "date": "2025-01-30",
+  "title": "CBP Journalist Watchlist and Border Surveillance Program Documented",
+  "summary": "Customs and Border Protection maintains secret database monitoring journalists movements and creates watchlist of \"Suspected Organizers, Coordinators, Instigators and Media\" including 10 journalists with detailed dossiers. Program enables systematic secondary screening at borders, electronic device searches, and movement tracking of press covering immigration and national security, demonstrating coordinated surveillance infrastructure.",
+  "actors": [
+    "CBP",
+    "Targeted Journalists",
+    "Immigration Advocates",
+    "DHS"
+  ],
+  "sources": [
+    {
+      "title": "How Trump's first administration threatened press freedom at the border",
+      "url": "https://www.rcfp.org/trump-press-freedom-border/",
+      "outlet": "Reporters Committee for Freedom of the Press"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "cbp_surveillance",
+    "journalist_watchlist",
+    "border_surveillance",
+    "systematic_monitoring",
+    "press_intimidation"
+  ],
+  "status": "confirmed",
+  "id": "2025-01-30--cbp-journalist-watchlist-border-surveillance",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

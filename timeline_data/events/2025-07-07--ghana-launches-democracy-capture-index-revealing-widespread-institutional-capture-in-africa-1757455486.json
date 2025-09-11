@@ -11,10 +11,26 @@
     "Media institutions"
   ],
   "sources": [
-    "https://citinewsroom.com/2025/07/cdd-ghana-urges-media-csos-to-resist-democracy-capture-in-africa/",
-    "https://www.newsghana.com.gh/cdd-ghana-launches-democracy-capture-index-amid-media-vulnerability-warning/",
-    "https://gna.org.gh/2025/07/new-cdd-report-finds-worrying-levels-of-democracy-capture-in-africa/",
-    "https://cddgh.org/"
+    {
+      "title": "https://citinewsroom.com/2025/07/cdd-ghana-urges-media-csos-to-resist-democracy-capture-in-africa/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.newsghana.com.gh/cdd-ghana-launches-democracy-capture-index-amid-media-vulnerability-warning/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://gna.org.gh/2025/07/new-cdd-report-finds-worrying-levels-of-democracy-capture-in-africa/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://cddgh.org/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -28,5 +44,8 @@
   ],
   "status": "confirmed",
   "id": "2025-07-07--ghana-launches-democracy-capture-index-revealing-widespread-institutional-capture-in-africa-1757455486",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-14"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-14",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

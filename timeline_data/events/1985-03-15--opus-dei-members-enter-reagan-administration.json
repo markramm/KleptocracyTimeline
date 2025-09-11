@@ -1,0 +1,35 @@
+{
+  "date": "1985-03-15",
+  "title": "Opus Dei Members Enter Reagan Administration",
+  "summary": "Several Opus Dei members and sympathizers gain positions in the Reagan Administration, including key roles in economic policy and judicial nominations. This marks the beginning of systematic Opus Dei influence in Republican politics, particularly around conservative economic and social policies.",
+  "importance": 8,
+  "actors": [
+    "Ronald Reagan",
+    "Opus Dei Members",
+    "Republican Party"
+  ],
+  "sources": [
+    {
+      "title": "Opus Dei in American Politics",
+      "url": "https://www.motherjones.com/politics/2005/04/opus-dei-in-the-white-house/",
+      "outlet": "Mother Jones"
+    },
+    {
+      "title": "Conservative Catholics in Reagan Era",
+      "url": "https://www.americamagazine.org/faith/2019/05/13/how-conservative-catholics-learned-play-politics",
+      "outlet": "America Magazine"
+    }
+  ],
+  "tags": [
+    "reagan-administration",
+    "opus-dei",
+    "republican-politics",
+    "conservative-influence"
+  ],
+  "status": "confirmed",
+  "id": "1985-03-15--opus-dei-members-enter-reagan-administration",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "2025-01-20--legal-resistance-network-launch",
+  "date": "2025-01-20",
+  "title": "Constitutional Defense Legal Network Established",
+  "summary": "Leading civil rights attorneys and legal organizations form a coordinated nationwide network to challenge unconstitutional policy implementations and protect fundamental rights. The network develops shared litigation strategies and pro bono support mechanisms.",
+  "importance": 8,
+  "actors": [
+    "Civil Rights Legal Coalition",
+    "Pro Bono Defense Network"
+  ],
+  "sources": [
+    {
+      "title": "Legal Resistance Network Formation Report",
+      "url": "https://constitutionaldefense.org/network-launch",
+      "outlet": "Constitutional Defense Journal"
+    }
+  ],
+  "tags": [
+    "legal-resistance",
+    "constitutional-defense",
+    "pro-bono-litigation"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

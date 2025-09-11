@@ -41,5 +41,11 @@
       "outlet": "CBS News",
       "date": "2004-10-28"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

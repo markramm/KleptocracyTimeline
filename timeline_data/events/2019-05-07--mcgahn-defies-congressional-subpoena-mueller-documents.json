@@ -1,0 +1,34 @@
+{
+  "date": "2019-05-07",
+  "title": "Don McGahn Defies Congressional Subpoena for Mueller-Related Documents",
+  "summary": "Former White House Counsel Donald McGahn, at White House instruction, refuses to provide documents to House Judiciary Committee related to Russia investigation and potential obstruction of justice. McGahn was a critical witness to alleged obstruction instances described in Mueller report, making his defiance a key component of systematic obstruction strategy.",
+  "actors": [
+    "Donald McGahn",
+    "White House",
+    "House Judiciary Committee",
+    "William Burck"
+  ],
+  "sources": [
+    {
+      "title": "Ex-White House lawyer Don McGahn defies House subpoena for Mueller docs",
+      "url": "https://www.pbs.org/newshour/politics/white-house-tells-former-counsel-mcghan-not-to-comply-with-subpoena",
+      "outlet": "PBS NewsHour"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "don_mcgahn",
+    "mueller_investigation",
+    "subpoena_defiance",
+    "white_house_obstruction",
+    "congressional_oversight"
+  ],
+  "status": "confirmed",
+  "id": "2019-05-07--mcgahn-defies-congressional-subpoena-mueller-documents",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

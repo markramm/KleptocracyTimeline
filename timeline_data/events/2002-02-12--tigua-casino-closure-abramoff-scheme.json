@@ -1,0 +1,31 @@
+{
+  "id": "2002-02-12--tigua-casino-closure-abramoff-scheme",
+  "date": "2002-02-12",
+  "title": "Tigua Casino Closes After Abramoff Double-Dealing Scheme Success",
+  "summary": "The Tigua tribe's Speaking Rock Casino officially closes after Jack Abramoff successfully lobbied for a Texas gambling ban while simultaneously charging the Tigua .2 million to reopen the same casino he had helped shut down. This exemplifies the fraudulent \"both sides\" strategy that defined Abramoff's tribal lobbying operations.",
+  "actors": [
+    "Jack Abramoff",
+    "Tigua Tribe",
+    "Ralph Reed",
+    "Texas Legislature"
+  ],
+  "sources": [
+    {
+      "title": "Jack Abramoff Indian lobbying scandal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal",
+      "outlet": "Wikipedia"
+    }
+  ],
+  "importance": 6,
+  "tags": [
+    "abramoff",
+    "tigua_tribe",
+    "texas_gambling",
+    "double_dealing",
+    "fraud"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
+}

@@ -39,5 +39,12 @@
       "outlet": "House Judiciary Committee",
       "date": "2007-09-13"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

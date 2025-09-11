@@ -1,0 +1,34 @@
+{
+  "id": "2020-02-27--clarida-fed-bond-fund-trades",
+  "date": "2020-02-27",
+  "title": "Fed Vice Chair Clarida Trades Millions Before Rate Cuts",
+  "summary": "Federal Reserve Vice Chairman Richard Clarida rotated between $1-5 million from Pimco bond funds into stock funds on February 27, 2020, just one day before Fed Chair Powell's emergency statement about coronavirus risks and weeks before the Fed began aggressive interest rate cuts. Clarida's trades demonstrate systematic pattern where Fed officials exploit advance knowledge of monetary policy decisions for personal financial gain, representing institutional capture where central bank independence is compromised by officials' personal trading activities.",
+  "importance": 8,
+  "tags": [
+    "federal_reserve",
+    "trading_scandal",
+    "conflict_of_interest",
+    "richard_clarida",
+    "insider_trading",
+    "monetary_policy",
+    "institutional_corruption"
+  ],
+  "actors": [
+    "Richard Clarida",
+    "Federal Reserve Board",
+    "Jerome Powell"
+  ],
+  "sources": [
+    {
+      "url": "https://www.wsj.com/articles/fed-officials-financial-disclosures-show-active-trading-in-2020-11632821201",
+      "title": "Fed Officials' Financial Disclosures Show Active Trading in 2020",
+      "outlet": "Wall Street Journal",
+      "date": "2021-09-28"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

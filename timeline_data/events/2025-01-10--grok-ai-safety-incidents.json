@@ -1,0 +1,28 @@
+{
+  "id": "2025-01-10--grok-ai-safety-incidents",
+  "date": "2025-01-10",
+  "title": "Grok AI Safety Incidents Reveal Systemic Epistemic Rigidity",
+  "summary": "High-profile AI safety incidents involving Grok reveal significant epistemic rigidity, with the system demonstrating persistent incorrect reasoning patterns that resist correction, prompting urgent industry-wide review of AI cognitive architectures.",
+  "importance": 8,
+  "actors": [
+    "xAI",
+    "Elon Musk",
+    "AI Safety Review Board"
+  ],
+  "sources": [
+    {
+      "title": "Grok AI Safety Incident Report",
+      "url": "https://x.ai/safety-report",
+      "outlet": "xAI Internal Documentation"
+    }
+  ],
+  "tags": [
+    "AI Safety",
+    "Machine Learning Failures",
+    "Epistemic rigidity"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1994-01-01--abramoff-preston-gates-tribal-lobbying-launch",
+  "date": "1994-01-01",
+  "title": "Jack Abramoff Joins Preston Gates - Launches Tribal Lobbying Practice",
+  "summary": "Jack Abramoff joins the Seattle-based lobbying firm Preston Gates & Ellis, where he would develop a lucrative but fraudulent tribal casino lobbying practice. The Mississippi Band of Choctaw Indians would become his first major tribal client after Republican electoral victories in 1994 eliminated many of their traditional Congressional allies.",
+  "actors": [
+    "Jack Abramoff",
+    "Preston Gates & Ellis",
+    "Mississippi Band of Choctaw Indians"
+  ],
+  "sources": [
+    {
+      "title": "How scheming lobbyist operated in Seattle firm",
+      "url": "https://archive.seattletimes.com/archive/20060207/prestongates07m/how-scheming-lobbyist-operated-in-seattle-firm",
+      "outlet": "Seattle Times"
+    }
+  ],
+  "importance": 6,
+  "tags": [
+    "abramoff",
+    "preston_gates",
+    "tribal_lobbying",
+    "lobbying_corruption"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Electoral Manipulation"
+  ]
+}

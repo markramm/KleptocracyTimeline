@@ -43,5 +43,9 @@
     }
   ],
   "notes": "Financial schemes funding political influence operations",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

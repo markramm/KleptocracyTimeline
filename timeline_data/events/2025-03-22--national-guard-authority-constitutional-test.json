@@ -1,0 +1,33 @@
+{
+  "id": "2025-03-22--national-guard-authority-constitutional-test",
+  "date": "2025-03-22",
+  "title": "National Guard Deployment Triggers Major Constitutional Showdown",
+  "summary": "A disputed presidential order federalizing state National Guard units leads to a complex legal battle, with multiple governors challenging the executive authority. Federal courts issue contradictory injunctions, revealing deep institutional strain and unclear constitutional boundaries for military chain of command during potential crisis scenarios.",
+  "importance": 8,
+  "actors": [
+    "State Governors",
+    "President",
+    "Federal Courts",
+    "National Guard"
+  ],
+  "tags": [
+    "national-guard",
+    "constitutional-crisis",
+    "executive-power",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Constitutional Analysis Report",
+      "url": "https://example.com/national-guard-crisis-2025",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

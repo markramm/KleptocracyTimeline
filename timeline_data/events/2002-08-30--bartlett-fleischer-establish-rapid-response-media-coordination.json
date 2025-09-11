@@ -6,7 +6,7 @@
   "summary": "White House Communications Director Dan Bartlett and Press Secretary Ari Fleischer establish systematic rapid response coordination with television network reporters and executives to ensure synchronized administration messaging during the Iraq campaign rollout. Building on Bartlett's 2000 campaign experience in rapid response operations, the duo creates infrastructure for real-time coordination with network correspondents, including advance briefings for key reporters and systematic follow-up with network executives. The coordination system includes pre-arranged contacts with reporters covering the administration, strategic leak management, and systematic coordination with network booking departments to ensure administration officials receive favorable scheduling and treatment. Fleischer coordinates daily press briefings with advance talking points distribution, while Bartlett manages longer-term strategic communication with network executives and senior correspondents. The infrastructure enables the administration to push specific narratives to targeted reporters while coordinating broader messaging campaigns across multiple networks simultaneously. This systematic approach transforms episodic media relations into permanent coordination infrastructure, establishing institutional relationships that extend beyond individual stories to encompass systematic message coordination. The Bartlett-Fleischer operation represents the systematization of government-media coordination that enables sustained propaganda campaigns through institutional cooperation rather than coercion.",
   "actors": [
     "Dan Bartlett",
-    "Ari Fleischer", 
+    "Ari Fleischer",
     "White House Iraq Group",
     "television network reporters",
     "network correspondents",
@@ -32,7 +32,7 @@
       "date": "2023"
     },
     {
-      "title": "Ari Fleischer", 
+      "title": "Ari Fleischer",
       "url": "https://en.wikipedia.org/wiki/Ari_Fleischer",
       "outlet": "Wikipedia",
       "date": "2023"
@@ -43,5 +43,12 @@
       "outlet": "Miller Center",
       "date": "2007"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

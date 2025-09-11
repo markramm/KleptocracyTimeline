@@ -57,5 +57,9 @@
     "domestic-militarization",
     "authoritarian-consolidation"
   ],
-  "notes": "This represents a significant expansion of military involvement in domestic law enforcement, traditionally restricted by the Posse Comitatus Act. The creation of \"specialized units\" specifically for public order issues suggests preparation for widespread civil unrest suppression. The combination with federal control of DC police creates a centralized force answerable directly to the executive branch, bypassing local civilian control. The \"quick reaction force\" language echoes military counterinsurgency doctrine being applied domestically."
+  "notes": "This represents a significant expansion of military involvement in domestic law enforcement, traditionally restricted by the Posse Comitatus Act. The creation of \"specialized units\" specifically for public order issues suggests preparation for widespread civil unrest suppression. The combination with federal control of DC police creates a centralized force answerable directly to the executive branch, bypassing local civilian control. The \"quick reaction force\" language echoes military counterinsurgency doctrine being applied domestically.",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

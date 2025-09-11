@@ -10,8 +10,16 @@
   ],
   "financial_impact": null,
   "sources": [
-    "https://scholarlycommons.law.wlu.edu/powellmemo/",
-    "https://reclaimdemocracy.org/powell_memo_lewis/"
+    {
+      "title": "https://scholarlycommons.law.wlu.edu/powellmemo/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://reclaimdemocracy.org/powell_memo_lewis/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -20,5 +28,11 @@
     "strategic-planning",
     "corporate-power"
   ],
-  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration"
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Financial Capture"
+  ]
 }

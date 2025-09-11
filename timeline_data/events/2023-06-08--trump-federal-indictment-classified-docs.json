@@ -38,5 +38,10 @@
       "date": "2023-06-09"
     }
   ],
-  "notes": "The indictment alleged Trump willfully retained documents containing the nation's most\nsensitive secrets, including nuclear programs, showed them to unauthorized persons on at\nleast two occasions, and tried to obstruct the investigation. A superseding indictment on\nJuly 27, 2023 added 3 additional charges and a third defendant, Carlos De Oliveira."
+  "notes": "The indictment alleged Trump willfully retained documents containing the nation's most\nsensitive secrets, including nuclear programs, showed them to unauthorized persons on at\nleast two occasions, and tried to obstruct the investigation. A superseding indictment on\nJuly 27, 2023 added 3 additional charges and a third defendant, Carlos De Oliveira.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

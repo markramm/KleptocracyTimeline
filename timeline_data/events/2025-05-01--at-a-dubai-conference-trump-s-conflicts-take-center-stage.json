@@ -1,9 +1,9 @@
 {
   "id": "2025-05-01--at-a-dubai-conference-trump-s-conflicts-take-center-stage",
   "date": "2025-05-01",
-  "title": "At a Dubai conference, Trump’s conflicts take center stage",
-  "summary": "World Liberty Financial co-founder Zach Witkoff–who is also Steve Witkoff’s son–announced state-backed Emirati investment firm MGX would use Trump’s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023",
-  "description": "World Liberty Financial co-founder Zach Witkoff–who is also Steve Witkoff’s son–announced state-backed Emirati investment firm MGX would use Trump’s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023",
+  "title": "At a Dubai conference, Trump\u2019s conflicts take center stage",
+  "summary": "World Liberty Financial co-founder Zach Witkoff\u2013who is also Steve Witkoff\u2019s son\u2013announced state-backed Emirati investment firm MGX would use Trump\u2019s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023",
+  "description": "World Liberty Financial co-founder Zach Witkoff\u2013who is also Steve Witkoff\u2019s son\u2013announced state-backed Emirati investment firm MGX would use Trump\u2019s stablecoin, USD1, for a $2 billion transaction with Binance. Binance, a crypto-exchange platform, has been monitored by the US government since the firm admitted to violating federal money-laundering laws in 2023",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -19,7 +19,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "At a Dubai conference, Trump’s conflicts take center stage",
+      "title": "At a Dubai conference, Trump\u2019s conflicts take center stage",
       "url": "https://www.nytimes.com/2025/05/01/us/politics/trump-cryptocurrency-usd1-dubai-conference-announcement.html",
       "outlet": "New York Times",
       "date": "2025-05-01"
@@ -79,5 +79,9 @@
   ],
   "notes": "Event from comprehensive kleptocracy timeline tracking.",
   "_merge_note": "Enhanced with information from duplicate event: 2025-05-01--at-a-dubai-conference-trumps-conflicts-take-center",
-  "_merge_timestamp": "2025-09-05T23:46:55.898868"
+  "_merge_timestamp": "2025-09-05T23:46:55.898868",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

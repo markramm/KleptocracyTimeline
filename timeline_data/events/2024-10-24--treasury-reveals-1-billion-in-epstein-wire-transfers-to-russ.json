@@ -1,0 +1,43 @@
+{
+  "date": "2024-10-24",
+  "title": "Treasury Reveals .1 Billion in Epstein Wire Transfers to Russian Banks",
+  "summary": "Treasury Department records obtained by Senator Ron Wyden reveal .1 billion in wire transfers through Epstein account, with \"hundreds of millions\" flowing through sanctioned Russian banks, correlated to movement of women and girls globally.",
+  "actors": [
+    "Jeffrey Epstein",
+    "Ron Wyden",
+    "Treasury Department",
+    "Russian banks"
+  ],
+  "importance": 10,
+  "sources": [
+    {
+      "title": "Snopes",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "KGM",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "U.S. Senate Committee records",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "epstein-finances",
+    "russian-banks",
+    "human-trafficking",
+    "money-laundering"
+  ],
+  "status": "confirmed",
+  "id": "2024-10-24--treasury-reveals-1-billion-in-epstein-wire-transfers-to-russ",
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture"
+  ]
+}

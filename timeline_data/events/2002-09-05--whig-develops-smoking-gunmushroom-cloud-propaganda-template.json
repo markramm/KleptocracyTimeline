@@ -1,0 +1,37 @@
+{
+  "id": "2002-09-05--whig-develops-smoking-gunmushroom-cloud-propaganda-template",
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "date": "2002-09-05",
+  "title": "WHIG Develops \"Smoking Gun/Mushroom Cloud\" Propaganda Template",
+  "summary": "WHIG meeting produces \"smoking gun/mushroom cloud\" metaphor via speechwriter Michael Gerson, demonstrating systematic propaganda coordination. Strategy leaked to New York Times reporters and deployed by Rice on CNN September 8 (\"We dont want the smoking gun to be a mushroom cloud\") and Bush October 7 speech. Represents template for crisis-driven messaging coordination that bypasses democratic deliberation.",
+  "actors": [
+    "Michael Gerson",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "George W. Bush"
+  ],
+  "financial_impact": null,
+  "sources": [
+    {
+      "title": "https://www.cnn.com/2002/ALLPOLITICS/09/08/iraq.debate/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://georgewbush-whitehouse.archives.gov/news/releases/2002/10/20021007-8.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "whig-crisis-implementation",
+    "propaganda-coordination",
+    "crisis-exploitation-template",
+    "democratic-transformation-blueprint"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

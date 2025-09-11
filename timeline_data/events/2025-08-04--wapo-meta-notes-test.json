@@ -18,7 +18,9 @@
     "https://www.washingtonpost.com/technology/2025/08/04/meta-fact-check-community-notes-test-facebook-instagram"
   ],
   "id": "2025-08-04--wapo-meta-notes-test",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "Key gaps: No A/B testing vs fact-checkers, unclear political diversity methodology, 500-character limit, only evaluates headlines not full articles, US-only policy creates geographic gaps. March 18 public beta, April 7 fact-checker shutdown.",
   "status": "confirmed",
   "sources": [

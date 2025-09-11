@@ -44,5 +44,9 @@
     }
   ],
   "notes": "Detailed assessment showing U.S. joining countries like Israel and UK on watchlist for democratic backsliding",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
 }

@@ -11,7 +11,7 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "The 'Halloween Massacre' – CIA internal history and press clippings",
+      "title": "The 'Halloween Massacre' \u2013 CIA internal history and press clippings",
       "url": "https://www.cia.gov/readingroom/document/cia-rdp88-01070r000301430002-0",
       "outlet": "CIA FOIA Reading Room",
       "date": "1977-10-31"
@@ -24,5 +24,10 @@
     }
   ],
   "notes": "Terminology like \"cowboys\" reflects critics' characterizations; event framing\nhere is based on contemporaneous reporting and declassified CIA materials.\n",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

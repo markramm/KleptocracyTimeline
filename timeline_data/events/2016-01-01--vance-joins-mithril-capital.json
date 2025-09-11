@@ -45,5 +45,9 @@
     "billionaire-patronage",
     "political-grooming"
   ],
-  "notes": "Vance's hiring at Mithril Capital represents classic patronage system where ideologically aligned individuals are given wealth-building opportunities in exchange for future political service. The position transforms Vance from working-class author to Silicon Valley insider, providing him with elite credentials and financial resources necessary for political campaigns. This mirrors Thiel's broader strategy of creating alternative elite networks loyal to his anti-democratic vision."
+  "notes": "Vance's hiring at Mithril Capital represents classic patronage system where ideologically aligned individuals are given wealth-building opportunities in exchange for future political service. The position transforms Vance from working-class author to Silicon Valley insider, providing him with elite credentials and financial resources necessary for political campaigns. This mirrors Thiel's broader strategy of creating alternative elite networks loyal to his anti-democratic vision.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

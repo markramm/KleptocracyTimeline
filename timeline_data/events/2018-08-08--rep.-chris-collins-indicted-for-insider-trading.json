@@ -1,0 +1,25 @@
+{
+  "date": "2018-08-08",
+  "title": "Rep. Chris Collins Indicted for Insider Trading",
+  "summary": "Rep. Chris Collins (R-N.Y.), President Trump's first congressional supporter, was charged with insider trading related to his position on the board of Australian biotechnology company Innate Immunotherapeutics. On June 22, 2017, while attending a Congressional Picnic at the White House, Collins learned via email that the company's multiple sclerosis drug MIS416 had failed a critical drug trial. Moments later, from the White House lawn, Collins called his son Cameron to share this material, non-public information, allowing his son and another individual to sell their stock and avoid over 68,000 in losses. This marked the first prosecution under the 2012 STOCK Act. Collins was later sentenced to 26 months in prison for participating in the insider trading scheme and lying to federal law enforcement agents. The case highlighted ongoing weaknesses in congressional ethics enforcement.",
+  "actors": [
+    "Chris Collins",
+    "Cameron Collins",
+    "Stephen Zarsky",
+    "Innate Immunotherapeutics"
+  ],
+  "sources": [
+    "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying",
+    "https://www.sec.gov/newsroom/press-releases/2018-151"
+  ],
+  "importance": 8,
+  "tags": [
+    "congressional-corruption",
+    "insider-trading",
+    "prosecutions",
+    "regulatory-capture"
+  ],
+  "status": "confirmed",
+  "id": "2018-08-08--rep.-chris-collins-indicted-for-insider-trading",
+  "priority_id": "RT-EE57E913-congressional-insider-trading"
+}

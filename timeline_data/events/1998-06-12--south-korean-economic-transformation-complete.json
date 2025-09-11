@@ -1,0 +1,32 @@
+{
+  "id": "1998-06-12--south-korean-economic-transformation-complete",
+  "date": "1998-06-12",
+  "title": "South Korea Completes IMF-Mandated Economic Restructuring",
+  "summary": "South Korea finalizes comprehensive economic reforms mandated by the IMF, including massive corporate restructuring, labor market deregulation, and opening financial markets to foreign investment. These changes fundamentally transform South Korea's economic model, weakening labor protections and enabling unprecedented foreign corporate penetration.",
+  "importance": 8,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "South Korean Government",
+    "Chaebol Corporations",
+    "US Treasury Department"
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "structural_adjustment",
+    "economic_shock",
+    "corporate_transformation"
+  ],
+  "sources": [
+    {
+      "title": "IMF South Korea Structural Adjustment Program Review",
+      "url": "https://www.imf.org/external/np/sec/pr/1998/pr9890.htm",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

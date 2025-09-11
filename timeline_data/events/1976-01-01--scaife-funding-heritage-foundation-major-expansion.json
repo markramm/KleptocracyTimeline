@@ -1,0 +1,37 @@
+{
+  "id": "1976-01-01--scaife-funding-heritage-foundation-major-expansion",
+  "date": "1976-01-01",
+  "title": "Richard Mellon Scaife Becomes Heritage Foundation's Primary Donor",
+  "summary": "Billionaire Richard Mellon Scaife emerges as the Heritage Foundation's largest and most crucial donor, contributing $420,000 in 1976 alone - representing 42 percent of the foundation's total $1 million annual budget. Scaife's massive financial commitment transforms Heritage from a small think tank into a major force in conservative politics, providing the resources necessary for substantial expansion of operations and influence. His funding comes through the Scaife Family Charitable Trust and represents a strategic investment in building conservative intellectual infrastructure as envisioned in the Powell Memorandum. Scaife's support enables Heritage to compete with established liberal institutions like Brookings and begin developing the policy expertise that will later influence the Reagan administration. This funding model establishes the template for billionaire-backed think tanks that will become central to modern political influence operations, demonstrating how concentrated wealth can shape intellectual discourse and policy development.",
+  "actors": [
+    "Richard Mellon Scaife",
+    "Heritage Foundation",
+    "Scaife Family Charitable Trust"
+  ],
+  "sources": [
+    {
+      "title": "https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.sourcewatch.org/index.php/Scaife_Foundations",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "billionaire-funding",
+    "think-tank-expansion",
+    "conservative-infrastructure",
+    "political-influence",
+    "narrative-control"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-208559C5-heritage-foundation-launch-1973",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

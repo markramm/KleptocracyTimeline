@@ -1,0 +1,36 @@
+{
+  "date": "2024-12-03",
+  "title": "South Korea President Yoon Suk Yeol Declares Martial Law, Triggering Democratic Crisis",
+  "summary": "President Yoon Suk Yeol briefly declares martial law in South Korea, sparking immediate parliamentary resistance and mass protests. The declaration, quickly reversed under pressure, leads to his impeachment proceedings and South Korea's downgrade from \"full democracy\" to \"flawed democracy\" in the 2024 EIU Democracy Index. The incident demonstrates how quickly democratic institutions can be threatened by authoritarian impulses.",
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "Yoon Suk Yeol",
+    "South Korean National Assembly",
+    "South Korean protesters"
+  ],
+  "sources": [
+    {
+      "title": "https://thefulcrum.us/ethics-leadership/democracy-index",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://wbj.pl/global-democracy-index-2024-a-year-of-elections-and-decline/post/145121",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "South Korea",
+    "martial law",
+    "impeachment",
+    "democratic crisis"
+  ],
+  "id": "2024-12-03--south-korea-president-yoon-suk-yeol-declares-martial-law-tri",
+  "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
+  ]
+}

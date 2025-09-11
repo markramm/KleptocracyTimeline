@@ -1,0 +1,28 @@
+{
+  "id": "2025-09-10--regulatory-capture-early-warning-indicators",
+  "date": "2025-09-10",
+  "title": "Early Warning Indicators of Regulatory Capture Identified",
+  "summary": "Groundbreaking research reveals 12 key predictive indicators of institutional capture, including personnel migration patterns, funding shifts, and policy modification trends. Demonstrates how seemingly isolated events connect to form systematic erosion of democratic governance. Highlights the importance of proactive monitoring and intervention to prevent long-term institutional degradation.",
+  "importance": 8,
+  "actors": [
+    "Governance Research Collective",
+    "Democratic Resilience Institute"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "early-warning",
+    "institutional-analysis",
+    "systemic-risk"
+  ],
+  "sources": [
+    {
+      "title": "Regulatory Capture Early Warning Report",
+      "url": "https://trumptyrannytracker.substack.com/p/capture-warning-indicators",
+      "outlet": "Trump Tyranny Tracker"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

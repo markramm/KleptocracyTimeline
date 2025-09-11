@@ -39,5 +39,12 @@
       "outlet": "Supreme Court",
       "date": "2013-06-25"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Electoral Manipulation"
   ]
 }

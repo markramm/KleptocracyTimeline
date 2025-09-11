@@ -1,7 +1,7 @@
 {
   "id": "2025-05-29--trump-rejects-15m-offer-to-settle-60-minutes-lawsuit-report",
   "date": "2025-05-29",
-  "title": "Trump rejects $15M offer to settle ’60 Minutes’ lawsuit: report",
+  "title": "Trump rejects $15M offer to settle \u201960 Minutes\u2019 lawsuit: report",
   "summary": "Trump rejected Paramount's $15 million settlement offer over his 60 Minutes lawsuit, demanding $25 million and a public apology instead",
   "description": "Trump rejected Paramount's $15 million settlement offer over his 60 Minutes lawsuit, demanding $25 million and a public apology instead",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump rejects $15M offer to settle ’60 Minutes’ lawsuit: report",
+      "title": "Trump rejects $15M offer to settle \u201960 Minutes\u2019 lawsuit: report",
       "url": "https://www.yahoo.com/news/trump-rejects-15m-offer-settle-141023713.html",
       "outlet": "Yahoo! News",
       "date": "2025-05-29"
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

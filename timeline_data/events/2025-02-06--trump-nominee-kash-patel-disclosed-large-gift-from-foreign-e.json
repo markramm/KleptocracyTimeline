@@ -2,8 +2,8 @@
   "id": "2025-02-06--trump-nominee-kash-patel-disclosed-large-gift-from-foreign-e",
   "date": "2025-02-06",
   "title": "Trump nominee Kash Patel disclosed large gift from foreign entity",
-  "summary": "Kash Patel disclosed that he is receiving $1 million to $5 million in shares of a Cayman Islands holding company directly tied to a Chinese corporation accused of “slave labor” by the Senate and a pro-Trump nonprofit",
-  "description": "Kash Patel disclosed that he is receiving $1 million to $5 million in shares of a Cayman Islands holding company directly tied to a Chinese corporation accused of “slave labor” by the Senate and a pro-Trump nonprofit",
+  "summary": "Kash Patel disclosed that he is receiving $1 million to $5 million in shares of a Cayman Islands holding company directly tied to a Chinese corporation accused of \u201cslave labor\u201d by the Senate and a pro-Trump nonprofit",
+  "description": "Kash Patel disclosed that he is receiving $1 million to $5 million in shares of a Cayman Islands holding company directly tied to a Chinese corporation accused of \u201cslave labor\u201d by the Senate and a pro-Trump nonprofit",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

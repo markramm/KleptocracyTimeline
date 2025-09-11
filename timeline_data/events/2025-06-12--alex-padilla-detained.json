@@ -20,8 +20,8 @@
     "senator"
   ],
   "citations": [
-    "CalMatters — Sen. Alex Padilla handcuffed by FBI at LA immigration press conference (Jun 2025): https://calmatters.org/politics/2025/06/alex-padilla-handcuffed/",
-    "ABC7 — Sen. Alex Padilla forcibly removed from DHS press conference (Jun 2025): https://abc7.com/live-updates/tensions-flare-downtown-la-anti-ice-protesters-clash-agents-live-updates/16692645/entry/16733650/"
+    "CalMatters \u2014 Sen. Alex Padilla handcuffed by FBI at LA immigration press conference (Jun 2025): https://calmatters.org/politics/2025/06/alex-padilla-handcuffed/",
+    "ABC7 \u2014 Sen. Alex Padilla forcibly removed from DHS press conference (Jun 2025): https://abc7.com/live-updates/tensions-flare-downtown-la-anti-ice-protesters-clash-agents-live-updates/16692645/entry/16733650/"
   ],
   "notes": "First Latino senator to represent California was detained despite identifying himself. Gov. Newsom called it \"outrageous, dictatorial, and shameful.\" Noem falsely claimed on Fox News that Padilla \"burst into the room\" and \"started lunging towards the podium,\" contradicted by video evidence. This occurred during military deployment to LA for immigration protests.",
   "sources": [
@@ -44,5 +44,12 @@
       "date": "2025-06-12"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

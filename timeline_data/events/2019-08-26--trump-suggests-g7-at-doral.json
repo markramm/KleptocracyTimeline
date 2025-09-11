@@ -50,5 +50,10 @@
     "self-dealing",
     "emoluments-violations",
     "abuse-of-office"
+  ],
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

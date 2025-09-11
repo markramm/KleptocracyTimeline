@@ -1,0 +1,30 @@
+{
+  "id": "2025-09-10--systematic-capture-economic-incentive-mapping",
+  "date": "2025-09-10",
+  "title": "Systematic Capture: Economic Incentive Mapping and Structural Transformation",
+  "summary": "Advanced research detailing economic incentive structures that drive institutional capture. Reveals complex compensation mechanisms, strategic consulting arrangements, and revolving door policies that create powerful systemic pressures for converting public institutions into private governance platforms. Documents how financial motivations systematically undermine democratic accountability.",
+  "importance": 9,
+  "actors": [
+    "Economic Capture Research Team",
+    "Institutional Transformation Analysis Group"
+  ],
+  "tags": [
+    "institutional-capture",
+    "economic-incentives",
+    "governance-transformation",
+    "revolving-door"
+  ],
+  "sources": [
+    {
+      "title": "Economic Incentives in Institutional Capture Report",
+      "outlet": "Internal Research Documentation",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1997-10-15--imf-structural-adjustment-indonesia",
+  "date": "1997-10-15",
+  "title": "IMF Imposes Radical Structural Adjustment on Indonesia",
+  "summary": "The International Monetary Fund mandates severe economic reforms for Indonesia, including privatization of state-owned enterprises, cutting government subsidies, and opening markets to foreign investment. These policies disproportionately impact local workers while benefiting multinational corporations.",
+  "importance": 9,
+  "actors": [
+    "International Monetary Fund",
+    "Suharto Government",
+    "World Bank",
+    "McKinsey & Company"
+  ],
+  "sources": [
+    {
+      "title": "IMF Indonesian Bailout Conditions",
+      "url": "https://www.jstor.org/stable/40753562",
+      "outlet": "Journal of Development Economics"
+    }
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "structural_adjustment",
+    "imf",
+    "indonesia",
+    "economic_shock_therapy"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

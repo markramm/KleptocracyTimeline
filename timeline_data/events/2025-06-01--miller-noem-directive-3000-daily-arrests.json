@@ -53,5 +53,10 @@
   ],
   "status": "confirmed",
   "_merge_note": "Enhanced with information from duplicate event: 2025-06-01--stephen-miller-and-kristi-noem-directive-demands-3",
-  "_merge_timestamp": "2025-09-05T23:46:55.900776"
+  "_merge_timestamp": "2025-09-05T23:46:55.900776",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

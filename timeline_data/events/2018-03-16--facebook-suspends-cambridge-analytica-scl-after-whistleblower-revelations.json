@@ -1,0 +1,45 @@
+{
+  "id": "2018-03-16--facebook-suspends-cambridge-analytica-scl-after-whistleblower-revelations",
+  "date": "2018-03-16",
+  "title": "Facebook Suspends Cambridge Analytica and SCL After Whistleblower Revelations",
+  "summary": "Facebook suspends Cambridge Analytica and parent company SCL from its platform following explosive revelations by whistleblower Christopher Wylie about systematic data harvesting affecting 87 million users. The suspension comes only after The Guardian and New York Times publish comprehensive expos\u00e9s detailing the scope of data abuse and electoral manipulation. Facebook's delayed response demonstrates institutional failure to protect user data and electoral integrity. The company had known about the data harvesting since 2015 but relied on Cambridge Analytica's unverified assurances that the data was deleted. This regulatory failure enables years of continued electoral manipulation and establishes dangerous precedent for social media platform accountability.",
+  "importance": 9,
+  "actors": [
+    "Facebook",
+    "Cambridge Analytica",
+    "SCL Group",
+    "Christopher Wylie",
+    "The Guardian",
+    "New York Times",
+    "Mark Zuckerberg"
+  ],
+  "tags": [
+    "facebook_suspension",
+    "christopher_wylie_whistleblower",
+    "regulatory_failure",
+    "electoral_manipulation_exposed",
+    "institutional_accountability",
+    "delayed_response"
+  ],
+  "sources": [
+    {
+      "title": "Suspending Cambridge Analytica and SCL Group From Facebook",
+      "url": "https://about.fb.com/news/2018/03/suspending-cambridge-analytica/",
+      "outlet": "Facebook",
+      "date": "2018-03-16"
+    },
+    {
+      "title": "Cambridge Analytica Timeline CNBC",
+      "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html",
+      "outlet": "CNBC",
+      "date": "2018-04-10"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
+}

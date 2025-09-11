@@ -11,7 +11,9 @@
     "https://apnews.com/article/32c1ae9dc542897496974a85aaa07b85"
   ],
   "id": "2025-08-07--harvard-freeze-ap",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "Freeze began April 2025 after Harvard refused administration demands. 7th elite college targeted, 6 of 7 Ivy League. $110M NIH grants halted since Feb. $60M tuberculosis consortium interrupted. Harvard filed lawsuit claiming constitutional violations. Part of $11B cuts to 24+ institutions.",
   "status": "confirmed",
   "sources": [
@@ -39,5 +41,8 @@
       "outlet": "ABC News",
       "date": "2025-04-15"
     }
+  ],
+  "capture_lanes": [
+    "Financial Capture"
   ]
 }

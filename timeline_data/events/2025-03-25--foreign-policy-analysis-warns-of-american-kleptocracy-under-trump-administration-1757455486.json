@@ -12,9 +12,21 @@
     "Democratic institutions"
   ],
   "sources": [
-    "https://foreignpolicy.com/2025/03/25/america-kleptocracy-trump-musk-corruption/",
-    "https://snfagora.jhu.edu/our-work/research-projects/kleptocracy-tracker-timeline/",
-    "https://www.milwaukeeindependent.com/explainers/descent-kleptocracy-corruption-america-trumps-systematic-looting-democracy/"
+    {
+      "title": "https://foreignpolicy.com/2025/03/25/america-kleptocracy-trump-musk-corruption/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://snfagora.jhu.edu/our-work/research-projects/kleptocracy-tracker-timeline/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.milwaukeeindependent.com/explainers/descent-kleptocracy-corruption-america-trumps-systematic-looting-democracy/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -28,5 +40,9 @@
   ],
   "status": "confirmed",
   "id": "2025-03-25--foreign-policy-analysis-warns-of-american-kleptocracy-under-trump-administration-1757455486",
-  "priority_id": "RT-COMPLETED-PATTERN-20250906-14"
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-14",
+  "capture_lanes": [
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
 }

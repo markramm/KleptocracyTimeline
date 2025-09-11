@@ -1,0 +1,26 @@
+{
+  "id": "2025-09-10--pdf-agent7-regulatory-response-to-grok-safety-incidents-e4a9e0fd",
+  "date": "2025-09-10",
+  "title": "Regulatory Response to Grok Safety Incidents",
+  "summary": "Track government and regulatory responses to Grok AI safety failures. Document any enforcement actions or policy changes triggered by safety incidents.",
+  "importance": 7,
+  "actors": [
+    "Research Monitor"
+  ],
+  "tags": [
+    "AI regulation",
+    "Government response",
+    "Tech oversight"
+  ],
+  "sources": [
+    {
+      "title": "Source needed",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

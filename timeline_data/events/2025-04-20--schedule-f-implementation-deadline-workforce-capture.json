@@ -1,0 +1,31 @@
+{
+  "date": "2025-04-20",
+  "title": "Schedule F Implementation Deadline: Systematic Federal Workforce Reclassification",
+  "summary": "Office of Personnel Management sets April 20 deadline for federal agencies to submit recommendations for Schedule F worker reclassifications, representing coordinated systematic implementation of federal workforce capture. Estimated 50,000 positions (2% of federal workforce) targeted for conversion from career civil servants to at-will political appointees, demonstrating unprecedented scale of systematic institutional capture coordination.",
+  "actors": [
+    "Office of Personnel Management",
+    "Federal Agencies",
+    "Trump Administration",
+    "Federal Workforce"
+  ],
+  "sources": [
+    {
+      "title": "Trump removes civil service protections with Schedule F plan",
+      "url": "https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f",
+      "outlet": "NPR"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "schedule_f",
+    "federal_workforce",
+    "systematic_implementation",
+    "institutional_capture",
+    "civil_service_elimination"
+  ],
+  "status": "confirmed",
+  "id": "2025-04-20--schedule-f-implementation-deadline-workforce-capture",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
+}

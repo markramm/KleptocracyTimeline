@@ -1,0 +1,40 @@
+{
+  "id": "2009-02-19--rick-santelli-cnbc-rant-triggers-koch-network-tea-party-response",
+  "date": "2009-02-19",
+  "title": "Rick Santelli CNBC Rant Triggers Immediate Koch Network Tea Party Response",
+  "summary": "CNBC reporter Rick Santelli delivers his \"Rant Heard Round the World\" from the Chicago Mercantile Exchange floor, criticizing Obama's mortgage bailout plan and calling for a \"Chicago Tea Party.\" Within hours, Americans for Prosperity registers the domain TaxDayTeaParty.com and launches a website calling for protests. Other conservative organizations quickly follow: reTeaParty.com is registered within 10 hours, ChicagoTeaParty.com goes live within 12 hours, and FreedomWorks's Eric Odom helps create a Facebook page by February 20th. The next day, 50 national conservative leaders participate in a conference call that formalizes the national Tea Party movement. This immediate, coordinated response demonstrates the pre-existing organizational infrastructure the Koch network had built to capitalize on populist moments.",
+  "actors": [
+    "Rick Santelli",
+    "Americans for Prosperity",
+    "Eric Odom",
+    "FreedomWorks",
+    "Phil Kerpen",
+    "Michael Johns"
+  ],
+  "sources": [
+    {
+      "title": "https://www.cnbc.com/video/2015/02/06/santellis-tea-party-rant-february-19-2009.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://en.wikipedia.org/wiki/Tea_Party_movement",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "astroturf-organizing",
+    "corporate-influence",
+    "media-manipulation",
+    "koch-network",
+    "rapid-response"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-C7D79DA1-tea-party-koch-astroturf",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Financial Capture"
+  ]
+}

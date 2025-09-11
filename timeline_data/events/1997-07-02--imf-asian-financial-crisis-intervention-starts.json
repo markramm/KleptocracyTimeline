@@ -1,0 +1,31 @@
+{
+  "id": "1997-07-02--imf-asian-financial-crisis-intervention-starts",
+  "date": "1997-07-02",
+  "title": "IMF Begins Structural Adjustment in Asian Financial Crisis",
+  "summary": "The International Monetary Fund (IMF) initiates comprehensive economic intervention in Thailand, marking the start of widespread structural adjustment policies across Southeast Asian economies. This intervention requires Thailand to implement strict austerity measures, deregulate financial markets, and open economies to foreign investment as conditions for emergency loans.",
+  "importance": 8,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "Thai Government",
+    "McKinsey & Company"
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "structural_adjustment",
+    "economic_intervention",
+    "neoliberalism"
+  ],
+  "sources": [
+    {
+      "title": "IMF Archives: Asian Financial Crisis Response",
+      "url": "https://www.imf.org/external/np/speeches/1997/070297.htm",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

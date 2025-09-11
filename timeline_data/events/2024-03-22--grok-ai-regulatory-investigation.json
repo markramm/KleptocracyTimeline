@@ -1,0 +1,29 @@
+{
+  "id": "2024-03-22--grok-ai-regulatory-investigation",
+  "date": "2024-03-22",
+  "title": "FTC Initiates Preliminary Inquiry into Grok AI Safety Practices",
+  "summary": "The Federal Trade Commission (FTC) launched a preliminary investigation into xAI's Grok chatbot, focusing on its content generation practices and potential risks to public safety. The inquiry stems from concerns raised by AI ethics experts about the model's lack of robust content filtering mechanisms.",
+  "importance": 8,
+  "actors": [
+    "FTC",
+    "xAI",
+    "Elon Musk"
+  ],
+  "tags": [
+    "AI regulation",
+    "Tech oversight",
+    "Government investigation"
+  ],
+  "sources": [
+    {
+      "title": "FTC Begins Probe of Grok AI Safety",
+      "url": "https://www.ftc.gov/press-releases/ai-safety-investigation",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "2025-05-05--trump-s-meme-coin-business-racks-up-fees-as-buyers-jump-for-",
   "date": "2025-05-05",
-  "title": "Trump’s meme coin business racks up fees as buyers jump for access to president",
+  "title": "Trump\u2019s meme coin business racks up fees as buyers jump for access to president",
   "summary": "Trump has earned $320 million in fees from purchases of his memecoin since he launched it at the beginning of the year, with many customers hoping (quite reasonably) to turn their transactions into access to the president",
   "description": "Trump has earned $320 million in fees from purchases of his memecoin since he launched it at the beginning of the year, with many customers hoping (quite reasonably) to turn their transactions into access to the president",
   "status": "confirmed",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump’s meme coin business racks up fees as buyers jump for access to president",
+      "title": "Trump\u2019s meme coin business racks up fees as buyers jump for access to president",
       "url": "https://abcnews.go.com/US/wireStory/trumps-meme-coin-business-racks-fees-buyers-jump-121497918",
       "outlet": "ABC News",
       "date": "2025-05-05"
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

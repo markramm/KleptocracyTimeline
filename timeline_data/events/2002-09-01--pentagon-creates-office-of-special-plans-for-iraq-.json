@@ -38,5 +38,10 @@
       "outlet": "Senate Armed Services Committee",
       "date": "2007-02-09"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
   ]
 }

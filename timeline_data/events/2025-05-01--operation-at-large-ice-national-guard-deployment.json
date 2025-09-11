@@ -29,5 +29,8 @@
       "date": "2025-05-01"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

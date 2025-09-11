@@ -1,9 +1,9 @@
 {
   "id": "2025-04-29--paramount-board-clears-possible-path-for-settling-trump-s-60",
   "date": "2025-04-29",
-  "title": "Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit",
-  "summary": "Paramount’s board–which is pursuing a merger deal with Skydance that would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses 60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris",
-  "description": "Paramount’s board–which is pursuing a merger deal with Skydance that would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses 60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris",
+  "title": "Paramount board clears possible path for settling Trump\u2019s \u201860 Minutes\u2019 lawsuit",
+  "summary": "Paramount\u2019s board\u2013which is pursuing a merger deal with Skydance that would need DOJ\u2019s signoff\u2013cleared the path to settle Trump\u2019s lawsuit that accuses 60 Minutes of \u201cdeceptively\u201d editing its pre-election interview with Kamala Harris",
+  "description": "Paramount\u2019s board\u2013which is pursuing a merger deal with Skydance that would need DOJ\u2019s signoff\u2013cleared the path to settle Trump\u2019s lawsuit that accuses 60 Minutes of \u201cdeceptively\u201d editing its pre-election interview with Kamala Harris",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit",
+      "title": "Paramount board clears possible path for settling Trump\u2019s \u201860 Minutes\u2019 lawsuit",
       "url": "https://www.nytimes.com/2025/04/29/business/media/paramount-cbs-60-minutes-trump-lawsuit.html",
       "outlet": "New York Times",
       "date": "2025-04-29"
@@ -54,5 +54,8 @@
   ],
   "notes": "High-priority kleptocratic event from comprehensive timeline.",
   "_merge_note": "Enhanced with information from duplicate event: 2025-04-29--paramount-board-clears-possible-path-for-settling-",
-  "_merge_timestamp": "2025-09-05T23:46:55.900070"
+  "_merge_timestamp": "2025-09-05T23:46:55.900070",
+  "capture_lanes": [
+    "Electoral Manipulation"
+  ]
 }

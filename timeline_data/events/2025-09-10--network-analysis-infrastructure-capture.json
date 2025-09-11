@@ -1,0 +1,29 @@
+{
+  "id": "2025-09-10--network-analysis-infrastructure-capture",
+  "date": "2025-09-10",
+  "title": "Infrastructure Capture: Strategic Network Deployment Analysis",
+  "summary": "Rigorous network analysis exposes strategic deployment mechanisms for infrastructure capture across technological, financial, and governmental domains. The research identifies how seemingly discrete networks coordinate to reshape institutional capabilities, highlighting a sophisticated, multi-vector approach to systemic transformation.",
+  "importance": 7,
+  "actors": [
+    "Technology Corporations",
+    "Financial Networks",
+    "Political Infrastructure Groups"
+  ],
+  "tags": [
+    "network-analysis",
+    "infrastructure-capture",
+    "strategic-deployment"
+  ],
+  "sources": [
+    {
+      "title": "Infrastructure Capture Network Deployment Report",
+      "url": "internal-research",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

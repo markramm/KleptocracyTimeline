@@ -1,0 +1,38 @@
+{
+  "date": "2012-04-04",
+  "title": "STOCK Act Signed into Law",
+  "summary": "President Barack Obama signed the Stop Trading on Congressional Knowledge (STOCK) Act into law, following more than 10 years of allegations of insider trading by members of Congress and staff. The law was designed to prevent members of Congress from trading on material, non-public information learned from their positions. Obama had promised in his State of the Union Address to sign such legislation, stating \"send me a bill that bans insider trading by members of Congress, and I will sign it tomorrow.\" However, a decade later, the Act has proven insufficient to prevent the appearance of corruption, providing greater transparency but failing to stop questionable trading practices. The law requires disclosure of stock transactions but does not prohibit trading entirely, leaving loopholes that allow continued potential conflicts of interest.",
+  "actors": [
+    "Barack Obama",
+    "Congress"
+  ],
+  "sources": [
+    {
+      "title": "https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://wustllawreview.org/2022/12/18/the-stock-act-ten-years-later-the-need-for-a-new-congressional-insider-trading-regulatory-scheme/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "regulatory-capture",
+    "financial-regulation",
+    "congressional-ethics",
+    "insider-trading"
+  ],
+  "status": "confirmed",
+  "id": "2012-04-04--stock-act-signed-into-law",
+  "priority_id": "RT-EE57E913-congressional-insider-trading",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

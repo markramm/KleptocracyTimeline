@@ -1,0 +1,38 @@
+{
+  "id": "2021-01-01--barre-seid-1-6-billion-donation-leonard-leo-network",
+  "date": "2021-01-01",
+  "title": "Barre Seid Donates .6 Billion to Leonard Leo Dark Money Network",
+  "summary": "Chicago businessman Barre Seid provides .6 billion to Leonard Leo's Marble Freedom Trust through opaque transactions, representing the largest known donation to a political advocacy group in U.S. history. This unprecedented infusion of dark money consolidates Leo's control over conservative legal and political networks, providing resources to \"crush liberal dominance\" in news, entertainment, and institutions. The donation transforms Leo from judicial kingmaker into broader conservative movement architect with billion-dollar resources to reshape American institutions beyond the courts.",
+  "importance": 10,
+  "location": "United States",
+  "actors": [
+    "Barre Seid",
+    "Leonard Leo",
+    "Marble Freedom Trust"
+  ],
+  "tags": [
+    ".6 billion donation",
+    "dark money",
+    "Leonard Leo",
+    "Marble Freedom Trust",
+    "conservative movement funding"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption",
+    "Media Capture & Control"
+  ],
+  "sources": [
+    {
+      "title": "Barre Seid Donated .6 Billion to Conservative Marble",
+      "url": "https://www.propublica.org/article/dark-money-leonard-leo-barre-seid",
+      "outlet": "ProPublica",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Barre Seid donated .6 billion to Leonard Leo network",
+        "Largest known donation to political advocacy group in US history",
+        "Money went to Marble Freedom Trust controlled by Leo"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

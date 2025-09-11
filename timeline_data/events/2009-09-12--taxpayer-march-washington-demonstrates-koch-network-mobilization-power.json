@@ -1,0 +1,39 @@
+{
+  "id": "2009-09-12--taxpayer-march-washington-demonstrates-koch-network-mobilization-power",
+  "date": "2009-09-12",
+  "title": "9/12 Taxpayer March on Washington Demonstrates Koch Network Mobilization Power",
+  "summary": "The Taxpayer March on Washington (9/12 Tea Party) brings an estimated 60,000-70,000 protesters to Washington D.C., representing one of the largest early Tea Party demonstrations. Organized primarily by FreedomWorks and Americans for Prosperity - the Koch brothers' organizational successors to Citizens for a Sound Economy - the event demonstrates the mobilization power of well-funded astroturf operations. FreedomWorks began planning the march in March 2009 and offered intensive two-day grassroots training sessions that attracted over 2,000 local activists. While presented as a spontaneous citizen uprising, the event exemplifies sophisticated corporate-funded political theater designed to simulate grassroots opposition to policies unfavorable to billionaire donors.",
+  "actors": [
+    "FreedomWorks",
+    "Americans for Prosperity",
+    "Dick Armey",
+    "Brendan Steinhauser",
+    "David Koch",
+    "Charles Koch"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Taxpayer_March_on_Washington",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.history.com/this-day-in-history/september-12/tea-party-taxpayer-march-on-washington-protest",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "astroturf-organizing",
+    "corporate-influence",
+    "koch-network",
+    "political-mobilization",
+    "mass-demonstrations"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-C7D79DA1-tea-party-koch-astroturf",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

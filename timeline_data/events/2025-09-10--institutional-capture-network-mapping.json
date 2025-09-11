@@ -1,0 +1,28 @@
+{
+  "id": "2025-09-10--institutional-capture-network-mapping",
+  "date": "2025-09-10",
+  "title": "Comprehensive Institutional Capture Network Mapping",
+  "summary": "Detailed analysis revealing systematic patterns of institutional capture across multiple government and private sector domains. Highlights interconnected networks exploiting structural weaknesses in democratic governance.",
+  "importance": 8,
+  "actors": [
+    "Heritage Foundation",
+    "Project 2025",
+    "Conservative Legal Networks"
+  ],
+  "sources": [
+    {
+      "title": "Institutional Capture Research Project",
+      "url": "https://trumptyrannytracker.substack.com",
+      "outlet": "Trump Tyranny Tracker"
+    }
+  ],
+  "tags": [
+    "institutional-capture",
+    "systematic-corruption",
+    "governance-erosion"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

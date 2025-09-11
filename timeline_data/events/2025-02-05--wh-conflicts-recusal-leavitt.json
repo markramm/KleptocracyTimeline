@@ -3,7 +3,7 @@
   "date": "2025-02-05",
   "importance": 6,
   "title": "White House says Musk will police his own conflicts in DOGE role",
-  "summary": "Press Secretary Karoline Leavitt says Musk will 'excuse himself' from conflicts related to DOGE—a self-policing arrangement that drew criticism from ethics experts.",
+  "summary": "Press Secretary Karoline Leavitt says Musk will 'excuse himself' from conflicts related to DOGE\u2014a self-policing arrangement that drew criticism from ethics experts.",
   "sources": [
     {
       "title": "White House: Musk Will Police His Own Conflicts",
@@ -25,7 +25,7 @@
       "date": "2025-02-06"
     },
     {
-      "title": "White House Says Musk Will Decide His Own Conflicts of Interest. Uhhh …",
+      "title": "White House Says Musk Will Decide His Own Conflicts of Interest. Uhhh \u2026",
       "url": "https://www.rollingstone.com/politics/politics-news/elon-musk-conflict-interest-doge-1235257829/",
       "outlet": "Rolling Stone",
       "date": "2025-02-06"
@@ -40,5 +40,7 @@
     "Federal Workforce Capture",
     "Financial Corruption & Kleptocracy"
   ],
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ]
 }

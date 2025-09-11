@@ -1,0 +1,38 @@
+{
+  "id": "2023-06-29--trust-social-insider-trading-arrests-shvartsman-garelick",
+  "date": "2023-06-29",
+  "title": "FBI Arrests Three in \"Trust Social\" Investigation for DWAC Insider Trading",
+  "summary": "FBI and HSI agents arrest three individuals in coordinated raids as part of \"Trust Social,\" a joint investigation targeting insider trading related to Digital World Acquisition Corp (DWAC) and Trump Media. Michael Shvartsman, his brother Gerald Shvartsman, and Bruce Garelick (investment chief of Rocket One Capital) are charged with conspiracy and securities fraud for allegedly trading DWAC shares based on nonpublic information about the Truth Social merger. The suspects had signed confidentiality agreements but purchased hundreds of thousands of dollars in DWAC shares before the public announcement, facing potential sentences of 90-130 years. Garelick had secured a seat on DWAC's board through their investments.",
+  "tags": [
+    "dwac",
+    "insider_trading",
+    "fbi_arrests",
+    "trust_social_investigation",
+    "truth_social",
+    "securities_fraud"
+  ],
+  "actors": [
+    "Michael Shvartsman",
+    "Gerald Shvartsman",
+    "Bruce Garelick",
+    "FBI",
+    "HSI",
+    "Rocket One Capital",
+    "Digital World Acquisition Corp"
+  ],
+  "sources": [
+    {
+      "title": "The wild probe into investors of DWAC, Trump Media's proposed merger ally",
+      "url": "https://www.washingtonpost.com/technology/2024/02/03/trump-social-dwac-investigation/",
+      "outlet": "The Washington Post",
+      "date": "2024-02-03"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
+}

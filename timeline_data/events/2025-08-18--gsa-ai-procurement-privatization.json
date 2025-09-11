@@ -54,5 +54,10 @@
     "regulatory-capture",
     "corporate-capture"
   ],
-  "notes": "This represents a fundamental privatization of core government functions. Allowing AI systems to control $110 billion in procurement decisions effectively hands over a key governmental power to private tech companies who build and control these systems. The lack of transparency in AI decision-making, combined with the potential for bias and manipulation, creates massive opportunities for corruption. This could allow contractors to game the system through data manipulation, while removing human accountability for spending decisions. It's outsourcing not just work, but governmental decision-making authority itself."
+  "notes": "This represents a fundamental privatization of core government functions. Allowing AI systems to control $110 billion in procurement decisions effectively hands over a key governmental power to private tech companies who build and control these systems. The lack of transparency in AI decision-making, combined with the potential for bias and manipulation, creates massive opportunities for corruption. This could allow contractors to game the system through data manipulation, while removing human accountability for spending decisions. It's outsourcing not just work, but governmental decision-making authority itself.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

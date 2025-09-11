@@ -1,0 +1,38 @@
+{
+  "id": "1973-02-16--heritage-foundation-founded-paul-weyrich-edwin-feulner-joseph-coors",
+  "date": "1973-02-16",
+  "title": "Heritage Foundation Founded as Conservative Think Tank Implementing Powell Strategy",
+  "summary": "The Heritage Foundation is officially founded by Paul Weyrich, Edwin Feulner, and Joseph Coors, implementing the strategic vision outlined in the Powell Memorandum. Coors provides the crucial seed funding of $250,000 (equivalent to $1.6 million in 2021 dollars) to establish what becomes one of the most influential conservative think tanks in American politics. The organization is conceived as a conservative counterpart to the Brookings Institution, designed to provide intellectual ammunition for conservative policy positions and counter liberal academic influence. Weyrich serves as the first president, while Feulner becomes a founding trustee and later president. The foundation's creation represents a direct response to Powell's call for organized, well-funded conservative intellectual infrastructure to shape public policy and political discourse. This marks the beginning of systematic conservative think tank proliferation that will fundamentally alter American political debate.",
+  "actors": [
+    "Paul Weyrich",
+    "Edwin Feulner",
+    "Joseph Coors",
+    "Heritage Foundation"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.influencewatch.org/non-profit/heritage-foundation/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "think-tank-founding",
+    "conservative-movement",
+    "corporate-influence",
+    "political-infrastructure",
+    "narrative-control"
+  ],
+  "status": "confirmed",
+  "priority_id": "RT-208559C5-heritage-foundation-launch-1973",
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

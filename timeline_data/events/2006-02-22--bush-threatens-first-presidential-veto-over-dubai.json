@@ -1,0 +1,40 @@
+{
+  "date": "2006-02-22",
+  "title": "Bush Threatens First Presidential Veto Over Dubai Ports Deal",
+  "summary": "President George W. Bush threatened to cast his first presidential veto if Congress blocked Dubai Ports World's acquisition of US port operations, declaring it would \"send a terrible signal to friends and allies.\" This unprecedented confrontation pitted the Republican-controlled White House against the Republican-controlled Congress over national security concerns. Bush defended UAE as \"a strong ally in the war on terror,\" while Congressional leaders from both parties opposed the deal. The controversy created unusual bipartisan opposition, with Senator Charles Schumer leading the campaign against the deal. The White House's aggressive defense of a foreign state-owned company's control of critical US infrastructure demonstrated the administration's prioritization of diplomatic relationships over security concerns raised by intelligence agencies.",
+  "actors": [
+    "George W. Bush",
+    "Charles Schumer",
+    "Dubai Ports World",
+    "UAE",
+    "Republican Congress"
+  ],
+  "tags": [
+    "presidential-power",
+    "corporate-influence",
+    "foreign-policy",
+    "regulatory-capture"
+  ],
+  "importance": 9,
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/Dubai_Ports_World_controversy",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/02/20060222-11.html",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2006-02-22--bush-threatens-first-presidential-veto-over-dubai",
+  "priority_id": "RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

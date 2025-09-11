@@ -43,5 +43,12 @@
       "outlet": "American Bar Association",
       "date": "2021-09-01"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

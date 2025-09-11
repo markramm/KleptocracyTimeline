@@ -2,8 +2,8 @@
   "id": "2025-03-07--elon-musk-s-starlink-has-a-growing-footprint-in-the-federal-",
   "date": "2025-03-07",
   "title": "Elon Musk's Starlink has a growing footprint in the federal government",
-  "summary": "Elon Musk’s Starlink has been rapidly adopted across federal agencies, including the General Services Administration, Federal Aviation Administration, and Customs and Border Protection—often bypassing standard review processes",
-  "description": "Elon Musk’s Starlink has been rapidly adopted across federal agencies, including the General Services Administration, Federal Aviation Administration, and Customs and Border Protection—often bypassing standard review processes",
+  "summary": "Elon Musk\u2019s Starlink has been rapidly adopted across federal agencies, including the General Services Administration, Federal Aviation Administration, and Customs and Border Protection\u2014often bypassing standard review processes",
+  "description": "Elon Musk\u2019s Starlink has been rapidly adopted across federal agencies, including the General Services Administration, Federal Aviation Administration, and Customs and Border Protection\u2014often bypassing standard review processes",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

@@ -1,0 +1,40 @@
+{
+  "date": "1998-10-01",
+  "title": "Electronic Industries Alliance Blacklisting - K Street Project Enforcement",
+  "summary": "Tom DeLay and Newt Gingrich demonstrated the enforcement power of the K Street Project by holding up a bill protecting intellectual property rights to protest the Electronic Industries Alliance's decision to hire former Democratic congressman Dave McCurdy from Oklahoma as president. DeLay pulled the intellectual property rights bill off the House floor and pressured the Electronic Industries Alliance to hire former GOP Rep. Bill Paxon instead of McCurdy. This incident exemplified the K Street Project's systematic blacklisting of firms that hired Democrats, showing how Republican leaders would punish lobbying organizations that didn't comply with their hiring demands. DeLay was later privately reprimanded by the House Ethics Committee for \"badgering a lobbying organization.\" The case became a key example of how the project operated to ensure only Republicans held top lobbying positions, demonstrating the project's success in creating consequences for firms that failed to follow GOP hiring mandates.",
+  "actors": [
+    "Tom DeLay",
+    "Newt Gingrich",
+    "Dave McCurdy",
+    "Electronic Industries Alliance",
+    "Bill Paxon"
+  ],
+  "sources": [
+    {
+      "title": "https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://sourcewatch.org/index.php?title=K_Street_Project",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "regulatory-capture",
+    "corporate-coercion",
+    "political-blacklisting",
+    "lobbying-control"
+  ],
+  "status": "confirmed",
+  "id": "1998-10-01--electronic-industries-alliance-blacklisting-k-str",
+  "priority_id": "RT-85893EE2-gingrich-k-street-project",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
+}

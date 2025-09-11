@@ -1,9 +1,9 @@
 {
   "id": "2025-05-12--trump-s-uk-ambassador-has-investments-in-industries-set-to-b",
   "date": "2025-05-12",
-  "title": "Trump’s UK ambassador has investments in industries set to benefit from trade deal",
-  "summary": "Warren Stephens’s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week",
-  "description": "Warren Stephens’s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week",
+  "title": "Trump\u2019s UK ambassador has investments in industries set to benefit from trade deal",
+  "summary": "Warren Stephens\u2019s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week",
+  "description": "Warren Stephens\u2019s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week",
   "status": "confirmed",
   "importance": 9,
   "location": "Washington, D.C.",
@@ -18,7 +18,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump’s UK ambassador has investments in industries set to benefit from trade deal",
+      "title": "Trump\u2019s UK ambassador has investments in industries set to benefit from trade deal",
       "url": "https://www.desmog.com/2025/05/15/donald-trump-uk-ambassador-warren-stephens-investments-industries-set-to-benefit-from-trade-deal/",
       "outlet": "Desmog",
       "date": "2025-05-12"
@@ -54,5 +54,8 @@
   ],
   "notes": "High-priority kleptocratic event from comprehensive timeline.",
   "_merge_note": "Enhanced with information from duplicate event: 2025-05-12--trumps-uk-ambassador-has-investments-in-industries",
-  "_merge_timestamp": "2025-09-05T23:46:55.903272"
+  "_merge_timestamp": "2025-09-05T23:46:55.903272",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

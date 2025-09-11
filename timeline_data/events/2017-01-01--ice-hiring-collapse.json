@@ -43,5 +43,9 @@
     }
   ],
   "notes": "Executive order signed 5 days after inauguration Jan 2017. Congress denied funding - requested $76M for FY2017 capacity building, got $0. Requested $186M for 1,000 officers FY2018, got only $15.7M for 65 agents. Hiring dropped from ~740 officers in 2016 to 371 in 2017. Administration resorted to raiding other federal agencies for personnel to meet enforcement goals.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

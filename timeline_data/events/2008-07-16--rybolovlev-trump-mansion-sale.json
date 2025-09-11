@@ -2,7 +2,7 @@
   "id": "2008-07-16--rybolovlev-trump-mansion-sale",
   "date": "2008-07-16",
   "importance": 6,
-  "title": "Trump sells Palm Beach 'Maison de L'Amitié' to Dmitry Rybolovlev for $95M",
+  "title": "Trump sells Palm Beach 'Maison de L'Amiti\u00e9' to Dmitry Rybolovlev for $95M",
   "summary": "Donald Trump sold the Palm Beach estate to Russian businessman Dmitry\nRybolovlev for $95 million in July 2008. The structure was demolished in 2016\nand the land subdivided; subsequent lot sales totaled roughly $108 million.\n",
   "actors": [
     "Dmitry Rybolovlev",
@@ -27,7 +27,7 @@
       "date": "2016-07-27"
     },
     {
-      "title": "Only in Palm Beach—The $95 Million Tear-Down",
+      "title": "Only in Palm Beach\u2014The $95 Million Tear-Down",
       "url": "https://www.nytimes.com/2016/08/28/realestate/donald-trump-palm-beach-mansion-tear-down.html",
       "outlet": "New York Times",
       "date": "2016-08-27"
@@ -55,5 +55,9 @@
   ],
   "notes": "Price and timing confirmed by property reporting. High price drew scrutiny; a\nSenate inquiry sought records but found no public allegation of illegality.\nDemolition/subdivision later yielded about $108M in total sales.\n",
   "_merge_note": "Enhanced with information from duplicate event: 2008-07-16--trump-sells-palm-beach-mansion-to-russian-oligarch",
-  "_merge_timestamp": "2025-09-05T23:46:55.898319"
+  "_merge_timestamp": "2025-09-05T23:46:55.898319",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

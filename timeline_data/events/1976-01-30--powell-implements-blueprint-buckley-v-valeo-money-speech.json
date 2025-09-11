@@ -1,0 +1,37 @@
+{
+  "id": "1976-01-30--powell-implements-blueprint-buckley-v-valeo-money-speech",
+  "date": "1976-01-30",
+  "title": "Powell Helps Implement Corporate Blueprint in Buckley v. Valeo Equating Money with Speech",
+  "summary": "Justice Lewis Powell joins the Supreme Court's landmark decision in Buckley v. Valeo, which equates money in the form of campaign expenditures with political speech protected by the First Amendment. This decision represents Powell's first major implementation of his 1971 corporate blueprint memo, which advocated for corporations to acquire and use political power 'aggressively and with determination.' By establishing the constitutional principle that spending money equals speech, Powell creates the legal foundation for unlimited corporate political influence that his memo had called for.",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Lewis F. Powell Jr.",
+    "Supreme Court",
+    "Federal Election Campaign Act"
+  ],
+  "tags": [
+    "Buckley v. Valeo",
+    "campaign finance",
+    "money as speech",
+    "political expenditures",
+    "Powell blueprint implementation"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "The Scheme 2: Powell on the Court",
+      "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/",
+      "outlet": "Senator Sheldon Whitehouse",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Powell joined court's 1976 ruling in Buckley v. Valeo",
+        "Decision equated money with political speech",
+        "First case allowing Powell to implement recommendations from his memo"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

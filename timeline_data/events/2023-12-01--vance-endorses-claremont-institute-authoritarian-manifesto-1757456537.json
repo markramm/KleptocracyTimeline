@@ -8,9 +8,21 @@
   ],
   "importance": 9,
   "sources": [
-    "Speech transcript",
-    "Book content",
-    "Media coverage"
+    {
+      "title": "Speech transcript",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Book content",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Media coverage",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "claremont-institute",
@@ -20,5 +32,8 @@
   ],
   "status": "confirmed",
   "id": "2023-12-01--vance-endorses-claremont-institute-authoritarian-manifesto-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

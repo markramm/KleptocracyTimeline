@@ -31,5 +31,12 @@
     }
   ],
   "notes": "Use the EO and OPM memo as primary; media summaries provide context. Where\ncounts differ, present official guidance alongside independent analyses.\n",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

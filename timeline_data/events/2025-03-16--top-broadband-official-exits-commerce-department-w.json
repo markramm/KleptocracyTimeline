@@ -2,8 +2,8 @@
   "id": "2025-03-16--top-broadband-official-exits-commerce-department-w",
   "date": "2025-03-16",
   "title": "Top broadband official exits Commerce Department with sharp Musk warning",
-  "summary": "Evan Feinman, who led the Commerce Department’s $42.5 billion broadband program, resigned warning that Trump is restructuring the initiative to benefit Elon Musk’s Starlink",
-  "description": "Evan Feinman, who led the Commerce Department’s $42.5 billion broadband program, resigned warning that Trump is restructuring the initiative to benefit Elon Musk’s Starlink",
+  "summary": "Evan Feinman, who led the Commerce Department\u2019s $42.5 billion broadband program, resigned warning that Trump is restructuring the initiative to benefit Elon Musk\u2019s Starlink",
+  "description": "Evan Feinman, who led the Commerce Department\u2019s $42.5 billion broadband program, resigned warning that Trump is restructuring the initiative to benefit Elon Musk\u2019s Starlink",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -52,5 +52,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

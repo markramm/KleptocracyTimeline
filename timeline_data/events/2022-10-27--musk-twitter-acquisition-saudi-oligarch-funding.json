@@ -1,0 +1,48 @@
+{
+  "id": "2022-10-27--musk-twitter-acquisition-saudi-oligarch-funding",
+  "title": "Musk Completes Twitter Acquisition with $44 Billion in Saudi and Oligarch Funding",
+  "date": "2022-10-27",
+  "description": "Elon Musk completed his $44 billion acquisition of Twitter, with significant funding from Saudi Prince Alwaleed bin Talal ($1.89 billion), Qatar Investment Authority ($375 million), and Oracle founder Larry Ellison ($1 billion). The acquisition immediately raised national security concerns as Saudi Arabia became Twitter's second-largest investor despite its record of imprisoning critics for social media posts.",
+  "category": "foreign_influence",
+  "tags": [
+    "twitter",
+    "musk",
+    "saudi_funding",
+    "oligarchy",
+    "foreign_influence",
+    "acquisition"
+  ],
+  "sources": [
+    {
+      "title": "Musk's Twitter investors include Saudi prince, Dorsey and Qatar",
+      "url": "https://www.bloomberg.com/news/articles/2022-11-01/musk-s-twitter-investors-include-saudi-prince-dorsey-and-qatar",
+      "date": "2022-11-01",
+      "outlet": "Bloomberg"
+    },
+    {
+      "title": "Saudis 'second largest investors' in Twitter after Musk takeover",
+      "url": "https://www.aljazeera.com/news/2022/10/28/saudis-kingdom-holding-company-to-maintain-twitter-stake",
+      "date": "2022-10-28",
+      "outlet": "Al Jazeera"
+    },
+    {
+      "title": "Saudi's Prince Alwaleed, Qatar wealth fund: Meet the investors who funded Elon Musk's Twitter buyout",
+      "url": "https://www.arabianbusiness.com/industries/technology/saudis-prince-alwaleed-qatar-wealth-fund-meet-the-investors-who-funded-elon-musks-twitter-buyout",
+      "date": "2022-11-01",
+      "outlet": "Arabian Business"
+    }
+  ],
+  "importance": 9,
+  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
+  "actors": [
+    "Elon Musk",
+    "Prince Alwaleed bin Talal",
+    "Larry Ellison",
+    "Qatar Investment Authority"
+  ],
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

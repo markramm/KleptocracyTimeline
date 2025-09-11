@@ -40,5 +40,9 @@
       "date": "2025-08-01"
     }
   ],
-  "notes": "Coristine reported directly to Amanda Scales, former xAI employee appointed as OPM chief\nof staff. Was among youngest DOGE members without prior government experience. Given\nphysical access to CISA facilities containing intelligence on worldwide cyber threats.\nLaw enforcement tracked him in cybercrime forums under usernames \"Rivage\" and \"JoeyCrafter.\""
+  "notes": "Coristine reported directly to Amanda Scales, former xAI employee appointed as OPM chief\nof staff. Was among youngest DOGE members without prior government experience. Given\nphysical access to CISA facilities containing intelligence on worldwide cyber threats.\nLaw enforcement tracked him in cybercrime forums under usernames \"Rivage\" and \"JoeyCrafter.\"",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

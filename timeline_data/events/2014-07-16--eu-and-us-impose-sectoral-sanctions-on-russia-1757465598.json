@@ -11,8 +11,16 @@
     "Rosneft"
   ],
   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
-    "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx"
+    {
+      "title": "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -23,5 +31,10 @@
   ],
   "status": "confirmed",
   "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757465598",
-  "priority_id": "RT-EXP-D1F3485F-russian-oligarch-nyc-property-boom"
+  "priority_id": "RT-EXP-D1F3485F-russian-oligarch-nyc-property-boom",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

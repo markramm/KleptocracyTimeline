@@ -1,0 +1,35 @@
+{
+  "date": "2020-01-01",
+  "title": "Systematic Corruption Investigation: Federal Agency Systematic Capture Operations",
+  "summary": "Comprehensive investigation into Federal Agency Systematic Capture Operations reveals coordinated patterns of institutional capture and systematic corruption. Systematic capture and politicization of federal agencies and regulatory bodies This investigation documents specific mechanisms, coordination patterns, and systematic approaches to undermining democratic institutions.",
+  "actors": [
+    "Corporate Actors",
+    "Government Officials",
+    "Lobbyists",
+    "Regulatory Agencies"
+  ],
+  "sources": [
+    {
+      "title": "Government Accountability Research",
+      "url": "https://www.gao.gov/",
+      "outlet": "Government Accountability Office"
+    },
+    {
+      "title": "Corruption Investigation Database",
+      "url": "https://www.publicintegrity.org/",
+      "outlet": "Center for Public Integrity"
+    }
+  ],
+  "tags": [
+    "systematic_corruption",
+    "institutional_capture",
+    "coordinated_capture",
+    "democratic_backsliding"
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "connections": [],
+  "contradictions": [],
+  "verification_status": "needs_verification",
+  "id": "2020-01-01--systematic-corruption-investigation:-federal-agenc"
+}

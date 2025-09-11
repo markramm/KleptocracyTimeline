@@ -1,0 +1,29 @@
+{
+  "date": "2023-04-19",
+  "title": "Trump Second NFT Collection Sells Out While Original Collection Prices Plunge",
+  "summary": "Trump launched his second NFT collection which sold out rapidly, causing floor prices of his original December 2022 collection to fall by significant margins. The timing coincided with Trump's legal troubles, with NFT sales spiking following his arraignment in New York. Trading volumes for the original collection had already fallen 99% by this point from the December peak.",
+  "importance": 6,
+  "actors": [
+    "Donald Trump",
+    "NFT INT LLC"
+  ],
+  "sources": [
+    {
+      "title": "Trump's Second NFT Collection Sells Out While Prices on First Collection Plunge",
+      "url": "https://www.coindesk.com/web3/2023/04/19/trumps-second-nft-collection-sells-out-while-prices-on-first-collection-plunge",
+      "outlet": "CoinDesk"
+    }
+  ],
+  "tags": [
+    "NFT",
+    "Trump",
+    "crypto",
+    "market manipulation",
+    "digital assets"
+  ],
+  "id": "2023-04-19--trump-second-nft-collection-sells-out-while-origin",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

@@ -38,5 +38,10 @@
       "outlet": "New York Times",
       "date": "2018-11-20"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

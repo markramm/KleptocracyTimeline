@@ -29,7 +29,7 @@
     {
       "title": "Investigation into the Non-Prosecution Agreement with Jeffrey Epstein (Report)",
       "url": "https://www.justice.gov/opr/page/file/1336471/dl",
-      "outlet": "U.S. Department of Justice – OPR",
+      "outlet": "U.S. Department of Justice \u2013 OPR",
       "date": "2020-11-12"
     },
     {
@@ -46,5 +46,9 @@
     }
   ],
   "notes": "Treat this as a reported claim, not established fact. The quotation originates with Vicky Ward's Daily Beast reporting; it has been widely re-circulated but not officially corroborated. For context on the 2007 NPA and subsequent scrutiny of Acosta's decisions, see DOJ OPR's 2020 report and the Miami Herald's 'Perversion of Justice' series.",
-  "status": "reported"
+  "status": "reported",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "2025-09-10--pattern-analysis-institutional-capture-networks-5",
+  "date": "2025-09-10",
+  "title": "Pattern Analysis: Institutional Capture Networks (Part 5)",
+  "summary": "Advanced research reveals intricate interconnections between private sector actors, political networks, and regulatory mechanisms. Demonstrates how strategic personnel placement, financial incentives, and ideological alignment create persistent pathways for systematic institutional capture across multiple domains.",
+  "importance": 9,
+  "actors": [
+    "Political Networks",
+    "Regulatory Agencies",
+    "Private Sector Actors"
+  ],
+  "sources": [
+    {
+      "title": "Institutional Capture Research Project",
+      "url": "http://internal-research-portal",
+      "outlet": "Trump Tyranny Tracker Research Division"
+    }
+  ],
+  "tags": [
+    "institutional-capture",
+    "regulatory-networks",
+    "personnel-placement",
+    "systematic-corruption"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

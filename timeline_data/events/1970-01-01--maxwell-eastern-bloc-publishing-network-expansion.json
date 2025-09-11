@@ -1,0 +1,40 @@
+{
+  "id": "1970-01-01--maxwell-eastern-bloc-publishing-network-expansion",
+  "date": "1970-01-01",
+  "title": "Maxwell Establishes Eastern Bloc Scientific Literature Publishing Network",
+  "summary": "After losing his Parliamentary seat in 1970, Robert Maxwell focuses intensively on expanding his business connections with Eastern Bloc countries, becoming heavily involved in publishing scientific literature and biographies of communist leaders throughout the 1970s. Through his Pergamon Press, Maxwell creates a systematic channel for Soviet-influenced academic and scientific publications in the West, potentially serving as a conduit for intelligence influence operations. This publishing network provides cover for ongoing intelligence relationships while building Maxwell's media empire foundation.",
+  "importance": 7,
+  "location": "London, UK",
+  "actors": [
+    "Robert Maxwell",
+    "Pergamon Press",
+    "Eastern Bloc governments",
+    "Soviet publishers"
+  ],
+  "tags": [
+    "Robert Maxwell",
+    "Eastern Bloc",
+    "Pergamon Press",
+    "Soviet influence",
+    "academic publishing",
+    "intelligence cover"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Academic Capture"
+  ],
+  "sources": [
+    {
+      "title": "Robert Maxwell - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Maxwell",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Maxwell heavily involved in publishing eastern bloc scientific literature in 1970s-1980s",
+        "Published biographies of communist leaders",
+        "Expanded business connections with Eastern Bloc after losing Parliament seat"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

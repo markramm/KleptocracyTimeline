@@ -2,8 +2,8 @@
   "id": "2025-04-25--trump-s-meme-coin-dinner-contest-earns-insiders-900-000-in-t",
   "date": "2025-04-25",
   "title": "Trump's meme coin dinner contest earns insiders $900,000 in two days",
-  "summary": "Trump’s memecoin dinner contest netted $900,000 in insider profits in 48 hours",
-  "description": "Trump’s memecoin dinner contest netted $900,000 in insider profits in 48 hours",
+  "summary": "Trump\u2019s memecoin dinner contest netted $900,000 in insider profits in 48 hours",
+  "description": "Trump\u2019s memecoin dinner contest netted $900,000 in insider profits in 48 hours",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

@@ -14,5 +14,16 @@
   ],
   "category": "system-test",
   "verification_status": "confirmed",
-  "id": "2025-09-06--test-timeline-event-creation-system"
+  "id": "2025-09-06--test-timeline-event-creation-system",
+  "sources": [
+    {
+      "title": "Source needed",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

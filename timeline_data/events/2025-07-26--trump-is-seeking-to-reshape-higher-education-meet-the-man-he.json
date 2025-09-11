@@ -2,8 +2,8 @@
   "id": "2025-07-26--trump-is-seeking-to-reshape-higher-education-meet-the-man-he",
   "date": "2025-07-26",
   "title": "Trump is seeking to reshape higher education. Meet the man he wants leading the charge",
-  "summary": "Trump’s pick for Under Secretary of the Department of Education, Nicholas Kent, has deep ties to the for-profit college industry–a frequent target of the department for fraud investigations",
-  "description": "Trump’s pick for Under Secretary of the Department of Education, Nicholas Kent, has deep ties to the for-profit college industry–a frequent target of the department for fraud investigations",
+  "summary": "Trump\u2019s pick for Under Secretary of the Department of Education, Nicholas Kent, has deep ties to the for-profit college industry\u2013a frequent target of the department for fraud investigations",
+  "description": "Trump\u2019s pick for Under Secretary of the Department of Education, Nicholas Kent, has deep ties to the for-profit college industry\u2013a frequent target of the department for fraud investigations",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

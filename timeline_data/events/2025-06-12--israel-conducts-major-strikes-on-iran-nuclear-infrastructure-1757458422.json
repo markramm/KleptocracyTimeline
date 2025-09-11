@@ -11,9 +11,21 @@
     "Natanz nuclear facility personnel"
   ],
   "sources": [
-    "https://commonslibrary.parliament.uk/research-briefings/cbp-10292/",
-    "https://www.mei.edu/publications/special-briefing-israel-strikes-irans-nuclear-program",
-    "https://www.csis.org/analysis/what-know-about-israeli-strike-iran"
+    {
+      "title": "https://commonslibrary.parliament.uk/research-briefings/cbp-10292/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.mei.edu/publications/special-briefing-israel-strikes-irans-nuclear-program",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.csis.org/analysis/what-know-about-israeli-strike-iran",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 9,
   "tags": [
@@ -25,5 +37,9 @@
   ],
   "status": "confirmed",
   "id": "2025-06-12--israel-conducts-major-strikes-on-iran-nuclear-infrastructure-1757458422",
-  "priority_id": "geopolitics-15ecda65"
+  "priority_id": "geopolitics-15ecda65",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

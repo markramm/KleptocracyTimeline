@@ -25,5 +25,11 @@
       "outlet": "New York Times",
       "date": "2008-09-27"
     }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

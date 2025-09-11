@@ -2,8 +2,8 @@
   "id": "2025-07-31--elon-musk-gives-millions-to-republican-super-pacs-ahead-of-t",
   "date": "2025-07-31",
   "title": "Elon Musk gives millions to Republican super PACs ahead of the midterms",
-  "summary": "Elon Musk gave Trump’s super PAC $5 million despite their public feud",
-  "description": "Elon Musk gave Trump’s super PAC $5 million despite their public feud",
+  "summary": "Elon Musk gave Trump\u2019s super PAC $5 million despite their public feud",
+  "description": "Elon Musk gave Trump\u2019s super PAC $5 million despite their public feud",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

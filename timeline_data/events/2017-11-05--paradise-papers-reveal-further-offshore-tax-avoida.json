@@ -1,0 +1,40 @@
+{
+  "date": "2017-11-05",
+  "title": "Paradise Papers Reveal Further Offshore Tax Avoidance",
+  "summary": "A second major leak of offshore documents, the Paradise Papers, exposed how the global elite used legal loopholes to avoid taxes through offshore investments. The documents revealed the offshore activities of more than 120 politicians and world leaders, including substantial holdings by Russian oligarchs and connections to President Trump's administration. The leak included 13.4 million documents from two offshore service providers and 19 tax havens.",
+  "actors": [
+    "Appleby",
+    "Estera",
+    "Queen Elizabeth II",
+    "Wilbur Ross",
+    "Russian oligarchs",
+    "ICIJ"
+  ],
+  "sources": [
+    {
+      "title": "https://www.icij.org/investigations/paradise-papers/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.bbc.com/news/world-41880153",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "paradise-papers",
+    "offshore-finance",
+    "tax-havens",
+    "oligarchs"
+  ],
+  "status": "confirmed",
+  "id": "2017-11-05--paradise-papers-reveal-further-offshore-tax-avoida",
+  "priority_id": "capture-cascade-part4-thiel-international-oligarchic-network-operations--20250909-182540",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

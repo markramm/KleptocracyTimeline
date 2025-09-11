@@ -2,8 +2,8 @@
   "id": "2025-07-17--in-the-trump-administration-watchdogs-are-watching-their-bac",
   "date": "2025-07-17",
   "title": "In the Trump administration, watchdogs are watching their backs",
-  "summary": "Trump’s mass firings of government watchdogs and retaliatory actions against them have created a culture of fear that forces many to choose between keeping their jobs and upholding the law",
-  "description": "Trump’s mass firings of government watchdogs and retaliatory actions against them have created a culture of fear that forces many to choose between keeping their jobs and upholding the law",
+  "summary": "Trump\u2019s mass firings of government watchdogs and retaliatory actions against them have created a culture of fear that forces many to choose between keeping their jobs and upholding the law",
+  "description": "Trump\u2019s mass firings of government watchdogs and retaliatory actions against them have created a culture of fear that forces many to choose between keeping their jobs and upholding the law",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

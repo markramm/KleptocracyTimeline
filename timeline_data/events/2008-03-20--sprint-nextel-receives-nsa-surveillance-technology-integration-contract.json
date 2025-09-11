@@ -8,7 +8,8 @@
     {
       "url": "https://www.sprintcorporate.com/government-contracts/nsa-integration-services",
       "title": "Sprint NSA Integration Services Contract",
-      "type": "corporate_disclosure"
+      "type": "corporate_disclosure",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -25,5 +26,8 @@
   "actors": [
     "Bush Administration"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
 }

@@ -1,0 +1,26 @@
+{
+  "date": "2024-01-15",
+  "title": "Test Event 1",
+  "summary": "First test event to verify unique ID generation",
+  "actors": [
+    "Test Actor 1"
+  ],
+  "sources": [
+    {
+      "title": "https://example.com/1",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "test",
+    "validation"
+  ],
+  "status": "confirmed",
+  "id": "2024-01-15--test-event-1-ea0b1b78",
+  "priority_id": "test-priority-001",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

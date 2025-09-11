@@ -3,7 +3,7 @@
   "date": "2017-01-01",
   "importance": 6,
   "title": "ICE relies on a sprawling, mostly contracted network of ~200 detention facilities; oversight fragmented",
-  "summary": "GAO reports document ICE's reliance on a complex network of contracted detention facilities, including Intergovernmental Service Agreements (IGSAs) with guaranteed-minimum payment structures. In FY2019, ICE maintained contracts with 230+ facilities for longer‑term detention, alongside short‑term holds in jails and Border Patrol stations. GAO identified significant oversight gaps, with multiple DHS entities conducting inspections but lacking clearly defined performance goals and measures.",
+  "summary": "GAO reports document ICE's reliance on a complex network of contracted detention facilities, including Intergovernmental Service Agreements (IGSAs) with guaranteed-minimum payment structures. In FY2019, ICE maintained contracts with 230+ facilities for longer\u2011term detention, alongside short\u2011term holds in jails and Border Patrol stations. GAO identified significant oversight gaps, with multiple DHS entities conducting inspections but lacking clearly defined performance goals and measures.",
   "location": "United States",
   "actors": [
     "ICE",
@@ -47,6 +47,9 @@
       "date": "2022-05-16"
     }
   ],
-  "notes": "Replace unsourced '1,000+ undisclosed sites' language with verifiable counts and official oversight findings. Short‑term hoteling of children under Title 42 (2020) should be handled as a separate entry (see 102).",
-  "status": "confirmed"
+  "notes": "Replace unsourced '1,000+ undisclosed sites' language with verifiable counts and official oversight findings. Short\u2011term hoteling of children under Title 42 (2020) should be handled as a separate entry (see 102).",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

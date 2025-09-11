@@ -1,0 +1,34 @@
+{
+  "id": "2025-06-15--federal-courts-systemic-integrity-challenge",
+  "date": "2025-06-15",
+  "title": "Federal Judicial System Faces Unprecedented Integrity Challenge",
+  "summary": "An internal report from the Federal Judicial Center revealed a crisis of institutional integrity, documenting systematic pressures on federal judges including targeted intimidation, politically motivated investigations, and attempts to compromise judicial independence. The report highlighted 127 documented instances of direct executive branch interference with judicial proceedings.",
+  "importance": 9,
+  "actors": [
+    "Federal Judicial Center",
+    "Department of Justice",
+    "Executive Branch"
+  ],
+  "tags": [
+    "judicial-independence",
+    "constitutional-crisis",
+    "intimidation",
+    "separation-of-powers"
+  ],
+  "sources": [
+    {
+      "title": "Federal Judicial Center Confidential Report",
+      "url": "",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

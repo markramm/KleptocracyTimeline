@@ -37,5 +37,9 @@
     }
   ],
   "importance": 9,
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

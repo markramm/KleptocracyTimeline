@@ -2,8 +2,8 @@
   "id": "2025-06-25--trump-administration-moves-to-count-crypto-as-a-federal-mort",
   "date": "2025-06-25",
   "title": "Trump administration moves to count crypto as a federal mortgage asset",
-  "summary": "The Federal Housing Finance Agency directed Fannie Mae and Freddie Mac to consider cryptocurrency held on US-regulated exchanges as assets in borrower’s mortgage applications",
-  "description": "The Federal Housing Finance Agency directed Fannie Mae and Freddie Mac to consider cryptocurrency held on US-regulated exchanges as assets in borrower’s mortgage applications",
+  "summary": "The Federal Housing Finance Agency directed Fannie Mae and Freddie Mac to consider cryptocurrency held on US-regulated exchanges as assets in borrower\u2019s mortgage applications",
+  "description": "The Federal Housing Finance Agency directed Fannie Mae and Freddie Mac to consider cryptocurrency held on US-regulated exchanges as assets in borrower\u2019s mortgage applications",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture"
+  ]
 }

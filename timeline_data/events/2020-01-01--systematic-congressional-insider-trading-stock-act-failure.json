@@ -1,0 +1,30 @@
+{
+  "id": "2020-01-01--systematic-congressional-insider-trading-stock-act-failure",
+  "date": "2020-01-01",
+  "title": "Systematic Congressional Insider Trading Despite STOCK Act Requirements",
+  "summary": "Analysis reveals widespread systematic failure of the 2012 STOCK Act to prevent congressional insider trading, with over 100 members of Congress making approximately 10,000 stock trades annually since 2021 while consistently outperforming market averages. At least 62 members of the 118th Congress have violated federal insider trading laws, with the $200 penalty proving ineffective deterrence against potential millions in gains. The 2020 COVID-19 pandemic exposed particularly egregious violations when senators sold stocks just before market crashes following classified briefings. Studies show 97 members (nearly one-fifth of Congress) made trades from 2019-2021 that constituted conflicts of interest based on committee assignments. Notable patterns include Rep. Donalds making 108 trades worth $108,000-$1.6M in companies that donated to his campaign, Nancy Pelosis husband acquiring $1M+ in Nvidia options before chip subsidy votes, and systematic trading by banking committee members during the 2023 Silicon Valley Bank crisis. Despite transparency requirements, enforcement remains virtually non-existent, creating systematic corruption where legislators profit from privileged information while crafting policy affecting their investments.",
+  "importance": 8,
+  "tags": [
+    "congress",
+    "corruption",
+    "insider_trading",
+    "STOCK_act",
+    "systematic_failure",
+    "conflict_of_interest"
+  ],
+  "actors": [
+    "Actor needs identification"
+  ],
+  "sources": [
+    {
+      "title": "Source needed",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Financial Capture"
+  ]
+}

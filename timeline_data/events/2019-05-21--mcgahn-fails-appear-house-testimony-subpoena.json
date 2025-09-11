@@ -1,0 +1,34 @@
+{
+  "date": "2019-05-21",
+  "title": "McGahn Defies Scheduled Congressional Testimony Despite House Subpoena",
+  "summary": "Donald McGahn fails to appear for scheduled May 21 House Judiciary Committee testimony despite congressional subpoena, following White House direction. McGahn's attorney cites \"certain duties and obligations to the President\" as justification for defiance, establishing pattern of using executive privilege claims to obstruct congressional oversight of systematic corruption.",
+  "actors": [
+    "Donald McGahn",
+    "House Judiciary Committee",
+    "Jerry Nadler",
+    "William Burck"
+  ],
+  "sources": [
+    {
+      "title": "Chairman Nadler Issues Subpoena for Former White House Counsel Don McGahn",
+      "url": "https://nadler.house.gov/news/documentsingle.aspx?DocumentID=393887",
+      "outlet": "House Judiciary Committee"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "don_mcgahn",
+    "testimony_obstruction",
+    "house_judiciary",
+    "executive_privilege",
+    "subpoena_defiance"
+  ],
+  "status": "confirmed",
+  "id": "2019-05-21--mcgahn-fails-appear-house-testimony-subpoena",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

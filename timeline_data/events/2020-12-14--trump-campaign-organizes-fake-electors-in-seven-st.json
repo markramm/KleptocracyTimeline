@@ -39,5 +39,11 @@
       "outlet": "NPR",
       "date": "2023-07-18"
     }
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "id": "1997-10-24--imf-structural-adjustment-policy-implementation",
+  "date": "1997-10-24",
+  "title": "IMF Structural Adjustment Policies Implemented in Asian Economies",
+  "summary": "The IMF mandates comprehensive structural adjustment policies for affected Asian countries, including Indonesia, South Korea, and Thailand. These policies involve privatization, trade liberalization, and financial deregulation, fundamentally transforming local economic structures to benefit multinational corporate interests.",
+  "importance": 9,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "McKinsey & Company",
+    "Goldman Sachs",
+    "Indonesian Government",
+    "South Korean Government"
+  ],
+  "tags": [
+    "structural_adjustment",
+    "economic_intervention",
+    "privatization",
+    "corporate_capture"
+  ],
+  "sources": [
+    {
+      "title": "Globalization and the Asian Financial Crisis",
+      "url": "https://www.globalpolicy.org/social-and-economic-policy/global-economy/globalization-and-the-asian-financial-crisis.html",
+      "outlet": "Global Policy Forum"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

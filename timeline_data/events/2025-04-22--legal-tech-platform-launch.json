@@ -1,0 +1,28 @@
+{
+  "id": "2025-04-22--legal-tech-platform-launch",
+  "date": "2025-04-22",
+  "title": "Legal Resistance Technology Platform Launch",
+  "summary": "Innovative digital platform launched to connect pro bono attorneys, provide real-time legal research, and coordinate rapid response litigation strategies. Platform integrates secure communication tools and collaborative case management for legal resistance network.",
+  "importance": 7,
+  "actors": [
+    "Legal Tech Innovators",
+    "Civil Rights Technology Group",
+    "Pro Bono Network"
+  ],
+  "tags": [
+    "Legal technology",
+    "Pro bono support",
+    "Coordinated litigation"
+  ],
+  "sources": [
+    {
+      "title": "Legal Resistance Technology Platform Whitepaper",
+      "outlet": "Legal Innovation Quarterly",
+      "url": "https://example.com"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

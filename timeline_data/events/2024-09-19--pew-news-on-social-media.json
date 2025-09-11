@@ -13,12 +13,14 @@
     "https://www.pewresearch.org/short-reads/2024/09/17/more-americans-regularly-get-news-on-tiktok-especially-young-adults"
   ],
   "id": "2024-09-19--pew-news-on-social-media",
-  "actors": [],
+  "actors": [
+    "Actor needs identification"
+  ],
   "notes": "",
   "status": "confirmed",
   "sources": [
     {
-      "title": "More Americans – especially young adults – are regularly getting news on TikTok",
+      "title": "More Americans \u2013 especially young adults \u2013 are regularly getting news on TikTok",
       "url": "https://www.pewresearch.org/short-reads/2024/09/17/more-americans-regularly-get-news-on-tiktok-especially-young-adults",
       "outlet": "Pew Research Center",
       "date": "2024-09-17",
@@ -31,5 +33,9 @@
       "date": "2024-09-19",
       "archive_url": "https://web.archive.org/web/20240920000000*/https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
   ]
 }

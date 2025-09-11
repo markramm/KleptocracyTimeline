@@ -1,7 +1,7 @@
 {
   "id": "2025-03-17--trump-administration-accused-of-quid-pro-quo-for-fast-tracki",
   "date": "2025-03-17",
-  "title": "Trump administration accused of ‘quid pro quo’ for fast-tracking controversial fossil fuel proposal in Michigan",
+  "title": "Trump administration accused of \u2018quid pro quo\u2019 for fast-tracking controversial fossil fuel proposal in Michigan",
   "summary": "Trump fast-tracked the Line 5 pipeline project, which is partially contracted to a company owned by major Trump donor Tim Barnard",
   "description": "Trump fast-tracked the Line 5 pipeline project, which is partially contracted to a company owned by major Trump donor Tim Barnard",
   "status": "confirmed",
@@ -46,5 +46,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "High-priority kleptocratic event from comprehensive timeline."
+  "notes": "High-priority kleptocratic event from comprehensive timeline.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

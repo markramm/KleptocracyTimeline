@@ -2,8 +2,8 @@
   "id": "2025-04-07--another-law-firm-braces-for-possible-blowback-from-trump",
   "date": "2025-04-07",
   "title": "Another law firm braces for possible blowback from Trump",
-  "summary": "After previously refusing to represent Trump, Cadwalader, Wickersham & Taft was strong-armed by the White House to offer tens of millions of dollars in pro bono legal work for Trump-approved causes—or face a punishing executive order",
-  "description": "After previously refusing to represent Trump, Cadwalader, Wickersham & Taft was strong-armed by the White House to offer tens of millions of dollars in pro bono legal work for Trump-approved causes—or face a punishing executive order",
+  "summary": "After previously refusing to represent Trump, Cadwalader, Wickersham & Taft was strong-armed by the White House to offer tens of millions of dollars in pro bono legal work for Trump-approved causes\u2014or face a punishing executive order",
+  "description": "After previously refusing to represent Trump, Cadwalader, Wickersham & Taft was strong-armed by the White House to offer tens of millions of dollars in pro bono legal work for Trump-approved causes\u2014or face a punishing executive order",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

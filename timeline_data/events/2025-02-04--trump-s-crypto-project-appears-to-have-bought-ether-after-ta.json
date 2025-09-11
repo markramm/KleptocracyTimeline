@@ -2,8 +2,8 @@
   "id": "2025-02-04--trump-s-crypto-project-appears-to-have-bought-ether-after-ta",
   "date": "2025-02-04",
   "title": "Trump's crypto project appears to have bought Ether after tariff meltdown",
-  "summary": "World Liberty Financial, a decentralized finance project linked to Trump’s family, added approximately $55 million worth of Ether (ETH) after crypto markets crashed following Trump’s brief imposition of tariffs on Mexico and Canada",
-  "description": "World Liberty Financial, a decentralized finance project linked to Trump’s family, added approximately $55 million worth of Ether (ETH) after crypto markets crashed following Trump’s brief imposition of tariffs on Mexico and Canada",
+  "summary": "World Liberty Financial, a decentralized finance project linked to Trump\u2019s family, added approximately\u00a0$55 million\u00a0worth of Ether (ETH) after crypto markets crashed following Trump\u2019s brief imposition of tariffs on\u00a0Mexico and Canada",
+  "description": "World Liberty Financial, a decentralized finance project linked to Trump\u2019s family, added approximately\u00a0$55 million\u00a0worth of Ether (ETH) after crypto markets crashed following Trump\u2019s brief imposition of tariffs on\u00a0Mexico and Canada",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

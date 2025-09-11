@@ -1,0 +1,34 @@
+{
+  "id": "2025-05-05--judicial-intimidation-congressional-hearing",
+  "date": "2025-05-05",
+  "title": "Congressional Hearing Exposes Judicial Intimidation Tactics",
+  "summary": "A special congressional hearing investigated systematic attempts to intimidate federal judges, including threats, public vilification, and potential retaliatory actions. The hearing highlighted the unprecedented strain on judicial independence during the 2025 constitutional crisis.",
+  "importance": 8,
+  "actors": [
+    "Federal Judiciary",
+    "Congress",
+    "Department of Justice",
+    "U.S. Marshals Service"
+  ],
+  "tags": [
+    "judicial-intimidation",
+    "constitutional-crisis",
+    "judicial-independence",
+    "congressional-oversight"
+  ],
+  "sources": [
+    {
+      "title": "Judicial Oversight Report",
+      "url": "https://example.com/judicial-intimidation-hearing",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

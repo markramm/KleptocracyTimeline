@@ -2,8 +2,8 @@
   "id": "2025-07-18--trump-signs-landmark-genius-act-hailing-exciting-new-frontie",
   "date": "2025-07-18",
   "title": "Trump signs landmark GENIUS Act, hailing \"exciting new frontier\" for crypto",
-  "summary": "Trump signed the GENIUS Act into law, establishing a legal category to further legitimize stablecoins–creating new opportunities for him to profit from World Liberty Financial’s USD1 stablecoin",
-  "description": "Trump signed the GENIUS Act into law, establishing a legal category to further legitimize stablecoins–creating new opportunities for him to profit from World Liberty Financial’s USD1 stablecoin",
+  "summary": "Trump signed the GENIUS Act into law, establishing a legal category to further legitimize stablecoins\u2013creating new opportunities for him to profit from World Liberty Financial\u2019s USD1 stablecoin",
+  "description": "Trump signed the GENIUS Act into law, establishing a legal category to further legitimize stablecoins\u2013creating new opportunities for him to profit from World Liberty Financial\u2019s USD1 stablecoin",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

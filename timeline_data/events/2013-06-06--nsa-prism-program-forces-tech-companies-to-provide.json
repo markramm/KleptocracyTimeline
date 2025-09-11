@@ -41,5 +41,12 @@
       "outlet": "NPR",
       "date": "2013-06-11"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

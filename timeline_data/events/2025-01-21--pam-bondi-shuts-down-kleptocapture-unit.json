@@ -47,5 +47,9 @@
     "foreign-influence",
     "institutional-capture"
   ],
-  "notes": "Bondi's immediate elimination of units investigating foreign influence and recovering oligarch assets signals administration's openness to foreign corruption. The KleptoCapture unit had recovered over $5 billion in Russian oligarch assets supporting Ukraine. The Foreign Influence Task Force investigated election interference and foreign lobbying violations. Their elimination removes key mechanisms for combating foreign corruption while Bondi herself has received millions from Trump businesses, creating massive conflicts of interest."
+  "notes": "Bondi's immediate elimination of units investigating foreign influence and recovering oligarch assets signals administration's openness to foreign corruption. The KleptoCapture unit had recovered over $5 billion in Russian oligarch assets supporting Ukraine. The Foreign Influence Task Force investigated election interference and foreign lobbying violations. Their elimination removes key mechanisms for combating foreign corruption while Bondi herself has received millions from Trump businesses, creating massive conflicts of interest.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ]
 }

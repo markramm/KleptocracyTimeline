@@ -1,0 +1,29 @@
+{
+  "id": "2025-09-10--institutional-capture-resilience-mapping",
+  "date": "2025-09-10",
+  "title": "Institutional Capture Resilience: Mapping Resistance Mechanisms",
+  "summary": "Groundbreaking research identifies and maps institutional resilience mechanisms against systematic capture attempts. Analysis reveals critical intervention points, organizational defense strategies, and adaptive governance models that can prevent or reverse institutional transformation. Key findings demonstrate how strategic transparency, distributed decision-making, and proactive oversight can create systemic resistance to capture.",
+  "importance": 9,
+  "actors": [
+    "Democratic Resilience Research Network",
+    "Institutional Defense Strategy Group",
+    "Governance Innovation Collaborative"
+  ],
+  "sources": [
+    {
+      "title": "Institutional Capture Resilience Report",
+      "url": "https://trumptyrannytracker.substack.com/p/institutional-resilience",
+      "outlet": "Trump Tyranny Tracker"
+    }
+  ],
+  "tags": [
+    "institutional-capture",
+    "democratic-resilience",
+    "governance-innovation",
+    "resistance-mechanisms"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

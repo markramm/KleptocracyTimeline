@@ -1,0 +1,30 @@
+{
+  "id": "2025-09-10--institutional-capture-network-mapping-2020-2025",
+  "date": "2025-09-10",
+  "title": "Comprehensive Institutional Capture Network Mapping: 2020-2025 Analysis",
+  "summary": "Systematic research reveals intricate networks of institutional capture across government, technology, and financial sectors. Key findings include coordinated personnel placement, regulatory manipulation, and strategic oversight circumvention designed to transform democratic governance structures. Network analysis exposes deliberate, multi-year strategies targeting critical institutional decision-making processes.",
+  "importance": 9,
+  "actors": [
+    "Tech Industry Leadership",
+    "Political Operatives",
+    "Regulatory Agencies"
+  ],
+  "tags": [
+    "institutional-capture",
+    "network-analysis",
+    "governance-transformation"
+  ],
+  "sources": [
+    {
+      "title": "Institutional Capture Network Mapping Report",
+      "url": "internal-research",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

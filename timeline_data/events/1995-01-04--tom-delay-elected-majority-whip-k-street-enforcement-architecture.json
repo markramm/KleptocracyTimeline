@@ -1,0 +1,36 @@
+{
+  "id": "1995-01-04--tom-delay-elected-majority-whip-k-street-enforcement-architecture",
+  "date": "1995-01-04",
+  "title": "Tom DeLay Elected Majority Whip - Creates K Street PAC Tracking System",
+  "summary": "Following the Republican Revolution, Tom DeLay is elected House Majority Whip and implements systematic lobbying control mechanisms. DeLay creates the notorious 'friendly/unfriendly' PAC classification system, maintaining a notebook tracking which of the 400 largest PACs contribute to Republicans vs Democrats. This becomes the enforcement mechanism for the K Street Project, with DeLay telling lobbyists: 'If you want to play in our revolution, you have to live by our rules.' The system fundamentally transforms Washington lobbying by creating explicit pay-to-play requirements.",
+  "importance": 8,
+  "tags": [
+    "tom_delay",
+    "k_street_project",
+    "lobbying_capture",
+    "republican_revolution",
+    "pac_system"
+  ],
+  "actors": [
+    "Tom DeLay",
+    "Newt Gingrich"
+  ],
+  "sources": [
+    {
+      "title": "The K Street Project and Tom DeLay",
+      "url": "https://www.npr.org/templates/story/story.php?storyId=5157988",
+      "outlet": "NPR",
+      "date": "2006-01-12"
+    },
+    {
+      "title": "K Street Project",
+      "url": "https://www.sourcewatch.org/index.php/K_Street_Project",
+      "outlet": "SourceWatch",
+      "date": "2024-01-01"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
+}

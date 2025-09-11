@@ -2,8 +2,8 @@
   "id": "2025-02-21--doge-put-him-in-the-treasury-department-his-company-has-fede",
   "date": "2025-02-21",
   "title": "DOGE put him in the Treasury Department. His company has federal contracts worth millions",
-  "summary": "Tom Krause, CEO of Cloud Software Group, which holds federal contracts worth up to $11.8 million, has been appointed the Treasury Department’s fiscal assistant secretary while retaining his private-sector role",
-  "description": "Tom Krause, CEO of Cloud Software Group, which holds federal contracts worth up to $11.8 million, has been appointed the Treasury Department’s fiscal assistant secretary while retaining his private-sector role",
+  "summary": "Tom Krause, CEO of Cloud Software Group, which holds federal contracts worth up to $11.8 million, has been appointed the Treasury Department\u2019s fiscal assistant secretary while retaining his private-sector role",
+  "description": "Tom Krause, CEO of Cloud Software Group, which holds federal contracts worth up to $11.8 million, has been appointed the Treasury Department\u2019s fiscal assistant secretary while retaining his private-sector role",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -52,5 +52,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

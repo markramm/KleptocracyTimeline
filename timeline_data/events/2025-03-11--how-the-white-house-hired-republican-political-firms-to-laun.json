@@ -2,8 +2,8 @@
   "id": "2025-03-11--how-the-white-house-hired-republican-political-firms-to-laun",
   "date": "2025-03-11",
   "title": "How the White House hired Republican political firms to launch an anti-migrant ad campaign",
-  "summary": "The Department of Homeland Security bypassed standard competitive bidding procedures to award two Republican-linked firms the first contracts of a $200 million television ad campaign promoting Trump’s immigration policies",
-  "description": "The Department of Homeland Security bypassed standard competitive bidding procedures to award two Republican-linked firms the first contracts of a $200 million television ad campaign promoting Trump’s immigration policies",
+  "summary": "The Department of Homeland Security bypassed standard competitive bidding procedures to award two Republican-linked firms the first contracts of a $200 million television ad campaign promoting Trump\u2019s immigration policies",
+  "description": "The Department of Homeland Security bypassed standard competitive bidding procedures to award two Republican-linked firms the first contracts of a $200 million television ad campaign promoting Trump\u2019s immigration policies",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,10 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

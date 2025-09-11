@@ -9,8 +9,16 @@
   ],
   "importance": 9,
   "sources": [
-    "Employment records",
-    "Vance public statements"
+    {
+      "title": "Employment records",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Vance public statements",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "thiel-network",
@@ -20,5 +28,9 @@
   ],
   "status": "confirmed",
   "id": "2017-03-01--peter-thiel-hires-vance-at-mithril-capital-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

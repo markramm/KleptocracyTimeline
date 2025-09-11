@@ -1,0 +1,44 @@
+{
+  "date": "1999-05-01",
+  "title": "Clear Channel Acquires Jacor Communications and Premiere Radio Networks, Consolidating Conservative Talk Radio",
+  "summary": "Clear Channel Communications completes its .5 billion acquisition of Jacor Communications, bringing its total radio station portfolio to approximately 450 stations and gaining control of Premiere Radio Networks, the syndication powerhouse behind Rush Limbaugh and other conservative talk radio programming. This acquisition represents a pivotal moment in American media consolidation, as Clear Channel now controls both the distribution network (radio stations) and the content creation/syndication arm (Premiere Networks) for conservative political messaging. The deal gives Clear Channel unprecedented power over political discourse, as Premiere Networks syndicates Rush Limbaugh's show to over 650 stations nationwide, making Limbaugh's conservative ideology accessible to millions of Americans daily. This vertical integration model allows Clear Channel to control the entire supply chain of political talk radio - from content creation through syndication to final broadcast - maximizing both profit and political influence. The acquisition eliminates competition in radio syndication and creates artificial barriers for alternative political voices, as competing syndication companies struggle to access Clear Channel's massive station network. By controlling Premiere Networks, Clear Channel effectively controls the gatekeeper function for political talk radio, deciding which voices reach American audiences and which are excluded. This consolidation demonstrates how media deregulation enables corporations to shape political discourse by controlling both the message and the medium, concentrating enormous influence over public opinion in the hands of a single corporate entity.",
+  "importance": 8,
+  "key_actors": [
+    "Clear Channel Communications",
+    "Jacor Communications",
+    "Premiere Radio Networks",
+    "Rush Limbaugh",
+    "Lowry Mays"
+  ],
+  "tags": [
+    "media-consolidation",
+    "clear-channel",
+    "premiere-radio",
+    "rush-limbaugh",
+    "conservative-media",
+    "vertical-integration"
+  ],
+  "sources": [
+    {
+      "title": "https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.encyclopedia.com/books/politics-and-business-magazines/clear-channel-communications-inc",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "id": "1999-05-01--clear-channel-acquires-jacor-communications-and-pr",
+  "priority_id": "RT-EXP-0C04C22A-clear-channel-media-consolidation",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
+}

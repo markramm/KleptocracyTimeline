@@ -2,8 +2,8 @@
   "id": "2025-04-28--at-event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-anno",
   "date": "2025-04-28",
   "title": "At event with Donald Trump Jr., Bulgaria crypto firm Nexo announces US return",
-  "summary": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market–after “productive” talks with American regulators–at a conference it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker",
-  "description": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market–after “productive” talks with American regulators–at a conference it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker",
+  "summary": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market\u2013after \u201cproductive\u201d talks with American regulators\u2013at a conference it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker",
+  "description": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market\u2013after \u201cproductive\u201d talks with American regulators\u2013at a conference it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

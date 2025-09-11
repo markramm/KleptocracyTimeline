@@ -1,0 +1,26 @@
+{
+  "date": "2024-01-16",
+  "title": "Test Event 2",
+  "summary": "Second test event to verify unique ID generation",
+  "actors": [
+    "Test Actor 2"
+  ],
+  "sources": [
+    {
+      "title": "https://example.com/2",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "test",
+    "validation"
+  ],
+  "status": "confirmed",
+  "id": "2024-01-16--test-event-2-94b04f66",
+  "priority_id": "test-priority-001",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

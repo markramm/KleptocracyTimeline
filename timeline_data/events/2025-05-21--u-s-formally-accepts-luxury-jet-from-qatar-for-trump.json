@@ -2,8 +2,8 @@
   "id": "2025-05-21--u-s-formally-accepts-luxury-jet-from-qatar-for-trump",
   "date": "2025-05-21",
   "title": "U.S. formally accepts luxury jet from Qatar for Trump",
-  "summary": "The US has accepted Qatar’s gift luxury jet on behalf of Trump, despite lacking the constitutionally mandated congressional approval for taking emoluments from foreign states",
-  "description": "The US has accepted Qatar’s gift luxury jet on behalf of Trump, despite lacking the constitutionally mandated congressional approval for taking emoluments from foreign states",
+  "summary": "The US has accepted Qatar\u2019s gift luxury jet on behalf of Trump, despite lacking the constitutionally mandated congressional approval for taking emoluments from foreign states",
+  "description": "The US has accepted Qatar\u2019s gift luxury jet on behalf of Trump, despite lacking the constitutionally mandated congressional approval for taking emoluments from foreign states",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

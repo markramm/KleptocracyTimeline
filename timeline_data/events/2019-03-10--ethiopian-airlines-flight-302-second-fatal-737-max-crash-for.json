@@ -1,0 +1,62 @@
+{
+  "id": "2019-03-10--ethiopian-airlines-flight-302-second-fatal-737-max-crash-for",
+  "date": "2019-03-10",
+  "title": "Ethiopian Airlines Flight 302 Second Fatal 737 MAX Crash Forces Worldwide Grounding",
+  "summary": "Ethiopian Airlines Flight 302 crashed approximately six minutes after takeoff from Addis Ababa, killing all 157 passengers and crew aboard. The crash showed striking similarities to the Lion Air disaster five months earlier, with MCAS again activated by a faulty angle of attack sensor - likely damaged by a bird strike during takeoff. Despite Boeing and the FAA's awareness of the Lion Air crash cause, no emergency airworthiness directive had been issued to ground the aircraft or mandate comprehensive pilot training on MCAS. The Ethiopian crew, like their Lion Air counterparts, had no knowledge of MCAS existence and were unable to counteract the system's repeated nose-down commands. The jackscrew was found in the full \"nose down\" position in both crashes, indicating identical system failures. This second tragedy within five months forced aviation authorities worldwide to ground all 737 MAX aircraft, representing one of the largest aircraft groundings in aviation history. The crash definitively proved that Boeing's regulatory capture strategy - prioritizing minimal training requirements and certification complexity over safety - had created a systemically dangerous aircraft. It exposed the fundamental failure of the FAA's delegation of safety oversight to Boeing through the Organization Designation Authorization program, where the manufacturer essentially certified its own aircraft with minimal independent oversight.",
+  "key_actors": [
+    "Captain Yared Getachew",
+    "First Officer Ahmednur Mohammed",
+    "Ethiopian Airlines crew",
+    "Boeing executives",
+    "FAA Administrator Steve Dickson"
+  ],
+  "organizations": [
+    "Ethiopian Airlines",
+    "Boeing",
+    "Federal Aviation Administration",
+    "EASA",
+    "global aviation authorities"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302",
+      "title": "Ethiopian Airlines Flight 302 - Wikipedia",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion",
+      "title": "Boeing Charged with 737 Max Fraud Conspiracy - DOJ",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.seattletimes.com/business/boeing-aerospace/final-report-on-boeing-737-max-crash-disputed-agencies-note-pilot-error-as-a-factor/",
+      "title": "Final report on Boeing 737 MAX crash sparks dispute over pilot error - Seattle Times",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.npr.org/2020/03/09/813740173/ethiopian-officials-say-faulty-boeing-software-played-role-in-deadly-737-max-cra",
+      "title": "Ethiopian Officials Say Faulty Boeing Software Played Role In Deadly 737 Max Crash - NPR",
+      "outlet": "TBD"
+    },
+    {
+      "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20230124.aspx",
+      "title": "NTSB Publishes Additional Comments on Ethiopia's Final Report on 737 MAX 8 Accident - NTSB",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "aviation-disaster",
+    "regulatory-capture",
+    "boeing",
+    "worldwide-grounding",
+    "mcas-system"
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "actors": [
+    "Actor needs identification"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

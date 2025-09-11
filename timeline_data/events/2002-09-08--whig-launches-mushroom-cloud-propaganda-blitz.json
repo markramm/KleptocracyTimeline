@@ -7,7 +7,7 @@
   "actors": [
     "White House Iraq Group",
     "Condoleezza Rice",
-    "Dick Cheney", 
+    "Dick Cheney",
     "George W. Bush",
     "Michael Gerson",
     "Karl Rove"
@@ -41,5 +41,12 @@
       "outlet": "Consortium News",
       "date": "2012-09-08"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
   ]
 }

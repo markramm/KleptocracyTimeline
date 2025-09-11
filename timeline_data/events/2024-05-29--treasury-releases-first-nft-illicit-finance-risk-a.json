@@ -1,0 +1,32 @@
+{
+  "date": "2024-05-29",
+  "title": "Treasury Releases First NFT Illicit Finance Risk Assessment Warning of Money Laundering Vulnerabilities",
+  "summary": "The U.S. Treasury Department published its first-ever comprehensive risk assessment of NFTs for illicit finance, determining that bad actors can exploit NFT platforms for money laundering, terrorist financing, and proliferation financing. The report highlights techniques including overpaying for NFTs to transfer illicit funds and using NFT transactions to obscure the source of criminal proceeds, establishing official government recognition of systemic risks.",
+  "importance": 9,
+  "actors": [
+    "U.S. Treasury Department",
+    "FinCEN"
+  ],
+  "sources": [
+    {
+      "title": "Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment",
+      "url": "https://home.treasury.gov/news/press-releases/jy2382",
+      "outlet": "U.S. Treasury"
+    }
+  ],
+  "tags": [
+    "NFT",
+    "money laundering",
+    "Treasury",
+    "risk assessment",
+    "financial crimes",
+    "policy"
+  ],
+  "id": "2024-05-29--treasury-releases-first-nft-illicit-finance-risk-a",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

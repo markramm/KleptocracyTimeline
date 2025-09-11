@@ -34,5 +34,11 @@
     }
   ],
   "notes": "First time multiple international democracy organizations have issued coordinated warnings about U.S. democratic health",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
 }

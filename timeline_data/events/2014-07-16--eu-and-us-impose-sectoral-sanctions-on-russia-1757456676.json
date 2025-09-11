@@ -11,8 +11,16 @@
     "Rosneft"
   ],
   "sources": [
-    "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
-    "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx"
+    {
+      "title": "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "importance": 8,
   "tags": [
@@ -23,5 +31,10 @@
   ],
   "status": "confirmed",
   "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757456676",
-  "priority_id": "capture-cascade-part3-putin's-graduate-education-in-american-shock-thera-20250909-182422"
+  "priority_id": "capture-cascade-part3-putin's-graduate-education-in-american-shock-thera-20250909-182422",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

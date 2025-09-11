@@ -1,0 +1,37 @@
+{
+  "id": "2023-03-22--patrick-orlando-fired-dwac-ceo-unprecedented-headwinds",
+  "date": "2023-03-22",
+  "title": "Digital World Acquisition Corp Fires CEO Patrick Orlando Amid SEC Investigation",
+  "summary": "Digital World Acquisition Corp (DWAC) fires CEO Patrick Orlando, citing \"unprecedented headwinds\" that necessitated a leadership change. Orlando, a former Deutsche Bank trader and founder of Benessere Capital, had been central to the SPAC's plan to merge with Trump Media & Technology Group. The firing occurs amid ongoing SEC and federal prosecutor investigations into potential securities fraud related to pre-IPO merger discussions with Truth Social. Orlando's removal represents a significant development in the systematic financial fraud investigation surrounding the Trump media venture.",
+  "tags": [
+    "dwac",
+    "patrick_orlando",
+    "truth_social",
+    "spac_fraud",
+    "sec_investigation",
+    "trump_media"
+  ],
+  "actors": [
+    "Patrick Orlando",
+    "Digital World Acquisition Corp",
+    "DWAC",
+    "Trump Media & Technology Group",
+    "SEC"
+  ],
+  "sources": [
+    {
+      "title": "Trump-linked Digital World Acquisition Corp fires CEO Patrick Orlando",
+      "url": "https://www.cnbc.com/2023/03/22/trump-linked-digital-world-acquisition-corp-fires-ceo.html",
+      "outlet": "CNBC",
+      "date": "2023-03-22"
+    }
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

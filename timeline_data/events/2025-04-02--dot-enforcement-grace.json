@@ -47,5 +47,11 @@
       "outlet": "Department of Transportation",
       "date": "2025-01-28"
     }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture"
   ]
 }

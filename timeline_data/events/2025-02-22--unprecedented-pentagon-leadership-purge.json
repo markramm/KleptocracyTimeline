@@ -1,0 +1,45 @@
+{
+  "id": "2025-02-22--unprecedented-pentagon-leadership-purge",
+  "date": "2025-02-22",
+  "title": "Trump Fires Joint Chiefs Chairman and Navy Chief in Unprecedented Military Purge",
+  "summary": "President Trump fires Joint Chiefs Chairman General Charles Q. Brown Jr. and Defense Secretary Hegseth subsequently dismisses Chief of Naval Operations Admiral Lisa Franchetti (first woman to lead the Navy), Air Force Vice Chief of Staff General James Slife, and the top military lawyers for Army, Navy, and Air Force. Military experts describe this as unprecedented for an incoming president to systematically purge senior military leadership. Democratic Senator Jack Reed calls it \"a threat to the nonpartisan nature of the military.\" The firings target leaders allegedly involved in Diversity, Equity and Inclusion programs, demonstrating coordinated ideological capture of military command structure.",
+  "importance": 10,
+  "location": "Pentagon, Washington DC",
+  "actors": [
+    "Donald Trump",
+    "Pete Hegseth",
+    "General Charles Q. Brown Jr.",
+    "Admiral Lisa Franchetti",
+    "General James Slife",
+    "Military Legal Officers"
+  ],
+  "tags": [
+    "military_purge",
+    "joint_chiefs",
+    "brown_firing",
+    "franchetti_firing",
+    "systematic_politicization",
+    "dei_targeting"
+  ],
+  "capture_lanes": [
+    "Military Politicization",
+    "Executive Branch Corruption"
+  ],
+  "sources": [
+    {
+      "title": "Trump fires Joint Chiefs chairman, Navy head in DOD leadership purge",
+      "url": "https://www.militarytimes.com/pentagon/2025/02/22/trump-fires-joint-chiefs-chairman-navy-head-in-dod-leadership-purge/",
+      "outlet": "Military Times",
+      "date": "2025-02-22",
+      "verified": true
+    },
+    {
+      "title": "Trump administration fires raft of top military officers in unprecedented purge",
+      "url": "https://www.yahoo.com/news/trump-administration-fires-raft-top-024625186.html",
+      "outlet": "Yahoo News",
+      "date": "2025-02-22",
+      "verified": true
+    }
+  ],
+  "status": "confirmed"
+}

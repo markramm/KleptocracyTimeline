@@ -47,5 +47,12 @@
       "outlet": "Conference Board",
       "date": "2025-08-05"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Electoral Manipulation"
   ]
 }

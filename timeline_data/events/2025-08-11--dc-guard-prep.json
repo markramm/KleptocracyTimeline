@@ -43,5 +43,11 @@
       "outlet": "Defense.gov",
       "date": "2025-08-11"
     }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

@@ -38,5 +38,11 @@
       "outlet": "Education Week",
       "date": "2005-10-01"
     }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
   ]
 }

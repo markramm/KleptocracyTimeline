@@ -8,7 +8,8 @@
     {
       "url": "https://fair.org/extra/spinning-the-war-network-coordination/",
       "title": "FAIR Analysis: Media Coordination During Iraq War Buildup",
-      "type": "media_criticism"
+      "type": "media_criticism",
+      "outlet": "TBD"
     }
   ],
   "tags": [
@@ -29,5 +30,8 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

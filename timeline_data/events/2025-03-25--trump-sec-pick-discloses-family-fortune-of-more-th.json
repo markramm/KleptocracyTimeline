@@ -2,8 +2,8 @@
   "id": "2025-03-25--trump-sec-pick-discloses-family-fortune-of-more-th",
   "date": "2025-03-25",
   "title": "Trump SEC pick discloses family fortune of more than $328 million",
-  "summary": "Paul Atkins, Trump’s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
-  "description": "Paul Atkins, Trump’s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
+  "summary": "Paul Atkins, Trump\u2019s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
+  "description": "Paul Atkins, Trump\u2019s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -52,5 +52,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
 }

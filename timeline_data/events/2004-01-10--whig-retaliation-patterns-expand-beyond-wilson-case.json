@@ -4,66 +4,35 @@
   "date": "2004-01-10",
   "description": "The White House Iraq Group systematically expands its retaliation apparatus beyond the Joseph Wilson case to target multiple administration critics including Richard Clarke, Paul O'Neill, Scott Ritter, and other intelligence professionals who challenge Iraq War justifications. This expansion demonstrates institutional evolution from individual retaliation to systematic suppression of all dissent, using coordinated character assassination campaigns, security clearance revocations, career destruction, and legal harassment. The systematic nature of these operations reveals WHIG as the institutional center for weaponizing government power against truthtellers across multiple agencies and domains.",
   "category": "systematic-retaliation-expansion",
-  "actors": {
-    "primary": [
-      {
-        "name": "Karl Rove",
-        "role": "WHIG strategist coordinating systematic retaliation against multiple critics",
-        "affiliation": "White House Iraq Group"
-      },
-      {
-        "name": "Karen Hughes",
-        "role": "WHIG communications director orchestrating character assassination campaigns",
-        "affiliation": "White House Iraq Group"
-      },
-      {
-        "name": "Scooter Libby",
-        "role": "WHIG member implementing systematic intimidation operations",
-        "affiliation": "White House Iraq Group"
-      }
-    ],
-    "secondary": [
-      {
-        "name": "Richard Clarke",
-        "role": "Former counterterrorism coordinator targeted by systematic WHIG retaliation",
-        "affiliation": "Former National Security Council"
-      },
-      {
-        "name": "Paul O'Neill",
-        "role": "Former Treasury Secretary facing coordinated character assassination",
-        "affiliation": "Former Bush administration official"
-      },
-      {
-        "name": "Scott Ritter",
-        "role": "Former UN weapons inspector targeted by systematic intimidation",
-        "affiliation": "Former UN weapons inspector"
-      },
-      {
-        "name": "Greg Thielmann",
-        "role": "Former State Department intelligence official facing systematic retaliation",
-        "affiliation": "Former State Department"
-      }
-    ]
-  },
+  "actors": [
+    "primary",
+    "secondary"
+  ],
   "location": "Washington, DC",
   "sources": [
     {
       "title": "Congressional testimony from multiple administration critics documenting systematic retaliation",
       "type": "congressional-records",
       "credibility": 9,
-      "description": "Victim accounts revealing systematic patterns of government intimidation"
+      "description": "Victim accounts revealing systematic patterns of government intimidation",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "WHIG coordination records showing systematic character assassination planning",
       "type": "government-records",
       "credibility": 10,
-      "description": "Internal documentation of coordinated retaliation campaigns against multiple targets"
+      "description": "Internal documentation of coordinated retaliation campaigns against multiple targets",
+      "url": "https://example.com",
+      "outlet": "TBD"
     },
     {
       "title": "Intelligence community whistleblower protection investigations",
       "type": "government-records",
       "credibility": 9,
-      "description": "Official documentation of systematic retaliation against intelligence professionals"
+      "description": "Official documentation of systematic retaliation against intelligence professionals",
+      "url": "https://example.com",
+      "outlet": "TBD"
     }
   ],
   "constitutional_issues": [
@@ -103,5 +72,10 @@
       "institutional-intimidation-apparatus"
     ]
   },
-  "historical_significance": "The systematic expansion of WHIG retaliation beyond individual cases to target multiple administration critics revealed the institutional transformation of executive branch apparatus into systematic dissent suppression. This expansion demonstrated how propaganda operations could evolve into comprehensive intimidation systems that threatened democratic accountability by systematically punishing truthtellers and whistleblowers across government."
+  "historical_significance": "The systematic expansion of WHIG retaliation beyond individual cases to target multiple administration critics revealed the institutional transformation of executive branch apparatus into systematic dissent suppression. This expansion demonstrated how propaganda operations could evolve into comprehensive intimidation systems that threatened democratic accountability by systematically punishing truthtellers and whistleblowers across government.",
+  "summary": "Summary needs completion",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
 }

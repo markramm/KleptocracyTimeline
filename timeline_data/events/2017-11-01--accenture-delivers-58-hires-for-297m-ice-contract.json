@@ -46,5 +46,8 @@
     }
   ],
   "notes": "Contract awarded Nov 2017 to meet Trump executive order for 7500 additional CBP agents. By Oct 2018 - $13.6M paid for 2 accepted offers. By Dec 2018 - 22 hires on payroll, 58 applicants processed. Total $21M paid, $19M for startup costs. DHS IG 'management alert' stated 'Accenture has already taken longer to deploy and delivered less capability than promised'. Accenture charged ~$40K per hire vs average officer annual salary. Terminated 'for convenience' April 2019.",
-  "status": "confirmed"
+  "status": "confirmed",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
 }

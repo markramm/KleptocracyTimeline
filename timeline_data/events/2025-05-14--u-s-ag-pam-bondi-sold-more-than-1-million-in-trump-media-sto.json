@@ -2,8 +2,8 @@
   "id": "2025-05-14--u-s-ag-pam-bondi-sold-more-than-1-million-in-trump-media-sto",
   "date": "2025-05-14",
   "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs",
-  "summary": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares right before the president announced his “liberation day” reciprocal tariffs on most countries around the world, sending global markets into a tailspin",
-  "description": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares right before the president announced his “liberation day” reciprocal tariffs on most countries around the world, sending global markets into a tailspin",
+  "summary": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares right before the president announced his \u201cliberation day\u201d reciprocal tariffs on most countries around the world, sending global markets into a tailspin",
+  "description": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares right before the president announced his \u201cliberation day\u201d reciprocal tariffs on most countries around the world, sending global markets into a tailspin",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
+  ]
 }

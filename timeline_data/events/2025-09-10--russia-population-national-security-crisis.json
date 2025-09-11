@@ -1,0 +1,29 @@
+{
+  "id": "2025-09-10--russia-population-national-security-crisis",
+  "date": "2025-09-10",
+  "title": "Russia's Demographic Decline Threatens National Security Infrastructure",
+  "summary": "Russia confronts an existential demographic crisis, with population projections showing potential reduction to under 100 million by 2050. This trend creates critical vulnerabilities in military recruitment, economic productivity, and territorial defense strategies, fundamentally reshaping Russia's geopolitical positioning.",
+  "importance": 8,
+  "actors": [
+    "Russian Federal State Statistics Service",
+    "Ministry of Defense",
+    "Strategic Planning Council"
+  ],
+  "sources": [
+    {
+      "title": "Russian Demographic Security Assessment",
+      "url": "https://example.com/russia-demographic-report",
+      "outlet": "Geopolitical Demographics Research Institute"
+    }
+  ],
+  "tags": [
+    "russia",
+    "demographic-collapse",
+    "national-security",
+    "military-recruitment"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

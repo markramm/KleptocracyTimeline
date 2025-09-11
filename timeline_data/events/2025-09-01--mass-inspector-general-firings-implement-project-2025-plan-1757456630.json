@@ -9,9 +9,21 @@
   ],
   "importance": 9,
   "sources": [
-    "Time",
-    "Lawfare",
-    "Project 2025 analysis"
+    {
+      "title": "Time",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Lawfare",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Project 2025 analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "inspector-general-purge",
@@ -21,5 +33,10 @@
   ],
   "status": "confirmed",
   "id": "2025-09-01--mass-inspector-general-firings-implement-project-2025-plan-1757456630",
-  "priority_id": "project-2025-implementation-1757456630"
+  "priority_id": "project-2025-implementation-1757456630",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
 }

@@ -2,8 +2,8 @@
   "id": "2025-04-08--donald-trump-jr-to-visit-romania-right-before-contentious-el",
   "date": "2025-04-08",
   "title": "Donald Trump Jr. to visit Romania right before contentious election",
-  "summary": "Donald Trump Jr. is set to visit Romania – just six days before its rescheduled and highly contentious presidential election – for what is being billed as a “Trump Business Vision 2025” event",
-  "description": "Donald Trump Jr. is set to visit Romania – just six days before its rescheduled and highly contentious presidential election – for what is being billed as a “Trump Business Vision 2025” event",
+  "summary": "Donald Trump Jr. is set to visit Romania \u2013 just six days before its rescheduled and highly contentious presidential election \u2013 for what is being billed as a \u201cTrump Business Vision 2025\u201d event",
+  "description": "Donald Trump Jr. is set to visit Romania \u2013 just six days before its rescheduled and highly contentious presidential election \u2013 for what is being billed as a \u201cTrump Business Vision 2025\u201d event",
   "status": "confirmed",
   "importance": 7,
   "location": "Washington, D.C.",
@@ -34,5 +34,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion."
+  "notes": "Event from comprehensive timeline tracking democratic erosion.",
+  "capture_lanes": [
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
 }

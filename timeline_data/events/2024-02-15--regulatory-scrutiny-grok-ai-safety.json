@@ -1,0 +1,28 @@
+{
+  "id": "2024-02-15--regulatory-scrutiny-grok-ai-safety",
+  "date": "2024-02-15",
+  "title": "Regulators Begin Investigating Grok AI Safety Protocols",
+  "summary": "Tech regulatory bodies initiate formal investigations into xAI's Grok chatbot, focusing on potential risks of misinformation and algorithmic manipulation. Concerns center on the lack of robust safety mechanisms and potential societal impact of unfiltered AI interactions.",
+  "importance": 8,
+  "actors": [
+    "Tech Regulators",
+    "xAI",
+    "Elon Musk"
+  ],
+  "tags": [
+    "AI regulation",
+    "Tech oversight",
+    "Safety investigation"
+  ],
+  "sources": [
+    {
+      "title": "Regulatory Investigation Announcement",
+      "url": "https://tech-regulatory-body.gov/investigations/ai-safety",
+      "outlet": "TBD"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

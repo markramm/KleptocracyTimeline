@@ -1,0 +1,35 @@
+{
+  "id": "shvartsman-garelick-dwac-insider-trading-charges",
+  "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "date": "2023-06-29",
+  "title": "Shvartsman Brothers and Bruce Garelick Charged in $22.9 Million DWAC Insider Trading Scheme",
+  "summary": "Federal prosecutors charged Michael Shvartsman, Gerald Shvartsman, and Bruce Garelick with securities fraud in a $22.9 million insider trading scheme centered on the DWAC-Trump Media merger. Bruce Garelick, a former DWAC board member and chief strategy officer at Rocket One Capital, allegedly shared confidential merger information with his boss Michael Shvartsman, who then tipped his brother Gerald. The scheme demonstrated the systematic abuse of insider information that characterized SPAC fraud networks, where board members, sponsors, and connected investors routinely exploited their privileged access to material non-public information. Michael Shvartsman, who owned Miami-based venture capital firm Rocket One Capital, made over $18 million in illicit profits, while the scheme revealed the inadequate corporate governance and conflict-of-interest controls that regulators failed to enforce during the SPAC boom. This case became one of the largest insider trading prosecutions related to SPAC transactions, highlighting how politically connected financial networks systematically extracted wealth from retail investors through privileged access to deal information.",
+  "key_actors": [
+    "Michael Shvartsman",
+    "Gerald Shvartsman",
+    "Bruce Garelick",
+    "Rocket One Capital",
+    "Southern District of New York",
+    "DOJ"
+  ],
+  "importance": 8,
+  "tags": [
+    "insider_trading",
+    "spac_fraud",
+    "dwac",
+    "rocket_one_capital",
+    "financial_networks",
+    "prosecutions"
+  ],
+  "sources": [
+    {
+      "url": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10",
+      "title": "U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals"
+    },
+    {
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-121",
+      "title": "SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC Securities"
+    }
+  ],
+  "status": "confirmed"
+}

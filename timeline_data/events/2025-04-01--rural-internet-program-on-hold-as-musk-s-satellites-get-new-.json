@@ -2,8 +2,8 @@
   "id": "2025-04-01--rural-internet-program-on-hold-as-musk-s-satellites-get-new-",
   "date": "2025-04-01",
   "title": "Rural internet program on hold as Musk's satellites get new consideration",
-  "summary": "Trump has paused the rollout of the $42 billion Broadband Equity Access and Deployment program to prioritize a “tech-neutral” approach, potentially favoring satellite providers like Elon Musk’s Starlink",
-  "description": "Trump has paused the rollout of the $42 billion Broadband Equity Access and Deployment program to prioritize a “tech-neutral” approach, potentially favoring satellite providers like Elon Musk’s Starlink",
+  "summary": "Trump has paused the rollout of the $42 billion Broadband Equity Access and Deployment program to prioritize a \u201ctech-neutral\u201d approach, potentially favoring satellite providers like Elon Musk\u2019s Starlink",
+  "description": "Trump has paused the rollout of the $42 billion Broadband Equity Access and Deployment program to prioritize a \u201ctech-neutral\u201d approach, potentially favoring satellite providers like Elon Musk\u2019s Starlink",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
 }

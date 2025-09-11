@@ -9,8 +9,16 @@
   ],
   "importance": 8,
   "sources": [
-    "Social media investigation",
-    "Account analysis"
+    {
+      "title": "Social media investigation",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Account analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "white-nationalism",
@@ -20,5 +28,9 @@
   ],
   "status": "confirmed",
   "id": "2024-07-20--vance-white-nationalist-social-media-connections-exposed-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537"
+  "priority_id": "jd-vance-pdf-analysis-1757456537",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Intelligence Penetration"
+  ]
 }

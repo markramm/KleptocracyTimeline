@@ -1,0 +1,30 @@
+{
+  "id": "2022-03-15--democratic-institution-feedback-loop-cri-personnel-shift",
+  "date": "2022-03-15",
+  "title": "Industry Veterans Join Regulatory Agency: Democratic Institution Feedback Loop Crisis (2020-present)",
+  "summary": "Former industry executives appointed to key regulatory positions overseeing Democratic Institution Feedback Loop Crisis (2020-present). Pattern shows systematic placement of industry-friendly personnel in oversight roles, creating potential conflicts of interest and weakening regulatory enforcement capabilities.",
+  "importance": 7,
+  "actors": [
+    "Regulatory Agencies",
+    "Industry Executives",
+    "Political Appointees"
+  ],
+  "sources": [
+    {
+      "title": "Regulatory Capture Documentation",
+      "url": "https://trumptyrannytracker.substack.com",
+      "outlet": "Government Accountability Research"
+    }
+  ],
+  "tags": [
+    "regulatory capture",
+    "revolving door",
+    "personnel",
+    "conflict of interest"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Executive Power Expansion"
+  ]
+}

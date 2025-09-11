@@ -2,8 +2,8 @@
   "id": "2025-02-17--with-congress-pliant-an-emboldened-trump-pushes-his-business",
   "date": "2025-02-17",
   "title": "With Congress pliant, an emboldened Trump pushes his business interests",
-  "summary": "Trump convened a meeting with golf executives—including leaders from the PGA Tour and LIV Golf—to clear hurdles for a merger that benefits his family’s business",
-  "description": "Trump convened a meeting with golf executives—including leaders from the PGA Tour and LIV Golf—to clear hurdles for a merger that benefits his family’s business",
+  "summary": "Trump convened a meeting with golf executives\u2014including leaders from the PGA Tour and LIV Golf\u2014to clear hurdles for a merger that benefits his family\u2019s business",
+  "description": "Trump convened a meeting with golf executives\u2014including leaders from the PGA Tour and LIV Golf\u2014to clear hurdles for a merger that benefits his family\u2019s business",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
 }

@@ -1,9 +1,9 @@
 {
   "id": "2025-05-07--u-s-pushes-nations-facing-tariffs-to-approve-musk-s-starlink",
   "date": "2025-05-07",
-  "title": "U.S. pushes nations facing tariffs to approve Musk’s Starlink",
-  "summary": "Some tariffed countries have adopted SpaceX's Starlink service–after being nudged to by the State Department–to improve their chance of reaching more favorable trade terms with the US",
-  "description": "Some tariffed countries have adopted SpaceX's Starlink service–after being nudged to by the State Department–to improve their chance of reaching more favorable trade terms with the US",
+  "title": "U.S. pushes nations facing tariffs to approve Musk\u2019s Starlink",
+  "summary": "Some tariffed countries have adopted SpaceX's Starlink service\u2013after being nudged to by the State Department\u2013to improve their chance of reaching more favorable trade terms with the US",
+  "description": "Some tariffed countries have adopted SpaceX's Starlink service\u2013after being nudged to by the State Department\u2013to improve their chance of reaching more favorable trade terms with the US",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -17,7 +17,7 @@
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "U.S. pushes nations facing tariffs to approve Musk’s Starlink",
+      "title": "U.S. pushes nations facing tariffs to approve Musk\u2019s Starlink",
       "url": "https://www.washingtonpost.com/business/2025/05/07/elon-musk-starlink-trump-tariffs/",
       "outlet": "Washington Post",
       "date": "2025-05-07"
@@ -33,5 +33,9 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
 }

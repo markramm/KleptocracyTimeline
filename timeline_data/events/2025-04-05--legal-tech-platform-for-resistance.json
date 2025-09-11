@@ -1,0 +1,29 @@
+{
+  "id": "2025-04-05--legal-tech-platform-for-resistance",
+  "date": "2025-04-05",
+  "title": "Launch of Integrated Legal Technology Platform",
+  "summary": "A sophisticated digital platform is launched to enable real-time coordination, case management, and knowledge sharing among legal resistance networks. The platform includes secure communication channels, case tracking, and collaborative research tools.",
+  "importance": 7,
+  "actors": [
+    "Legal Tech Innovations",
+    "Constitutional Litigation Consortium",
+    "Digital Defense Foundation"
+  ],
+  "sources": [
+    {
+      "title": "Legal Resistance Technology Platform Announcement",
+      "url": "https://legaltech-resistance.org/platform-launch",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "legal-tech",
+    "digital-coordination",
+    "resistance-infrastructure",
+    "collaborative-platforms"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

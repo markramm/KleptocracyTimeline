@@ -2,8 +2,8 @@
   "id": "2025-07-04--elon-musk-hired-a-dozen-texas-lobbyists-this-year-state-law-",
   "date": "2025-07-04",
   "title": "Elon Musk hired a dozen Texas lobbyists this year. State law keeps the extent of their influence under wraps",
-  "summary": "Elon Musk hired a small army of lobbyists in Texas to push legislation favorable to his companies–namely SpaceX, Tesla, and X Corp–including getting permission to increase rocket launches at SpaceX’s South Texas facility",
-  "description": "Elon Musk hired a small army of lobbyists in Texas to push legislation favorable to his companies–namely SpaceX, Tesla, and X Corp–including getting permission to increase rocket launches at SpaceX’s South Texas facility",
+  "summary": "Elon Musk hired a small army of lobbyists in Texas to push legislation favorable to his companies\u2013namely SpaceX, Tesla, and X Corp\u2013including getting permission to increase rocket launches at SpaceX\u2019s South Texas facility",
+  "description": "Elon Musk hired a small army of lobbyists in Texas to push legislation favorable to his companies\u2013namely SpaceX, Tesla, and X Corp\u2013including getting permission to increase rocket launches at SpaceX\u2019s South Texas facility",
   "status": "confirmed",
   "importance": 6,
   "location": "Washington, D.C.",
@@ -33,5 +33,8 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking."
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Legislative Capture"
+  ]
 }

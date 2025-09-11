@@ -2,8 +2,8 @@
   "id": "2025-05-20--student-visa-revocations-protest-context",
   "date": "2025-05-20",
   "importance": 5,
-  "title": "Reports of F‑1 student visa revocations linked to campus protest activity",
-  "summary": "Universities reported F‑1 visa revocations for international students involved in campus protests; FOIA records and press reports detailed DHS/State coordination and SEVP guidance tightening compliance reviews.",
+  "title": "Reports of F\u20111 student visa revocations linked to campus protest activity",
+  "summary": "Universities reported F\u20111 visa revocations for international students involved in campus protests; FOIA records and press reports detailed DHS/State coordination and SEVP guidance tightening compliance reviews.",
   "tags": [
     "civil-liberties",
     "immigration",
@@ -35,5 +35,7 @@
     }
   ],
   "status": "confirmed",
-  "actors": []
+  "actors": [
+    "Actor needs identification"
+  ]
 }

@@ -1,0 +1,38 @@
+{
+  "id": "2024-01-15--supreme-court-systematic-ethics-violations",
+  "date": "2024-01-15",
+  "title": "Systematic Supreme Court Ethics Violations Exposed: Thomas-Crow Revelations Reveal Institutional Corruption",
+  "summary": "Comprehensive investigation reveals systematic ethics violations across Supreme Court, with Justice Clarence Thomas at the epicenter. ProPublica and Senate investigations uncovered a decades-long pattern of undisclosed luxury gifts from billionaire donors like Harlan Crow, including private jet trips, yacht vacations, property purchases, and boarding school tuition for Thomas's grandnephew. By 2024, Fix the Court documented 672 gifts totaling $6.6 million to current and former justices, with Thomas receiving the majority. These gifts create profound conflicts of interest, as donor Harlan Crow had business interests in at least 10 Supreme Court cases where Thomas did not recuse himself. The revelations prompted Senate subpoenas, calls for judicial ethics reform, and raised fundamental questions about judicial independence and accountability.",
+  "importance": 9,
+  "actors": [
+    "Clarence Thomas",
+    "Harlan Crow",
+    "Senate Judiciary Committee",
+    "ProPublica"
+  ],
+  "sources": [
+    {
+      "title": "ProPublica Investigation: Clarence Thomas Gifts",
+      "url": "https://www.propublica.org/series/clarence-thomas",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Fix the Court Gifts Database",
+      "url": "https://fixthe.court/gifts",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "supreme_court",
+    "judicial_ethics",
+    "clarence_thomas",
+    "harlan_crow",
+    "corruption"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
+}

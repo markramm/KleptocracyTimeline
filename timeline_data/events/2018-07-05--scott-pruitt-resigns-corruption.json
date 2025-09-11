@@ -51,5 +51,11 @@
     "cabinet-corruption",
     "environmental-destruction",
     "ethics-violations"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
   ]
 }

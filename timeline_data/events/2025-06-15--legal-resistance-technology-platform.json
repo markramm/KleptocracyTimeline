@@ -1,0 +1,28 @@
+{
+  "id": "2025-06-15--legal-resistance-technology-platform",
+  "date": "2025-06-15",
+  "title": "Legal Resistance Digital Coordination Platform",
+  "summary": "A secure, encrypted digital platform is launched to facilitate rapid legal coordination, document sharing, and strategic planning among resistance lawyers nationwide.",
+  "importance": 7,
+  "actors": [
+    "Tech for Justice",
+    "Legal Resistance Network",
+    "Digital Rights Organizations"
+  ],
+  "sources": [
+    {
+      "title": "Platform Launch Announcement",
+      "url": "https://techforjustice.org/legal-platform",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "Technology",
+    "Legal networks",
+    "Digital coordination"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture"
+  ]
+}

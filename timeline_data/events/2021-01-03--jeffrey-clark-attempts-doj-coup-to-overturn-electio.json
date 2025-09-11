@@ -65,5 +65,12 @@
     }
   ],
   "_merge_note": "Enhanced with information from duplicate event: 2021-01-03--jeffrey-clark-doj-takeover-attempt",
-  "_merge_timestamp": "2025-09-05T23:46:55.903636"
+  "_merge_timestamp": "2025-09-05T23:46:55.903636",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
 }

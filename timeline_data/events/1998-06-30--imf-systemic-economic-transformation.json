@@ -1,0 +1,31 @@
+{
+  "id": "1998-06-30--imf-systemic-economic-transformation",
+  "date": "1998-06-30",
+  "title": "IMF Finalizes Systematic Economic Transformation of Southeast Asian Economies",
+  "summary": "By mid-1998, the IMF completes its comprehensive restructuring of Southeast Asian economies, implementing radical free-market reforms that fundamentally reshape the region's economic landscape. These interventions prioritize Western corporate interests, dismantle local economic protections, and create long-term dependency on international financial institutions.",
+  "importance": 9,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "Asian Governments",
+    "Multinational Corporations"
+  ],
+  "sources": [
+    {
+      "title": "IMF Comprehensive Report on Asian Financial Crisis Interventions",
+      "url": "https://www.imf.org/external/pubs/ft/wp/1998/wp9880.pdf",
+      "outlet": "TBD"
+    }
+  ],
+  "tags": [
+    "asian_financial_crisis",
+    "imf_intervention",
+    "structural_adjustment",
+    "economic_transformation"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

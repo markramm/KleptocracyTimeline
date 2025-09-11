@@ -9,9 +9,21 @@
   ],
   "importance": 9,
   "sources": [
-    "NPR",
-    "ProPublica",
-    "Russian Influence Networks analysis"
+    {
+      "title": "NPR",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "ProPublica",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    },
+    {
+      "title": "Russian Influence Networks analysis",
+      "url": "https://example.com",
+      "outlet": "TBD"
+    }
   ],
   "tags": [
     "deutsche-bank",
@@ -21,5 +33,9 @@
   ],
   "status": "confirmed",
   "id": "2016-01-01--deutsche-bank-flags-suspicious-trump-russia-transactions-1757456698",
-  "priority_id": "russian-influence-networks-1757456698"
+  "priority_id": "russian-influence-networks-1757456698",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "1999-04-06--abramoff-reed-choctaw-subcontractor-arrangement",
+  "date": "1999-04-06",
+  "title": "Abramoff Formalizes Ralph Reed Subcontractor Scheme with Choctaw Funds",
+  "summary": "Jack Abramoff informs Ralph Reed that Preston Gates managing partner has approved their \"subcontractor arrangement\" for disguising payments from the Mississippi Choctaw to Reed's Century Strategies. Abramoff instructs Reed to \"get me invoices as soon as possible so I can get Choctaw to get us checks asap,\" establishing the money laundering pattern that would define the scandal.",
+  "actors": [
+    "Jack Abramoff",
+    "Ralph Reed",
+    "Mississippi Band of Choctaw Indians",
+    "Century Strategies"
+  ],
+  "sources": [
+    {
+      "title": "Senate Report 109-325 - GIMME FIVE Investigation",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm",
+      "outlet": "Senate Indian Affairs Committee"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "abramoff",
+    "ralph_reed",
+    "money_laundering",
+    "choctaw",
+    "corruption"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

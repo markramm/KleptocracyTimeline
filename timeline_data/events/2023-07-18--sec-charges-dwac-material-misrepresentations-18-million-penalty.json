@@ -1,0 +1,34 @@
+{
+  "id": "2023-07-18--sec-charges-dwac-material-misrepresentations-18-million-penalty",
+  "date": "2023-07-18",
+  "title": "SEC Charges DWAC with Securities Fraud, Imposes $18 Million Penalty",
+  "summary": "The Securities and Exchange Commission announces settled fraud charges against Digital World Acquisition Corp for making material misrepresentations to investors about merger discussions with Trump Media & Technology Group. The SEC found that dating back to February 2021, individuals who would later become DWAC's leadership had extensive SPAC merger discussions with TMTG, contradicting public filings that claimed no such discussions had occurred. DWAC agrees to pay an $18 million civil penalty to settle the charges. The enforcement action demonstrates systematic deception of investors about the predetermined nature of the SPAC merger, a violation of securities laws requiring disclosure of material information.",
+  "tags": [
+    "sec_charges",
+    "dwac",
+    "securities_fraud",
+    "trump_media",
+    "spac_fraud",
+    "regulatory_enforcement"
+  ],
+  "actors": [
+    "Securities and Exchange Commission",
+    "Digital World Acquisition Corp",
+    "Trump Media & Technology Group",
+    "SEC"
+  ],
+  "sources": [
+    {
+      "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors",
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-135",
+      "outlet": "US Securities and Exchange Commission",
+      "date": "2023-07-18"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
+}
