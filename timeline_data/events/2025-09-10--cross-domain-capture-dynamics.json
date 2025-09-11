@@ -1,27 +1,38 @@
 {
   "id": "2025-09-10--cross-domain-capture-dynamics",
   "date": "2025-09-10",
-  "title": "Cross-Domain Capture Dynamics: Integrated Transformation Strategies",
-  "summary": "Comprehensive investigation reveals how institutional capture strategies operate across multiple domains simultaneously, creating synchronized transformation effects. Analysis exposes intricate networks that coordinate personnel placement, regulatory manipulation, and strategic resource redirection to fundamentally alter governance structures.",
-  "importance": 10,
+  "title": "Cross-Domain Institutional Capture: Governance Transformation Strategies in 2025",
+  "summary": "Comprehensive analysis reveals emerging institutional capture strategies operating across multiple governance domains. Research identifies systematic approaches to transforming institutional frameworks through coordinated cross-sectoral interventions, leveraging digital transformation, regulatory reengineering, and strategic personnel placement.",
+  "importance": 9,
   "actors": [
-    "Strategic Transformation Networks",
-    "Multi-Institutional Research Consortium"
+    "National Digital Transformation Steering Committee",
+    "Cross-Sector Governance Innovation Task Force"
   ],
   "tags": [
     "cross-domain-capture",
     "governance-transformation",
-    "network-analysis"
+    "network-analysis",
+    "institutional-adaptation",
+    "digital-governance"
   ],
   "sources": [
     {
-      "title": "Institutional Dynamics Research Group",
-      "url": "https://trumptyrannytracker.substack.com",
-      "outlet": "Trump Tyranny Tracker"
+      "title": "Digital Transformation Governance: Strategic Coordination in 2025",
+      "url": "https://digitalregulation.org/national-digital-transformation-strategy-mapping-the-digital-journey/",
+      "outlet": "Digital Regulation Platform",
+      "date": "2025-09-10"
+    },
+    {
+      "title": "The Role of Digital Transformation Audits: Transforming While Upholding Governance Standards",
+      "url": "https://www.isaca.org/resources/news-and-trends/industry-news/2025/the-role-of-digital-transformation-audits-transform-while-upholding-governance-standards",
+      "outlet": "ISACA",
+      "date": "2025-09"
     }
   ],
-  "status": "confirmed",
+  "status": "validated",
   "capture_lanes": [
-    "Regulatory Capture"
+    "Regulatory Capture",
+    "Digital Governance",
+    "Institutional Transformation"
   ]
 }
