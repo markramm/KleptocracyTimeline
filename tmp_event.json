@@ -1,0 +1,44 @@
+{
+  "id": "1985-01-01--carl-icahn-phillips-petroleum-hostile-takeover-att",
+  "date": "1985-01-01",
+  "title": "Carl Icahn Phillips Petroleum Hostile Takeover Attempt",
+  "summary": "In early 1985, corporate raider Carl Icahn launched an aggressive $8.5 billion hostile takeover attempt against Phillips Petroleum, leveraging the innovative junk bond financing network of Michael Milken and Drexel Burnham Lambert. Drexel demonstrated its unparalleled financial power by raising $1.5 billion for Icahn in just 48 hours through their 'highly confident letter' system.\n\nThe raid showcased the emerging power of corporate raiders in the 1980s, with Icahn challenging Phillips' corporate governance and threatening a complete takeover. Although Icahn ultimately failed to gain control, he profited $70 million by selling shares back to Phillips. The company was forced to settle with Icahn, offering shareholders a new deal valued at $56-57 per share.\n\nThis episode exemplified how innovative financial mechanisms like Milken's junk bonds enabled small investor groups to threaten even the largest corporations through sophisticated financial leverage, fundamentally transforming corporate America's power dynamics.",
+  "importance": 8,
+  "actors": [
+    "Carl Icahn",
+    "Michael Milken",
+    "Drexel Burnham Lambert",
+    "Phillips Petroleum Management"
+  ],
+  "sources": [
+    {
+      "outlet": "The Washington Post",
+      "title": "Phillips, Icahn Settle",
+      "url": "https://www.washingtonpost.com/archive/business/1985/03/05/phillips-icahn-settle/7bc631ac-ab1d-4646-8a25-570333be3c33/"
+    },
+    {
+      "outlet": "Princeton Alumni Weekly",
+      "title": "Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn '57",
+      "url": "https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57"
+    },
+    {
+      "outlet": "Fortune",
+      "title": "The last days of Drexel Burnham",
+      "url": "https://fortune.com/2015/10/16/the-last-days-of-drexel-burnham/"
+    }
+  ],
+  "tags": [
+    "corporate-raiding",
+    "hostile-takeovers",
+    "junk-bonds",
+    "financial-manipulation",
+    "drexel-burnham-lambert"
+  ],
+  "location": "United States",
+  "capture_lanes": [
+    "Financial Capture",
+    "Regulatory Capture"
+  ],
+  "category": "financial-restructuring",
+  "status": "confirmed"
+}

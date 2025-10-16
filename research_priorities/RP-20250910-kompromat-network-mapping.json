@@ -1,0 +1,36 @@
+{
+    "id": "RP-20250910-kompromat-network-mapping",
+    "title": "Kompromat and Influence Network Research",
+    "description": "Comprehensive investigation into transnational kompromat networks, focusing on connections between intelligence services, political actors, and compromising material.",
+    "categories": [
+        "network-mapping",
+        "methodology",
+        "systematic-capture"
+    ],
+    "importance": 10,
+    "sources": [
+        {
+            "outlet": "Closer to the Edge",
+            "title": "WHAT PUTIN HAS ON TRUMP",
+            "date": "2025-08-12"
+        },
+        {
+            "outlet": "Closer to the Edge",
+            "title": "THE GIRLS, THE OLIGARCHS, AND THE ISLAND",
+            "date": "2025-08-10"
+        }
+    ],
+    "actors": [
+        "Alnur Mussayev",
+        "Vladimir Putin", 
+        "Donald Trump",
+        "Kazakhstan intelligence"
+    ],
+    "tags": [
+        "kompromat",
+        "intelligence-networks",
+        "transnational-blackmail"
+    ],
+    "status": "active",
+    "research_phase": "initial-mapping"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 202,
+  "event_id": "system-run-2",
+  "validator_type": "agent",
+  "validator_id": "qa-agent-11",
+  "status": "flagged",
+  "validation_date": "2025-09-17T20:41:27",
+  "notes": "Unable to retrieve events for validation run #2. Requires manual investigation. 4 events remain unprocessed.",
+  "confidence": null,
+  "issues_found": null,
+  "sources_verified": null,
+  "corrections_made": null,
+  "time_spent_minutes": null,
+  "validation_criteria": null,
+  "validation_run_id": null
+}

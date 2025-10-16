@@ -65,19 +65,19 @@ const FilterPanel = ({
   // Calculate counts for each filter option
   const getTagCount = (tag) => {
     return events ? events.filter(event => 
-      event.tags && event.tags.includes(tag)
+      event.tags && Array.isArray(event.tags) && event.tags.includes(tag)
     ).length : 0;
   };
 
   const getActorCount = (actor) => {
     return events ? events.filter(event => 
-      event.actors && event.actors.includes(actor)
+      event.actors && Array.isArray(event.actors) && event.actors.includes(actor)
     ).length : 0;
   };
 
   const getCaptureLaneCount = (lane) => {
     return events ? events.filter(event => 
-      event.capture_lanes && event.capture_lanes.includes(lane)
+      event.capture_lanes && Array.isArray(event.capture_lanes) && event.capture_lanes.includes(lane)
     ).length : 0;
   };
 

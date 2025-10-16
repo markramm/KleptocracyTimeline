@@ -1,8 +1,12 @@
-import React from 'react';
-import { BarChart3, TrendingUp, Calendar, Tag, AlertCircle } from 'lucide-react';
+import React, { useState } from 'react';
+import { BarChart3, TrendingUp, Calendar, Tag, AlertCircle, Activity, Database, Search, FileText, Clock, ChevronDown, ChevronUp } from 'lucide-react';
+import { useResearchMonitoring } from '../hooks/useResearchMonitoring';
 import './StatsPanel.css';
 
 const StatsPanel = ({ stats, events }) => {
+  const [showResearchDetails, setShowResearchDetails] = useState(false);
+  const { activities, summary, error, isPolling, clearActivities, refreshNow } = useResearchMonitoring();
+
   // Ensure stats is defined
   if (!stats) {
     return (
@@ -67,6 +71,108 @@ const StatsPanel = ({ stats, events }) => {
       </div>
 
       <div className="stats-sections">
+        {/* Research Monitor Section */}
+        <div className="stats-section research-monitor-section">
+          <h4>
+            <Activity size={16} />
+            Research Monitor
+            {isPolling && <span className="polling-indicator">●</span>}
+          </h4>
+          
+          {/* Research Summary */}
+          {summary && (
+            <div className="research-summary">
+              <div className="summary-grid">
+                <div className="summary-item">
+                  <Database size={14} />
+                  <span className="summary-label">Total Events</span>
+                  <span className="summary-value">{(summary.total_events || 0).toLocaleString()}</span>
+                </div>
+                <div className="summary-item">
+                  <Search size={14} />
+                  <span className="summary-label">Active Research</span>
+                  <span className="summary-value">{summary.active_priorities || 0}</span>
+                </div>
+                <div className="summary-item">
+                  <FileText size={14} />
+                  <span className="summary-label">Staged Events</span>
+                  <span className="summary-value">{summary.staged_events_count || 0}</span>
+                </div>
+              </div>
+              
+              {/* Commit Progress */}
+              {summary.commit_progress && (
+                <div className="commit-progress">
+                  <div className="progress-header">
+                    <span className="progress-label">Commit Progress</span>
+                    <span className="progress-text">{summary.commit_progress}</span>
+                  </div>
+                  <div className="progress-bar">
+                    <div 
+                      className="progress-fill"
+                      style={{ 
+                        width: `${((parseInt(summary.commit_progress.split('/')[0]) || 0) / (parseInt(summary.commit_progress.split('/')[1]) || 10)) * 100}%` 
+                      }}
+                    />
+                  </div>
+                </div>
+              )}
+              
+              {/* Validation Status */}
+              {summary.events_needing_validation > 0 && (
+                <div className="validation-alert">
+                  <Clock size={14} />
+                  <span>{summary.events_needing_validation} events need validation</span>
+                </div>
+              )}
+            </div>
+          )}
+          
+          {error && (
+            <div className="research-error">
+              <AlertCircle size={14} />
+              <span>Research monitor error: {error}</span>
+            </div>
+          )}
+          
+          {/* Activity Toggle */}
+          <button
+            onClick={() => setShowResearchDetails(!showResearchDetails)}
+            className="activity-toggle"
+          >
+            <span>{showResearchDetails ? 'Hide Activity' : 'Show Recent Activity'}</span>
+            {showResearchDetails ? <ChevronUp size={14} /> : <ChevronDown size={14} />}
+          </button>
+          
+          {/* Activity Feed */}
+          {showResearchDetails && (
+            <div className="activity-feed">
+              {activities.length > 0 ? (
+                <div className="activity-list">
+                  {activities.slice(-5).map((activity, index) => (
+                    <div key={`${activity.time}-${index}`} className={`activity-item ${activity.type}`}>
+                      <div className="activity-content">
+                        <span className="activity-text">{activity.text}</span>
+                        <span className="activity-time">{activity.time}</span>
+                      </div>
+                      <span className="activity-type-badge">{activity.type}</span>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div className="no-activity">No recent research activity</div>
+              )}
+              
+              {activities.length > 0 && (
+                <div className="activity-controls">
+                  <button onClick={refreshNow} className="refresh-btn">Refresh</button>
+                  <button onClick={clearActivities} className="clear-btn">Clear</button>
+                </div>
+              )}
+            </div>
+          )}
+        </div>
+
         {/* Overview */}
         <div className="stats-section">
           <h4>Overview</h4>
@@ -190,6 +296,63 @@ const StatsPanel = ({ stats, events }) => {
               ))}
             </div>
           </div>
+        )}
+
+        {/* Top Actors */}
+        {stats.top_actors && stats.top_actors.length > 0 && (
+        <div className="stats-section">
+          <h4>
+            <TrendingUp size={16} />
+            Top Actors
+          </h4>
+          <div className="top-list">
+            {stats.top_actors.slice(0, 5).map((actor, index) => (
+              <div key={actor.name} className="top-item">
+                <span className="item-name">{actor.name}</span>
+                <div className="item-bar">
+                  <div 
+                    className="bar-fill"
+                    style={{ 
+                      width: `${(actor.event_count / stats.top_actors[0].event_count) * 100}%`,
+                      backgroundColor: index === 0 ? '#ef4444' : '#3b82f6'
+                    }}
+                  />
+                  <span className="item-count">{actor.event_count} events</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+        )}
+
+        {/* Importance Distribution */}
+        {stats.importance_distribution && Object.keys(stats.importance_distribution).length > 0 && (
+        <div className="stats-section">
+          <h4>
+            <AlertCircle size={16} />
+            Importance Levels
+          </h4>
+          <div className="importance-chart">
+            {Object.entries(stats.importance_distribution)
+              .sort(([a], [b]) => Number(b) - Number(a))
+              .slice(0, 8)
+              .map(([level, count]) => (
+                <div key={level} className="importance-item">
+                  <span className="importance-label">Level {level}</span>
+                  <div className="importance-bar-container">
+                    <div 
+                      className="importance-bar"
+                      style={{ 
+                        width: `${(count / Math.max(...Object.values(stats.importance_distribution))) * 100}%`,
+                        backgroundColor: Number(level) >= 8 ? '#ef4444' : Number(level) >= 6 ? '#f59e0b' : '#3b82f6'
+                      }}
+                    />
+                    <span className="importance-count">{count}</span>
+                  </div>
+                </div>
+              ))}
+          </div>
+        </div>
         )}
 
         {/* Recent Trends */}

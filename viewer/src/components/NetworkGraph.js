@@ -243,7 +243,7 @@ const NetworkGraph = ({ events }) => {
           filteredEvents.slice(i + 1).forEach(otherEvent => {
             if (otherEvent.tags && otherEvent.tags.length > 0) {
               const sharedTags = event.tags.filter(tag => 
-                otherEvent.tags.includes(tag)
+                Array.isArray(otherEvent.tags) && otherEvent.tags.includes(tag)
               );
               if (sharedTags.length >= 2) { // Only if 2+ shared tags
                 const strength = sharedTags.length / Math.min(event.tags.length, otherEvent.tags.length);

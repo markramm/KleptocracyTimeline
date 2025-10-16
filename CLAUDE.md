@@ -103,6 +103,122 @@ python3 research_cli.py validation-reset
 python3 research_cli.py validation-init
 ```
 
+### Validation Runs System (Recommended for Parallel Processing)
+
+**⚠️ CRITICAL**: For parallel agent processing, use the Validation Runs system to ensure unique event distribution and prevent duplicates.
+
+#### Creating Validation Runs
+```bash
+# Create a validation run focused on source quality issues
+python3 research_cli.py validation-runs-create --run-type source_quality --target-count 30 --focus-unvalidated --exclude-recent-validations --created-by "agent-batch-1"
+
+# Create importance-focused validation run  
+python3 research_cli.py validation-runs-create --run-type importance_focused --target-count 20 --min-importance 8 --created-by "high-priority-batch"
+
+# Create date-range validation run
+python3 research_cli.py validation-runs-create --run-type date_range --target-count 15 --start-date 2025-01-01 --end-date 2025-12-31 --created-by "2025-events"
+```
+
+#### Processing Events from Validation Runs
+```bash
+# 1. Get next unique event with validator reservation
+python3 research_cli.py validation-runs-next --run-id 1 --validator-id "agent-1"
+
+# 2. Enhance event with proper sources and save to filesystem
+cp enhanced_event.json "/Users/markr/kleptocracy-timeline/timeline_data/events/[EVENT_ID].json"
+
+# 3. Log validation with quality score
+python3 research_cli.py qa-validate --event-id [EVENT_ID] --quality-score 9.0 --validation-notes "Enhanced with authoritative sources"
+
+# 4. Complete validation run event
+python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id [RUN_EVENT_ID] --status validated --notes "Successfully enhanced"
+```
+
+#### Validation Status Options
+
+The validation system supports multiple completion statuses:
+
+- **`validated`** - Event successfully validated and enhanced (default)
+- **`needs_work`** - Event requires additional work or sources (can be requeued)
+- **`rejected`** - Event should be removed (automatically archived)
+- **`skipped`** - Event skipped for this validation round
+
+**Rejected Event Archive System:**
+When an event is marked as `rejected`, it is automatically:
+1. Moved from `timeline_data/events/` to `archive/rejected_events/`
+2. Logged in `archive/rejected_events/rejection_log.txt` with timestamp and reason
+3. Removed from the active timeline (no longer searchable)
+
+**Requeuing Events That Need Work:**
+```bash
+# Requeue all events marked as 'needs_work' back to pending status
+python3 research_cli.py validation-runs-requeue --run-id 1
+```
+
+**Examples of Different Status Completions:**
+```bash
+# Event successfully validated and enhanced
+python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 15 --status validated --notes "Enhanced with credible sources and improved accuracy"
+
+# Event needs more work (can be requeued later)
+python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 16 --status needs_work --notes "Sources need verification, importance score questionable"
+
+# Event should be rejected and archived
+python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 17 --status rejected --notes "Duplicate of existing event 2023-01-15--similar-event"
+
+# Event skipped for this validation round
+python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 18 --status skipped --notes "Requires specialized domain expertise"
+```
+
+#### Key Requirements for Parallel Processing
+
+**🔴 CRITICAL**: Each agent MUST use a unique `--validator-id` parameter:
+- ✅ **Correct**: `--validator-id "agent-1"`, `--validator-id "agent-2"`, etc.
+- ❌ **Wrong**: No validator-id (causes duplicate event assignment)
+
+**Example for 5 parallel agents:**
+```bash
+# Agent 1
+python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-1"
+
+# Agent 2  
+python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-2"
+
+# Agent 3
+python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-3"
+
+# Agent 4
+python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-4"
+
+# Agent 5
+python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-5"
+```
+
+#### Monitoring Validation Runs
+```bash
+# Check validation run progress
+python3 research_cli.py validation-runs-get --run-id 1
+
+# List all validation runs
+python3 research_cli.py validation-runs-list
+
+# View validation logs
+python3 research_cli.py validation-logs-list --limit 20
+```
+
+#### Validation Runs vs. Traditional QA Queue
+
+**Use Validation Runs when:**
+- Processing events with multiple parallel agents
+- Need guaranteed unique event distribution  
+- Want systematic progress tracking
+- Processing large batches (10+ events)
+
+**Use Traditional QA Queue when:**
+- Single agent processing
+- Ad-hoc validation tasks
+- Quick individual event checks
+
 ### Architecture Notes
 - **Unified Implementation**: CLI now uses TimelineResearchClient for all operations
 - **Enhanced Error Handling**: Superior error detection and structured JSON responses
@@ -275,7 +391,48 @@ python3 research_cli.py qa-reject --event-id "2025-01-15--event-slug" --reason "
 # QA System Management
 python3 research_cli.py validation-init             # Initialize validation audit trail for all events
 python3 research_cli.py validation-reset            # Reset all validation records to pending status
+
+# Event Update Failure Monitoring
+python3 research_cli.py update-failures-stats       # Get statistics on event save failures
+python3 research_cli.py update-failures-list --limit 20  # List recent event update failures
 ```
+
+#### QA Agent Requirements
+
+**🔴 CRITICAL: Web Fetch Timeout Handling**
+
+The WebFetch tool does not have built-in timeout limits. Agents MUST implement defensive strategies:
+
+**Timeout Prevention:**
+1. **Skip known slow sites immediately** - Do NOT attempt to fetch from:
+   - Washington Post (paywall + slow)
+   - New York Times (paywall + slow)
+   - Wall Street Journal (paywall)
+   - Sites requiring authentication
+
+2. **Prioritize fast, open sources**:
+   - ✅ Reuters, AP, Bloomberg, NPR, PBS
+   - ✅ Government sites (.gov)
+   - ✅ Academic sources (.edu)
+   - ✅ ICIJ, ProPublica, investigative journalism
+
+3. **Fallback strategy when sources are slow**:
+   - Use 2-3 tier-2 sources instead of waiting for tier-1 paywalled sources
+   - Search for alternative coverage of same event
+   - Use government press releases, congressional records
+   - Document in notes: "Used alternative sources due to paywall/timeout"
+
+4. **If agent appears stuck**:
+   - Agent has likely hung on a WebFetch call
+   - This is a known limitation - agents cannot self-recover
+   - User must interrupt and restart with different validator-id
+   - Document problematic URLs in validation notes for future avoidance
+
+**Quality Standards:**
+- **Minimum**: 2 credible sources (tier-1 or tier-2)
+- **Target**: 3 sources from different outlets
+- **Never sacrifice progress** for a single slow source
+- **Document all timeout issues** in validation notes for pattern tracking
 
 #### QA Workflow Integration
 The QA system provides structured event validation with:
@@ -283,6 +440,8 @@ The QA system provides structured event validation with:
 - **Issue tracking**: Specific validation problems identified
 - **Audit trail**: Complete validation history for each event
 - **Quality metrics**: Comprehensive statistics on validation status
+- **Failure monitoring**: Automatic detection and logging of event update failures
+- **Concurrent processing**: Support for 10+ concurrent QA agents with proper queue management
 
 ## Client Architecture
 
@@ -352,6 +511,8 @@ Always use: `YYYY-MM-DD--descriptive-slug-here`
 - Keep slugs concise but meaningful
 
 ## Research Workflow
+
+**⚠️ For Parallel Agent Processing**: Use the [Validation Runs System](#validation-runs-system-recommended-for-parallel-processing) instead of this sequential workflow to ensure unique event distribution.
 
 ### 1. Get Next Priority
 ```bash
@@ -426,10 +587,12 @@ python3 research_cli.py reset-commit
 4. **Search key terms** - Company names, program names, specific amounts
 
 ### Performance
-- The database indexes over 1,000 events efficiently
-- Full-text search is available via SQLite FTS5
-- The server handles concurrent requests well
+- The database indexes over 1,500 events efficiently after duplicate cleanup
+- Full-text search is available via SQLite FTS5 with fallback LIKE search for special characters
+- The server handles 10+ concurrent QA agents simultaneously
 - Filesystem sync runs every 30 seconds
+- Comprehensive event update failure monitoring and logging
+- Auto-correction system applies validated improvements directly to event files
 
 ## Common Tasks
 
@@ -518,6 +681,45 @@ python3 research_cli.py validation-init
 # Check for QA issues
 python3 research_cli.py qa-issues --limit 20
 ```
+
+### Stuck QA Agents (WebFetch Timeout)
+
+**Symptoms:**
+- Agent stops responding mid-processing
+- No output after "researching event" or "fetching source"
+- Task appears to run indefinitely
+
+**Root Cause:**
+- WebFetch tool has no built-in timeout
+- Agent hung trying to fetch from slow/paywalled site
+- Cannot self-recover once stuck
+
+**Recovery Steps:**
+
+1. **Identify stuck agents:**
+   ```bash
+   # Check validation run for "assigned" events that never complete
+   python3 research_cli.py validation-runs-get --run-id 11
+   # Look for: "assigned": N where N > 0 for extended time
+   ```
+
+2. **Reset stuck events back to pending:**
+   ```bash
+   # Direct database fix
+   sqlite3 unified_research.db "UPDATE validation_run_events SET validation_status = 'pending', assigned_validator = NULL, assigned_date = NULL WHERE validation_status = 'assigned' AND validation_run_id = 11;"
+   ```
+
+3. **Prevention for future batches:**
+   - Launch agents with explicit instructions to avoid slow sites
+   - Use unique validator IDs for each agent
+   - Monitor progress - if agents don't complete within 3-5 minutes, likely stuck
+   - Document problematic URLs when restarting
+
+4. **Best practices:**
+   - Process in batches of 10 agents
+   - Check progress every 2-3 minutes
+   - Reset and restart stuck agents promptly
+   - Build list of problematic URLs to avoid
 
 ### Search Not Working
 - Wait 30 seconds for filesystem sync

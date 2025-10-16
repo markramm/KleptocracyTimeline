@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-09824358-lockheed-martin-f35-cost-overruns",
+  "title": "Lockheed Martin F-35 Cost Overrun Scheme",
+  "description": "Investigate systematic cost overruns and performance failures in the F-35 program representing defense contractor capture.",
+  "expected_events": 4,
+  "importance": 8,
+  "tags": [
+    "defense-contractors",
+    "cost-overruns",
+    "military-industrial-complex",
+    "defense-contractor-fraud"
+  ],
+  "research_status": "not_started",
+  "time_period": "2001-present"
+}

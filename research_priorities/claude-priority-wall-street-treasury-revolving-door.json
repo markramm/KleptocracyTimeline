@@ -1,0 +1,16 @@
+{
+    "id": "claude-wall-street-treasury-revolving-door",
+    "title": "Wall Street-Treasury Department Revolving Door Network",
+    "description": "Document the systematic revolving door between major investment banks (Goldman Sachs, JPMorgan, Citigroup) and Treasury Department/Federal Reserve positions from 1970s-present",
+    "category": "regulatory-capture",
+    "priority": 9,
+    "status": "pending",
+    "estimated_events": 5,
+    "estimated_importance": 9,
+    "time_period": "1970-2024",
+    "tags": ["revolving-door", "wall-street", "treasury", "federal-reserve", "regulatory-capture", "financial-crisis"],
+    "export_worthy": true,
+    "research_notes": "Focus on Treasury Secretaries and key officials from Goldman Sachs, Citigroup, JPMorgan. Include regulatory decisions that benefited former employers. Key figures: Robert Rubin, Hank Paulson, Tim Geithner, Steven Mnuchin, Janet Yellen (Federal Reserve), Jerome Powell connections.",
+    "blockers": "None identified",
+    "next_steps": "Map career paths between Wall Street and Treasury/Fed positions, analyze policy decisions that benefited financial industry, document lobbying connections and regulatory outcomes"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RT-TTT-2025-BATCH1-MEDIA-SUPPRESSION",
+  "title": "Media Suppression Coordination Mechanisms",
+  "description": "Analysis of coordinated efforts to suppress press freedom and manipulate information flows. Identified 728 pattern instances showing systematic attempts to control media and information systems.",
+  "research_questions": [
+    "What are the specific mechanisms used for media suppression?",
+    "Who are the key actors coordinating press freedom attacks?",
+    "What timeline evidence exists for systematic information manipulation?",
+    "Which media outlets and journalists show evidence of coordinated targeting?",
+    "How do media suppression efforts connect to broader authoritarian communication strategies?"
+  ],
+  "expected_events": "12-16",
+  "priority_level": "CRITICAL",
+  "status": "pending",
+  "source_analysis": "Trump Tyranny Tracker Batch 1 Analysis - 728 media suppression patterns identified across 45 articles",
+  "creation_date": "2025-09-10T10:55:05.463577",
+  "tags": [
+    "media",
+    "suppression",
+    "press-freedom",
+    "journalists",
+    "information-control"
+  ]
+}

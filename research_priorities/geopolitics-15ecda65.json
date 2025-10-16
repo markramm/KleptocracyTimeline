@@ -3,7 +3,7 @@
   "title": "Israeli Strikes on Iran: Regional Power Realignment Analysis",
   "description": "Research the geopolitical consequences of Israeli military strikes on Iran, focusing on how Saudi Arabia leverages the conflict to expand regional influence, shift energy markets, and strengthen strategic partnerships.",
   "priority": 8,
-  "status": "pending",
+  "status": "completed",
   "category": "regional-geopolitics",
   "tags": [
     "israel",
@@ -65,5 +65,7 @@
     "How do U.S. defense partnerships with Saudi Arabia influence regional conflict dynamics?",
     "What constitutional questions arise from U.S. support for Saudi regional ambitions?"
   ],
-  "estimated_importance": 8
+  "estimated_importance": 8,
+  "events_created": 3,
+  "completion_date": "2025-01-15"
 }

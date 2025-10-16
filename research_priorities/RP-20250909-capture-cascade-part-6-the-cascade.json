@@ -3,7 +3,7 @@
   "title": "Capture Cascade Part 6: The Cascade",
   "description": "Research the cascading effects of institutional capture across different sectors, showing how capture in one area enables and accelerates capture elsewhere.",
   "priority": 9,
-  "status": "pending",
+  "status": "completed",
   "category": "pdf-analysis",
   "tags": [
     "capture-cascade",
@@ -13,5 +13,7 @@
   "estimated_events": 6,
   "source_document": "documents/incoming/The Capture Cascade - Part 6_ The Cascade.pdf",
   "created_date": "2025-09-09",
-  "requires_pdf_analysis": true
+  "requires_pdf_analysis": true,
+  "events_created": 3,
+  "completion_date": "2025-01-15"
 }

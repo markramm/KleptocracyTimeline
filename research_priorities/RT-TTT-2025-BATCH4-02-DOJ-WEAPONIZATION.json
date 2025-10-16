@@ -1,0 +1,57 @@
+{
+  "id": "RT-TTT-2025-BATCH4-02-DOJ-WEAPONIZATION",
+  "title": "Department of Justice Weaponization and Prosecutorial Capture",
+  "description": "Track the systematic weaponization of the Department of Justice, including political interference in prosecutions, targeting of opponents, and obstruction of legitimate investigations.",
+  "research_questions": [
+    "What are the specific implementation mechanisms for doj weaponization?",
+    "Which federal agencies and positions have been primarily targeted?",
+    "What coordination exists between different branches of government?",
+    "How do these efforts connect to broader authoritarian capture strategies?",
+    "What resistance mechanisms have emerged from within institutions?"
+  ],
+  "key_actors": [
+    "Rudy Giuliani",
+    "Jared Kushner",
+    "Donald Trump",
+    "William Barr"
+  ],
+  "expected_timeline_events": 15,
+  "priority_level": "high",
+  "complexity": "high",
+  "estimated_hours": 8,
+  "tags": [
+    "corruption",
+    "systematic-capture",
+    "trump-administration",
+    "doj_weaponization"
+  ],
+  "source_articles": [
+    {
+      "title": "Trump Tyranny Tracker: Day 172",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-172",
+      "filename": "ttt-7ae19183-trump-tyranny-tracker-day-172.json"
+    },
+    {
+      "title": "Trump Tyranny Tracker: Day 205",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-205",
+      "filename": "ttt-7c055fb7-trump-tyranny-tracker-day-205.json"
+    },
+    {
+      "title": "Trump Tyranny Tracker: Day 93",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-93",
+      "filename": "ttt-7d871982-trump-tyranny-tracker-day-93.json"
+    },
+    {
+      "title": "Trump Tyranny Tracker: Day 89-91",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-89-91",
+      "filename": "ttt-7e0c48d1-trump-tyranny-tracker-day-89-91.json"
+    },
+    {
+      "title": "Trump Tyranny Tracker: Day 218",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-218",
+      "filename": "ttt-7f72d148-trump-tyranny-tracker-day-218.json"
+    }
+  ],
+  "creation_date": "2025-09-10T11:02:11.665202",
+  "status": "pending"
+}

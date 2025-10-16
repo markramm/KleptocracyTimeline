@@ -9,6 +9,9 @@ from pathlib import Path
 from datetime import datetime, date
 from typing import List, Dict, Optional, Union
 import re
+import sys
+sys.path.append('.')
+from enhanced_event_validator import TimelineEventValidator
 
 class TimelineEventManager:
     """Manager class for timeline events."""
@@ -265,10 +268,25 @@ class TimelineEventManager:
                 print(f"Auto-correcting ID: {event.get('id', 'none')} -> {expected_id}")
                 event['id'] = expected_id
         
-        # Validate first
-        errors = self.validate_event(event)
-        if errors:
-            raise ValueError(f"Cannot save invalid event:\n" + "\n".join(f"  - {e}" for e in errors))
+        # Use enhanced validator to validate and fix the event
+        validator = TimelineEventValidator()
+        validation_result = validator.validate_event(event)
+        
+        # Use the fixed event from the validator
+        event = validation_result['fixed_event']
+        
+        # Print warnings about fixes that were applied
+        if validation_result['warnings']:
+            print("Validation warnings (auto-fixed):")
+            for warning in validation_result['warnings']:
+                print(f"  - {warning}")
+        
+        # Only throw errors for truly unfixable issues (rare)
+        if validation_result['errors']:
+            # Re-validate the fixed event to see if errors persist
+            final_check = validator.validate_event(event)
+            if final_check['errors']:
+                raise ValueError(f"Cannot save event - unfixable errors:\n" + "\n".join(f"  - {e}" for e in final_check['errors']))
         
         filename = f"{event['id']}.json"
         filepath = self.events_dir / filename

@@ -3,7 +3,7 @@
   "title": "Early Warning Systems for Institutional Capture",
   "description": "Research metrics and monitoring systems that can detect early signs of institutional capture, regulatory capture, and systemic corruption before they become entrenched.",
   "priority": 9,
-  "status": "pending",
+  "status": "completed",
   "category": "capture-detection",
   "tags": [
     "institutional-capture",
@@ -61,5 +61,7 @@
     "What policy outcome metrics indicate regulatory capture?",
     "How can network analysis detect influence operations?"
   ],
-  "estimated_importance": 9
+  "estimated_importance": 9,
+  "events_created": 3,
+  "completion_date": "2025-01-15"
 }

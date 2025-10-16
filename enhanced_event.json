@@ -1,0 +1,47 @@
+{
+    "id": "2017-11-05--paradise-papers-reveal-further-offshore-tax-avoida",
+    "date": "2017-11-05",
+    "title": "Paradise Papers Expose Global Elite's Offshore Financial Networks",
+    "summary": "The International Consortium of Investigative Journalists (ICIJ) released the Paradise Papers on November 5, 2017, a massive leak of 13.4 million documents from Appleby and other offshore service providers. The documents exposed extensive offshore financial activities of global political and business leaders, including Trump administration officials and Russian oligarchs. Key revelations included Wilbur Ross's business ties to Russian companies, offshore investments by Queen Elizabeth II, and tax avoidance strategies of major corporations like Apple and Nike.",
+    "importance": 8,
+    "actors": [
+        "Wilbur Ross",
+        "Queen Elizabeth II",
+        "Russian Oligarchs",
+        "Trump Administration Officials",
+        "ICIJ Investigative Team"
+    ],
+    "sources": [
+        {
+            "url": "https://www.icij.org/investigations/paradise-papers/",
+            "title": "Paradise Papers: Secrets of the Global Elite",
+            "outlet": "International Consortium of Investigative Journalists"
+        },
+        {
+            "url": "https://www.washingtonpost.com/news/worldviews/wp/2017/11/06/paradise-papers-reveal-how-the-wealthy-and-even-the-politicians-are-still-hiding-their-wealth-from-the-taxman/",
+            "title": "Paradise Papers Leak: Documents Reveal How the Wealthy Are Hiding Their Money",
+            "outlet": "The Washington Post"
+        },
+        {
+            "url": "https://www.cbc.ca/news/business/paradise-papers-leak-1.4387338",
+            "title": "Massive Tax Haven Data Leak Reveals Financial Secrets of World's Wealthy",
+            "outlet": "CBC News"
+        }
+    ],
+    "tags": [
+        "paradise-papers",
+        "offshore-finance",
+        "tax-havens",
+        "oligarchs",
+        "financial-transparency",
+        "global-elite"
+    ],
+    "capture_lanes": [
+        "Financial Capture",
+        "Regulatory Capture",
+        "Intelligence Penetration"
+    ],
+    "location": "Global",
+    "category": "financial-investigations",
+    "status": "confirmed"
+}

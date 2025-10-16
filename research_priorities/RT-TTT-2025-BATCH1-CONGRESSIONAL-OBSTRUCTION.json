@@ -1,0 +1,24 @@
+{
+  "id": "RT-TTT-2025-BATCH1-CONGRESSIONAL-OBSTRUCTION",
+  "title": "Congressional Oversight Obstruction Campaign",
+  "description": "Documentation of systematic efforts to obstruct congressional oversight through privilege claims and stonewalling. Identified 381 pattern instances showing coordinated obstruction of legislative branch oversight functions.",
+  "research_questions": [
+    "What are the specific mechanisms used for congressional obstruction?",
+    "Who are the key actors coordinating oversight obstruction efforts?",
+    "What timeline evidence exists for systematic stonewalling operations?",
+    "Which congressional investigations show evidence of coordinated obstruction?",
+    "How do obstruction efforts connect to broader separation of powers violations?"
+  ],
+  "expected_events": "10-14",
+  "priority_level": "HIGH",
+  "status": "pending",
+  "source_analysis": "Trump Tyranny Tracker Batch 1 Analysis - 381 congressional obstruction patterns identified across 45 articles",
+  "creation_date": "2025-09-10T10:55:05.463576",
+  "tags": [
+    "congress",
+    "obstruction",
+    "oversight",
+    "executive-privilege",
+    "stonewalling"
+  ]
+}

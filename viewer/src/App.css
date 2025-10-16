@@ -372,3 +372,30 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: #6b7280;
 }
+
+/* Refresh Button Animations */
+.icon-button.spinning {
+  animation: spin 1s linear infinite;
+}
+
+.icon-button .auto-indicator {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  background: #10b981;
+  color: white;
+  border-radius: 4px;
+  padding: 1px 3px;
+  font-size: 8px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

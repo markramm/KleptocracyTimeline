@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-MILITARY-CHAIN-VIOLATIONS",
+  "title": "TTT Batch 2: Military Politicization and Chain of Command Violations",
+  "description": "Systematic analysis of military politicization and chain of command violations based on Trump Tyranny Tracker documentation. Found 25 instances across articles 46-90. Research Pentagon interference, Joint Chiefs pressure, military leadership purges, defense secretary coordination, and political loyalty testing in military. Focus on specific incidents, targeted military leaders, and constitutional violations.",
+  "expected_events": 10,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "military-politicization",
+    "chain-of-command",
+    "systematic-corruption"
+  ],
+  "timeline_focus": "2017-2025",
+  "actors": [
+    "Pentagon",
+    "Joint Chiefs",
+    "Defense Secretary",
+    "Military Leadership"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348607",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

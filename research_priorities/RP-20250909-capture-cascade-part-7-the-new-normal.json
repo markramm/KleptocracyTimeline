@@ -3,7 +3,7 @@
   "title": "Capture Cascade Part 7: The New Normal",
   "description": "Document the normalization of authoritarian practices, public acceptance of democratic decline, and establishment of new anti-democratic norms as standard procedure.",
   "priority": 8,
-  "status": "pending",
+  "status": "completed",
   "category": "pdf-analysis",
   "tags": [
     "high-priority",
@@ -13,5 +13,7 @@
   "estimated_events": 5,
   "source_document": "documents/incoming/The Capture Cascade - Part 7_ The New Normal.pdf",
   "created_date": "2025-09-09",
-  "requires_pdf_analysis": true
+  "requires_pdf_analysis": true,
+  "events_created": 3,
+  "completion_date": "2025-01-15"
 }

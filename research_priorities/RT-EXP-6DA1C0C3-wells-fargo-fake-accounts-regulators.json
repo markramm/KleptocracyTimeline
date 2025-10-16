@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-6DA1C0C3-wells-fargo-fake-accounts-regulators",
+  "title": "Wells Fargo Fake Accounts Regulatory Failure",
+  "description": "Investigate how Wells Fargo created millions of fake customer accounts while regulators failed to detect or stop the systematic fraud for years.",
+  "expected_events": 4,
+  "importance": 8,
+  "tags": [
+    "banking-fraud",
+    "regulatory-failure",
+    "consumer-abuse",
+    "financial-fraud"
+  ],
+  "research_status": "not_started",
+  "time_period": "2009-2016"
+}

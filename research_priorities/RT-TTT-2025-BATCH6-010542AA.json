@@ -1,0 +1,607 @@
+{
+  "id": "RT-TTT-2025-BATCH6-010542AA",
+  "title": "Election Infrastructure Capture and Certification Interference",
+  "description": "\nInvestigation of election system capture operations and certification interference documented in 50 TTT articles.\n\nResearch Focus:\n- Secretary of State and election official replacement campaigns\n- Voting system access and manipulation attempts\n- Certification process interference and bypass mechanisms\n- Election worker intimidation and targeting\n- Polling location and ballot processing interference\n- Legal challenges to election security measures\n- Coordination between election denial groups and officials\n\nExpected to document systematic campaign to capture and manipulate election infrastructure at state and local levels.\n",
+  "priority_level": "high",
+  "estimated_events": 13,
+  "focus_areas": [
+    "Systematic corruption patterns",
+    "Coordinated institutional capture",
+    "Democratic norm violations",
+    "Authoritarian consolidation mechanisms"
+  ],
+  "methodology": [
+    "Pattern analysis across multiple corruption incidents",
+    "Timeline reconstruction of coordinated operations",
+    "Network analysis of institutional capture",
+    "Escalation pattern documentation"
+  ],
+  "sources_to_investigate": [
+    "Government documents and reports",
+    "Congressional testimony and hearings",
+    "Inspector General reports",
+    "Whistleblower accounts",
+    "Investigative journalism",
+    "Legal filings and court documents"
+  ],
+  "pattern_details": [
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 226,
+      "title": "Trump Tyranny Tracker: Day 87",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-87",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 227,
+      "title": "Trump Tyranny Tracker: Day 152",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-152",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 229,
+      "title": "Trump Tyranny Tracker: Day 197",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-197",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 231,
+      "title": "Trump Tyranny Tracker: Day 51",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-51",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 232,
+      "title": "Authoritarianism 101: How It Happens \u2014 And How We Fight Back with Zev and Olga Session 9",
+      "url": "https://trumptyrannytracker.substack.com/p/authoritarianism-101-how-it-happens-cac",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 233,
+      "title": "Trump Tyranny Tracker: Day 74",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-74",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 234,
+      "title": "Trump Tyranny Tracker: Day 166",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-166",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 235,
+      "title": "Trump Tyranny Tracker: Day 75-77",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-75-77",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 237,
+      "title": "Trump Tyranny Tracker: Day 193",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-193",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 240,
+      "title": "Trump Tyranny Tracker: Day 208-210",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-208-210",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 243,
+      "title": "Trump Tyranny Tracker: Day 78",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-78",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 244,
+      "title": "Trump Tyranny Tracker: Day 16",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-16",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 247,
+      "title": "Trump Tyranny Tracker: Day 13-14",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-13-14",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 248,
+      "title": "Trump Tyranny Tracker: Your Daily Reminder",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-your-daily-88d",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 251,
+      "title": "Trump Tyranny Tracker: Day 200",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-200",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 252,
+      "title": "Trump Tyranny Tracker: Day 228",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-228",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 253,
+      "title": "Trump Tyranny Tracker: Day 194",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-194",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 256,
+      "title": "Trump Tyranny Tracker: Day 177",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-177",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 257,
+      "title": "Trump Tyranny Tracker: Day 222",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-222",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 259,
+      "title": "Trump Tyranny Tracker: Day 108",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-108",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 262,
+      "title": "Trump Tyranny Tracker: Day 223-225",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-223-225",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 263,
+      "title": "Authoritarianism 101: How It Happens \u2014 And How We Fight Back with Zev and Olga Session 10",
+      "url": "https://trumptyrannytracker.substack.com/p/authoritarianism-101-how-it-happens-048",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 265,
+      "title": "Trump Tyranny Tracker: Day 214",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-214",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 266,
+      "title": "Trump Tyranny Tracker: Day 94",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-94",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Election system capture operations",
+      "indicators": [
+        "official replacement",
+        "certification interference",
+        "voting system access"
+      ]
+    },
+    {
+      "source_article": 268,
+      "title": "Trump Tyranny Tracker: Your Daily Reminder",
+      "url": "https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-your-daily-712",
+      "patterns": [
+        {
+          "context": "Election system capture operations",
+          "indicators": [
+            "official replacement",
+            "certification interference",
+            "voting system access"
+          ]
+        }
+      ]
+    }
+  ],
+  "created_date": "2025-09-10T11:04:56.284485",
+  "status": "pending",
+  "batch": "TTT-BATCH6-FINAL"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "RT-TTT-2025-BATCH1-MILITARY-POLITICIZATION",
+  "title": "Military Chain of Command Politicization Operations",
+  "description": "Analysis of efforts to politicize military leadership, loyalty tests, and chain of command violations. Identified 240 pattern instances showing systematic attempts to impose political loyalty on military institutions.",
+  "research_questions": [
+    "What are the specific mechanisms used for military politicization?",
+    "Who are the key actors coordinating military loyalty operations?",
+    "What timeline evidence exists for chain of command violations?",
+    "Which military leaders and positions are targeted for political control?",
+    "How do military politicization efforts connect to broader authoritarian strategies?"
+  ],
+  "expected_events": "8-12",
+  "priority_level": "HIGH",
+  "status": "pending",
+  "source_analysis": "Trump Tyranny Tracker Batch 1 Analysis - 240 military politicization patterns identified across 45 articles",
+  "creation_date": "2025-09-10T10:55:05.463574",
+  "tags": [
+    "military",
+    "politicization",
+    "chain-of-command",
+    "pentagon",
+    "loyalty-tests"
+  ]
+}

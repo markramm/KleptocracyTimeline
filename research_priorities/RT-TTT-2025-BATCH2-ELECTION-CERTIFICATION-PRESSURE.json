@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-ELECTION-CERTIFICATION-PRESSURE",
+  "title": "TTT Batch 2: Election Infrastructure Capture and Certification Pressure",
+  "description": "Systematic analysis of election infrastructure capture and certification pressure operations based on Trump Tyranny Tracker documentation. Found 14 instances across articles 46-90. Research election official targeting, certification pressure campaigns, voter roll manipulation, polling location interference, and election infrastructure capture. Focus on specific states, targeted officials, and pressure mechanisms.",
+  "expected_events": 8,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "election-infrastructure",
+    "certification-pressure",
+    "systematic-corruption"
+  ],
+  "timeline_focus": "2020-2025",
+  "actors": [
+    "Election Officials",
+    "State Governments",
+    "Electoral College",
+    "Certification Bodies"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348677",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

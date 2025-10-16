@@ -1,0 +1,24 @@
+{
+  "id": "RP-20250911-panama-papers-network-analysis",
+  "date": "2025-09-11",
+  "title": "Panama Papers Global Network Analysis",
+  "summary": "Detailed investigation of offshore financial networks exposed by the Panama Papers, mapping global interconnections of wealth, power, and potential financial crimes",
+  "actors": ["ICIJ", "Mossack Fonseca", "Vladimir Putin", "Petro Poroshenko", "Nawaz Sharif", "King Salman"],
+  "sources": [
+    {
+      "outlet": "ICIJ",
+      "title": "Panama Papers Investigation",
+      "url": "https://www.icij.org/investigations/panama-papers/"
+    },
+    {
+      "outlet": "The Guardian",
+      "title": "Panama Papers: Global Investigation of Offshore Finance",
+      "url": "https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore"
+    }
+  ],
+  "tags": ["offshore-finance", "financial-networks", "global-corruption"],
+  "priority_type": "historical_research",
+  "related_events": ["2016-04-03--panama-papers-expose-global-offshore-financial-net"],
+  "status": "proposed",
+  "importance": 8
+}

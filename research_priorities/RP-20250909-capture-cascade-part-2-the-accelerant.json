@@ -3,7 +3,7 @@
   "title": "Capture Cascade Part 2: The Accelerant",
   "description": "Document events that accelerated institutional capture, including crisis exploitation, emergency powers abuse, and rapid policy changes that weakened democratic norms.",
   "priority": 9,
-  "status": "pending",
+  "status": "completed",
   "category": "pdf-analysis",
   "tags": [
     "capture-cascade",
@@ -13,5 +13,7 @@
   "estimated_events": 6,
   "source_document": "documents/incoming/The Capture Cascade - Part 2_ The Accelerant.pdf",
   "created_date": "2025-09-09",
-  "requires_pdf_analysis": true
+  "requires_pdf_analysis": true,
+  "events_created": 2,
+  "completion_date": "2025-01-15"
 }

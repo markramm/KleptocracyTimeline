@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-2F1719D3-arthur-andersen-enron-audit-fraud",
+  "title": "Arthur Andersen-Enron Audit Fraud",
+  "description": "Research the systematic audit fraud and document destruction by Arthur Andersen in the Enron scandal, demonstrating regulatory capture of accounting oversight.",
+  "expected_events": 3,
+  "importance": 8,
+  "tags": [
+    "audit-fraud",
+    "regulatory-capture",
+    "corporate-accounting",
+    "corporate-malfeasance"
+  ],
+  "research_status": "not_started",
+  "time_period": "1990-2002"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "RP-20250910-technological-infrastructure-capture-networks",
+  "title": "Technological Infrastructure of Institutional Capture Networks",
+  "description": "Comprehensive analysis revealing the systematic use of advanced technological infrastructure to facilitate institutional capture. Specific mechanisms include AI-driven personnel selection algorithms, predictive analytics for identifying ideologically aligned candidates, and digital surveillance technologies that enable precise institutional transformation.",
+  "status": "draft",
+  "priority": 10,
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Electoral Manipulation", 
+    "Technological Infrastructure"
+  ],
+  "research_objectives": [
+    "Analyze AI-driven personnel selection mechanisms",
+    "Map predictive analytics in institutional transformation",
+    "Investigate digital surveillance technologies",
+    "Understand strategic positioning in governance structures"
+  ],
+  "key_actors": [
+    "Stanford Center for Digital Governance",
+    "Center for Technology and Democracy, Georgetown University", 
+    "Harvard Berkman Klein Center for Internet & Society"
+  ],
+  "tags": [
+    "institutional-capture",
+    "technological-infrastructure", 
+    "digital-governance",
+    "ai-driven-transformation",
+    "algorithmic-personnel-selection"
+  ],
+  "created_at": "2025-09-11T11:23:39.116050Z"
+}

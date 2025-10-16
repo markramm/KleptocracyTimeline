@@ -176,19 +176,35 @@ cd viewer && npm install
 - Explain systemic significance
 - Avoid loaded language
 
-### Language to Avoid
-- "Corrupt" (unless quoting)
-- "Dictatorial"
-- "Fascist"
-- "Treasonous"
-- Any partisan labels
+### Language Guidelines for Corruption Timeline
 
-### Language to Use
-- "Violated norm of..."
-- "Previously unprecedented..."
-- "Departed from tradition..."
-- "First time in history..."
-- "Documents show..."
+#### ✅ Appropriate Language
+- **"Corruption"** - When factually documented and sourced
+- **"Financial corruption"** - For monetary conflicts of interest
+- **"Systematic corruption"** - For institutional capture patterns
+- **"Violated norm of..."** - For norm-breaking behavior
+- **"Previously unprecedented..."** - For historical firsts
+- **"Departed from tradition..."** - For institutional changes
+- **"Documents show..."** - For evidence-based claims
+
+#### ⚠️ Use With Caution (Require Strong Sources)
+- **"Corrupt"** as adjective - Should be backed by legal findings or clear evidence
+- **"Fraudulent"** - Requires documentation or legal determinations
+- **"Criminal"** - Only when charges filed or convictions obtained
+
+#### ❌ Language to Avoid
+- **"Dictatorial"** - Use "authoritarian methods" or "executive overreach"
+- **"Fascist"** - Use specific descriptions of actions
+- **"Treasonous"** - Use "violated oath" or "constitutional violations"
+- **Partisan labels** without factual basis
+- **Emotional rhetoric** not supported by evidence
+
+#### 📝 Context Matters
+Since this is a **kleptocracy and corruption timeline**, terms like "corruption," "kleptocracy," and "capture" are appropriate and necessary when:
+1. **Factually accurate** and well-documented
+2. **Supported by credible sources**
+3. **Used descriptively** rather than as political attacks
+4. **Part of institutional analysis** rather than personal insults
 
 ## 🛡️ Archiving Sources
 
