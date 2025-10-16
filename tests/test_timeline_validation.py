@@ -180,13 +180,15 @@ class TestTimelineValidation(unittest.TestCase):
     def test_sources_have_required_fields(self):
         """Verify that all sources have required fields when present."""
         source_errors = []
-        required_source_fields = ['title', 'url', 'date']
-        
+        # Only title and url are strictly required
+        # date and outlet are recommended but not required (per validation_functions.py)
+        required_source_fields = ['title', 'url']
+
         for json_file in self.json_files:
             try:
                 with open(json_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                
+
                 sources = data.get('sources', [])
                 for i, source in enumerate(sources):
                     for field in required_source_fields:
@@ -196,7 +198,7 @@ class TestTimelineValidation(unittest.TestCase):
                             )
             except Exception:
                 pass
-        
+
         if source_errors:
             # Only show first 20 errors to avoid overwhelming output
             display_errors = source_errors[:20]

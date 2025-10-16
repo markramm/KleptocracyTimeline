@@ -1,36 +1,36 @@
 {
-    "id": "2024-03-22--grok-ai-open-source-release",
-    "date": "2024-03-22",
-    "title": "xAI Announces Open Source Release of Grok AI",
-    "summary": "xAI, founded by Elon Musk, announced plans to open source its Grok AI chatbot in March 2024. This followed ongoing legal disputes with OpenAI and amid broader industry discussions about AI transparency and development practices.",
-    "importance": 6,
-    "actors": [
-        "Elon Musk",
-        "xAI",
-        "Grok AI"
-    ],
-    "sources": [
-        {
-            "outlet": "TechCrunch",
-            "title": "Elon Musk to open-source AI chatbot Grok this week",
-            "url": "https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/",
-            "date": "2024-03-11"
-        },
-        {
-            "outlet": "Fortune",
-            "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
-            "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
-            "date": "2025-07-17"
-        }
-    ],
-    "tags": [
-        "AI development",
-        "Open source technology",
-        "Tech industry transparency"
-    ],
-    "capture_lanes": [
-        "Technological Capture",
-        "Innovation Infrastructure"
-    ],
-    "status": "confirmed"
+  "id": "2024-03-22--grok-ai-regulatory-investigation",
+  "date": "2024-03-22",
+  "title": "xAI Announces Open Source Release of Grok AI",
+  "summary": "xAI, founded by Elon Musk, announced plans to open source its Grok AI chatbot in March 2024. This followed ongoing legal disputes with OpenAI and amid broader industry discussions about AI transparency and development practices.",
+  "importance": 6,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "Grok AI"
+  ],
+  "sources": [
+    {
+      "outlet": "TechCrunch",
+      "title": "Elon Musk to open-source AI chatbot Grok this week",
+      "url": "https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/",
+      "date": "2024-03-11"
+    },
+    {
+      "outlet": "Fortune",
+      "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
+      "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
+      "date": "2025-07-17"
+    }
+  ],
+  "tags": [
+    "AI development",
+    "Open source technology",
+    "Tech industry transparency"
+  ],
+  "capture_lanes": [
+    "Technological Capture",
+    "Innovation Infrastructure"
+  ],
+  "status": "confirmed"
 }
