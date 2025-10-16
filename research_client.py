@@ -24,7 +24,7 @@ except ImportError:
 class TimelineResearchClient:
     """Client for interacting with the Timeline Research API"""
     
-    def __init__(self, base_url: str = None, api_key: str = "test-key"):
+    def __init__(self, base_url: Optional[str] = None, api_key: str = "test-key"):
         """Initialize client with API base URL and API key"""
         if base_url is None:
             base_url = get_research_monitor_url()
@@ -177,7 +177,7 @@ class TimelineResearchClient:
         result = self._request('GET', '/api/events/research-candidates', params=params)
         return result.get('events', [])
     
-    def get_actor_timeline(self, actor: str, start_year: int = None, end_year: int = None) -> Dict:
+    def get_actor_timeline(self, actor: str, start_year: Optional[int] = None, end_year: Optional[int] = None) -> Dict:
         """
         Get chronological timeline of all events for a specific actor
         
@@ -249,8 +249,8 @@ class TimelineResearchClient:
         }
         return self._request('POST', f'/api/qa/enhance/{event_id}', json=data)
     
-    def mark_event_in_progress(self, event_id: str, created_by: str = "qa-agent", 
-                              agent_id: str = None) -> Dict:
+    def mark_event_in_progress(self, event_id: str, created_by: str = "qa-agent",
+                              agent_id: Optional[str] = None) -> Dict:
         """Mark an event as in_progress to prevent duplicate processing"""
         data = {
             'created_by': created_by,
@@ -272,7 +272,7 @@ class TimelineResearchClient:
         params = {'limit': limit}
         return self._request('GET', f'/api/qa/issues/{issue_type}', params=params)
     
-    def calculate_qa_score(self, event_data: Dict, metadata: Dict = None) -> Dict:
+    def calculate_qa_score(self, event_data: Dict, metadata: Optional[Dict] = None) -> Dict:
         """Calculate QA priority score for event data"""
         data = {'event': event_data}
         if metadata:
@@ -291,7 +291,7 @@ class TimelineResearchClient:
     
     # Documentation and Help Methods
     
-    def help(self, topic: str = None) -> str:
+    def help(self, topic: Optional[str] = None) -> str:
         """
         Get comprehensive help documentation for the research client
         
@@ -717,8 +717,8 @@ Authentication: Some endpoints require X-API-Key header.
         """
         return self._request('GET', '/api/priorities/next')
     
-    def update_priority(self, priority_id: str, status: str, notes: str = None, 
-                       actual_events: int = None) -> Dict:
+    def update_priority(self, priority_id: str, status: str, notes: Optional[str] = None,
+                       actual_events: Optional[int] = None) -> Dict:
         """
         Update priority status and progress
         
@@ -731,7 +731,7 @@ Authentication: Some endpoints require X-API-Key header.
         Returns:
             Updated priority data
         """
-        data = {'status': status}
+        data: Dict[str, Any] = {'status': status}
         if notes:
             data['notes'] = notes
         if actual_events is not None:
@@ -794,7 +794,7 @@ Co-Authored-By: Claude <noreply@anthropic.com>
         }
         return self._request('POST', '/api/research/notes', json=data)
     
-    def get_research_notes(self, status: str = None, limit: int = 50) -> List[Dict]:
+    def get_research_notes(self, status: Optional[str] = None, limit: int = 50) -> List[Dict]:
         """
         Get research notes with optional status filter
         
@@ -805,7 +805,7 @@ Co-Authored-By: Claude <noreply@anthropic.com>
         Returns:
             List of research note dictionaries
         """
-        params = {'limit': limit}
+        params: Dict[str, Any] = {'limit': limit}
         if status:
             params['status'] = status
         
@@ -843,8 +843,8 @@ Co-Authored-By: Claude <noreply@anthropic.com>
     
     # Convenience Methods for Research Workflow
     
-    def find_connections(self, actor: str = None, tag: str = None, 
-                        date_range: tuple = None) -> List[Dict]:
+    def find_connections(self, actor: Optional[str] = None, tag: Optional[str] = None,
+                        date_range: Optional[tuple] = None) -> List[Dict]:
         """
         Find events that might be connected based on common attributes
         
@@ -927,9 +927,9 @@ Co-Authored-By: Claude <noreply@anthropic.com>
             Timeline analysis dictionary
         """
         events = self.search_events(start_date=start_date, end_date=end_date)
-        
+
         # Group by month
-        by_month = {}
+        by_month: Dict[str, List[Dict]] = {}
         all_actors = set()
         all_tags = set()
         
@@ -960,9 +960,9 @@ Co-Authored-By: Claude <noreply@anthropic.com>
         """
         # Get recent high-importance events
         high_importance = self.search_events(min_importance=8, limit=20)
-        
+
         # Find actors with multiple high-importance events
-        actor_counts = {}
+        actor_counts: Dict[str, int] = {}
         for event in high_importance:
             for actor in event.get('actors', []):
                 actor_counts[actor] = actor_counts.get(actor, 0) + 1
@@ -999,10 +999,10 @@ Co-Authored-By: Claude <noreply@anthropic.com>
 
     # Validation Runs System Methods
     
-    def list_validation_runs(self, status: str = None, run_type: str = None, 
+    def list_validation_runs(self, status: Optional[str] = None, run_type: Optional[str] = None,
                            limit: int = 20, offset: int = 0) -> Dict:
         """List validation runs with optional filtering"""
-        params = {'limit': limit, 'offset': offset}
+        params: Dict[str, Any] = {'limit': limit, 'offset': offset}
         if status:
             params['status'] = status
         if run_type:
@@ -1019,7 +1019,7 @@ Co-Authored-By: Claude <noreply@anthropic.com>
         """Get detailed information about a validation run"""
         return self._request('GET', f'/api/validation-runs/{run_id}')
     
-    def get_next_validation_event(self, run_id: int, validator_id: str = None) -> Dict:
+    def get_next_validation_event(self, run_id: int, validator_id: Optional[str] = None) -> Dict:
         """Get next event to validate from a validation run"""
         params = {}
         if validator_id:
@@ -1047,11 +1047,11 @@ Co-Authored-By: Claude <noreply@anthropic.com>
         data.update(kwargs)
         return self._request('POST', '/api/validation-logs', json=data)
     
-    def list_validation_logs(self, event_id: str = None, validation_run_id: int = None,
-                           validator_type: str = None, status: str = None,
+    def list_validation_logs(self, event_id: Optional[str] = None, validation_run_id: Optional[int] = None,
+                           validator_type: Optional[str] = None, status: Optional[str] = None,
                            limit: int = 50, offset: int = 0) -> Dict:
         """List validation logs with optional filtering"""
-        params = {'limit': limit, 'offset': offset}
+        params: Dict[str, Any] = {'limit': limit, 'offset': offset}
         if event_id:
             params['event_id'] = event_id
         if validation_run_id:
@@ -1062,11 +1062,11 @@ Co-Authored-By: Claude <noreply@anthropic.com>
             params['status'] = status
         return self._request('GET', '/api/validation-logs', params=params)
     
-    def list_event_update_failures(self, event_id: str = None, failure_type: str = None,
-                                  validator_id: str = None, resolved: str = None,
+    def list_event_update_failures(self, event_id: Optional[str] = None, failure_type: Optional[str] = None,
+                                  validator_id: Optional[str] = None, resolved: Optional[str] = None,
                                   limit: int = 25, offset: int = 0) -> Dict:
         """List event update failures with optional filtering"""
-        params = {'limit': limit, 'offset': offset}
+        params: Dict[str, Any] = {'limit': limit, 'offset': offset}
         if event_id:
             params['event_id'] = event_id
         if failure_type:
