@@ -8,7 +8,7 @@ import requests
 import json
 import sys
 import os
-from typing import List, Dict, Optional, Any
+from typing import List, Dict, Optional, Any, cast
 from datetime import datetime, date
 from pathlib import Path
 
@@ -52,8 +52,8 @@ class TimelineResearchClient:
                 raise Exception(f"API Error {response.status_code}: {error_msg}")
             except json.JSONDecodeError:
                 raise Exception(f"HTTP Error {response.status_code}: {response.text}")
-        
-        return response.json()
+
+        return cast(Dict[str, Any], response.json())
     
     # Search and Query Methods
     
@@ -84,7 +84,7 @@ class TimelineResearchClient:
             List of event dictionaries
         """
         result = self.search(query, **filters)
-        return result.get('events', [])
+        return cast(List[Dict[str, Any]], result.get('events', []))
     
     def get_event(self, event_id: str) -> Optional[Dict]:
         """
@@ -106,12 +106,12 @@ class TimelineResearchClient:
     def get_actors(self) -> List[str]:
         """Get all unique actors"""
         result = self._request('GET', '/api/timeline/actors')
-        return result.get('actors', [])
-    
+        return cast(List[str], result.get('actors', []))
+
     def get_tags(self) -> List[str]:
-        """Get all unique tags"""  
+        """Get all unique tags"""
         result = self._request('GET', '/api/timeline/tags')
-        return result.get('tags', [])
+        return cast(List[str], result.get('tags', []))
     
     def get_stats(self) -> Dict:
         """Get database statistics"""
@@ -132,7 +132,7 @@ class TimelineResearchClient:
         """
         params = {'min_sources': min_sources, 'limit': limit}
         result = self._request('GET', '/api/events/missing-sources', params=params)
-        return result.get('events', [])
+        return cast(List[Dict[str, Any]], result.get('events', []))
     
     def get_validation_queue(self, limit: int = 50) -> List[Dict]:
         """
@@ -146,7 +146,7 @@ class TimelineResearchClient:
         """
         params = {'limit': limit}
         result = self._request('GET', '/api/events/validation-queue', params=params)
-        return result.get('events', [])
+        return cast(List[Dict[str, Any]], result.get('events', []))
     
     def get_broken_links(self, limit: int = 50) -> List[Dict]:
         """
@@ -160,7 +160,7 @@ class TimelineResearchClient:
         """
         params = {'limit': limit}
         result = self._request('GET', '/api/events/broken-links', params=params)
-        return result.get('events', [])
+        return cast(List[Dict[str, Any]], result.get('events', []))
     
     def get_research_candidates(self, min_importance: int = 7, limit: int = 50) -> List[Dict]:
         """
@@ -175,7 +175,7 @@ class TimelineResearchClient:
         """
         params = {'min_importance': min_importance, 'limit': limit}
         result = self._request('GET', '/api/events/research-candidates', params=params)
-        return result.get('events', [])
+        return cast(List[Dict[str, Any]], result.get('events', []))
     
     def get_actor_timeline(self, actor: str, start_year: Optional[int] = None, end_year: Optional[int] = None) -> Dict:
         """
@@ -808,9 +808,9 @@ Co-Authored-By: Claude <noreply@anthropic.com>
         params: Dict[str, Any] = {'limit': limit}
         if status:
             params['status'] = status
-        
+
         result = self._request('GET', '/api/research/notes', params=params)
-        return result.get('notes', [])
+        return cast(List[Dict[str, Any]], result.get('notes', []))
     
     def add_connection(self, event_id_1: str, event_id_2: str, 
                       connection_type: str = 'related', strength: float = 1.0,

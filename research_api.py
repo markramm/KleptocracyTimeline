@@ -8,7 +8,7 @@ import requests
 import os
 import json
 import time
-from typing import Dict, List, Optional, Union
+from typing import Dict, List, Optional, Union, Any, cast
 from datetime import datetime
 
 class ResearchAPIError(Exception):
@@ -59,8 +59,8 @@ class ResearchAPI:
             if response.status_code >= 400:
                 error_msg = f"API Error {response.status_code}: {response.text}"
                 raise ResearchAPIError(error_msg)
-            
-            return response.json()
+
+            return cast(Dict[str, Any], response.json())
             
         except requests.exceptions.RequestException as e:
             raise ResearchAPIError(f"Request failed: {str(e)}")
@@ -259,7 +259,7 @@ class ResearchAPI:
             List of matching events
         """
         response = self._make_request('GET', 'events/search', {'q': query, 'limit': limit})
-        return response.get('events', [])
+        return cast(List[Dict[str, Any]], response.get('events', []))
     
     def validate_event(self, event: Dict, auto_fix: bool = False) -> Dict:
         """
@@ -276,7 +276,7 @@ class ResearchAPI:
             try:
                 from enhanced_event_validator import TimelineEventValidator
                 validator = TimelineEventValidator()
-                return validator.validate_event(event)
+                return cast(Dict[str, Any], validator.validate_event(event))
             except ImportError:
                 print("⚠️  Enhanced validator not available, using basic validation")
                 
@@ -295,7 +295,7 @@ class ResearchAPI:
         """
         try:
             from enhanced_event_validator import validate_and_fix_events
-            return validate_and_fix_events(events)
+            return cast(Dict[str, Any], validate_and_fix_events(events))
         except ImportError:
             # Fallback to individual validation
             results = []

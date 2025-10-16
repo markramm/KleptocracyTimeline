@@ -7,7 +7,7 @@ Provides repository-agnostic Git operations supporting multi-tenant architecture
 import hashlib
 import subprocess
 from pathlib import Path
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, cast
 from datetime import datetime, timezone
 
 from research_monitor.core.config import Config, GitConfig
@@ -265,8 +265,8 @@ class GitService:
         if self.config.WORKSPACE_ISOLATION:
             # Create unique workspace per repo URL
             repo_hash = hashlib.md5(self.repo_url.encode()).hexdigest()[:8]
-            return self.config.TIMELINE_WORKSPACE / repo_hash
-        return self.config.TIMELINE_WORKSPACE
+            return cast(Path, self.config.TIMELINE_WORKSPACE) / repo_hash
+        return cast(Path, self.config.TIMELINE_WORKSPACE)
 
     def _is_git_repo(self) -> bool:
         """Check if workspace is a git repository."""

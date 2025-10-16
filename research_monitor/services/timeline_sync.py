@@ -6,7 +6,7 @@ Replaces filesystem sync complexity with explicit operations.
 
 import json
 from pathlib import Path
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, cast
 from datetime import datetime, timezone
 
 from research_monitor.services.git_service import GitService
@@ -88,7 +88,7 @@ class TimelineSyncService:
     def _load_event_file(self, filepath: Path) -> Dict[str, Any]:
         """Load and parse event JSON file."""
         with open(filepath, 'r', encoding='utf-8') as f:
-            return json.load(f)
+            return cast(Dict[str, Any], json.load(f))
 
     # === Export to Git ===
 
