@@ -35,7 +35,7 @@ class ResearchAPI:
             api_key: API key for authentication (defaults to RESEARCH_MONITOR_API_KEY env var or 'test')
         """
         self.base_url = base_url or os.getenv('RESEARCH_MONITOR_URL', 'http://localhost:5558')
-        self.api_key = api_key or os.getenv('RESEARCH_MONITOR_API_KEY', 'test')
+        self.api_key: str = api_key or os.getenv('RESEARCH_MONITOR_API_KEY', 'test') or 'test'
         self.session = requests.Session()
         self.session.headers.update({
             'Content-Type': 'application/json',
@@ -123,7 +123,7 @@ class ResearchAPI:
         Returns:
             Update confirmation
         """
-        data = {'status': status}
+        data: Dict[str, Union[str, int]] = {'status': status}
         if actual_events is not None:
             data['actual_events'] = actual_events
         if notes:
@@ -444,9 +444,9 @@ class ResearchAPI:
     
     # ===== CONVENIENCE METHODS =====
     
-    def create_simple_event(self, date: str, title: str, summary: str, 
-                           actors: List[str] = None, sources: List[str] = None,
-                           importance: int = 5, tags: List[str] = None) -> Dict:
+    def create_simple_event(self, date: str, title: str, summary: str,
+                           actors: Optional[List[str]] = None, sources: Optional[List[str]] = None,
+                           importance: int = 5, tags: Optional[List[str]] = None) -> Dict:
         """
         Create a simple timeline event with minimal required fields
         
