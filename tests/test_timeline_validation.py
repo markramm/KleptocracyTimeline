@@ -14,6 +14,9 @@ import os
 # Add parent directory to path for imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+# Import validation constants
+from research_monitor.validation_functions import VALID_STATUSES
+
 class TestTimelineValidation(unittest.TestCase):
     """Comprehensive validation tests for timeline events."""
     
@@ -127,18 +130,19 @@ class TestTimelineValidation(unittest.TestCase):
     
     def test_status_values_valid(self):
         """Verify that status values are from the allowed set."""
-        allowed_statuses = {'confirmed', 'alleged', 'speculative', 'developing'}
+        # Use VALID_STATUSES from validation_functions module
+        allowed_statuses = set(VALID_STATUSES)
         status_errors = []
-        
+
         for json_file in self.json_files:
             try:
                 with open(json_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                
+
                 status = data.get('status')
                 if status and status not in allowed_statuses:
                     status_errors.append(
-                        f"{json_file.name}: invalid status '{status}' (allowed: {allowed_statuses})"
+                        f"{json_file.name}: invalid status '{status}' (allowed: {sorted(allowed_statuses)})"
                     )
             except Exception:
                 pass

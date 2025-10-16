@@ -11,7 +11,16 @@ class EventValidator:
     """Comprehensive event validation with detailed error reporting"""
     
     # Valid status values
-    VALID_STATUSES = ['confirmed', 'alleged', 'reported', 'speculative', 'developing', 'disputed', 'predicted']
+    # Core statuses for event certainty
+    VALID_STATUSES = [
+        # Primary statuses (original)
+        'confirmed', 'alleged', 'speculative', 'developing',
+        # Additional verification statuses (from actual timeline events)
+        'validated', 'reported', 'investigated', 'disputed',
+        'contested', 'predicted', 'verified', 'enhanced',
+        # Workflow statuses (from QA system)
+        'needs_work', 'unverified'
+    ]
     
     # Required fields
     REQUIRED_FIELDS = ['date', 'title', 'summary', 'actors', 'sources', 'tags']
