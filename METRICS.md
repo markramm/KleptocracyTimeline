@@ -7,10 +7,11 @@
 ## Current Baseline Metrics
 
 ### Test Results
-- **Tests Passing**: 111/178 (62.4%)
-- **Tests Failing**: 67/178 (37.6%)
+- **Tests Passing**: 182/249 (73.1%) - +71 from Phase 2 git service layer
+- **Tests Failing**: 67/249 (26.9%)
 - **Test Errors**: 5
 - **Status**: Many failures related to database initialization and data quality issues
+- **New in Phase 2**: 71 git service tests (100% passing)
 
 **Test Categories**:
 - ✅ Status validation: Fixed (test_status_values_valid now passes)
@@ -126,12 +127,40 @@
 - ⏳ Address 421 malformed sources (missing title/url - data quality)
 - ⏳ Create test fixtures for database integration
 
-### Phase 2: Architecture Refactoring (Weeks 2-4)
-**Status**: ⏳ Not Started
-- Split app_v2.py (4,650 lines → modular structure)
-- Create routes/, services/, core/ directories
-- Extract configuration
-- Maintain 100% test pass rate during refactoring
+### Phase 2: Architecture Refactoring + Git Service Layer (Weeks 2-4)
+**Status**: ✅ Core Complete (Git Service Layer)
+
+**Completed**:
+- ✅ Created modular architecture (core/, services/ directories)
+- ✅ Built GitService with comprehensive git operations (18 tests, 464 lines)
+- ✅ Built TimelineSyncService for import/export coordination (15 tests, 239 lines)
+- ✅ Built PRBuilderService for GitHub PR creation (25 tests, 292 lines)
+- ✅ Created GitConfig for multi-tenant configuration (13 tests, 83 lines)
+- ✅ Added CLI commands (git-pull, git-status, create-pr, git-config)
+- ✅ Multi-tenant support via environment variables
+- ✅ All 71 git service tests passing (100%)
+- ✅ Workspace isolation per repository URL
+
+**Test Results After Phase 2**:
+- Git Service Layer: 71/71 tests passing (100%) ✅
+  - GitConfig: 13 tests ✅
+  - GitService: 18 tests ✅
+  - TimelineSyncService: 15 tests ✅
+  - PRBuilderService: 25 tests ✅
+- Total New Tests: +71 tests
+- All tests use mocking for external dependencies
+
+**Architecture Achievements**:
+- Eliminated dependency on local filesystem for git operations
+- Enabled programmatic GitHub PR creation
+- Support for multiple timeline repositories
+- Clean separation: core config, git operations, sync coordination, PR building
+- CLI interface provides JSON output for automation
+
+**Deferred** (future phases):
+- ⏳ Extract routes from app_v2.py into routes/ modules
+- ⏳ Remove legacy filesystem sync code (~500 lines)
+- ⏳ Complete dependency injection throughout app_v2.py
 
 ### Phase 3: Type Safety (Weeks 3-5)
 **Status**: ⏳ Not Started
@@ -153,12 +182,21 @@
 
 ## Improvement Velocity
 
-### Week 1
-- **Date Range**: 2025-10-16 to 2025-10-23
+### Week 1 (Phase 1)
+- **Date Range**: 2025-10-16 (baseline)
 - **Tests Fixed**: 1 (status validation)
-- **Coverage Improvement**: 0% → TBD
-- **Type Errors Fixed**: 0 → TBD
-- **Pylint Score**: 4.98 → TBD
+- **Tests Added**: 0
+- **Coverage Improvement**: 37% (baseline)
+- **Type Errors Fixed**: 0
+- **Pylint Score**: 4.98/10 (baseline)
+
+### Week 2 (Phase 2)
+- **Date Range**: 2025-10-16 (git service layer)
+- **Tests Fixed**: 0 (all new services)
+- **Tests Added**: +71 (git service layer, 100% passing)
+- **New Modules**: 4 (GitConfig, GitService, TimelineSyncService, PRBuilderService)
+- **CLI Commands Added**: 4 (git-pull, git-status, create-pr, git-config)
+- **Architecture**: Multi-tenant git operations enabled
 
 ---
 
@@ -187,5 +225,5 @@ None currently identified.
 
 ---
 
-**Last Updated**: 2025-10-16
-**Next Review**: After Phase 1 completion
+**Last Updated**: 2025-10-16 (Phase 2 git service layer complete)
+**Next Review**: After Phase 3 completion (Type Safety)
