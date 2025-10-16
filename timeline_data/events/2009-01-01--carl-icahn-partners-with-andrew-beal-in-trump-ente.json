@@ -1,20 +1,33 @@
 {
   "date": "2009-01-01",
   "title": "Carl Icahn Partners with Andrew Beal in Trump Entertainment Resorts Bankruptcy Restructuring",
-  "summary": "During Trump Entertainment Resorts' 2009 bankruptcy proceedings, Carl Icahn partnered with banker Andrew Beal, whose Beal Bank held $500 million in the company's debt, to take control of the casino empire. Icahn brought experience from restructuring Atlantic City's Tropicana casino. Trump fought the Icahn-Beal partnership in court, arguing they could not use his name and likeness on properties.",
+  "summary": "Trump Entertainment Resorts filed for Chapter 11 bankruptcy in 2009, owing $1.2 billion. Initially, Trump worked with Avenue Capital Management to restructure the company, rejecting an earlier partnership with Andrew Beal's Beal Bank. Carl Icahn then purchased 51% of Beal Bank's first lien lender claims, inserting himself into the complex bankruptcy proceedings. Trump fought to maintain control of his brand's use in the properties, ultimately securing 5% stock and continued naming rights through an agreement with Avenue Capital.",
   "importance": 8,
   "actors": [
     "Carl Icahn",
     "Andrew Beal",
     "Donald Trump",
     "Trump Entertainment Resorts",
-    "Beal Bank"
+    "Beal Bank",
+    "Avenue Capital Management"
   ],
   "sources": [
     {
       "title": "Inside the rocky relationship of billionaires Trump and Icahn",
       "url": "https://www.chicagotribune.com/2016/05/02/inside-the-rocky-relationship-of-billionaires-trump-and-icahn/",
       "outlet": "Chicago Tribune"
+    },
+    {
+      "outlet": "CNBC",
+      "title": "Icahn Agrees to Buy Debt of Trump's Casino Company",
+      "url": "https://www.cnbc.com/2009/12/11/icahn-agrees-to-buy-debt-of-trumps-casino-company.html",
+      "date": "2009-12-11"
+    },
+    {
+      "outlet": "Law360",
+      "title": "Icahn Buys Bankrupt Trump Casino's Debt From Beal",
+      "url": "https://www.law360.com/articles/138880/icahn-buys-bankrupt-trump-casino-s-debt-from-beal",
+      "date": "2009-12-11"
     }
   ],
   "tags": [
@@ -23,7 +36,8 @@
     "Atlantic City",
     "bankruptcy",
     "casino",
-    "restructuring"
+    "restructuring",
+    "financial-capture"
   ],
   "id": "2009-01-01--carl-icahn-partners-with-andrew-beal-in-trump-ente",
   "status": "confirmed",

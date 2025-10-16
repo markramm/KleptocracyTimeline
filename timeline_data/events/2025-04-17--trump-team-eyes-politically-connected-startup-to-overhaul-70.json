@@ -1,58 +1,29 @@
 {
   "id": "2025-04-17--trump-team-eyes-politically-connected-startup-to-overhaul-70",
   "date": "2025-04-17",
-  "title": "Trump team eyes politically connected startup to overhaul $700 billion government payments program",
-  "summary": "Trump is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies, to help manage the federal government\u2019s $700 billion SmartPay system",
-  "description": "Trump is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Elon Musk, Peter Thiel, and JD Vance allies, to help manage the federal government\u2019s $700 billion SmartPay system",
-  "status": "confirmed",
+  "title": "Trump Team Targets Politically Connected Startup Ramp for $700B Government Payments Overhaul",
+  "summary": "The Trump administration is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Peter Thiel, Elon Musk, and JD Vance allies, to manage the $700 billion SmartPay government expense card program. Ramp, valued at $13 billion, has deep ties to Trump-aligned investors including Founders Fund, Thrive Capital (Joshua Kushner's firm), and 8VC. Rep. Gerald Connolly launched an investigation into potential preferential treatment, questioning Ramp's zero federal contracting experience and its investors' political connections.",
   "importance": 9,
-  "location": "Washington, D.C.",
+  "tags": [
+    "trump-administration",
+    "government-contracts",
+    "fintech",
+    "peter-thiel",
+    "regulatory-capture",
+    "venture-capital"
+  ],
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Peter Thiel",
+    "Elon Musk",
+    "J.D. Vance",
+    "Gerald Connolly",
+    "Keith Rabois",
+    "Joshua Kushner"
   ],
-  "tags": [
-    "government-contracts"
-  ],
-  "capture_type": "monetizing_position",
   "sources": [
-    {
-      "title": "Trump team eyes politically connected startup to overhaul $700 billion government payments program",
-      "url": "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
-      "outlet": "ProPublica",
-      "date": "2025-04-17"
-    },
-    {
-      "title": "Lawmaker to Probe GSA for Preferential Treatment of Thiel-Backed Firm Ramp",
-      "url": "https://www.propublica.org/article/investigation-ramp-gsa-smartpay-trump-peter-thiel-gerald-connolly",
-      "outlet": "ProPublica",
-      "date": "2025-04-18"
-    },
-    {
-      "title": "Ramp reportedly angles for part of $700B US credit card program",
-      "url": "https://www.bankingdive.com/news/ramp-angles-700b-smartpay-trump/745959/",
-      "outlet": "Banking Dive",
-      "date": "2025-04-17"
-    },
-    {
-      "title": "Little-Known Tech Startup May Soon Make Millions Off Federal Expense Card System",
-      "url": "https://truthout.org/articles/little-known-tech-startup-may-soon-make-millions-off-federal-expense-card-system/",
-      "outlet": "Truthout",
-      "date": "2025-04-17"
-    },
-    {
-      "title": "Peter Thiel's prot\u00e9g\u00e9s: a common thread runs through Trump's tech team",
-      "url": "https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/",
-      "outlet": "Fortune",
-      "date": "2025-05-21"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Financial Capture"
+    "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
+    "https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/",
+    "https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/"
   ]
 }

@@ -2,7 +2,7 @@
   "id": "2021-09-27--fed-presidents-resign-trading-scandal",
   "date": "2021-09-27",
   "title": "Dallas and Boston Fed Presidents Resign Over Trading Scandal",
-  "summary": "Robert Kaplan (Dallas Fed) and Eric Rosengren (Boston Fed) announce resignations within hours of each other following massive public backlash over their 2020 trading activities. Rosengren claims early retirement due to 'kidney condition' while Kaplan admits his financial dealings risk 'becoming a distraction.' Their simultaneous resignations demonstrate systematic corruption within Federal Reserve regional banks where senior officials routinely exploit privileged information for personal profit while setting monetary policy affecting millions of Americans during economic crisis.",
+  "summary": "Robert Kaplan (Dallas Fed) and Eric Rosengren (Boston Fed) announce simultaneous resignations following massive public backlash over their 2020 trading activities. The scandal revealed deep ethical vulnerabilities in the Federal Reserve, where senior officials traded stocks during critical market interventions. Kaplan traded at least $1 million in 22 stocks, while Rosengren invested in mortgage-backed funds similar to those the Fed was purchasing. Their resignations came amid mounting pressure and scrutiny, highlighting systemic conflicts of interest in financial regulatory institutions. Senator Elizabeth Warren and other critics called for comprehensive reforms to prevent such ethical breaches in the future.",
   "importance": 9,
   "tags": [
     "federal_reserve",
@@ -12,13 +12,15 @@
     "eric_rosengren",
     "institutional_corruption",
     "dallas_fed",
-    "boston_fed"
+    "boston_fed",
+    "financial_ethics"
   ],
   "actors": [
     "Robert Kaplan",
     "Eric Rosengren",
     "Federal Reserve Bank of Dallas",
-    "Federal Reserve Bank of Boston"
+    "Federal Reserve Bank of Boston",
+    "Elizabeth Warren"
   ],
   "sources": [
     {
@@ -32,6 +34,18 @@
       "title": "Boston Fed President Rosengren to Retire Early Due to Health Reasons",
       "outlet": "Reuters",
       "date": "2021-09-27"
+    },
+    {
+      "url": "https://www.npr.org/2021/09/27/1041059924/2-top-federal-reserve-officials-retire-after-trading-disclosures",
+      "title": "2 Top Federal Reserve Officials Retire After Trading Disclosures",
+      "outlet": "NPR",
+      "date": "2021-09-27"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2021-09-27/rosengren-exit-may-give-fed-board-more-sway-in-picking-successor",
+      "title": "Trading Scandal That Rocked the Fed Offers Chance to Reshape It",
+      "outlet": "Bloomberg",
+      "date": "2021-09-30"
     }
   ],
   "status": "confirmed",

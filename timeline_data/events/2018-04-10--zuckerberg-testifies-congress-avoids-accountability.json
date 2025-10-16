@@ -24,18 +24,25 @@
   ],
   "sources": [
     {
-      "title": "Zuckerberg testimony to Congress",
-      "url": "https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/",
-      "outlet": "Washington Post",
-      "date": "2018-04-10",
-      "archive_url": "https://web.archive.org/web/20180410000000/https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/"
-    },
-    {
       "title": "Zuckerberg survives 10 hours of questions",
       "url": "https://www.cnn.com/2018/04/10/tech/mark-zuckerberg-testimony/index.html",
       "outlet": "CNN",
       "date": "2018-04-10",
       "archive_url": "https://web.archive.org/web/20180410000000/https://www.cnn.com/2018/04/10/tech/mark-zuckerberg-testimony/index.html"
+    },
+    {
+      "title": "Mark Zuckerberg Tells Senate: Election Security Is An 'Arms Race'",
+      "url": "https://www.npr.org/sections/thetwo-way/2018/04/10/599808766/i-m-responsible-for-what-happens-at-facebook-mark-zuckerberg-will-tell-senate",
+      "outlet": "NPR",
+      "date": "2018-04-10",
+      "archive_url": "https://archive.org/details/mark-zuckerberg-congressional-testimony-npr"
+    },
+    {
+      "title": "What we learned from Zuckerberg's testimony, and what we still don't know",
+      "url": "https://www.pbs.org/newshour/nation/what-we-learned-from-zuckerbergs-testimony-and-what-we-still-dont-know",
+      "outlet": "PBS NewsHour",
+      "date": "2018-04-10",
+      "archive_url": "https://archive.org/details/pbs-zuckerberg-congressional-testimony"
     }
   ],
   "notes": "His apology my mistake became meme. Senators showed tech illiteracy. No meaningful regulation followed. Facebook stock rose after testimony. Platform changes minimal. Set precedent for tech CEO impunity.",

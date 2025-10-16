@@ -1,8 +1,4 @@
 {
-  "date": "1996-02-08",
-  "title": "Telecommunications Act of 1996 Enables Media Consolidation Through Corporate Capture",
-  "summary": "President Bill Clinton signs the Telecommunications Act of 1996, the first major overhaul of U.S. telecommunications law in over 60 years. While ostensibly designed to promote competition by allowing 'anyone to enter any communications business,' the act was heavily influenced by corporate lobbying and ultimately enabled massive media consolidation. The legislation was 'essentially bought and paid for by corporate media lobbies' according to critics. Rather than increasing competition, it facilitated market concentration, with companies like Clear Channel expanding from 40 radio stations to 1,240 stations. By 2005, just two companies controlled one-third to one-half of the entire radio industry. The act also consolidated television ownership, with five companies controlling three-quarters of prime-time television by 2006. This represented a classic case of regulatory capture where deregulation intended to benefit consumers instead served corporate interests, leading to reduced diversity in programming, loss of local news coverage, and elimination of tens of thousands of jobs in the media industry.",
-  "importance": 9,
   "actors": [
     "Bill Clinton",
     "Telecommunications Industry Lobbyists",
@@ -11,34 +7,57 @@
     "Corporate Media Lobbies",
     "Ralph Nader"
   ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ],
+  "date": "1996-02-08",
+  "id": "1996-02-08--telecommunications-act-of-1996-enables-media-consolidation-t",
+  "importance": 9,
+  "sources": [
+    {
+      "date": "1996-02-08",
+      "outlet": "Wikipedia",
+      "title": "Telecommunications Act of 1996",
+      "url": "https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996"
+    },
+    {
+      "date": "2016-02-08",
+      "outlet": "Truthout",
+      "title": "Democracy in Peril: Twenty Years of Media Consolidation Under the Telecommunications Act",
+      "url": "https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/"
+    },
+    {
+      "date": "2000-01-01",
+      "outlet": "FCC",
+      "title": "Media Consolidation Impact Statement by Commissioner Gloria Tristani",
+      "url": "https://transition.fcc.gov/Speeches/Tristani/Statements/2000/stgt045.html"
+    },
+    {
+      "date": "2004-01-01",
+      "outlet": "American University Law Review",
+      "title": "On Media Consolidation, the Public Interest, and Angels Earning Wings",
+      "url": "https://repository.law.indiana.edu/cgi/viewcontent.cgi?article=1447&context=fclj"
+    },
+    {
+      "date": "2002-01-01",
+      "outlet": "John Marshall Journal of Computer and Information Law",
+      "title": "Big Media: Its Effect on the Marketplace of Ideas and How to Slow the Urge to Merge",
+      "url": "https://repository.upenn.edu/cgi/viewcontent.cgi?article=1759&context=asc_papers"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "President Bill Clinton signs the Telecommunications Act of 1996, the first major overhaul of U.S. telecommunications law in over 60 years. While ostensibly designed to promote competition by allowing 'anyone to enter any communications business,' the act was heavily influenced by corporate lobbying and ultimately enabled massive media consolidation. The legislation was 'essentially bought and paid for by corporate media lobbies' according to critics. Rather than increasing competition, it facilitated market concentration, with companies like Clear Channel expanding from 40 radio stations to 1,240 stations. By 2005, just two companies controlled one-third to one-half of the entire radio industry. The act also consolidated television ownership, with five companies controlling three-quarters of prime-time television by 2006. This represented a classic case of regulatory capture where deregulation intended to benefit consumers instead served corporate interests, leading to reduced diversity in programming, loss of local news coverage, and elimination of tens of thousands of jobs in the media industry.\n\nAdditional scholarly sources highlight the profound impact: FCC Commissioner Gloria Tristani warned about the potential 'reduction in local media diversity' and threats to the 'diversity of voices' critical to democratic communication. Legal scholars have characterized the Act as a pivotal moment in media consolidation that fundamentally reshaped the telecommunications landscape.",
   "tags": [
     "regulatory-capture",
     "telecommunications",
     "deregulation",
     "media-consolidation",
     "corporate-lobbying",
-    "monopolization"
+    "monopolization",
+    "first-amendment"
   ],
-  "status": "confirmed",
-  "sources": [
-    {
-      "title": "Telecommunications Act of 1996",
-      "url": "https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996",
-      "outlet": "Wikipedia",
-      "date": "1996-02-08"
-    },
-    {
-      "title": "Democracy in Peril: Twenty Years of Media Consolidation Under the Telecommunications Act",
-      "url": "https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/",
-      "outlet": "Truthout",
-      "date": "2016-02-08"
-    }
-  ],
-  "id": "1996-02-08--telecommunications-act-of-1996-enables-media-consolidation-t",
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Regulatory Capture",
-    "Legislative Capture",
-    "Executive Power Expansion"
-  ]
+  "title": "Telecommunications Act of 1996 Enables Media Consolidation Through Corporate Capture"
 }

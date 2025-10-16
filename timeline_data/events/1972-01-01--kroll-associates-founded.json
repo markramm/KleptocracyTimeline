@@ -1,9 +1,9 @@
 {
   "id": "1972-01-01--kroll-associates-founded",
   "date": "1972-01-01",
-  "importance": 5,
-  "title": "Jules Kroll founds private intelligence firm Kroll Associates",
-  "summary": "Jules Kroll launches Kroll Associates in New York, building a new commercial model for corporate investigations and risk consulting that would be widely emulated and colloquially dubbed the \"CIA of Wall Street.\" Kroll recruited many former government investigators and intelligence veterans; in 1996, French authorities briefly suspected (and Kroll denied) that the firm was a CIA front. The company's growth marked the rise of a global private-intelligence industry serving corporations, law firms, and governments.",
+  "importance": 6,
+  "title": "Jules Kroll founds innovative private intelligence firm Kroll Associates",
+  "summary": "Jules Kroll launches Kroll Associates in New York, building a pioneering commercial model for corporate investigations and risk consulting. Kroll recruited many former government investigators from intelligence agencies like the CIA, FBI, Mossad, and MI5. The firm became known as the \"CIA of Wall Street\" and revolutionized corporate intelligence by developing sophisticated fact-finding techniques that transformed how businesses manage risk and investigate potential misconduct.",
   "location": "New York, NY",
   "actors": [
     "Jules Kroll",
@@ -17,7 +17,8 @@
     "intelligence_privatization",
     "kroll_associates",
     "private_intelligence",
-    "cia_wall_street"
+    "cia_wall_street",
+    "corporate_investigations"
   ],
   "status": "confirmed",
   "sources": [
@@ -34,11 +35,26 @@
       "outlet": "The Washington Post",
       "date": "1996-01-08",
       "verified": true
+    },
+    {
+      "title": "Inside the corporate investigations business",
+      "url": "https://www.thebureauinvestigates.com/stories/2017-12-12/inside-the-corporate-investigations-business",
+      "outlet": "The Bureau of Investigative Journalism",
+      "date": "2017-12-12",
+      "verified": true
+    },
+    {
+      "title": "Kroll, Inc. - Corporate Intelligence Firm Overview",
+      "url": "https://www.sourcewatch.org/index.php/Kroll,_Inc.",
+      "outlet": "SourceWatch",
+      "date": "2023-01-15",
+      "verified": true
     }
   ],
   "notes": "French intelligence officials reportedly suspected Kroll's Paris branch was a CIA front and even bugged its offices, though Kroll's chairman denied any CIA involvement. Kroll's growth during the post-Watergate era demonstrated how private-sector investigations and security services could expand to fill roles once handled by government agencies, setting the template for modern corporate intelligence firms.",
   "capture_lanes": [
     "Financial Capture",
-    "Intelligence Penetration"
+    "Intelligence Privatization",
+    "Corporate Intelligence"
   ]
 }

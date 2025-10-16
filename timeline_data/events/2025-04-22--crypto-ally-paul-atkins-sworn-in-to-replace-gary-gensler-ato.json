@@ -1,41 +1,64 @@
 {
-  "id": "2025-04-22--crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-ato",
-  "date": "2025-04-22",
-  "title": "Crypto ally Paul Atkins sworn in to replace Gary Gensler atop U.S. SEC",
-  "summary": "Crypto ally Paul Atkins was sworn in as SEC chairman, replacing Gary Gensler, who was in the crosshairs of many of the industry's acolytes",
-  "description": "Crypto ally Paul Atkins was sworn in as SEC chairman, replacing Gary Gensler, who was in the crosshairs of many of the industry's acolytes",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Paul Atkins",
+    "Gary Gensler",
+    "Mark Uyeda"
   ],
-  "tags": [
-    "crypto",
-    "regulatory-capture"
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Regulatory Capture"
   ],
   "capture_type": "regulatory_capture",
+  "connections": [
+    "Trump Administration Crypto Policy",
+    "SEC Leadership Change"
+  ],
+  "date": "2025-04-22",
+  "description": "Trump-appointed crypto ally Paul Atkins sworn in as SEC chairman, replacing Gary Gensler and signaling a significant shift in cryptocurrency regulatory policy.",
+  "id": "2025-04-22--crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-ato",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Represents a strategic shift in cryptocurrency and financial regulatory policy under Trump's second administration.",
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-transformation"
+  ],
   "sources": [
     {
-      "title": "Crypto ally Paul Atkins sworn in to replace Gary Gensler atop U.S. SEC",
-      "url": "https://finance.yahoo.com/news/sec-chief-atkins-says-agency-175515268.html",
-      "outlet": "Yahoo! Finance",
-      "date": "2025-04-22"
+      "date": "2025-04-22",
+      "outlet": "UPI",
+      "title": "Paul Atkins sworn in as SEC chairman",
+      "url": "https://www.upi.com/Top_News/US/2025/04/22/Paul-Atkins-sworn-in-sec-chairman/6911745372094/",
+      "accessed_date": "2025-10-07",
+      "type": "news_article"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-04-22"
+      "date": "2025-04-22",
+      "outlet": "Plan Adviser",
+      "title": "Senate Confirms Paul Atkins as SEC Chairman",
+      "url": "https://www.planadviser.com/senate-confirms-paul-atkins-sec-chairman/",
+      "accessed_date": "2025-10-07",
+      "type": "professional_publication"
+    },
+    {
+      "date": "2025-04-25",
+      "outlet": "CoinDesk",
+      "title": "New U.S. SEC Chief Paul Atkins Says Agency Doesn't Have to Wait to Impose Crypto Policy",
+      "url": "https://www.coindesk.com/policy/2025/04/25/new-sec-chief-atkins-says-agency-doesn-t-have-to-wait-to-impose-crypto-policy",
+      "accessed_date": "2025-10-07",
+      "type": "crypto_news"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "status": "confirmed",
+  "summary": "In a significant regulatory shift, Trump-allied Paul Atkins was sworn in as SEC chairman on April 22, 2025, replacing Gary Gensler. The transition signals a potential transformation in cryptocurrency and financial regulatory approaches, with Atkins indicating an immediate willingness to implement new crypto policies.",
+  "tags": [
+    "crypto",
+    "regulatory-capture",
+    "sec",
+    "trump-administration",
+    "financial-regulation"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Regulatory Capture"
-  ]
+  "title": "Crypto ally Paul Atkins sworn in to replace Gary Gensler atop U.S. SEC"
 }

@@ -2,20 +2,22 @@
   "id": "2025-03-13--ice-50-day-enforcement-milestone-32809-arrests",
   "date": "2025-03-13",
   "title": "ICE makes 32,809 arrests in first 50 days of Trump administration",
-  "summary": "Immigration and Customs Enforcement (ICE) announced 32,809 enforcement arrests in the first 50 days of the Trump Administration, demonstrating the rapid implementation of mass deportation policies. This represents an unprecedented pace of immigration enforcement operations.",
-  "importance": 7,
+  "summary": "Immigration and Customs Enforcement (ICE) announced 32,809 enforcement arrests in the first 50 days of the Trump Administration (January 21 - March 12, 2025), demonstrating a dramatic acceleration of immigration enforcement. The arrests included 14,000 convicted criminals, 9,800 migrants with pending criminal charges, 1,155 suspected gang members, and 44 foreign fugitives. This represents a nearly 2.6x increase in daily arrest rates compared to the previous administration, with ICE Director Todd Lyons claiming they have 'ended catch and release' and returned to the agency's 'core mission'.",
+  "importance": 8,
   "tags": [
     "immigration-enforcement",
     "ICE",
     "mass-deportation",
     "enforcement-milestone",
-    "trump-administration"
+    "trump-administration",
+    "criminal-deportation"
   ],
   "actors": [
     "ICE",
     "DHS",
     "Kristi Noem",
-    "Donald Trump"
+    "Donald Trump",
+    "Todd Lyons"
   ],
   "sources": [
     {
@@ -23,10 +25,23 @@
       "url": "https://www.dhs.gov/news/2025/03/13/ice-arrests-first-50-days-trump-administration",
       "outlet": "Department of Homeland Security",
       "date": "2025-03-13"
+    },
+    {
+      "title": "ICE Arrests Over 32,000 Migrants in First 50 Days",
+      "url": "https://abcnews.go.com/Politics/ice-arrests-32000-migrants-us-illegally-1st-50/story?id=119719975",
+      "outlet": "ABC News",
+      "date": "2025-03-13"
+    },
+    {
+      "title": "ICE Releases Information on Arrests Made During First 50 Days",
+      "url": "https://www.aila.org/library/ice-releases-information-on-arrests-made-during-first-50-days-of-trump-administration",
+      "outlet": "American Immigration Lawyers Association",
+      "date": "2025-03-13"
     }
   ],
   "status": "confirmed",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Immigration Enforcement"
   ]
 }

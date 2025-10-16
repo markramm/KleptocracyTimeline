@@ -25,9 +25,21 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "Bush v. Gore",
-      "url": "https://en.wikipedia.org/wiki/Bush_v._Gore",
-      "outlet": "Wikipedia",
+      "title": "Bush v. Gore Case Overview",
+      "url": "https://constitutioncenter.org/the-constitution/supreme-court-case-library/bush-v-gore",
+      "outlet": "National Constitution Center",
+      "date": "2000-12-12"
+    },
+    {
+      "title": "Bush v. Gore | Legal Analysis and Full Case Text",
+      "url": "https://www.law.cornell.edu/wex/bush_v_gore_(2000)",
+      "outlet": "Cornell Legal Information Institute",
+      "date": "2000-12-12"
+    },
+    {
+      "title": "Bush v. Gore | Supreme Court Decision Details",
+      "url": "https://www.oyez.org/cases/2000/00-949",
+      "outlet": "Oyez Supreme Court Repository",
       "date": "2000-12-12"
     },
     {

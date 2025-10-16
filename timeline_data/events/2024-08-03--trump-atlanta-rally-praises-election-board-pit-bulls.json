@@ -1,9 +1,9 @@
 {
   "id": "2024-08-03--trump-atlanta-rally-praises-election-board-pit-bulls",
   "date": "2024-08-03",
-  "title": "Trump Praises Georgia Election Board MAGA Members as \"Pit Bulls\" at Atlanta Rally",
-  "summary": "At an Atlanta rally, Donald Trump publicly identifies and praises Georgia State Election Board members Janice Johnston, Rick Jeffares, and Janelle King in the audience, calling them \"pit bulls fighting for honesty, transparency and victory.\" Trump boasts about the MAGA takeover: \"the Georgia State Election Board is in a very positive way... They're on fire, they're doing a great job.\" The public acknowledgment demonstrates Trump's direct coordination with captured election officials and signals to supporters that the board will implement his agenda. This unprecedented presidential endorsement of state election officials creates expectations for partisan rule-making favorable to Trump's 2024 campaign.",
-  "importance": 8,
+  "title": "Trump Publicly Endorses Georgia Election Board Members at Atlanta Rally, Sparking Electoral Integrity Concerns",
+  "summary": "At a pivotal Atlanta rally, Donald Trump publicly praised Georgia State Election Board members Janice Johnston, Rick Jeffares, and Janelle King, calling them \"pit bulls fighting for honesty, transparency and victory.\" Johnston physically attended the rally, while Jeffares and King were referenced. This unprecedented presidential endorsement occurred amid growing controversy over the board's actions, including passing new election rules that critics argue could potentially delay or interfere with election certification. A legal complaint was filed by State Sen. Nabilah Islam, alleging ethics violations and potential partisan manipulation of election processes. The board's three-member majority (Johnston, Jeffares, King) has been accused of making procedural changes that could complicate the 2024 election, raising significant concerns about electoral integrity.",
+  "importance": 9,
   "location": "Atlanta, Georgia",
   "actors": [
     "Donald Trump",
@@ -11,17 +11,22 @@
     "Rick Jeffares",
     "Janelle King",
     "Georgia State Election Board",
-    "MAGA Rally Attendees"
+    "MAGA Rally Attendees",
+    "John Fervier",
+    "Sara Tindall Ghazal",
+    "Nabilah Islam"
   ],
   "tags": [
     "trump_rally",
     "election_capture",
     "georgia",
-    "pit_bulls",
-    "public_coordination"
+    "election_board",
+    "election_manipulation",
+    "2024_election"
   ],
   "capture_lanes": [
-    "Election Infrastructure Capture"
+    "Election Infrastructure Capture",
+    "Judicial-Electoral System Manipulation"
   ],
   "sources": [
     {
@@ -32,10 +37,17 @@
       "verified": true
     },
     {
-      "title": "Georgia election rule changes by Trump allies raise fear of chaos in November",
-      "url": "https://www.washingtonpost.com/politics/2024/09/19/georgia-state-election-board-trump-certification-results/",
-      "outlet": "Washington Post",
-      "date": "2024-09-19",
+      "title": "The Georgia State Election Board Controversy, Explained",
+      "url": "https://www.gpb.org/news/2024/09/03/the-georgia-state-election-board-controversy-explained",
+      "outlet": "Georgia Public Broadcasting",
+      "date": "2024-09-03",
+      "verified": true
+    },
+    {
+      "title": "Georgia Election Board Member's Appearance at Trump Rally Sparks Debate Over Code of Conduct",
+      "url": "https://www.wsbtv.com/news/local/atlanta/georgia-election-board-members-appearance-trump-rally-sparks-debate-over-code-conduct/S5WFEFGYSZDVBIFIGQZ4J62QSE/",
+      "outlet": "WSB-TV Channel 2 Atlanta",
+      "date": "2024-08-15",
       "verified": true
     }
   ],

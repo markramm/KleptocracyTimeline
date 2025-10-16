@@ -2,27 +2,46 @@
   "id": "2025-04-05--nationwide-legal-defense-network",
   "date": "2025-04-05",
   "title": "Nationwide Legal Defense Network Expands Operational Capacity",
-  "summary": "Legal resistance network establishes comprehensive nationwide infrastructure to provide coordinated legal support across multiple jurisdictions. The network creates a distributed model of legal defense, enabling rapid response to constitutional challenges and systemic legal threats.",
-  "importance": 7,
+  "summary": "A comprehensive nationwide legal defense network was established to provide coordinated legal support across multiple jurisdictions. The Rise Up: Federal Workers Legal Defense Network, formed by labor unions and civil rights organizations, mobilized over 1,000 lawyers in 42 states to offer pro bono legal assistance to federal workers facing termination or rights violations. This network represents a strategic response to widespread workforce disruptions, focusing on protecting workers' rights and providing legal recourse in the face of systemic challenges.",
+  "importance": 8,
   "actors": [
     "National Legal Defense Consortium",
     "State-Level Legal Aid Organizations",
-    "Civil Rights Attorneys"
+    "Civil Rights Attorneys",
+    "AFL-CIO",
+    "Democracy Forward",
+    "American Federation of Government Employees (AFGE)",
+    "National Federation of Federal Employees (NFFE-IAM)",
+    "National Treasury Employees Union (NTEU)"
   ],
   "sources": [
     {
       "title": "Nationwide Legal Defense Network Expansion Report",
       "url": "https://nationallegaldefense.org/2025-expansion",
       "outlet": "National Legal Defense Network"
+    },
+    {
+      "title": "Labor and Democracy Partners Announce Rise Up: Legal Defense Network for Fired Federal Workers",
+      "url": "https://aflcio.org/press/releases/labor-and-democracy-partners-announce-rise-legal-defense-network-fired-federal",
+      "outlet": "AFL-CIO"
+    },
+    {
+      "title": "Rise Up: Federal Workers Legal Defense Network Announcement",
+      "url": "https://democracyforward.org/updates/fwldn-announcement/",
+      "outlet": "Democracy Forward"
     }
   ],
   "tags": [
     "legal-infrastructure",
     "civil-rights-defense",
-    "multi-jurisdictional-support"
+    "multi-jurisdictional-support",
+    "labor-rights",
+    "federal-workers-protection"
   ],
   "status": "confirmed",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Labor Rights",
+    "Constitutional Defense"
   ]
 }

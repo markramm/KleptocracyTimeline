@@ -1,36 +1,45 @@
 {
-  "date": "2017-03-01",
-  "title": "Peter Thiel Hires Vance at Mithril Capital",
-  "summary": "Tech billionaire Peter Thiel brings J.D. Vance to Silicon Valley as investor at Mithril Capital, beginning crucial mentorship relationship that transforms Vance politically and financially.",
-  "actors": [
-    "Peter Thiel",
-    "J.D. Vance",
-    "Mithril Capital"
-  ],
-  "importance": 9,
-  "sources": [
-    {
-      "title": "Employment records",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "Vance public statements",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "tags": [
-    "thiel-network",
-    "venture-capital",
-    "silicon-valley",
-    "mentorship"
-  ],
-  "status": "confirmed",
-  "id": "2017-03-01--peter-thiel-hires-vance-at-mithril-capital-1757456537",
-  "priority_id": "jd-vance-pdf-analysis-1757456537",
-  "capture_lanes": [
-    "Financial Capture",
-    "Intelligence Penetration"
-  ]
+    "id": "2017-03-01--peter-thiel-hires-vance-at-mithril-capital-1757456537",
+    "date": "2017-03-01",
+    "title": "Peter Thiel Hires Vance at Mithril Capital",
+    "summary": "Peter Thiel brings J.D. Vance into his global investment firm Mithril Capital as an investor, marking a significant moment in Vance's early professional career. This relationship positioned Vance within Thiel's influential tech and venture capital network, setting the stage for Vance's future political trajectory.",
+    "importance": 9,
+    "actors": [
+        "Peter Thiel",
+        "J.D. Vance",
+        "Ajay Royan"
+    ],
+    "tags": [
+        "thiel-network",
+        "venture-capital",
+        "silicon-valley",
+        "mentorship",
+        "political-networks"
+    ],
+    "capture_lanes": [
+        "Financial Capture",
+        "Political Infrastructure Development",
+        "Network Formation"
+    ],
+    "sources": [
+        {
+            "outlet": "Yahoo Finance",
+            "title": "Peter Thiel Launched J.D. Vance's Venture Capital Career",
+            "url": "https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html",
+            "access_date": "2025-10-06"
+        },
+        {
+            "outlet": "CBS News",
+            "title": "The billionaire who fueled JD Vance's rapid rise to the Trump VP spot",
+            "url": "https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/",
+            "access_date": "2025-10-06"
+        },
+        {
+            "outlet": "Fortune",
+            "title": "A colleague who worked with J.D. Vance at Mithril doesn't remember seeing him in the office",
+            "url": "https://fortune.com/2024/07/26/jd-vance-peter-thiel-venture-capital-mithril/",
+            "access_date": "2025-10-06"
+        }
+    ],
+    "status": "validated"
 }

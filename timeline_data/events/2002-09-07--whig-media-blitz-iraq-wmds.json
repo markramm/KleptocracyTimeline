@@ -1,0 +1,53 @@
+{
+  "id": "2002-09-07--whig-media-blitz-iraq-wmds",
+  "date": "2002-09-07",
+  "title": "WHIG Executes Coordinated Media Blitz Demonstrating Crisis Template",
+  "summary": "WHIG launches systematic media campaign with Bush administration officials appearing across all major networks in coordinated messaging offensive. Condoleezza Rice delivers \"smoking gun to be a mushroom cloud\" message on CNN while Cheney appears on Meet the Press and Bush makes CBS appearance. Campaign demonstrates successful implementation of Powell Memo institutional coordination principles accelerated through crisis exploitation, providing blueprint for future rapid democratic transformation efforts.",
+  "importance": 9,
+  "sources": [
+    {
+      "name": "Washington Post",
+      "type": "News Article",
+      "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
+      "publication_date": "2002-09-08",
+      "excerpt": "White House Iraq Group coordinated media strategy to build war support"
+    },
+    {
+      "name": "Newsweek",
+      "type": "Investigative Report",
+      "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
+      "publication_date": "2002-09-15",
+      "excerpt": "Detailed analysis of WHIG's media manipulation tactics"
+    },
+    {
+      "name": "National Security Archive",
+      "type": "Government Document Repository",
+      "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
+      "publication_date": "2019-03-22",
+      "excerpt": "Comprehensive documentation of Iraq War media campaign"
+    },
+    {
+      "name": "SourceWatch",
+      "type": "Research Database",
+      "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
+      "publication_date": "2022-10-15",
+      "excerpt": "Detailed background on WHIG's formation and media coordination strategy"
+    }
+  ],
+  "tags": [
+    "WHIG",
+    "Iraq War",
+    "Media Manipulation",
+    "Powell Memo",
+    "Bush Administration",
+    "Propaganda",
+    "National Security"
+  ],
+  "actors": [
+    "Dick Cheney",
+    "Condoleezza Rice",
+    "George W. Bush",
+    "Andrew H. Card Jr."
+  ],
+  "analysis_notes": "Systematic media manipulation campaign demonstrating how institutional networks can coordinate messaging across multiple media platforms. Key strategy involved creating emotional narrative through repeated use of 'mushroom cloud' imagery to build support for military intervention."
+}

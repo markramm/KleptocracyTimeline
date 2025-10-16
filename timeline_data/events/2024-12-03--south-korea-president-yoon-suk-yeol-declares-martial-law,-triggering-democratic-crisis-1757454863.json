@@ -1,23 +1,27 @@
 {
   "date": "2024-12-03",
   "title": "South Korea President Yoon Suk Yeol Declares Martial Law, Triggering Democratic Crisis",
-  "summary": "President Yoon Suk Yeol briefly declares martial law in South Korea, sparking immediate parliamentary resistance and mass protests. The declaration, quickly reversed under pressure, leads to his impeachment proceedings and South Korea's downgrade from \"full democracy\" to \"flawed democracy\" in the 2024 EIU Democracy Index. The incident demonstrates how quickly democratic institutions can be threatened by authoritarian impulses.",
-  "importance": 8,
+  "summary": "On December 3, 2024, South Korean President Yoon Suk Yeol declared martial law at 11 PM, a shocking move that lasted only six hours before being unanimously rejected by the National Assembly. Claiming to protect against 'anti-state forces', Yoon's decree was widely seen as an attempt to circumvent the opposition-controlled legislature. The incident led to his Defense Minister's resignation, nationwide protests, and an impeachment process that ultimately removed him from office on April 4, 2025. This event marked a critical test of South Korea's democratic institutions, which ultimately proved resilient by swiftly countering the authoritarian impulse.",
+  "importance": 9,
   "status": "confirmed",
   "actors": [
     "Yoon Suk Yeol",
     "South Korean National Assembly",
-    "South Korean protesters"
+    "South Korean protesters",
+    "Han Dong-hoon",
+    "Kim Yong Hyun"
   ],
   "sources": [
-    "https://thefulcrum.us/ethics-leadership/democracy-index",
-    "https://wbj.pl/global-democracy-index-2024-a-year-of-elections-and-decline/post/145121"
+    "https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/",
+    "https://www.npr.org/2024/12/12/g-s1-37854/south-korea-yoon-martial-law",
+    "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis"
   ],
   "tags": [
     "South Korea",
     "martial law",
     "impeachment",
-    "democratic crisis"
+    "democratic crisis",
+    "authoritarian attempt"
   ],
   "id": "2024-12-03--south-korea-president-yoon-suk-yeol-declares-martial-law,-triggering-democratic-crisis-1757454863",
   "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal"

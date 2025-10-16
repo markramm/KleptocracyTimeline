@@ -1,47 +1,65 @@
 {
   "id": "2025-08-26--ssa-data-breach-whistleblower-complaint",
   "date": "2025-08-26",
+  "title": "Whistleblower Exposes DOGE's Unauthorized Access to Social Security NUMIDENT Database",
+  "summary": "In a landmark whistleblower disclosure, Charles Borges, Chief Data Officer of the Social Security Administration (SSA), revealed that Department of Government Efficiency (DOGE) officials improperly accessed and attempted to copy the entire NUMIDENT database, containing sensitive personal information for over 300 million Americans.\n\nKey Details:\n- NUMIDENT database includes Social Security numbers, names, birthdates, citizenship data, and family details\n- Former DOGE employee John Solly requested copying the database to a private cloud on June 10, 2025\n- SSA Risk Assessment warned unauthorized access would have 'catastrophic impact'\n- Borges filed a complaint with the Government Accountability Project\n- Cybersecurity officials discussed potential need to reissue Social Security numbers\n\nSignificance: This incident represents a critical breach of data privacy protocols and raises profound questions about government agencies' handling of sensitive personal information. The potential for widespread identity theft and systematic vulnerability of millions of Americans' personal data underscores the urgent need for robust cybersecurity measures.",
   "importance": 10,
-  "title": "Whistleblower reports DOGE exposed 300 million Americans' Social Security data",
-  "summary": "SSA Chief Data Officer Charles Borges filed a whistleblower complaint alleging DOGE\nemployees, including 19-year-old Ed \"Big Balls\" Coristine, created an unsecured copy\nof the NUMIDENT database containing Social Security numbers, names, birthdates, and\ncitizenship data for 300+ million Americans on a vulnerable cloud server. SSA cybersecurity\nofficials called it \"very high risk\" and discussed possibly reissuing Social Security\nnumbers to all Americans if breached.\n",
   "actors": [
     "Charles Borges",
-    "Ed Coristine",
     "John Solly",
-    "DOGE",
-    "Social Security Administration"
+    "Michael Russo",
+    "Aram Moghaddassi",
+    "Social Security Administration",
+    "Department of Government Efficiency (DOGE)"
+  ],
+  "sources": [
+    {
+      "date": "2025-08-26",
+      "outlet": "NPR",
+      "title": "Whistleblower says DOGE put Social Security numbers at risk",
+      "url": "https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy"
+    },
+    {
+      "date": "2025-08-26",
+      "outlet": "TechCrunch",
+      "title": "DOGE uploaded live copy of Social Security database to 'vulnerable' cloud server, says whistleblower",
+      "url": "https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/"
+    },
+    {
+      "date": "2025-08-26",
+      "outlet": "The Hill",
+      "title": "DOGE put Social Security data in 'vulnerable cloud environment': Whistleblower",
+      "url": "https://thehill.com/homenews/administration/5471062-cloud-environment-security-lapses/"
+    },
+    {
+      "date": "2025-08-26",
+      "outlet": "NBC News",
+      "title": "DOGE put Social Security numbers and other data on a risky server, whistleblower alleges",
+      "url": "https://www.nbcnews.com/politics/doge/doge-put-social-security-numbers-data-risky-server-whistleblower-alleg-rcna227259"
+    },
+    {
+      "date": "2025-08-26",
+      "outlet": "Government Accountability Project",
+      "title": "Whistleblower Warns of Possible Risks to Americans' Social Security Information",
+      "url": "https://whistleblower.org/press-release/whistleblower-warns-of-possible-risks-to-americans-social-security-information/"
+    }
   ],
   "tags": [
     "data-breach",
     "whistleblower",
     "social-security",
     "cybersecurity",
-    "national-security"
+    "national-security",
+    "institutional-capture",
+    "government-inefficiency",
+    "personal-data-risk",
+    "cloud-security",
+    "identity-theft-risk"
   ],
-  "status": "reported",
-  "sources": [
-    {
-      "title": "Whistleblower says DOGE put Social Security numbers at risk",
-      "url": "https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy",
-      "outlet": "NPR",
-      "date": "2025-08-26"
-    },
-    {
-      "title": "Social Security official says DOGE compromised Americans' data",
-      "url": "https://www.washingtonpost.com/politics/2025/08/26/social-security-data-cloud-whistleblower/",
-      "outlet": "Washington Post",
-      "date": "2025-08-26"
-    },
-    {
-      "title": "DOGE put Americans' Social Security records at risk, whistleblower says",
-      "url": "https://www.cnn.com/2025/08/26/politics/doge-social-security-records-whistleblower",
-      "outlet": "CNN",
-      "date": "2025-08-26"
-    }
-  ],
-  "notes": "The NUMIDENT database includes all information from Social Security card applications.\nOn June 10, 2025, former DOGE employee John Solly requested the database copy to a\nprivate cloud. Borges warned of potential widespread identity theft and loss of health\ncare and food benefits if breached. SSA claimed data remains secure.",
   "capture_lanes": [
-    "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+    "Technological Infrastructure Vulnerability",
+    "Government Data Mismanagement",
+    "Institutional Cybersecurity Failure"
+  ],
+  "validation_status": "pending"
 }

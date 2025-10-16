@@ -2,8 +2,8 @@
   "id": "1980-06-20--powell-central-hudson-commercial-speech-test-expansion",
   "date": "1980-06-20",
   "title": "Powell Authors Central Hudson Test Expanding Corporate Commercial Speech Protection",
-  "summary": "Justice Powell authors the majority opinion in Central Hudson Gas & Electric Corp. v. Public Service Commission, establishing the four-part test for commercial speech protection under the First Amendment. The Central Hudson test provides constitutional framework for corporate advertising and commercial communications, striking down state utility advertising restrictions as overly broad. This decision continues Powell's systematic implementation of his corporate blueprint by expanding constitutional protections for corporate speech beyond political contexts into commercial regulation, creating ongoing judicial review standard favoring corporate communication rights.",
-  "importance": 8,
+  "summary": "Justice Powell delivers the Supreme Court majority opinion in Central Hudson Gas & Electric Corp. v. Public Service Commission, establishing the landmark four-part test for commercial speech protection under the First Amendment. The decision strikes down New York's utility advertising restrictions, creating a constitutional framework that significantly expands corporate communication rights beyond previous legal standards.",
+  "importance": 9,
   "location": "Washington, D.C.",
   "actors": [
     "Lewis F. Powell Jr.",
@@ -14,22 +14,46 @@
     "Central Hudson test",
     "commercial speech protection",
     "corporate advertising",
-    "First Amendment expansion"
+    "First Amendment expansion",
+    "corporate rights",
+    "judicial capture"
   ],
   "capture_lanes": [
     "Judicial Capture & Corruption"
   ],
   "sources": [
     {
+      "outlet": "Justia",
       "title": "Central Hudson Gas & Elec. v. Public Svc. Comm'n",
       "url": "https://supreme.justia.com/cases/federal/us/447/557/",
-      "outlet": "Justia",
-      "verified": true,
       "key_facts_confirmed": [
-        "Powell delivered opinion of the Court",
+        "Powell delivered majority opinion",
         "Established four-part test for commercial speech",
         "Struck down complete ban on utility advertising"
-      ]
+      ],
+      "verified": true
+    },
+    {
+      "outlet": "Oyez",
+      "title": "Central Hudson Gas & Electric Corp. v. Public Service Commission",
+      "url": "https://www.oyez.org/cases/1979/79-565",
+      "key_facts_confirmed": [
+        "Case argued March 17, 1980",
+        "Decided June 20, 1980",
+        "8-1 Supreme Court decision"
+      ],
+      "verified": true
+    },
+    {
+      "outlet": "First Amendment Encyclopedia",
+      "title": "Central Hudson Test",
+      "url": "https://firstamendment.mtsu.edu/article/central-hudson-test/",
+      "key_facts_confirmed": [
+        "Established four-part test for evaluating commercial speech regulations",
+        "Continues to be primary legal standard for commercial speech",
+        "Significant expansion of corporate communication rights"
+      ],
+      "verified": true
     }
   ],
   "status": "confirmed"

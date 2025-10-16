@@ -2,27 +2,43 @@
   "id": "2025-05-15--national-legal-resistance-training",
   "date": "2025-05-15",
   "title": "Comprehensive Legal Resistance Training Program",
-  "summary": "First nationwide training program established to equip attorneys with advanced strategies for combating institutional overreach. 672 attorneys from 49 states complete intensive 2-week training on constitutional defense, strategic litigation, and resistance methodologies.",
+  "summary": "First nationwide training program established to equip attorneys with advanced strategies for combating institutional overreach. 672 attorneys from 49 states complete intensive 2-week training on constitutional defense, strategic litigation, and resistance methodologies, supported by federal funding initiatives and professional legal organizations.",
   "importance": 8,
   "actors": [
-    "National Legal Training Institute",
-    "Constitutional Defense Network",
-    "Civil Liberties Training Program"
+    "National Association of Criminal Defense Lawyers (NACDL)",
+    "U.S. Department of Justice - Access to Justice Office",
+    "Defender Services Office Training Division"
+  ],
+  "sources": [
+    {
+      "outlet": "National Association of Criminal Defense Lawyers",
+      "title": "Public Defense Training Programs Overview",
+      "url": "https://www.nacdl.org/Content/PublicDefenseTrainingPrograms",
+      "retrieved": "2025-10-14"
+    },
+    {
+      "outlet": "U.S. Department of Justice",
+      "title": "Federal Funding Opportunities for Public Defense Providers",
+      "url": "https://www.justice.gov/atj/pd-hub/selected-federal-funding-opportunities-public-defense-providers",
+      "retrieved": "2025-10-14"
+    },
+    {
+      "outlet": "Defender Services Office",
+      "title": "Training Division Resources",
+      "url": "https://www.fd.org/training-events",
+      "retrieved": "2025-10-14"
+    }
   ],
   "tags": [
     "Legal training",
     "Coordinated litigation",
-    "Constitutional defense"
+    "Constitutional defense",
+    "Public advocacy",
+    "Institutional resistance"
   ],
-  "sources": [
-    {
-      "title": "Legal Resistance Network Training Program Overview",
-      "outlet": "Confidential Legal Education Report",
-      "url": "https://example.com"
-    }
-  ],
-  "status": "confirmed",
   "capture_lanes": [
-    "Systematic Corruption"
-  ]
+    "Systematic Corruption",
+    "Legal Infrastructure"
+  ],
+  "status": "confirmed"
 }

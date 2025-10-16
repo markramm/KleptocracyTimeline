@@ -1,9 +1,9 @@
 {
   "id": "2025-06-15--federal-layoffs-128709-workers",
   "date": "2025-06-15",
-  "importance": 6,
+  "importance": 7,
   "title": "128,709 federal workers laid off or targeted for layoffs",
-  "summary": "CNN tracked at least 128,709 federal workers laid off or targeted for layoffs by June 26, 2025. The New York Times reported over 58,500 confirmed cuts, 76,000 employee buyouts, and 149,000 other planned reductions totaling 12% of the 2.4 million civilian federal workforce. This represents the most aggressive federal workforce reduction in modern American history, exceeding the Reagan administration's cuts.",
+  "summary": "CNN tracked at least 128,709 federal workers laid off or targeted for layoffs by June 26, 2025. The New York Times reported over 58,500 confirmed cuts, 76,000 employee buyouts, and 149,000 other planned reductions totaling 12% of the 2.4 million civilian federal workforce. This represents the most aggressive federal workforce reduction in modern American history, exceeding the Reagan administration's cuts. The Center on Budget and Policy Priorities argues these mass layoffs are not only unprecedented but potentially illegal, as they may violate congressional appropriations and statutory requirements.",
   "location": "Washington, DC",
   "actors": [
     "Trump Administration",
@@ -17,7 +17,9 @@
     "federal-workforce",
     "civil-service",
     "mass-layoffs",
-    "government-restructuring"
+    "government-restructuring",
+    "trump-administration",
+    "workforce-reduction"
   ],
   "capture_lanes": [
     "Federal Workforce Capture"
@@ -34,6 +36,18 @@
       "url": "https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs",
       "outlet": "Wikipedia",
       "date": "2025-06-26"
+    },
+    {
+      "title": "Trump says 'a lot' of federal workers are being laid off during government shutdown",
+      "url": "https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html",
+      "outlet": "CNBC",
+      "date": "2025-10-10"
+    },
+    {
+      "title": "'Substantial' layoffs begin at federal agencies, White House says",
+      "url": "https://www.nextgov.com/people/2025/10/substantial-layoffs-begin-federal-agencies-white-house-says/408766/",
+      "outlet": "Nextgov/FCW",
+      "date": "2025-10-10"
     }
   ],
   "notes": "The 2025 federal mass layoffs exceed 275,000 civil service positions announced, not including federal contractors. Multiple agencies saw cuts exceeding 50% of workforce, with some like USAID and GSA regions experiencing 90%+ reductions.",

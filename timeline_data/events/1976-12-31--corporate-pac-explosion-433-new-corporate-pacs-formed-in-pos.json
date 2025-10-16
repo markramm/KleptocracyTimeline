@@ -18,6 +18,24 @@
       "title": "Federal Election Commission PAC Data",
       "url": "https://www.fec.gov/data/browse-data/?tab=raising",
       "outlet": "Federal Election Commission"
+    },
+    {
+      "title": "Buckley v. Valeo: Campaign Finance Legal Resources",
+      "url": "https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/",
+      "outlet": "Federal Election Commission",
+      "type": "Legal Resource"
+    },
+    {
+      "title": "Why Buckley v. Valeo Is Basically Right",
+      "url": "https://www2.law.ucla.edu/Volokh/buckley.pdf",
+      "outlet": "UCLA Law",
+      "type": "Academic Paper"
+    },
+    {
+      "title": "Buckley v. Valeo Global Legal Analysis",
+      "url": "https://globalfreedomofexpression.columbia.edu/cases/buckley-v-valeo/",
+      "outlet": "Columbia University Global Freedom of Expression",
+      "type": "Academic Source"
     }
   ],
   "tags": [

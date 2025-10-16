@@ -20,16 +20,22 @@
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "The US is turning a blind eye to crypto crimes",
-      "url": "https://www.wired.com/story/the-us-is-turning-a-blind-eye-to-crypto-crimes/",
-      "outlet": "Wired",
-      "date": "2025-04-11"
+      "date": "2025-04-11",
+      "outlet": "PBS News",
+      "title": "Justice Department will disband its team focused on cryptocurrency crimes",
+      "url": "https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-04-11"
+      "date": "2025-04-11",
+      "outlet": "The Hill",
+      "title": "Donald Trump administration disbands crypto regulations enforcement unit",
+      "url": "https://thehill.com/homenews/administration/5238617-trump-disband-crypto-enforcement-unit/"
+    },
+    {
+      "date": "2025-04-11",
+      "outlet": "Fortune Crypto",
+      "title": "Justice Department scraps crypto unit as Trump further loosens oversight of digital assets",
+      "url": "https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/"
     }
   ],
   "connections": [],

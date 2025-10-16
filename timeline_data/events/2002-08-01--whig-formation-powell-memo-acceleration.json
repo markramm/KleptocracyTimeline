@@ -1,39 +1,49 @@
 {
-  "id": "2002-08-01--whig-formation-powell-memo-acceleration",
   "date": "2002-08-01",
   "title": "White House Iraq Group Formation Implements Powell Memo Crisis-Acceleration Model",
-  "summary": "White House Chief of Staff Andrew Card forms WHIG, chaired by Karl Rove, to coordinate systematic propaganda campaign for Iraq invasion. Group represents acceleration of Powell Memo institutional capture strategy, using crisis exploitation to rapidly implement coordinated messaging across government and allied think tanks.",
+  "summary": "White House Chief of Staff Andrew Card established the White House Iraq Group (WHIG) in August 2002, a strategic communications task force chaired by Karl Rove to coordinate a systematic propaganda campaign for the Iraq invasion. The group, including key officials like Condoleezza Rice and Lewis Libby, developed coordinated messaging strategies to build public support for the war, exemplifying the Powell Memo's institutional capture tactics of crisis exploitation and strategic communication.",
+  "importance": 8,
   "actors": [
     "Andrew Card",
     "Karl Rove",
     "Condoleezza Rice",
     "Lewis Libby",
-    "Karen Hughes"
+    "Karen Hughes",
+    "Stephen J. Hadley",
+    "Michael Gerson"
   ],
-  "financial_impact": null,
   "sources": [
     {
-      "title": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Washington Post",
+      "title": "Records Could Shed Light on Iraq Group",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html"
     },
     {
-      "title": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "ThinkProgress",
+      "title": "The 'Broader Conspiracy': What We Already Know About the White House Iraq Group",
+      "url": "https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/"
+    },
+    {
+      "outlet": "NPR",
+      "title": "Karl Rove 'In The Fight' Again With New Memoir",
+      "url": "https://www.npr.org/transcripts/124597241?storyId=124597241"
     }
   ],
-  "importance": 8,
   "tags": [
     "whig",
     "crisis-acceleration",
     "powell-memo-implementation",
-    "propaganda-coordination"
+    "propaganda-coordination",
+    "iraq-war",
+    "media-manipulation"
   ],
-  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
   "status": "confirmed",
+  "id": "2002-08-01--whig-formation-powell-memo-acceleration",
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "financial_impact": null,
   "capture_lanes": [
     "Legislative Capture",
-    "Executive Power Expansion"
+    "Executive Power Expansion",
+    "Media Manipulation"
   ]
 }

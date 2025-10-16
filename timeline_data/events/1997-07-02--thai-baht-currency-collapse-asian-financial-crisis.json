@@ -2,19 +2,30 @@
   "id": "1997-07-02--thai-baht-currency-collapse-asian-financial-crisis",
   "date": "1997-07-02",
   "title": "Thai Baht Collapses, Triggering Asian Financial Crisis",
-  "summary": "Thailand floats the Thai baht after exhausting foreign currency reserves, marking the beginning of the Asian Financial Crisis. The IMF and global financial institutions rapidly move to impose structural adjustment policies across Southeast Asian economies.",
+  "summary": "On July 2, 1997, Thailand devalued the Thai baht after exhausting foreign currency reserves, marking the beginning of the Asian Financial Crisis. The currency fell from 25 baht per U.S. dollar to 54 baht per dollar by January 1998. The IMF and global financial institutions mobilized over $118 billion in emergency loans, contingent on structural reforms that included financial sector restructuring, improved governance, and fiscal policy realignment. The crisis rapidly spread across East Asia, causing sharp economic contractions in Malaysia, Philippines, Indonesia, and South Korea.",
   "importance": 8,
   "actors": [
     "Thai Central Bank",
     "IMF",
     "World Bank",
-    "McKinsey & Company"
+    "McKinsey & Company",
+    "Bank of Thailand"
   ],
   "sources": [
     {
       "title": "IMF Asian Crisis Response",
       "url": "https://www.imf.org/external/pubs/ft/wp/1998/wp9855.pdf",
       "outlet": "IMF Working Paper"
+    },
+    {
+      "title": "Finance & Development - The Asian Crisis: Causes and Cures",
+      "url": "https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm",
+      "outlet": "IMF Publication"
+    },
+    {
+      "title": "Asian Financial Crisis: Origins and Implications",
+      "url": "https://www.federalreservehistory.org/essays/asian-financial-crisis",
+      "outlet": "Federal Reserve History"
     }
   ],
   "tags": [
@@ -22,11 +33,13 @@
     "imf",
     "structural_adjustment",
     "currency_manipulation",
-    "economic_shock_therapy"
+    "economic_shock_therapy",
+    "financial_contagion"
   ],
   "status": "confirmed",
   "capture_lanes": [
     "Financial Capture",
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Global Economic Manipulation"
   ]
 }

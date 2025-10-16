@@ -1,41 +1,63 @@
 {
-  "id": "2025-05-01--coming-soon-for-ceos-a-maga-infused-business-association",
-  "date": "2025-05-01",
-  "title": "Coming Soon for CEOs, a MAGA-Infused Business Association",
-  "summary": "New Washington group with Republican roots,the American Growth Partnership, will offer private meetings with Trump appointees, with membership fees starting at $50,000",
-  "description": "New Washington group with Republican roots,the American Growth Partnership, will offer private meetings with Trump appointees, with membership fees starting at $50,000",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Business Leaders",
+    "Donald Trump Jr.",
+    "Tim Cook",
+    "Jamie Dimon",
+    "Mary Barra",
+    "Doug McMillon"
   ],
-  "tags": [
-    "kleptocracy",
-    "trump-administration"
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Business-Government Coordination",
+    "Social Network Influence"
   ],
   "capture_type": "monetizing_position",
+  "connections": [
+    "Business Roundtable",
+    "Executive Branch Club"
+  ],
+  "date": "2025-05-01",
+  "description": "Trump Administration deepens business-government coordination through multiple channels, including the American Growth Partnership and the Executive Branch private club, offering unprecedented access to policymakers for a significant fee.",
+  "id": "2025-05-01--coming-soon-for-ceos-a-maga-infused-business-association",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "notes": "Demonstrates sophisticated mechanisms of regulatory capture and business-government coordination",
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-access",
+    "pay-to-play-governance"
+  ],
   "sources": [
     {
-      "title": "Coming Soon for CEOs, a MAGA-Infused Business Association",
-      "url": "https://www.wsj.com/politics/policy/coming-soon-for-ceos-a-maga-infused-business-association-03fbd064?mod=hp_minor_pos11",
-      "outlet": "Wall Street Journal",
-      "date": "2025-05-01"
+      "date": "2025-03-11",
+      "outlet": "CNBC",
+      "title": "Trump meets with CEOs at Business Roundtable as market sell-off continues",
+      "url": "https://www.cnbc.com/2025/03/11/trump-business-roundtable-ceos-stock-market.html"
     },
     {
-      "title": "Timeline Analysis",
-      "url": "https://example.com/analysis",
-      "outlet": "Independent Analysis",
-      "date": "2025-05-01"
+      "date": "2025-04-28",
+      "outlet": "CNBC",
+      "title": "Donald Trump Jr. co-founds new private members club, Executive Branch, with a $500,000 fee",
+      "url": "https://www.cnbc.com/2025/04/28/donald-trump-jr-private-members-club-executive-branch.html"
+    },
+    {
+      "date": "2025-09-15",
+      "outlet": "NPR",
+      "title": "American CEOs are worried about Trump's chaotic new tariffs",
+      "url": "https://www.npr.org/2025/03/14/nx-s1-5327534/trump-ceos-tariffs-economy-recession"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "status": "confirmed",
+  "summary": "In 2025, the Trump Administration has established sophisticated mechanisms for business-government coordination, including the American Growth Partnership and the Executive Branch private club. The latter, co-founded by Donald Trump Jr. and charging a $500,000 membership fee, provides wealthy CEOs unprecedented access to administration officials. Simultaneously, Business Roundtable meetings and White House tech leader dinners further demonstrate the administration's strategy of monetizing political access.",
+  "tags": [
+    "kleptocracy",
+    "trump-administration",
+    "regulatory-capture",
+    "business-government-coordination",
+    "pay-to-play"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion.",
-  "capture_lanes": [
-    "Intelligence Penetration"
-  ]
+  "title": "Trump Administration Monetizes Political Access Through Exclusive Business Networks"
 }

@@ -3,7 +3,7 @@
   "date": "2025-03-01",
   "importance": 6,
   "title": "Federal job applicants required to write MAGA loyalty essays",
-  "summary": "Trump administration requires federal job applicants to write essays explaining how they'd advance Trump's executive orders and screens social media for MAGA support, directly implementing Project 2025's ideological alignment vision.",
+  "summary": "In May 2025, the Trump administration implemented a controversial \u2018Merit Hiring Plan\u2019 requiring federal job applicants at GS-5 and above to write essays about Trump\u2019s policies. Applicants must describe how they would advance specific executive orders, effectively creating an ideological screening process for civil service positions.",
   "location": "Washington, DC",
   "actors": [
     "Trump Administration",
@@ -47,6 +47,15 @@
       "date": "2025-06-02"
     }
   ],
-  "notes": "Ensures ideological alignment throughout government per Project 2025",
-  "status": "confirmed"
+  "notes": "Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.",
+  "status": "confirmed",
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:42.377856",
+    "corrected_by": "concurrent-qa-2-bulk-retry",
+    "validation_log_id": 119,
+    "corrections_applied": [
+      "notes: 'Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.' \u2192 'Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.'",
+      "summary: 'In May 2025, the Trump administration implemented a controversial \u2018Merit Hiring Plan\u2019 requiring federal job applicants at GS-5 and above to write essays about Trump\u2019s policies. Applicants must describe how they would advance specific executive orders, effectively creating an ideological screening process for civil service positions.' \u2192 'In May 2025, the Trump administration implemented a controversial \u2018Merit Hiring Plan\u2019 requiring federal job applicants at GS-5 and above to write essays about Trump\u2019s policies. Applicants must describe how they would advance specific executive orders, effectively creating an ideological screening process for civil service positions.'"
+    ]
+  }
 }

@@ -9,22 +9,37 @@
     "US Chamber of Commerce",
     "Corporate Interests"
   ],
+  "sources": [
+    {
+      "title": "The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy",
+      "author": "Greenpeace Research Team",
+      "outlet": "Greenpeace",
+      "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
+      "year": 2021
+    },
+    {
+      "title": "Lewis Powell memo: notes to the Chamber of Commerce on Americas anti-business climate",
+      "author": "Daniel Gross",
+      "outlet": "Slate",
+      "url": "https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html",
+      "year": 2021
+    },
+    {
+      "title": "Lewis Powell Memorandum 1971 OCR",
+      "outlet": "Internet Archive",
+      "url": "https://archive.org/details/powell-memorandum-1971-ocr",
+      "year": 1971
+    }
+  ],
   "tags": [
     "institutional-capture",
     "economic-strategy",
-    "psychological-manipulation"
+    "psychological-manipulation",
+    "corporate-influence"
   ],
-  "sources": [
-    {
-      "title": "The Powell Memo: Corporate Blueprint for Dominating American Democracy",
-      "author": "Jack Newfield",
-      "year": 1972,
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
   "capture_lanes": [
-    "Media Capture & Control"
-  ]
+    "Media Capture & Control",
+    "Corporate Political Strategy"
+  ],
+  "status": "confirmed"
 }

@@ -1,7 +1,7 @@
 {
   "date": "1985-01-01",
   "title": "Carl Icahn Phillips Petroleum Hostile Takeover Attempt",
-  "summary": "Carl Icahn launched his first multi-billion dollar hostile takeover attempt against Phillips Petroleum, offering .2 billion for half the company. Using Michael Milken and Drexel Burnham Lambert's junk bond financing network, Icahn demonstrated the power of leveraged corporate raids. Drexel raised .5 billion for Icahn in 48 hours through their \"highly confident letter\" system. Although Icahn failed to gain control, he made 0 million profit by selling shares back to Phillips. This established Icahn as a major 1980s corporate raider and showed how junk bond financing could enable small investor groups to threaten even the largest corporations through financial leverage.",
+  "summary": "Carl Icahn launched a multi-billion dollar hostile takeover attempt against Phillips Petroleum, offering $60 per share for half the company's stock. Coordinating with T. Boone Pickens' earlier attempt, Icahn used Michael Milken and Drexel Burnham Lambert's junk bond financing network to demonstrate the power of leveraged corporate raids. After an intense three-month battle that culminated in a local shareholder protest in Bartlesville, Oklahoma, Icahn ultimately settled with Phillips. The company agreed to buy back his shares for over $75 million and pay $25 million of his legal fees, while Icahn pledged not to attempt another takeover for eight years. This event established Icahn as a major 1980s corporate raider and showcased how junk bond financing could enable small investor groups to threaten large corporations through financial leverage.",
   "actors": [
     "Carl Icahn",
     "Phillips Petroleum",
@@ -10,14 +10,25 @@
   ],
   "sources": [
     {
-      "title": "https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "The Washington Post",
+      "title": "Phillips, Icahn Settle Their Corporate Takeover Battle",
+      "url": "https://www.washingtonpost.com/archive/business/1985/03/05/phillips-icahn-settle/7bc631ac-ab1d-4646-8a25-570333be3c33/",
+      "access_date": "2025-10-06",
+      "importance_score": 9
     },
     {
-      "title": "https://en.wikipedia.org/wiki/Carl_Icahn",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Chicago Tribune",
+      "title": "Phillips Counterattacks to Repulse Takeover",
+      "url": "https://www.chicagotribune.com/1985/02/08/phillips-counterattacks-to-repulse-takeover/",
+      "access_date": "2025-10-06",
+      "importance_score": 8
+    },
+    {
+      "outlet": "Princeton Alumni Weekly",
+      "title": "Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn '57",
+      "url": "https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57",
+      "access_date": "2025-10-06",
+      "importance_score": 7
     }
   ],
   "importance": 8,

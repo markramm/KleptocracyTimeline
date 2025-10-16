@@ -1,43 +1,56 @@
 {
-  "id": "2025-07-30--white-house-urges-pro-innovation-mind-set-to-crypto-in-new-r",
-  "date": "2025-07-30",
-  "title": "White House urges \u2018pro-innovation mind-set\u2019 to crypto in new report",
-  "summary": "The White House released a report urging agencies to promote cryptocurrency trading and create new industry rules as Trump continued to personally profit from crypto\u2019s regulatory embrace",
-  "description": "The White House released a report urging agencies to promote cryptocurrency trading and create new industry rules as Trump continued to personally profit from crypto\u2019s regulatory embrace",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
-  "actors": [
-    "Donald Trump",
-    "Trump Administration"
-  ],
-  "tags": [
-    "crypto",
-    "regulatory-capture"
-  ],
-  "capture_type": "regulatory_capture",
-  "sources": [
-    {
-      "title": "White House urges \u2018pro-innovation mind-set\u2019 to crypto in new report",
-      "url": "https://www.nytimes.com/2025/07/30/technology/white-house-crypto.html",
-      "outlet": "New York Times",
-      "date": "2025-07-30"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-07-30"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Legislative Capture",
-    "Executive Power Expansion"
-  ]
+    "id": "2025-07-30--white-house-urges-pro-innovation-mind-set-to-crypto-in-new-r",
+    "date": "2025-07-30",
+    "title": "White House Releases Comprehensive Crypto Policy Roadmap",
+    "summary": "The Trump administration released a 166-page digital assets report recommending federal regulatory clarity for cryptocurrency markets, aimed at positioning the United States as the global leader in digital financial technology. The report calls for congressional action to provide CFTC authority over non-security digital assets, implement new tax classifications, and create regulatory sandboxes to promote crypto innovation.",
+    "description": "The 166-page White House report outlines strategic recommendations for cryptocurrency regulation, including expanding CFTC market oversight, creating new tax classifications, and establishing innovation-friendly regulatory frameworks for digital financial technologies.",
+    "status": "confirmed",
+    "importance": 8,
+    "location": "Washington, D.C.",
+    "actors": [
+        "Donald Trump",
+        "Scott Bessent",
+        "David Sacks",
+        "Treasury Department",
+        "CFTC",
+        "SEC"
+    ],
+    "tags": [
+        "crypto",
+        "regulatory-capture",
+        "financial-technology",
+        "executive-policy"
+    ],
+    "capture_type": "regulatory_capture",
+    "sources": [
+        {
+            "title": "Trump-Appointed Group Urges Regulators to Clarify Crypto Trading Rules",
+            "url": "https://www.bloomberg.com/news/articles/2025-07-30/trump-crypto-group-unveils-proposals-to-boost-digital-finance",
+            "outlet": "Bloomberg",
+            "date": "2025-07-30"
+        },
+        {
+            "title": "White House Fact Sheet: The President's Working Group on Digital Asset Markets Releases Recommendations",
+            "url": "https://www.whitehouse.gov/fact-sheets/2025/07/fact-sheet-the-presidents-working-group-on-digital-asset-markets-releases-recommendations-to-strengthen-american-leadership-in-digital-financial-technology/",
+            "outlet": "White House",
+            "date": "2025-07-30"
+        },
+        {
+            "title": "Donald Trump's 'Golden Age of Crypto' Takes Shape",
+            "url": "https://www.coindesk.com/policy/2025/07/30/donald-trump-s-golden-age-of-crypto-takes-shape-aims-defi-towards-mainstream-report",
+            "outlet": "CoinDesk",
+            "date": "2025-07-30"
+        }
+    ],
+    "connections": [],
+    "patterns": [
+        "kleptocratic-capture",
+        "financial-innovation-capture"
+    ],
+    "notes": "Comprehensive report detailing Trump administration's strategic approach to cryptocurrency regulation and market positioning.",
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Legislative Capture",
+        "Executive Power Expansion"
+    ]
 }

@@ -1,20 +1,25 @@
 {
   "id": "2025-03-18--nasa-cuts-raise-fears-of-handing-more-influence-to-spacex-ow",
   "date": "2025-03-18",
-  "title": "NASA cuts raise fears of handing more influence to SpaceX owner Musk",
-  "summary": "Trump shut down NASA\u2019s Office of Technology, Policy and Strategy and the Office of the Chief Scientist, which could hand more power to SpaceX",
-  "description": "Trump shut down NASA\u2019s Office of Technology, Policy and Strategy and the Office of the Chief Scientist, which could hand more power to SpaceX",
+  "title": "Trump Administration Eliminates Key NASA Scientific and Policy Offices",
+  "summary": "The Trump administration eliminated NASA's Office of Technology, Policy, and Strategy, the Office of the Chief Scientist, and its Diversity office, affecting 23 employees and raising concerns about potential SpaceX influence and reduced climate research capabilities",
+  "description": "Trump administration ordered NASA to eliminate critical policy, science, and diversity offices, affecting 23 employees and potentially reshaping the agency's strategic capabilities",
   "status": "confirmed",
-  "importance": 6,
+  "importance": 7,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Janet Petro",
+    "Katherine Calvin"
   ],
   "tags": [
-    "kleptocracy"
+    "kleptocracy",
+    "nasa",
+    "workforce-reduction",
+    "administrative-capture"
   ],
-  "capture_type": "monetizing_position",
+  "capture_type": "administrative_capture",
   "sources": [
     {
       "title": "NASA cuts raise fears of handing more influence to SpaceX owner Musk",
@@ -23,18 +28,29 @@
       "date": "2025-03-18"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "NASA fires chief scientist, more Trump cuts to come",
+      "url": "https://phys.org/news/2025-03-nasa-chief-scientist-trump.html",
+      "outlet": "Phys.org",
+      "date": "2025-03-10"
+    },
+    {
+      "title": "NASA closes offices, lays off staff as it prepares for larger workforce reductions",
+      "url": "https://spacenews.com/nasa-closes-offices-lays-off-staff-as-it-prepares-for-larger-workforce-reductions/",
+      "outlet": "Space News",
       "date": "2025-03-18"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Potential SpaceX influence expansion",
+    "Reduction of climate research capabilities"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-transformation"
+  ],
+  "notes": "Part of systematic reduction of federal scientific infrastructure",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Federal Workforce Reduction"
   ]
 }

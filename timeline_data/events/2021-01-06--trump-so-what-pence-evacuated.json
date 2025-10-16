@@ -2,19 +2,21 @@
   "id": "2021-01-06--trump-so-what-pence-evacuated",
   "date": "2021-01-06",
   "title": "Trump says \"So what?\" when told Pence evacuated for safety during Capitol riot",
-  "summary": "When informed that Vice President Mike Pence had been rushed to a secure location as violent Trump supporters stormed the Capitol, Trump responded \"So what?\" according to the Jack Smith report. Alone in the White House dining room watching news coverage, Trump then tweeted at 2:24 PM attacking Pence for not joining his conspiracy, despite knowing rioters had breached the Capitol and Pence was in danger.",
+  "summary": "During the January 6th Capitol attack, when informed by White House aide Nick Luna that Vice President Mike Pence had been rushed to a secure location for his safety, Trump responded dismissively with \"So what?\". Alone in the White House dining room while watching Fox News coverage of the riot, Trump was told Pence was in danger, with rioters coming within 40 feet of the Vice President. At 2:24 PM, despite knowing Pence's precarious situation, Trump tweeted attacking Pence for lacking \"courage\", potentially further endangering him.",
   "importance": 10,
   "tags": [
     "january-6",
     "donald-trump",
-    "mike-pence",
+    "mike-pence", 
     "capitol-riot",
     "dereliction-of-duty",
     "jack-smith-report"
   ],
   "actors": [
     "Donald Trump",
-    "Mike Pence"
+    "Mike Pence",
+    "Nick Luna",
+    "Dan Scavino"
   ],
   "sources": [
     {
@@ -28,13 +30,31 @@
       "url": "https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf",
       "outlet": "Department of Justice",
       "date": "2025-01-14"
+    },
+    {
+      "title": "Trump's Response When He Learned Pence's Life Was In Danger On Jan. 6: 'So What?'",
+      "url": "https://www.huffpost.com/entry/trump-immunity-brief-jan-6_n_66fda515e4b0ccc050c59718",
+      "outlet": "HuffPost",
+      "date": "2024-08-31"
+    },
+    {
+      "title": "Special counsel probe uncovers new details about Trump's inaction on Jan. 6",
+      "url": "https://abcnews.go.com/US/special-counsel-probe-uncovers-new-details-trumps-inaction/story?id=106131854",
+      "outlet": "ABC News",
+      "date": "2024-09-01"
+    },
+    {
+      "title": "FINAL REPORT of the Select Commitee to Investigate the January 6th Attack on the United States Capitol",
+      "url": "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/ch7.html",
+      "outlet": "U.S. Government Publishing Office",
+      "date": "2022-12-22"
     }
   ],
   "status": "confirmed",
   "capture_lanes": [
     "Media Capture & Control",
     "Regulatory Capture",
-    "Legislative Capture",
+    "Legislative Capture", 
     "Executive Power Expansion"
   ]
 }

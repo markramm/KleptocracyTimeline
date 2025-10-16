@@ -2,7 +2,7 @@
   "id": "2019-01-01--noem-misuses-state-aircraft-political-events",
   "date": "2019-01-01",
   "title": "Noem uses state aircraft for political events violating state law",
-  "summary": "Governor Kristi Noem used state airplanes to travel to political events hosted by organizations including the National Rifle Association and Republican Jewish Coalition, violating South Dakota law that bars state aircraft from being used for anything other than state business. The ethics board referred the complaint to the attorney general's office for investigation.",
+  "summary": "Governor Kristi Noem used state airplanes to travel to political events hosted by organizations including the National Rifle Association and Republican Jewish Coalition, violating South Dakota law that bars state aircraft from being used for anything other than state business. Democratic lawmakers sought investigation, but the ethics board ultimately dismissed the complaint due to unclear legal definitions of 'state business'.",
   "importance": 7,
   "tags": [
     "corruption",
@@ -29,6 +29,18 @@
       "url": "https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/",
       "outlet": "CBS News",
       "date": "2022-08-22"
+    },
+    {
+      "title": "GOP governor Kristi Noem used state aircraft for tens of thousands of dollars in political travel",
+      "url": "https://www.alternet.org/2021/02/kristi-noem-2650540846",
+      "outlet": "Alternet.org",
+      "date": "2021-02-01"
+    },
+    {
+      "title": "Exclusive: GOP governor Kristi Noem, potential Trump successor, used state aircraft for tens of thousands of dollars in political travel",
+      "url": "https://www.rawstory.com/kristi-noem-2650536372/",
+      "outlet": "Raw Story",
+      "date": "2021-02-01"
     }
   ],
   "status": "confirmed",

@@ -1,41 +1,59 @@
 {
   "id": "2025-05-29--trump-rejects-15m-offer-to-settle-60-minutes-lawsuit-report",
   "date": "2025-05-29",
-  "title": "Trump rejects $15M offer to settle \u201960 Minutes\u2019 lawsuit: report",
-  "summary": "Trump rejected Paramount's $15 million settlement offer over his 60 Minutes lawsuit, demanding $25 million and a public apology instead",
-  "description": "Trump rejected Paramount's $15 million settlement offer over his 60 Minutes lawsuit, demanding $25 million and a public apology instead",
+  "title": "Paramount Settles Trump's $20 Billion '60 Minutes' Lawsuit for $16 Million",
+  "summary": "Paramount Global settled Trump's $20 billion lawsuit over a 2023 '60 Minutes' interview for $16 million, with no direct payment to Trump and an agreement to release future candidate interview transcripts. The settlement comes amid Paramount's pending merger with Skydance Media, raising questions about regulatory leverage.",
+  "description": "Detailed chronicle of Trump's lawsuit against Paramount over 60 Minutes interview editing, revealing complex media-political interactions",
   "status": "confirmed",
-  "importance": 7,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Paramount Global",
+    "CBS News",
+    "Kamala Harris",
+    "Ronny Jackson"
   ],
   "tags": [
     "government-contracts",
-    "justice-weaponization"
+    "justice-weaponization",
+    "media-manipulation",
+    "regulatory-capture"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump rejects $15M offer to settle \u201960 Minutes\u2019 lawsuit: report",
-      "url": "https://www.yahoo.com/news/trump-rejects-15m-offer-settle-141023713.html",
-      "outlet": "Yahoo! News",
-      "date": "2025-05-29"
+      "date": "2025-07-02",
+      "outlet": "CBS News",
+      "title": "Paramount, President Trump Reach Lawsuit Settlement Over '60 Minutes' Interview",
+      "url": "https://www.cbsnews.com/news/paramount-trump-60-minutes-lawsuit-settlement/"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-05-29"
+      "date": "2025-07-02",
+      "outlet": "Bloomberg",
+      "title": "Paramount Settles Trump's '60 Minutes' Suit for $16 Million",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-02/paramount-settles-trump-s-60-minutes-suit-for-16-million"
+    },
+    {
+      "date": "2025-05-29",
+      "outlet": "Yahoo! News",
+      "title": "Trump rejects $15M offer to settle '60 Minutes' lawsuit: report",
+      "url": "https://www.yahoo.com/news/trump-rejects-15m-offer-settle-141023713.html"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Skydance-Paramount merger",
+    "FCC regulatory influence"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "media-manipulation",
+    "regulatory-leverage"
+  ],
+  "notes": "Settlement reflects broader patterns of media-political power dynamics",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Media Manipulation"
   ]
 }

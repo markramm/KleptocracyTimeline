@@ -1,39 +1,40 @@
 {
-  "date": "2018-08-01",
-  "title": "Guo Wengui Begins Funding Steve Bannon Operations",
-  "summary": "Chinese exile billionaire Guo Wengui (also known as Miles Guo and Ho Wan Kwok) began financial arrangements with Steve Bannon, paying  million for consulting services from August 2018 to August 2019. Guo Media, associated with the fugitive Chinese businessman, provided Bannon with office space in their headquarters and launched a collaboration targeting China's Communist Party leadership. This partnership marked the beginning of an extensive influence operation combining Chinese exile political activism with American conservative media. Guo had fled China in 2015 after associates were arrested under Xi Jinping's corruption crackdown, and was seeking to build political influence in the United States through relationships with Trump administration figures.",
-  "actors": [
-    "Guo Wengui",
-    "Miles Guo",
-    "Steve Bannon",
-    "Guo Media",
-    "Xi Jinping"
-  ],
-  "tags": [
-    "foreign-influence",
-    "chinese-exile",
-    "political-funding",
-    "influence-operations"
-  ],
-  "importance": 7,
-  "sources": [
-    {
-      "title": "https://www.cnbc.com/2021/08/16/steve-bannon-leaves-mysterious-nonprofit-linked-to-wealthy-chinese-exile.html",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.washingtonpost.com/politics/steve-bannon-guo-wengui/2020/09/13/8b43cd06-e964-11ea-bc79-834454439a44_story.html",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "id": "2018-08-01--guo-wengui-begins-funding-steve-bannon-operations",
-  "priority_id": "RT-EXP-2E557553-gettr-jason-miller-chinese-funding",
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Financial Capture",
-    "Intelligence Penetration"
-  ]
+    "id": "2018-08-01--guo-wengui-begins-funding-steve-bannon-operations",
+    "date": "2018-08-01",
+    "title": "Guo Wengui Begins Funding Steve Bannon Operations",
+    "summary": "Chinese exile billionaire Guo Wengui (Miles Guo) began a $1 million contract with Steve Bannon for media consulting, marking the start of a complex political influence operation targeting Chinese Communist Party leadership. Bannon was hired to introduce Guo Media to political personalities and help build an alternative media platform, GTV, designed to spread pro-Trump messaging and anti-CCP narratives to Chinese expatriate communities.",
+    "importance": 8,
+    "actors": [
+        "Guo Wengui",
+        "Miles Guo",
+        "Steve Bannon",
+        "Guo Media",
+        "Xi Jinping"
+    ],
+    "sources": [
+        {
+            "outlet": "NPR",
+            "title": "The Inscrutable Aims of Steve Bannon's Enigmatic Chinese Benefactor",
+            "url": "https://www.npr.org/2022/10/20/1130184401/the-inscrutable-aims-of-steve-bannons-enigmatic-chinese-benefactor"
+        },
+        {
+            "outlet": "China Digital Times",
+            "title": "Guo Wengui and Steve Bannon Launch Investigation Fund",
+            "url": "https://chinadigitaltimes.net/2018/11/guo-wengui-and-steve-bannon-launch-investigation-fund/"
+        }
+    ],
+    "tags": [
+        "foreign-influence",
+        "chinese-exile",
+        "political-funding",
+        "influence-operations",
+        "media-manipulation",
+        "alternative-media"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Financial Capture",
+        "Intelligence Penetration"
+    ],
+    "status": "confirmed"
 }

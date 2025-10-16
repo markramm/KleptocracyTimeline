@@ -1,40 +1,53 @@
 {
-  "id": "2025-03-07--musk-s-spacex-confirms-starlink-lease-agreement-with-faa",
-  "date": "2025-03-07",
-  "title": "Musk\u2019s SpaceX confirms Starlink lease agreement with FAA",
-  "summary": "Elon Musk\u2019s SpaceX confirmed Starlink lease agreement to provide telecommunications services to the FAA",
-  "description": "Elon Musk\u2019s SpaceX confirmed Starlink lease agreement to provide telecommunications services to the FAA",
-  "status": "confirmed",
-  "importance": 6,
-  "location": "Washington, D.C.",
-  "actors": [
-    "Donald Trump",
-    "Trump Administration"
-  ],
-  "tags": [
-    "kleptocracy"
-  ],
-  "capture_type": "monetizing_position",
-  "sources": [
-    {
-      "title": "Musk\u2019s SpaceX confirms Starlink lease agreement with FAA",
-      "url": "https://www.washingtonpost.com/business/2025/03/06/starlink-faa-verizon-contract-musk/",
-      "outlet": "Washington Post",
-      "date": "2025-03-07"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-03-07"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Systematic Corruption"
-  ]
+    "id": "2025-03-07--musk-s-spacex-confirms-starlink-lease-agreement-with-faa",
+    "date": "2025-03-07",
+    "title": "SpaceX Confirms Starlink Loan Agreement with FAA for Infrastructure Testing",
+    "summary": "SpaceX confirmed a loan agreement with L3Harris to provide Starlink satellite communication terminals to the FAA for infrastructure testing, specifically in Alaska. The agreement involves providing 4,000 Starlink kits free of charge for an initial evaluation period, raising potential conflict of interest concerns given Musk's role in the Trump administration.",
+    "actors": [
+        "Elon Musk",
+        "SpaceX",
+        "FAA",
+        "L3Harris Technologies",
+        "Verizon",
+        "Sean Duffy"
+    ],
+    "importance": 6,
+    "location": "Washington, D.C.",
+    "capture_lanes": [
+        "Systematic Corruption",
+        "Technological Infrastructure"
+    ],
+    "capture_type": "infrastructure_capture",
+    "patterns": [
+        "kleptocratic-capture",
+        "regulatory-infrastructure"
+    ],
+    "tags": [
+        "kleptocracy",
+        "technology",
+        "infrastructure",
+        "government-contracts"
+    ],
+    "sources": [
+        {
+            "date": "2025-03-06",
+            "outlet": "Fox Business",
+            "title": "SpaceX denies Starlink 'take over' of FAA contract, as Verizon $2.4B air traffic control deal hangs in balance",
+            "url": "https://www.foxbusiness.com/politics/spacex-denies-starlink-take-over-faa-contract-verizon-air-traffic-control-deal-hangs-balance"
+        },
+        {
+            "date": "2025-03-01",
+            "outlet": "Fortune",
+            "title": "SpaceX's Starlink could have some advantages over Verizon in bid for FAA contract takeover, experts say",
+            "url": "https://fortune.com/2025/03/01/spacex-starlink-verizon-faa-contract-conflict-of-interest-safety/"
+        },
+        {
+            "date": "2025-02-25",
+            "outlet": "CBS News",
+            "title": "Elon Musk's Starlink in line for deal with FAA, raising potential ethical concerns",
+            "url": "https://www.cbsnews.com/news/starlink-faa-contract-elon-musk-conflict-of-interest/"
+        }
+    ],
+    "status": "confirmed",
+    "notes": "Event highlights potential regulatory capture through infrastructure technology contracts. Loan agreement raises conflict of interest questions due to Musk's government role."
 }

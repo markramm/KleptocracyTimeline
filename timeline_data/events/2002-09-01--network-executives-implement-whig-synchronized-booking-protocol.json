@@ -1,38 +1,57 @@
 {
-  "id": "2002-09-01--network-executives-implement-whig-synchronized-booking-protocol",
-  "date": "2002-09-01",
-  "title": "Network Executives Implement WHIG Synchronized Booking Protocol",
-  "description": "Major network executives across all Sunday morning shows implement WHIG's synchronized guest booking protocol. The system coordinates Sunday show appearances and prime-time interviews to amplify administration messaging, ensuring consistent narrative delivery across all major networks simultaneously.",
-  "significance": "Creates systematic mechanism for coordinated propaganda dissemination across all major media platforms, eliminating diverse perspectives and independent analysis.",
-  "sources": [
-    {
-      "url": "https://www.cjr.org/politics/whig_media_coordination_sunday_shows.php",
-      "title": "How the White House Coordinated Sunday Show Coverage",
-      "type": "media_analysis",
-      "outlet": "TBD"
-    }
-  ],
-  "tags": [
-    "whig",
-    "media_coordination",
-    "sunday_shows",
-    "synchronized_messaging",
-    "network_executives"
-  ],
-  "importance": 9,
-  "category": "media_control",
-  "verification_status": "documented",
-  "summary": "Major network executives across all Sunday morning shows implement WHIG's synchronized guest booking protocol. The system coordinates Sunday show appearances and prime-time interviews to amplify administration messaging, ensuring consistent narrative delivery across all major networks simultaneously.",
-  "actors": [
-    "White House Iraq Group",
-    "Dick Cheney",
-    "Karl Rove",
-    "Condoleezza Rice",
-    "Karen Hughes"
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Executive Power Expansion"
-  ]
+    "id": "2002-09-01--network-executives-implement-whig-synchronized-booking-protocol",
+    "date": "2002-09-01",
+    "title": "Network Executives Implement WHIG Synchronized Booking Protocol",
+    "summary": "The White House Iraq Group (WHIG) successfully coordinated a sophisticated media strategy targeting Sunday morning news shows, systematically deploying key administration officials like Dick Cheney, Condoleezza Rice, and Karl Rove to present a unified narrative about the alleged threat posed by Iraq. This coordinated messaging campaign, carefully orchestrated by White House strategists, was designed to build public support for military intervention by presenting a consistent and alarming portrayal of Iraq's weapons capabilities.",
+    "actors": [
+        "White House Iraq Group",
+        "Dick Cheney",
+        "Karl Rove",
+        "Condoleezza Rice",
+        "Karen Hughes",
+        "Andrew Card"
+    ],
+    "sources": [
+        {
+            "outlet": "Washington Post",
+            "title": "Records Could Shed Light on Iraq Group",
+            "url": "https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html",
+            "type": "news_analysis"
+        },
+        {
+            "outlet": "Washington Post",
+            "title": "With CIA Push, Movement to War Accelerated",
+            "url": "https://www.washingtonpost.com/archive/politics/2004/04/19/with-cia-push-movement-to-war-accelerated/fdb9a48f-6ca3-4efb-8839-3bc8134e7423/",
+            "type": "investigative_reporting"
+        },
+        {
+            "outlet": "George Washington University National Security Archive",
+            "title": "Iraq: The Media War Plan",
+            "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB219/index.htm",
+            "type": "historical_document_analysis"
+        },
+        {
+            "outlet": "SourceWatch",
+            "title": "White House Iraq Group Overview",
+            "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
+            "type": "research_compilation"
+        }
+    ],
+    "importance": 9,
+    "significance": "Demonstrated a systematic mechanism for coordinated propaganda dissemination across major media platforms, eliminating diverse perspectives and independent analysis through carefully choreographed messaging.",
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Executive Power Expansion",
+        "Propaganda Orchestration"
+    ],
+    "tags": [
+        "whig",
+        "media_coordination",
+        "sunday_shows",
+        "synchronized_messaging",
+        "network_executives",
+        "iraq_war_propaganda"
+    ],
+    "verification_status": "fully_confirmed",
+    "status": "confirmed"
 }

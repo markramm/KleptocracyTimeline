@@ -1,43 +1,61 @@
 {
+  "actors": [
+    "Department of Justice",
+    "Deputy Attorney General Todd Blanche",
+    "Trump Administration"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy",
+    "Regulatory Capture",
+    "Foreign Policy Manipulation"
+  ],
+  "citations": [
+    "https://www.justice.gov/dag/media/1403031/dl",
+    "https://www.paulweiss.com/insights/client-memos/doj-fcpa-guidelines-end-the-enforcement-pause-and-shift-focus-to-us-interests",
+    "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/06/fcpa-enforcement-back-with-a-twist",
+    "https://www.crowell.com/en/insights/client-alerts/the-fcpa-pause-is-over-trump-doj-issues-long-awaited-fcpa-investigations-and-enforcement-guidelines"
+  ],
   "date": "2025-06-09",
-  "importance": 8,
-  "title": "DOJ issues updated guidelines for FCPA investigations and enforcement",
-  "summary": "The Justice Department released updated Foreign Corrupt Practices Act (FCPA) guidelines on June 9, 2025, signaling the end of the blanket enforcement pause instituted in February. The new guidelines prioritize U.S. business interests and significantly narrow enforcement focus, effectively decriminalizing many forms of foreign bribery previously prosecuted.",
+  "id": "2025-06-09--doj-fcpa-guidelines",
+  "importance": 9,
+  "notes": "New DOJ FCPA guidelines dramatically reshape anti-corruption enforcement, prioritizing U.S. national interests and individual accountability over broad corporate investigations.",
+  "sources": [
+    {
+      "date": "2025-06-09",
+      "outlet": "Paul Weiss",
+      "title": "DOJ FCPA Guidelines End the Enforcement Pause and Shift Focus to U.S. Interests",
+      "url": "https://www.paulweiss.com/insights/client-memos/doj-fcpa-guidelines-end-the-enforcement-pause-and-shift-focus-to-us-interests"
+    },
+    {
+      "date": "2025-06-09",
+      "outlet": "Department of Justice",
+      "title": "Updated FCPA Enforcement Guidelines",
+      "url": "https://www.justice.gov/dag/media/1403031/dl"
+    },
+    {
+      "date": "2025-06-09",
+      "outlet": "Arnold & Porter",
+      "title": "FCPA Enforcement: Back With a Twist? DOJ Issues New FCPA Guidelines Following Trump Executive Order",
+      "url": "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/06/fcpa-enforcement-back-with-a-twist"
+    },
+    {
+      "date": "2025-06-09",
+      "outlet": "Crowell & Moring LLP",
+      "title": "The FCPA Pause Is Over: Trump DOJ Issues Long-Awaited FCPA Investigations and Enforcement Guidelines",
+      "url": "https://www.crowell.com/en/insights/client-alerts/the-fcpa-pause-is-over-trump-doj-issues-long-awaited-fcpa-investigations-and-enforcement-guidelines"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "On June 9, 2025, the Department of Justice under Deputy Attorney General Todd Blanche released updated Foreign Corrupt Practices Act (FCPA) guidelines, effectively ending the four-month enforcement pause instituted by a Trump administration executive order. The new guidelines fundamentally reshape anti-corruption enforcement by: (1) prioritizing investigations directly tied to U.S. national security and economic interests, (2) focusing on individual criminal misconduct rather than broad corporate liability, and (3) requiring high-level DOJ authorization for new investigations. Prosecutors are now instructed to target cases involving cartels, transnational criminal organizations, and serious misconduct that demonstrably threatens U.S. interests.",
   "tags": [
     "doj",
     "fcpa",
     "foreign-bribery",
     "corruption",
     "regulatory-rollback",
-    "enforcement-weakening"
+    "enforcement-weakening",
+    "national-security",
+    "trump-administration"
   ],
-  "capture_lanes": [
-    "Financial Corruption & Kleptocracy"
-  ],
-  "citations": [
-    "https://www.justice.gov/dag/media/1403031/dl",
-    "https://www.paulweiss.com/insights/client-memos/doj-fcpa-guidelines-end-the-enforcement-pause-and-shift-focus-to-us-interests"
-  ],
-  "id": "2025-06-09--doj-fcpa-guidelines",
-  "actors": [
-    "Department of Justice",
-    "Deputy Attorney General",
-    "Trump Administration"
-  ],
-  "notes": "These guidelines follow the February 10 executive order pausing FCPA enforcement, representing a systematic weakening of anti-corruption enforcement to benefit U.S. businesses operating abroad.",
-  "status": "confirmed",
-  "sources": [
-    {
-      "title": "DOJ FCPA Guidelines End the Enforcement Pause and Shift Focus to U.S. Interests",
-      "url": "https://www.paulweiss.com/insights/client-memos/doj-fcpa-guidelines-end-the-enforcement-pause-and-shift-focus-to-us-interests",
-      "outlet": "Paul Weiss",
-      "date": "2025-06-09"
-    },
-    {
-      "title": "Updated FCPA Enforcement Guidelines",
-      "url": "https://www.justice.gov/dag/media/1403031/dl",
-      "outlet": "Department of Justice",
-      "date": "2025-06-09"
-    }
-  ]
+  "title": "DOJ Issues Transformative FCPA Guidelines Prioritizing U.S. National Interests"
 }

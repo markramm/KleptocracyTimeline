@@ -1,40 +1,56 @@
 {
-  "id": "2025-02-25--the-trump-staffers-who-get-paid-by-private-clients",
-  "date": "2025-02-25",
-  "title": "The Trump staffers who get paid by private clients",
-  "summary": "Key Trump officials, including Elon Musk and top aides, are operating as \"Special Government Employees,\u201d allowing them to work for both the government and private clients",
-  "description": "Key Trump officials, including Elon Musk and top aides, are operating as \"Special Government Employees,\u201d allowing them to work for both the government and private clients",
-  "status": "confirmed",
-  "importance": 6,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Elon Musk",
+    "Department of Government Efficiency (DOGE)"
   ],
-  "tags": [
-    "kleptocracy"
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Corporate Capture"
   ],
   "capture_type": "monetizing_position",
+  "date": "2025-02-25",
+  "description": "Trump administration introduces unprecedented use of Special Government Employees (SGEs), allowing key officials like Elon Musk to simultaneously serve in government roles while maintaining private business interests.",
+  "id": "2025-02-25--the-trump-staffers-who-get-paid-by-private-clients",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-capture"
+  ],
   "sources": [
     {
-      "title": "The Trump staffers who get paid by private clients",
-      "url": "https://www.wsj.com/politics/policy/trump-administration-special-government-employees-75b2b6e5?mod=politics_lead_pos2",
-      "outlet": "Wall Street Journal",
-      "date": "2025-02-25"
+      "date": "2025-02-03",
+      "outlet": "CNBC",
+      "title": "White House says Elon Musk is serving as a 'special government employee'",
+      "url": "https://www.cnbc.com/2025/02/03/white-house-says-elon-musk-serving-as-a-special-government-employee.html"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-02-25"
+      "date": "2025-02-13",
+      "outlet": "NPR",
+      "title": "Trump hired Musk as a 'special government employee.' Here's what that means",
+      "url": "https://www.npr.org/2025/02/13/nx-s1-5293124/special-government-employee-trump-musk-doge"
+    },
+    {
+      "date": "2025-02-05",
+      "outlet": "Axios",
+      "title": "Musk adds 'special government employee' to resume",
+      "url": "https://www.axios.com/2025/02/05/elon-musk-trump-special-government-employee"
+    },
+    {
+      "date": "2025-04-23",
+      "outlet": "Center on Budget and Policy Priorities",
+      "title": "Unprecedented Use of Special Government Employees Raises Serious Ethical Concerns",
+      "url": "https://www.cbpp.org/blog/unprecedented-use-of-special-government-employees-raises-serious-ethical-concerns"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "status": "confirmed",
+  "summary": "Trump administration creates new category of 'Special Government Employees' allowing officials like Elon Musk to work simultaneously in government and private sectors, bypassing traditional ethics requirements. Musk can work up to 130 days per year while maintaining his roles at SpaceX and Tesla, raising significant conflict of interest concerns.",
+  "tags": [
+    "kleptocracy",
+    "regulatory-capture",
+    "government-efficiency",
+    "special-government-employees"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Intelligence Penetration"
-  ]
+  "title": "Trump Administration Introduces Expansive Special Government Employee Status for Private Sector Leaders"
 }

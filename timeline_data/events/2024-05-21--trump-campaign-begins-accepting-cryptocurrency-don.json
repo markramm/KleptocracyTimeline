@@ -32,8 +32,22 @@
       "outlet": "Fox Business",
       "date": "2024-05-01",
       "archive_url": "https://web.archive.org/web/20240815000000/https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants"
+    },
+    {
+      "title": "Trump Becomes First Major Party Candidate to Accept Crypto Donations",
+      "url": "https://www.coindesk.com/business/2024/05/21/trump-becomes-first-major-party-candidate-to-accept-crypto-donations",
+      "outlet": "CoinDesk",
+      "date": "2024-05-21",
+      "archive_url": null
+    },
+    {
+      "title": "Trump campaign will now accept crypto contributions",
+      "url": "https://www.marketplace.org/story/2024/05/27/trump-campaign-will-now-accept-crypto-contributions",
+      "outlet": "Marketplace",
+      "date": "2024-05-27",
+      "archive_url": null
     }
   ],
-  "notes": "Strategic timing to capture crypto industry political spending",
+  "notes": "Strategic timing to capture crypto industry political spending. First major party candidate to fully embrace cryptocurrency donations.",
   "status": "confirmed"
 }

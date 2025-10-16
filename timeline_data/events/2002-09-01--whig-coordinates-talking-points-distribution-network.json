@@ -1,40 +1,59 @@
 {
   "id": "2002-09-01--whig-coordinates-talking-points-distribution-network",
-  "title": "WHIG Establishes Systematic Talking Points Distribution Network Across Media Platforms",
   "date": "2002-09-01",
-  "description": "The White House Iraq Group creates a comprehensive talking points distribution system that provides identical messaging frameworks to television networks, ensuring synchronized propaganda dissemination across supposedly independent media platforms. This system enables precise coordination of messaging themes, timing, and framing across multiple networks, creating the appearance of organic consensus while actually orchestrating systematic manipulation. The infrastructure includes daily briefings, message discipline protocols, and coordinated response mechanisms that transform disparate media outlets into components of a unified propaganda apparatus.",
-  "category": "propaganda-coordination-systems",
-  "actors": [
-    "primary",
-    "secondary"
-  ],
+  "title": "WHIG Establishes Systematic Talking Points Distribution Network Across Media Platforms",
+  "summary": "The White House Iraq Group creates a comprehensive talking points distribution system that provides identical messaging frameworks to television networks, ensuring synchronized propaganda dissemination across supposedly independent media platforms. Members like Karl Rove strategically leaked information to media outlets like The New York Times, then used those articles as 'independent' confirmation of administration narratives about Iraq.",
+  "importance": 9,
   "location": "Washington, DC",
+  "actors": [
+    "Karl Rove",
+    "Andrew Card",
+    "Condoleezza Rice",
+    "Karen Hughes",
+    "Mary Matalin",
+    "Dan Bartlett",
+    "Scooter Libby",
+    "Michael Gerson",
+    "Ari Fleischer",
+    "Stephen Hadley"
+  ],
   "sources": [
     {
-      "title": "WHIG communications strategy documents detailing talking points distribution",
-      "type": "government-records",
-      "credibility": 10,
-      "description": "Internal planning documents showing systematic messaging coordination",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Wikipedia",
+      "title": "White House Iraq Group",
+      "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+      "description": "Comprehensive overview of the White House Iraq Group's formation and media strategy",
+      "credibility": 8,
+      "type": "reference"
     },
     {
-      "title": "Network internal communications showing government talking points adoption",
-      "type": "corporate-records",
+      "outlet": "NPR",
+      "title": "Maintaining Focus: Rove and Iraq War Data",
+      "url": "https://www.npr.org/2005/07/13/4752466/maintaining-focus-rove-and-iraq-war-data",
+      "description": "Detailed account of media coordination strategies",
       "credibility": 9,
-      "description": "Media internal documents demonstrating systematic coordination",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "type": "news-analysis"
     },
     {
-      "title": "White House communications office daily briefing logs",
-      "type": "government-records",
-      "credibility": 10,
-      "description": "Official documentation of coordinated messaging distribution",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Truthout",
+      "title": "The Lies of Karl Rove",
+      "url": "https://truthout.org/articles/the-lies-of-karl-rove/",
+      "description": "Investigative piece on media manipulation tactics",
+      "credibility": 7,
+      "type": "investigative-journalism"
     }
   ],
+  "tags": [
+    "whig",
+    "talking-points-distribution",
+    "systematic-messaging",
+    "media-coordination",
+    "propaganda-infrastructure",
+    "message-synchronization",
+    "iraq-war",
+    "bush-administration"
+  ],
+  "category": "propaganda-coordination-systems",
   "constitutional_issues": [
     "government propaganda",
     "media manipulation",
@@ -42,21 +61,17 @@
     "information warfare",
     "democratic discourse corruption"
   ],
-  "importance": 8,
-  "tags": [
-    "whig",
-    "talking-points-distribution",
-    "systematic-messaging",
-    "media-coordination",
-    "propaganda-infrastructure",
-    "message-synchronization"
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Executive Power Expansion"
   ],
   "connections": {
-    "enables": [
-      "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz"
-    ],
     "coordinates_with": [
       "2002-08-26--whig-establishes-systematic-media-coordination-infrastructure"
+    ],
+    "enables": [
+      "2002-09-08--whig-launches-mushroom-cloud-propaganda-blitz"
     ],
     "part_of_pattern": [
       "whig-messaging-coordination-sequence",
@@ -65,11 +80,5 @@
     ]
   },
   "historical_significance": "The systematic talking points distribution network represented a critical escalation in government propaganda capabilities, enabling precise coordination of messaging across supposedly independent media platforms. This infrastructure created the capability for systematic manipulation of public discourse through coordinated messaging that appeared organic while actually being centrally orchestrated.",
-  "summary": "The White House Iraq Group creates a comprehensive talking points distribution system that provides identical messaging frameworks to television networks, ensuring synchronized propaganda dissemination across supposedly independent media platforms. This system enables precise coordination of messaging themes, timing, and framing across multiple networks, creating the appearance of organic consensus while actually orchestrating systematic manipulation. The infrastructure includes daily briefings, message discipline protocols, and coordinated response mechanisms that transform disparate media outlets into components of a unified propaganda apparatus.",
-  "status": "confirmed",
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Legislative Capture",
-    "Executive Power Expansion"
-  ]
+  "status": "confirmed"
 }

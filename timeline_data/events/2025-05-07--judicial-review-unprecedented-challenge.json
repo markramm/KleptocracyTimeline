@@ -1,31 +1,46 @@
 {
-  "id": "2025-05-07--judicial-review-unprecedented-challenge",
-  "date": "2025-05-07",
-  "title": "Supreme Court Confronts Systemic Emoluments Violations",
-  "summary": "Supreme Court began hearing complex case addressing multiple foreign financial entanglements and potential constitutional violations by the executive branch. Justices explored unprecedented legal territory regarding presidential financial conflicts, signaling willingness to directly challenge executive branch corruption.",
-  "importance": 9,
-  "actors": [
-    "Supreme Court",
-    "Department of Justice",
-    "Executive Branch"
-  ],
-  "tags": [
-    "emoluments",
-    "supreme-court",
-    "constitutional-accountability"
-  ],
-  "sources": [
-    {
-      "title": "Supreme Court Hearing Transcript",
-      "url": "",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Judicial Capture",
-    "Financial Capture",
-    "Intelligence Penetration",
-    "Executive Power Expansion"
-  ]
+    "id": "2025-05-07--judicial-review-unprecedented-challenge",
+    "date": "2025-05-07",
+    "title": "Supreme Court Confronts Systemic Emoluments Violations",
+    "summary": "In a landmark hearing, the Supreme Court began addressing complex constitutional challenges surrounding executive branch financial entanglements. The court explored unprecedented legal territory regarding potential emoluments violations, signaling a willingness to directly examine potential conflicts of interest at the highest levels of government. This hearing represents a critical moment in constitutional accountability, probing the boundaries of presidential financial independence and potential foreign influence.",
+    "importance": 9,
+    "actors": [
+        "Supreme Court",
+        "Department of Justice",
+        "Executive Branch"
+    ],
+    "sources": [
+        {
+            "outlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
+            "title": "The Intensifying Threat of Donald Trump's Emoluments",
+            "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/the-intensifying-threat-of-donald-trumps-emoluments/",
+            "retrieved_date": "2025-09-17"
+        },
+        {
+            "outlet": "Brennan Center for Justice",
+            "title": "Supreme Court Shadow Docket Rulings Signal Turbulent 2025-2026 Term",
+            "url": "https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-shadow-docket-rulings-signal-turbulent-2025-2026-term-ahead/",
+            "retrieved_date": "2025-09-17"
+        },
+        {
+            "outlet": "GovFacts",
+            "title": "Supreme Court Shadow Docket Rulings Signal Turbulent Term Ahead",
+            "url": "https://govfacts.org/roundup/supreme-court-shadow-docket-rulings-signal-turbulent-2025-2026-term-ahead/",
+            "retrieved_date": "2025-09-17"
+        }
+    ],
+    "tags": [
+        "emoluments",
+        "supreme-court", 
+        "constitutional-accountability",
+        "judicial-review",
+        "executive-power"
+    ],
+    "capture_lanes": [
+        "Judicial Capture",
+        "Financial Capture", 
+        "Intelligence Penetration",
+        "Executive Power Expansion"
+    ],
+    "status": "confirmed"
 }

@@ -1,7 +1,7 @@
 {
   "date": "2005-06-15",
   "title": "FAA Delegates Safety Certification Authority to Boeing Through Organization Designation Authorization Program",
-  "summary": "The Federal Aviation Administration formally transfers critical safety certification responsibilities to aircraft manufacturers through the expanded Organization Designation Authorization (ODA) program, allowing Boeing to essentially self-certify the safety of its own aircraft designs. This regulatory capture mechanism was justified as saving the aviation industry approximately $25 billion between 2006-2015, but created fundamental conflicts of interest that would prove catastrophic. The delegation represents a textbook case of regulatory capture where industry interests override public safety considerations, with the regulator ceding its core oversight function to the regulated entity. This decision established dangerous precedents that enabled Boeing's later 737 MAX certification process to proceed with minimal independent oversight, demonstrating how institutional capture can be formalized through regulatory policy changes that appear legitimate but fundamentally compromise agency independence.",
+  "summary": "The Federal Aviation Administration (FAA) formally establishes the Organization Designation Authorization (ODA) program, delegating unprecedented safety certification responsibilities to aircraft manufacturers, specifically Boeing. This regulatory capture mechanism expanded the scope of 'organizational designees' and allowed manufacturers to essentially self-certify the safety of their aircraft designs. The program enabled Boeing to have 'in-house oversight for new planes in production and approval of major repairs and alterations', fundamentally transforming aviation safety oversight. While the FAA claimed this would increase efficiency by concentrating resources on the most critical safety matters, it created a profound conflict of interest that would later prove catastrophic in events like the Boeing 737 MAX certification.",
   "actors": [
     "Federal Aviation Administration",
     "Boeing Corporation",
@@ -13,19 +13,19 @@
   ],
   "sources": [
     {
-      "title": "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Project On Government Oversight (POGO)",
+      "title": "How the FAA Ceded Aviation Safety Oversight to Boeing",
+      "url": "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing"
     },
     {
-      "title": "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Federal Register",
+      "title": "Establishment of Organization Designation Authorization Program",
+      "url": "https://www.federalregister.gov/documents/2005/10/13/05-20470/establishment-of-organization-designation-authorization-program"
     },
     {
-      "title": "https://the-razors-edge.ghost.io/razors-edge-boeing-and-regulatory-ccapitalism/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "U.S. Department of Transportation - Office of Inspector General",
+      "title": "Weaknesses in FAA's Certification and Delegation Processes",
+      "url": "https://www.oig.dot.gov/sites/default/files/FAA Certification of 737 MAX Boeing II Final Report^2-23-2021.pdf"
     }
   ],
   "importance": 9,

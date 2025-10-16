@@ -12,14 +12,19 @@
   ],
   "sources": [
     {
-      "title": "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "European Parliament",
+      "title": "MH17 crash: MEPs call for solidarity with Ukraine and sanctions against Russia",
+      "url": "https://www.europarl.europa.eu/news/en/press-room/20140722IPR53223/mh17-crash-meps-call-for-solidarity-with-ukraine-and-sanctions-against-russia"
     },
     {
-      "title": "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "U.S. Department of the Treasury",
+      "title": "Ukraine-/Russia-related Sanctions Information",
+      "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions"
+    },
+    {
+      "outlet": "Council on Foreign Relations",
+      "title": "What MH17 Means for Russia",
+      "url": "https://www.cfr.org/interview/what-mh17-means-russia"
     }
   ],
   "importance": 8,
@@ -27,7 +32,8 @@
     "sanctions",
     "mh17",
     "financial-restrictions",
-    "energy-sector"
+    "energy-sector",
+    "ukraine-conflict"
   ],
   "status": "confirmed",
   "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757456676",

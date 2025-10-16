@@ -1,20 +1,22 @@
 {
   "date": "2001-10-04",
   "title": "Bush Authorizes NSA Warrantless Surveillance Program",
-  "summary": "President George W. Bush signed a secret executive order authorizing the National Security Agency to conduct warrantless surveillance of American citizens' phone calls and emails, bypassing the Foreign Intelligence Surveillance Court established by Congress. The program, codenamed 'Stellar Wind,' allowed the NSA to monitor communications without probable cause or judicial oversight, directly violating the Fourth Amendment and the Foreign Intelligence Surveillance Act. NSA Director Michael Hayden later testified that the program monitored 'thousands' of Americans. The authorization came just weeks after 9/11, exploiting national trauma to expand executive power beyond constitutional limits. When revealed in 2005, the program triggered a constitutional crisis over separation of powers and civil liberties.",
+  "summary": "President George W. Bush signed a secret executive order authorizing the National Security Agency (NSA) to conduct warrantless surveillance of American citizens' communications, codenamed 'Stellar Wind'. This program systematically bypassed the Foreign Intelligence Surveillance Court (FISC), allowing the NSA to monitor phone calls, emails, and internet activity without probable cause or judicial oversight. NSA Director Michael Hayden implemented the program, which monitored thousands of American citizens' communications without warrants. The authorization exploited post-9/11 national trauma to dramatically expand executive surveillance powers beyond constitutional limits. A 2006 federal court ruling deemed the program unconstitutional, finding it violated both the Foreign Intelligence Surveillance Act (FISA) and the Fourth Amendment's protections against unreasonable searches.",
   "importance": 10,
   "actors": [
     "George W. Bush",
-    "Michael Hayden",
+    "Michael Hayden", 
     "NSA",
-    "Alberto Gonzales"
+    "Alberto Gonzales",
+    "Jack Goldsmith",
+    "Anna Diggs Taylor"
   ],
   "tags": [
     "permanent-constitutional-transformation",
-    "constitutional-bypass-mechanisms",
+    "constitutional-bypass-mechanisms", 
     "systematic-accountability-destruction",
     "stellar-wind",
-    "executive-immunity-infrastructure",
+    "executive-immunity-infrastructure", 
     "oligarchic-immunity-establishment",
     "surveillance-judicial-coordination",
     "surveillance",
@@ -35,17 +37,31 @@
       "url": "https://www.pbs.org/wgbh/frontline/film/homefront/",
       "outlet": "PBS Frontline",
       "date": "2007-05-15"
+    },
+    {
+      "title": "Report on the President's Surveillance Program",
+      "url": "https://oig.justice.gov/reports/report-presidents-surveillance-program-unclassified-prepared-offices-inspectors-general",
+      "outlet": "U.S. Department of Justice Office of the Inspector General",
+      "date": "2009-07-10",
+      "type": "Official Government Report"
+    },
+    {
+      "title": "NSA Warrantless Surveillance Case (Taylor v. United States)",
+      "url": "https://en.wikipedia.org/wiki/NSA_warrantless_surveillance_(2001–2007)",
+      "outlet": "Federal Court Documentation",
+      "date": "2006-08-17",
+      "type": "Legal Challenge"
     }
   ],
   "id": "2001-10-04--bush-authorizes-nsa-warrantless-surveillance-progr",
   "created_from": "research-priority-RT-027-surveillance-judicial-coordination-constitutional-bypass",
   "created_date": "2025-09-06T04:09:01.647377",
   "category": "constitutional-crisis",
-  "verification_status": "documented",
+  "verification_status": "extensively-documented",
   "capture_lanes": [
     "Judicial Capture",
     "Regulatory Capture",
-    "Legislative Capture",
+    "Legislative Capture", 
     "Intelligence Penetration",
     "Executive Power Expansion"
   ]

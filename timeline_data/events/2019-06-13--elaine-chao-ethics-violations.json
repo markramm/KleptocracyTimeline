@@ -56,5 +56,13 @@
     "Regulatory Capture",
     "Legislative Capture",
     "Intelligence Penetration"
-  ]
+  ],
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:55.067599",
+    "corrected_by": "qa-agent-3-bulk-retry",
+    "validation_log_id": 143,
+    "corrections_applied": [
+      "Validation completed (corrections format: int)"
+    ]
+  }
 }

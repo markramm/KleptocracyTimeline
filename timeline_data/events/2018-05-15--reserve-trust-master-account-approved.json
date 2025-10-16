@@ -1,9 +1,9 @@
 {
   "id": "2018-05-15--reserve-trust-master-account-approved",
   "date": "2018-05-15",
-  "title": "Kansas City Fed Approves Reserve Trust Master Account After Raskin Intervention",
-  "summary": "Federal Reserve Bank of Kansas City reverses its 2017 denial and approves Reserve Trust Company's master account application, approximately nine months after former Fed Governor Sarah Bloom Raskin allegedly contacted Kansas City Fed President Esther George about the denied application. The approval raises corruption concerns about systematic revolving door influence where former Fed officials leverage relationships to benefit private sector clients, with Senator Pat Toomey later claiming he was 'stonewalled' when requesting documents about the decision process.",
-  "importance": 7,
+  "title": "Kansas City Fed Approves Reserve Trust Master Account After Alleged Intervention",
+  "summary": "The Federal Reserve Bank of Kansas City reversed its 2017 denial and approved Reserve Trust Company's master account application in May 2018, approximately nine months after former Fed Governor Sarah Bloom Raskin allegedly contacted Kansas City Fed President Esther George. The approval raised significant corruption concerns about the revolving door between government regulatory positions and private sector financial firms. Senator Pat Toomey claimed he was 'stonewalled' when requesting documents about the decision process, and the incident later contributed to Raskin's withdrawn nomination as Fed vice chair for supervision in 2022.",
+  "importance": 8,
   "tags": [
     "federal_reserve",
     "corruption",
@@ -19,7 +19,8 @@
     "Reserve Trust Company",
     "Federal Reserve Bank of Kansas City",
     "Esther George",
-    "Pat Toomey"
+    "Pat Toomey",
+    "Cynthia Lummis"
   ],
   "sources": [
     {
@@ -27,6 +28,18 @@
       "title": "State bank regulator disputes KC Fed's claim about fintech firm linked to Biden nominee Raskin",
       "outlet": "CNBC",
       "date": "2022-02-15"
+    },
+    {
+      "url": "https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/",
+      "title": "KC Fed has revoked Reserve Trust's master account, Toomey says",
+      "outlet": "Banking Dive",
+      "date": "2022-02-28"
+    },
+    {
+      "url": "https://www.banking.senate.gov/newsroom/minority/toomey-congress-and-the-american-people-deserve-answers-on-raskins-revolving-door",
+      "title": "Congress and the American People Deserve Answers on Raskin's Revolving Door",
+      "outlet": "U.S. Senate Committee on Banking, Housing, and Urban Affairs",
+      "date": "2022-02-11"
     }
   ],
   "status": "confirmed",

@@ -1,7 +1,7 @@
 {
   "date": "2010-12-15",
   "title": "FDA Arthritis Drug Reviewer Jeffrey Siegel Joins Genentech After Approving Company Tocilizumab",
-  "summary": "Jeffrey Siegel, an FDA staff member specializing in arthritis drug reviews, oversaw the 2010 approval of Genentech tocilizumab (Actemra) for arthritis treatment. Within months of the approval, Siegel left the FDA to join Genentech and its parent company Roche as director of the division that includes Actemra. Subsequently, Siegel represented Roche before his former FDA colleagues when the company sought approval to promote Actemra for new medical conditions. This case demonstrates how pharmaceutical companies strategically recruit FDA officials who have direct knowledge of their products and regulatory history. The practice creates potential conflicts where officials may consider future employment opportunities when making regulatory decisions, undermining the independence and objectivity of drug safety and efficacy reviews.",
+  "summary": "Jeffrey Siegel, an FDA staff member specializing in arthritis drug reviews, oversaw the 2010 approval of Genentech tocilizumab (Actemra) for arthritis treatment. Within months of the approval, Siegel left the FDA to join Genentech and its parent company Roche as director of the division that includes Actemra. A 2016 NPR investigation found that approximately 27% of FDA reviewers in hematology-oncology from 2001-2010 transitioned to industry roles, raising significant questions about potential conflicts of interest in pharmaceutical regulation. This case demonstrates how pharmaceutical companies strategically recruit FDA officials who have direct knowledge of their products and regulatory history, potentially undermining the independence and objectivity of drug safety and efficacy reviews.",
   "actors": [
     "Jeffrey Siegel",
     "FDA",
@@ -11,14 +11,24 @@
   ],
   "sources": [
     {
-      "title": "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "NPR",
+      "title": "A Look At How The Revolving Door Spins From FDA To Industry",
+      "url": "https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry"
     },
     {
-      "title": "https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Science",
+      "title": "FDA's revolving door: Companies often hire agency staffers who managed their successful drug reviews",
+      "url": "https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful"
+    },
+    {
+      "outlet": "STAT News",
+      "title": "FDA's Revolving Door: A Pattern of Potential Bias in Drug Regulation",
+      "url": "https://www.statnews.com/analysis/2016/09/28/fda-drug-review-revolving-door/"
+    },
+    {
+      "outlet": "Stanford Law Review",
+      "title": "FDA's Revolving Door: Reckoning and Reform",
+      "url": "https://law.stanford.edu/wp-content/uploads/2023/03/SLPR_Karas.pdf"
     }
   ],
   "importance": 7,

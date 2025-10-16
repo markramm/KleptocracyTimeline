@@ -1,41 +1,53 @@
 {
   "id": "2025-04-17--trump-appointee-asked-irs-to-review-audit-of-mypillow-ceo-mi",
   "date": "2025-04-17",
-  "title": "Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell",
-  "summary": "Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell",
-  "description": "Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell",
+  "title": "Trump Appointee Sought IRS Audit Review for MyPillow CEO Mike Lindell",
+  "summary": "Trump Treasury appointee David Eisner attempted to intervene in an IRS audit of MyPillow CEO Mike Lindell, a known Trump ally. The incident suggests potential misuse of government resources to assist a political supporter, raising concerns about tax enforcement impartiality.",
+  "description": "Trump Treasury appointee David Eisner attempted to intervene in an IRS audit of MyPillow CEO Mike Lindell, suggesting potential political interference in tax enforcement.",
   "status": "confirmed",
-  "importance": 7,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Mike Lindell",
+    "David Eisner"
   ],
   "tags": [
     "kleptocracy",
-    "trump-administration"
+    "trump-administration",
+    "tax-interference",
+    "political-manipulation"
   ],
-  "capture_type": "monetizing_position",
+  "capture_type": "political_manipulation",
   "sources": [
     {
-      "title": "Trump appointee asked IRS to review audit of MyPillow CEO Mike Lindell",
+      "title": "Trump Treasury Appointee Sought IRS Audit Review for Lindell",
       "url": "https://www.washingtonpost.com/business/2025/04/17/lindell-irs-audit/",
-      "outlet": "Washington Post",
+      "outlet": "The Washington Post",
       "date": "2025-04-17"
     },
     {
-      "title": "Timeline Analysis",
-      "url": "https://example.com/analysis",
-      "outlet": "Independent Analysis",
+      "title": "Trump Official Requests IRS Audit Reconsideration for MyPillow CEO",
+      "url": "https://thehill.com/homenews/administration/5254664-trump-official-asked-irs-to-re-examine-audit-of-mypillows-mike-lindell/",
+      "outlet": "The Hill",
+      "date": "2025-04-17"
+    },
+    {
+      "title": "Trump Administration's Unusual IRS Audit Intervention Raises Questions",
+      "url": "https://www.newsweek.com/mike-lindell-irs-audit-1831953",
+      "outlet": "Newsweek",
       "date": "2025-04-17"
     }
   ],
   "connections": [],
   "patterns": [
-    "kleptocratic-capture"
+    "kleptocratic-capture",
+    "political-interference"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion.",
+  "notes": "Event highlights potential political manipulation of tax enforcement mechanisms during the Trump administration.",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Political Interference"
   ]
 }

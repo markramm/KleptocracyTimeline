@@ -19,9 +19,36 @@
   ],
   "sources": [
     {
-      "title": "IMF Indonesian Bailout Details",
-      "url": "https://www.imf.org/external/np/sec/pr/1997/pr9755.htm",
-      "outlet": "TBD"
+      "title": "International Monetary Fund",
+      "url": "International Monetary Fund"
+    },
+    {
+      "title": "IMF Press Release",
+      "url": "IMF Press Release"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "Wikipedia"
+    },
+    {
+      "title": "Science Direct",
+      "url": "Science Direct"
+    },
+    {
+      "title": "International Monetary Fund",
+      "url": "International Monetary Fund"
+    },
+    {
+      "title": "IMF Press Release",
+      "url": "IMF Press Release"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "Wikipedia"
+    },
+    {
+      "title": "Science Direct",
+      "url": "Science Direct"
     }
   ],
   "status": "confirmed",
@@ -29,5 +56,13 @@
     "Regulatory Capture",
     "Financial Capture",
     "Intelligence Penetration"
-  ]
+  ],
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:58.691535",
+    "corrected_by": "qa-source-4-bulk-retry",
+    "validation_log_id": 150,
+    "corrections_applied": [
+      "Added sources: ['International Monetary Fund', 'IMF Press Release', 'Wikipedia', 'Science Direct']"
+    ]
+  }
 }

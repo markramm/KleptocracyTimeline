@@ -1,10 +1,11 @@
 {
   "date": "1973-10-01",
   "title": "Trilateral Commission Founded by David Rockefeller",
-  "summary": "David Rockefeller, chairman of Chase Manhattan Bank, founded the Trilateral Commission as a private organization to foster cooperation between the United States, Western Europe, and Japan. Working alongside Zbigniew Brzezinski (later Carter's national security advisor), Rockefeller established the Commission during a period of considerable discord among Western allies following Nixon's unilateral economic policies and the collapse of Bretton Woods. The Commission held its first meeting in Tokyo in October 1973, bringing together over 300 elite politicians, businesspeople, and intellectuals to coordinate policies across the three regions. The founding declaration emphasized 'growing interdependence as a fact of life' and the need for coordinated international policies. Critics viewed this as an effort to consolidate control over political, monetary, intellectual, and ecclesiastical power centers, with the Commission receiving funding from the Rockefeller, Ford, and Kettering foundations.",
+  "summary": "David Rockefeller, chairman of Chase Manhattan Bank, founded the Trilateral Commission in July 1973 as a private organization to foster cooperation between the United States, Western Europe, and Japan. The initiative was led by Rockefeller and Zbigniew Brzezinski, who became the commission's first full-time director. Emerging during a period of global economic uncertainty following the collapse of the Bretton Woods system, the commission held its inaugural international meeting in Tokyo in October 1973. The organization brought together approximately 60 elite members, including Jimmy Carter (then governor of Georgia), to develop coordinated international policies. Initially funded by the Rockefeller, Ford, and Kettering foundations, the Trilateral Commission aimed to address growing interdependence among industrialized democracies. Critics viewed the organization as an effort to consolidate influence across political, economic, and intellectual spheres, highlighting its potential for elite network formation.",
   "actors": [
     "David Rockefeller",
     "Zbigniew Brzezinski",
+    "Jimmy Carter",
     "Chase Manhattan Bank",
     "Trilateral Commission"
   ],
@@ -12,19 +13,28 @@
     "regulatory-capture",
     "corporate-influence",
     "international-coordination",
-    "banking-networks"
+    "banking-networks",
+    "global-governance"
   ],
   "importance": 8,
   "sources": [
     {
-      "title": "https://en.wikipedia.org/wiki/Trilateral_Commission",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Wikipedia",
+      "title": "Trilateral Commission",
+      "url": "https://en.wikipedia.org/wiki/Trilateral_Commission",
+      "date": "2025"
     },
     {
-      "title": "https://www.britannica.com/topic/Trilateral-Commission",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Britannica",
+      "title": "Trilateral Commission | History & Facts",
+      "url": "https://www.britannica.com/topic/Trilateral-Commission",
+      "date": "2025"
+    },
+    {
+      "outlet": "Rockefeller Archive Center",
+      "title": "Trilateral Commission Records",
+      "url": "https://dimes.rockarch.org/collections/2KaqPEr3JRZv5WBQsf9mKn",
+      "date": "2025"
     }
   ],
   "status": "confirmed",

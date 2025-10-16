@@ -1,27 +1,46 @@
 {
-  "id": "1600-01-01--pre-colonial-democratic-innovations",
-  "date": "1600-01-01",
-  "title": "Pre-Colonial Indigenous Democratic Governance Models",
-  "summary": "Indigenous societies across the Americas developed complex democratic systems predating European colonization, featuring sophisticated conflict resolution mechanisms, representation models, and collective decision-making processes that challenge modern Western democratic assumptions.",
-  "importance": 7,
-  "actors": [
-    "Indigenous Governance Networks",
-    "Tribal Councils"
-  ],
-  "sources": [
-    {
-      "title": "Traditional Democratic Innovations for Modern Governance",
-      "url": "academic research compilation",
-      "outlet": "Indigenous Governance Research Center"
-    }
-  ],
-  "tags": [
-    "indigenous-democracy",
-    "traditional-governance",
-    "democratic-innovation"
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Systematic Corruption"
-  ]
+    "id": "1600-01-01--pre-colonial-democratic-innovations",
+    "date": "1600-01-01",
+    "title": "Pre-Colonial Indigenous Democratic Governance Models",
+    "summary": "Indigenous societies across the Americas developed complex democratic systems predating European colonization, featuring sophisticated conflict resolution mechanisms, representation models, and collective decision-making processes that challenge modern Western democratic assumptions.",
+    "importance": 8,
+    "actors": [
+        "Indigenous Governance Networks",
+        "Tribal Councils",
+        "Haudenosaunee Confederacy",
+        "Puebloan Societies"
+    ],
+    "sources": [
+        {
+            "outlet": "Indigenous Governance Research Center",
+            "title": "Traditional Democratic Innovations for Modern Governance",
+            "url": "academic research compilation"
+        },
+        {
+            "outlet": "Frontiers in Political Science",
+            "title": "Keystone Institutions of Democratic Governance Across Indigenous North America",
+            "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.840049/full"
+        },
+        {
+            "outlet": "Nature: Humanities and Social Sciences Communications",
+            "title": "Deliberative Democracy and Historical Perspectives on American Indian/Alaska Native Political Decision-Making Practices",
+            "url": "https://www.nature.com/articles/s41599-020-0506-4"
+        },
+        {
+            "outlet": "National Bureau of Economic Research",
+            "title": "The Indigenous Roots of Representative Democracy",
+            "url": "https://www.nber.org/system/files/working_papers/w21193/w21193.pdf"
+        }
+    ],
+    "tags": [
+        "indigenous-democracy",
+        "traditional-governance",
+        "democratic-innovation",
+        "pre-colonial-democracy"
+    ],
+    "capture_lanes": [
+        "Systematic Corruption",
+        "Institutional Governance"
+    ],
+    "status": "validated"
 }

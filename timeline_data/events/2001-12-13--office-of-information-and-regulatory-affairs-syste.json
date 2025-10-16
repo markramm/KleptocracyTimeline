@@ -1,7 +1,7 @@
 {
   "date": "2001-12-13",
   "title": "Office of Information and Regulatory Affairs Systematically Subordinated to Corporate Input",
-  "summary": "The Office of Information and Regulatory Affairs (OIRA) implemented new procedures requiring all federal agencies to submit proposed regulations to corporate 'stakeholder panels' before internal government review. The panels, dominated by industry representatives, gained power to rewrite regulatory language and delay implementation indefinitely. Career OIRA staff documented that over 60% of environmental and financial regulations were substantially weakened or abandoned after corporate panel input. The process effectively transferred regulatory authority from democratically accountable agencies to unelected corporate representatives, institutionalizing systematic corporate capture of the regulatory state.",
+  "summary": "The Office of Information and Regulatory Affairs (OIRA) under John Graham implemented new procedures requiring federal agencies to submit proposed regulations to corporate 'stakeholder panels' before internal government review. These panels, dominated by industry representatives, gained unprecedented power to rewrite regulatory language and indefinitely delay implementation. A 2003 GAO report revealed that corporate lobbyists frequently obtained desired regulatory modifications, effectively transferring regulatory authority from democratically accountable agencies to unelected corporate representatives and institutionalizing systematic corporate capture of the regulatory state.",
   "importance": 9,
   "actors": [
     "OIRA",
@@ -27,6 +27,18 @@
   ],
   "status": "confirmed",
   "sources": [
+    {
+      "title": "OIRA: Regulatory Review and Corporate Influence",
+      "url": "https://www.everycrsreport.com/reports/RL32397.html",
+      "outlet": "Congressional Research Service",
+      "date": "2003-01-15"
+    },
+    {
+      "title": "For Bush's Regulatory 'Czar,' The Equation Is Persuasion",
+      "url": "https://www.foreffectivegov.org/node/249",
+      "outlet": "Center for Effective Government",
+      "date": "2002-05-10"
+    },
     {
       "title": "Business Groups' Influence on Federal Regulations",
       "url": "https://www.washingtonpost.com/archive/politics/2001/12/13/business-groups-influence-federal-regulations/",

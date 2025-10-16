@@ -9,7 +9,7 @@
     "Global Science Research",
     "University of Cambridge",
     "Facebook",
-    "Cambridge Analytica precursors"
+    "Cambridge Analytica"
   ],
   "tags": [
     "aleksandr_kogan",
@@ -21,20 +21,24 @@
   ],
   "sources": [
     {
-      "title": "Facebook-Cambridge Analytica Data Scandal",
-      "url": "https://en.wikipedia.org/wiki/Facebook\u2013Cambridge_Analytica_data_scandal",
-      "outlet": "Wikipedia",
-      "date": "2013-06-01"
+        "date": "2013-06-01",
+        "outlet": "Wikipedia",
+        "title": "Facebook-Cambridge Analytica Data Scandal",
+        "url": "https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal"
     },
     {
-      "title": "Cambridge Analytica Timeline",
-      "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html",
-      "outlet": "CNBC",
-      "date": "2018-04-10"
+        "date": "2018-04-10",
+        "outlet": "CNBC",
+        "title": "Cambridge Analytica Timeline",
+        "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html"
+    },
+    {
+        "date": "2019-07-24",
+        "outlet": "CBS News",
+        "title": "Aleksandr Kogan: The Link Between Cambridge Analytica and the Facebook Data Breach",
+        "url": "https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/"
     }
   ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Systematic Corruption"
-  ]
+  "capture_lanes": ["Systematic Corruption"],
+  "status": "confirmed"
 }

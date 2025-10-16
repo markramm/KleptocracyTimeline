@@ -1,42 +1,56 @@
 {
-  "id": "2025-05-14--u-s-ag-pam-bondi-sold-more-than-1-million-in-trump-media-sto",
-  "date": "2025-05-14",
-  "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs",
-  "summary": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares right before the president announced his \u201cliberation day\u201d reciprocal tariffs on most countries around the world, sending global markets into a tailspin",
-  "description": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares right before the president announced his \u201cliberation day\u201d reciprocal tariffs on most countries around the world, sending global markets into a tailspin",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
+    "Pam Bondi",
     "Trump Administration"
   ],
-  "tags": [
-    "media-control",
-    "government-contracts"
-  ],
-  "capture_type": "monetizing_position",
-  "sources": [
-    {
-      "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping ta",
-      "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs?utm_campaign=propublica-sprout&utm_content=1747259467&utm_medium=social&utm_source=threads",
-      "outlet": "ProPublica",
-      "date": "2025-05-14"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-05-14"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
   "capture_lanes": [
     "Media Capture & Control",
-    "Executive Power Expansion"
-  ]
+    "Executive Power Expansion",
+    "Regulatory Capture"
+  ],
+  "capture_type": "monetizing_position",
+  "connections": [
+    "Trump Media & Technology Group (TMTG)",
+    "Truth Social"
+  ],
+  "date": "2025-05-14",
+  "description": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares shortly after receiving them as consulting compensation, coinciding with Trump's major tariff announcement.",
+  "id": "2025-05-14--u-s-ag-pam-bondi-sold-more-than-1-million-in-trump-media-sto",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Stock sale occurred as part of previously agreed ethics divestment, but timing raises questions about insider information.",
+  "patterns": [
+    "kleptocratic-capture",
+    "revolving-door"
+  ],
+  "sources": [
+    {
+      "date": "2025-05-14",
+      "outlet": "ProPublica",
+      "title": "U.S. AG Pam Bondi sold more than $1 million in Trump Media stock the day Trump announced sweeping tariffs",
+      "url": "https://www.propublica.org/article/pam-bondi-trump-media-stock-tariffs"
+    },
+    {
+      "date": "2025-05-14",
+      "outlet": "CBS News",
+      "title": "Bondi sold at least $1 million in Trump Media shares on \"Liberation Day,\" documents show",
+      "url": "https://www.cbsnews.com/news/pam-bondi-sold-at-least-1-million-dollars-trump-media-shares-on-liberation-day/"
+    },
+    {
+      "date": "2025-05-14",
+      "outlet": "Bloomberg Law",
+      "title": "Attorney General Pam Bondi Discloses Sale of Trump Media Shares",
+      "url": "https://news.bloomberglaw.com/us-law-week/attorney-general-pam-bondi-discloses-sale-of-trump-media-shares"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Attorney General Pam Bondi sold between $1 million and $5 million worth of Trump Media shares on April 2, 2025, coinciding with Trump's major tariff announcement. The stock sale, part of an ethics divestment, occurred when Trump Media's stock was near its lowest point, dropping over 10% following the tariff declaration.",
+  "tags": [
+    "media-control",
+    "government-contracts",
+    "stock-trading",
+    "ethics-violation"
+  ],
+  "title": "U.S. AG Pam Bondi Sells Over $1 Million in Trump Media Shares Amid Tariff Announcement"
 }

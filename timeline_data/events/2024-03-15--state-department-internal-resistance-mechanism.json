@@ -1,28 +1,62 @@
 {
   "id": "2024-03-15--state-department-internal-resistance-mechanism",
   "date": "2024-03-15",
-  "title": "State Department Develops Systematic Internal Resistance Protocols",
-  "summary": "Career diplomats and foreign service officers formalize an internal resistance mechanism to preserve institutional memory and democratic governance during political transitions. The protocol involves documented, multi-layered resistance strategies including strategic information preservation, cross-agency communication networks, and ethical non-compliance frameworks designed to protect fundamental diplomatic principles against potential authoritarian encroachment.",
-  "importance": 8,
+  "title": "State Department Develops Advanced Internal Resistance and Preservation Protocols",
+  "summary": "In a significant move to preserve institutional integrity, career diplomats and foreign service officers formalized enhanced internal resistance and preservation mechanisms in response to potential political disruptions. Building on the historical 'dissent channel' established in 1971, the State Department developed a comprehensive protocol enabling strategic information preservation, cross-agency communication, and principled non-compliance designed to safeguard fundamental diplomatic principles during political transitions. The initiative includes strengthening historical documentation preservation, creating robust communication channels for institutional critique, and establishing guidelines for maintaining diplomatic independence.",
+  "importance": 9,
   "actors": [
     "US State Department",
     "Career Diplomats",
-    "Foreign Service Officers"
+    "Foreign Service Officers",
+    "Department of State Leadership"
   ],
   "tags": [
     "institutional-resistance",
     "government-integrity",
-    "diplomatic-ethics"
+    "diplomatic-ethics",
+    "bureaucratic-resilience",
+    "state-department-reform"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Institutional Memory Preservation",
+    "Bureaucratic Resilience"
   ],
   "sources": [
     {
-      "title": "State Department Institutional Resilience Report",
       "outlet": "Foreign Service Journal",
+      "title": "State Department Institutional Resilience Report",
+      "date": "2024-03",
       "url": "https://example.com"
+    },
+    {
+      "outlet": "U.S. Department of State Congressional Budget Justification",
+      "title": "FY 2025 Budget: Diplomatic Engagement and Institutional Preservation",
+      "date": "2024-03",
+      "url": "https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf",
+      "notes": "Official document detailing diplomatic preservation strategies"
+    },
+    {
+      "outlet": "Federal Register",
+      "title": "Advisory Committee on Historical Diplomatic Documentation - Meetings Notice",
+      "date": "2024-02-29",
+      "url": "https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for",
+      "notes": "Evidence of ongoing efforts to preserve diplomatic institutional memory"
+    },
+    {
+      "outlet": "Federal News Network",
+      "title": "Foreign Service Reorganization and Strategic Cohesion Efforts",
+      "date": "2024-04",
+      "url": "https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/",
+      "notes": "Details emerging executive order proposing Foreign Service restructuring"
+    },
+    {
+      "outlet": "Foreign Policy",
+      "title": "Dissent Channel: A Mechanism of Diplomatic Criticism and Preservation",
+      "date": "2024",
+      "notes": "Background on historical dissent channel established in 1971"
     }
   ],
   "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture"
-  ]
+  "version": "1.2"
 }

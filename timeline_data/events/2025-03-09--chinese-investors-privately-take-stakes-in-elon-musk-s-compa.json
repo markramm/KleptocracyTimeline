@@ -1,41 +1,55 @@
 {
   "id": "2025-03-09--chinese-investors-privately-take-stakes-in-elon-musk-s-compa",
   "date": "2025-03-09",
-  "title": "Chinese investors privately take stakes in Elon Musk\u2019s companies",
-  "summary": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest in Elon Musk\u2019s firms",
-  "description": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest in Elon Musk\u2019s firms",
-  "status": "confirmed",
-  "importance": 6,
-  "location": "Washington, D.C.",
+  "title": "Chinese Investors Secretly Invest Millions in Elon Musk's Private Companies",
+  "summary": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest over $30 million in Elon Musk's private companies, including SpaceX, xAI, and Neuralink. These investments are routed through Cayman Islands-registered entities to obscure direct ownership, raising significant national security concerns given SpaceX's status as a key U.S. military contractor.",
+  "importance": 8,
   "actors": [
-    "Donald Trump",
-    "Trump Administration"
+    "Elon Musk",
+    "Chinese Investors",
+    "SpaceX"
   ],
-  "tags": [
-    "regulatory-capture"
-  ],
-  "capture_type": "regulatory_capture",
+  "location": "Washington, D.C.",
   "sources": [
     {
-      "title": "Chinese investors privately take stakes in Elon Musk\u2019s companies",
-      "url": "https://www.ft.com/content/66857e1e-a217-4ddd-8332-d9f0f75aa459",
-      "outlet": "Financial Times",
+      "title": "Elon Musk's SpaceX Took Money Directly From Chinese Investors, Company Insider Testifies",
+      "outlet": "ProPublica",
+      "url": "https://www.propublica.org/article/elon-musk-spacex-china-investors-court-testimony",
       "date": "2025-03-09"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "China Investors Buy Up Stakes Worth $30mn in Musk's Firms: FT",
+      "outlet": "Asia Financial",
+      "url": "https://www.asiafinancial.com/china-investors-buy-up-stakes-worth-30m-in-musks-firms-ft",
+      "date": "2025-03-09"
+    },
+    {
+      "title": "Chinese investors quietly invest millions in Elon Musk's private ventures - report",
+      "outlet": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4418777-chinese-investors-elon-musk-private-companies",
       "date": "2025-03-09"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "tags": [
+    "regulatory-capture",
+    "foreign-investment",
+    "national-security",
+    "tech-companies"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
   "capture_lanes": [
     "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+    "Foreign Investment Penetration"
+  ],
+  "capture_type": "regulatory_capture",
+  "patterns": [
+    "kleptocratic-capture",
+    "foreign-capital-infiltration"
+  ],
+  "connections": [
+    "SpaceX military contracts",
+    "Cayman Islands investment vehicles"
+  ],
+  "status": "confirmed",
+  "notes": "Chinese investors are secretly funneling funds into Musk's companies through complex financial structures, raising national security concerns.",
+  "description": "Wealthy Chinese investors have secretly used special-purpose vehicles to invest over $30 million in Elon Musk's private companies, including SpaceX, xAI, and Neuralink."
 }

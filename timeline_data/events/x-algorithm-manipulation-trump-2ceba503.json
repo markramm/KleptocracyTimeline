@@ -4,19 +4,31 @@
   "date": "2024-07-13",
   "location": "Austin, TX, United States",
   "category": "information-warfare",
-  "importance": 8,
-  "summary": "Research revealed systematic algorithmic manipulation on X platform coinciding with Musk's endorsement of Donald Trump, demonstrating weaponization of social media infrastructure for political influence operations. Queensland University of Technology and Monash University researchers identified a \"change point\" on July 13, 2024, showing a 138.27% increase in views for Musk's account and algorithmic bias favoring Republican-leaning accounts. Studies found \"possible algorithmic prioritization or bias, positioning Musk's content favorably in terms of platform visibility and user engagement,\" with computational analysis revealing \"potential algorithmic bias on Twitter in favour of Republican Party supporters.\" By October 2024, the \"For You\" section contained \"twice as much pro-Trump content than pro-Harris\" for new accounts. Research using \"sock-puppet\" accounts confirmed partisan algorithmic manipulation, with \"tweets expressing right-leaning political bias see heightened amplification compared to the baseline model.\" This represented a systematic transformation of social media algorithms from neutral engagement optimization to targeted political warfare tools, with oligarch-controlled infrastructure directly manipulating information exposure for hundreds of millions of users globally.",
+  "importance": 9,
+  "summary": "Comprehensive research by Queensland University of Technology and Monash University revealed systematic algorithmic manipulation on X platform, demonstrating a deliberate transformation of social media infrastructure for political influence operations. A rigorous two-phase computational study using CUSUM statistical methods and Difference-in-Differences approach found a significant 'change point' on July 13, 2024 - the day Musk endorsed Trump - showing dramatic increases in engagement metrics.\n\nKey findings include:\n- 138.27% increase in views for Musk's account post-endorsement\n- Approximately 6.4 million additional views for Musk\n- Republican-leaning accounts gained 952,300 additional views\n- By October 2024, 'For You' section contained twice as much pro-Trump content compared to pro-Harris content\n\nThe research provided quantitative evidence of platform manipulation, transforming social media algorithms from neutral engagement optimization to targeted political warfare tools. Researchers Timothy Graham and Mark Andrejevic highlighted the potential for oligarch-controlled infrastructure to directly manipulate information exposure for millions of global users.",
   "actors": [
     "Elon Musk",
     "X Algorithm Engineers",
+    "Timothy Graham",
+    "Mark Andrejevic",
     "Queensland University of Technology Researchers",
+    "Monash University Researchers",
     "Donald Trump",
     "Republican Party"
   ],
   "sources": [
     "https://cybernews.com/news/x-algorithm-changed-musk-boost-right-wing/",
-    "https://arxiv.org/html/2411.01852v3"
+    "https://arxiv.org/html/2411.01852v3",
+    "https://www.techpolicy.press/new-research-points-to-possible-algorithmic-bias-on-x/",
+    "https://uk.finance.yahoo.com/news/elon-musk-appears-tweaked-x-205549349.html"
   ],
   "status": "confirmed",
-  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"
+  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
+  "tags": [
+    "information-warfare",
+    "social-media-manipulation",
+    "election-interference",
+    "algorithmic-bias",
+    "tech-oligarchy"
+  ]
 }

@@ -13,7 +13,7 @@
     "Americans for Prosperity",
     "ALEC"
   ],
-  "importance": 8,
+  "importance": 9,
   "tags": [
     "climate-denial",
     "regulatory-capture",
@@ -23,14 +23,19 @@
   ],
   "sources": [
     {
-      "title": "https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Greenpeace",
+      "title": "Koch Industries: Secretly Funding the Climate Denial Machine",
+      "url": "https://www.greenpeace.org/usa/koch-industries-secretly-fund/"
     },
     {
-      "title": "https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-climate-opposition-funding/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Greenpeace Research",
+      "title": "Koch Climate Opposition Funding",
+      "url": "https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-climate-opposition-funding/"
+    },
+    {
+      "outlet": "Scientific American",
+      "title": "Who Funds Contrariness on Climate Change?",
+      "url": "https://www.scientificamerican.com/article/who-funds-contrariness-on/"
     }
   ],
   "status": "confirmed",

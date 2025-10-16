@@ -1,39 +1,81 @@
 {
-  "id": "2002-09-18--whig-coordinates-fabricated-intelligence-briefings-for-congressional-leaders",
-  "date": "2002-09-18",
-  "title": "WHIG Coordinates Fabricated Intelligence Briefings for Congressional Leaders",
-  "description": "WHIG coordinates with CIA and Pentagon to provide congressional leaders with intelligence briefings containing systematically fabricated claims about Iraqi WMD capabilities and Al-Qaeda connections. The briefings deliberately omit all contradictory intelligence and dissenting analysis from the intelligence community.",
-  "significance": "Systematic deception of Congress undermines constitutional separation of powers and prevents informed legislative decision-making on matters of war and national security.",
-  "sources": [
-    {
-      "url": "https://www.salon.com/2004/06/16/chalabi_4/",
-      "title": "How Chalabi and the Pentagon's Office of Special Plans Cooked Intelligence",
-      "type": "investigative_report",
-      "outlet": "TBD"
-    }
-  ],
-  "tags": [
-    "whig",
-    "congressional_deception",
-    "intelligence_manipulation",
-    "separation_of_powers",
-    "fabricated_briefings"
-  ],
-  "importance": 9,
-  "category": "constitutional_crisis",
-  "verification_status": "documented",
-  "summary": "WHIG coordinates with CIA and Pentagon to provide congressional leaders with intelligence briefings containing systematically fabricated claims about Iraqi WMD capabilities and Al-Qaeda connections. The briefings deliberately omit all contradictory intelligence and dissenting analysis from the intelligence community.",
-  "actors": [
-    "White House Iraq Group",
-    "Dick Cheney",
-    "Karl Rove",
-    "Condoleezza Rice",
-    "Karen Hughes"
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Legislative Capture",
-    "Intelligence Penetration"
-  ]
+    "id": "2002-09-18--whig-coordinates-fabricated-intelligence-briefings-for-congressional-leaders",
+    "date": "2002-09-18",
+    "title": "White House Iraq Group Systematically Manipulates Congressional Intelligence Briefings",
+    "summary": "The White House Iraq Group (WHIG), led by Karl Rove and coordinating with top administration officials like Dick Cheney and Condoleezza Rice, conducted a deliberate campaign to mislead Congress about Iraq's weapons capabilities. They systematically fabricated intelligence claims about WMDs and al-Qaeda connections, omitting contradictory evidence and pressuring intelligence analysts. The Senate Intelligence Committee later found that these briefings significantly overstated threats not supported by underlying intelligence, representing a critical breach of constitutional oversight.",
+    "description": "WHIG coordinates with CIA and Pentagon to provide congressional leaders with intelligence briefings containing systematically fabricated claims about Iraqi WMD capabilities and Al-Qaeda connections. The briefings deliberately omit all contradictory intelligence and dissenting analysis from the intelligence community.",
+    "significance": "Systematic deception of Congress undermines constitutional separation of powers and prevents informed legislative decision-making on matters of war and national security.",
+    "actors": [
+        "Karl Rove",
+        "Dick Cheney",
+        "Condoleezza Rice",
+        "Lewis 'Scooter' Libby",
+        "Andrew Card",
+        "George W. Bush",
+        "Michael Gerson",
+        "Karen Hughes"
+    ],
+    "importance": 10,
+    "sources": [
+        {
+            "outlet": "Wikipedia",
+            "title": "White House Iraq Group",
+            "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+            "date": "2023"
+        },
+        {
+            "outlet": "Wikipedia",
+            "title": "Senate Report on Iraqi WMD Intelligence",
+            "url": "https://en.wikipedia.org/wiki/Senate_Report_on_Iraqi_WMD_Intelligence",
+            "date": "2023"
+        },
+        {
+            "outlet": "Salon",
+            "title": "How Chalabi and the Pentagon's Office of Special Plans Cooked Intelligence",
+            "url": "https://www.salon.com/2004/06/16/chalabi_4/",
+            "date": "2004-06-16"
+        }
+    ],
+    "tags": [
+        "whig",
+        "congressional_deception",
+        "intelligence_manipulation",
+        "separation_of_powers",
+        "fabricated_briefings",
+        "iraq-war",
+        "constitutional_crisis"
+    ],
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Legislative Capture",
+        "Intelligence Penetration",
+        "Media Manipulation"
+    ],
+    "status": "confirmed",
+    "category": "constitutional_crisis",
+    "intelligence_manipulation_details": {
+        "key_fabricated_claims": [
+            "Aluminum tubes for nuclear program",
+            "Uranium procurement from Niger",
+            "Al-Qaeda connections",
+            "Mobile biological weapons labs"
+        ],
+        "congressional_impact": {
+            "briefing_date": "2002-09-18",
+            "deliberate_omissions": [
+                "Contradictory intelligence reports",
+                "Dissenting analyst opinions",
+                "Uncertainty in source credibility"
+            ]
+        },
+        "senate_investigation_findings": {
+            "assessment": "Intelligence claims overstated and unsupported",
+            "pressure_mechanisms": [
+                "Post-9/11 threat amplification",
+                "Selective intelligence presentation",
+                "Systematic exclusion of contrary evidence"
+            ]
+        }
+    },
+    "verification_status": "extensively_documented"
 }

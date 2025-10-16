@@ -9,6 +9,8 @@
     "Citicorp",
     "Travelers Group",
     "Federal Reserve Board",
+    "Sandy Weill",
+    "John Reed",
     "Citigroup"
   ],
   "tags": [
@@ -23,14 +25,36 @@
   ],
   "sources": [
     {
-      "title": "Decline of the Glass\u2013Steagall Act",
-      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass\u2013Steagall_Act",
+      "title": "Decline of the Glass–Steagall Act",
+      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act",
       "outlet": "Wikipedia",
       "verified": true,
       "key_facts_confirmed": [
         "Citibank's 1998 affiliation with Salomon Smith Barney was permitted under Fed interpretation",
         "Merger exploited regulatory loopholes in Glass-Steagall enforcement",
         "Deal was $70 billion creating world's largest financial services company"
+      ]
+    },
+    {
+      "title": "Momentous encounter leads to merger",
+      "url": "https://www.citigroup.com/global/about-us/heritage/1998/momentous-encounter-leads-to-merger",
+      "outlet": "Citigroup Corporate History",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Sandy Weill and John Reed led the historic merger",
+        "Merger created the world's largest financial services conglomerate",
+        "Anticipated congressional changes to banking laws"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board Meeting Regarding Citicorp and Travelers Group",
+      "url": "https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_thursday.htm",
+      "outlet": "Federal Reserve",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Federal Reserve held public meetings about the merger",
+        "Conditional approval given in September 1998",
+        "Merger contingent on anticipated legislative changes"
       ]
     }
   ],

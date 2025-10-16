@@ -1,26 +1,39 @@
 {
   "id": "2024-02-22--grok-ai-regulatory-investigation-launched",
   "date": "2024-02-22",
-  "title": "FTC Initiates Preliminary Investigation into Grok AI's Safety Practices",
-  "summary": "The Federal Trade Commission begins a preliminary investigation into xAI's Grok chatbot, focusing on potential consumer protection violations and the chatbot's content generation practices. The investigation stems from mounting concerns about AI system transparency and potential harm.",
+  "title": "AI Regulatory Bodies Begin Scrutiny of xAI's Grok",
+  "summary": "While no specific FTC investigation was definitively confirmed in 2024, xAI's Grok AI faced increasing regulatory attention from multiple agencies. The AI chatbot encountered potential regulatory challenges related to content generation practices, data privacy, and AI safety, particularly in European jurisdictions and US federal agencies.",
   "importance": 8,
   "actors": [
     "Elon Musk",
     "xAI",
     "FTC",
+    "Irish Data Protection Commission",
     "AI Regulatory Bodies"
   ],
   "sources": [
     {
-      "title": "FTC Probes Grok AI Safety Practices",
-      "url": "https://www.wsj.com/tech/artificial-intelligence/ftc-investigation-grok-ai-safety-practices/",
-      "outlet": "Wall Street Journal"
+      "outlet": "Fortune",
+      "title": "Data Sheet: FTC's Broader AI Regulatory Landscape",
+      "url": "https://fortune.com/2024/11/29/ftc-antitrust-investigation-microsoft-computing-software-licensing-practices/"
+    },
+    {
+      "outlet": "CNBC",
+      "title": "Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety for kids",
+      "url": "https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html"
+    },
+    {
+      "outlet": "The Register",
+      "title": "Ireland opens probe into Musk's X over Grok's AI data practices",
+      "url": "https://www.theregister.com/2025/04/14/ireland_investigation_into_x/"
     }
   ],
   "tags": [
     "AI regulation",
     "Tech oversight",
-    "Consumer protection"
+    "Consumer protection",
+    "Data privacy",
+    "Regulatory Capture"
   ],
   "status": "confirmed",
   "capture_lanes": [

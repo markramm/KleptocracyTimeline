@@ -1,18 +1,30 @@
 {
   "date": "2025-01-30",
   "title": "CBP Journalist Watchlist and Border Surveillance Program Documented",
-  "summary": "Customs and Border Protection maintains secret database monitoring journalists movements and creates watchlist of \"Suspected Organizers, Coordinators, Instigators and Media\" including 10 journalists with detailed dossiers. Program enables systematic secondary screening at borders, electronic device searches, and movement tracking of press covering immigration and national security, demonstrating coordinated surveillance infrastructure.",
+  "summary": "Customs and Border Protection maintains secret database monitoring journalists movements and creates watchlist of \"Suspected Organizers, Coordinators, Instigators and Media\" including 10 journalists with detailed dossiers. Program enables systematic secondary screening at borders, electronic device searches, and movement tracking of press covering immigration and national security, demonstrating coordinated surveillance infrastructure. The Committee to Protect Journalists has issued a safety advisory warning about increased surveillance and travel restrictions, highlighting the erosion of press freedom at U.S. borders. The Electronic Frontier Foundation recommends journalists take extensive precautions when crossing borders, including device encryption, minimal data exposure, and preparedness for potential searches.",
   "actors": [
     "CBP",
     "Targeted Journalists",
     "Immigration Advocates",
-    "DHS"
+    "DHS",
+    "Committee to Protect Journalists (CPJ)",
+    "Electronic Frontier Foundation (EFF)"
   ],
   "sources": [
     {
       "title": "How Trump's first administration threatened press freedom at the border",
       "url": "https://www.rcfp.org/trump-press-freedom-border/",
       "outlet": "Reporters Committee for Freedom of the Press"
+    },
+    {
+      "title": "CPJ issues safety advisory for journalists traveling to the United States",
+      "url": "https://cpj.org/2025/04/cpj-issues-safety-advisory-for-journalists-traveling-to-the-united-states/",
+      "outlet": "Committee to Protect Journalists"
+    },
+    {
+      "title": "A Journalist Security Checklist: Preparing Devices for Travel Through a US Border",
+      "url": "https://www.eff.org/deeplinks/2025/06/journalist-security-checklist-preparing-devices-travel-through-us-border",
+      "outlet": "Electronic Frontier Foundation"
     }
   ],
   "importance": 8,
@@ -21,7 +33,8 @@
     "journalist_watchlist",
     "border_surveillance",
     "systematic_monitoring",
-    "press_intimidation"
+    "press_intimidation",
+    "democratic_erosion"
   ],
   "status": "confirmed",
   "id": "2025-01-30--cbp-journalist-watchlist-border-surveillance",

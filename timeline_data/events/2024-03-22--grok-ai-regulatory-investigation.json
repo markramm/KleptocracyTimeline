@@ -1,29 +1,36 @@
 {
-  "id": "2024-03-22--grok-ai-regulatory-investigation",
-  "date": "2024-03-22",
-  "title": "FTC Initiates Preliminary Inquiry into Grok AI Safety Practices",
-  "summary": "The Federal Trade Commission (FTC) launched a preliminary investigation into xAI's Grok chatbot, focusing on its content generation practices and potential risks to public safety. The inquiry stems from concerns raised by AI ethics experts about the model's lack of robust content filtering mechanisms.",
-  "importance": 8,
-  "actors": [
-    "FTC",
-    "xAI",
-    "Elon Musk"
-  ],
-  "tags": [
-    "AI regulation",
-    "Tech oversight",
-    "Government investigation"
-  ],
-  "sources": [
-    {
-      "title": "FTC Begins Probe of Grok AI Safety",
-      "url": "https://www.ftc.gov/press-releases/ai-safety-investigation",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Financial Capture"
-  ]
+    "id": "2024-03-22--grok-ai-open-source-release",
+    "date": "2024-03-22",
+    "title": "xAI Announces Open Source Release of Grok AI",
+    "summary": "xAI, founded by Elon Musk, announced plans to open source its Grok AI chatbot in March 2024. This followed ongoing legal disputes with OpenAI and amid broader industry discussions about AI transparency and development practices.",
+    "importance": 6,
+    "actors": [
+        "Elon Musk",
+        "xAI",
+        "Grok AI"
+    ],
+    "sources": [
+        {
+            "outlet": "TechCrunch",
+            "title": "Elon Musk to open-source AI chatbot Grok this week",
+            "url": "https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/",
+            "date": "2024-03-11"
+        },
+        {
+            "outlet": "Fortune",
+            "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
+            "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
+            "date": "2025-07-17"
+        }
+    ],
+    "tags": [
+        "AI development",
+        "Open source technology",
+        "Tech industry transparency"
+    ],
+    "capture_lanes": [
+        "Technological Capture",
+        "Innovation Infrastructure"
+    ],
+    "status": "confirmed"
 }

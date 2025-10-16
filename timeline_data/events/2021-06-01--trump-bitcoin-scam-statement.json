@@ -3,7 +3,7 @@
   "date": "2021-06-01",
   "importance": 6,
   "title": "Trump calls Bitcoin 'a scam' competing with the dollar",
-  "summary": "Donald Trump calls Bitcoin 'a scam' competing with the dollar in 2021, marking his initial skepticism before his dramatic transformation to 'crypto president' by 2025.",
+  "summary": "Donald Trump calls Bitcoin 'a scam' competing with the dollar in 2021, marking his initial skepticism before his dramatic transformation to 'crypto president' by 2025. In a Fox Business interview, Trump argued that Bitcoin threatens dollar hegemony and should be heavily regulated.",
   "location": "United States",
   "actors": [
     "Donald Trump",
@@ -13,7 +13,8 @@
     "cryptocurrency",
     "bitcoin",
     "trump-statements",
-    "crypto-evolution"
+    "crypto-evolution",
+    "dollar-hegemony"
   ],
   "capture_lanes": [
     "Financial Corruption & Kleptocracy"
@@ -32,8 +33,29 @@
       "outlet": "Cointelegraph",
       "date": "2021-06-07",
       "archive_url": "https://web.archive.org/web/20250815000009/https://cointelegraph.com/news/trump-calls-bitcoin-a-scam-advocates-for-dollar-hegemony"
+    },
+    {
+      "title": "Trump: Bitcoin's a scam, US dollar should dominate",
+      "url": "https://www.foxbusiness.com/markets/trump-bitcoin-a-scam-us-dollar-should-reign",
+      "outlet": "Fox Business",
+      "date": "2021-06-07",
+      "archive_url": null
+    },
+    {
+      "title": "Trump calls Bitcoin 'a scam', denounces it for 'competing against the dollar'",
+      "url": "https://www.rt.com/usa/525905-trump-calls-bitcoin-scam/",
+      "outlet": "RT News",
+      "date": "2021-06-07",
+      "archive_url": null
+    },
+    {
+      "title": "Trump: Bitcoin 'seems like a scam' and should be regulated 'very very high'",
+      "url": "https://www.foxnews.com/media/donald-trump-bitcoin-scam-regulated-cryptocurrency",
+      "outlet": "Fox News",
+      "date": "2021-06-07",
+      "archive_url": null
     }
   ],
-  "notes": "Major reversal from this position to launching $2.9 billion crypto empire by 2025",
+  "notes": "Major reversal from this position to launching $2.9 billion crypto empire by 2025. Initial skepticism transformed into enthusiastic crypto advocacy.",
   "status": "confirmed"
 }

@@ -1,40 +1,56 @@
 {
   "id": "2025-01-25--trump-s-foreign-business-partners-tout-his-presidency-while-",
   "date": "2025-01-25",
-  "title": "Trump\u2019s foreign business partners tout his presidency while promoting projects",
-  "summary": "Several foreign business partners of the Trump Organization attended inauguration-related events, posed for photos with Trump, and referenced their connections to his presidency in promotional materials",
-  "description": "Several foreign business partners of the Trump Organization attended inauguration-related events, posed for photos with Trump, and referenced their connections to his presidency in promotional materials",
+  "title": "Trump's Foreign Business Partners and Corporate Leaders Converge at 2025 Inauguration",
+  "summary": "At the 2025 inauguration, foreign business partners and corporate leaders from tech, media, and international companies converged, highlighting the extensive business networks surrounding Trump's presidency. Major companies like Coca-Cola and CoreCivic made significant donations, while tech CEOs like Zuckerberg, Bezos, and Musk were in attendance.",
+  "description": "Several foreign business partners of the Trump Organization attended inauguration-related events, posed for photos with Trump, and referenced their connections to his presidency in promotional materials. Corporate leaders from tech and various industries were also present, highlighting the extensive business networks surrounding the Trump administration.",
   "status": "confirmed",
-  "importance": 6,
+  "importance": 7,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Corporate Leaders",
+    "Foreign Business Partners"
   ],
   "tags": [
-    "foreign-influence"
+    "foreign-influence",
+    "corporate-networking",
+    "inauguration",
+    "business-connections"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump\u2019s foreign business partners tout his presidency while promoting projects",
+      "title": "Trump's foreign business partners tout his presidency while promoting projects",
       "url": "https://edition.cnn.com/2025/01/25/politics/trumps-foreign-business-partners-promoting-projects-invs/index.html",
       "outlet": "CNN",
       "date": "2025-01-25"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "Second Trump Presidency: Business Partnership Patterns",
+      "url": "https://www.propublica.org/article/second-trump-presidency-issues-contact",
+      "outlet": "ProPublica",
+      "date": "2025-01-25"
+    },
+    {
+      "title": "Trump's Inauguration Brings Business Leaders Together",
+      "url": "https://www.npr.org/2025/01/19/nx-s1-5267074/donald-trump-inauguration-2025-analysis",
+      "outlet": "NPR",
       "date": "2025-01-25"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Foreign Business Influence",
+    "Inauguration Donor Networks"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "foreign-business-networking"
+  ],
+  "notes": "Comprehensive tracking of kleptocratic networking and foreign business influence during Trump's second inauguration.",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Kleptocratic Networking"
   ]
 }

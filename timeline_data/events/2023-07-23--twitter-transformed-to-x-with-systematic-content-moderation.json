@@ -1,38 +1,49 @@
 {
-  "id": "2023-07-23--twitter-transformed-to-x-with-systematic-content-moderation",
-  "title": "Twitter Transformed to X with Systematic Content Moderation Rollback and Political Weaponization",
-  "date": "2023-07-23",
-  "location": "San Francisco, CA, United States",
-  "category": "information-warfare",
-  "importance": 8,
-  "summary": "Under Musk's control, Twitter was rebranded to X and underwent systematic dismantling of content moderation systems, transforming the platform from a \"global town square\" into what researchers describe as oligarchic-controlled information warfare infrastructure. Musk \"vastly decreased the extent to which X's content moderation rules limit the spread of misinformation,\" with the Center for Countering Digital Hate finding that \"Twitter fails to act on 99% of hate posted by Twitter Blue subscribers.\" Research showed that \"tweet engagement for accounts active in far-right networks outstripped any increased engagement for general user accounts,\" with \"contentious actors on the platform see a sizeable boost in post engagement.\" The platform became what former Twitter election integrity director Eddie Perez characterized as \"a textbook example of the influence that I think it's fair to say an oligarch can have in a way that really is impactful to the entire body politic.\" Academic researchers noted that \"the information environment on X is becoming more and more oligarchical when it comes to a few accounts controlling the supply of news,\" marking a fundamental shift from distributed social media discourse to centralized oligarch-controlled narrative management.",
-  "actors": [
-    "Elon Musk",
-    "Twitter/X Platform",
-    "Center for Countering Digital Hate",
-    "Eddie Perez",
-    "Far-right Network Actors"
-  ],
-  "sources": [
-    {
-      "title": "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
-  "tags": [
-    "needs_tags"
-  ],
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Intelligence Penetration",
-    "Electoral Manipulation"
-  ]
+    "id": "2023-07-23--twitter-transformed-to-x-with-systematic-content-moderation",
+    "date": "2023-07-23",
+    "title": "Twitter Transformed to X with Systematic Content Moderation Rollback and Political Weaponization",
+    "summary": "Under Musk's control, Twitter was rebranded to X and underwent systematic dismantling of content moderation systems, transforming the platform from a \"global town square\" into an oligarchic-controlled information warfare infrastructure. The Center for Countering Digital Hate (CCDH) found that 98% of 200 flagged racist tweets remained on the platform after two weeks, highlighting a dramatic reduction in content moderation effectiveness.\n\nKey impacts included:\n- 80% reduction in trust and safety engineering staff\n- Significant boost in engagement for far-right network accounts\n- Weakened platform policies against hate speech and misinformation\n\nResearchers characterized the platform's transformation as creating an \"oligarchical\" information environment controlled by a few influential accounts.",
+    "importance": 8,
+    "actors": [
+        "Elon Musk",
+        "Twitter/X Platform",
+        "Center for Countering Digital Hate",
+        "Eddie Perez",
+        "Far-right Network Actors"
+    ],
+    "location": "San Francisco, CA, United States",
+    "tags": [
+        "social-media",
+        "media-capture",
+        "information-warfare",
+        "platform-manipulation",
+        "content-moderation"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Intelligence Penetration",
+        "Electoral Manipulation"
+    ],
+    "sources": [
+        {
+            "outlet": "Fortune",
+            "title": "The anti-hate group sued by Elon Musk released a new report on X's content moderation",
+            "url": "https://fortune.com/2023/11/14/center-for-countering-digital-hate-new-report-racist-tweets-x-after-elon-musk-lawsuit/",
+            "date": "2023-11-14"
+        },
+        {
+            "outlet": "TIME",
+            "title": "Musk's X Sues N.Y. in Latest Battle Over Content Moderation",
+            "url": "https://time.com/7295402/elon-musk-x-new-york-lawsuit-free-speech-content-moderation/",
+            "date": "2024-03-25"
+        },
+        {
+            "outlet": "PBS News",
+            "title": "Musk threatens to sue researchers documenting the rise in hateful tweets",
+            "url": "https://www.pbs.org/newshour/economy/musk-threatens-to-sue-researchers-documenting-the-rise-in-hateful-tweets",
+            "date": "2024-02-06"
+        }
+    ],
+    "status": "confirmed",
+    "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"
 }

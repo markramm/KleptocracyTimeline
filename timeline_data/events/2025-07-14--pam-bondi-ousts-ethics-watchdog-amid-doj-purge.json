@@ -1,43 +1,71 @@
 {
   "id": "2025-07-14--pam-bondi-ousts-ethics-watchdog-amid-doj-purge",
   "date": "2025-07-14",
-  "title": "Pam Bondi ousts ethics watchdog amid DOJ purge",
-  "summary": "Attorney General Pam Bondi fired the Department of Justice ethics director\u2013who was in charge of guiding officials on how to navigate conflicts of interest",
-  "description": "Attorney General Pam Bondi fired the Department of Justice ethics director\u2013who was in charge of guiding officials on how to navigate conflicts of interest",
-  "status": "confirmed",
-  "importance": 8,
+  "title": "Pam Bondi ousts DOJ ethics director Joseph Tirrell amid mass prosecutor dismissal",
+  "summary": "Attorney General Pam Bondi fired Joseph Tirrell, the Department of Justice's top ethics director responsible for advising senior leadership on federal employee ethics, as part of a broader personnel purge affecting investigators of Trump-related cases.",
+  "description": "Joseph Tirrell, who had served as the DOJ's top ethics official for over 15 years, was fired 'effective immediately' in a brief memo citing 'Article II of the United States Constitution', coinciding with the dismissal of approximately 20 prosecutors involved in Trump-related cases.",
+  "importance": 9,
   "location": "Washington, D.C.",
   "actors": [
+    "Pam Bondi",
+    "Joseph Tirrell",
     "Donald Trump",
-    "Trump Administration"
+    "Jack Smith",
+    "Todd Blanche"
   ],
   "tags": [
     "regulatory-capture",
     "ethics-violations",
-    "justice-weaponization"
+    "justice-weaponization",
+    "doj-purge",
+    "trump-administration",
+    "institutional-capture"
   ],
-  "capture_type": "personnel_rewiring",
-  "sources": [
-    {
-      "title": "Pam Bondi ousts ethics watchdog amid DOJ purge",
-      "url": "https://www.axios.com/2025/07/14/pam-bondi-fires-ethics-chief-doj-purge",
-      "outlet": "Axios",
-      "date": "2025-07-14"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-07-14"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
   "capture_lanes": [
     "Regulatory Capture",
     "Intelligence Penetration"
+  ],
+  "status": "confirmed",
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "date": "2025-07-14",
+      "outlet": "Law & Crime",
+      "title": "Hereby Terminated: AG Pam Bondi Just Sent Top DOJ Ethics Lawyer Packing",
+      "url": "https://lawandcrime.com/high-profile/hereby-terminated-ag-pam-bondi-just-sent-top-doj-ethics-lawyer-packing-and-he-had-a-lot-to-say-about-it/"
+    },
+    {
+      "date": "2025-07-14",
+      "outlet": "ABC News",
+      "title": "Attorney General Pam Bondi fires top Justice Department ethics official",
+      "url": "https://abcnews.go.com/US/attorney-general-pam-bondi-fires-top-justice-department/story?id=123746598"
+    },
+    {
+      "date": "2025-07-14",
+      "outlet": "Axios",
+      "title": "Pam Bondi ousts ethics watchdog amid DOJ purge",
+      "url": "https://www.axios.com/2025/07/14/pam-bondi-fires-ethics-chief-doj-purge"
+    }
+  ],
+  "connections": [
+    "Trump-related investigations",
+    "DOJ leadership changes"
+  ],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking. Detailed examination reveals a systemic effort to remove ethics oversight during ongoing Trump investigations.",
+  "new": [
+    "regulatory-capture",
+    "ethics-violations",
+    "justice-weaponization",
+    "doj-purge",
+    "trump-administration",
+    "institutional-capture"
+  ],
+  "old": [
+    "regulatory-capture",
+    "ethics-violations",
+    "justice-weaponization"
   ]
 }

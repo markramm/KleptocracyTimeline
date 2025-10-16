@@ -1,34 +1,59 @@
 {
   "id": "2025-05-05--judicial-intimidation-congressional-hearing",
   "date": "2025-05-05",
-  "title": "Congressional Hearing Exposes Judicial Intimidation Tactics",
-  "summary": "A special congressional hearing investigated systematic attempts to intimidate federal judges, including threats, public vilification, and potential retaliatory actions. The hearing highlighted the unprecedented strain on judicial independence during the 2025 constitutional crisis.",
-  "importance": 8,
+  "title": "Congressional Hearing Exposes Systematic Judicial Intimidation Tactics",
+  "summary": "The Senate Judiciary Committee held a critical hearing investigating unprecedented threats to judicial independence in 2025, documenting rising levels of violence, intimidation, disinformation, and defiance of lawful court judgments. Testimony revealed a disturbing pattern of physical threats, including bomb threats against judges' families, social media harassment, and attempts to impeach judges who issue rulings against the administration's agenda. According to the U.S. Marshals Service, over 197 federal judges were threatened between March and May, with more than 600 social media posts targeting judges' families viewed over 200 million times.",
+  "importance": 9,
   "actors": [
+    "Senate Judiciary Committee",
+    "Chief Justice John Roberts",
+    "U.S. Marshals Service",
+    "Supreme Court Justices",
+    "Dick Durbin",
+    "Sheldon Whitehouse",
+    "Stephen Vladeck",
     "Federal Judiciary",
     "Congress",
-    "Department of Justice",
-    "U.S. Marshals Service"
+    "Department of Justice"
+  ],
+  "sources": [
+    {
+      "outlet": "NPR",
+      "title": "Judges Threatened with Impeachment, Bombs for Ruling Against Trump Agenda",
+      "url": "https://www.npr.org/2025/03/13/nx-s1-5316340/threats-judges-trump",
+      "date": "2025-03-13"
+    },
+    {
+      "outlet": "Fix the Court",
+      "title": "An Attack on All of Us: Judges Condemn Threats to Judicial Independence",
+      "url": "https://fixthecourt.com/2025/04/an-attack-on-all-of-us-judges-condemn-threats-to-judicial-independence/",
+      "date": "2025-04"
+    },
+    {
+      "outlet": "Senate Judiciary Committee Press Release",
+      "title": "Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S. Marshals Service On Escalating Threats Against Judges",
+      "url": "https://www.judiciary.senate.gov/press/dem/releases/whitehouse-leads-senate-judiciary-committee-democrats-in-new-letter-to-us-marshals-service-on-escalating-marshals-service-on-escalating-threats-against-judges",
+      "date": "2025-04-11"
+    },
+    {
+      "outlet": "Senate Judiciary Democrats",
+      "title": "Durbin Demands DOJ, FBI Investigation Into Spiking Threats Against Federal Judges",
+      "url": "https://www.judiciary.senate.gov/press/dem/releases/durbin-demands-doj-fbi-investigation-into-spiking-threats-against-federal-judges",
+      "date": "2025-05"
+    }
   ],
   "tags": [
     "judicial-intimidation",
     "constitutional-crisis",
     "judicial-independence",
-    "congressional-oversight"
+    "congressional-oversight",
+    "threats-to-democracy"
   ],
-  "sources": [
-    {
-      "title": "Judicial Oversight Report",
-      "url": "https://example.com/judicial-intimidation-hearing",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
   "capture_lanes": [
     "Judicial Capture",
     "Regulatory Capture",
     "Legislative Capture",
-    "Financial Capture",
     "Intelligence Penetration"
-  ]
+  ],
+  "status": "confirmed"
 }

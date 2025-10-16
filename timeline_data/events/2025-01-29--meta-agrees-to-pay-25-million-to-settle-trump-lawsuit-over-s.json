@@ -1,42 +1,56 @@
 {
-  "id": "2025-01-29--meta-agrees-to-pay-25-million-to-settle-trump-lawsuit-over-s",
-  "date": "2025-01-29",
-  "title": "Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts",
-  "summary": "Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection",
-  "description": "Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Mark Zuckerberg",
+    "Meta Corporation"
   ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Corporate Political Influence"
+  ],
+  "capture_type": "monetizing_position",
+  "connections": [
+    "January 6 Capitol Attack",
+    "Social Media Platform Censorship"
+  ],
+  "date": "2025-01-29",
+  "description": "Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection, with most of the funds going to his presidential library",
+  "id": "2025-01-29--meta-agrees-to-pay-25-million-to-settle-trump-lawsuit-over-s",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Settlement highlights complex media capture dynamics and corporate political appeasement",
+  "patterns": [
+    "kleptocratic-capture",
+    "media-manipulation"
+  ],
+  "sources": [
+    {
+      "date": "2025-01-29",
+      "outlet": "NPR",
+      "title": "Meta agrees to pay $25 million to settle Trump's lawsuit over Facebook, Instagram suspensions",
+      "url": "https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions"
+    },
+    {
+      "date": "2025-01-29",
+      "outlet": "CNBC",
+      "title": "Meta agrees to pay $25 million in Trump lawsuit settlement over suspended accounts",
+      "url": "https://www.cnbc.com/2025/01/29/meta-agrees-to-pay-25-million-in-trump-lawsuit-settlement-over-suspended-accounts.html"
+    },
+    {
+      "date": "2025-01-29",
+      "outlet": "Al Jazeera",
+      "title": "Meta agrees $25m payout to Trump over suspended accounts",
+      "url": "https://www.aljazeera.com/news/2025/1/30/meta-agrees-25m-payout-to-trump-over-suspended-accounts"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Meta settled a lawsuit brought by Donald Trump for $25 million over his social media account suspensions following the January 6 Capitol attack. Most of the settlement, approximately $22 million, will go to Trump's presidential library. Critics like Senator Elizabeth Warren view the settlement as a form of corporate appeasement.",
   "tags": [
     "media-control",
     "government-contracts",
-    "justice-weaponization"
+    "justice-weaponization",
+    "corporate-political-influence",
+    "first-amendment"
   ],
-  "capture_type": "monetizing_position",
-  "sources": [
-    {
-      "title": "Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts",
-      "url": "https://www.nbcnews.com/tech/tech-news/meta-agrees-pay-25-million-settle-trump-lawsuit-rcna189918",
-      "outlet": "NBC News",
-      "date": "2025-01-29"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-01-29"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Media Capture & Control"
-  ]
+  "title": "Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts"
 }

@@ -2,7 +2,7 @@
   "id": "1985-01-01--promis-software-global-intelligence-network-establishment",
   "date": "1985-01-01",
   "title": "PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell Distribution",
-  "summary": "The systematic distribution of backdoored PROMIS software through Robert Maxwell and other intermediaries creates an unprecedented global surveillance network, with intelligence agencies in Zimbabwe, South Africa, Guatemala, Colombia, Nicaragua, Bulgaria, Egypt, East Germany, Poland, Belgium, Turkey, Thailand, Australia, New Zealand, China, and the Soviet KGB unknowingly using compromised software. The Soviets and Eastern European allies use PROMIS to spy on the U.S. State Department and 170 American embassies worldwide, while Western intelligence simultaneously monitors their activities through the software's hidden backdoors, creating a complex web of mutual surveillance and counter-intelligence operations.",
+  "summary": "The systematic distribution of backdoored PROMIS software through Robert Maxwell and other intermediaries created an unprecedented global surveillance network. Intelligence agencies in multiple countries, including Zimbabwe, South Africa, Guatemala, Colombia, Nicaragua, Bulgaria, Egypt, East Germany, Poland, Belgium, Turkey, Thailand, Australia, New Zealand, China, and the Soviet KGB, unknowingly used compromised software. A 1992 House Judiciary Committee investigation found that U.S. government officials permitted pirated versions of PROMIS to be distributed for personal gain and intelligence objectives, enabling a complex web of mutual surveillance and counter-intelligence operations targeting diplomatic and government networks worldwide.",
   "importance": 9,
   "location": "Global",
   "actors": [
@@ -10,7 +10,8 @@
     "US Intelligence",
     "Soviet KGB",
     "Multiple intelligence agencies",
-    "State Department"
+    "State Department",
+    "House Judiciary Committee"
   ],
   "tags": [
     "PROMIS software",
@@ -19,11 +20,13 @@
     "backdoors",
     "mutual espionage",
     "State Department",
-    "embassy surveillance"
+    "embassy surveillance",
+    "software espionage"
   ],
   "capture_lanes": [
     "Surveillance Infrastructure",
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Technological Espionage"
   ],
   "sources": [
     {
@@ -36,6 +39,30 @@
         "PROMIS distributed to multiple intelligence agencies globally",
         "Soviets used PROMIS to spy on State Department and 170 embassies",
         "Created complex web of mutual surveillance operations"
+      ]
+    },
+    {
+      "title": "Memo Shows CIA Was Offered PROMIS Software in 1981",
+      "url": "https://www.muckrock.com/news/archives/2018/dec/18/promis-81-memo/",
+      "outlet": "MuckRock",
+      "date": "2018-12-18",
+      "verified": true,
+      "key_facts_confirmed": [
+        "CIA was aware of PROMIS software as early as 1981",
+        "Evidence of early intelligence community interest in software",
+        "Confirms potential for technological espionage"
+      ]
+    },
+    {
+      "title": "The Inslaw Affair: House Judiciary Committee Investigation",
+      "url": "https://www.archives.gov/files/research/kavanaugh/releases/docid-70105136.pdf",
+      "outlet": "U.S. House Judiciary Committee",
+      "date": "1992-09-14",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Government officials permitted PROMIS software distribution",
+        "Software used for intelligence and foreign policy objectives",
+        "Detailed investigation of software misappropriation"
       ]
     }
   ],

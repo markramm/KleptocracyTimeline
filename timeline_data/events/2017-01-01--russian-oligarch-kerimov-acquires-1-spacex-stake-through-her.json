@@ -11,14 +11,36 @@
   "importance": 9,
   "sources": [
     {
-      "title": "The Moscow Times",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "Bloomberg",
+      "url": "Bloomberg"
     },
     {
       "title": "U.S. Department of Treasury",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "url": "U.S. Department of Treasury"
+    },
+    {
+      "title": "The Moscow Times",
+      "url": "The Moscow Times"
+    },
+    {
+      "title": "Kyiv Independent",
+      "url": "Kyiv Independent"
+    },
+    {
+      "title": "Bloomberg",
+      "url": "Bloomberg"
+    },
+    {
+      "title": "U.S. Department of Treasury",
+      "url": "U.S. Department of Treasury"
+    },
+    {
+      "title": "The Moscow Times",
+      "url": "The Moscow Times"
+    },
+    {
+      "title": "Kyiv Independent",
+      "url": "Kyiv Independent"
     }
   ],
   "tags": [
@@ -32,5 +54,13 @@
   "priority_id": "russian-influence-networks-1757456698",
   "capture_lanes": [
     "Regulatory Capture"
-  ]
+  ],
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:58.169707",
+    "corrected_by": "qa-source-4-bulk-retry",
+    "validation_log_id": 149,
+    "corrections_applied": [
+      "Added sources: ['Bloomberg', 'U.S. Department of Treasury', 'The Moscow Times', 'Kyiv Independent']"
+    ]
+  }
 }

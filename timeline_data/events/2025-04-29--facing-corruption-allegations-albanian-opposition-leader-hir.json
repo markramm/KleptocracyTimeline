@@ -1,40 +1,58 @@
 {
-  "id": "2025-04-29--facing-corruption-allegations-albanian-opposition-leader-hir",
-  "date": "2025-04-29",
-  "title": "Facing corruption allegations, Albanian opposition leader hires Trump-linked lobbying team",
-  "summary": "Indicted Albania opposition leader Sali Berisha hired a Trump-aligned lobbying firm to get the Trump administration to remove his sanction designation under a US anti-kleptocracy law. Berisha also employs Chris LaCivita\u2013Trump\u2019s 2024 campaign co-manager\u2013as an advisor in his country\u2019s upcoming parliamentary elections",
-  "description": "Indicted Albania opposition leader Sali Berisha hired a Trump-aligned lobbying firm to get the Trump administration to remove his sanction designation under a US anti-kleptocracy law. Berisha also employs Chris LaCivita\u2013Trump\u2019s 2024 campaign co-manager\u2013as an advisor in his country\u2019s upcoming parliamentary elections",
-  "status": "confirmed",
-  "importance": 6,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Sali Berisha",
+    "Chris LaCivita",
+    "Katie Wiles"
   ],
-  "tags": [
-    "corruption"
+  "capture_lanes": [
+    "Electoral Manipulation",
+    "International Political Consulting"
   ],
   "capture_type": "monetizing_position",
+  "connections": [
+    "Continental Strategy",
+    "Trump Campaign",
+    "Make Albania Great Again Foundation"
+  ],
+  "date": "2025-04-29",
+  "description": "Indicted Albanian opposition leader Sali Berisha hired a Trump-aligned lobbying firm to potentially remove his US sanction designation and influence Albania's May 2025 parliamentary elections. Berisha employed Chris LaCivita, Trump's 2024 campaign co-manager, as a campaign advisor.",
+  "id": "2025-04-29--facing-corruption-allegations-albanian-opposition-leader-hir",
+  "importance": 7,
+  "location": ["Washington, D.C.", "Albania"],
+  "notes": "Demonstrates transnational political consulting and potential leverage of US political connections",
+  "patterns": [
+    "kleptocratic-capture",
+    "political-consulting",
+    "international-influence"
+  ],
   "sources": [
     {
-      "title": "Facing corruption allegations, Albanian opposition leader hires Trump-linked lobbying team",
-      "url": "https://www.motherjones.com/politics/2025/04/sali-berisha-chris-lacivita-katie-wiles/",
+      "date": "2025-04-29",
       "outlet": "Mother Jones",
-      "date": "2025-04-29"
+      "title": "Facing corruption allegations, Albanian opposition leader hires Trump-linked lobbying team",
+      "url": "https://www.motherjones.com/politics/2025/04/sali-berisha-chris-lacivita-katie-wiles/"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-04-29"
+      "date": "2025-05-08",
+      "outlet": "The Week",
+      "title": "Can team Trump make the MAGA playbook work for Albania's elections?",
+      "url": "https://theweek.com/politics/trump-albania-elections-lacivita-sali-berisha"
+    },
+    {
+      "date": "2025-02-10",
+      "outlet": "Balkan Insight",
+      "title": "Albania Opposition Leader Hires Trump Campaign Manager",
+      "url": "https://balkaninsight.com/2025/02/10/albania-opposition-leader-hires-trump-campaign-manager/"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "status": "confirmed",
+  "summary": "In a strategic move, Sali Berisha, an indicted Albanian opposition leader, hired Continental Strategy, a Trump-linked lobbying firm led by Chris LaCivita, to advise his party's 2025 parliamentary election campaign. Berisha hopes to leverage these connections to potentially overturn US sanctions imposed for alleged corruption.",
+  "tags": [
+    "corruption",
+    "international-consulting",
+    "political-manipulation"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Electoral Manipulation"
-  ]
+  "title": "Trump Campaign Staff Hired by Sanctioned Albanian Opposition Leader for Election Campaign"
 }

@@ -14,19 +14,25 @@
   ],
   "sources": [
     {
-      "title": "https://www.justice.gov/opa/pr/bp-exploration-and-production-inc-agrees-plead-guilty-felony-manslaughter-environmental",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "DOJ Press Release: BP Exploration and Production Inc. Pleads Guilty to Sentencing",
+      "url": "https://www.justice.gov/archives/opa/pr/bp-exploration-and-production-inc-pleads-guilty-sentencedto-pay-record-4-billion-crimes",
+      "outlet": "U.S. Department of Justice",
+      "date": "2012-11-15",
+      "key_details": "Confirmed details of the $4 billion criminal settlement, including 14 criminal counts and specific charges"
     },
     {
-      "title": "https://www.sec.gov/news/press-release/2012-2012-249htm",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "BP Agrees to Plead Guilty to Crimes in Gulf Oil Spill",
+      "url": "https://www.propublica.org/article/bp-agrees-to-plead-guilty-to-crimes-in-gulf-oil-spill",
+      "outlet": "ProPublica",
+      "date": "2012-11-15",
+      "key_details": "Comprehensive analysis of the criminal settlement and its implications for corporate accountability"
     },
     {
-      "title": "https://www.nytimes.com/2012/11/16/business/global/16iht-bp16.html",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "Deepwater Horizon Litigation Overview",
+      "url": "https://en.wikipedia.org/wiki/Deepwater_Horizon_litigation",
+      "outlet": "Wikipedia",
+      "date": "2022-08-01",
+      "key_details": "Provides broader context of the legal proceedings and settlement"
     }
   ],
   "importance": 9,
@@ -44,5 +50,18 @@
     "Regulatory Capture",
     "Financial Capture",
     "Executive Power Expansion"
-  ]
+  ],
+  "sources_added": 3,
+  "sources_removed": 3,
+  "sources_validated": 3,
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:52.740832",
+    "corrected_by": "source-qa-16-bulk-retry",
+    "validation_log_id": 139,
+    "corrections_applied": [
+      "sources_added: '3' \u2192 '3'",
+      "sources_removed: '3' \u2192 '3'",
+      "sources_validated: '3' \u2192 '3'"
+    ]
+  }
 }

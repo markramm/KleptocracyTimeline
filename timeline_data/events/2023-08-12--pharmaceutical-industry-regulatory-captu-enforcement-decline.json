@@ -1,29 +1,41 @@
 {
-  "id": "2023-08-12--pharmaceutical-industry-regulatory-captu-enforcement-decline",
-  "date": "2023-08-12",
-  "title": "Enforcement Actions Drop 60%: Pharmaceutical Industry Regulatory Capture of FDA",
-  "summary": "Internal agency data reveals dramatic decline in enforcement actions related to Pharmaceutical Industry Regulatory Capture of FDA. New leadership implements 'industry-friendly' approach, reducing penalties and settlement amounts while increasing industry consultation in rule-making processes.",
-  "importance": 8,
-  "actors": [
-    "Regulatory Enforcement Division",
-    "Industry Trade Groups",
-    "Congressional Oversight"
-  ],
-  "sources": [
-    {
-      "title": "Enforcement Data Analysis",
-      "url": "https://trumptyrannytracker.substack.com",
-      "outlet": "Regulatory Accountability Project"
-    }
-  ],
-  "tags": [
-    "enforcement decline",
-    "regulatory capture",
-    "industry influence",
-    "oversight failure"
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture"
-  ]
+    "id": "2023-08-12--pharmaceutical-industry-regulatory-captu-enforcement-decline",
+    "date": "2023-08-12",
+    "title": "Enforcement Actions Drop 60%: Pharmaceutical Industry Regulatory Capture of FDA",
+    "importance": 8,
+    "summary": "Internal agency data reveals a dramatic decline in FDA enforcement actions against pharmaceutical companies. Annual warning letters dropped from over 130 in the late 1990s to just three in 2023, indicating a significant reduction in regulatory oversight. Investigations by ProPublica and HHS show systemic challenges including minimal foreign factory inspections (only 6% in 2022) and repeated exemptions for banned manufacturing facilities.",
+    "actors": [
+        "Regulatory Enforcement Division",
+        "Industry Trade Groups",
+        "Congressional Oversight",
+        "FDA Leadership",
+        "Pharmaceutical Manufacturers Association"
+    ],
+    "sources": [
+        {
+            "outlet": "Regulatory Affairs Professionals Society (RAPS)",
+            "title": "FDA's drug quality report card details enforcement trends",
+            "url": "https://www.raps.org/News-and-Articles/News-Articles/2023/6/FDA%E2%80%99s-drug-quality-report-card-details-enforcement"
+        },
+        {
+            "outlet": "ProPublica",
+            "title": "FDA Only Inspected 6% of Foreign Drug Manufacturing Facilities in 2022",
+            "url": "https://www.propublica.org/article/fda-drugs-medication-inspections-china-india-manufacturers"
+        },
+        {
+            "outlet": "HHS Press Room",
+            "title": "Ensuring Patient Safety Through Reform of Direct-to-Consumer Pharmaceutical Advertisement Policies",
+            "url": "https://www.hhs.gov/press-room/hhs-fda-drug-ad-transparency-fact-sheet.html"
+        }
+    ],
+    "tags": [
+        "enforcement decline",
+        "regulatory capture",
+        "industry influence",
+        "oversight failure",
+        "pharmaceutical industry",
+        "fda regulation"
+    ],
+    "capture_lanes": ["Regulatory Capture"],
+    "status": "confirmed"
 }

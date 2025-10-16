@@ -1,7 +1,7 @@
 {
   "date": "2016-04-01",
   "title": "JD Vance Joins Peter Thiel's Mithril Capital as Principal",
-  "summary": "JD Vance joins Peter Thiel's venture capital firm Mithril Capital as a principal, establishing a crucial financial and ideological relationship that would later shape his political career. The partnership connects Vance to Thiel's techno-libertarian philosophy and provides the foundation for future political funding and influence.",
+  "summary": "JD Vance joins Peter Thiel's venture capital firm Mithril Capital as a principal, establishing a crucial financial and ideological relationship that would later shape his political career. The partnership connects Vance to Thiel's techno-libertarian philosophy and provides the foundation for future political funding and influence. Vance's tenure at Mithril was brief, lasting approximately one year, and characterized by his connections within the Thiel network.",
   "importance": 7,
   "status": "confirmed",
   "actors": [
@@ -11,14 +11,17 @@
   ],
   "sources": [
     "https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/",
-    "https://en.wikipedia.org/wiki/JD_Vance"
+    "https://en.wikipedia.org/wiki/JD_Vance",
+    "https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html",
+    "https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/"
   ],
   "tags": [
     "succession-risk",
     "jd-vance",
     "peter-thiel",
     "mithril-capital",
-    "power-network"
+    "power-network",
+    "venture-capital"
   ],
   "id": "2016-04-01--jd-vance-joins-peter-thiel's-mithril-capital-as-principal-1757454835",
   "priority_id": "RP-20250909-vance-succession-risk-analysis"

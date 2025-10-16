@@ -12,14 +12,25 @@
   ],
   "sources": [
     {
-      "title": "https://www.icij.org/investigations/panama-papers/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "International Consortium of Investigative Journalists (ICIJ)",
+      "title": "The Panama Papers: Exposing the Rogue Offshore Finance Industry",
+      "url": "https://www.icij.org/investigations/panama-papers/",
+      "date": "2016-04-03",
+      "access_date": "2025-09-11"
     },
     {
-      "title": "https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "S\u00fcddeutsche Zeitung",
+      "title": "How an Anonymous Whistleblower Exposed a Global Offshore Finance Network",
+      "url": "https://www.sueddeutsche.de/wirtschaft/panama-papers-how-an-anonymous-source-leaked-secrets-of-the-offshore-world-1.2954162",
+      "date": "2016-04-03",
+      "access_date": "2025-09-11"
+    },
+    {
+      "outlet": "The Washington Post",
+      "title": "U.S. launches 'criminal investigation' involving Panama Papers",
+      "url": "https://www.washingtonpost.com/world/national-security/us-launches-criminal-investigation-involving-panama-papers/2016/04/20/1358099e-0721-11e6-b283-e79d81c63c1b_story.html",
+      "date": "2016-04-20",
+      "access_date": "2025-09-11"
     }
   ],
   "importance": 10,
@@ -27,7 +38,8 @@
     "panama-papers",
     "offshore-finance",
     "tax-avoidance",
-    "shell-companies"
+    "shell-companies",
+    "financial-corruption"
   ],
   "status": "confirmed",
   "id": "2016-04-03--panama-papers-expose-global-offshore-financial-networks-1757456766",
@@ -37,5 +49,20 @@
     "Regulatory Capture",
     "Financial Capture",
     "Intelligence Penetration"
-  ]
+  ],
+  "sources_replaced": true,
+  "tags_added": [
+    "financial-corruption"
+  ],
+  "source_count": 3,
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:44.450835",
+    "corrected_by": "source-qa-1-bulk-retry",
+    "validation_log_id": 123,
+    "corrections_applied": [
+      "source_count: '3' \u2192 '3'",
+      "sources_replaced: 'True' \u2192 'True'",
+      "tags_added: '['financial-corruption']' \u2192 '['financial-corruption']'"
+    ]
+  }
 }

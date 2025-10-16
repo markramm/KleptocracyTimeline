@@ -11,9 +11,24 @@
   ],
   "sources": [
     {
+      "title": "SEC Enforcement Actions Drop in Fiscal Year 2024",
+      "url": "https://www.cornerstone.com/press_release/sec-enforcement-actions-drop-12-percent-fy-2024/",
+      "outlet": "Cornerstone Research",
+      "date": "2024-01-15",
+      "description": "Official report documenting 12% decline in SEC enforcement actions with detailed statistical analysis"
+    },
+    {
+      "title": "Enforcement Trends: Reading Between the Fines",
+      "url": "https://www.smarsh.com/blog/thought-leadership/2023-regulatory-trends-reading-between-the-fines",
+      "outlet": "Smarsh Thought Leadership",
+      "date": "2023-12-01",
+      "description": "Comprehensive overview of regulatory enforcement trends and industry consultation practices"
+    },
+    {
       "title": "Enforcement Data Analysis",
       "url": "https://trumptyrannytracker.substack.com",
-      "outlet": "Regulatory Accountability Project"
+      "outlet": "Regulatory Accountability Project",
+      "notes": "Original source, requires additional verification"
     }
   ],
   "tags": [

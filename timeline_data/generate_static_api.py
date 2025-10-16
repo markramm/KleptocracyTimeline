@@ -55,13 +55,18 @@ def main():
     all_actors = set()
     all_capture_lanes = set()
 
-    for yaml_file in events_dir.glob('*.yaml'):
+    # Support both JSON and YAML formats (prioritize JSON)
+    for event_file in list(events_dir.glob('*.json')) + list(events_dir.glob('*.yaml')):
         try:
-            with open(yaml_file, 'r') as f:
-                event = yaml.safe_load(f)
+            with open(event_file, 'r') as f:
+                if event_file.suffix == '.json':
+                    event = json.load(f)
+                else:
+                    event = yaml.safe_load(f)
                 if event:
-                    # Add ID from filename
-                    event['id'] = yaml_file.stem
+                    # Add ID from filename if not present
+                    if 'id' not in event:
+                        event['id'] = event_file.stem
                     
                     # Convert all date objects to strings recursively
                     def convert_dates(obj):
@@ -80,11 +85,20 @@ def main():
                     if event.get('tags'):
                         all_tags.update(event['tags'])
                     if event.get('actors'):
-                        all_actors.update(event['actors'])
+                        # Handle both string actors and structured actor objects
+                        actors = event['actors']
+                        if isinstance(actors, list):
+                            for actor in actors:
+                                if isinstance(actor, str):
+                                    all_actors.add(actor)
+                                elif isinstance(actor, dict) and 'name' in actor:
+                                    all_actors.add(actor['name'])
+                        elif isinstance(actors, str):
+                            all_actors.add(actors)
                     if event.get('capture_lanes'):
                         all_capture_lanes.update(event['capture_lanes'])
         except Exception as e:
-            print(f'Error loading {yaml_file}: {e}')
+            print(f'Error loading {event_file}: {e}')
 
     # Sort events by date
     events.sort(key=get_sort_date)

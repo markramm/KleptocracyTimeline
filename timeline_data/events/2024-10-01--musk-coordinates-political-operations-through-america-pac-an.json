@@ -1,41 +1,49 @@
 {
-  "id": "2024-10-01--musk-coordinates-political-operations-through-america-pac-an",
-  "title": "Musk Coordinates Political Operations Through America PAC and X Platform Information Warfare",
-  "date": "2024-10-01",
-  "location": "Austin, TX, United States",
-  "category": "information-warfare",
-  "importance": 9,
-  "summary": "Elon Musk established comprehensive political warfare operations combining financial, organizational, and information manipulation through America PAC coordination with Trump campaign and systematic disinformation campaigns via X platform. Musk \"created \u2014 and is the largest donor to \u2014 America PAC, which has emerged as a key part of the Trump campaign's get-out-the-vote efforts,\" contributing approximately 30 million to Trump and Republican campaigns while spreading \"disinformation against the Democratic Party through X.\" Research identified Musk's information warfare tactics: \"First, to overwhelm the information space and thereby manage attention. Second, to fuel the conspiracy theory that there is a coordinated campaign among Democrats, the media and big tech to steal this election.\" Musk \"regularly traffics in unverified rumors, misleading claims and outright falsehoods\" and \"shared a fabricated Russian propaganda story alleging that USAID paid Hollywood celebrities millions of dollars to visit Ukraine.\" This coordination represents what international observers characterize as oligarchic capture of democratic processes, with Germany's Economy Minister Robert Habeck condemning \"tech oligarchs' like Elon Musk\" for \"undermining democracy\" through their \"grip on Europe's digital space.\"",
-  "actors": [
-    "Elon Musk",
-    "America PAC",
-    "Donald Trump Campaign",
-    "Republican Party",
-    "Russian Propaganda Networks",
-    "Robert Habeck"
-  ],
-  "sources": [
-    {
-      "title": "https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://theconversation.com/elon-musks-flood-of-us-election-tweets-may-look-chaotic-my-data-reveals-an-alarming-strategy-243021",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
-  "tags": [
-    "needs_tags"
-  ],
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Regulatory Capture",
-    "Financial Capture",
-    "Intelligence Penetration",
-    "Electoral Manipulation"
-  ]
+    "id": "2024-10-01--musk-coordinates-political-operations-through-america-pac-an",
+    "date": "2024-10-01",
+    "title": "Musk Coordinates Political Operations Through America PAC and X Platform Information Warfare",
+    "summary": "Elon Musk established comprehensive political warfare operations through America PAC, combining financial, organizational, and information manipulation to support the Trump 2024 campaign. The PAC spent approximately $200 million, with Musk providing the vast majority of funds, to influence voter targeting and platform messaging. Musk transformed X into a conservative megaphone, systematically amplifying unverified claims and conspiracy theories that benefit the Trump campaign.",
+    "importance": 9,
+    "actors": [
+        "Elon Musk",
+        "Donald Trump",
+        "America PAC",
+        "X Platform (Twitter)"
+    ],
+    "location": "Austin, TX, United States",
+    "tags": [
+        "election-interference",
+        "social-media-manipulation",
+        "political-coordination",
+        "campaign-finance",
+        "media-capture"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Electoral Manipulation",
+        "Digital Platform Influence"
+    ],
+    "sources": [
+        {
+            "outlet": "NPR",
+            "title": "2 years in, Trump surrogate Elon Musk has remade X as a conservative megaphone",
+            "url": "https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter",
+            "retrieved": "2025-10-01"
+        },
+        {
+            "outlet": "Fortune",
+            "title": "Elon Musk's America PAC spent $200 million to elect Donald Trump",
+            "url": "https://fortune.com/2024/11/12/elon-musk-america-pac-200-million-elect-donald-trump-vast-majority-tesla-ceo/",
+            "retrieved": "2025-10-01"
+        },
+        {
+            "outlet": "NBC News",
+            "title": "How an Elon Musk-backed PAC is gathering data to boost Trump",
+            "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-super-pac-gathers-voter-data-boost-trump-rcna164859",
+            "retrieved": "2025-10-01"
+        }
+    ],
+    "status": "confirmed",
+    "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
+    "category": "information-warfare"
 }

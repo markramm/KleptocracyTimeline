@@ -1,38 +1,48 @@
 {
-  "id": "2024-07-13--x-algorithm-modified-to-amplify-musk-and-right-wing-content",
-  "title": "X Algorithm Modified to Amplify Musk and Right-Wing Content Following Trump Endorsement",
-  "date": "2024-07-13",
-  "location": "Austin, TX, United States",
-  "category": "information-warfare",
-  "importance": 8,
-  "summary": "Research revealed systematic algorithmic manipulation on X platform coinciding with Musk's endorsement of Donald Trump, demonstrating weaponization of social media infrastructure for political influence operations. Queensland University of Technology and Monash University researchers identified a \"change point\" on July 13, 2024, showing a 138.27% increase in views for Musk's account and algorithmic bias favoring Republican-leaning accounts. Studies found \"possible algorithmic prioritization or bias, positioning Musk's content favorably in terms of platform visibility and user engagement,\" with computational analysis revealing \"potential algorithmic bias on Twitter in favour of Republican Party supporters.\" By October 2024, the \"For You\" section contained \"twice as much pro-Trump content than pro-Harris\" for new accounts. Research using \"sock-puppet\" accounts confirmed partisan algorithmic manipulation, with \"tweets expressing right-leaning political bias see heightened amplification compared to the baseline model.\" This represented a systematic transformation of social media algorithms from neutral engagement optimization to targeted political warfare tools, with oligarch-controlled infrastructure directly manipulating information exposure for hundreds of millions of users globally.",
-  "actors": [
-    "Elon Musk",
-    "X Algorithm Engineers",
-    "Queensland University of Technology Researchers",
-    "Donald Trump",
-    "Republican Party"
-  ],
-  "sources": [
-    {
-      "title": "https://cybernews.com/news/x-algorithm-changed-musk-boost-right-wing/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://arxiv.org/html/2411.01852v3",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
-  "tags": [
-    "needs_tags"
-  ],
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+    "id": "2024-07-13--x-algorithm-modified-to-amplify-musk-and-right-wing-content",
+    "date": "2024-07-13",
+    "title": "X Algorithm Modified to Amplify Musk and Right-Wing Content Following Trump Endorsement",
+    "summary": "Computational research revealed systematic algorithmic manipulation on X platform, demonstrating a strategic modification enhancing visibility for Elon Musk and Republican-aligned accounts. Researchers from Queensland University of Technology and Monash University identified a precise 'change point' on July 13, 2024, showing a 138.27% increase in views for Musk's account and algorithmic bias favoring Republican-leaning content. By October 2024, neutral user 'For You' feeds showed 30.16% right-leaning content versus 12.92% left-leaning, indicating a significant amplification of conservative political messaging.",
+    "importance": 9,
+    "actors": [
+        "Elon Musk",
+        "Donald Trump",
+        "Timothy Graham",
+        "Mark Andrejevic",
+        "Republican Party",
+        "X Algorithm Engineers"
+    ],
+    "sources": [
+        {
+            "outlet": "Queensland University of Technology",
+            "title": "A Computational Analysis of Potential Algorithmic Bias on Platform X During the 2024 US Election",
+            "url": "https://eprints.qut.edu.au/253211/1/A_computational_analysis_of_potential_algorithmic_bias_on_platform_X_during_the_2024_US_election-4.pdf"
+        },
+        {
+            "outlet": "CyberNews",
+            "title": "X Algorithm Changed to Boost Right-Wing Accounts, Study Finds",
+            "url": "https://cybernews.com/news/x-algorithm-changed-musk-boost-right-wing/"
+        },
+        {
+            "outlet": "arXiv",
+            "title": "Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X During 2024 U.S. Presidential Election",
+            "url": "https://arxiv.org/html/2411.01852v3"
+        }
+    ],
+    "tags": [
+        "social-media-manipulation",
+        "election-interference",
+        "platform-bias",
+        "algorithmic-amplification",
+        "media-capture",
+        "tech-political-influence"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Regulatory Capture",
+        "Information Warfare"
+    ],
+    "category": "information-warfare",
+    "location": "Austin, TX, United States",
+    "status": "confirmed"
 }

@@ -1,38 +1,44 @@
 {
   "date": "2021-01-19",
   "title": "Navalny Investigation Reveals Putin's Palace Complex",
-  "summary": "Russian opposition leader Alexei Navalny released a detailed investigation exposing a lavish palace complex on the Black Sea allegedly built for Vladimir Putin. The investigation, titled 'Putin's Palace: History of World's Largest Bribe,' detailed a $1.35 billion estate featuring luxury amenities including a casino, theater, and ice hockey rink. The 17,691 square meter palace sits on a 7,000 hectare estate, making it 39 times larger than Monaco. Navalny's team used drone footage, satellite imagery, and insider testimony to document the construction funded through a corruption scheme involving Putin's inner circle. The investigation implicated oligarchs and government officials in the largest known example of personal enrichment by a sitting head of state. Within days of release, the video gained over 100 million views, sparking widespread protests across Russia.",
+  "summary": "Russian opposition leader Alexei Navalny released a comprehensive investigation exposing a $1.35 billion palace complex allegedly owned by Vladimir Putin on the Black Sea. The investigation, titled 'Putin's Palace: History of World's Largest Bribe,' revealed a 17,691 square meter palace on a 7,000 hectare estate, 39 times larger than Monaco. Using drone footage, satellite imagery, and insider testimony, Navalny documented a massive corruption scheme involving Putin's inner circle, including oligarchs Arkady Rotenberg, Boris Rotenberg, and Gennady Timchenko. The investigation implicated state-owned companies like Transneft and Rosneft in funding the project. Within days, the video gained over 100 million views, sparking widespread protests across Russia and drawing international attention to high-level corruption.",
+  "importance": 9,
   "actors": [
     "Vladimir Putin",
     "Alexei Navalny",
     "Arkady Rotenberg",
     "Boris Rotenberg",
     "Gennady Timchenko",
+    "Igor Sechin",
+    "Dmitry Peskov",
     "Anti-Corruption Foundation (FBK)"
   ],
   "sources": [
     {
-      "title": "https://www.youtube.com/watch?v=ipAnwilMncI",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "CNN",
+      "title": "Navalny Releases Investigation Into Decadent Billion-Dollar 'Putin Palace'",
+      "url": "https://edition.cnn.com/2021/01/20/europe/putin-palace-navalny-russia-intl/index.html",
+      "date": "2021-01-20"
     },
     {
-      "title": "https://palace.navalny.com/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "TIME Magazine",
+      "title": "The Inside Story of How Navalny Uncovered Putin's Palace",
+      "url": "https://time.com/5934092/navalny-putin-palace-investigation/",
+      "date": "2021-02-01"
     },
     {
-      "title": "https://www.bbc.com/news/world-europe-55713045",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Meduza",
+      "title": "Putin's Palace: Navalny's Anti-Corruption Foundation Investigates the Russian President's Billion-Dollar Residence",
+      "url": "https://meduza.io/en/feature/2021/01/19/putin-s-palace",
+      "date": "2021-01-19"
     },
     {
-      "title": "https://www.reuters.com/article/us-russia-politics-navalny-palace-idUSKBN29O1Y8",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Courthouse News Service",
+      "title": "Navalny Releases Investigation Into 'Putin's Palace'",
+      "url": "https://www.courthousenews.com/navalny-releases-investigation-into-putins-palace/",
+      "date": "2021-01-20"
     }
   ],
-  "importance": 9,
   "tags": [
     "corruption",
     "russia",
@@ -41,12 +47,15 @@
     "investigation",
     "kleptocracy",
     "palace",
-    "bribery"
+    "bribery",
+    "oligarchy"
   ],
   "status": "confirmed",
   "id": "2021-01-19--navalny-investigation-reveals-putins-palace-complex",
   "priority_id": "RT-COMPLETED-PATTERN-20250906-15",
   "capture_lanes": [
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Financial Capture",
+    "Media Suppression"
   ]
 }

@@ -1,36 +1,50 @@
 {
   "id": "1995-12-12--fda-oxycontin-approval-followed-by-regulator-curtis-wright-j",
-  "title": "FDA OxyContin Approval Followed by Regulator Curtis Wright Joining Purdue Pharma",
+  "title": "FDA Approval of OxyContin Reveals Systemic Regulatory Capture by Purdue Pharma",
   "date": "1995-12-12",
   "location": "Rockville, MD, United States",
   "category": "regulatory-capture",
   "importance": 9,
-  "summary": "The FDA approved OxyContin despite inadequate safety evidence, in a process overseen by Dr. Curtis Wright IV, team leader of the Division of Anesthetic, Critical Care, and Addiction Drug Products. Wright met with Purdue Pharma representatives from January 31 to February 2, 1995, in a hotel room near FDA offices, allowing the company to help draft his medical officer review of OxyContin. The approval included controversial label language stating \"Delayed absorption, as provided by OxyContin tablets, is believed to reduce the abuse liability of a drug\" - scientifically unsubstantiated language that became a key marketing weapon. Less than two years after approving OxyContin, Wright left the FDA and joined Purdue Pharma on October 9, 1998, with a substantially higher salary as Executive Director in Risk Assessment Coordination for New Products. The two principal FDA reviewers who approved Purdue's oxycodone application both took positions at Purdue after leaving the agency. This approval process and subsequent revolving door movements contributed to America's opioid crisis, which has resulted in nearly 645,000 overdose deaths from 1999-2021.",
+  "summary": "In a landmark case of regulatory capture, Dr. Curtis Wright IV, leading the FDA's Division of Anesthetic, Critical Care, and Addiction Drug Products, approved OxyContin with controversial language that misrepresented the drug's addictive potential. Wright held private meetings with Purdue Pharma representatives in January 1995, allowing the company to draft portions of his medical review.\n\nKey Findings:\n- Wright approved a label claiming delayed absorption reduces drug abuse liability\n- No scientific evidence supported this claim\n- Wright left FDA in October 1997\n- Joined Purdue Pharma in December 1998 with a salary triple his previous government pay\n\nImplications:\n- Systematic manipulation of drug approval process\n- Fundamental breakdown of regulatory oversight\n- Contributed to nationwide opioid crisis\n- Resulted in nearly 645,000 overdose deaths from 1999-2021",
   "actors": [
     "Curtis Wright IV",
     "Purdue Pharma",
     "Food and Drug Administration",
-    "Division of Anesthetic, Critical Care, and Addiction Drug Products"
+    "Division of Anesthetic, Critical Care, and Addiction Drug Products",
+    "U.S. Department of Justice"
   ],
   "sources": [
     {
-      "title": "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Department of Justice",
+      "title": "OxyContin Approval Investigation Review Document",
+      "url": "https://www.mass.gov/doc/ogrosky-memo/download",
+      "access_date": "2025-09-17"
     },
     {
-      "title": "https://en.wikipedia.org/wiki/Curtis_Wright_IV",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Yahoo News",
+      "title": "Dr. Curtis Wright Took A Job At Purdue Pharma After OxyContin's Approval",
+      "url": "https://www.yahoo.com/lifestyle/dr-curtis-wright-took-job-161400685.html",
+      "access_date": "2025-09-17"
+    },
+    {
+      "outlet": "Marketplace",
+      "title": "How One Sentence Helped Set Off the Opioid Crisis",
+      "url": "https://www.marketplace.org/story/2017/12/13/opioid",
+      "access_date": "2025-09-17"
     }
   ],
   "status": "confirmed",
   "priority_id": "claude-priority-regulatory-capture-pharma-fda",
   "tags": [
-    "needs_tags"
+    "regulatory-capture",
+    "pharmaceutical-industry",
+    "opioid-crisis",
+    "fda-corruption",
+    "public-health"
   ],
   "capture_lanes": [
     "Regulatory Capture",
-    "Executive Power Expansion"
+    "Pharmaceutical Industry Manipulation",
+    "Health Policy Corruption"
   ]
 }

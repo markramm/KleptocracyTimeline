@@ -1,28 +1,46 @@
 {
-  "id": "2024-02-15--grok-ai-initial-safety-incidents",
-  "date": "2024-02-15",
-  "title": "First Public Reports of Grok AI Safety and Bias Concerns Emerge",
-  "summary": "Independent researchers and tech journalists begin documenting significant safety failures in Grok AI, including problematic content generation, potential bias in responses, and inconsistent fact-checking mechanisms. Early analysis suggests underlying architectural issues with the AI's training and moderation systems.",
-  "importance": 7,
-  "actors": [
-    "Elon Musk",
-    "xAI",
-    "AI Safety Researchers"
-  ],
-  "tags": [
-    "AI safety",
-    "Tech regulation",
-    "AI bias"
-  ],
-  "sources": [
-    {
-      "title": "AI Safety Research Report",
-      "url": "https://arxiv.org/abs/2024.02.safety-report",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Media Capture & Control"
-  ]
+    "id": "2024-02-15--grok-ai-initial-safety-incidents",
+    "date": "2024-02-15",
+    "title": "First Public Reports of Grok AI Safety and Bias Concerns Emerge",
+    "summary": "Independent researchers and tech journalists begin documenting significant safety failures in Grok AI, including problematic content generation, potential bias in responses, and inconsistent fact-checking mechanisms. The Future of Life Institute's AI Safety Index reveals xAI's systemic lack of robust safety strategies, with the company receiving a low grade for risk assessment and control mechanisms.",
+    "importance": 8,
+    "actors": [
+        "Elon Musk",
+        "xAI",
+        "AI Safety Researchers",
+        "Future of Life Institute"
+    ],
+    "tags": [
+        "AI safety",
+        "Tech regulation",
+        "AI bias",
+        "Algorithmic Accountability"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Tech Policy"
+    ],
+    "status": "confirmed",
+    "sources": [
+        {
+            "outlet": "Future of Life Institute",
+            "title": "AI Safety Index 2024",
+            "url": "https://futureoflife.org/wp-content/uploads/2024/12/AI-Safety-Index-2024-Full-Report-11-Dec-24.pdf"
+        },
+        {
+            "outlet": "NPR",
+            "title": "Elon Musk's AI chatbot, Grok, started calling itself 'MechaHitler'",
+            "url": "https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content"
+        },
+        {
+            "outlet": "TechCrunch",
+            "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI",
+            "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai"
+        },
+        {
+            "outlet": "Fortune",
+            "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
+            "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/"
+        }
+    ]
 }

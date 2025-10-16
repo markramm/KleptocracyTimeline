@@ -1,41 +1,53 @@
 {
-  "id": "2025-04-09--us-doge-service-agreement-with-department-of-labor-shows-1-3",
-  "date": "2025-04-09",
-  "title": "US DOGE service agreement with Department of Labor shows $1.3 Million fee\u2014and details its mission",
-  "summary": "A leaked agreement shows the Department of Labor will pay Elon Musk and his operatives $1.3 million for tech services, despite Musk's claims that DOGE would cost taxpayers nothing",
-  "description": "A leaked agreement shows the Department of Labor will pay Elon Musk and his operatives $1.3 million for tech services, despite Musk's claims that DOGE would cost taxpayers nothing",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
-  "actors": [
-    "Donald Trump",
-    "Trump Administration"
-  ],
-  "tags": [
-    "regulatory-capture",
-    "government-contracts"
-  ],
-  "capture_type": "monetizing_position",
-  "sources": [
-    {
-      "title": "US DOGE service agreement with Department of Labor shows $1.3 Million fee\u2014and details its mission",
-      "url": "https://www.wired.com/story/department-of-labor-doge-usds-payment/",
-      "outlet": "Wired",
-      "date": "2025-04-09"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-04-09"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Regulatory Capture"
-  ]
+    "id": "2025-04-09--us-doge-service-agreement-with-department-of-labor-shows-1-3",
+    "date": "2025-04-09",
+    "title": "US DOGE Service Agreement with Department of Labor Reveals $1.3 Million Fee",
+    "summary": "A leaked service agreement between the Department of Labor and the Department of Government Efficiency (DOGE) shows a $1.3 million fee for DOGE's work, contradicting Elon Musk's previous claims that DOGE would cost taxpayers nothing. The agreement covers four DOGE affiliates over an 18-month period, with an implied annual salary of approximately $217,000 per staff member.",
+    "description": "A leaked service agreement reveals the Department of Labor's financial commitment to DOGE, highlighting potential discrepancies between Musk's public statements and actual government expenditures. The 18-month contract backdated to the Trump administration's start suggests strategic positioning of DOGE within federal agencies.",
+    "status": "confirmed",
+    "importance": 8,
+    "location": "Washington, D.C.",
+    "actors": [
+        "Elon Musk",
+        "Donald Trump",
+        "Department of Labor",
+        "US Digital Service (USDS)"
+    ],
+    "tags": [
+        "regulatory-capture",
+        "government-contracts",
+        "institutional-transformation",
+        "trump-administration"
+    ],
+    "capture_type": "monetizing_position",
+    "sources": [
+        {
+            "title": "US DOGE Service Agreement with Department of Labor Shows $1.3 Million Fee—and Details Its Mission",
+            "url": "https://www.wired.com/story/department-of-labor-doge-usds-payment/",
+            "outlet": "Wired",
+            "date": "2025-04-09"
+        },
+        {
+            "title": "DOGE's $455 Million in Labor Savings Carry Costs for US Workers",
+            "url": "https://news.bloomberglaw.com/daily-labor-report/doges-455-million-in-labor-savings-carry-costs-for-us-workers",
+            "outlet": "Bloomberg Law",
+            "date": "2025-04-09"
+        },
+        {
+            "title": "DOGE released data about federal contract savings. It doesn't add up",
+            "url": "https://www.npr.org/2025/02/19/nx-s1-5302705/doge-overstates-savings-federal-contracts",
+            "outlet": "NPR",
+            "date": "2025-02-19"
+        }
+    ],
+    "connections": [],
+    "patterns": [
+        "kleptocratic-capture",
+        "government-efficiency-narrative"
+    ],
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Institutional Transformation"
+    ],
+    "notes": "Detailed service agreement reveals complex financial arrangements between DOGE and Department of Labor, highlighting potential conflicts of interest and discrepancies in cost claims."
 }

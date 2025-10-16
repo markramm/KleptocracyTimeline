@@ -2,7 +2,7 @@
   "id": "2020-02-27--clarida-fed-bond-fund-trades",
   "date": "2020-02-27",
   "title": "Fed Vice Chair Clarida Trades Millions Before Rate Cuts",
-  "summary": "Federal Reserve Vice Chairman Richard Clarida rotated between $1-5 million from Pimco bond funds into stock funds on February 27, 2020, just one day before Fed Chair Powell's emergency statement about coronavirus risks and weeks before the Fed began aggressive interest rate cuts. Clarida's trades demonstrate systematic pattern where Fed officials exploit advance knowledge of monetary policy decisions for personal financial gain, representing institutional capture where central bank independence is compromised by officials' personal trading activities.",
+  "summary": "Federal Reserve Vice Chairman Richard Clarida rotated between $1-5 million from Pimco bond funds into stock funds on February 27, 2020, just one day before Fed Chair Powell's emergency statement about coronavirus risks. Clarida sold multiple ETFs during the market's COVID-19 downturn and quickly reinvested the proceeds, raising questions about potential insider trading. These transactions occurred when the S&P 500 fell 13% due to coronavirus panic, and one day before Powell's unusual public statement assuring market preparedness. Senator Elizabeth Warren called for an SEC investigation, ultimately leading to Clarida's resignation in January 2022. The incident exemplifies a systematic pattern of potential conflict of interest where high-level financial regulators may exploit advance knowledge of monetary policy for personal financial gain.",
   "importance": 8,
   "tags": [
     "federal_reserve",
@@ -16,14 +16,21 @@
   "actors": [
     "Richard Clarida",
     "Federal Reserve Board",
-    "Jerome Powell"
+    "Jerome Powell",
+    "Elizabeth Warren"
   ],
   "sources": [
     {
-      "url": "https://www.wsj.com/articles/fed-officials-financial-disclosures-show-active-trading-in-2020-11632821201",
-      "title": "Fed Officials' Financial Disclosures Show Active Trading in 2020",
-      "outlet": "Wall Street Journal",
-      "date": "2021-09-28"
+      "url": "https://www.centralbanking.com/central-banks/governance/accountability/7915551/feds-clarida-reveals-large-pre-pandemic-equities-trades",
+      "title": "Clarida Reveals Large Pre-Pandemic Equities Trades",
+      "outlet": "Central Banking",
+      "date": "2021-10-01"
+    },
+    {
+      "url": "https://www.newsweek.com/federal-reserve-vice-chair-richard-clarida-becomes-third-resign-after-trading-scandal-1667763",
+      "title": "Federal Reserve Vice Chair Richard Clarida Resigns After Trading Scandal",
+      "outlet": "Newsweek",
+      "date": "2022-01-10"
     }
   ],
   "status": "confirmed",

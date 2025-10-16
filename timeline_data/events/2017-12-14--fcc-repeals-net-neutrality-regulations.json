@@ -3,9 +3,10 @@
   "date": "2017-12-14",
   "importance": 8,
   "title": "FCC Repeals Net Neutrality Regulations Under Industry Pressure",
-  "summary": "FCC Chairman Ajit Pai, former Verizon lawyer, leads repeal of net neutrality despite overwhelming public opposition, prioritizing ISP profits over consumer protection.",
+  "summary": "The FCC voted along party lines to repeal Obama-era net neutrality regulations, eliminating rules that prevented internet service providers from blocking, slowing, or prioritizing web traffic. The decision shifts internet regulation from the FCC to the Federal Trade Commission, potentially allowing ISPs to control internet access and speed based on financial agreements.",
   "actors": [
     "Ajit Pai",
+    "Mignon Clyburn",
     "Federal Communications Commission",
     "Verizon",
     "Comcast",
@@ -15,13 +16,20 @@
     "regulatory-capture",
     "net-neutrality",
     "fcc",
-    "telecom"
+    "telecom",
+    "internet-freedom"
   ],
   "sources": [
     {
-      "title": "F.C.C. Repeals Net Neutrality Rules",
-      "url": "https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html",
-      "outlet": "New York Times",
+      "title": "FCC Repeals Net Neutrality Rules For Internet Providers",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/12/14/570526390/fcc-repeals-net-neutrality-rules-for-internet-providers",
+      "outlet": "NPR",
+      "date": "2017-12-14"
+    },
+    {
+      "title": "FCC Repeals Net Neutrality Rules Designed to Provide Equal Access to Internet",
+      "url": "https://www.pbs.org/newshour/politics/fcc-repeals-net-neutrality-rules-designed-to-provide-equal-access-to-internet",
+      "outlet": "PBS NewsHour",
       "date": "2017-12-14"
     }
   ],

@@ -1,40 +1,62 @@
 {
-  "id": "2025-04-29--a-doge-aide-involved-in-dismantling-consumer-bureau-owns-sto",
-  "date": "2025-04-29",
-  "title": "A DOGE aide involved in dismantling Consumer Bureau owns stock in companies that could benefit from the cuts",
-  "summary": "DOGE aide Gavin Kilger\u2013who has helped oversee massive cuts at CFPB\u2013holds more than $300,000 of stock in companies the agency regulates",
-  "description": "DOGE aide Gavin Kilger\u2013who has helped oversee massive cuts at CFPB\u2013holds more than $300,000 of stock in companies the agency regulates",
-  "status": "confirmed",
-  "importance": 6,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Gavin Kliger",
+    "DOGE"
   ],
-  "tags": [
-    "regulatory-capture"
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Institutional Capture"
   ],
   "capture_type": "regulatory_capture",
+  "connections": [
+    "CFPB Transformation",
+    "Financial Regulatory Oversight"
+  ],
+  "date": "2025-04-29",
+  "description": "A Department of Government Efficiency aide with significant stock holdings in regulated companies orchestrates mass layoffs at the CFPB, raising serious conflict of interest concerns",
+  "id": "2025-04-29--a-doge-aide-involved-in-dismantling-consumer-bureau-owns-sto",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Detailed documentation of potential ethics violations in regulatory capture process",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-regulatory-capture"
+  ],
   "sources": [
     {
-      "title": "A DOGE aide involved in dismantling Consumer Bureau owns stock in companies that could benefit from ",
-      "url": "https://www.propublica.org/article/doge-consumer-financial-protection-bureau-gavin-kliger-stock",
+      "date": "2025-04-29",
       "outlet": "ProPublica",
-      "date": "2025-04-29"
+      "title": "DOGE Aide Who Helped Gut CFPB Was Warned About Potential Conflicts of Interest",
+      "url": "https://www.propublica.org/article/cfpb-gavin-kliger-doge-conflict-of-interest-consumer-financial-protection-bureau"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-04-29"
+      "date": "2025-04-29",
+      "outlet": "Campaign Legal Center",
+      "title": "Complaint to CFPB Inspector General Regarding Gavin Kliger",
+      "url": "https://campaignlegal.org/document/clc-complaint-cfpb-inspector-general-regarding-gavin-kliger"
+    },
+    {
+      "date": "2025-04-29",
+      "outlet": "Bloomberg Law",
+      "title": "DOGE Employee Who Screamed for CFPB Job Cuts Leaves Agency",
+      "url": "https://news.bloomberglaw.com/banking-law/doge-employee-leaves-cfpb-after-leading-trumps-mass-firing-plan"
+    },
+    {
+      "date": "2025-04-29",
+      "outlet": "UPI",
+      "title": "Trump CFPB Cuts Raise Concern About Financial Crises, Conflict of Interest",
+      "url": "https://www.upi.com/Top_News/US/2025/03/19/Trump-CFPB-cuts-raise-concern-about-financial-crises-conflict-of-interest/3741742319848/"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "status": "confirmed",
+  "summary": "Gavin Kliger, a Trump Administration Department of Government Efficiency aide, helped orchestrate massive layoffs at the Consumer Financial Protection Bureau (CFPB) while holding significant stock in companies the agency regulates. Kliger managed approximately 90% of over 1,400 employee terminations, and owned stock worth up to $715,000 in companies including Apple, Tesla, Alphabet, and cryptocurrencies - many of which are on the CFPB's prohibited holdings list.",
+  "tags": [
+    "regulatory-capture",
+    "cfpb",
+    "trump-administration",
+    "conflict-of-interest"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Regulatory Capture"
-  ]
+  "title": "DOGE Aide Dismantling CFPB Owns Substantial Stock in Regulated Companies During Mass Layoffs"
 }

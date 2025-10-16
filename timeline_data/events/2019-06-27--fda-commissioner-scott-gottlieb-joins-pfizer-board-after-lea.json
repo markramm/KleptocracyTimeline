@@ -1,37 +1,46 @@
 {
-  "id": "2019-06-27--fda-commissioner-scott-gottlieb-joins-pfizer-board-after-lea",
-  "title": "FDA Commissioner Scott Gottlieb Joins Pfizer Board After Leaving Agency",
   "date": "2019-06-27",
-  "location": "Washington, DC, United States",
-  "category": "regulatory-capture",
+  "title": "FDA Commissioner Scott Gottlieb Joins Pfizer Board After Leaving Agency",
+  "summary": "Scott Gottlieb, former FDA Commissioner, joined Pfizer's board of directors on June 27, 2019, just 85 days after leaving the FDA. The move sparked significant criticism about the 'revolving door' between government regulatory agencies and pharmaceutical companies. Gottlieb will serve on the board's regulatory and compliance committee, raising concerns about potential conflicts of interest in drug approval processes.",
   "importance": 8,
-  "summary": "Former FDA Commissioner Scott Gottlieb joined Pfizer's board of directors less than three months after departing the FDA on April 5, 2019. Before his FDA appointment in May 2017, Gottlieb had extensive financial ties to the pharmaceutical industry through consulting work and board positions. As FDA Commissioner, he oversaw regulatory decisions affecting Pfizer and other major pharmaceutical companies. His rapid transition to Pfizer's board exemplifies the revolving door phenomenon, as he moved from regulating the pharmaceutical industry to directly representing one of its largest companies with over $53 billion in revenue in 2018. Gottlieb maintains several thousand shares of Pfizer stock and receives compensation in the six figures annually from the company. He frequently appears on CNBC as a Pfizer-sponsored guest, representing pharmaceutical industry interests in public discourse. This case illustrates the pattern where 9 out of 10 FDA commissioners moved to pharmaceutical companies between 2006-2019, raising concerns about regulatory independence and potential conflicts of interest in drug approval processes.",
   "actors": [
     "Scott Gottlieb",
-    "Pfizer",
-    "Food and Drug Administration",
-    "CNBC"
+    "Elizabeth Warren",
+    "Pfizer Board of Directors",
+    "Food and Drug Administration"
   ],
   "sources": [
     {
-      "title": "https://www.citizen.org/article/outrage-of-the-month-revolving-door-to-fda-commissioners-office-sows-distrust-in-agency/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "STAT News",
+      "title": "Scott Gottlieb walks through the revolving door to the Pfizer board",
+      "url": "https://www.statnews.com/pharmalot/2019/06/27/scott-gottlieb-pfizer-board-fda/"
     },
     {
-      "title": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "CNBC",
+      "title": "Former FDA Commissioner Scott Gottlieb joins Pfizer's board of directors",
+      "url": "https://www.cnbc.com/2019/06/27/former-fda-commissioner-scott-gottlieb-joins-pfizers-board.html"
+    },
+    {
+      "outlet": "The Washington Post",
+      "title": "Former FDA head Gottlieb joins Pfizer board",
+      "url": "https://www.washingtonpost.com/health/2019/06/28/former-fda-head-gottlieb-joins-pfizer-board/"
     }
   ],
-  "status": "confirmed",
-  "priority_id": "claude-priority-regulatory-capture-pharma-fda",
   "tags": [
-    "needs_tags"
+    "regulatory-capture",
+    "pharmaceutical-industry",
+    "revolving-door",
+    "fda",
+    "conflict-of-interest"
   ],
+  "status": "confirmed",
+  "id": "2019-06-27--fda-commissioner-scott-gottlieb-joins-pfizer-board-after-lea",
+  "priority_id": "claude-priority-regulatory-capture-pharma-fda",
+  "category": "regulatory-capture",
+  "location": "Washington, DC, United States",
   "capture_lanes": [
     "Regulatory Capture",
     "Financial Capture",
-    "Intelligence Penetration"
+    "Institutional Corruption"
   ]
 }

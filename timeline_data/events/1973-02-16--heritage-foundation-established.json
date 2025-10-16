@@ -1,0 +1,43 @@
+{
+  "id": "1973-02-16--heritage-foundation-established",
+  "date": "1973-02-16",
+  "title": "Heritage Foundation Founded by Conservative Activists and Business Leaders",
+  "summary": "The Heritage Foundation was formally established on February 16, 1973, by Paul Weyrich, Edwin Feulner, and Joseph Coors. Businessman Joseph Coors provided the critical seed funding of $250,000 (equivalent to $1.6 million in 2021 dollars), enabling the creation of a conservative think tank designed to provide intellectual infrastructure for conservative policy development. Conceived in the basement of the U.S. Capitol by congressional aides Feulner and Weyrich, the foundation was explicitly created to counter liberal academic and policy influence by developing and promoting conservative policy recommendations.",
+  "importance": 9,
+  "sources": [
+    {
+      "outlet": "Philanthropy Roundtable",
+      "title": "Joe Coors Brews Up the Heritage Foundation",
+      "url": "https://www.philanthropyroundtable.org/almanac/joe-coors-brews-up-the-heritage-foundation/"
+    },
+    {
+      "outlet": "Political Research Associates",
+      "title": "Profile on the Right: The Heritage Foundation",
+      "url": "https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation"
+    },
+    {
+      "outlet": "InfluenceWatch",
+      "title": "Heritage Foundation Organizational Profile",
+      "url": "https://www.influencewatch.org/non-profit/heritage-foundation/"
+    }
+  ],
+  "tags": [
+    "conservative_movement",
+    "think_tank_founding",
+    "political_infrastructure",
+    "corporate_influence",
+    "policy_development"
+  ],
+  "actors": [
+    "Paul Weyrich",
+    "Edwin Feulner",
+    "Joseph Coors",
+    "Heritage Foundation"
+  ],
+  "capture_lanes": [
+    "Intellectual Infrastructure",
+    "Policy Development",
+    "Political Network Formation"
+  ],
+  "status": "validated"
+}

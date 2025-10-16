@@ -1,24 +1,35 @@
 {
   "date": "2025-01-20",
-  "title": "JD Vance Sworn in as 50th Vice President with Constitutional Succession Authority",
-  "summary": "JD Vance is sworn in as the 50th Vice President of the United States by Justice Brett Kavanaugh, placing him first in line of presidential succession under the 25th Amendment. At 40 years old, he becomes the third-youngest VP in history and the first Millennial generation VP, with constitutional authority to invoke Section 4 of the 25th Amendment with Cabinet support to remove a sitting president.",
+  "title": "JD Vance Sworn In as 50th Vice President, Positioned for Potential Constitutional Crisis Management",
+  "summary": "JD Vance is inaugurated as the 50th Vice President of the United States on January 20, 2025, sworn in by Supreme Court Justice Brett Kavanaugh in an indoor ceremony at the U.S. Capitol Rotunda. At 40 years old, Vance becomes the third-youngest VP in history, the first Millennial generation VP, and the first Marine Corps veteran to hold the office.\n\nKey Developments:\n- Sworn in by Justice Brett Kavanaugh, with whom his wife Usha previously clerked\n- Used his great-grandmother's family Bible during the oath\n- Placed first in presidential succession under the 25th Amendment\n- Potential constitutional authority to invoke Section 4 with Cabinet support\n\nHistorical Context:\n- Second Catholic vice president after Joe Biden\n- Represents generational shift in political leadership\n- Potential constitutional crisis management role",
   "importance": 9,
   "status": "confirmed",
   "actors": [
     "JD Vance",
     "Brett Kavanaugh",
-    "Donald Trump"
+    "Donald Trump",
+    "Usha Vance",
+    "Supreme Court",
+    "U.S. Senate"
   ],
   "sources": [
     {
-      "title": "https://en.wikipedia.org/wiki/Vice_presidency_of_JD_Vance",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Reuters",
+      "title": "JD Vance Sworn In as Vice President",
+      "url": "https://reuters.screenocean.com/record/1902759",
+      "access_date": "2025-09-17"
     },
     {
-      "title": "https://www.newsx.com/trump-inauguration/vice-president-jd-vance-sworn-in-by-justice-brett-kavanaugh-at-2025-inauguration/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "NBC News",
+      "title": "Watch: JD Vance Is Sworn In as Vice President",
+      "url": "https://www.nbcnews.com/now/video/watch-jd-vance-is-sworn-in-as-vice-president-229771333607",
+      "access_date": "2025-09-17"
+    },
+    {
+      "outlet": "CBS News",
+      "title": "Here's Who Is Swearing In Trump and Vance at the 2025 Inauguration",
+      "url": "https://www.cbsnews.com/news/who-is-swearing-trump-vance-in-2025/",
+      "access_date": "2025-09-17"
     }
   ],
   "tags": [
@@ -26,12 +37,16 @@
     "jd-vance",
     "25th-amendment",
     "vice-president",
-    "constitutional-authority"
+    "constitutional-authority",
+    "millennial-leadership"
   ],
   "id": "2025-01-20--jd-vance-sworn-in-as-50th-vice-president-with-constitutional-succession-authority-1757454835",
   "priority_id": "RP-20250909-vance-succession-risk-analysis",
   "capture_lanes": [
-    "Regulatory Capture",
-    "Executive Power Expansion"
-  ]
+    "Political Succession",
+    "Judicial Capture",
+    "Executive Power Expansion",
+    "Constitutional Transformation"
+  ],
+  "location": "U.S. Capitol Rotunda, Washington, D.C."
 }

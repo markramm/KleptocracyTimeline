@@ -1,8 +1,8 @@
 {
   "id": "2001-06-01--choctaw-capitol-campaign-strategies-contract",
   "date": "2001-06-01",
-  "title": "Mississippi Choctaw Begin 4.7M Capitol Campaign Strategies Contract",
-  "summary": "The Mississippi Band of Choctaw Indians begins paying Michael Scanlon's Capitol Campaign Strategies, ultimately transferring 4.765 million through April 2004. Of this amount, approximately 2.7 million was diverted through the Abramoff-Scanlon \"gimme five\" kickback scheme, with only .2 million actually spent on tribal interests.",
+  "title": "Choctaw Tribe Contract Reveals Abramoff-Scanlon Lobbying Fraud",
+  "summary": "The Mississippi Band of Choctaw Indians begins a contract with Capitol Campaign Strategies, led by Michael Scanlon, who worked closely with Jack Abramoff. The contract was part of a broader corrupt lobbying scheme where Abramoff and Scanlon systematically defrauded Native American tribes. Of the $7.7 million charged, only $1.2 million was spent on actual tribal interests, with the majority diverted through a secret 'gimme five' kickback arrangement. The scheme involved charging excessive fees, splitting profits, and providing undisclosed kickbacks, ultimately leading to federal investigations, multiple guilty pleas, and Abramoff's 48-month prison sentence.",
   "actors": [
     "Mississippi Band of Choctaw Indians",
     "Michael Scanlon",
@@ -14,18 +14,31 @@
       "title": "Senate Report 109-325 - GIMME FIVE Investigation",
       "url": "https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm",
       "outlet": "Senate Indian Affairs Committee"
+    },
+    {
+      "title": "Jack Abramoff Sentencing Press Release",
+      "url": "https://www.justice.gov/archive/opa/pr/2008/September/08-crm-779.html",
+      "outlet": "U.S. Department of Justice"
+    },
+    {
+      "title": "Jack Abramoff Indian Lobbying Scandal",
+      "url": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal",
+      "outlet": "Wikipedia"
     }
   ],
-  "importance": 7,
+  "importance": 8,
   "tags": [
     "choctaw",
     "michael_scanlon",
     "gimme_five",
     "tribal_fraud",
-    "kickbacks"
+    "kickbacks",
+    "lobbying_corruption",
+    "jack_abramoff"
   ],
   "status": "confirmed",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Lobbying Fraud"
   ]
 }

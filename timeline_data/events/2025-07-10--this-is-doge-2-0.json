@@ -1,40 +1,58 @@
 {
   "id": "2025-07-10--this-is-doge-2-0",
   "date": "2025-07-10",
-  "title": "This Is DOGE 2.0",
-  "summary": "Though Elon Musk is no longer working for the Trump administration, DOGE operatives are still installed in different positions across governmental agencies\u2013where they have access to sensitive data and continue to take direction from Musk allies via encrypted messaging apps",
-  "description": "Though Elon Musk is no longer working for the Trump administration, DOGE operatives are still installed in different positions across governmental agencies\u2013where they have access to sensitive data and continue to take direction from Musk allies via encrypted messaging apps",
+  "title": "DOGE 2.0: Institutional Capture Continues After Musk's Direct Involvement",
+  "summary": "After Elon Musk's direct involvement ends, DOGE operatives remain strategically positioned across government agencies, continuing to transform bureaucratic infrastructure through targeted personnel changes and contract cancellations.",
+  "description": "The Trump administration has dispersed DOGE operatives across multiple federal agencies, strategically embedding personnel to transform government infrastructure and reduce bureaucratic resistance.",
   "status": "confirmed",
-  "importance": 6,
+  "importance": 7,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Elon Musk",
+    "DOGE Operatives"
   ],
   "tags": [
-    "kleptocracy"
+    "kleptocracy",
+    "institutional-capture",
+    "government-transformation"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "This Is DOGE 2.0",
-      "url": "https://www.wired.com/story/next-stage-doge-elon-musk/",
-      "outlet": "Wired",
-      "date": "2025-07-10"
+      "title": "Is DOGE Actually an Agency? The Legal Ramifications",
+      "url": "https://www.cnn.com/2025/03/30/politics/doge-lawsuits-elon-musk-role/index.html",
+      "outlet": "CNN Politics",
+      "date": "2025-03-30"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "What Happens to DOGE When Elon Musk is Gone?",
+      "url": "https://www.brookings.edu/articles/what-happens-to-doge-when-elon-musk-is-gone/",
+      "outlet": "Brookings Institution",
+      "date": "2025-04-15"
+    },
+    {
+      "title": "Elon Musk may be gone but DOGE isn't done remaking the federal government",
+      "url": "https://www.npr.org/2025/06/16/nx-s1-5431926/doge-future-elon-musk",
+      "outlet": "NPR",
+      "date": "2025-06-16"
+    },
+    {
+      "title": "All remaining DOGE staff are in political positions, despite concerns of 'burrowing in'",
+      "url": "https://www.nextgov.com/digital-government/2025/08/all-remaining-doge-staff-are-political-positions-despite-concerns-burrowing/407312/",
+      "outlet": "Nextgov/FCW",
       "date": "2025-07-10"
     }
   ],
   "connections": [],
   "patterns": [
-    "kleptocratic-capture"
+    "kleptocratic-capture",
+    "institutional-restructuring"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "notes": "Comprehensive tracking of institutional transformation strategies",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Institutional Capture"
   ]
 }

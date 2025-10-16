@@ -3,8 +3,8 @@
   "date": "2019-09-13",
   "importance": 6,
   "title": "Air Force review finds ~6% of Scotland overnights at Trump Turnberry; DHS OIG tallies USSS spend at resort during 2018 visit",
-  "summary": "An Air Force internal review reported that about 6% (39 of 659) of aircrew overnights near\nPrestwick Airport were at Trump Turnberry; most crews stayed closer to the airfield or in Glasgow.\nSeparately, DHS OIG reported about $9,662 in Secret Service payments to Turnberry for rooms,\ngolf carts, and logistics during the President's July 2018 visit\u2014while also noting incomplete cost\ndata due to system limitations.\n",
-  "notes": "Present both official reviews and press tallies; emphasize that although policies may have been\nfollowed, the arrangements created perceived conflicts of interest warranting oversight scrutiny.\n",
+  "summary": "An Air Force internal review reported that about 6% (39 of 659) of aircrew overnights near Prestwick Airport were at Trump Turnberry; most crews stayed closer to the airfield or in Glasgow. Separately, DHS OIG reported about $9,662 in Secret Service payments to Turnberry for rooms, golf carts, and logistics during the President's July 2018 visit—while also noting incomplete cost data due to system limitations. The reviews raised questions about the ethical implications of government personnel staying at a resort owned by the sitting president, even when technically complying with existing policies.",
+  "notes": "Present both official reviews and press tallies; emphasize that although policies may have been followed, the arrangements created perceived conflicts of interest warranting oversight scrutiny.",
   "status": "confirmed",
   "actors": [
     "U.S. Air Force",
@@ -45,6 +45,30 @@
       "archive_url": "",
       "key_facts_confirmed": [
         "$9,662 paid to Turnberry; incomplete cost data noted"
+      ],
+      "verified": true
+    },
+    {
+      "date": "2019-09-09",
+      "outlet": "NPR",
+      "title": "Air Force, Congress Review Stays At Trump Resort In Turnberry, Scotland",
+      "url": "https://www.npr.org/2019/09/09/759025827/allowable-but-not-advisable-air-force-and-congress-review-stays-at-trump-resort",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "Air Force launches review of international layover stays",
+        "Congress reviewing stays at Trump's resort"
+      ],
+      "verified": true
+    },
+    {
+      "date": "2019-09-12",
+      "outlet": "Washington Post",
+      "title": "Air Force says only 6 percent of crews that stopped in Scotland stayed at Trump Turnberry resort",
+      "url": "https://www.washingtonpost.com/politics/air-force-says-only-6-percent-of-crews-that-stopped-in-scotland-stayed-at-trump-turnberry-resort/2019/09/12/d840747a-d5aa-11e9-9610-fb56c5522e1c_story.html",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "Only 6% of Air Force crews stayed at Turnberry during international stops",
+        "Stays were technically within policy but raised ethical questions"
       ],
       "verified": true
     }

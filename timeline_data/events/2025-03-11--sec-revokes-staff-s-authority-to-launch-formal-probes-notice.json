@@ -1,40 +1,55 @@
 {
   "id": "2025-03-11--sec-revokes-staff-s-authority-to-launch-formal-probes-notice",
   "date": "2025-03-11",
-  "title": "SEC revokes staff's authority to launch formal probes, notice says",
-  "summary": "SEC revoked its enforcement staff\u2019s authority to launch formal investigations without direct approval from Trump-appointed commissioners",
-  "description": "SEC revoked its enforcement staff\u2019s authority to launch formal investigations without direct approval from Trump-appointed commissioners",
+  "title": "SEC Revokes Staff's Investigative Authority, Requiring Direct Commissioner Approval",
+  "summary": "The SEC's Republican-controlled commission voted to revoke the enforcement division's longstanding authority to independently launch formal investigations, requiring direct commissioner approval. This change potentially slows investigative processes and increases political oversight of SEC enforcement actions.",
+  "description": "The SEC's Republican majority revoked the enforcement staff's delegation of authority to launch formal investigations, requiring direct commissioner approval for investigation orders",
   "status": "confirmed",
-  "importance": 7,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Mark Uyeda",
+    "Hester Peirce",
+    "Caroline Crenshaw"
   ],
   "tags": [
-    "regulatory-capture"
+    "regulatory-capture",
+    "sec-transformation",
+    "trump-administration-policy"
   ],
   "capture_type": "regulatory_capture",
   "sources": [
     {
       "title": "SEC revokes staff's authority to launch formal probes, notice says",
       "url": "https://www.reuters.com/world/us/us-sec-revokes-staffs-authority-launch-formal-probes-notice-says-2025-03-11/",
-      "outlet": "REUTERS",
+      "outlet": "Reuters",
       "date": "2025-03-11"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-03-11"
+      "title": "SEC's New Barrier to Formal Investigation Orders May Slow Pace",
+      "url": "https://news.bloomberglaw.com/us-law-week/secs-new-barrier-to-formal-investigation-orders-may-slow-pace",
+      "outlet": "Bloomberg Law",
+      "date": "2025-03-25"
+    },
+    {
+      "title": "The Changing Tides of the SEC Under the Second Trump Administration",
+      "url": "https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/",
+      "outlet": "Harvard Corporate Governance",
+      "date": "2025-04-01"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "SEC Enforcement Structural Changes",
+    "Trump Administration Regulatory Transformation"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-process-manipulation"
+  ],
+  "notes": "Significant restructuring of SEC investigative processes under Trump administration",
   "capture_lanes": [
-    "Regulatory Capture"
+    "Regulatory Capture",
+    "SEC Oversight"
   ]
 }

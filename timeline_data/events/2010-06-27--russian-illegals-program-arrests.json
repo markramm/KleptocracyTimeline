@@ -3,7 +3,7 @@
   "date": "2010-06-27",
   "importance": 5,
   "title": "DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and are swapped",
-  "summary": "The Department of Justice charged 11 individuals on June 27, 2010, for acting\nas unregistered agents of the Russian Federation. Ten pleaded guilty on July\n8, 2010, and were exchanged in a U.S.\u2013Russia spy swap. The case, known as\n\"Operation Ghost Stories,\" involved covert communications and deep-cover\nidentities.\n",
+  "summary": "The Department of Justice charged 11 individuals on June 27, 2010, for acting as unregistered agents of the Russian Federation. Ten pleaded guilty on July 8, 2010, and were exchanged in a U.S.–Russia spy swap. The case, known as \"Operation Ghost Stories,\" involved covert communications and deep-cover identities. The spy ring operated in major U.S. cities, with Anna Chapman being the most prominent member, attempting to establish networks for potential intelligence gathering.",
   "actors": [
     "Anna Chapman",
     "US Department of Justice",
@@ -11,7 +11,8 @@
   ],
   "tags": [
     "russian-spy-ring",
-    "intelligence-operations"
+    "intelligence-operations",
+    "espionage"
   ],
   "status": "confirmed",
   "sources": [
@@ -26,9 +27,21 @@
       "url": "https://www.fbi.gov/history/famous-cases/operation-ghost-stories",
       "outlet": "FBI",
       "date": "2010-07-01"
+    },
+    {
+      "title": "The SoHo Spy: Stunning Anna Chapman Accused in Russian Spy Ring",
+      "url": "https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883",
+      "outlet": "ABC News",
+      "date": "2010-06-29"
+    },
+    {
+      "title": "FBI Releases Video, Documents on Russian Spy Ring, Including Anna Chapman",
+      "url": "https://www.nbcnewyork.com/news/local/russian-spy-videos-anna-chapman-fbi-sexy-spy-photos/2123873/",
+      "outlet": "NBC New York",
+      "date": "2010-06-30"
     }
   ],
-  "notes": "Event framed with primary DOJ/FBI sources. Removed speculative linkages\nunrelated to the case record.\n",
+  "notes": "Event framed with primary DOJ/FBI sources. Added supplemental media coverage. Expanded summary with operational context.",
   "capture_lanes": [
     "Regulatory Capture",
     "Financial Capture",

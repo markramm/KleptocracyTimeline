@@ -1,33 +1,50 @@
 {
-  "id": "1998-06-30--mckinsey-asian-crisis-consulting-contracts",
-  "date": "1998-06-30",
-  "title": "McKinsey Leverages Asian Financial Crisis for Consulting Expansion",
-  "summary": "McKinsey & Company secures unprecedented consulting contracts across Thailand, Indonesia, and South Korea, helping restructure economies in ways that systematically benefit Western corporate interests. These contracts represent a significant mechanism of economic shock therapy.",
-  "importance": 8,
-  "actors": [
-    "McKinsey & Company",
-    "IMF",
-    "World Bank",
-    "Asian Governments"
-  ],
-  "sources": [
-    {
-      "title": "McKinsey's Role in Asian Financial Crisis",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-economics",
-      "outlet": "TBD"
-    }
-  ],
-  "tags": [
-    "mckinsey",
-    "consulting",
-    "structural_adjustment",
-    "economic_shock_therapy",
-    "asian_financial_crisis"
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Financial Capture",
-    "Intelligence Penetration"
-  ]
+    "id": "1998-06-30--mckinsey-asian-crisis-consulting-contracts",
+    "date": "1998-06-30",
+    "title": "McKinsey Leverages Asian Financial Crisis for Consulting Expansion",
+    "summary": "During the 1997-1998 Asian Financial Crisis, McKinsey & Company positioned itself strategically to provide consulting services to governments and financial institutions undergoing IMF-mandated structural reforms. The crisis triggered widespread economic restructuring in Thailand, Indonesia, and South Korea, involving financial sector reforms, corporate governance improvements, and macroeconomic policy adjustments. McKinsey's consulting contracts capitalized on these transformation opportunities, helping design and implement 'international best practices' for banking, corporate governance, and economic liberalization.",
+    "importance": 9,
+    "actors": [
+        "McKinsey & Company",
+        "IMF",
+        "World Bank",
+        "Thailand Government",
+        "Indonesia Government",
+        "South Korea Government"
+    ],
+    "sources": [
+        {
+            "outlet": "IMF",
+            "title": "Recovery from the Asian Crisis and the Role of the IMF",
+            "url": "https://www.imf.org/external/np/exr/ib/2000/062300.HTM",
+            "access_date": "2025-10-06"
+        },
+        {
+            "outlet": "Bloomberg",
+            "title": "McKinsey Sees 'Ominous' Signs of Another Asian Debt Crisis",
+            "url": "https://www.bloomberg.com/news/articles/2019-08-20/omens-of-another-asian-debt-crisis-seen-by-mckinsey-in-stresses",
+            "access_date": "2025-10-06"
+        },
+        {
+            "outlet": "IMF",
+            "title": "The Asian Crisis: Causes, Policy Responses, and Outcomes",
+            "url": "https://www.imf.org/external/pubs/ft/wp/1999/wp99138.pdf",
+            "access_date": "2025-10-15"
+        }
+    ],
+    "tags": [
+        "mckinsey",
+        "consulting",
+        "structural_adjustment",
+        "economic_shock_therapy",
+        "asian_financial_crisis",
+        "imf_intervention",
+        "corporate_restructuring"
+    ],
+    "status": "validated",
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Financial Capture",
+        "Corporate Consulting"
+    ]
 }

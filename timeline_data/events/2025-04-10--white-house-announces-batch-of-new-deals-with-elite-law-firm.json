@@ -1,20 +1,38 @@
 {
   "id": "2025-04-10--white-house-announces-batch-of-new-deals-with-elite-law-firm",
   "date": "2025-04-10",
-  "title": "White House announces batch of new deals with elite law firms",
-  "summary": "Four top law firms\u2014Latham & Watkins, Simpson Thacher, Kirkland & Ellis, and A&O Shearman\u2014are in talks with the Trump White House to deliver $500 million in pro bono work. In return, they would avoid sanctions aimed at firms with \u201cDEI\u201d programs or ties to Trump\u2019s opponents",
-  "description": "Four top law firms\u2014Latham & Watkins, Simpson Thacher, Kirkland & Ellis, and A&O Shearman\u2014are in talks with the Trump White House to deliver $500 million in pro bono work. In return, they would avoid sanctions aimed at firms with \u201cDEI\u201d programs or ties to Trump\u2019s opponents",
+  "title": "Trump White House Brokers Pro Bono Deals with Elite Law Firms",
+  "summary": "The Trump White House negotiated deals with top law firms—including Latham & Watkins, Simpson Thacher, Kirkland & Ellis, and A&O Shearman—to provide approximately $500 million in pro bono legal work. In exchange, these firms would avoid potential sanctions targeting organizations with DEI programs or perceived ties to Trump's political opponents. The agreements involve firms providing free legal services in trade negotiations and administration priorities, effectively using legal representation as a form of political leverage.",
+  "description": "President Trump's administration leveraged executive power to secure pro bono legal services from major law firms by offering protection from potential government sanctions. Firms like Paul Weiss and Skadden agreed to provide millions in free legal work, with some deals reaching $100 million, in exchange for avoiding punitive executive orders.",
   "status": "confirmed",
-  "importance": 7,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Latham & Watkins",
+    "Simpson Thacher",
+    "Kirkland & Ellis",
+    "A&O Shearman",
+    "Paul Weiss",
+    "Skadden"
   ],
   "tags": [
-    "government-contracts"
+    "government-contracts",
+    "executive-power",
+    "legal-capture",
+    "regulatory-leverage"
   ],
   "capture_type": "monetizing_position",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion",
+    "Legal System Manipulation"
+  ],
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-leverage"
+  ],
   "sources": [
     {
       "title": "White House announces batch of new deals with elite law firms",
@@ -23,19 +41,18 @@
       "date": "2025-04-10"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "Trump Floats Asking Top Law Firms to Do Trade Deal Work Pro Bono",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-10/trump-floats-asking-top-law-firms-to-do-trade-deal-work-pro-bono",
+      "outlet": "Bloomberg",
       "date": "2025-04-10"
+    },
+    {
+      "title": "Trump Cuts Pro Bono Deals With Law Firms as He Seeks Trade Help",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-11/trump-cuts-pro-bono-deals-with-law-firms-as-he-seeks-trade-help",
+      "outlet": "Bloomberg",
+      "date": "2025-04-11"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Legislative Capture",
-    "Executive Power Expansion"
-  ]
+  "notes": "Event from comprehensive kleptocracy timeline tracking. Enhanced with additional Bloomberg sources detailing pro bono legal service negotiations.",
+  "connections": []
 }

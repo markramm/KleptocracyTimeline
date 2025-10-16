@@ -32,6 +32,31 @@
       "url": "https://constitutioncenter.org/blog/on-this-day-bush-v-gore-anniversary",
       "outlet": "Constitution Center",
       "date": "2000-12-12"
+    },
+    {
+      "title": "Bush v. Gore Supreme Court Case Details",
+      "url": "https://www.law.cornell.edu/supct/html/00-949.ZPC.html",
+      "outlet": "Cornell Law",
+      "date": "2000-12-12"
+    },
+    {
+      "title": "Bush v. Gore: Supreme Court Legal Analysis",
+      "url": "https://www.oyez.org/cases/2000/00-949",
+      "outlet": "Oyez",
+      "date": "2000-12-12"
+    },
+    {
+      "title": "Irreparable Harm: The U.S. Supreme Court and the Decision That Made George W. Bush President",
+      "url": "https://www.brookings.edu/books/bush-v-gore/",
+      "outlet": "Brookings Institution Press",
+      "date": "2001-02-01"
+    },
+    {
+      "title": "Bush v. Gore: Perspectives on the Supreme Court Judicial Intervention",
+      "url": "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=3000&context=journal_articles",
+      "outlet": "University of Chicago Law Review",
+      "date": "2001-01-15",
+      "type": "Academic Legal Analysis"
     }
   ],
   "status": "confirmed",

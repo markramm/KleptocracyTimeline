@@ -2,8 +2,8 @@
   "id": "2025-07-11--federal-judge-blocks-indiscriminate-ice-raids-los-angeles",
   "date": "2025-07-11",
   "title": "Federal judge orders stop to \"indiscriminate\" ICE raids in Los Angeles",
-  "summary": "Federal Judge Maame Ewusi-Mensah Frimpong ordered the Trump administration to stop immigration sweeps in southern California, citing \"a mountain of evidence\" that agents were arresting people solely based on race, accents, or type of work. The ruling represents a significant judicial pushback against the administration's aggressive enforcement tactics.",
-  "importance": 7,
+  "summary": "Federal Judge Maame Ewusi-Mensah Frimpong issued a landmark ruling ordering the Trump administration to stop indiscriminate immigration sweeps in Southern California. The ruling came after the ACLU brought a case alleging unconstitutional arrests and denial of attorney access. The judge found substantial evidence that ICE agents were arresting people solely based on race, accents, or type of work, in violation of the Fourth Amendment. The temporary restraining order covers Los Angeles and six surrounding counties, requiring DHS to develop new guidelines for determining reasonable suspicion that do not rely on racial profiling or discriminatory practices.",
+  "importance": 8,
   "tags": [
     "immigration-enforcement",
     "ICE",
@@ -11,13 +11,16 @@
     "racial-profiling",
     "constitutional-violations",
     "Los-Angeles",
-    "court-ruling"
+    "court-ruling",
+    "civil-rights",
+    "trump-administration"
   ],
   "actors": [
     "Judge Maame Ewusi-Mensah Frimpong",
     "ICE",
     "DHS",
-    "U.S. District Court Central District of California"
+    "U.S. District Court Central District of California",
+    "ACLU of Southern California"
   ],
   "sources": [
     {
@@ -25,12 +28,25 @@
       "url": "https://www.npr.org/2025/07/11/nx-s1-5462618/federal-judge-orders-stop-to-indiscriminate-immigration-raids-in-los-angeles",
       "outlet": "NPR",
       "date": "2025-07-11"
+    },
+    {
+      "title": "Judge orders halt to 'roving' LA immigration raids",
+      "url": "https://calmatters.org/justice/2025/07/la-immigration-restraining-order/",
+      "outlet": "CalMatters",
+      "date": "2025-07-11"
+    },
+    {
+      "title": "Judge orders Trump administration to stop immigration arrests without probable cause in Southern California",
+      "url": "https://www.cnn.com/2025/07/11/politics/california-immigration-arrests-probable-cause",
+      "outlet": "CNN",
+      "date": "2025-07-11"
     }
   ],
   "status": "confirmed",
   "capture_lanes": [
     "Judicial Capture",
-    "Financial Capture",
-    "Intelligence Penetration"
+    "Institutional Capture",
+    "Legal Resistance",
+    "Constitutional Challenges"
   ]
 }

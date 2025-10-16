@@ -38,6 +38,20 @@
       "outlet": "Rolling Stone",
       "date": "2024-07-25",
       "verified": true
+    },
+    {
+      "title": "GOP media personality Janelle King appointed to Georgia election board",
+      "url": "https://www.ajc.com/politics/gop-media-personality-janelle-king-appointed-to-georgia-election-board/BJ3CGB2PJZCKPCO5FKIT5FCEVA/",
+      "outlet": "Atlanta Journal-Constitution",
+      "date": "2024-05-18",
+      "verified": true
+    },
+    {
+      "title": "Georgia Election Board Moves To Help Trump In 2024",
+      "url": "https://thinkbigpicture.substack.com/p/trump-2024-georgia-election-board",
+      "outlet": "Think Big Picture",
+      "date": "2024-08-15",
+      "verified": true
     }
   ],
   "status": "confirmed"

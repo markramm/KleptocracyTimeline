@@ -3,21 +3,24 @@
   "date": "2019-09-24",
   "importance": 9,
   "title": "Trump Freezes Ukraine Military Aid Demanding Biden Investigation",
-  "summary": "President Trump froze $391 million in congressionally approved military aid to Ukraine while pressuring President Zelensky to investigate Joe Biden and his son Hunter. In a July 25 phone call, Trump told Zelensky 'I would like you to do us a favor though' immediately after Zelensky mentioned needing Javelin missiles to defend against Russia. Trump asked Zelensky to work with Rudy Giuliani and Attorney General Barr to investigate Biden, saying 'Biden went around bragging that he stopped the prosecution.' The aid freeze endangered Ukraine's defense against Russian aggression. A whistleblower complaint revealed the scheme, leading to Trump's first impeachment. The House voted 230-197 to impeach for abuse of power and obstruction of Congress, though the Republican Senate acquitted 52-48. This marked the first time a president used military aid as leverage for personal political gain against a domestic rival.",
+  "summary": "President Trump orchestrated a multi-month campaign to pressure Ukraine into investigating Joe Biden and his son Hunter, using $391 million in congressionally approved military aid as leverage. In a July 25 phone call with President Zelensky, Trump explicitly demanded 'I would like you to do us a favor though' immediately after Zelensky mentioned needing Javelin missiles to defend against Russia. Trump instructed Zelensky to collaborate with Rudy Giuliani and Attorney General Barr to investigate Biden, claiming 'Biden went around bragging that he stopped the prosecution.' A subsequent whistleblower complaint revealed this scheme, detailing how Trump used presidential power to solicit foreign interference in the 2020 U.S. election.\n\nThe House Intelligence Committee's impeachment inquiry report concluded that Trump 'subverted U.S. foreign policy toward Ukraine and undermined our national security in favor of two politically motivated investigations.' The House voted 230-197 to impeach Trump for abuse of power and obstruction of Congress on December 18, 2019. This marked the first time in U.S. history a president used military aid as direct leverage for personal political gain against a domestic political rival.",
   "actors": [
     "Donald Trump",
-    "Volodymyr Zelensky",
-    "Rudy Giuliani",
-    "Ukraine",
-    "Joe Biden",
-    "William Barr"
+    "Volodymyr Zelensky", 
+    "Rudy Giuliani", 
+    "William Barr",
+    "Joe Biden", 
+    "Hunter Biden",
+    "Adam Schiff",
+    "Nancy Pelosi"
   ],
   "tags": [
-    "ukraine",
-    "impeachment",
-    "quid-pro-quo",
-    "abuse-of-power",
-    "election-interference"
+    "ukraine", 
+    "impeachment", 
+    "quid-pro-quo", 
+    "abuse-of-power", 
+    "election-interference", 
+    "foreign-policy-manipulation"
   ],
   "status": "confirmed",
   "sources": [
@@ -38,13 +41,26 @@
       "url": "https://www.washingtonpost.com/context/read-the-whistleblower-complaint-regarding-president-trump-s-communications-with-ukrainian-president-volodymyr-zelensky/",
       "outlet": "Washington Post",
       "date": "2019-09-26"
+    },
+    {
+      "title": "House Intelligence Committee Impeachment Inquiry Report",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-Y4_IN8_18-PURL-gpo129303/pdf/GOVPUB-Y4_IN8_18-PURL-gpo129303.pdf",
+      "outlet": "U.S. Government Publishing Office",
+      "date": "2019-12-03"
+    },
+    {
+      "title": "Impeachment Inquiry: Official Transcript of Presidential Call",
+      "url": "https://www.congress.gov/event/116th-congress/house-event/LC64638/text",
+      "outlet": "U.S. Congress",
+      "date": "2019-09-25"
     }
   ],
   "capture_lanes": [
     "Media Capture & Control",
-    "Regulatory Capture",
-    "Legislative Capture",
-    "Electoral Manipulation",
-    "Executive Power Expansion"
+    "Regulatory Capture", 
+    "Legislative Capture", 
+    "Electoral Manipulation", 
+    "Executive Power Expansion",
+    "Foreign Policy Manipulation"
   ]
 }

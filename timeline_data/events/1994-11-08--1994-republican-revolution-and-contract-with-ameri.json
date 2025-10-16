@@ -1,42 +1,53 @@
 {
-  "date": "1994-11-08",
-  "title": "1994 Republican Revolution and Contract with America Victory",
-  "summary": "Republicans achieved an unprecedented victory in the 1994 midterm elections, gaining control of both the House and Senate for the first time in 40 years, ending four decades of Democratic dominance in Congress. Led by Rep. Newt Gingrich, who became Speaker of the House, the GOP united under the \"Contract with America,\" a 10-point legislative platform promising to reduce federal taxes, balance the budget, and reform social welfare programs. This victory was significantly funded by corporate donors and conservative foundations, including major contributions from GOPAC donors such as textile magnates, real estate developers, and capital investment firms. The Heritage Foundation, backed by billionaires like Richard Mellon Scaife and Joseph Coors, provided intellectual foundation. The Republican Revolution marked the beginning of systematic corporate capture of the legislative process, setting the stage for the K Street Project's formalized pay-to-play system.",
-  "actors": [
-    "Newt Gingrich",
-    "Republican Party",
-    "GOPAC",
-    "Heritage Foundation",
-    "Joseph Coors",
-    "Richard Mellon Scaife"
-  ],
-  "sources": [
-    {
-      "title": "https://ushistory.online/republican-revolution/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.csmonitor.com/1995/1215/15012.html",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "importance": 8,
-  "tags": [
-    "political-revolution",
-    "corporate-influence",
-    "regulatory-capture",
-    "conservative-movement"
-  ],
-  "status": "confirmed",
-  "id": "1994-11-08--1994-republican-revolution-and-contract-with-ameri",
-  "priority_id": "RT-85893EE2-gingrich-k-street-project",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Legislative Capture",
-    "Financial Capture",
-    "Intelligence Penetration",
-    "Electoral Manipulation"
-  ]
+    "id": "1994-11-08--1994-republican-revolution-and-contract-with-ameri",
+    "date": "1994-11-08",
+    "title": "1994 Republican Revolution and Contract with America Victory",
+    "summary": "Republicans achieved an unprecedented victory in the 1994 midterm elections, gaining control of both the House and Senate for the first time in 40 years, ending four decades of Democratic dominance in Congress. Led by Rep. Newt Gingrich, who became Speaker of the House, the GOP united under the \"Contract with America,\" a 10-point legislative platform promising to reduce federal taxes, balance the budget, and reform social welfare programs. This victory was significantly funded by corporate donors and conservative foundations, including major contributions from GOPAC donors. The Heritage Foundation, backed by billionaires like Richard Mellon Scaife and Joseph Coors, provided intellectual foundation for the revolution. The election marked a systematic shift in legislative power, setting the stage for more aggressive conservative policy implementation.",
+    "importance": 9,
+    "actors": [
+        "Newt Gingrich",
+        "Tom Foley",
+        "Republican Party",
+        "GOPAC",
+        "Heritage Foundation",
+        "Joseph Coors",
+        "Richard Mellon Scaife"
+    ],
+    "sources": [
+        {
+            "outlet": "History.com",
+            "title": "The Republican Revolution: How Newt Gingrich Transformed U.S. Politics",
+            "url": "https://www.history.com/this-day-in-history/november-8/the-republican-revolution",
+            "retrieved": "2025-10-06",
+            "type": "historical-analysis"
+        },
+        {
+            "outlet": "Heritage Foundation",
+            "title": "The Contract with America: Implementing New Ideas in the U.S.",
+            "url": "https://www.heritage.org/political-process/report/the-contract-america-implementing-new-ideas-the-us",
+            "retrieved": "2025-10-06",
+            "type": "primary-source-analysis"
+        },
+        {
+            "outlet": "Britannica",
+            "title": "Contract with America Political Strategy",
+            "url": "https://www.britannica.com/event/Contract-with-America",
+            "retrieved": "2025-10-06",
+            "type": "encyclopedic-reference"
+        }
+    ],
+    "tags": [
+        "political-revolution",
+        "corporate-influence",
+        "regulatory-capture",
+        "conservative-movement",
+        "legislative-transformation"
+    ],
+    "capture_lanes": [
+        "Legislative Capture",
+        "Financial Capture",
+        "Ideological Transformation"
+    ],
+    "status": "confirmed",
+    "priority_id": "RT-85893EE2-gingrich-k-street-project"
 }

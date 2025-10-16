@@ -12,22 +12,33 @@
   ],
   "sources": [
     {
-      "title": "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "European Council",
+      "title": "EU Sanctions Timeline Against Russia",
+      "url": "https://www.consilium.europa.eu/en/policies/sanctions-against-russia/timeline-sanctions-against-russia/"
     },
     {
-      "title": "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "CNBC",
+      "title": "MH17 crisis a wake-up call to Europe over sanctions, says Obama",
+      "url": "https://www.cnbc.com/2014/07/19/mh17-crisis-a-wake-up-call-to-europe-over-sanctions-says-obama.html"
+    },
+    {
+      "outlet": "France 24",
+      "title": "Russia defiant as US, EU unveil 'phase three' sanctions",
+      "url": "https://www.france24.com/en/20140730-russia-defiant-usa-eu-phase-three-sectoral-sanctions"
+    },
+    {
+      "outlet": "US Department of Treasury",
+      "title": "Sectoral Sanctions Identifications List (Original July 2014 Release)",
+      "url": "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx"
     }
   ],
-  "importance": 8,
+  "importance": 9,
   "tags": [
     "sanctions",
     "mh17",
     "financial-restrictions",
-    "energy-sector"
+    "energy-sector",
+    "ukraine-conflict"
   ],
   "status": "confirmed",
   "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia",

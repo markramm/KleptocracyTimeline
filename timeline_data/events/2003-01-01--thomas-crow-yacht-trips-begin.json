@@ -1,9 +1,9 @@
 {
   "id": "2003-01-01--thomas-crow-yacht-trips-begin",
   "date": "2003-01-01",
-  "importance": 7,
-  "title": "Clarence Thomas Begins Accepting Undisclosed Yacht Trips from Harlan Crow",
-  "summary": "Justice Clarence Thomas begins pattern of accepting luxury yacht vacations from billionaire GOP donor Harlan Crow without disclosure, marking start of two-decade pattern of unreported gifts worth millions",
+  "importance": 8,
+  "title": "Clarence Thomas Begins Undisclosed Luxury Trips on Harlan Crow's Yacht and Private Jets",
+  "summary": "Justice Clarence Thomas begins a two-decade pattern of accepting luxury yacht vacations and private jet trips from billionaire GOP donor Harlan Crow without disclosure, violating Supreme Court ethics standards. Senate investigations revealed nearly $4.2 million in undisclosed gifts, including international superyacht cruises and private jet travel.",
   "location": "Various International",
   "actors": [
     "Clarence Thomas",
@@ -15,7 +15,8 @@
     "supreme-court",
     "undisclosed-gifts",
     "ethics-violations",
-    "luxury-travel"
+    "luxury-travel",
+    "supreme-court-ethics"
   ],
   "capture_lanes": [
     "Financial Corruption & Kleptocracy",
@@ -35,6 +36,18 @@
       "outlet": "ProPublica",
       "date": "2023-04-06",
       "archive_url": "https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow"
+    },
+    {
+      "date": "2024-06-07",
+      "outlet": "CNN",
+      "title": "Justice Clarence Thomas took more trips on GOP megadonor's private plane than previously known",
+      "url": "https://www.cnn.com/2024/06/13/politics/clarence-thomas-harlan-crow-private-plane-ethics-supreme-court/index.html"
+    },
+    {
+      "date": "2024-06-07",
+      "outlet": "NBC News",
+      "title": "Justice Clarence Thomas discloses trips paid for by billionaire Harlan Crow",
+      "url": "https://www.nbcnews.com/politics/supreme-court/justice-clarence-thomas-discloses-trips-paid-billionaire-harlan-crow-rcna102539"
     }
   ],
   "notes": "ProPublica data shows Crow's yacht company operated from 2003-2015, reporting $8 million in losses that helped reduce Crow's taxes. Pattern of trips continued for over 20 years.",

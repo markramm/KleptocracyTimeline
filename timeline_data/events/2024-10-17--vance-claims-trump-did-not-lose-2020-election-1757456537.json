@@ -1,7 +1,7 @@
 {
   "date": "2024-10-17",
   "title": "Vance Claims Trump Did Not Lose 2020 Election",
-  "summary": "In October 2024 interview, VP nominee J.D. Vance explicitly states \"Donald Trump didn't lose\" the 2020 election, cementing his role as election denier willing to undermine democratic norms.",
+  "summary": "In October 2024 interview, VP nominee J.D. Vance explicitly states \"Donald Trump didn't lose\" the 2020 election, cementing his role as election denier willing to undermine democratic norms. Vance repeatedly declined to acknowledge Biden's legitimate victory, instead claiming there were \"serious problems in 2020\" and refusing to use words that would admit Trump's loss.",
   "actors": [
     "J.D. Vance",
     "Donald Trump",
@@ -10,14 +10,22 @@
   "importance": 10,
   "sources": [
     {
-      "title": "Interview transcript",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "JD Vance says 'no,' he does not think Trump lost in 2020",
+      "url": "https://www.npr.org/2024/10/16/nx-s1-5155220/jd-vance-donald-trump-2020-election-loss-answer-no",
+      "outlet": "NPR",
+      "date": "2024-10-16"
     },
     {
-      "title": "Media coverage",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "Vance says Trump didn't lose the 2020 election: 'Not by the words I would use'",
+      "url": "https://www.nbcnews.com/politics/2024-election/vance-says-trump-not-lose-2020-election-not-words-use-rcna175787",
+      "outlet": "NBC News",
+      "date": "2024-10-17"
+    },
+    {
+      "title": "Fact-check: Here is how we know Vance's statement that Trump did not lose in 2020 is false",
+      "url": "https://www.politifact.com/factchecks/2024/oct/17/jd-vance/fact-check-here-is-how-we-know-vances-statement-th/",
+      "outlet": "PolitiFact",
+      "date": "2024-10-17"
     }
   ],
   "tags": [

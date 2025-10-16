@@ -1,37 +1,47 @@
 {
-  "date": "1971-08-23",
-  "title": "Lewis Powell Authors Corporate Blueprint Memo",
-  "summary": "Supreme Court Justice nominee Lewis F. Powell Jr. writes confidential memo to U.S. Chamber of Commerce outlining systematic strategy for corporate capture of democratic institutions. The memo, titled \"Attack On American Free Enterprise System,\" provides detailed blueprint for business mobilization through think tanks, legal foundations, lobbying organizations, and media influence.",
-  "importance": 9,
-  "status": "confirmed",
-  "actors": [
-    "Lewis F. Powell Jr.",
-    "Eugene B. Sydnor Jr.",
-    "U.S. Chamber of Commerce"
-  ],
-  "sources": [
-    {
-      "title": "https://scholarlycommons.law.wlu.edu/powellmemo/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "tags": [
-    "capture-cascade",
-    "blueprint",
-    "institutional-capture",
-    "powell-memo",
-    "chamber-of-commerce"
-  ],
-  "id": "1971-08-23--lewis-powell-authors-corporate-blueprint-memo-1757454606",
-  "priority_id": "RP-20250109-capture-cascade-part1",
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Judicial Capture"
-  ]
+    "id": "1971-08-23--lewis-powell-authors-corporate-blueprint-memo-1757454606",
+    "date": "1971-08-23",
+    "title": "Lewis Powell Authors Corporate Blueprint Memo",
+    "summary": "Supreme Court Justice nominee Lewis F. Powell Jr. writes confidential memo to U.S. Chamber of Commerce outlining systematic strategy for corporate capture of democratic institutions. The memo provides a detailed blueprint for business mobilization through think tanks, legal foundations, lobbying organizations, and media influence. Scholars consider this document a foundational text in understanding how corporations systematically transformed American political and legal infrastructure.",
+    "importance": 9,
+    "status": "confirmed",
+    "actors": [
+        "Lewis F. Powell Jr.",
+        "Eugene B. Sydnor Jr.",
+        "U.S. Chamber of Commerce",
+        "Richard Mellon Scaife",
+        "Joe Coors",
+        "Koch Brothers"
+    ],
+    "sources": [
+        {
+            "outlet": "Washington and Lee University School of Law",
+            "title": "Lewis F. Powell Jr. Papers: Memorandum on American Free Enterprise",
+            "url": "https://scholarlycommons.law.wlu.edu/powellmemo/"
+        },
+        {
+            "outlet": "The American Prospect",
+            "title": "The Legend of the Powell Memo",
+            "url": "https://prospect.org/article/legend-powell-memo/"
+        },
+        {
+            "outlet": "Senator Sheldon Whitehouse",
+            "title": "The Scheme 1: The Powell Memo",
+            "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/"
+        }
+    ],
+    "tags": [
+        "capture-cascade",
+        "blueprint",
+        "institutional-capture",
+        "powell-memo",
+        "chamber-of-commerce",
+        "corporate-influence"
+    ],
+    "priority_id": "RP-20250109-capture-cascade-part1",
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Judicial Capture",
+        "Corporate Political Strategy"
+    ]
 }

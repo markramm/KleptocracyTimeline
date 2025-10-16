@@ -1,31 +1,44 @@
 {
+  "id": "1985-01-01--ronald-perelman-receives-750-million-drexel-blind-pool-for-c",
   "date": "1985-01-01",
   "title": "Ronald Perelman Receives $750 Million Drexel Blind Pool for Corporate Acquisitions",
-  "summary": "Michael Milken raised $750 million in a blind pool for Ronald Perelman, providing him with unprecedented acquisition firepower. This blind pool would prove instrumental in Perelman's biggest corporate targets and represented the scaling up of Drexel's raider financing model. The pool established Perelman as one of the most well-financed corporate raiders of the 1980s.",
+  "summary": "In 1985, Michael Milken raised a $750 million blind pool for Ronald Perelman through Drexel Burnham Lambert, providing unprecedented capital for corporate takeovers. This financing enabled Perelman to launch a successful hostile takeover of Revlon in November 1985 for $2.7 billion, demonstrating the power of Milken's innovative junk bond financing model. The blind pool represented a key mechanism of 1980s corporate raiding, where financiers like Milken would raise large pools of speculative capital to fund aggressive corporate acquisitions.",
   "importance": 7,
   "actors": [
     "Ronald Perelman",
     "Michael Milken",
     "Drexel Burnham Lambert"
   ],
-  "sources": [
-    {
-      "title": "Corporate raid",
-      "url": "https://en.wikipedia.org/wiki/Corporate_raid",
-      "outlet": "Wikipedia"
-    }
-  ],
   "tags": [
     "corporate raiders",
-    "Ronald Perelman",
-    "Michael Milken",
-    "Drexel Burnham Lambert",
     "junk bonds",
-    "acquisitions"
+    "hostile takeover",
+    "financial innovation",
+    "leveraged buyout"
   ],
-  "id": "1985-01-01--ronald-perelman-receives-750-million-drexel-blind-pool-for-c",
-  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "Connie Bruck, The Predators' Ball",
+      "title": "The Inside Story of Drexel Burnham and the Rise of the Junk Bond Raiders",
+      "url": "https://www.penguinrandomhouse.com/books/298264/the-predators-ball-by-connie-bruck/",
+      "type": "book"
+    },
+    {
+      "outlet": "Encyclopedia.com",
+      "title": "Ronald Perelman Business Profile",
+      "url": "https://www.encyclopedia.com/education/economics-magazines/perelman-ronald-owen",
+      "type": "reference"
+    },
+    {
+      "outlet": "FundingUniverse",
+      "title": "History of MacAndrews & Forbes Holdings Inc.",
+      "url": "https://www.fundinguniverse.com/company-histories/macandrews-forbes-holdings-inc-history/",
+      "type": "historical source"
+    }
+  ],
   "capture_lanes": [
-    "Systematic Corruption"
-  ]
+    "Systematic Corruption",
+    "Financial Engineering"
+  ],
+  "status": "confirmed"
 }

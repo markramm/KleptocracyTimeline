@@ -1,18 +1,23 @@
 {
   "id": "2025-05-07--trump-administration-to-stop-us-research-on-space-pollution-",
   "date": "2025-05-07",
-  "title": "Trump administration to stop US research on space pollution, in boon to Elon Musk",
-  "summary": "The Trump administration moved to end federal research into space pollution from satellites and rockets, much of which is caused by SpaceX\u2013which ultimately could have led to new regulations for private space exploration companies like Musk's",
-  "description": "The Trump administration moved to end federal research into space pollution from satellites and rockets, much of which is caused by SpaceX\u2013which ultimately could have led to new regulations for private space exploration companies like Musk's",
+  "title": "Trump Administration Moves to Eliminate Space and Rocket Launch Environmental Research",
+  "summary": "The Trump administration proposed executive orders and budget cuts to eliminate environmental research and monitoring for rocket launches and atmospheric pollution, a move that would primarily benefit private space companies like SpaceX by reducing regulatory oversight and potential future restrictions.",
+  "description": "The Trump administration moved to end federal research into space pollution and rocket launch environmental impacts, effectively benefiting private space companies like SpaceX by reducing regulatory oversight.",
   "status": "confirmed",
-  "importance": 6,
+  "importance": 7,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Elon Musk",
+    "SpaceX"
   ],
   "tags": [
-    "kleptocracy"
+    "kleptocracy",
+    "space-industry",
+    "environmental-deregulation",
+    "project-2025"
   ],
   "capture_type": "monetizing_position",
   "sources": [
@@ -23,18 +28,29 @@
       "date": "2025-05-07"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "Trump Moves to Eliminate Environmental Regulations for Rocket Launches",
+      "url": "https://www.propublica.org/article/trump-musk-spacex-rocket-launch-environmental-regulation-rollback",
+      "outlet": "ProPublica",
+      "date": "2025-05-07"
+    },
+    {
+      "title": "Trump administration takes aim at scientific pollution tracking satellites",
+      "url": "https://www.npr.org/2025/08/04/nx-s1-5453731/nasa-carbon-dioxide-satellite-mission-threatened",
+      "outlet": "NPR",
       "date": "2025-05-07"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Project 2025",
+    "Commercial Space Industry Deregulation"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-rollback"
+  ],
+  "notes": "Comprehensive tracking of regulatory capture in commercial space sector",
   "capture_lanes": [
-    "Financial Capture"
+    "Financial Capture",
+    "Regulatory Capture"
   ]
 }

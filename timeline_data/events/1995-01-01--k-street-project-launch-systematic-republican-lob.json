@@ -9,14 +9,22 @@
   ],
   "sources": [
     {
-      "title": "https://www.sourcewatch.org/index.php/K_Street_Project",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "NPR",
+      "title": "The K Street Project and Jack Abramoff",
+      "url": "https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff",
+      "date_accessed": "2025-10-06"
     },
     {
-      "title": "https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Roll Call",
+      "title": "The State of K Street: Work in the Shadows",
+      "url": "https://rollcall.com/2012/06/07/the-state-of-k-street-work-in-the-shadows/",
+      "date_accessed": "2025-10-06"
+    },
+    {
+      "outlet": "OpenSecrets.org",
+      "title": "Revolving Door: Newt Gingrich Employment Summary",
+      "url": "https://www.opensecrets.org/revolving/rev_summary.php?id=8534",
+      "date_accessed": "2025-10-06"
     }
   ],
   "importance": 9,

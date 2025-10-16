@@ -2,26 +2,72 @@
   "id": "1142-01-01--haudenosaunee-democratic-consensus-model",
   "date": "1142-01-01",
   "title": "Haudenosaunee Confederacy: Pre-Constitutional Democratic Model",
-  "summary": "The Haudenosaunee (Iroquois) Confederacy represents a sophisticated pre-colonial democratic system with consensus-based governance, individual rights protections, and complex inter-tribal negotiation mechanisms that significantly influenced early American democratic thought.",
-  "importance": 8,
+  "summary": "The Haudenosaunee (Iroquois) Confederacy established a sophisticated democratic system centuries before the United States Constitution, featuring consensus-based governance, sophisticated separation of powers, personal rights protections, and significant roles for women in political leadership. Benjamin Franklin and other Founding Fathers explicitly studied and acknowledged the Confederacy's political innovations, which directly influenced constitutional design principles.\n\nScholarly research highlights specific democratic features predating European models: separation of military and civil leadership, protection of individual freedoms including religious liberty, democratic processes like referendums and recalls, and meaningful political participation for women.",
+  "importance": 9,
   "actors": [
     "Haudenosaunee Confederacy",
-    "Indigenous Leadership"
+    "Indigenous Leadership",
+    "Benjamin Franklin",
+    "John Adams",
+    "Thomas Jefferson",
+    "Donald A. Grinde, Jr.",
+    "Robert J. Miller"
   ],
   "sources": [
     {
-      "title": "Indigenous Foundations of American Democracy",
-      "url": "academic research paper",
-      "outlet": "Indigenous Governance Research Center"
+      "title": "The Native American Roots of the U.S. Constitution",
+      "outlet": "JSTOR Daily",
+      "url": "https://daily.jstor.org/the-native-american-roots-of-the-u-s-constitution/",
+      "type": "Academic Analysis"
+    },
+    {
+      "title": "The United States Constitution and the Iroquois League",
+      "author": "Elisabeth Tooker",
+      "outlet": "Ethnohistory",
+      "date": "1988-10-01",
+      "volume": "Vol. 35, No. 4",
+      "pages": "305-336",
+      "type": "Scholarly Article"
+    },
+    {
+      "title": "Exemplar of Liberty: Native America and the Evolution of Democracy",
+      "author": "Donald A. Grinde, Jr.",
+      "outlet": "Academic Publication",
+      "type": "Historical Research"
+    },
+    {
+      "title": "U.S. Senate Resolution Recognizing Iroquois Confederacy Influence",
+      "date": "1987-09-16",
+      "outlet": "U.S. Senate Official Records",
+      "url": "https://www.oneidaindiannation.com/fast-facts-democracy-and-the-haudenosaunee/",
+      "type": "Official Recognition"
+    },
+    {
+      "title": "American Indian Constitutions and Their Influence on the United States Constitution",
+      "author": "Robert J. Miller",
+      "outlet": "Proceedings of the American Philosophical Society",
+      "date": "2015-03-01",
+      "type": "Scholarly Article"
+    },
+    {
+      "title": "The Indigenous Influence Theory of American Democracy",
+      "author": "Jerry D. Stubben",
+      "outlet": "Social Science Quarterly",
+      "date": "2000-09-01",
+      "type": "Academic Research"
     }
   ],
   "tags": [
     "indigenous-democracy",
     "consensus-governance",
-    "pre-colonial-democracy"
+    "pre-colonial-democracy",
+    "constitutional-origins",
+    "political-innovation",
+    "native-american-governance"
   ],
   "status": "confirmed",
   "capture_lanes": [
-    "Financial Capture"
+    "Financial Capture",
+    "Political Systems Capture"
   ]
 }

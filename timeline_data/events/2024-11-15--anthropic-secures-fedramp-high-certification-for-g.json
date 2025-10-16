@@ -1,40 +1,57 @@
 {
-  "date": "2024-11-15",
-  "title": "Anthropic Secures FedRAMP High Certification for Government AI Deployment",
-  "summary": "Anthropic achieved FedRAMP High certification for Claude, the most stringent security requirement for handling unclassified sensitive government data, followed by Palantir announcing a partnership to provide U.S. intelligence and defense agencies access to Claude 3 and 3.5 in classified environments.\n\nThis represents the first deployment of Claude models in classified government settings, demonstrating how AI safety rhetoric serves as a pathway to critical national security infrastructure contracts. Anthropic leveraged their Constitutional AI framework and safety positioning to gain unprecedented access to government decision-making systems.\n\nThe partnership with Palantir, a company with extensive intelligence community ties, positions Anthropic's AI systems at the center of national security operations. This integration of private AI systems into classified government functions raises significant concerns about corporate influence over state surveillance and intelligence activities.\n\nAnthropic's approach differs from competitors by emphasizing constitutional AI principles and safety frameworks, which proved effective in gaining government trust and security clearances. The company's partnerships with external domain experts in terrorism, radicalization, and national security further embedded them within government policy networks.",
   "actors": [
     "Anthropic",
     "Palantir",
     "U.S. intelligence agencies",
     "Defense agencies",
-    "FedRAMP"
+    "FedRAMP",
+    "General Services Administration (GSA)",
+    "AWS",
+    "Google Cloud"
   ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Technological Infrastructure"
+  ],
+  "date": "2024-11-15",
+  "id": "2024-11-15--anthropic-secures-fedramp-high-certification-for-g",
+  "importance": 9,
+  "priority_id": "RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic",
+  "sources": [
+    {
+      "outlet": "TechCrunch",
+      "title": "Anthropic Takes Aim at OpenAI, Offers Claude to All Three Branches of Government for $1",
+      "url": "https://techcrunch.com/2025/08/12/anthropic-takes-aim-at-openai-offers-claude-to-all-three-branches-of-government-for-1/",
+      "verified_date": "2025-08-12",
+      "access_date": "2025-10-06"
+    },
+    {
+      "outlet": "GSA News Release",
+      "title": "GSA Strikes OneGov Deal with Anthropic for Government AI Access",
+      "url": "https://www.gsa.gov/about-us/newsroom/news-releases/gsa-strikes-onegov-deal-with-anthropic-08122025",
+      "verified_date": "2025-08-12",
+      "access_date": "2025-10-06"
+    },
+    {
+      "outlet": "Anthropic",
+      "title": "Claude in Amazon Bedrock: Approved for FedRAMP High and DoD IL4/5 Workloads",
+      "url": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
+      "verified_date": "2024-11-15",
+      "access_date": "2025-10-06"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Anthropic achieved comprehensive FedRAMP High certification for Claude across multiple cloud platforms, enabling secure AI deployment across all three branches of the U.S. government. Through a groundbreaking $1 OneGov deal with the General Services Administration (GSA), Anthropic offers Claude AI to federal, legislative, and judicial agencies with unprecedented accessibility.\n\nKey achievements include:\n- FedRAMP High authorization on Amazon Bedrock and Google Cloud Vertex AI\n- Multicloud infrastructure supporting DoD Impact Level 4 and 5 workloads\n- First major AI company to offer government-wide access for just $1 per agency\n- Partnerships with AWS, Google Cloud, and Palantir for secure AI integration\n\nThis strategic move positions Anthropic at the center of government AI adoption, leveraging their Constitutional AI framework to gain critical national security infrastructure contracts.",
   "tags": [
     "ai_governance",
     "national_security",
     "surveillance_tech",
     "regulatory_capture",
-    "classified_systems"
+    "classified_systems",
+    "cloud_infrastructure",
+    "government_contracts"
   ],
-  "importance": 8,
-  "sources": [
-    {
-      "title": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://techcrunch.com/2025/08/12/anthropic-takes-aim-at-openai-offers-claude-to-all-three-branches-of-government-for-1/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "id": "2024-11-15--anthropic-secures-fedramp-high-certification-for-g",
-  "priority_id": "RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Financial Capture",
-    "Intelligence Penetration"
-  ]
+  "title": "Anthropic Secures Comprehensive FedRAMP High Certification for Government AI Deployment"
 }

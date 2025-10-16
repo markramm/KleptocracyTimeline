@@ -1,25 +1,28 @@
 {
   "date": "2017-11-05",
   "title": "Paradise Papers Reveal Further Offshore Tax Avoidance",
-  "summary": "A second major leak of offshore documents, the Paradise Papers, exposed how the global elite used legal loopholes to avoid taxes through offshore investments. The documents revealed the offshore activities of more than 120 politicians and world leaders, including substantial holdings by Russian oligarchs and connections to President Trump's administration. The leak included 13.4 million documents from two offshore service providers and 19 tax havens.",
+  "summary": "The Paradise Papers, a massive leak of 13.4 million documents from offshore law firm Appleby and corporate services provider Estera, exposed how global elites used legal loopholes to avoid taxes. The investigation revealed offshore interests of over 120 politicians and world leaders, including Queen Elizabeth II, Russian oligarchs, and connections to the Trump administration. The data trove, published by the International Consortium of Investigative Journalists (ICIJ), included information on 290,000+ entities across 19 tax havens.",
   "actors": [
     "Appleby",
     "Estera",
     "Queen Elizabeth II",
     "Wilbur Ross",
     "Russian oligarchs",
-    "ICIJ"
+    "ICIJ",
+    "Donald Trump"
   ],
   "sources": [
     {
-      "title": "https://www.icij.org/investigations/paradise-papers/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "International Consortium of Investigative Journalists (ICIJ)",
+      "title": "Paradise Papers: Secrets of the Global Elite",
+      "url": "https://www.icij.org/investigations/paradise-papers/",
+      "date": "2017-11-05"
     },
     {
-      "title": "https://www.bbc.com/news/world-41880153",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "ICIJ Offshore Leaks Database",
+      "title": "Paradise Papers Investigation",
+      "url": "https://offshoreleaks.icij.org/investigations/paradise-papers",
+      "date": "2017-11-05"
     }
   ],
   "importance": 8,
@@ -27,7 +30,8 @@
     "paradise-papers",
     "offshore-finance",
     "tax-havens",
-    "oligarchs"
+    "oligarchs",
+    "financial-transparency"
   ],
   "status": "confirmed",
   "id": "2017-11-05--paradise-papers-reveal-further-offshore-tax-avoidance-1757456766",

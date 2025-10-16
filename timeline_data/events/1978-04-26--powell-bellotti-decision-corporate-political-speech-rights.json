@@ -31,6 +31,28 @@
         "Decision held corporations have First Amendment right to influence ballot initiatives",
         "5-4 decision granting corporations constitutional right to political activity"
       ]
+    },
+    {
+      "title": "Official Supreme Court Opinion, First National Bank of Boston v. Bellotti",
+      "url": "https://www.loc.gov/item/usrep435765/",
+      "outlet": "U.S. Library of Congress",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Supreme Court case 435 U.S. 765 (1978)",
+        "Corporations have First Amendment political speech rights",
+        "Original full legal text and reasoning"
+      ]
+    },
+    {
+      "title": "Beyond Bellotti: Corporate Political Rights and Democratic Legitimacy",
+      "url": "https://scholarlycommons.law.wlu.edu/casefiles/111/",
+      "outlet": "Washington and Lee University School of Law",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Academic analysis of corporate political speech rights",
+        "Examines long-term implications of Powell's decision",
+        "Provides scholarly context for the Bellotti ruling"
+      ]
     }
   ],
   "status": "confirmed"

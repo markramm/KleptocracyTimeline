@@ -1,9 +1,43 @@
 {
-  "id": "2021-10-21--fed-announces-trading-restrictions",
+  "actors": [
+    "Jerome Powell",
+    "Federal Reserve Board",
+    "Elizabeth Warren",
+    "Richard Clarida",
+    "Robert Kaplan",
+    "Eric Rosengren"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ],
   "date": "2021-10-21",
-  "title": "Fed Announces 'Tough New Rules' After Trading Scandal",
-  "summary": "Federal Reserve Chair Jerome Powell announces new ethics rules barring senior officials from actively trading individual securities following the Kaplan-Rosengren scandal, but critics argue the rules are inadequate and lack enforcement mechanisms. The policy gives the Fed's Designated Agency Ethics Officer 'sole discretion' to decide whether violations are material, with the Officer appointed and removable by the Fed Chair, creating systematic conflict of interest where officials can protect themselves from accountability. Senator Elizabeth Warren calls the policy 'a dismal failure' ridden with conflicts of interest.",
-  "importance": 6,
+  "id": "2021-10-21--fed-announces-trading-restrictions",
+  "importance": 7,
+  "sources": [
+    {
+      "date": "2021-10-21",
+      "outlet": "Federal Reserve",
+      "title": "Federal Reserve Board announces new rules to bar its senior officials from investing in individual securities",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20211021a.htm"
+    },
+    {
+      "date": "2021-10-21",
+      "outlet": "NPR",
+      "title": "The Federal Reserve imposes new restrictions on investments after trading controversy",
+      "url": "https://www.npr.org/2021/10/21/1048090079/federal-reserve-restrictions-investments-trading-controversy-jerome-powell"
+    },
+    {
+      "date": "2021-10-05",
+      "outlet": "CNN Business",
+      "title": "Elizabeth Warren demands insider trading investigation of the Fed",
+      "url": "https://www.cnn.com/2021/10/05/investing/elizabeth-warren-insider-trading-fed"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "The Federal Reserve announced comprehensive trading restrictions for senior officials following a major financial ethics scandal. In response to controversial trades by regional Fed bank presidents Robert Kaplan and Eric Rosengren during the Covid-19 pandemic, the Fed imposed strict new rules prohibiting senior officials from trading individual stocks, bonds, derivatives, and government-backed securities. Senator Elizabeth Warren called for an SEC investigation, arguing the trades potentially violated insider trading laws, particularly highlighting a trade by Vice Chair Richard Clarida just before a major policy statement. The new rules require pre-approval for all trades, mandate holding periods for investments, and aim to restore public confidence in the Federal Reserve's leadership by preventing conflicts of interest.",
   "tags": [
     "federal_reserve",
     "ethics_policy",
@@ -11,26 +45,9 @@
     "jerome_powell",
     "regulatory_response",
     "elizabeth_warren",
-    "institutional_accountability"
+    "institutional_accountability",
+    "financial_ethics",
+    "insider_trading"
   ],
-  "actors": [
-    "Jerome Powell",
-    "Federal Reserve Board",
-    "Elizabeth Warren"
-  ],
-  "sources": [
-    {
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20211021a.htm",
-      "title": "Federal Reserve Board announces new rules to bar its senior officials from investing in individual securities",
-      "outlet": "Federal Reserve",
-      "date": "2021-10-21"
-    }
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Legislative Capture",
-    "Financial Capture",
-    "Intelligence Penetration"
-  ]
+  "title": "Fed Implements Strict Trading Restrictions After Major Ethics Scandal"
 }

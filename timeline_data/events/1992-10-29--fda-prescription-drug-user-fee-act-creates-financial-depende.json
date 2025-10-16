@@ -1,37 +1,46 @@
 {
-  "id": "1992-10-29--fda-prescription-drug-user-fee-act-creates-financial-depende",
-  "title": "FDA Prescription Drug User Fee Act Creates Financial Dependence on Pharmaceutical Industry",
-  "date": "1992-10-29",
-  "location": "Washington, DC, United States",
-  "category": "regulatory-capture",
-  "importance": 8,
-  "summary": "The Prescription Drug User Fee Act (PDUFA) fundamentally restructured FDA drug approval financing, creating unprecedented financial dependence on the pharmaceutical industry. The Act required drug companies to pay fees to fund FDA drug reviews, eventually comprising 65% of the FDA's drug review budget and nearly half of its total budget by 2025. This created a direct financial relationship between regulators and the regulated industry, with user fees reaching $3.3 billion of the FDA's $6.9 billion 2025 budget. The structure established pharmaceutical industry involvement in FDA decision-making through mandatory five-year reauthorization negotiations, creating \"must pass\" legislative vehicles that industry could lobby to influence. Critics argue this created structural regulatory capture, as the FDA became dependent on fees from companies whose products it regulates, potentially compromising regulatory independence and shifting resources away from post-market safety monitoring.",
-  "actors": [
-    "Food and Drug Administration",
-    "Pharmaceutical Research and Manufacturers of America (PhRMA)",
-    "U.S. Congress",
-    "Pharmaceutical Companies"
-  ],
-  "sources": [
-    {
-      "title": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.pogo.org/investigations/fda-depends-on-industry-funding-money-comes-with-strings-attached",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "status": "confirmed",
-  "priority_id": "claude-priority-regulatory-capture-pharma-fda",
-  "tags": [
-    "needs_tags"
-  ],
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Financial Capture",
-    "Intelligence Penetration"
-  ]
+    "actors": [
+        "Food and Drug Administration",
+        "Pharmaceutical Research and Manufacturers of America (PhRMA)",
+        "U.S. Congress",
+        "Pharmaceutical Companies"
+    ],
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Financial Capture",
+        "Institutional Transformation"
+    ],
+    "category": "regulatory-capture",
+    "date": "1992-10-29",
+    "id": "1992-10-29--fda-prescription-drug-user-fee-act-creates-financial-depende",
+    "importance": 9,
+    "location": "Washington, DC, United States",
+    "priority_id": "claude-priority-regulatory-capture-pharma-fda",
+    "sources": [
+        {
+            "outlet": "FDA.gov",
+            "title": "Prescription Drug User Fee Amendments Program Overview",
+            "url": "https://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments"
+        },
+        {
+            "outlet": "PubMed",
+            "title": "Impact of PDUFA on Pharmaceutical Drug Development Timelines",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10423607/"
+        },
+        {
+            "outlet": "Congress.gov",
+            "title": "Prescription Drug User Fee Act of 1992 (Public Law 102-571)",
+            "url": "https://www.congress.gov/crs-product/R44864"
+        }
+    ],
+    "status": "confirmed",
+    "summary": "The Prescription Drug User Fee Act (PDUFA) of 1992 fundamentally restructured FDA drug approval financing by creating a direct financial relationship between pharmaceutical companies and regulators. The Act mandated drug companies pay fees to fund FDA drug reviews, which eventually comprised up to 65% of the FDA's drug review budget. By 2025, these user fees reached $3.3 billion of the FDA's $6.9 billion total budget, raising significant concerns about regulatory independence.\n\nKey Impacts:\n- Reduced drug approval times from 31 months to 14.5 months\n- Created mandatory five-year reauthorization negotiations\n- Established a structural mechanism for pharmaceutical industry influence\n- Shifted FDA financial dependence toward industry funding\n\nThe legislation represents a critical moment in regulatory capture, where the oversight mechanism became financially dependent on the entities it regulates.",
+    "tags": [
+        "regulatory-capture",
+        "pharmaceutical-industry",
+        "fda",
+        "government-funding",
+        "institutional-transformation"
+    ],
+    "title": "FDA Prescription Drug User Fee Act Creates Financial Dependence on Pharmaceutical Industry"
 }

@@ -1,8 +1,8 @@
 {
   "id": "1991-01-01--leonard-leo-joins-federalist-society-judicial-architect",
   "date": "1991-01-01",
-  "title": "Leonard Leo Joins Federalist Society, Becomes Judicial Selection Architect",
-  "summary": "Leonard Leo joins the Federalist Society in its early years when it was just beginning to build a conservative judicial pipeline. Leo would become co-chairman and the organization's most influential figure, earning the title \"architect of the Supreme Court's conservative supermajority.\" His systematic approach to identifying, vetting, and promoting conservative legal talent through dark money networks transforms the Federalist Society from a student organization into the most powerful force in American judicial selection, ultimately placing six affiliated justices on the Supreme Court.",
+  "title": "Leonard Leo Joins Federalist Society, Begins Strategic Judicial Talent Pipeline",
+  "summary": "In 1991, Leonard Leo joined the Federalist Society's national office, beginning his systematic transformation of the organization's approach to judicial selection. Leo developed a strategic 'pipeline' to identify, nurture, and advance conservative legal talent from law school through their professional careers. His approach focused on recruiting young lawyers who adhered to 'originalist' constitutional interpretations, ultimately reshaping the American judicial landscape by strategically positioning conservative judges in key judicial roles.",
   "importance": 9,
   "location": "Washington, D.C.",
   "actors": [
@@ -13,23 +13,45 @@
     "Leonard Leo",
     "Federalist Society",
     "judicial selection",
-    "dark money",
-    "Supreme Court architect"
+    "conservative legal movement",
+    "judicial pipeline",
+    "constitutional originalism"
   ],
   "capture_lanes": [
     "Judicial Capture & Corruption"
   ],
   "sources": [
     {
-      "title": "Federalist Society's Leonard Leo is helping Trump make courts more conservative",
-      "url": "https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/",
-      "outlet": "Washington Post",
-      "verified": true,
+      "outlet": "ProPublica",
+      "title": "We Don't Talk About Leonard: The Man Behind the Right's Supreme Court Supermajority",
+      "url": "https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority",
       "key_facts_confirmed": [
-        "Leo joined Federalist Society in 1991",
-        "Joined when organization was in early years building judicial pipeline",
-        "Became known as architect of conservative supermajority"
-      ]
+        "Leo was building conservative legal movement's 'pipeline' strategy",
+        "Strategy involved identifying and nurturing young legal talent",
+        "Goal was to create judges loyal to conservative legal principles"
+      ],
+      "verified": true
+    },
+    {
+      "outlet": "NPR",
+      "title": "Federalist Society's Leonard Leo wants to 'crush liberal dominance'",
+      "url": "https://www.npr.org/2024/11/24/nx-s1-5199049/federalist-society-conservative-supreme-court",
+      "key_facts_confirmed": [
+        "Leo systematically identified and promoted conservative lawyers",
+        "Focused on 'originalist constitutionalist' judicial candidates",
+        "Created 'networks of talent' to advance conservative legal perspectives"
+      ],
+      "verified": true
+    },
+    {
+      "outlet": "Federalist Society (official)",
+      "title": "Leonard A. Leo - Contributor Profile",
+      "url": "https://fedsoc.org/contributors/leonard-leo",
+      "key_facts_confirmed": [
+        "Leo joined Federalist Society national office in 1991",
+        "Began developing systematic approach to judicial talent recruitment"
+      ],
+      "verified": true
     }
   ],
   "status": "confirmed"

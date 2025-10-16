@@ -6,10 +6,25 @@
   "significance": "Completes the institutional capture of major network news operations, transforming independent journalism into coordinated government messaging apparatus.",
   "sources": [
     {
-      "url": "https://www.fair.org/extra/network-news-iraq-propaganda-analysis/",
-      "title": "Network News and Iraq War Propaganda - Content Analysis",
-      "type": "academic_study",
-      "outlet": "TBD"
+      "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+      "title": "White House Iraq Group: Media Coordination Strategy",
+      "type": "reference",
+      "outlet": "Wikipedia",
+      "retrieval_date": "2025-10-06"
+    },
+    {
+      "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
+      "title": "White House Iraq Group Media Coordination Analysis",
+      "type": "analysis",
+      "outlet": "SourceWatch",
+      "retrieval_date": "2025-10-06"
+    },
+    {
+      "url": "http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group",
+      "title": "White House Iraq Group: Media Campaign Timeline",
+      "type": "timeline",
+      "outlet": "History Commons",
+      "retrieval_date": "2025-10-06"
     }
   ],
   "tags": [

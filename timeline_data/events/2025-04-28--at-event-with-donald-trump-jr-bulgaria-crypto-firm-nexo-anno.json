@@ -1,40 +1,55 @@
 {
   "id": "2025-04-28--at-event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-anno",
   "date": "2025-04-28",
-  "title": "At event with Donald Trump Jr., Bulgaria crypto firm Nexo announces US return",
-  "summary": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market\u2013after \u201cproductive\u201d talks with American regulators\u2013at a conference it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker",
-  "description": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market\u2013after \u201cproductive\u201d talks with American regulators\u2013at a conference it hosted in Bulgaria where Donald Trump Jr. was the keynote speaker",
+  "title": "Nexo Capital Announces U.S. Market Re-entry at Conference with Donald Trump Jr.",
+  "summary": "Nexo Capital announced its return to the U.S. market during a conference in Bulgaria, featuring Donald Trump Jr. as a keynote speaker. The company, which previously paid a $45 million regulatory settlement, cited 'productive' discussions with regulators and optimism about the current cryptocurrency regulatory environment.",
+  "description": "Cryptocurrency firm Nexo Capital announced its plans to re-enter the American market after 'productive' talks with regulators at a conference in Bulgaria featuring Donald Trump Jr. as keynote speaker.",
   "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
+  "importance": 8,
+  "location": "Sofia, Bulgaria",
   "actors": [
-    "Donald Trump",
-    "Trump Administration"
+    "Donald Trump Jr.",
+    "Antoni Trenchev",
+    "Gila Gamliel"
   ],
   "tags": [
-    "crypto"
+    "crypto",
+    "trump-administration",
+    "regulatory-policy",
+    "digital-assets"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
       "title": "At event with Donald Trump Jr., Bulgaria crypto firm Nexo announces US return",
       "url": "https://www.reuters.com/sustainability/boards-policy-regulation/event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-announces-us-return-2025-04-28/",
-      "outlet": "REUTERS",
+      "outlet": "Reuters",
       "date": "2025-04-28"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "At event with Donald Trump Jr in Bulgaria, crypto firm Nexo announces US return",
+      "url": "https://www.usnews.com/news/top-news/articles/2025-04-28/at-event-with-donald-trump-jr-in-bulgaria-crypto-firm-nexo-announces-us-return",
+      "outlet": "U.S. News & World Report",
+      "date": "2025-04-28"
+    },
+    {
+      "title": "Digital Asset Platform Nexo to Return to U.S., Cites Crypto Optimism Under Donald Trump",
+      "url": "https://www.coindesk.com/policy/2025/04/28/nexo-to-return-to-us-after-2022-exit-citing-renewed-crypto-optimism-under-trump",
+      "outlet": "CoinDesk",
       "date": "2025-04-28"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Trump Administration Crypto Policy",
+    "Regulatory Easing for Digital Assets"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-landscape-shift"
+  ],
+  "notes": "Nexo's return follows previous $45 million regulatory settlement, signaling renewed U.S. market optimism",
   "capture_lanes": [
-    "Regulatory Capture"
+    "Regulatory Capture",
+    "Crypto Regulation"
   ]
 }

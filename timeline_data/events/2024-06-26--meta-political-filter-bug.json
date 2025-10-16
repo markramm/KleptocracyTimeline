@@ -1,9 +1,9 @@
 {
   "id": "2024-06-26--meta-political-filter-bug",
-  "title": "Bug causes Meta political-content filter to remain on for some users",
+  "title": "Meta Fixes Bug in Political Content Filter on Instagram and Threads",
   "date": "2024-06-26",
   "importance": 5,
-  "summary": "Some Instagram/Threads users reported they could not disable the political-content limit setting; Meta acknowledged an 'error' and pushed a fix.",
+  "summary": "Meta experienced a technical issue on Instagram and Threads that appeared to reset users' political content filter settings, causing confusion. The company quickly acknowledged and fixed the bug, which occurred just before the first 2024 presidential debate.",
   "actors": [
     "Meta",
     "Instagram",
@@ -11,16 +11,19 @@
   ],
   "tags": [
     "bug",
-    "platform-policy"
+    "platform-policy",
+    "media-control"
   ],
   "capture_lanes": [
     "Information & Media Control"
   ],
   "citations": [
     "https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads",
-    "https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html"
+    "https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html",
+    "https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings",
+    "https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969"
   ],
-  "notes": "",
+  "notes": "Timing notable: Just before first 2024 presidential debate",
   "status": "confirmed",
   "sources": [
     {
@@ -36,6 +39,20 @@
       "outlet": "Engadget",
       "date": "2024-06-26",
       "archive_url": "https://web.archive.org/web/20240627000000*/https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html"
+    },
+    {
+      "title": "Instagram and Threads are now filtering political content out of your feed. Change this setting to see more of it",
+      "url": "https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings",
+      "outlet": "Fast Company",
+      "date": "2024-06-26",
+      "archive_url": "https://web.archive.org/web/20240627000000*/https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings"
+    },
+    {
+      "title": "Some creators say they're frustrated after Instagram starts limiting political content recommendations",
+      "url": "https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969",
+      "outlet": "NBC News",
+      "date": "2024-06-26",
+      "archive_url": "https://web.archive.org/web/20240627000000*/https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969"
     }
   ]
 }

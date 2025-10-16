@@ -1,41 +1,49 @@
 {
   "id": "2025-05-21--chinese-firms-plan-to-avoid-stock-delisting-buy-trump-s-meme",
   "date": "2025-05-21",
-  "title": "Chinese firms\u2019 plan to avoid stock delisting: buy Trump\u2019s memecoin",
-  "summary": "More Chinese firms are purchasing hundreds of millions of dollars in Trump\u2019s memecoin in an effort to boost their shares and save their places on US stock exchanges",
-  "description": "More Chinese firms are purchasing hundreds of millions of dollars in Trump\u2019s memecoin in an effort to boost their shares and save their places on US stock exchanges",
-  "status": "confirmed",
+  "title": "Chinese Firms Use Trump's Memecoin to Avoid Nasdaq Delisting",
+  "summary": "Chinese firms GD Culture Group and Addentax Group pledged hundreds of millions of dollars to purchase Trump's memecoin, aiming to boost their stock prices and prevent delisting from Nasdaq. The strategy involves buying cryptocurrency to temporarily raise share values and potentially gain favor with the Trump administration.",
   "importance": 7,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "GD Culture Group",
+    "Addentax Group",
+    "Nasdaq"
   ],
   "tags": [
     "crypto",
-    "government-contracts"
+    "stock-market",
+    "foreign-investment",
+    "regulatory-capture"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Chinese firms\u2019 plan to avoid stock delisting: buy Trump\u2019s memecoin",
-      "url": "https://www.wsj.com/finance/stocks/chinese-firms-plan-to-avoid-stock-delisting-buy-trumps-memecoin-172b129c",
-      "outlet": "Wall Street Journal",
-      "date": "2025-05-21"
+      "title": "Chinese Firms' Crypto Strategy to Avoid Stock Delisting",
+      "outlet": "Semafor",
+      "date": "2025-05-22",
+      "url": "https://www.semafor.com/article/05/22/2025/trump-purchases-help-chinese-firms"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-05-21"
+      "title": "China-Linked Firm Raises $300M to Buy Trump Memecoin",
+      "outlet": "CryptoSlate",
+      "date": "2025-05-21",
+      "url": "https://cryptoslate.com/chinese-linked-firm-raises-300m-from-private-investor-to-buy-trump-memecoin/"
+    },
+    {
+      "title": "Chinese Companies Facing Delisting Risk on NYSE Attempt to Boost Stock Prices with Trump Meme Coin Purchase",
+      "outlet": "EBlock Media",
+      "date": "2025-10-12",
+      "url": "http://www.eblockmedia.com/news/articleView.html?idxno=19981"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Trump cryptocurrency venture",
+    "Foreign investment strategies",
+    "Stock market manipulation"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
-  "capture_lanes": [
-    "Systematic Corruption"
-  ]
+  "patterns": ["kleptocratic-capture"],
+  "capture_lanes": ["Systematic Corruption"],
+  "notes": "Event demonstrates innovative methods of avoiding stock market delisting and potential regulatory arbitrage."
 }

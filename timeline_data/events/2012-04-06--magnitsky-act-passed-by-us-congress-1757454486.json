@@ -1,38 +1,46 @@
 {
   "date": "2012-04-06",
   "title": "Magnitsky Act Passed by US Congress",
-  "summary": "The Magnitsky Act was signed into law, authorizing the US government to sanction foreign government officials implicated in human rights violations and corruption. Named after Sergei Magnitsky, who died in Russian custody after exposing a $230 million tax fraud scheme.",
+  "summary": "The Sergei Magnitsky Rule of Law Accountability Act was introduced in the US House of Representatives, targeting Russian officials responsible for human rights violations and corruption. Named after Sergei Magnitsky, a lawyer who exposed a $230 million tax fraud scheme and subsequently died in Russian custody, the act authorized sanctions against individuals involved in his death and related corruption.",
+  "importance": 8,
   "actors": [
-    "US Congress",
     "Sergei Magnitsky",
     "Bill Browder",
-    "Russian officials"
+    "Benjamin Cardin",
+    "John McCain",
+    "US Congress"
   ],
   "sources": [
     {
-      "title": "https://www.congress.gov/bill/112th-congress/house-bill/6156",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Congress.gov",
+      "title": "Human Rights and Anti-Corruption Sanctions: The Global Magnitsky Human Rights Accountability Act",
+      "url": "https://www.congress.gov/crs-product/IF10576"
     },
     {
-      "title": "https://www.justice.gov/opa/pr/russian-official-charged-connection-magnitsky-case",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Human Rights First",
+      "title": "U.S. Global Magnitsky Sanctions",
+      "url": "https://humanrightsfirst.org/library/u-s-global-magnitsky-sanctions/"
+    },
+    {
+      "outlet": "Universal Rights Group",
+      "title": "Magnitsky acts and the future of accountability for human rights violations",
+      "url": "https://www.universal-rights.org/magnitsky-acts-the-future-of-accountability-for-violations-of-international-human-rights-law-an-interview-with-bill-browder/"
     }
   ],
-  "importance": 8,
   "tags": [
     "sanctions",
     "human-rights",
-    "corruption",
     "russia",
-    "legislation"
+    "legislative-action",
+    "international-accountability",
+    "corruption"
   ],
   "status": "confirmed",
   "id": "2012-04-06--magnitsky-act-passed-by-us-congress-1757454486",
   "priority_id": "RP-20250909-capture-cascade-part-2-the-accelerant",
   "capture_lanes": [
     "Legislative Capture",
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Human Rights Enforcement"
   ]
 }

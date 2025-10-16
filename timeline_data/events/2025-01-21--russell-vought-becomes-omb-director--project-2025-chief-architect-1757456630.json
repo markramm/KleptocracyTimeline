@@ -1,35 +1,61 @@
 {
-  "date": "2025-01-21",
-  "title": "Russell Vought Becomes OMB Director - Project 2025 Chief Architect",
-  "summary": "Russell Vought, who authored Project 2025's chapter on restructuring Executive Office and expanding presidential power, confirmed as OMB Director to implement those exact recommendations. Vought reportedly told colleagues Trump privately supported Project 2025.",
   "actors": [
     "Russell Vought",
     "Donald Trump",
-    "OMB"
+    "Office of Management and Budget",
+    "U.S. Senate",
+    "Chuck Schumer"
   ],
+  "capture_lanes": [
+    "Executive Power Expansion",
+    "Administrative State Capture"
+  ],
+  "date": "2025-01-21",
+  "id": "2025-01-21--russell-vought-becomes-omb-director--project-2025-chief-architect-1757456630",
   "importance": 9,
   "sources": [
     {
-      "title": "AFGE",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "date_accessed": "2025-09-25",
+      "outlet": "NBC News",
+      "title": "Senate Republicans confirm Project 2025 co-author Russell Vought as White House budget director",
+      "url": "https://www.nbcnews.com/politics/congress/senate-republicans-confirm-russell-vought-white-house-budget-director-rcna190993"
     },
     {
-      "title": "Project 2025 Implementation PDF",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "date_accessed": "2025-09-25",
+      "outlet": "PBS News",
+      "title": "WATCH: Senate confirms Project 2025 architect Russell Vought to lead powerful White House OMB",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-senate-considers-trump-omb-nominee-russell-vought-for-confirmation"
+    },
+    {
+      "date_accessed": "2025-10-15",
+      "outlet": "The Hill",
+      "title": "Senate installs Project 2025 architect Russell Vought as Trump's next budget chief",
+      "url": "https://thehill.com/homenews/senate/5131585-senate-confirms-russell-vought-omb/"
+    },
+    {
+      "date_accessed": "2025-10-15",
+      "outlet": "MSNBC",
+      "title": "Senate confirms Russell Vought as Trump's next OMB director",
+      "url": "https://www.msnbc.com/top-stories/latest/senate-confirms-russell-vought-omb-director-rcna191060"
+    },
+    {
+      "date_accessed": "2025-10-15",
+      "outlet": "The 19th News",
+      "title": "Senate confirms Russell Vought, Project 2025 architect, to head OMB",
+      "url": "https://19thnews.org/2025/02/senate-confirms-russell-vought-project-2025-architect-omb/"
     }
   ],
+  "status": "confirmed",
+  "summary": "Russell Vought, a key architect of Project 2025, is confirmed by the Senate on February 6, 2025, in a 53-47 party-line vote to serve as OMB Director under President Donald Trump. Vought's confirmation represents a critical step in executing Project 2025's blueprint for federal agency transformation. As a primary author of the Heritage Foundation's conservative governance plan, he is positioned to leverage the Office of Management and Budget to implement sweeping changes across federal agencies, potentially including withholding appropriated funds and restructuring agency personnel.\n\nSenate Minority Leader Chuck Schumer characterized Vought as one of the most 'fringe and hard-right individuals' in recent Senate history, warning that Project 2025 would become official federal policy under his leadership. Vought's return to OMB, a role he previously held during Trump's first term, signals a strategic approach to administrative state capture and executive power expansion.",
   "tags": [
     "russell-vought",
     "project-2025-authors",
     "omb-director",
-    "executive-power"
+    "executive-power",
+    "federal-bureaucracy",
+    "budget-policy",
+    "administrative-capture"
   ],
-  "status": "confirmed",
-  "id": "2025-01-21--russell-vought-becomes-omb-director--project-2025-chief-architect-1757456630",
-  "priority_id": "project-2025-implementation-1757456630",
-  "capture_lanes": [
-    "Executive Power Expansion"
-  ]
+  "title": "Russell Vought Becomes OMB Director - Project 2025 Chief Architect",
+  "validation_notes": "Enhanced event validation: Added three new credible sources providing comprehensive context. Verified nomination details, confirmation vote, and Project 2025 connection across multiple independent outlets. Expanded summary to provide deeper insights into Vought's role and the potential implications of his OMB leadership."
 }

@@ -1,29 +1,46 @@
 {
   "id": "2024-06-15--hurricane-katrina-education-privatizatio-systematic-pattern",
   "date": "2024-06-15",
-  "title": "Systematic Corruption Pattern Documented: Hurricane Katrina Education Privatization Timeline",
-  "summary": "Comprehensive analysis reveals coordinated corruption pattern in Hurricane Katrina Education Privatization Timeline (2005-2007). Evidence shows systematic undermining of democratic institutions, regulatory capture, and obstruction of oversight mechanisms designed to ensure accountability.",
+  "title": "Academic Evidence Reveals Systematic Corruption in Hurricane Katrina Education Privatization",
+  "summary": "Comprehensive research reveals a systematic corruption pattern in Hurricane Katrina's education system transformation. Academic studies and journalistic investigations document how disaster was strategically used to rapidly privatize New Orleans public schools. Before Katrina, the school system was dysfunctional with frequent superintendent turnover. Post-disaster, 100 out of 117 schools were converted to charters, creating the first all-charter school system in the U.S. While metrics like graduation rates improved from 56% to 80%, the transformation displaced over 4,000 experienced teachers and raised significant concerns about institutional capture and potential systemic racism in educational reform.",
   "importance": 8,
   "actors": [
-    "Government Officials",
-    "Corporate Interests",
-    "Political Networks"
+    "Louisiana State Legislature",
+    "Charter School Advocates",
+    "Right-Wing Think Tanks",
+    "New Orleans School Board"
   ],
   "sources": [
     {
-      "title": "Corruption Pattern Analysis",
-      "url": "https://trumptyrannytracker.substack.com",
-      "outlet": "Institutional Integrity Research"
+      "title": "When Education Ceases to be Public: The Privatization of the New Orleans School System After Hurricane Katrina",
+      "url": "https://scholarworks.uno.edu/td/911/",
+      "outlet": "University of New Orleans",
+      "type": "Academic Thesis"
+    },
+    {
+      "title": "The Politics of Institutional Reform: Katrina, Education, and the Second Face of Power",
+      "url": "https://politicalscience.stanford.edu/publications/politics-institutional-reform-katrina-education-and-second-face-power",
+      "outlet": "Stanford Political Science",
+      "type": "Academic Publication"
+    },
+    {
+      "title": "What to know about New Orleans' post-Katrina charter school boom",
+      "url": "https://www.npr.org/2025/08/25/nx-s1-5435783/education-hurricane-katrina-anniversary-charter-schools",
+      "outlet": "NPR",
+      "type": "News Article",
+      "date_published": "2025-08-25"
     }
   ],
   "tags": [
     "systematic corruption",
     "institutional capture",
-    "democratic backsliding",
-    "accountability crisis"
+    "education privatization",
+    "charter schools",
+    "regulatory capture"
   ],
   "status": "confirmed",
   "capture_lanes": [
-    "Regulatory Capture"
+    "Regulatory Capture",
+    "Institutional Transformation"
   ]
 }

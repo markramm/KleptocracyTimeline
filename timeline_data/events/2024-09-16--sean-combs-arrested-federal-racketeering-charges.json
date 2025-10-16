@@ -2,8 +2,27 @@
   "id": "2024-09-16--sean-combs-arrested-federal-racketeering-charges",
   "date": "2024-09-16",
   "title": "Sean Combs arrested on federal racketeering and sex trafficking charges",
-  "summary": "Sean \"Diddy\" Combs is arrested in Manhattan on federal charges including racketeering conspiracy, sex trafficking, and transportation to engage in prostitution. The indictment alleges Combs ran a criminal enterprise that engaged in sex trafficking, forced labor, kidnapping, arson, bribery, and obstruction of justice. Federal prosecutors describe an operation remarkably similar to Jeffrey Epstein's, including the use of recordings for blackmail, control of victims through violence and coercion, and a network of enablers who helped conceal crimes.",
-  "importance": 10,
+  "summary": "Sean \"Diddy\" Combs was arrested on September 16, 2024, by the Southern District of New York (SDNY) on federal charges including racketeering conspiracy, sex trafficking, and transportation for purposes of prostitution. The indictment alleges Combs led a criminal enterprise from 2008 to the present that engaged in sex trafficking, forced labor, kidnapping, arson, bribery, and obstruction of justice. The charges carry potential life sentences, with Combs denied bail and held in the Special Housing Unit of the Metropolitan Detention Center in Brooklyn. The arrest follows multiple sexual assault lawsuits and federal raids on his properties in March 2024.",
+  "sources": [
+    {
+      "date": "2024-09-16",
+      "outlet": "Department of Justice",
+      "title": "Sean Combs Charged In Manhattan Federal Court With Sex Trafficking And Other Federal Offenses",
+      "url": "https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses"
+    },
+    {
+      "date": "2024-09-17",
+      "outlet": "CNN",
+      "title": "Takeaways from the racketeering conspiracy and sex trafficking indictment against Sean 'Diddy' Combs",
+      "url": "https://edition.cnn.com/2024/09/17/us/takeaways-indictment-sean-diddy-combs/index.html"
+    },
+    {
+      "date": "2024-09-16",
+      "outlet": "Washington Post",
+      "title": "Sean 'Diddy' Combs indicted on sex-trafficking charges, denied bail",
+      "url": "https://www.washingtonpost.com/style/2024/09/16/diddy-arrested-sean-combs-new-york-indictment/"
+    }
+  ],
   "actors": [
     "Sean Combs",
     "Department of Justice",
@@ -19,23 +38,10 @@
     "criminal-enterprise",
     "jeffrey-epstein"
   ],
-  "sources": [
-    {
-      "title": "Sean 'Diddy' Combs arrested on federal charges",
-      "url": "https://www.justice.gov/usao-sdny/pr/sean-diddy-combs-arrested-federal-charges",
-      "outlet": "Department of Justice",
-      "date": "2024-09-16"
-    },
-    {
-      "title": "Sean Combs indictment",
-      "url": "https://www.cnn.com/2024/09/17/entertainment/sean-diddy-combs-arrested/index.html",
-      "outlet": "CNN",
-      "date": "2024-09-17"
-    }
-  ],
-  "status": "confirmed",
   "capture_lanes": [
     "Regulatory Capture",
     "Financial Capture"
-  ]
+  ],
+  "importance": 10,
+  "notes": "This case represents a landmark federal prosecution of a high-profile music industry figure, alleging systemic criminal behavior spanning over a decade."
 }

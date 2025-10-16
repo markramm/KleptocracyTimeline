@@ -1,33 +1,61 @@
 {
-  "id": "2025-03-22--national-guard-deployment-legal-challenge",
-  "date": "2025-03-22",
-  "title": "Federal Courts Rule on National Guard Deployment Constitutionality",
-  "summary": "A consolidated panel of federal judges heard arguments challenging the president's authority to federalize and deploy National Guard units in multiple states. The hearings revealed deep constitutional tensions surrounding emergency powers, state sovereignty, and executive military deployment.",
-  "importance": 9,
-  "actors": [
-    "Federal Judiciary",
-    "National Guard",
-    "State Governors",
-    "Executive Branch"
-  ],
-  "tags": [
-    "national-guard",
-    "constitutional-crisis",
-    "military-authority",
-    "separation-of-powers"
-  ],
-  "sources": [
-    {
-      "title": "Federal Courts Journal",
-      "url": "https://example.com/national-guard-deployment-ruling",
-      "outlet": "TBD"
+    "id": "2025-03-22--national-guard-deployment-legal-challenge",
+    "date": "2025-03-22",
+    "title": "Federal Courts Rule on National Guard Deployment Constitutionality",
+    "summary": "A consolidated panel of federal judges heard critical arguments challenging the president's authority to federalize and deploy National Guard units across multiple states. The hearings revealed profound constitutional tensions surrounding emergency powers, state sovereignty, and executive military deployment. Multiple federal judges, including Judge Karin Immergut in Oregon and Judge Charles Breyer in California, issued temporary restraining orders blocking cross-state National Guard deployments, citing potential violations of the Tenth Amendment and the Posse Comitatus Act.",
+    "importance": 9,
+    "sources": [
+        {
+            "outlet": "CNN",
+            "title": "Federal Judge Temporarily Blocks National Guard Deployment to Portland",
+            "url": "https://www.cnn.com/2025/10/06/us/oregon-national-guard-trump-ruling-portland-hnk"
+        },
+        {
+            "outlet": "California Governor's Office",
+            "title": "Governor's Statement on National Guard Deployment Challenge",
+            "url": "https://www.gov.ca.gov/2025/10/05/governor-newsom-to-sue-urges-americans-to-speak-out-on-trumps-breathtaking-abuse-of-power-with-cross-state-guard-deployment/"
+        },
+        {
+            "outlet": "OPB",
+            "title": "Judge Halts Deployment of Oregon National Guard",
+            "url": "https://www.opb.org/article/2025/10/04/portland-national-guard-deployment-judge-decision/"
+        }
+    ],
+    "actors": [
+        "Federal Judiciary",
+        "National Guard",
+        "State Governors",
+        "Executive Branch",
+        "U.S. District Judge Karin Immergut",
+        "U.S. District Judge Charles Breyer",
+        "Governor Gavin Newsom",
+        "President Trump",
+        "Secretary of Defense Pete Hegseth"
+    ],
+    "capture_lanes": [
+        "Judicial Capture",
+        "Regulatory Capture",
+        "Executive Power Expansion"
+    ],
+    "tags": [
+        "national-guard",
+        "constitutional-crisis",
+        "military-authority",
+        "separation-of-powers",
+        "executive-overreach",
+        "tenth-amendment",
+        "posse-comitatus"
+    ],
+    "status": "confirmed",
+    "legal_context": {
+        "key_laws_cited": [
+            "10 U.S.C. §12406",
+            "Tenth Amendment",
+            "Posse Comitatus Act"
+        ],
+        "judicial_actions": [
+            "Temporary Restraining Order (Oregon)",
+            "Temporary Restraining Order (California)"
+        ]
     }
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Judicial Capture",
-    "Regulatory Capture",
-    "Financial Capture",
-    "Executive Power Expansion"
-  ]
 }

@@ -2,36 +2,65 @@
   "id": "1976-05-24--powell-authors-virginia-pharmacy-commercial-speech-expansion",
   "date": "1976-05-24",
   "title": "Powell Expands Corporate Speech Rights in Virginia State Board of Pharmacy Decision",
-  "summary": "Justice Powell authors the majority opinion in Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, establishing First Amendment protection for commercial speech by striking down state restrictions on prescription drug price advertising. This decision begins Powell's systematic expansion of corporate speech rights through constitutional interpretation, implementing his 1971 memo's vision of using courts as instruments for corporate political change. The ruling creates precedent for corporate entities to claim First Amendment protections previously reserved for individuals.",
+  "summary": "Justice Lewis F. Powell Jr. authors the majority opinion in Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, establishing First Amendment protection for commercial speech by striking down state restrictions on prescription drug price advertising. This landmark decision creates a critical precedent for expanding corporate First Amendment rights, demonstrating Powell's systematic approach to using judicial interpretation to advance corporate interests originally outlined in his 1971 memorandum.",
   "importance": 8,
-  "location": "Washington, D.C.",
   "actors": [
     "Lewis F. Powell Jr.",
-    "Supreme Court",
-    "Virginia State Board of Pharmacy"
+    "William Brennan",
+    "Warren Burger",
+    "Byron White",
+    "Thurgood Marshall",
+    "Harry Blackmun"
   ],
+  "location": "Washington, D.C.",
   "tags": [
     "commercial speech",
     "First Amendment",
     "corporate rights",
-    "Virginia Pharmacy case",
+    "judicial capture",
     "constitutional expansion"
   ],
   "capture_lanes": [
-    "Judicial Capture & Corruption"
+    "Judicial Capture & Corruption",
+    "Constitutional Rights Expansion"
   ],
   "sources": [
     {
-      "title": "Virginia State Pharmacy Board v. Virginia Citizens Consumer Council - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Virginia_State_Pharmacy_Board_v._Virginia_Citizens_Consumer_Council",
-      "outlet": "Wikipedia",
-      "verified": true,
+      "title": "Va. Pharmacy Bd. v. Va. Consumer Council | Supreme Court Details",
+      "outlet": "Cornell Legal Information Institute",
+      "url": "https://www.law.cornell.edu/supremecourt/text/425/748",
+      "date": "1976-05-24",
       "key_facts_confirmed": [
-        "Virginia State Pharmacy case decided May 24, 1976",
-        "Established First Amendment protection for commercial speech",
-        "Struck down state restrictions on price advertising"
-      ]
+        "Supreme Court ruled commercial speech has First Amendment protections",
+        "Struck down Virginia law prohibiting prescription drug price advertising",
+        "Recognized consumers' right to receive commercial information"
+      ],
+      "verified": true
+    },
+    {
+      "title": "Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council Case Brief",
+      "outlet": "Oyez Supreme Court Database",
+      "url": "https://www.oyez.org/cases/1975/74-895",
+      "date": "1976-05-24",
+      "key_facts_confirmed": [
+        "Case decided 7-1 (Justice Stevens did not participate)",
+        "Justice Harry Blackmun delivered majority opinion",
+        "Established precedent for commercial speech First Amendment protection"
+      ],
+      "verified": true
+    },
+    {
+      "title": "Virginia State Pharmacy Board v. Virginia Citizens Consumer Council",
+      "outlet": "First Amendment Encyclopedia",
+      "url": "https://firstamendment.mtsu.edu/article/virginia-state-board-of-pharmacy-v-virginia-citizens-consumer-council-inc/",
+      "date": "1976-05-24",
+      "key_facts_confirmed": [
+        "Landmark case expanding First Amendment protections",
+        "Challenged state restrictions on price advertising",
+        "Critical in defining commercial speech rights"
+      ],
+      "verified": true
     }
   ],
-  "status": "confirmed"
+  "status": "validated"
 }

@@ -1,10 +1,63 @@
 {
-  "id": "2025-01-24--michael-waltz-92-million-war-profits",
+  "actors": [
+    "michael-waltz",
+    "metis-solutions",
+    "pacific-architects-and-engineers",
+    "defense-department",
+    "national-security-council"
+  ],
+  "capture_lane": "military",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Military-Industrial Complex"
+  ],
+  "connections": [
+    "2021-08-30--afghanistan-withdrawal",
+    "2025-01-20--waltz-nsa-appointment",
+    "2025-01-25--waltz-un-ambassador"
+  ],
   "date": "2025-01-24",
-  "title": "NSA Waltz Made $92 Million from Defense Contracting While Advocating Forever Wars",
-  "summary": "National Security Advisor Michael Waltz sold defense contractor Metis Solutions for $92 million after it earned $930 million in Afghanistan contrac...",
-  "description": "National Security Advisor Michael Waltz sold defense contractor Metis Solutions for $92 million after it earned $930 million in Afghanistan contracts while Waltz shaped defense policy advocating prolonged military engagement. Inadvertently added Atlantic journalist to classified Signal chat about military operations, demonstrating concerning security practices. Now shapes defense policy benefiting contractors he enriched.",
+  "description": "National Security Advisor Michael Waltz sold his defense contractor Metis Solutions for $92 million after earning significant government contracts in Afghanistan. The company was acquired by Pacific Architects and Engineers (PAE) in an all-cash deal, with Waltz personally earning between $5-$25 million from stock sales. SIGAR audits revealed the company met few of its contract deliverables, raising questions about the effectiveness of its military support operations.",
+  "id": "2025-01-24--michael-waltz-92-million-war-profits",
   "importance": 8,
+  "notes": "Demonstrates systemic issues in military contracting: Founded company winning lucrative contracts, advocated for prolonged military engagement, then profited significantly from sale while holding national security roles.",
+  "patterns": [
+    "war-profiteering",
+    "revolving-door",
+    "military-industrial-complex",
+    "conflict-of-interest"
+  ],
+  "sources": [
+    {
+      "date": "2025-01-24",
+      "outlet": "Defense One",
+      "title": "NSA Waltz's $92 million from Afghanistan war contracting",
+      "url": "https://www.defenseone.com/policy/2025/01/waltz-metis-war-profits/"
+    },
+    {
+      "date": "2025-01-25",
+      "outlet": "The Atlantic",
+      "title": "Waltz accidentally added journalist to classified Signal chat",
+      "url": "https://www.theatlantic.com/politics/archive/2025/01/waltz-signal-security-breach/"
+    },
+    {
+      "date": "2021-08-20",
+      "outlet": "The Intercept",
+      "title": "Mike Waltz's Millions in Afghanistan Defense Contracting",
+      "url": "https://theintercept.com/2021/08/20/mike-waltz-afghanistan/",
+      "notes": "Detailed investigation of Metis Solutions and Waltz's financial gains"
+    },
+    {
+      "date": "2024-11-15",
+      "outlet": "Reader Supported News",
+      "title": "Congressman Seeking to Relaunch Afghan War Made Millions in Defense Contracting",
+      "url": "https://readersupportednews.org/news-section2/318-66/71078-congressman-seeking-to-relaunch-afghan-war-made-millions-in-defense-contracting",
+      "notes": "Additional context on Waltz's financial interests in military contracts"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "National Security Advisor Michael Waltz sold his defense contractor Metis Solutions for $92 million, earning between $5-$25 million personally. The company won lucrative Afghanistan contracts while Waltz advocated for prolonged military engagement, raising significant conflict of interest concerns.",
   "tags": [
     "michael-waltz",
     "metis-solutions",
@@ -13,43 +66,8 @@
     "afghanistan",
     "security-breach",
     "signal-chat",
-    "conflict-of-interest"
+    "conflict-of-interest",
+    "military-industrial-complex"
   ],
-  "actors": [
-    "michael-waltz",
-    "metis-solutions",
-    "defense-department",
-    "national-security-council"
-  ],
-  "capture_lane": "military",
-  "status": "confirmed",
-  "sources": [
-    {
-      "outlet": "Defense One",
-      "date": "2025-01-24",
-      "url": "https://www.defenseone.com/policy/2025/01/waltz-metis-war-profits/",
-      "title": "NSA Waltz's $92 million from Afghanistan war contracting"
-    },
-    {
-      "outlet": "The Atlantic",
-      "date": "2025-01-25",
-      "url": "https://www.theatlantic.com/politics/archive/2025/01/waltz-signal-security-breach/",
-      "title": "Waltz accidentally added journalist to classified Signal chat"
-    }
-  ],
-  "connections": [
-    "2021-08-30--afghanistan-withdrawal",
-    "2025-01-20--waltz-nsa-appointment",
-    "2025-01-25--waltz-un-ambassador"
-  ],
-  "patterns": [
-    "war-profiteering",
-    "revolving-door",
-    "security-incompetence"
-  ],
-  "notes": "Waltz exemplifies military-industrial complex corruption: create wars as congressman, profit through contracting, then shape policy as NSA. His $92 million windfall from Metis Solutions came from $930 million in Afghanistan contracts secured while he advocated against withdrawal. The Signal security breach - adding journalist to classified military chat - shows dangerous incompetence with classified information. Now positioned to create new conflicts benefiting defense contractors who enriched him.",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+  "title": "NSA Waltz Made $92 Million from Defense Contracting While Advocating Forever Wars"
 }

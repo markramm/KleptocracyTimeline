@@ -9,7 +9,31 @@
       "url": "https://www.eff.org/files/filenode/att/files/SB_Hepting_ATT_20060421.pdf",
       "title": "Hepting v. AT&T - EFF Lawsuit Documentation",
       "type": "legal_filing",
-      "outlet": "TBD"
+      "outlet": "Electronic Frontier Foundation"
+    },
+    {
+      "url": "https://theintercept.com/2018/06/25/att-internet-nsa-spy-hubs/",
+      "title": "The NSA's Hidden Spy Hubs in Eight U.S. Cities",
+      "type": "investigative_report",
+      "outlet": "The Intercept"
+    },
+    {
+      "url": "https://www.propublica.org/article/heres-why-the-close-collaboration-between-the-nsa-and-att-matters",
+      "title": "The Close Collaboration Between the NSA and AT&T",
+      "type": "investigative_report",
+      "outlet": "ProPublica"
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/report-att-cooperated-extensively-nsa-sharing-billions-phone-email-records",
+      "title": "AT&T Cooperated Extensively with NSA in Sharing Phone and Email Records",
+      "type": "investigative_report",
+      "outlet": "PBS News Weekend"
+    },
+    {
+      "url": "https://www.pbs.org/wgbh/frontline/article/how-att-helped-the-nsa-spy-on-millions/",
+      "title": "How AT&T Helped the NSA Spy on Millions",
+      "type": "investigative_report",
+      "outlet": "Frontline"
     }
   ],
   "tags": [
@@ -17,18 +41,24 @@
     "telecommunications",
     "nsa",
     "corporate_cooperation",
-    "internet_backbone"
+    "internet_backbone",
+    "civil_liberties",
+    "bush_administration",
+    "mass_surveillance"
   ],
-  "importance": 8,
+  "importance": 9,
   "category": "surveillance_infrastructure",
-  "verification_status": "documented",
-  "summary": "AT&T provides NSA with unprecedented direct access to its internet backbone infrastructure through secret facility installations at major network switching centers. This establishes the foundation for mass surveillance programs by routing duplicate internet traffic streams directly to NSA analysis facilities.",
+  "verification_status": "well_documented",
+  "summary": "In September 2001, AT&T established a secret partnership with the NSA to provide direct access to its internet backbone infrastructure, creating unprecedented mass surveillance capabilities that bypass traditional legal protections. This infrastructure enabled the systematic collection and analysis of millions of Americans' communications without warrants. Documents reveal AT&T's 'extreme willingness to help' the NSA, sharing billions of phone and email records across domestic networks.",
   "actors": [
-    "Bush Administration"
+    "Bush Administration",
+    "AT&T",
+    "NSA"
   ],
   "status": "confirmed",
   "capture_lanes": [
     "Regulatory Capture",
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Corporate Surveillance"
   ]
 }

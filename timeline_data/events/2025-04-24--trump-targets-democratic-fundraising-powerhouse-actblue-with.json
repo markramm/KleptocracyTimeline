@@ -1,41 +1,62 @@
 {
-  "id": "2025-04-24--trump-targets-democratic-fundraising-powerhouse-actblue-with",
-  "date": "2025-04-24",
-  "title": "Trump targets Democratic fundraising powerhouse ActBlue with DOJ probe",
-  "summary": "Trump targets Democratic fundraising powerhouse ActBlue with DOJ probe",
-  "description": "Trump targets Democratic fundraising powerhouse ActBlue with DOJ probe",
-  "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Attorney General Pam Bondi",
+    "ActBlue"
   ],
-  "tags": [
-    "kleptocracy",
-    "trump-administration"
+  "capture_lanes": [
+    "Legislative Capture",
+    "Political Fundraising Interference"
   ],
-  "capture_type": "monetizing_position",
+  "capture_type": "weaponizing_government",
+  "connections": [
+    "2025 Election Interference",
+    "Political Fundraising Disruption"
+  ],
+  "date": "2025-04-24",
+  "description": "Trump administration initiates DOJ investigation into ActBlue, Democratic Party's primary online fundraising platform",
+  "id": "2025-04-24--trump-targets-democratic-fundraising-powerhouse-actblue-with",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "patterns": [
+    "kleptocratic-capture",
+    "political-weaponization"
+  ],
   "sources": [
     {
-      "title": "Trump targets Democratic fundraising powerhouse ActBlue with DOJ probe",
-      "url": "https://www.cnn.com/2025/04/24/politics/actblue-trump-memo-doj-probe/index.html",
+      "date": "2025-04-24",
       "outlet": "CNN",
-      "date": "2025-04-24"
+      "title": "Trump targets Democratic fundraising powerhouse ActBlue with DOJ probe",
+      "url": "https://www.cnn.com/2025/04/24/politics/actblue-trump-memo-doj-probe/index.html"
     },
     {
-      "title": "Timeline Analysis",
-      "url": "https://example.com/analysis",
-      "outlet": "Independent Analysis",
-      "date": "2025-04-24"
+      "date": "2025-04-24",
+      "outlet": "Reuters (via U.S. News)",
+      "title": "Trump Targets Democratic Fundraising Organization ActBlue",
+      "url": "https://www.usnews.com/news/politics/articles/2025-04-24/trump-to-target-democratic-fundraising-organization-actblue"
+    },
+    {
+      "date": "2025-04-24",
+      "outlet": "AP News (via ABC News)",
+      "title": "Trump orders Justice Department to investigate Democrats' top fundraising platform",
+      "url": "https://abcnews.go.com/US/wireStory/trump-orders-justice-department-investigate-democrats-top-fundraising-121145724"
+    },
+    {
+      "date": "2025-04-24",
+      "outlet": "White House Official Website",
+      "title": "Fact Sheet: President Donald J. Trump Investigates Unlawful Straw Donor and Foreign Contributions in American Elections",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-investigates-unlawful-straw-donor-and-foreign-contributions-in-american-elections/"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "status": "confirmed",
+  "summary": "The Trump administration ordered the Department of Justice to investigate ActBlue, alleging potential illegal fundraising practices including straw donor and foreign contribution concerns. Key allegations include 237 donations from foreign IP addresses during the 2024 election cycle and claims of inadequate contribution verification. ActBlue has vehemently denied these claims and vowed to 'pursue all legal avenues to protect and defend' itself.",
+  "tags": [
+    "kleptocracy",
+    "trump-administration",
+    "political-interference",
+    "fundraising",
+    "election-integrity"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion.",
-  "capture_lanes": [
-    "Legislative Capture"
-  ]
+  "title": "Trump Administration Initiates DOJ Probe into Democratic Fundraising Platform ActBlue"
 }

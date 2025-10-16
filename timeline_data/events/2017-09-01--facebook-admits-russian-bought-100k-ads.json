@@ -3,7 +3,7 @@
   "date": "2017-09-01",
   "importance": 9,
   "title": "Facebook Admits Russians Bought $100,000 in Ads to Influence 2016 Election",
-  "summary": "Facebook reveals to Congress that Russian operatives bought $100,000 in political ads reaching millions of Americans, first admission of platform weaponization for foreign election interference",
+  "summary": "Facebook reveals to Congress that Russian operatives bought $100,000 in political ads reaching millions of Americans, first admission of platform weaponization for foreign election interference, detailed in multiple congressional hearings and investigations throughout late 2017",
   "location": "Washington D.C.",
   "actors": [
     "Facebook",
@@ -37,6 +37,20 @@
       "outlet": "CNN",
       "date": "2017-09-06",
       "archive_url": "https://web.archive.org/web/20170906000000/https://www.cnn.com/2017/09/06/politics/facebook-russia-ads-2016-election/index.html"
+    },
+    {
+      "url": "https://www.npr.org/2017/10/02/555103005/facebook-surrenders-russian-linked-influence-ads-to-congress",
+      "outlet": "NPR",
+      "date": "2017-10-02",
+      "title": "Facebook Surrenders Russian-Linked Influence Ads To Congress",
+      "notes": "Detailed congressional testimony revealing depth of Russian ad campaign"
+    },
+    {
+      "url": "https://abcnews.go.com/Politics/facebook-congress-russian-linked-content-reached-126-million/story?id=50821650",
+      "outlet": "ABC News",
+      "date": "2017-10-30",
+      "title": "Facebook to tell Congress Russian-linked content may have reached 126 million during 2016 election",
+      "notes": "Comprehensive details of Russian ad targeting and reach"
     }
   ],
   "notes": "3,000 ads purchased by 470 accounts linked to IRA. Reached 126 million Americans. Focus on divisive issues. First admission after denying for months. Led to congressional hearings and Zuckerberg testimony.",

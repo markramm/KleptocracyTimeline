@@ -2,7 +2,7 @@
   "id": "1971-08-23--powell-memo-institutional-capture",
   "date": "1971-08-23",
   "title": "Lewis Powell Authors Strategic Memorandum for Corporate Institutional Capture",
-  "summary": "Lewis Powell mails confidential memorandum \"Attack On American Free Enterprise System\" to Chamber of Commerce, outlining systematic strategy for corporate power to capture courts, academia, and media through coordinated long-term planning and financing. The memo becomes blueprint for conservative institutional capture including Heritage Foundation and Federalist Society.",
+  "summary": "Lewis Powell mailed a confidential, strategic memorandum titled 'Attack On American Free Enterprise System' to Eugene B. Sydnor Jr. at the U.S. Chamber of Commerce. The document outlined a systematic plan for corporations to defend and expand their power by capturing courts, academia, and media through long-term, coordinated strategies. This memo became a foundational blueprint for conservative institutional capture, directly influencing the creation of organizations like the Heritage Foundation, Business Roundtable, and American Legislative Exchange Council (ALEC).",
   "actors": [
     "Lewis Powell",
     "Eugene B. Sydnor Jr.",
@@ -11,14 +11,28 @@
   "financial_impact": null,
   "sources": [
     {
-      "title": "https://scholarlycommons.law.wlu.edu/powellmemo/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Washington and Lee University School of Law",
+      "title": "Powell Memorandum: Original Archive Document",
+      "url": "https://scholarlycommons.law.wlu.edu/powellmemo/",
+      "access_date": "2025-10-06"
     },
     {
-      "title": "https://reclaimdemocracy.org/powell_memo_lewis/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Senator Sheldon Whitehouse Official Website",
+      "title": "The Scheme 1: The Powell Memo",
+      "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/",
+      "access_date": "2025-10-06"
+    },
+    {
+      "outlet": "Louisiana State University Law School",
+      "title": "Original Powell Memorandum PDF Archive",
+      "url": "https://biotech.law.lsu.edu/blog/powell-memo.pdf",
+      "access_date": "2025-10-15"
+    },
+    {
+      "outlet": "The American Prospect",
+      "title": "The Legend of the Powell Memo: Scholarly Historical Analysis",
+      "url": "https://prospect.org/article/legend-powell-memo/",
+      "access_date": "2025-10-15"
     }
   ],
   "importance": 9,
@@ -26,7 +40,9 @@
     "powell-memorandum",
     "institutional-capture",
     "strategic-planning",
-    "corporate-power"
+    "corporate-power",
+    "supreme-court",
+    "think-tank-formation"
   ],
   "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
   "status": "confirmed",
@@ -34,5 +50,15 @@
     "Media Capture & Control",
     "Judicial Capture",
     "Financial Capture"
-  ]
+  ],
+  "validation_metadata": {
+    "last_corrected": "2025-10-15T19:35:00Z",
+    "corrected_by": "qa-v2-712",
+    "validation_log_id": 1361,
+    "corrections_applied": [
+      "Added authoritative law school archive sources",
+      "Expanded historical context from scholarly analysis",
+      "Verified source diversity and academic credibility"
+    ]
+  }
 }

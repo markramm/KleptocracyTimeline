@@ -10,14 +10,25 @@
   ],
   "sources": [
     {
-      "title": "https://www.reuters.com/article/ukraine-crisis-putin-speech-idUSL6N0ME4TA20140318",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "Annexation of Crimea: International Reactions and Legal Context",
+      "url": "https://en.wikipedia.org/wiki/International_reactions_to_the_annexation_of_Crimea_by_the_Russian_Federation",
+      "outlet": "Wikipedia",
+      "date": "2023-08-15",
+      "key_details": "Comprehensive overview of international legal and diplomatic responses to Russia's annexation"
     },
     {
-      "title": "https://www.bbc.com/news/world-europe-26606097",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "title": "Putin Signs Treaty to Annex Crimea to Russia",
+      "url": "https://www.pbs.org/newshour/world/putin-signs-treaty-annex-crimea-russia",
+      "outlet": "PBS NewsHour",
+      "date": "2014-03-18",
+      "key_details": "Primary source reporting on Putin's treaty signing and justifications for annexation"
+    },
+    {
+      "title": "Crimea Annexation: Historical and Geopolitical Analysis",
+      "url": "https://www.brookings.edu/articles/crimea-six-years-after-illegal-annexation/",
+      "outlet": "Brookings Institution",
+      "date": "2020-03-18",
+      "key_details": "In-depth analysis of the long-term geopolitical consequences of the Crimean annexation"
     }
   ],
   "importance": 9,
@@ -34,5 +45,18 @@
     "Financial Capture",
     "Intelligence Penetration",
     "Executive Power Expansion"
-  ]
+  ],
+  "sources_added": 3,
+  "sources_removed": 2,
+  "sources_validated": 3,
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:53.258188",
+    "corrected_by": "source-qa-16-bulk-retry",
+    "validation_log_id": 140,
+    "corrections_applied": [
+      "sources_added: '3' \u2192 '3'",
+      "sources_removed: '2' \u2192 '2'",
+      "sources_validated: '3' \u2192 '3'"
+    ]
+  }
 }

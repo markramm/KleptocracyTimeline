@@ -1,45 +1,52 @@
 {
+  "id": "2025-06-12--israel-conducts-major-strikes-on-iran-nuclear-infrastructure-1757458422",
   "date": "2025-06-12",
   "title": "Israel Conducts Major Strikes on Iran Nuclear Infrastructure",
-  "summary": "Israel carries out coordinated airstrikes targeting Iran's Natanz nuclear facility, military bases, and strategic infrastructure in a surprise integrated operation. The strikes target Iran's strategic triad: nuclear infrastructure, ballistic missile systems, and senior leadership, including the assassination of Iran's three top military leaders and several nuclear scientists. This escalation fundamentally alters regional balance of power, exposing Iranian military vulnerabilities while creating strategic opportunities for Saudi Arabia to consolidate regional influence. The operation demonstrates Israel's advanced intelligence capabilities and precision strike capacity, while highlighting Iran's inability to defend its most sensitive installations despite years of defensive preparations.",
+  "summary": "On June 12-13, 2025, Israel launched a massive coordinated military operation targeting Iran's nuclear infrastructure, military bases, and strategic facilities. The strikes involved approximately 200 aircraft hitting around 100 targets, with a focus on the Natanz nuclear facility, Isfahan uranium conversion site, and key military installations. The operation resulted in the targeted killing of top IRGC leadership, including IRGC Commander Hossein Salami and Armed Forces Chief of Staff Mohammed Bagheri. The United States provided covert support, with subsequent strikes on additional nuclear sites in late June.",
+  "importance": 9,
   "actors": [
     "Israeli Defense Forces",
     "Iranian Revolutionary Guard",
     "Netanyahu administration",
     "Iranian nuclear scientists",
     "Iranian military leadership",
-    "Natanz nuclear facility personnel"
+    "Natanz nuclear facility personnel",
+    "US Military",
+    "IAEA"
   ],
-  "sources": [
-    {
-      "title": "https://commonslibrary.parliament.uk/research-briefings/cbp-10292/",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.mei.edu/publications/special-briefing-israel-strikes-irans-nuclear-program",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    },
-    {
-      "title": "https://www.csis.org/analysis/what-know-about-israeli-strike-iran",
-      "url": "https://example.com",
-      "outlet": "TBD"
-    }
-  ],
-  "importance": 9,
   "tags": [
     "israel-iran-conflict",
     "nuclear-strikes",
     "regional-power-shift",
     "military-operations",
-    "strategic-infrastructure"
+    "strategic-infrastructure",
+    "nuclear-proliferation"
   ],
-  "status": "confirmed",
-  "id": "2025-06-12--israel-conducts-major-strikes-on-iran-nuclear-infrastructure-1757458422",
+  "sources": [
+    {
+      "outlet": "Bloomberg",
+      "title": "Israel Attacks Iran's Nuclear Sites in Major Escalation",
+      "url": "https://www.bloomberg.com/news/articles/2025-06-13/israel-conducts-strikes-in-iran-in-major-escalation-axios-says",
+      "date": "2025-06-13"
+    },
+    {
+      "outlet": "NPR",
+      "title": "Israel launches 'preemptive strikes' on Iran nuclear program",
+      "url": "https://www.npr.org/2025/06/12/nx-s1-5431956/israel-strikes-iran-and-braces-for-retaliation",
+      "date": "2025-06-12"
+    },
+    {
+      "outlet": "Atlantic Council",
+      "title": "Experts react: Israel just attacked Iran's military and nuclear sites",
+      "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react-israel-just-attacked-irans-military-and-nuclear-sites-whats-next/",
+      "date": "2025-06-13"
+    }
+  ],
   "priority_id": "geopolitics-15ecda65",
   "capture_lanes": [
     "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+    "Intelligence Penetration",
+    "Military Strategic Operations"
+  ],
+  "status": "confirmed"
 }

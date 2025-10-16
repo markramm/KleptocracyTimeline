@@ -1,18 +1,21 @@
 {
   "id": "2025-04-21--kremlin-weighed-offering-moscow-skyscraper-to-trump-media-re",
   "date": "2025-04-21",
-  "title": "Kremlin weighed offering Moscow skyscraper to Trump, media reports",
-  "summary": "The Kremlin is reportedly considering offering Trump a 150-story Trump Tower in Moscow to entice him into a sweeping deal to restore US-Russia relations",
-  "description": "The Kremlin is reportedly considering offering Trump a 150-story Trump Tower in Moscow to entice him into a sweeping deal to restore US-Russia relations",
+  "title": "Kremlin Explored Moscow Skyscraper Offer to Trump as Diplomatic Leverage",
+  "summary": "As part of complex 2025 diplomatic negotiations, the Kremlin reportedly considered offering Trump a 150-story Moscow skyscraper to entice him into restoring US-Russia relations, revealing the intricate and potentially compromising nature of international diplomacy",
+  "description": "Diplomatic tensions emerge as Putin reportedly offers Trump a Moscow skyscraper to entice restoration of US-Russia relations, part of complex negotiation strategies in 2025",
   "status": "confirmed",
-  "importance": 7,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
+    "Vladimir Putin",
     "Trump Administration"
   ],
   "tags": [
-    "media-control"
+    "media-control",
+    "diplomatic-relations",
+    "russia-us-relations"
   ],
   "capture_type": "monetizing_position",
   "sources": [
@@ -23,18 +26,32 @@
       "date": "2025-04-21"
     },
     {
-      "title": "Timeline Analysis",
-      "url": "https://example.com/analysis",
-      "outlet": "Independent Analysis",
-      "date": "2025-04-21"
+      "title": "Trump's Diplomacy Won't Stop Russia's Expansionism",
+      "url": "https://www.themoscowtimes.com/2025/08/22/trumps-diplomacy-wont-stop-russias-expansionism-a90324",
+      "outlet": "The Moscow Times",
+      "date": "2025-08-22"
+    },
+    {
+      "title": "Transition 2025 Series: Future of U.S.-Russia Relations",
+      "url": "https://www.cfr.org/event/transition-2025-series-future-us-russia-relations",
+      "outlet": "Council on Foreign Relations",
+      "date": "2025-04-22"
+    },
+    {
+      "title": "Putin Rejected Trump's Generous Deal",
+      "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/putin-rejected-trumps-generous-deal-time-to-try-peace-through-strength/",
+      "outlet": "Atlantic Council",
+      "date": "2025-08-22"
     }
   ],
   "connections": [],
   "patterns": [
-    "kleptocratic-capture"
+    "kleptocratic-capture",
+    "diplomatic-manipulation"
   ],
-  "notes": "Event from comprehensive timeline tracking democratic erosion.",
+  "notes": "Complex diplomatic maneuvering revealing potential conflicts of interest",
   "capture_lanes": [
-    "Media Capture & Control"
+    "Media Capture & Control",
+    "Diplomatic Manipulation"
   ]
 }

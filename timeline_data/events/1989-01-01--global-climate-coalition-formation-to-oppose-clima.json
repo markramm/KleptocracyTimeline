@@ -1,7 +1,7 @@
 {
   "date": "1989-01-01",
   "title": "Global Climate Coalition Formation to Oppose Climate Regulation",
-  "summary": "The Global Climate Coalition (GCC) was formed as a project of the National Association of Manufacturers to represent fossil fuel producers and oppose regulation to mitigate global warming. The coalition included all major oil companies (until 1996), with leadership from Phillips Petroleum's Tom Lambrix as Chairman and Southern Company's J. Minter as government liaison. About 40 companies and industry associations represented over 230,000 businesses through member corporations and trade associations. The GCC became the most powerful lobbyist group against climate action and prominent industry advocate in international climate negotiations. Internal documents reveal the coalition engaged in systematic regulatory capture, meeting with high-ranking US government officials on at least ten occasions from 1996-1997, supplying the State Department with talking points and GCC-written reports. A 2001 State Department briefing script shows an Undersecretary telling the GCC that \"POTUS rejected Kyoto, in part, based on input from you.\"",
+  "summary": "The Global Climate Coalition (GCC) was formed as a project of the National Association of Manufacturers to represent fossil fuel producers and oppose regulation to mitigate global warming. Founding members included major oil companies like Phillips Petroleum, Shell, Texaco, Amoco, trade associations such as the American Petroleum Institute, and utilities like American Electric Power. The coalition strategically challenged emerging climate science and aimed to delay or prevent carbon emissions regulations through coordinated industry efforts.",
   "actors": [
     "Global Climate Coalition",
     "Tom Lambrix",
@@ -9,7 +9,14 @@
     "Phillips Petroleum",
     "Southern Company",
     "ExxonMobil",
-    "National Association of Manufacturers"
+    "National Association of Manufacturers",
+    "Shell Oil Company",
+    "Texaco",
+    "Amoco Corporation",
+    "American Petroleum Institute",
+    "ARCO",
+    "Peabody Coal",
+    "American Electric Power"
   ],
   "importance": 8,
   "tags": [
@@ -17,18 +24,28 @@
     "regulatory-capture",
     "fossil-fuels",
     "lobbying",
-    "international-influence"
+    "international-influence",
+    "corporate-coordination",
+    "industry-organization"
   ],
   "sources": [
     {
-      "title": "https://en.wikipedia.org/wiki/Global_Climate_Coalition",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Climate Investigations Center",
+      "title": "Global Climate Coalition: Industry Climate Denial Overview",
+      "url": "https://climateinvestigations.org/global-climate-coalition-industry-climate-denial/",
+      "retrieved_date": "2025-10-06"
     },
     {
-      "title": "https://climateinvestigations.org/global-climate-coalition-industry-climate-denial/",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Climate Files",
+      "title": "1989 Global Climate Coalition Membership Details",
+      "url": "https://www.climatefiles.com/denial-groups/global-climate-coalition-collection/1989-membership/",
+      "retrieved_date": "2025-10-06"
+    },
+    {
+      "outlet": "DeSmog",
+      "title": "Global Climate Coalition Files: Corporate Climate Science Denial",
+      "url": "https://www.desmog.com/global-climate-coalition-files/",
+      "retrieved_date": "2025-10-06"
     }
   ],
   "status": "confirmed",
@@ -36,6 +53,7 @@
   "priority_id": "claude-priority-climate-denial-fossil-fuel-network",
   "capture_lanes": [
     "Regulatory Capture",
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Corporate Coordination"
   ]
 }

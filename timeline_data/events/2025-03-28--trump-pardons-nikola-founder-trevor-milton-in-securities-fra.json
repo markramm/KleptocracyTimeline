@@ -2,19 +2,22 @@
   "id": "2025-03-28--trump-pardons-nikola-founder-trevor-milton-in-securities-fra",
   "date": "2025-03-28",
   "title": "Trump pardons Nikola founder Trevor Milton in securities fraud case",
-  "summary": "Trump pardons Nikola founder Trevor Milton in securities fraud case after Milton donated $1.8M to Trump's 2024 re-election campaign",
-  "description": "Trump pardons Nikola founder Trevor Milton in securities fraud case after Milton donated $1.8M to Trump's 2024 re-election campaign",
+  "summary": "President Trump pardoned Nikola founder Trevor Milton, who was convicted of securities fraud in October 2022, after Milton donated $1.8M to Trump's 2024 re-election campaign. The pardon effectively eliminates $695.2 million in potential restitution to Nikola shareholders and prevents further legal consequences for Milton's fraudulent actions.",
+  "description": "President Trump pardoned Trevor Milton, the founder of Nikola Corporation, who was convicted of securities fraud in October 2022. Milton had been sentenced to four years in prison for defrauding investors through misleading statements about the company's electric and hydrogen-powered truck capabilities. The pardon came after Milton donated $1.8M to Trump's 2024 re-election campaign, effectively eliminating $695.2 million in potential restitution to Nikola shareholders.",
   "status": "confirmed",
-  "importance": 8,
+  "importance": 9,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trevor Milton",
+    "Nikola Corporation"
   ],
   "tags": [
     "corruption",
     "pardons",
-    "regulatory-capture"
+    "regulatory-capture",
+    "campaign-finance",
+    "corporate-fraud"
   ],
   "capture_type": "regulatory_capture",
   "sources": [
@@ -25,9 +28,15 @@
       "date": "2025-03-28"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "Trump pardons Trevor Milton, Nikola founder and Utah entrepreneur",
+      "url": "https://www.axios.com/local/salt-lake-city/2025/04/01/trump-pardon-nikola-trevor-milton-utah-fraud",
+      "outlet": "Axios",
+      "date": "2025-03-28"
+    },
+    {
+      "title": "Nikola Founder Milton Pardoned by Trump After Fraud Conviction",
+      "url": "https://www.bloomberg.com/news/articles/2025-03-28/nikola-founder-milton-pardoned-by-trump-after-fraud-conviction",
+      "outlet": "Bloomberg",
       "date": "2025-03-28"
     }
   ],
@@ -35,7 +44,7 @@
   "patterns": [
     "kleptocratic-capture"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "notes": "Event highlights potential quid pro quo between campaign donations and presidential pardons, showcasing regulatory capture and electoral manipulation patterns.",
   "capture_lanes": [
     "Regulatory Capture",
     "Electoral Manipulation"

@@ -1,34 +1,48 @@
 {
-  "id": "2021-09-07--kaplan-fed-trading-scandal-revealed",
+  "actors": [
+    "Robert Kaplan",
+    "Federal Reserve Bank of Dallas",
+    "Jerome Powell",
+    "Eric Rosengren"
+  ],
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ],
   "date": "2021-09-07",
-  "title": "Dallas Fed President Kaplan Trading Scandal Revealed",
-  "summary": "Wall Street Journal reports Dallas Federal Reserve President Robert Kaplan made multiple stock trades worth over $1 million during 2020 while orchestrating Fed's COVID-19 pandemic response. Trades included Apple, Delta Air Lines, Occidental Petroleum, and iShares Floating Rate Bond ETFs. Kaplan was instrumental in engineering unprecedented market interventions while simultaneously profiting from individual stock positions, creating systematic conflicts of interest that undermined Federal Reserve independence and public trust in monetary policy decisions during national crisis.",
+  "id": "2021-09-07--kaplan-fed-trading-scandal-revealed",
   "importance": 8,
+  "sources": [
+    {
+      "date": "2021-09-07",
+      "outlet": "Wall Street Journal",
+      "title": "Fed Officials Made Trades During Pandemic",
+      "url": "https://www.wsj.com/articles/federal-reserve-ethics-officials-pandemic-trades-11630959600"
+    },
+    {
+      "date": "2021-09-27",
+      "outlet": "NPR",
+      "title": "2 Top Federal Reserve Officials Retire After Trading Disclosures",
+      "url": "https://www.npr.org/2021/09/27/1041059924/2-top-federal-reserve-officials-retire-after-trading-disclosures"
+    },
+    {
+      "date": "2021-09-27",
+      "outlet": "NBC News",
+      "title": "Dallas Fed President Robert Kaplan Resigns After Controversy Over Stock Market Trading",
+      "url": "https://www.nbcnews.com/business/economy/dallas-fed-president-robert-kaplan-resigns-after-controversy-over-stock-n1280200"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Federal Reserve Bank of Dallas President Robert Kaplan resigned on September 27, 2021, after disclosure of extensive stock trading during the 2020 pandemic. Kaplan had made multiple trades worth over $1 million in companies like Amazon, Apple, and Delta Air Lines while serving as a voting member of the Federal Open Market Committee. Though later cleared of legal wrongdoing, the trades raised significant ethical concerns about potential conflicts of interest during a period of unprecedented federal market intervention. His resignation was part of a broader controversy involving Fed officials' trading activities, which prompted Fed Chair Jerome Powell to pledge a review and tightening of trading rules for federal officials.",
   "tags": [
     "federal_reserve",
     "trading_scandal",
     "conflict_of_interest",
     "robert_kaplan",
     "dallas_fed",
-    "financial_corruption"
+    "financial_corruption",
+    "ethical_violations"
   ],
-  "actors": [
-    "Robert Kaplan",
-    "Federal Reserve Bank of Dallas",
-    "Wall Street Journal"
-  ],
-  "sources": [
-    {
-      "url": "https://www.wsj.com/articles/federal-reserve-ethics-officials-pandemic-trades-11630959600",
-      "title": "Fed Officials Made Trades During Pandemic",
-      "outlet": "Wall Street Journal",
-      "date": "2021-09-07"
-    }
-  ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Financial Capture",
-    "Intelligence Penetration",
-    "Executive Power Expansion"
-  ]
+  "title": "Dallas Fed President Kaplan Resigns Over Trading Controversy"
 }

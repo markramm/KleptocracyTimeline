@@ -1,7 +1,7 @@
 {
   "date": "2013-08-01",
   "title": "FAA Safety Official Ali Bahrami Leaves for Aerospace Industries Association During Boeing 737 MAX Development",
-  "summary": "Ali Bahrami, who led the FAA office overseeing Boeing aircraft certification, departed the agency in August 2013 to join the Aerospace Industries Association, a major aviation industry lobby funded partly by Boeing. His departure occurred during the critical early stages of Boeing 737 MAX certification process. As FAA top safety official who later returned to the agency, Bahrami had previously pushed an agenda of regulatory \"abdication\" to Boeing, according to former FAA engineers. This case illustrates the revolving door between aviation regulators and industry that contributed to regulatory capture. The timing is particularly significant as it occurred when Boeing was developing the automated MCAS system that would later contribute to two fatal crashes. The aerospace industry lobby position gave Bahrami influence over regulatory policy while representing Boeing interests.",
+  "summary": "In August 2013, Ali Bahrami, who led the FAA office overseeing Boeing aircraft certification, departed to join the Aerospace Industries Association. This move epitomizes regulatory capture, as Bahrami had been instrumental in pushing for increased industry self-regulation. Former FAA engineers criticized his approach as an 'abdication' of regulatory oversight, particularly during the critical early stages of the Boeing 737 MAX certification process. His subsequent industry lobby position allowed him to influence regulatory policy while representing Boeing's interests.",
   "actors": [
     "Ali Bahrami",
     "FAA",
@@ -11,14 +11,25 @@
   ],
   "sources": [
     {
-      "title": "https://www.pogo.org/analysis/corrupted-oversight-the-faa-boeing-and-the-737-max",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "The Seattle Times",
+      "title": "With Close Industry Ties, FAA Safety Chief Pushed More Delegation of Oversight to Boeing",
+      "url": "https://www.seattletimes.com/business/boeing-aerospace/with-close-industry-ties-faa-safety-chief-pushed-more-delegation-of-oversight-to-boeing/",
+      "access_date": "2025-09-17",
+      "description": "Detailed investigation of Ali Bahrami's role in FAA's increasing delegation of safety oversight to Boeing"
     },
     {
-      "title": "https://medium.com/@dsaintgermain/the-boeing-debacle-is-the-latest-example-of-regulatory-capture-2a8e138a9c8b",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Project On Government Oversight (POGO)",
+      "title": "How the FAA Ceded Aviation Safety Oversight to Boeing",
+      "url": "https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing",
+      "access_date": "2025-09-17",
+      "description": "Critical analysis of the systemic regulatory capture within the FAA's aircraft certification process"
+    },
+    {
+      "outlet": "Corporate Jet Investor",
+      "title": "FAA's Ali Bahrami to Step Down",
+      "url": "https://www.corporatejetinvestor.com/news/faas-ali-bahrami-to-step-down-338/",
+      "access_date": "2025-09-17",
+      "description": "Industry perspective on Bahrami's career transition from FAA to aerospace industry lobby"
     }
   ],
   "importance": 9,

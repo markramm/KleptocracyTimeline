@@ -19,16 +19,28 @@
   ],
   "sources": [
     {
-      "title": "Jack Smith in final report says voters saved Trump from being convicted in Jan 6 case",
-      "url": "https://abcnews.go.com/US/doj-congress-jack-smiths-final-report-election-interference/story?id=117638812",
+      "date": "2025-01-14",
       "outlet": "ABC News",
-      "date": "2025-01-14"
+      "title": "Jack Smith in final report says voters saved Trump from being convicted in Jan 6 case",
+      "url": "https://abcnews.go.com/US/doj-congress-jack-smiths-final-report-election-interference/story?id=117638812"
     },
     {
-      "title": "Report of Special Counsel Smith Volume 1 January 2025",
-      "url": "https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf",
+      "date": "2025-01-14",
       "outlet": "Department of Justice",
-      "date": "2025-01-14"
+      "title": "Report of Special Counsel Smith Volume 1 January 2025",
+      "url": "https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf"
+    },
+    {
+      "date": "2025-01-14",
+      "outlet": "NPR",
+      "title": "Jack Smith said he could have convicted Trump. We looked at the report",
+      "url": "https://www.npr.org/2025/01/14/nx-s1-5259567/jack-smith-said-he-could-have-convicted-trump-we-looked-at-the-report"
+    },
+    {
+      "date": "2025-01-14",
+      "outlet": "NBC News",
+      "title": "Jack Smith writes biting defense of Jan. 6 probe, says jury would have convicted Trump",
+      "url": "https://www.nbcnews.com/politics/justice-department/justice-dept-sends-congress-jack-smiths-report-trumps-effort-overturn-rcna187492"
     }
   ],
   "status": "confirmed",

@@ -59,5 +59,27 @@
     "Legislative Capture",
     "Intelligence Penetration",
     "Executive Power Expansion"
-  ]
+  ],
+  "field": "tags",
+  "new": [
+    "kleptocracy",
+    "corruption",
+    "political-access",
+    "donor-influence",
+    "trump-administration"
+  ],
+  "old": [
+    "kleptocracy",
+    "corruption"
+  ],
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:40.822579",
+    "corrected_by": "concurrent-qa-1-bulk-retry",
+    "validation_log_id": 116,
+    "corrections_applied": [
+      "field: (added) 'tags'",
+      "new: (added) '['kleptocracy', 'corruption', 'political-access', 'donor-influence', 'trump-administration']'",
+      "old: (added) '['kleptocracy', 'corruption']'"
+    ]
+  }
 }

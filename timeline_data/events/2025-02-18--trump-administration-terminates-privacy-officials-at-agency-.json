@@ -1,41 +1,59 @@
 {
   "id": "2025-02-18--trump-administration-terminates-privacy-officials-at-agency-",
   "date": "2025-02-18",
-  "title": "Trump administration terminates privacy officials at agency overseeing government hiring and firing",
-  "summary": "Trump terminated multiple members of the Office of Personnel Management\u2019s privacy and communications teams\u2014those tasked with handling FOIA requests and safeguarding public records\u2014effectively cutting off external access to information\u2014including info on security clearances granted to Elon Musk and his operatives",
-  "description": "Trump terminated multiple members of the Office of Personnel Management\u2019s privacy and communications teams\u2014those tasked with handling FOIA requests and safeguarding public records\u2014effectively cutting off external access to information\u2014including info on security clearances granted to Elon Musk and his operatives",
+  "title": "Trump Administration Terminates Critical Privacy Officials at OPM, Blocking Public Information Access",
+  "summary": "In a systematic move to dismantle transparency mechanisms, the Trump administration fired multiple members of the Office of Personnel Management's privacy and communications teams, including those handling FOIA requests. This action effectively cut off external access to government information and raised significant concerns about data security and public oversight.",
+  "description": "The Trump administration systematically terminated multiple members of the Office of Personnel Management's (OPM) privacy and communications teams—those tasked with handling FOIA requests and safeguarding public records—effectively cutting off external access to information and potentially compromising federal data security.",
   "status": "confirmed",
-  "importance": 6,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Elon Musk",
+    "Department of Government Efficiency (DOGE)"
   ],
   "tags": [
-    "regulatory-capture"
+    "regulatory-capture",
+    "government-transparency",
+    "foia",
+    "trump-administration",
+    "information-control"
   ],
   "capture_type": "regulatory_capture",
   "sources": [
     {
-      "title": "Trump administration terminates privacy officials at agency overseeing government hiring and firing",
+      "title": "'Good luck with that.' Trump administration terminates privacy officials at agency overseeing government hiring and firing",
       "url": "https://www.cnn.com/2025/02/18/politics/opm-privacy-team-fired/index.html",
       "outlet": "CNN",
       "date": "2025-02-18"
     },
     {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
+      "title": "Trump Guts Crucial OPM Team as Elon Musk Gains Even More Power",
+      "url": "https://newrepublic.com/post/191663/elon-musk-opm-privacy-team",
+      "outlet": "New Republic",
+      "date": "2025-02-18"
+    },
+    {
+      "title": "Privacy Tip 433: Privacy and Security Personnel Throughout Federal Government Fired",
+      "url": "https://natlawreview.com/article/privacy-tip-433-privacy-and-security-personnel-throughout-federal-government-fired",
+      "outlet": "National Law Review",
       "date": "2025-02-18"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Elon Musk's involvement in government technology infrastructure",
+    "Systematic termination of federal privacy and security personnel"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-disruption",
+    "information-control"
+  ],
+  "notes": "Part of a broader pattern of removing transparency mechanisms and privacy protections in federal agencies",
   "capture_lanes": [
     "Regulatory Capture",
-    "Intelligence Penetration"
+    "Intelligence Penetration",
+    "Information Control"
   ]
 }

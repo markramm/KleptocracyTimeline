@@ -1,7 +1,7 @@
 {
   "date": "1976-01-30",
   "title": "Supreme Court Decides Buckley v. Valeo, Unleashing Corporate Money in Politics",
-  "summary": "The Supreme Court ruled in Buckley v. Valeo that spending money on elections is a form of free speech protected by the First Amendment. While upholding contribution limits, the decision struck down expenditure limits, creating a fundamental asymmetry that would enable unlimited corporate influence through independent expenditures. This decision laid the groundwork for the explosion of corporate PACs and the eventual Citizens United ruling.",
+  "summary": "In a landmark constitutional law decision, the Supreme Court ruled in Buckley v. Valeo that political expenditures constitute a form of speech protected by the First Amendment, fundamentally transforming campaign finance jurisprudence. The Court established a critical distinction between campaign contributions and expenditures: while direct contributions could be limited to prevent quid pro quo corruption, independent political expenditures were deemed protected speech that could not be constitutionally constrained. This ruling created a profound legal asymmetry that effectively enabled wealthy individuals and corporations to dramatically amplify their political influence through unlimited independent spending. Scholarly analysis from multiple law reviews, including the Vanderbilt Law Review and UCLA Law Review, has characterized this decision as the 'original sin' of campaign finance law, laying the groundwork for subsequent rulings like Citizens United that further expanded corporate political spending rights. The decision fundamentally reshaped the constitutional understanding of political speech, money, and democratic representation, with lasting implications for electoral equality and political participation.",
   "actors": [
     "Supreme Court",
     "James Buckley",
@@ -18,6 +18,29 @@
       "title": "Campaign Finance Law After Buckley v. Valeo",
       "url": "https://www.brennancenter.org/our-work/research-reports/campaign-finance-law-after-buckley-v-valeo",
       "outlet": "Brennan Center"
+    },
+    {
+      "title": "Buckley v. Valeo: Court Case and Campaign Finance Impact",
+      "url": "https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/",
+      "outlet": "Federal Election Commission"
+    },
+    {
+      "title": "Buckley v. Valeo: Its Aftermath and Prospects",
+      "url": "https://scholarship.law.vanderbilt.edu/vlr/vol29/iss6/1/",
+      "outlet": "Vanderbilt Law Review",
+      "type": "Academic Law Review"
+    },
+    {
+      "title": "Coercion in Campaign Finance Reform: A Closer Look at Footnote 65",
+      "url": "https://www.uclalawreview.org/wp-content/uploads/2019/09/13_50UCLALRev2052002-2003.pdf",
+      "outlet": "UCLA Law Review",
+      "type": "Academic Law Review"
+    },
+    {
+      "title": "The Original Sin of Campaign Finance Law: Why Buckley v. Valeo is Wrong",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2241869",
+      "outlet": "Social Science Research Network",
+      "type": "Legal Scholarship"
     }
   ],
   "tags": [
@@ -28,7 +51,11 @@
   ],
   "importance": 9,
   "status": "confirmed",
-  "connections": [],
+  "connections": [
+    "2010-01-21--citizens-united-v-fec-supreme-court-ruling",
+    "1971-01-01--federal-election-campaign-act-passed",
+    "1974-01-01--federal-election-campaign-act-amendments"
+  ],
   "contradictions": [],
   "verification_status": "verified",
   "id": "1976-01-30--supreme-court-decides-buckley-v-valeo-unleashing-corporate-m",

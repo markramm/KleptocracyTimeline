@@ -2,27 +2,8 @@
   "id": "2002-10-08--whig-systematically-withholds-contradictory-intelligence-from-congress",
   "date": "2002-10-08",
   "title": "WHIG Systematically Withholds Contradictory Intelligence from Congress",
-  "description": "In the critical lead-up to the Iraq authorization vote, WHIG systematically withholds all intelligence reports that contradict administration claims about Iraqi WMD programs and terrorist connections. Congressional intelligence committees receive only carefully cherry-picked intelligence that supports the war narrative.",
-  "significance": "Deliberate withholding of contradictory evidence prevents informed congressional deliberation on war authorization, violating the constitutional requirement for executive accountability to the legislative branch.",
-  "sources": [
-    {
-      "url": "https://fas.org/irp/congress/2004_rpt/ssci_iraq.html",
-      "title": "Senate Intelligence Committee Report on Pre-war Intelligence",
-      "type": "congressional_report",
-      "outlet": "TBD"
-    }
-  ],
-  "tags": [
-    "whig",
-    "intelligence_withholding",
-    "congressional_deception",
-    "war_authorization",
-    "constitutional_violation"
-  ],
-  "importance": 9,
-  "category": "constitutional_crisis",
-  "verification_status": "documented",
-  "summary": "In the critical lead-up to the Iraq authorization vote, WHIG systematically withholds all intelligence reports that contradict administration claims about Iraqi WMD programs and terrorist connections. Congressional intelligence committees receive only carefully cherry-picked intelligence that supports the war narrative.",
+  "summary": "In the critical lead-up to the Iraq authorization vote, the White House Iraq Group (WHIG) systematically withholds intelligence reports that contradict administration claims about Iraqi WMD programs and terrorist connections. Congressional intelligence committees receive only carefully cherry-picked intelligence supporting the war narrative.",
+  "description": "The White House Iraq Group, a coordinated effort led by Karl Rove and established by Chief of Staff Andrew Card, deliberately manipulated intelligence reporting to support the Bush administration's case for invading Iraq. By selectively presenting intelligence and suppressing contradictory evidence, WHIG prevented informed congressional deliberation on war authorization.",
   "actors": [
     "White House Iraq Group",
     "Dick Cheney",
@@ -30,9 +11,42 @@
     "Condoleezza Rice",
     "Karen Hughes"
   ],
-  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "Senate Select Committee on Intelligence",
+      "title": "Report on the U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq",
+      "url": "https://www.intelligence.senate.gov/publications/committee-activities-2003-2004-november-16-2006",
+      "type": "government_report"
+    },
+    {
+      "outlet": "National Archives - WMD Commission Report",
+      "title": "Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction",
+      "url": "https://georgewbush-whitehouse.archives.gov/wmd/text/report.html",
+      "type": "government_investigation"
+    },
+    {
+      "outlet": "National Security Archive",
+      "title": "CIA Intelligence Estimates on Iraq Weapons Program",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB129/index.htm",
+      "type": "historical_archive"
+    }
+  ],
+  "importance": 9,
+  "significance": "Deliberate withholding of contradictory intelligence prevented informed congressional deliberation on war authorization, violating the constitutional requirement for executive accountability to the legislative branch.",
+  "tags": [
+    "whig",
+    "intelligence_withholding",
+    "congressional_deception",
+    "war_authorization",
+    "constitutional_violation",
+    "iraq_war",
+    "intelligence_manipulation"
+  ],
   "capture_lanes": [
     "Legislative Capture",
     "Intelligence Penetration"
-  ]
+  ],
+  "category": "constitutional_crisis",
+  "verification_status": "fully_verified",
+  "status": "confirmed"
 }

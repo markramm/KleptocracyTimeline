@@ -1,20 +1,23 @@
 {
   "id": "2012-01-01--koch-network-spends-400-million-targeting-obama",
   "date": "2012-01-01",
-  "importance": 8,
-  "title": "Koch Network Spends $400 Million Targeting Obama Reelection",
-  "summary": "Koch brothers coordinate network of wealthy donors and front groups spending approximately $400 million in 2012 election cycle, primarily targeting President Obama's reelection.",
+  "importance": 9,
+  "title": "Koch Network Spends $407 Million in Coordinated 2012 Election Campaign",
+  "summary": "The Koch brothers coordinated an extensive political donor network in the 2012 election cycle, spending approximately $407 million through multiple nonprofit organizations. Freedom Partners Chamber of Commerce emerged as the primary funding vehicle, distributing $250 million to 30 different nonprofits. Key recipients included Americans for Prosperity, which received $32.3 million, and the Center to Protect Patient Rights, which funneled millions to various dark money groups. This sophisticated funding mechanism allowed the Koch network to significantly influence the 2012 election while largely operating outside traditional campaign finance reporting requirements.",
   "actors": [
     "Charles Koch",
     "David Koch",
     "Americans for Prosperity",
-    "Freedom Partners Chamber of Commerce"
+    "Freedom Partners Chamber of Commerce",
+    "Center to Protect Patient Rights"
   ],
   "tags": [
     "dark-money",
     "koch-network",
     "election-influence",
-    "campaign-finance"
+    "campaign-finance",
+    "americans-for-prosperity",
+    "freedom-partners"
   ],
   "sources": [
     {
@@ -22,11 +25,24 @@
       "url": "https://www.motherjones.com/politics/2013/02/koch-brothers-400-million-2012-election/",
       "outlet": "Mother Jones",
       "date": "2013-02-05"
+    },
+    {
+      "date": "2014-01-05",
+      "outlet": "ProPublica",
+      "title": "How Dark Money Flows Through the Koch Network",
+      "url": "https://projects.propublica.org/graphics/koch"
+    },
+    {
+      "date": "2013-02-05",
+      "outlet": "Center for Responsive Politics",
+      "title": "Koch Network 2012 Election Spending Breakdown",
+      "url": "https://www.opensecrets.org/news/2013/02/koch-network-2012-election-spending"
     }
   ],
   "status": "confirmed",
   "capture_lanes": [
     "Electoral Manipulation",
-    "Executive Power Expansion"
+    "Dark Money",
+    "Campaign Finance"
   ]
 }

@@ -1,31 +1,42 @@
 {
   "date": "2006-02-22",
   "title": "Bush Threatens First Presidential Veto Over Dubai Ports Deal",
-  "summary": "President George W. Bush threatened to cast his first presidential veto if Congress blocked Dubai Ports World's acquisition of US port operations, declaring it would \"send a terrible signal to friends and allies.\" This unprecedented confrontation pitted the Republican-controlled White House against the Republican-controlled Congress over national security concerns. Bush defended UAE as \"a strong ally in the war on terror,\" while Congressional leaders from both parties opposed the deal. The controversy created unusual bipartisan opposition, with Senator Charles Schumer leading the campaign against the deal. The White House's aggressive defense of a foreign state-owned company's control of critical US infrastructure demonstrated the administration's prioritization of diplomatic relationships over security concerns raised by intelligence agencies.",
+  "summary": "President George W. Bush threatened to cast his first presidential veto if Congress blocked Dubai Ports World's (DPW) acquisition of US port operations, sparking a major national security controversy. The $6.8 billion deal would have given a UAE state-owned company control of cargo terminals in six major US ports: New York, Newark, Philadelphia, Baltimore, Miami, and New Orleans. Despite bipartisan congressional opposition led by Senator Charles Schumer, Bush defended the deal, arguing that DPW \"has played by the rules\" and is an ally in the war on terror. The controversy highlighted complex tensions between national security concerns, diplomatic relationships, and international business interests, with Coast Guard intelligence raising significant security risk assessments. Ultimately, on March 9, 2006, DPW withdrew its bid following intense congressional pressure.",
   "actors": [
     "George W. Bush",
     "Charles Schumer",
     "Dubai Ports World",
     "UAE",
-    "Republican Congress"
+    "Republican Congress",
+    "Dennis Hastert",
+    "Bill Frist"
   ],
   "tags": [
     "presidential-power",
     "corporate-influence",
     "foreign-policy",
-    "regulatory-capture"
+    "regulatory-capture",
+    "national-security"
   ],
   "importance": 9,
   "sources": [
     {
-      "title": "https://en.wikipedia.org/wiki/Dubai_Ports_World_controversy",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "NPR",
+      "title": "Q & A: The Issues Behind the Port Security Uproar",
+      "url": "https://www.npr.org/2006/02/22/5228775/q-a-the-issues-behind-the-port-security-uproar",
+      "date": "2006-02-22"
     },
     {
-      "title": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/02/20060222-11.html",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "CNN",
+      "title": "Key Questions About the Dubai Port Deal",
+      "url": "https://www.cnn.com/2006/POLITICS/03/06/dubai.ports.qa/",
+      "date": "2006-03-06"
+    },
+    {
+      "outlet": "CBS News",
+      "title": "Dubai Company Gives Up On Ports Deal",
+      "url": "https://www.cbsnews.com/news/dubai-company-gives-up-on-ports-deal/",
+      "date": "2006-03-09"
     }
   ],
   "status": "confirmed",

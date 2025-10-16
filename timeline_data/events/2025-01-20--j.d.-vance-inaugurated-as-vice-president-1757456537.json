@@ -1,22 +1,27 @@
 {
   "date": "2025-01-20",
   "title": "J.D. Vance Inaugurated as Vice President",
-  "summary": "J.D. Vance sworn in as 50th Vice President at age 40, completing transformation from Hillbilly Elegy author and Trump critic to second-highest office, backed by Peter Thiel network influence.",
+  "summary": "J.D. Vance sworn in as 50th Vice President at age 40, completing transformation from Hillbilly Elegy author and Trump critic to second-highest office, backed by Peter Thiel network influence. Became the third-youngest vice president in U.S. history, first Millennial and first Marine Corps veteran to hold the office. Sworn in by Supreme Court Justice Brett Kavanaugh during an indoor ceremony in the Capitol Rotunda due to freezing temperatures.",
   "actors": [
     "J.D. Vance",
     "Donald Trump",
-    "Peter Thiel"
+    "Peter Thiel",
+    "Brett Kavanaugh",
+    "Han Zheng"
   ],
   "importance": 10,
   "sources": [
-    "Inauguration ceremony",
-    "Official records"
+    "NBC News: 'WATCH: JD Vance is sworn in as vice president'",
+    "CBS News: 'Here's who is swearing in Trump and Vance at the 2025 inauguration'",
+    "The Hill: 'Who was sitting behind JD Vance on Inauguration Day?'",
+    "California Governor's Office: Official inaugural statement"
   ],
   "tags": [
     "inauguration",
     "vice-president",
     "political-transformation",
-    "thiel-influence"
+    "thiel-influence",
+    "millennial-leadership"
   ],
   "status": "confirmed",
   "id": "2025-01-20--j.d.-vance-inaugurated-as-vice-president-1757456537",

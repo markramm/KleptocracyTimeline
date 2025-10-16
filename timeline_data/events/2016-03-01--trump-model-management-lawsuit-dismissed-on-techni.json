@@ -8,12 +8,14 @@
     "Alexia Palmer",
     "Trump Model Management",
     "Donald Trump",
-    "Federal Court"
+    "Federal Court",
+    "Judge Analisa Torres"
   ],
   "tags": [
     "legal-proceedings",
     "labor-violations",
-    "judicial-system"
+    "judicial-system",
+    "trump-organization"
   ],
   "status": "confirmed",
   "sources": [
@@ -28,6 +30,18 @@
       "url": "https://www.washingtonpost.com/news/post-politics/wp/2016/04/01/trump-model-management-lawsuit-dismissed/",
       "outlet": "Washington Post",
       "date": "2016-04-01"
+    },
+    {
+      "title": "Model's Lawsuit Against Donald Trump Agency Dismissed",
+      "url": "https://abcnews.go.com/Politics/models-lawsuit-donald-trump-agency-dismissed/story?id=37878264",
+      "outlet": "ABC News",
+      "date": "2016-03-23"
+    },
+    {
+      "title": "Trump model to take case to U.S. government... but is it too late?",
+      "url": "https://money.cnn.com/2016/03/23/news/trump-model-case/index.html",
+      "outlet": "CNN Business",
+      "date": "2016-03-23"
     }
   ],
   "capture_lanes": [

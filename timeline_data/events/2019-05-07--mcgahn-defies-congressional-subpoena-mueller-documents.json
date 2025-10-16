@@ -1,18 +1,31 @@
 {
   "date": "2019-05-07",
   "title": "Don McGahn Defies Congressional Subpoena for Mueller-Related Documents",
-  "summary": "Former White House Counsel Donald McGahn, at White House instruction, refuses to provide documents to House Judiciary Committee related to Russia investigation and potential obstruction of justice. McGahn was a critical witness to alleged obstruction instances described in Mueller report, making his defiance a key component of systematic obstruction strategy.",
+  "summary": "Former White House Counsel Donald McGahn, acting under White House instruction, defied a congressional subpoena from the House Judiciary Committee on May 7, 2019, refusing to provide documents related to the Mueller investigation. This act of subpoena defiance was part of a broader strategy to obstruct congressional oversight, with White House counsel Pat Cipollone claiming executive privilege. The incident was a critical moment in the post-Mueller investigation legal battles, highlighting the Trump administration's resistance to congressional scrutiny.",
   "actors": [
     "Donald McGahn",
     "White House",
     "House Judiciary Committee",
-    "William Burck"
+    "William Burck",
+    "Jerry Nadler",
+    "Pat Cipollone",
+    "Mick Mulvaney"
   ],
   "sources": [
     {
       "title": "Ex-White House lawyer Don McGahn defies House subpoena for Mueller docs",
       "url": "https://www.pbs.org/newshour/politics/white-house-tells-former-counsel-mcghan-not-to-comply-with-subpoena",
       "outlet": "PBS NewsHour"
+    },
+    {
+      "title": "White House Directs Don McGahn Not To Comply With Jerry Nadler Subpoena",
+      "url": "https://www.npr.org/2019/05/07/721053127/white-house-directed-ex-counsel-mcgahn-not-to-comply-with-congressional-subpoena",
+      "outlet": "NPR"
+    },
+    {
+      "title": "White House orders McGahn not to comply with congressional subpoena",
+      "url": "https://www.nbcnews.com/politics/white-house/white-house-orders-mcgahn-not-comply-congressional-subpoena-n1002846",
+      "outlet": "NBC News"
     }
   ],
   "importance": 8,
@@ -21,7 +34,8 @@
     "mueller_investigation",
     "subpoena_defiance",
     "white_house_obstruction",
-    "congressional_oversight"
+    "congressional_oversight",
+    "executive_privilege"
   ],
   "status": "confirmed",
   "id": "2019-05-07--mcgahn-defies-congressional-subpoena-mueller-documents",

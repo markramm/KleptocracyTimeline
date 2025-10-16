@@ -3,30 +3,52 @@
   "date": "2010-01-21",
   "importance": 10,
   "title": "Supreme Court Citizens United Decision Unleashes Unlimited Corporate Spending",
-  "summary": "Supreme Court ruled 5-4 that corporations can spend unlimited amounts on elections through independent expenditures, enabling creation of Super PACs and dark money networks.",
+  "summary": "Supreme Court ruled 5-4 that corporations can spend unlimited amounts on elections through independent expenditures, enabling creation of Super PACs and dark money networks. The decision dramatically reshaped campaign finance, allowing corporations and unions to spend unlimited funds on independent political expenditures, fundamentally altering the landscape of American electoral politics.",
   "actors": [
     "Supreme Court",
     "Citizens United",
     "Federal Election Commission",
-    "Justice Anthony Kennedy"
+    "Justice Anthony Kennedy",
+    "Justice John Paul Stevens"
   ],
   "tags": [
     "dark-money",
     "campaign-finance",
     "supreme-court",
-    "corporate-power"
+    "corporate-power",
+    "first-amendment",
+    "elections"
   ],
   "sources": [
     {
-      "title": "Citizens United v. Federal Election Commission",
+      "title": "Citizens United v. Federal Election Commission, 558 U.S. 310 (2010)",
       "url": "https://www.supremecourt.gov/opinions/09pdf/08-205.pdf",
       "outlet": "Supreme Court",
       "date": "2010-01-21"
+    },
+    {
+      "title": "Citizens United Explained",
+      "url": "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained",
+      "outlet": "Brennan Center for Justice",
+      "date": "2024-01-21"
+    },
+    {
+      "title": "Fifteen Years Later, Citizens United Defined the 2024 Election",
+      "url": "https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election",
+      "outlet": "Brennan Center for Justice",
+      "date": "2024-01-21"
+    },
+    {
+      "title": "How Does the Citizens United Decision Still Affect Us in 2025?",
+      "url": "https://campaignlegal.org/update/how-does-citizens-united-decision-still-affect-us-2025",
+      "outlet": "Campaign Legal Center",
+      "date": "2025-01-21"
     }
   ],
   "status": "confirmed",
   "capture_lanes": [
     "Judicial Capture",
-    "Electoral Manipulation"
+    "Electoral Manipulation",
+    "Corporate Political Power"
   ]
 }

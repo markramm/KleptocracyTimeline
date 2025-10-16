@@ -1,17 +1,29 @@
 {
   "date": "1990-01-01",
   "title": "Trump Taj Mahal Casino Opens with $675 Million Junk Bond Debt Crisis",
-  "summary": "Donald Trump debuted his third Atlantic City casino, the Trump Taj Mahal, but was immediately struggling to make payments on $675 million in high-interest junk bonds used for construction. The casino opened during Trump's broader financial crisis involving several billion dollars in bank loans, nearly a billion guaranteed by his personal wealth, setting up the conditions for Carl Icahn's eventual involvement.",
+  "summary": "Donald Trump debuted his third Atlantic City casino, the Trump Taj Mahal, but immediately struggled to make payments on $675 million in high-interest junk bonds used for construction. Financial analyst Marvin Roffman predicted the casino would need to make nearly $1.3 million daily to break even, highlighting the unsustainable financial model. Within months, the casino missed debt payments, setting the stage for bankruptcy and Carl Icahn's eventual involvement.",
   "importance": 7,
   "actors": [
     "Donald Trump",
+    "Carl Icahn",
+    "Marvin Roffman",
     "Trump Taj Mahal"
   ],
   "sources": [
     {
-      "title": "Inside the rocky billionaire bromance of Donald Trump and Carl Icahn",
-      "url": "https://www.washingtonpost.com/politics/carl-icahn-donald-trump-business-rivalry-partnership/2016/04/30/4cc69316-024a-11e6-9d36-33d198ea26c5_story.html",
-      "outlet": "Washington Post"
+      "title": "The Analyst Who Gambled and Took On Trump",
+      "url": "https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump",
+      "outlet": "NPR"
+    },
+    {
+      "title": "How Trump's Taj Mahal Casino Went From '8th Wonder of the World' to Closure",
+      "url": "https://abcnews.go.com/US/trumps-taj-mahal-casino-8th-world-closure-years/story?id=42762369",
+      "outlet": "ABC News"
+    },
+    {
+      "title": "Trump Taj Mahal Skeptic: The Analyst Who Gambled And Took On Trump",
+      "url": "https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump",
+      "outlet": "NPR"
     }
   ],
   "tags": [
@@ -20,7 +32,8 @@
     "casino",
     "junk bonds",
     "debt crisis",
-    "Taj Mahal"
+    "Taj Mahal",
+    "financial mismanagement"
   ],
   "id": "1990-01-01--trump-taj-mahal-casino-opens-with-675-million-junk-bond-debt",
   "status": "confirmed",

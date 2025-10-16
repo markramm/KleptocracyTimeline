@@ -6,14 +6,17 @@
   "description": "Just two days after Vietnam approved a Trump Organization luxury real estate plan, Eric Trump traveled to the country to break ground on the project",
   "status": "confirmed",
   "importance": 9,
-  "location": "Washington, D.C.",
+  "location": "Vietnam",
   "actors": [
-    "Donald Trump",
-    "Trump Administration"
+    "Eric Trump",
+    "Trump Organization",
+    "Vietnamese government"
   ],
   "tags": [
     "kleptocracy",
-    "corruption"
+    "corruption",
+    "vietnam",
+    "trump-organization"
   ],
   "capture_type": "monetizing_position",
   "sources": [
@@ -57,5 +60,14 @@
   "_merge_timestamp": "2025-09-05T23:46:55.903996",
   "capture_lanes": [
     "Financial Capture"
-  ]
+  ],
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:39.785776",
+    "corrected_by": "test-user-bulk-retry",
+    "validation_log_id": 114,
+    "corrections_applied": [
+      "actors: '['Eric Trump', 'Trump Organization', 'Vietnamese government']' \u2192 '['Eric Trump', 'Trump Organization', 'Vietnamese government']'",
+      "tags: '['kleptocracy', 'corruption', 'vietnam', 'trump-organization']' \u2192 '['kleptocracy', 'corruption', 'vietnam', 'trump-organization']'"
+    ]
+  }
 }

@@ -1,29 +1,40 @@
 {
   "date": "2001-12-02",
   "title": "Enron Files for Bankruptcy After Energy Task Force Influence",
-  "summary": "Enron, whose CEO Kenneth Lay had extensive influence over the Bush administration's National Energy Policy through meetings with Vice President Cheney's Energy Task Force, files for bankruptcy with 3.4 billion in assets - the largest corporate bankruptcy in U.S. history at the time. The collapse occurs just seven months after the energy policy incorporating Enron's recommendations was released.",
+  "summary": "Enron filed for bankruptcy on December 2, 2001, marking the largest corporate bankruptcy in U.S. history at the time, with $63.4 billion in assets. The collapse revealed extensive corporate fraud orchestrated by CEO Kenneth Lay and President Jeffrey Skilling, who manipulated financial statements and enriched themselves while destroying the livelihoods of 20,000 employees. The bankruptcy occurred seven months after the Bush administration's National Energy Policy was released, which incorporated recommendations from Enron executives during Vice President Cheney's Energy Task Force meetings.",
   "importance": 9,
   "status": "confirmed",
   "actors": [
     "Enron",
     "Kenneth Lay",
-    "Jeffrey Skilling"
+    "Jeffrey Skilling",
+    "Dick Cheney",
+    "George W. Bush"
   ],
   "sources": [
     {
-      "title": "https://www.history.com/this-day-in-history/enron-files-for-bankruptcy",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "International Banker",
+      "title": "The Enron Scandal (2001)",
+      "url": "https://internationalbanker.com/history-of-financial-crises/the-enron-scandal-2001/",
+      "date": "2021-12-02"
     },
     {
-      "title": "https://www.fbi.gov/history/famous-cases/enron",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Britannica",
+      "title": "Enron Scandal: Summary and Key Facts",
+      "url": "https://www.britannica.com/event/Enron-scandal",
+      "date": "2022-08-15"
     },
     {
-      "title": "https://en.wikipedia.org/wiki/Enron_scandal",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "TIME Magazine",
+      "title": "Top 10 Crooked CEOs: Kenneth Lay & Jeffrey Skilling",
+      "url": "https://content.time.com/time/specials/packages/article/0,28804,1903155_1903156_1903186,00.html",
+      "date": "2009-11-04"
+    },
+    {
+      "outlet": "Levin Center for Oversight and Democracy",
+      "title": "Congress and the Enron Scandal",
+      "url": "https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/",
+      "date": "2023-01-15"
     }
   ],
   "tags": [
@@ -31,7 +42,9 @@
     "bankruptcy",
     "corporate-fraud",
     "corruption",
-    "financial-crime"
+    "financial-crime",
+    "bush-administration",
+    "energy-policy"
   ],
   "id": "2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence-1757454841",
   "priority_id": "RT-COMPLETED-004-enron-cheney-connection",

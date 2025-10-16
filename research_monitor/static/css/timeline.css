@@ -1,0 +1,365 @@
+/* Timeline-specific CSS */
+
+/* Timeline Container */
+.timeline-container {
+    background-color: var(--background-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    min-height: 500px;
+}
+
+/* Timeline Events */
+.timeline-event {
+    border-bottom: 1px solid var(--border-color);
+    padding: 20px;
+    transition: background-color 0.2s ease;
+    cursor: pointer;
+}
+
+.timeline-event:hover {
+    background-color: var(--secondary-color);
+}
+
+.timeline-event:last-child {
+    border-bottom: none;
+}
+
+/* Event Header */
+.event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.event-date {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 500;
+    min-width: 100px;
+}
+
+.event-importance {
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 500;
+    min-width: 35px;
+    text-align: center;
+}
+
+.importance-10, .importance-9 {
+    background-color: var(--critical-color);
+    color: white;
+}
+
+.importance-8, .importance-7 {
+    background-color: var(--high-color);
+    color: white;
+}
+
+.importance-6, .importance-5 {
+    background-color: var(--medium-color);
+    color: white;
+}
+
+.importance-4, .importance-3, .importance-2, .importance-1 {
+    background-color: var(--low-color);
+    color: white;
+}
+
+/* Event Content */
+.event-title {
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.event-summary {
+    color: var(--text-secondary);
+    line-height: 1.5;
+    margin-bottom: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.event-summary.expanded {
+    -webkit-line-clamp: unset;
+}
+
+/* Event Meta */
+.event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 12px;
+    font-size: 12px;
+}
+
+.event-actors, .event-tags {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: var(--text-muted);
+}
+
+.event-actors i, .event-tags i {
+    font-size: 10px;
+}
+
+.actor-tag, .event-tag {
+    background-color: var(--secondary-color);
+    color: var(--text-secondary);
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 11px;
+    white-space: nowrap;
+}
+
+.actor-tag {
+    background-color: var(--accent-color);
+    color: white;
+}
+
+.event-tag:hover, .actor-tag:hover {
+    opacity: 0.8;
+}
+
+/* Event Status */
+.event-status {
+    font-size: 11px;
+    padding: 1px 5px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.status-confirmed {
+    background-color: var(--success-color);
+    color: white;
+}
+
+.status-alleged {
+    background-color: var(--warning-color);
+    color: white;
+}
+
+.status-disputed {
+    background-color: var(--error-color);
+    color: white;
+}
+
+/* Pagination */
+.pagination-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: var(--background-secondary);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
+.page-btn {
+    padding: 8px 16px;
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: background-color 0.2s ease;
+}
+
+.page-btn:hover:not(:disabled) {
+    background-color: #357abd;
+}
+
+.page-btn:disabled {
+    background-color: var(--border-color);
+    color: var(--text-muted);
+    cursor: not-allowed;
+}
+
+#page-info {
+    color: var(--text-secondary);
+    font-size: 14px;
+}
+
+/* Event Detail Modal Content */
+.event-detail {
+    padding: 30px;
+}
+
+.event-detail-header {
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.event-detail-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 10px;
+    line-height: 1.3;
+}
+
+.event-detail-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.event-detail-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+
+.event-detail-item i {
+    color: var(--accent-color);
+    width: 16px;
+}
+
+.event-detail-summary {
+    font-size: 16px;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    margin-bottom: 20px;
+}
+
+.event-detail-actors,
+.event-detail-tags,
+.event-detail-sources {
+    margin-bottom: 20px;
+}
+
+.event-detail-actors h4,
+.event-detail-tags h4,
+.event-detail-sources h4 {
+    color: var(--text-primary);
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.event-detail-actors h4 i,
+.event-detail-tags h4 i,
+.event-detail-sources h4 i {
+    color: var(--accent-color);
+}
+
+.actors-list, .tags-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.actors-list .actor-tag,
+.tags-list .event-tag {
+    font-size: 12px;
+    padding: 4px 8px;
+}
+
+.sources-list {
+    list-style: none;
+}
+
+.sources-list li {
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.sources-list a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.sources-list a:hover {
+    text-decoration: underline;
+}
+
+/* Empty States */
+.timeline-empty {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--text-muted);
+}
+
+.timeline-empty i {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: var(--border-color);
+}
+
+.timeline-empty h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: var(--text-secondary);
+}
+
+/* Loading States */
+.timeline-loading {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--text-secondary);
+}
+
+.timeline-loading i {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: var(--accent-color);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .timeline-event {
+        padding: 15px;
+    }
+    
+    .event-header {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+    }
+    
+    .event-date {
+        min-width: auto;
+    }
+    
+    .event-meta {
+        flex-direction: column;
+        gap: 8px;
+    }
+    
+    .event-detail {
+        padding: 20px;
+    }
+    
+    .event-detail-title {
+        font-size: 20px;
+    }
+    
+    .event-detail-meta {
+        grid-template-columns: 1fr;
+        gap: 10px;
+    }
+    
+    .pagination-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

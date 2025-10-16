@@ -41,9 +41,13 @@ class TimelineEvent(Base):
     event_metadata = relationship("EventMetadata", back_populates="event", uselist=False)
     research_links = relationship("EventResearchLink", back_populates="event")
     
-    # Enable full-text search on this table
+    # Enable full-text search and performance indexes
     __table_args__ = (
         Index('idx_event_fulltext', 'title', 'summary', mysql_prefix='FULLTEXT'),
+        Index('idx_event_importance', 'importance'),
+        Index('idx_event_status', 'status'),
+        Index('idx_event_date_importance', 'date', 'importance'),
+        Index('idx_event_status_date', 'status', 'date'),
     )
 
 class EventMetadata(Base):
@@ -66,6 +70,10 @@ class EventMetadata(Base):
     created_at = Column(DateTime, default=func.now())
     research_priority_id = Column(String, ForeignKey('research_priorities.id'))
     
+    # QA processing reservation (to prevent duplicate work)
+    reserved_at = Column(DateTime)
+    reserved_by = Column(String)
+    
     # Enrichment
     ai_summary = Column(Text)  # AI-generated summary for better search
     tags_enriched = Column(JSON)  # Additional tags beyond source
@@ -74,6 +82,14 @@ class EventMetadata(Base):
     # Relationships
     event = relationship("TimelineEvent", back_populates="event_metadata")
     research_priority = relationship("ResearchPriority", back_populates="created_events")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_metadata_validation_status', 'validation_status'),
+        Index('idx_metadata_created_by', 'created_by'),
+        Index('idx_metadata_created_at', 'created_at'),
+        Index('idx_metadata_quality_score', 'quality_score'),
+    )
 
 class ResearchPriority(Base):
     """
@@ -128,6 +144,16 @@ class ResearchPriority(Base):
     created_events = relationship("EventMetadata", back_populates="research_priority")
     research_links = relationship("EventResearchLink", back_populates="priority")
     activity_logs = relationship("ActivityLog", back_populates="priority")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_priority_status', 'status'),
+        Index('idx_priority_priority', 'priority'),
+        Index('idx_priority_created_date', 'created_date'),
+        Index('idx_priority_status_priority', 'status', 'priority'),
+        Index('idx_priority_assigned_agent', 'assigned_agent'),
+        Index('idx_priority_category', 'category'),
+    )
 
 class EventResearchLink(Base):
     """
@@ -148,6 +174,15 @@ class EventResearchLink(Base):
     # Relationships
     event = relationship("TimelineEvent", back_populates="research_links")
     priority = relationship("ResearchPriority", back_populates="research_links")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_link_event_id', 'event_id'),
+        Index('idx_link_priority_id', 'priority_id'),
+        Index('idx_link_type', 'link_type'),
+        Index('idx_link_created_at', 'created_at'),
+        Index('idx_link_event_priority', 'event_id', 'priority_id'),
+    )
 
 class ActivityLog(Base):
     """
@@ -196,6 +231,180 @@ class ResearchSession(Base):
     agent_config = Column(JSON)
     notes = Column(Text)
     
+class ValidationLog(Base):
+    """
+    Individual validation log entries for events
+    Replaces binary validation status with rich validation history
+    """
+    __tablename__ = 'validation_logs'
+    
+    id = Column(Integer, primary_key=True)
+    event_id = Column(String, ForeignKey('timeline_events.id'), nullable=False)
+    validation_run_id = Column(Integer, ForeignKey('validation_runs.id'))
+    
+    # Validation details
+    validator_type = Column(String, nullable=False)  # human, agent, automated
+    validator_id = Column(String)  # user ID or agent name
+    validation_date = Column(DateTime, default=func.now())
+    
+    # Validation findings
+    status = Column(String, nullable=False)  # validated, rejected, needs_work, flagged
+    confidence = Column(Float)  # 0.0-1.0 confidence in validation
+    notes = Column(Text, nullable=False)  # Required validation notes
+    
+    # Specific issues found or validated
+    issues_found = Column(JSON)  # List of specific issues
+    sources_verified = Column(JSON)  # List of sources checked
+    corrections_made = Column(JSON)  # Any corrections applied
+    
+    # Metadata
+    time_spent_minutes = Column(Float)
+    validation_criteria = Column(JSON)  # What was checked
+    
+    # Relationships
+    event = relationship("TimelineEvent")
+    validation_run = relationship("ValidationRun", back_populates="validation_logs")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_validation_event_id', 'event_id'),
+        Index('idx_validation_run_id', 'validation_run_id'),
+        Index('idx_validation_status', 'status'),
+        Index('idx_validation_date', 'validation_date'),
+        Index('idx_validation_validator', 'validator_type', 'validator_id'),
+    )
+
+class EventUpdateFailure(Base):
+    """
+    Track failed attempts to update event files
+    Critical for identifying systemic save-back issues
+    """
+    __tablename__ = 'event_update_failures'
+    
+    id = Column(Integer, primary_key=True)
+    event_id = Column(String, nullable=False)
+    validation_log_id = Column(Integer, ForeignKey('validation_logs.id'))
+    
+    # Failure details
+    failure_date = Column(DateTime, default=func.now())
+    failure_type = Column(String, nullable=False)  # file_not_found, permission_error, json_error, write_error, etc.
+    error_message = Column(Text, nullable=False)  # Full error details
+    stack_trace = Column(Text)  # Python stack trace if available
+    
+    # Context
+    validator_id = Column(String)  # Who was trying to update
+    attempted_corrections = Column(JSON)  # What corrections were being applied
+    file_path = Column(String)  # Full path to event file
+    file_exists = Column(Boolean)  # Did file exist at time of failure?
+    file_permissions = Column(String)  # File permissions if readable
+    
+    # Recovery attempts
+    retry_count = Column(Integer, default=0)
+    resolved = Column(Boolean, default=False)
+    resolution_notes = Column(Text)
+    resolved_date = Column(DateTime)
+    
+    # Relationships
+    validation_log = relationship("ValidationLog")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_update_failure_event_id', 'event_id'),
+        Index('idx_update_failure_date', 'failure_date'),
+        Index('idx_update_failure_type', 'failure_type'),
+        Index('idx_update_failure_resolved', 'resolved'),
+    )
+
+class ValidationRun(Base):
+    """
+    Collections of events selected for validation
+    Replaces validation queue with calculated validation runs
+    """
+    __tablename__ = 'validation_runs'
+    
+    id = Column(Integer, primary_key=True)
+    run_name = Column(String, nullable=False)
+    run_type = Column(String, nullable=False)  # random_sample, importance_focused, date_range, pattern_detection
+    
+    # Run parameters
+    target_count = Column(Integer, nullable=False)
+    actual_count = Column(Integer, default=0)
+    selection_criteria = Column(JSON, nullable=False)  # Parameters used for selection
+    
+    # Run status
+    status = Column(String, default='active')  # active, completed, paused, cancelled
+    created_date = Column(DateTime, default=func.now())
+    started_date = Column(DateTime)
+    completed_date = Column(DateTime)
+    
+    # Progress tracking
+    events_validated = Column(Integer, default=0)
+    events_remaining = Column(Integer, default=0)
+    progress_percentage = Column(Float, default=0.0)
+    
+    # Run results summary
+    validation_summary = Column(JSON)  # Summary statistics
+    issues_discovered = Column(JSON)  # Common issues found
+    recommendations = Column(Text)  # Recommendations based on findings
+    
+    # Creator and coordination
+    created_by = Column(String, nullable=False)
+    assigned_validators = Column(JSON)  # List of assigned validators
+    
+    # Relationships
+    validation_logs = relationship("ValidationLog", back_populates="validation_run")
+    run_events = relationship("ValidationRunEvent", back_populates="validation_run")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_validation_run_status', 'status'),
+        Index('idx_validation_run_type', 'run_type'),
+        Index('idx_validation_run_created', 'created_date'),
+        Index('idx_validation_run_progress', 'status', 'progress_percentage'),
+    )
+
+class ValidationRunEvent(Base):
+    """
+    Events selected for a specific validation run
+    Junction table with validation-specific metadata
+    """
+    __tablename__ = 'validation_run_events'
+    
+    id = Column(Integer, primary_key=True)
+    validation_run_id = Column(Integer, ForeignKey('validation_runs.id'), nullable=False)
+    event_id = Column(String, ForeignKey('timeline_events.id'), nullable=False)
+    
+    # Selection metadata
+    selection_reason = Column(Text)  # Why this event was selected
+    selection_priority = Column(Float)  # Priority within the run
+    selection_date = Column(DateTime, default=func.now())
+    
+    # Validation status for this run
+    validation_status = Column(String, default='pending')  # pending, assigned, in_progress, completed, skipped
+    assigned_validator = Column(String)
+    assigned_date = Column(DateTime)
+    completed_date = Column(DateTime)
+    
+    # Quick status flags
+    needs_attention = Column(Boolean, default=False)
+    high_priority = Column(Boolean, default=False)
+    validation_notes = Column(Text)
+    
+    # Relationships
+    validation_run = relationship("ValidationRun", back_populates="run_events")
+    event = relationship("TimelineEvent")
+    
+    # Performance indexes
+    __table_args__ = (
+        Index('idx_run_event_run_id', 'validation_run_id'),
+        Index('idx_run_event_event_id', 'event_id'),
+        Index('idx_run_event_status', 'validation_status'),
+        Index('idx_run_event_priority', 'selection_priority'),
+        Index('idx_run_event_assigned', 'assigned_validator'),
+        # Unique constraint to prevent duplicate events in same run
+        Index('idx_run_event_unique', 'validation_run_id', 'event_id', unique=True),
+    )
+
 class SystemMetrics(Base):
     """
     System-wide metrics for monitoring

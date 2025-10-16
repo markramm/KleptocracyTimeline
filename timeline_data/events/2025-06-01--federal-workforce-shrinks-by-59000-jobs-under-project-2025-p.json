@@ -1,30 +1,37 @@
 {
   "date": "2025-06-01",
   "title": "Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan",
-  "summary": "Federal workforce reduced by 59,000 positions with additional 154,000 employees on paid administrative leave through deferred resignation program designed to accelerate exodus of career officials, implementing Project 2025's government reduction goals.",
+  "summary": "The federal workforce was reduced by 59,000 employees in the first five months of 2025, with an additional 154,000 federal workers accepting the Deferred Resignation Program (DRP), marking the largest single-year exodus of civil servants in nearly 80 years. This reduction aligns with the Trump administration's Project 2025 goals of 'dismantling the administrative state'.",
   "actors": [
-    "Federal workforce",
-    "Trump administration",
-    "Russell Vought"
+    "Donald Trump",
+    "Russell Vought",
+    "Kevin Roberts",
+    "Heritage Foundation"
   ],
   "importance": 8,
   "sources": [
     {
-      "title": "Federal News Network",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Canadian Broadcasting Corporation (CBC)",
+      "title": "It's barely 2025 and Trump's project to overhaul federal civil service is well underway",
+      "url": "https://www.cbc.ca/news/world/trump-us-government-workforce-1.7444804"
     },
     {
-      "title": "Project 2025 Implementation analysis",
-      "url": "https://example.com",
-      "outlet": "TBD"
+      "outlet": "Bloomberg",
+      "title": "U.S. government faces brain drain as 154,000 federal workers exit this week",
+      "url": "https://www.bnnbloomberg.ca/business/2025/09/30/us-government-faces-brain-drain-as-154000-federal-workers-exit-this-week/"
+    },
+    {
+      "outlet": "Federal News Network",
+      "title": "Competing numbers emerge on federal workforce reductions",
+      "url": "https://federalnewsnetwork.com/federal-report/2025/08/competing-numbers-emerge-on-federal-workforce-reductions/"
     }
   ],
   "tags": [
     "workforce-reduction",
     "federal-employees",
     "government-shrinkage",
-    "administrative-exodus"
+    "administrative-exodus",
+    "project-2025"
   ],
   "status": "confirmed",
   "id": "2025-06-01--federal-workforce-shrinks-by-59000-jobs-under-project-2025-p",

@@ -1,40 +1,61 @@
 {
   "id": "2025-07-31--elon-musk-gives-millions-to-republican-super-pacs-ahead-of-t",
   "date": "2025-07-31",
-  "title": "Elon Musk gives millions to Republican super PACs ahead of the midterms",
-  "summary": "Elon Musk gave Trump\u2019s super PAC $5 million despite their public feud",
-  "description": "Elon Musk gave Trump\u2019s super PAC $5 million despite their public feud",
+  "title": "Elon Musk Continues $277 Million Donation Spree Supporting Trump and Republican Candidates",
+  "summary": "Despite public tensions, Elon Musk donated $5 million to Trump's MAGA Inc. super PAC, part of a broader $277 million spending campaign to support Trump and Republican candidates in the 2024-2025 election cycle",
+  "description": "Musk became a top Republican mega-donor, with his America PAC spending $72 million supporting Trump's campaign between July and September",
   "status": "confirmed",
-  "importance": 7,
+  "importance": 8,
   "location": "Washington, D.C.",
   "actors": [
+    "Elon Musk",
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "MAGA Inc.",
+    "America PAC"
   ],
   "tags": [
-    "government-contracts"
+    "government-contracts",
+    "campaign-finance",
+    "political-donations",
+    "institutional-capture",
+    "tech-billionaire-influence"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
+      "title": "Elon Musk Gave $45 Million to His Super PAC, Making Him Among Top Donors",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-31/elon-musk-gave-45-million-to-his-super-pac-making-him-among-top-donors",
+      "outlet": "Bloomberg",
+      "date": "2025-07-31",
+      "type": "news_analysis"
+    },
+    {
+      "title": "Musk has donated $75 million to back Trump",
+      "url": "https://www.npr.org/2024/10/16/g-s1-28591/elon-musk-donald-trump-america-pac-fec",
+      "outlet": "NPR",
+      "date": "2025-07-31",
+      "type": "investigative_report"
+    },
+    {
       "title": "Elon Musk gives millions to Republican super PACs ahead of the midterms",
       "url": "https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114",
       "outlet": "NBC News",
-      "date": "2025-07-31"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-07-31"
+      "date": "2025-07-31",
+      "type": "breaking_news"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "2024 Election",
+    "Political Donations"
   ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "patterns": [
+    "kleptocratic-capture",
+    "political-monetization"
+  ],
+  "notes": "Comprehensive tracking of political donation networks and potential institutional capture",
   "capture_lanes": [
-    "Systematic Corruption"
+    "Systematic Corruption",
+    "Campaign Finance"
   ]
 }

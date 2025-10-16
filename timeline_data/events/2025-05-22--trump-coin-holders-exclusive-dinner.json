@@ -1,21 +1,25 @@
 {
   "id": "2025-05-22--trump-coin-holders-exclusive-dinner",
   "date": "2025-05-22",
-  "title": "Trump hosts exclusive dinner for top 220 $TRUMP coin holders at golf club",
-  "summary": "President Trump hosted an exclusive private dinner at Trump National Golf Club for the 220 largest holders of his $TRUMP memecoin cryptocurrency. The event was part of his $500,000 access club arrangement, creating an unprecedented pay-for-access scheme where cryptocurrency investments directly translated to presidential access. The dinner demonstrated how Trump monetized the presidency through digital assets, offering exclusive government access to those who invested most heavily in his personal crypto ventures.",
-  "importance": 8,
+  "title": "Trump hosts exclusive $148M cryptocurrency investor dinner at private golf club",
+  "summary": "President Trump hosted an exclusive private dinner at his Sterling, Virginia golf club for the top 220 cryptocurrency investors who purchased his $TRUMP meme coin, spending an estimated $148 million to secure their seats. The dinner, which was closed to media, featured top international investors like Justin Sun, and sparked significant controversy. Sen. Elizabeth Warren condemned the event as an 'orgy of corruption', while over 100 protesters demonstrated outside, highlighting concerns about Trump monetizing presidential access through cryptocurrency. The event showcased the growing intersection of Trump's political power and digital asset investments, with top investors receiving limited edition $100,000 watches and promises of private White House tours.",
+  "importance": 9,
   "tags": [
     "cryptocurrency",
     "trump-memecoin",
     "pay-for-access",
     "corruption",
     "trump-national-golf-club",
-    "presidential-access"
+    "presidential-access",
+    "world-liberty-financial",
+    "crypto-regulation"
   ],
   "actors": [
     "Donald Trump",
     "$TRUMP coin holders",
-    "World Liberty Financial"
+    "World Liberty Financial",
+    "Justin Sun",
+    "Sen. Elizabeth Warren"
   ],
   "sources": [
     {
@@ -29,10 +33,23 @@
       "url": "https://www.politico.com/news/2025/05/22/trump-crypto-dinner-access",
       "outlet": "Politico",
       "date": "2025-05-22"
+    },
+    {
+      "title": "Trump hosts $148M US crypto dinner slammed by Democrats as 'orgy of corruption'",
+      "url": "https://www.cbc.ca/news/world/trump-crypto-golf-club-dinner-1.7541823",
+      "outlet": "CBC News",
+      "date": "2025-05-22"
+    },
+    {
+      "title": "The Crypto President? Trump's Cryptocurrency Venture Raises Political Concerns",
+      "url": "https://www.npr.org/2025/05/12/1250811326/1a-crypto-05-12-2025",
+      "outlet": "NPR",
+      "date": "2025-05-12"
     }
   ],
   "status": "confirmed",
   "capture_lanes": [
-    "Executive Power Expansion"
+    "Executive Power Expansion",
+    "Cryptocurrency Regulatory Capture"
   ]
 }

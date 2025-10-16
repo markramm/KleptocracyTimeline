@@ -1,41 +1,57 @@
 {
-  "id": "2025-02-11--trump-orders-plans-for-large-scale-work-force-cuts-and-expan",
-  "date": "2025-02-11",
-  "title": "Trump orders plans for \u2018large scale\u2019 work force cuts and expands Musk\u2019s power",
-  "summary": "Trump signed an executive order directing agencies to plan for mass federal workforce reductions and granted Elon Musk sweeping power over future hiring",
-  "description": "Trump signed an executive order directing agencies to plan for mass federal workforce reductions and granted Elon Musk sweeping power over future hiring",
-  "status": "confirmed",
-  "importance": 6,
-  "location": "Washington, D.C.",
   "actors": [
     "Donald Trump",
+    "Elon Musk",
     "Trump Administration"
   ],
-  "tags": [
-    "kleptocracy"
-  ],
-  "capture_type": "monetizing_position",
-  "sources": [
-    {
-      "title": "Trump orders plans for \u2018large scale\u2019 work force cuts and expands Musk\u2019s power",
-      "url": "https://www.nytimes.com/2025/02/11/us/politics/trump-musk-doge-federal-workers.html",
-      "outlet": "New York Times",
-      "date": "2025-02-11"
-    },
-    {
-      "title": "Timeline Documentation",
-      "url": "https://example.com",
-      "outlet": "Archive",
-      "date": "2025-02-11"
-    }
-  ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
-  ],
-  "notes": "Event from comprehensive kleptocracy timeline tracking.",
   "capture_lanes": [
     "Financial Capture",
-    "Executive Power Expansion"
-  ]
+    "Executive Power Expansion",
+    "Institutional Reorganization"
+  ],
+  "capture_type": "monetizing_position",
+  "connections": [
+    "Project 2025",
+    "Heritage Foundation workforce reduction strategy"
+  ],
+  "date": "2025-02-11",
+  "description": "Trump signed an executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, to dramatically reduce the federal workforce through strategic layoffs and hiring restrictions.",
+  "id": "2025-02-11--trump-orders-plans-for-large-scale-work-force-cuts-and-expan",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Part of systematic effort to transform federal bureaucracy through workforce reduction and centralized hiring control.",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-reorganization"
+  ],
+  "sources": [
+    {
+      "date": "2025-02-11",
+      "outlet": "Government Executive",
+      "title": "Trump Orders Agencies to Plan Widespread Layoffs and Attrition-Based Hiring",
+      "url": "https://www.govexec.com/workforce/2025/02/trump-orders-agencies-plan-widespread-layoffs-and-attrition-based-hiring/402938/"
+    },
+    {
+      "date": "2025-02-11",
+      "outlet": "PBS News",
+      "title": "Watch: Trump Makes Appearance with Musk, Signs Executive Order Downsizing Federal Workforce",
+      "url": "https://www.pbs.org/newshour/politics/watch-trump-makes-appearance-with-musk-signs-executive-order-downsizing-federal-workforce"
+    },
+    {
+      "date": "2025-02-12",
+      "outlet": "Axios",
+      "title": "Trump Orders 'Large-Scale' Cuts to Federal Workforce and Gives DOGE More Power",
+      "url": "https://www.axios.com/2025/02/12/trump-doge-executive-order-musk-federal-staff-cuts"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "President Trump signed a sweeping executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, which mandates massive federal workforce reductions. The order requires agencies to hire only one new employee for every four who depart, with exemptions for military, immigration enforcement, and public safety roles. Musk's DOGE will have unprecedented control over federal hiring, with a team lead stationed in each agency to oversee workforce optimization.",
+  "tags": [
+    "kleptocracy",
+    "workforce-reduction",
+    "executive-order",
+    "institutional-capture",
+    "musk-influence"
+  ],
+  "title": "Trump Signs Executive Order for Large-Scale Federal Workforce Cuts Under DOGE"
 }

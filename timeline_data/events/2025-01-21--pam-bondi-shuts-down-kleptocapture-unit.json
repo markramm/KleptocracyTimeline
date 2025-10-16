@@ -2,7 +2,7 @@
   "id": "2025-01-21--pam-bondi-shuts-down-kleptocapture-unit",
   "date": "2025-01-21",
   "title": "AG Pam Bondi Eliminates DOJ KleptoCapture Unit and Foreign Influence Task Force",
-  "summary": "Attorney General Pam Bondi, who received over $3 million from Trump businesses including Truth Social stock, shuts down FBI's Foreign Influence Tas...",
+  "summary": "Attorney General Pam Bondi, who received over $3 million from Trump businesses including Truth Social stock, shuts down FBI's Foreign Influence Task Force and DOJ's KleptoCapture unit on first day. Units had recovered billions in Russian oligarch assets and investigated foreign election interference.",
   "description": "Attorney General Pam Bondi, who received over $3 million from Trump businesses including Truth Social stock, shuts down FBI's Foreign Influence Task Force and DOJ's KleptoCapture unit on first day. Units had recovered billions in Russian oligarch assets and investigated foreign election interference. Bondi previously declined to investigate Trump University after receiving $25,000 illegal donation to her PAC.",
   "importance": 9,
   "tags": [
@@ -31,10 +31,16 @@
       "title": "Bondi eliminates DOJ's KleptoCapture and Foreign Influence units"
     },
     {
-      "outlet": "Washington Post",
-      "date": "2025-01-21",
-      "url": "https://www.washingtonpost.com/politics/2025/01/21/bondi-doj-foreign-influence/",
-      "title": "New AG Bondi dismantles foreign influence and oligarch asset units"
+      "outlet": "NBC News",
+      "date": "2025-02-05",
+      "url": "https://www.nbcnews.com/politics/national-security/bondi-ends-fbi-effort-combat-foreign-influence-us-politics-rcna191012",
+      "title": "Pam Bondi Ends FBI Effort to Combat Foreign Influence in U.S. Politics"
+    },
+    {
+      "outlet": "The Hill",
+      "date": "2025-02-07",
+      "url": "https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/",
+      "title": "DOJ Disbands Foreign Influence Task Force, Unit Tasked with Seizing Russian Oligarchs' Assets"
     }
   ],
   "connections": [

@@ -1,34 +1,59 @@
 {
   "id": "2025-07-25--trump-s-trip-to-scotland-as-his-new-golf-course-opens-blurs-",
   "date": "2025-07-25",
-  "title": "Trump\u2019s trip to Scotland as his new golf course opens blurs politics and the family\u2019s business",
-  "summary": "Trump traveled to Scotland to open a new golf course, using the presidency to promote his own business",
-  "description": "Trump traveled to Scotland to open a new golf course, using the presidency to promote his own business",
+  "title": "Trump's Scotland Golf Course Trip Blends Presidential Duties with Private Business Interests",
+  "summary": "President Trump traveled to Scotland to open a new golf course, using official diplomatic meetings and taxpayer-funded trip to promote personal business interests, raising significant ethical concerns about conflicts of interest",
+  "description": "During a five-day trip to Scotland, Trump opened a new golf course at Trump International Golf Links Aberdeen and held diplomatic meetings, simultaneously promoting his family's business and conducting official presidential duties",
   "status": "confirmed",
-  "importance": 7,
-  "location": "Washington, D.C.",
+  "importance": 8,
+  "location": "Scotland",
   "actors": [
-    "Donald Trump"
+    "Donald Trump",
+    "Keir Starmer",
+    "Ursula von der Leyen"
   ],
   "tags": [
     "kleptocracy",
-    "trump-administration"
+    "trump-administration",
+    "conflict-of-interest",
+    "business-corruption"
   ],
   "capture_type": "monetizing_position",
   "sources": [
     {
-      "title": "Trump\u2019s trip to Scotland as his new golf course opens blurs politics and the family\u2019s business",
+      "title": "Trump's Trip to Scotland as His New Golf Course Opens Blurs Politics and the Family's Business",
       "url": "https://apnews.com/article/trump-scotland-golf-course-opening-legal-issues-92aa09043e036d6aa87ad99e5fd755bb",
       "outlet": "Associated Press",
       "date": "2025-07-25"
+    },
+    {
+      "title": "Trump's Golf Business in Scotland and British Open Bid",
+      "url": "https://abcnews.go.com/Politics/trumps-golf-business-scotland-british-open-bid-amid/story?id=123972692",
+      "outlet": "ABC News",
+      "date": "2025-07-25"
+    },
+    {
+      "title": "Trump Opens Scotland Golf Course on Taxpayer-Funded Trip",
+      "url": "https://www.npr.org/2025/06/26/nx-s1-5446114/trump-wealth-business-crypto-brand-golf-course",
+      "outlet": "NPR",
+      "date": "2025-07-25"
     }
   ],
-  "connections": [],
-  "patterns": [
-    "kleptocratic-capture"
+  "connections": [
+    "Ongoing pattern of mixing presidential duties with personal business interests"
   ],
-  "notes": "Event extracted from comprehensive timeline tracking kleptocratic patterns.",
+  "patterns": [
+    "kleptocratic-capture",
+    "presidential-self-dealing"
+  ],
+  "notes": "Estimated taxpayer cost of trip: $10 million. Diplomatic meetings held at Trump-owned golf properties, raising significant ethical concerns.",
   "capture_lanes": [
-    "Systematic Corruption"
-  ]
+    "Systematic Corruption",
+    "Presidential Conflicts of Interest"
+  ],
+  "implications": {
+    "economic_cost": "Approximately $10 million in taxpayer expenses",
+    "ethical_concerns": "Continued blending of presidential duties with personal business promotion",
+    "diplomatic_context": "Trade discussions and bilateral meetings conducted at Trump-owned properties"
+  }
 }

@@ -3,7 +3,7 @@
   "date": "2025-05-10",
   "importance": 5,
   "title": "V-Dem Institute warns U.S. approaching \"Electoral Autocracy\" threshold",
-  "summary": "Varieties of Democracy (V-Dem) Institute's quarterly update shows United States rapidly approaching threshold for classification as \"Electoral Autocracy,\" with liberal democracy index falling below critical benchmarks for judicial independence, legislative constraints, and media freedom.",
+  "summary": "Varieties of Democracy (V-Dem) Institute's quarterly update shows United States rapidly approaching threshold for classification as \"Electoral Autocracy,\" with liberal democracy index falling below critical benchmarks for judicial independence, legislative constraints, and media freedom. The report suggests the U.S. may no longer qualify as a democracy by end of summer 2025 due to expanding executive authority, weakening Congressional power, and undermining independent institutions.",
   "location": "Gothenburg, Sweden",
   "actors": [
     "V-Dem Institute",
@@ -15,7 +15,8 @@
     "electoral-autocracy",
     "democracy-metrics",
     "academic-assessment",
-    "threshold-warning"
+    "threshold-warning",
+    "democratic-decline"
   ],
   "sources": [
     {
@@ -29,6 +30,12 @@
       "url": "https://www.reuters.com/world/americas/v-dem-us-electoral-autocracy-warning-2025-05-10",
       "outlet": "Reuters",
       "date": "2025-05-10"
+    },
+    {
+      "title": "Autocracies Outnumber Democracies for the First Time in 20 Years: V-Dem",
+      "url": "https://www.democracywithoutborders.org/36317/autocracies-outnumber-democracies-for-the-first-time-in-20-years-v-dem/",
+      "outlet": "Democracy Without Borders",
+      "date": "2025-03-25"
     }
   ],
   "notes": "V-Dem's data shows U.S. following Hungary's 2010-2020 autocratization pattern but at 5x speed",

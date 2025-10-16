@@ -1,32 +1,46 @@
 {
-  "date": "2024-08-29",
-  "title": "Kylian Mbapp\u00e9 Twitter Account Hacked to Promote 00 Million Celebrity Crypto Pump-and-Dump",
-  "summary": "Soccer superstar Kylian Mbapp\u00e9's official Twitter account was compromised in a sophisticated phishing attack to promote a fraudulent token called MBAPPE to his massive following. The scheme represents an evolution in celebrity-based crypto pump-and-dump operations, where hackers compromise high-profile accounts rather than paying celebrities directly, highlighting the intersection of social media security and crypto fraud.",
-  "importance": 7,
-  "actors": [
-    "Kylian Mbapp\u00e9",
-    "Unknown Hackers"
-  ],
-  "sources": [
-    {
-      "title": "Fame and failure: 7 celebrity-endorsed crypto scams that went wrong",
-      "url": "https://cointelegraph.com/news/fame-failure-celebrity-crypto-scams",
-      "outlet": "Cointelegraph"
-    }
-  ],
-  "tags": [
-    "crypto",
-    "pump and dump",
-    "celebrity",
-    "social media",
-    "phishing",
-    "fraud"
-  ],
-  "id": "2024-08-29--kylian-mbapp-twitter-account-hacked-to-promote-00-million-ce",
-  "status": "confirmed",
-  "capture_lanes": [
-    "Media Capture & Control",
-    "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+    "id": "2024-08-29--kylian-mbapp-twitter-account-hacked-to-promote-00-million-ce",
+    "date": "2024-08-29",
+    "title": "Kylian Mbappé Twitter Account Hacked to Promote $464M Crypto Pump-and-Dump Scam",
+    "summary": "Soccer superstar Kylian Mbappé's official X (Twitter) account was compromised in a sophisticated crypto scam on August 29, 2024. Hackers used his 14.4 million follower account to launch a fraudulent $MBAPPE token on the Solana blockchain, which rapidly reached a $464 million market cap before crashing to near-zero within minutes. The incident represents an advanced evolution of celebrity social media account hijacking for cryptocurrency fraud, where hackers directly exploit high-profile accounts instead of traditional celebrity endorsements.",
+    "importance": 8,
+    "actors": [
+        "Kylian Mbappé",
+        "Unknown Hackers",
+        "Sahil Arora"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Regulatory Capture",
+        "Intelligence Penetration",
+        "Crypto Market Manipulation"
+    ],
+    "tags": [
+        "crypto",
+        "pump and dump",
+        "celebrity",
+        "social media",
+        "phishing",
+        "fraud",
+        "blockchain",
+        "hacking"
+    ],
+    "sources": [
+        {
+            "outlet": "Cointelegraph",
+            "title": "Millions lost as Mbappé's hacked account promotes $460M crypto scam",
+            "url": "https://cointelegraph.com/news/trader-loses-1-million-fake-mbappe-token-scam"
+        },
+        {
+            "outlet": "Decrypt",
+            "title": "Kylian Mbappé Token Hit a $464 Million Market Cap—Then Crashed to Zero Because It Was Fake",
+            "url": "https://decrypt.co/246999/kylian-mbappe-token-hit-464-million-market-cap-crashed-zero"
+        },
+        {
+            "outlet": "CryptoPotato",
+            "title": "Hackers Hijack Kylian Mbappe's X Account to Promote Crypto Scam: Report",
+            "url": "https://cryptopotato.com/hackers-hijack-kylian-mbappes-x-account-to-promote-crypto-scam-report/"
+        }
+    ],
+    "status": "confirmed"
 }

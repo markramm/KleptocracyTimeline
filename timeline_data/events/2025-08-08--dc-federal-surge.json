@@ -9,7 +9,8 @@
     "washington-dc"
   ],
   "citations": [
-    "https://www.reuters.com/world/us/white-house-ups-federal-law-enforcement-tourist-hot-spots-washington-dc-2025-08-08"
+    "https://www.reuters.com/world/us/white-house-ups-federal-law-enforcement-tourist-hot-spots-washington-dc-2025-08-08",
+    "https://www.npr.org/2025/08/08/g-s1-81755/trump-dc-federal-policing-washington-dc"
   ],
   "id": "2025-08-08--dc-federal-surge",
   "actors": [
@@ -32,6 +33,12 @@
       "title": "White House ups federal law enforcement at tourist hot spots in Washington DC",
       "url": "https://www.reuters.com/world/us/white-house-ups-federal-law-enforcement-tourist-hot-spots-washington-dc-2025-08-08",
       "outlet": "Reuters",
+      "date": "2025-08-08"
+    },
+    {
+      "title": "President Trump taps federal law enforcement agencies to police Washington, D.C.",
+      "url": "https://www.npr.org/2025/08/08/g-s1-81755/trump-dc-federal-policing-washington-dc",
+      "outlet": "NPR",
       "date": "2025-08-08"
     }
   ],
