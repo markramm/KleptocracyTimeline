@@ -172,25 +172,40 @@
 
 ---
 
-### Phase 2: Architecture Refactoring (Week 2-4) - 25 hours
+### Phase 2: Architecture Refactoring + Git Service Layer (Week 2-4) - 30 hours
 
-**Focus**: Split app_v2.py and improve module structure
+**Focus**: Split app_v2.py, build Git service layer, prepare for multi-tenant architecture
+
+**Strategic Direction**:
+- Replace filesystem sync (~500 lines) with clean Git operations
+- Enable multi-tenant support (work with forks and alternative timelines)
+- Prepare for future extraction into separate repository
+- See `GIT_SERVICE_DESIGN.md` for complete architecture
 
 **Goals**:
 - ✅ Design modular architecture for app_v2.py
 - ✅ Split into routes/, services/, models/ modules
+- ✅ **Build Git service layer (GitService, TimelineSyncService, PRBuilderService)**
+- ✅ **Replace filesystem sync with PR-based workflow**
+- ✅ **Add multi-tenant configuration (repo URL, branch)**
 - ✅ Implement dependency injection
 - ✅ Update all imports and tests
 
 **Deliverables**:
 1. Architecture diagram (modules and dependencies)
 2. app_v2.py split into 8-10 files
-3. All tests still passing
-4. Updated documentation
+3. **Git service layer with PR creation capability**
+4. **Multi-tenant configuration system**
+5. **CLI commands: `git-pull`, `create-pr`, `git-status`**
+6. All tests still passing
+7. Updated documentation
 
 **Success Criteria**:
 - No file >1,000 lines
 - Clear module boundaries
+- **Filesystem sync removed (~500 lines eliminated)**
+- **Can create PRs programmatically**
+- **Can work with fork via environment variables**
 - All tests passing
 - No functionality regression
 
@@ -204,22 +219,59 @@ research_monitor/
 │   ├── priorities.py        # Priority endpoints (250-300 lines)
 │   ├── validation.py        # Validation endpoints (400-500 lines)
 │   ├── qa.py               # QA system endpoints (300-400 lines)
+│   ├── git.py              # Git operations endpoints (200-300 lines) **NEW**
 │   └── monitoring.py       # Health/stats endpoints (150-200 lines)
 ├── services/
 │   ├── __init__.py
-│   ├── event_sync.py       # Filesystem sync (400-500 lines)
+│   ├── git_service.py      # Core Git operations (clone, pull, push) **NEW**
+│   ├── timeline_sync.py    # Import/export coordination **NEW**
+│   ├── pr_builder.py       # GitHub PR creation **NEW**
 │   ├── search.py           # Search service (300-400 lines)
 │   ├── validation.py       # Validation logic (400-500 lines)
 │   └── qa_queue.py         # QA queue management (300-400 lines)
 ├── core/
 │   ├── __init__.py
-│   ├── config.py           # Configuration management
+│   ├── config.py           # Multi-tenant configuration **ENHANCED**
+│   ├── git_config.py       # Git-specific settings **NEW**
 │   ├── database.py         # Database session management
 │   └── auth.py             # API key authentication
+├── models/
+│   ├── sync_status.py      # Track git sync operations **NEW**
+│   └── ... (existing models)
 └── utils/
     ├── __init__.py
     ├── logging.py          # Structured logging
     └── errors.py           # Custom exceptions
+```
+
+**New CLI Commands** (Phase 2):
+```bash
+# Import from git
+research_cli.py git-pull              # Pull latest from timeline repo
+research_cli.py git-status            # Check sync status
+
+# Export to git
+research_cli.py create-pr             # Create PR with validated events
+research_cli.py create-pr --events "event-1,event-2"
+
+# Multi-tenant configuration
+research_cli.py git-config --repo https://github.com/alice/fork
+research_cli.py git-config --show
+```
+
+**Workflow Transformation**:
+```
+BEFORE (Complex):
+├─ Filesystem sync every 30s
+├─ Commit threshold tracking
+├─ Manual git commands
+└─ ~500 lines of sync logic
+
+AFTER (Simple):
+├─ Database authoritative
+├─ Explicit git operations (pull/PR)
+├─ Programmatic PR creation
+└─ Clean service boundaries
 ```
 
 ---
