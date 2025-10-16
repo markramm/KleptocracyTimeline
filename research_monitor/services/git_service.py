@@ -98,12 +98,12 @@ class GitService:
 
             # Count new commits
             new_commits = 0
-            if before_commit != after_commit:
+            if before_commit and after_commit and before_commit != after_commit:
                 new_commits = self._count_commits_between(before_commit, after_commit)
 
             # Get changed files
             files_changed = []
-            if before_commit != after_commit:
+            if before_commit and after_commit and before_commit != after_commit:
                 files_changed = self._get_changed_files_between(before_commit, after_commit)
 
             return {

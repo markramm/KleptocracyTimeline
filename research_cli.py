@@ -142,12 +142,12 @@ class ResearchCLIWrapper:
     def get_events(self, page: int = 1, per_page: int = 50, 
                    start_date: Optional[str] = None, end_date: Optional[str] = None) -> Dict[str, Any]:
         """Get timeline events with pagination."""
-        filters = {"page": page, "per_page": per_page}
+        filters: Dict[str, Any] = {"page": page, "per_page": per_page}
         if start_date:
             filters["start_date"] = start_date
         if end_date:
             filters["end_date"] = end_date
-        return self._make_request(self.client.get_events, **filters)
+        return self._make_request(self.client.search_events, **filters)
     
     def get_event_by_id(self, event_id: str) -> Dict[str, Any]:
         """Get specific event by ID."""
@@ -209,8 +209,8 @@ class ResearchCLIWrapper:
         """Enhance an event with improved content and record QA metadata."""
         return self._make_request(self.client.enhance_event_with_qa, event_id, enhanced_event_file, quality_score, validation_notes, created_by)
     
-    def mark_event_in_progress(self, event_id: str, created_by: str = "qa-agent", 
-                              agent_id: str = None) -> Dict[str, Any]:
+    def mark_event_in_progress(self, event_id: str, created_by: str = "qa-agent",
+                              agent_id: Optional[str] = None) -> Dict[str, Any]:
         """Mark an event as in_progress to prevent duplicate processing."""
         return self._make_request(self.client.mark_event_in_progress, event_id, created_by, agent_id)
     

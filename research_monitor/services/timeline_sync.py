@@ -50,7 +50,7 @@ class TimelineSyncService:
                 'errors': List[str]
             }
         """
-        result = {
+        result: Dict[str, Any] = {
             'pulled': False,
             'new_commits': 0,
             'files_changed': [],

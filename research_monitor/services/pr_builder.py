@@ -5,7 +5,7 @@ Replaces manual git commands and orchestration with programmatic PR creation.
 """
 
 import requests
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, List, Optional, cast
 from datetime import datetime, timezone
 
 from research_monitor.services.git_service import GitService
@@ -159,7 +159,7 @@ class PRBuilderService:
         try:
             response = requests.post(url, headers=headers, json=data, timeout=30)
             response.raise_for_status()
-            return response.json()
+            return cast(Dict[str, Any], response.json())
         except requests.exceptions.RequestException:
             return None
 
@@ -263,7 +263,7 @@ class PRBuilderService:
 
     def _get_date_range(self, events: List[Dict[str, Any]]) -> str:
         """Get date range string for events."""
-        dates = [e.get('date') for e in events if e.get('date')]
+        dates: List[str] = [str(e.get('date')) for e in events if e.get('date')]
         if not dates:
             return "Unknown"
 
@@ -277,7 +277,7 @@ class PRBuilderService:
 
     def _avg_importance(self, events: List[Dict[str, Any]]) -> float:
         """Calculate average importance score."""
-        importances = [e.get('importance', 0) for e in events if e.get('importance')]
+        importances: List[float] = [float(e.get('importance', 0)) for e in events if e.get('importance')]
         if not importances:
             return 0.0
         return sum(importances) / len(importances)
