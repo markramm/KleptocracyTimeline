@@ -199,3 +199,5 @@ timeline_data/static/logs/
 
 # Archive directory for one-time scripts and reports
 archive/
+coverage_html/
+.coverage
