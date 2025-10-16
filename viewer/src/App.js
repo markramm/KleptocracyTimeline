@@ -55,7 +55,6 @@ function App() {
   const [showStats, setShowStats] = useState(false);
   const [zoomLevel, setZoomLevel] = useState(1);
   const [refreshing, setRefreshing] = useState(false);
-  const [lastRefresh, setLastRefresh] = useState(null);
   
   // Timeline view controls - initialize from URL or defaults
   const [timelineControls, setTimelineControls] = useState({
@@ -156,7 +155,6 @@ function App() {
       };
       setStats(enhancedStats);
       setError(null);
-      setLastRefresh(new Date());
     } catch (err) {
       setError('Failed to load timeline data. Please ensure the Research Monitor v2 server is running on port 5558.');
       console.error('Error loading data:', err);

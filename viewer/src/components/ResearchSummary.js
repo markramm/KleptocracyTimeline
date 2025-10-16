@@ -1,10 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { 
-  Database, 
-  Search, 
-  FileText, 
-  CheckCircle,
+import {
+  Database,
+  Search,
+  FileText,
   Clock,
   ChevronDown,
   ChevronUp
@@ -25,7 +24,6 @@ const ResearchSummary = ({ summary, onDetailsToggle, showDetails }) => {
   const {
     total_events = 0,
     active_priorities = 0,
-    staged_events_count = 0,
     commit_progress = '0/10',
     events_needing_validation = 0
   } = summary;

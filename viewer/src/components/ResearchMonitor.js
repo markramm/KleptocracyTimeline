@@ -1,11 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { 
-  Activity, 
-  ChevronRight, 
-  ChevronLeft,
+import {
+  Activity,
+  ChevronRight,
   Database,
-  Clock,
   CheckCircle,
   AlertCircle,
   RefreshCw,
