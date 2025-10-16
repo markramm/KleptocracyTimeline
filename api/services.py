@@ -5,7 +5,7 @@ Service layer for business logic, separated from HTTP layer for testability
 import json
 from pathlib import Path
 from typing import Dict, List, Any, Optional, Tuple
-from datetime import datetime
+from datetime import datetime, timezone
 import sqlite3
 from contextlib import contextmanager
 
@@ -204,7 +204,7 @@ class ValidationService:
             'score': score,
             'errors': errors,
             'suggestions': suggestions,
-            'timestamp': datetime.utcnow().isoformat()
+            'timestamp': datetime.now(timezone.utc).isoformat()
         }
     
     def validate_batch(self, events: List[Dict[str, Any]]) -> Dict[str, Any]:

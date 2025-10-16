@@ -19,7 +19,7 @@ Validation statuses:
 import json
 import logging
 from typing import Dict, List, Optional, Tuple, Any
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from sqlalchemy.orm import Session
 from sqlalchemy import func, and_, or_, text
 from models import EventMetadata, ActivityLog, ValidationLog
@@ -81,9 +81,9 @@ class QAQueueManager:
             ORDER BY e.importance DESC, e.date DESC
             LIMIT :batch_size
         """)
-        
+
         # Set expiry cutoff to 1 hour ago
-        expiry_cutoff = datetime.utcnow() - timedelta(hours=1)
+        expiry_cutoff = datetime.now(timezone.utc) - timedelta(hours=1)
         
         params = {
             'min_importance': min_importance,
@@ -153,9 +153,9 @@ class QAQueueManager:
         # Sort by importance (highest first) then date (newest first)
         qa_queue.sort(key=lambda x: (x.get('importance', 1), x.get('date', '')), reverse=True)
         selected_events = qa_queue[:batch_size]
-        
+
         # Reserve the selected events
-        reservation_time = datetime.utcnow()
+        reservation_time = datetime.now(timezone.utc)
         for event in selected_events:
             try:
                 # Check if metadata record exists
@@ -212,7 +212,7 @@ class QAQueueManager:
     def release_expired_qa_reservations(self):
         """Release QA event reservations that have expired (1 hour timeout)"""
         try:
-            cutoff = datetime.utcnow() - timedelta(hours=1)
+            cutoff = datetime.now(timezone.utc) - timedelta(hours=1)
             logger.debug(f"Releasing QA reservations older than {cutoff}")
             
             # Find expired reservations
@@ -539,7 +539,7 @@ class QAQueueManager:
                 
                 self.session.execute(update_query, {
                     'event_id': event_id,
-                    'validation_date': datetime.utcnow(),
+                    'validation_date': datetime.now(timezone.utc),
                     'validation_notes': validation_notes,
                     'quality_score': quality_score
                 })
@@ -557,11 +557,11 @@ class QAQueueManager:
                 
                 self.session.execute(insert_query, {
                     'event_id': event_id,
-                    'validation_date': datetime.utcnow(),
+                    'validation_date': datetime.now(timezone.utc),
                     'validation_notes': validation_notes,
                     'quality_score': quality_score,
                     'created_by': created_by,
-                    'created_at': datetime.utcnow()
+                    'created_at': datetime.now(timezone.utc)
                 })
             
             # Create ValidationLog entry for audit trail
@@ -569,7 +569,7 @@ class QAQueueManager:
                 event_id=event_id,
                 validator_type='agent',
                 validator_id=created_by,
-                validation_date=datetime.utcnow(),
+                validation_date=datetime.now(timezone.utc),
                 status='validated',
                 confidence=quality_score / 10.0,  # Convert 0-10 score to 0-1.0 confidence
                 notes=validation_notes,
@@ -613,7 +613,7 @@ class QAQueueManager:
                     
                 # Update existing record
                 existing.validation_status = 'in_progress'
-                existing.validation_date = datetime.utcnow()
+                existing.validation_date = datetime.now(timezone.utc)
                 existing.validation_notes = f"Started by {agent_id or created_by}"
                 existing.created_by = created_by
             else:
@@ -621,10 +621,10 @@ class QAQueueManager:
                 new_metadata = EventMetadata(
                     event_id=event_id,
                     validation_status='in_progress',
-                    validation_date=datetime.utcnow(),
+                    validation_date=datetime.now(timezone.utc),
                     validation_notes=f"Started by {agent_id or created_by}",
                     created_by=created_by,
-                    created_at=datetime.utcnow()
+                    created_at=datetime.now(timezone.utc)
                 )
                 self.session.add(new_metadata)
             
@@ -656,7 +656,7 @@ class QAQueueManager:
             if existing:
                 # Update existing record
                 existing.validation_status = 'rejected'
-                existing.validation_date = datetime.utcnow()
+                existing.validation_date = datetime.now(timezone.utc)
                 existing.validation_notes = rejection_reason
                 existing.quality_score = 0.0  # Rejected events get 0 quality score
                 existing.created_by = created_by
@@ -674,11 +674,11 @@ class QAQueueManager:
                 
                 self.session.execute(insert_query, {
                     'event_id': event_id,
-                    'validation_date': datetime.utcnow(),
+                    'validation_date': datetime.now(timezone.utc),
                     'validation_notes': rejection_reason,
                     'quality_score': 0.0,
                     'created_by': created_by,
-                    'created_at': datetime.utcnow()
+                    'created_at': datetime.now(timezone.utc)
                 })
             
             self.session.commit()

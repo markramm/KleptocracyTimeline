@@ -17,7 +17,7 @@ import json
 import time
 import random
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Dict, List, Any, Optional
 import hashlib
 
@@ -306,7 +306,7 @@ class ValidationFixAgent:
         changes = {
             'event_id': original.get('id', 'unknown'),
             'agent_id': self.agent_id,
-            'timestamp': datetime.utcnow().isoformat(),
+            'timestamp': datetime.now(timezone.utc).isoformat(),
             'validation_score_before': validation_before['validation_score'],
             'validation_score_after': validation_after['validation_score'],
             'fields_modified': [],
@@ -358,7 +358,7 @@ class ValidationFixAgent:
         """
         try:
             # Add metadata
-            event['last_validated'] = datetime.utcnow().isoformat()
+            event['last_validated'] = datetime.now(timezone.utc).isoformat()
             event['validated_by'] = self.agent_id
             
             # In production: Update via API

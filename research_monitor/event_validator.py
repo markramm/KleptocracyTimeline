@@ -2,7 +2,7 @@
 Event Validation Module - Strict format enforcement and validation
 """
 
-from datetime import datetime
+from datetime import datetime, timezone
 import re
 from typing import Dict, List, Any, Tuple
 import json
@@ -29,7 +29,7 @@ class EventValidator:
         """
         errors = []
         metadata = {
-            'validation_timestamp': datetime.utcnow().isoformat(),
+            'validation_timestamp': datetime.now(timezone.utc).isoformat(),
             'fields_checked': [],
             'validation_score': 0.0
         }

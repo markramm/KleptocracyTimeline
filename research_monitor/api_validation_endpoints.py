@@ -4,7 +4,7 @@ To be integrated into app_v2.py or used as app_v3.py
 """
 
 from flask import Blueprint, request, jsonify
-from datetime import datetime
+from datetime import datetime, timezone
 import json
 from event_validator import EventValidator
 
@@ -96,7 +96,7 @@ def submit_validated_event():
         # Add validation metadata to event
         event['validation_status'] = 'validated' if is_valid else 'partial'
         event['validation_score'] = metadata['validation_score']
-        event['last_validated'] = datetime.utcnow().isoformat()
+        event['last_validated'] = datetime.now(timezone.utc).isoformat()
         event['validation_metadata'] = metadata
         
         # In production: Save to database
@@ -133,7 +133,7 @@ def request_event_enhancement(event_id):
         # In production: Add to validation queue
         queue_entry = {
             'event_id': event_id,
-            'added_at': datetime.utcnow().isoformat(),
+            'added_at': datetime.now(timezone.utc).isoformat(),
             'priority': priority,
             'validation_type': validation_type,
             'reason': reason,

@@ -3,7 +3,7 @@ Monitoring API routes blueprint
 """
 
 from flask import Blueprint, jsonify, current_app
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 from pathlib import Path
 
@@ -15,7 +15,7 @@ def health_check():
     """Health check endpoint"""
     return jsonify({
         'status': 'healthy',
-        'timestamp': datetime.utcnow().isoformat(),
+        'timestamp': datetime.now(timezone.utc).isoformat(),
         'service': 'timeline-api',
         'version': '1.0.0'
     })
@@ -38,7 +38,7 @@ def get_status():
     
     return jsonify({
         'status': 'operational',
-        'timestamp': datetime.utcnow().isoformat(),
+        'timestamp': datetime.now(timezone.utc).isoformat(),
         'statistics': {
             'total_events': len(events),
             'timeline_directory': str(timeline_dir),
@@ -99,7 +99,7 @@ def get_metrics():
             'pass_rate': valid_events / total_events if total_events else 0,
             'average_score': total_score / total_events if total_events else 0
         },
-        'timestamp': datetime.utcnow().isoformat()
+        'timestamp': datetime.now(timezone.utc).isoformat()
     })
 
 
@@ -149,11 +149,11 @@ def get_services():
     return jsonify({
         'services': services_status,
         'all_operational': all(s == 'operational' for s in services_status.values()),
-        'timestamp': datetime.utcnow().isoformat()
+        'timestamp': datetime.now(timezone.utc).isoformat()
     })
 
 
 @monitoring_bp.route('/ping', methods=['GET'])
 def ping():
     """Simple ping endpoint"""
-    return jsonify({'pong': True, 'timestamp': datetime.utcnow().isoformat()})
+    return jsonify({'pong': True, 'timestamp': datetime.now(timezone.utc).isoformat()})

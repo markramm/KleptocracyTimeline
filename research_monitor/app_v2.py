@@ -18,14 +18,13 @@ import time
 import logging
 import threading
 # import subprocess  # Not needed - orchestrator handles git operations
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import sys
 sys.path.append('..')
 from pathlib import Path
 from typing import Dict, List, Optional, Any
 from functools import wraps
 import re
-from datetime import datetime
 # from timeline_event_manager import TimelineEventManager  # Has circular dependency
 
 from sqlalchemy import create_engine, text, and_, or_, func
@@ -3284,9 +3283,9 @@ def get_recent_activity():
         
         # Get current summary
         summary = get_current_summary(db)
-        
+
         return jsonify({
-            'timestamp': datetime.utcnow().isoformat() + 'Z',
+            'timestamp': datetime.now(timezone.utc).isoformat() + 'Z',
             'activities': activity_list,
             'summary': summary
         })
@@ -3951,7 +3950,7 @@ def reserve_qa_batch():
             'count': len(reserved_events),
             'agent_id': agent_id,
             'batch_size': batch_size,
-            'reservation_expires': (datetime.utcnow() + timedelta(hours=1)).isoformat(),
+            'reservation_expires': (datetime.now(timezone.utc) + timedelta(hours=1)).isoformat(),
             'status': 'reserved'
         })
         

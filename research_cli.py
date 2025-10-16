@@ -27,7 +27,7 @@ import sys
 import json
 import argparse
 from typing import Dict, Any, Optional
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 # Import the comprehensive research client
@@ -59,7 +59,7 @@ class ResearchCLIWrapper:
             return {
                 "success": True,
                 "status_code": 200,
-                "timestamp": datetime.utcnow().isoformat() + "Z",
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
                 "data": data
             }
         except Exception as e:
@@ -81,7 +81,7 @@ class ResearchCLIWrapper:
             return {
                 "success": False,
                 "status_code": status_code,
-                "timestamp": datetime.utcnow().isoformat() + "Z",
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
                 "error": {
                     "message": error_msg,
                     "details": "Check server status and API endpoint availability"
@@ -225,14 +225,14 @@ class ResearchCLIWrapper:
             return {
                 "success": True,
                 "status_code": 200,
-                "timestamp": datetime.utcnow().isoformat() + "Z",
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
                 "data": {"help": help_text}
             }
         except Exception as e:
             return {
                 "success": False,
                 "status_code": 400,
-                "timestamp": datetime.utcnow().isoformat() + "Z",
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
                 "error": {
                     "message": str(e),
                     "details": "Invalid help topic requested"
@@ -278,7 +278,7 @@ class ResearchCLIWrapper:
                     return {
                         "success": False,
                         "status_code": 400,
-                        "timestamp": datetime.utcnow().isoformat() + "Z",
+                        "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
                         "error": {
                             "message": f"Invalid JSON for {field}",
                             "details": f"Failed to parse JSON string for {field}"
@@ -821,7 +821,7 @@ Examples:
                 "message": "Unexpected error",
                 "details": str(e)
             },
-            "timestamp": datetime.utcnow().isoformat() + "Z"
+            "timestamp": datetime.now(timezone.utc).isoformat() + "Z"
         }
         print(json.dumps(result, indent=2))
         sys.exit(1)
