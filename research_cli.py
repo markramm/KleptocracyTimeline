@@ -8,7 +8,7 @@ All input/output is JSON for easy parsing and automation.
 
 Usage:
     python3 research_cli.py <command> [options]
-    
+
 Commands:
     search-events       Search timeline events
     get-next-priority   Get next research priority
@@ -19,7 +19,13 @@ Commands:
     list-actors        List all actors
     validate-event     Validate event data
     help               Get comprehensive help documentation
-    
+
+Git Service Layer:
+    git-pull           Pull latest from timeline repository
+    git-status         Check repository sync status
+    create-pr          Create GitHub Pull Request
+    git-config         Show git configuration
+
 All commands return JSON output for easy parsing.
 """
 
@@ -40,6 +46,16 @@ try:
     from server_manager import ServerManager
 except ImportError:
     ServerManager = None
+
+# Add git service layer imports
+try:
+    from research_monitor.core.config import GitConfig
+    from research_monitor.services.git_service import GitService
+    from research_monitor.services.timeline_sync import TimelineSyncService
+    from research_monitor.services.pr_builder import PRBuilderService
+    GIT_SERVICES_AVAILABLE = True
+except ImportError:
+    GIT_SERVICES_AVAILABLE = False
 
 # Configuration
 API_BASE_URL = "http://localhost:5558"
@@ -303,6 +319,237 @@ class ResearchCLIWrapper:
         """Get statistics about event update failures."""
         return self._make_request(self.client.get_event_update_failure_stats)
 
+    # ============ Git Service Layer Methods ============
+
+    def _get_git_services(self, repo_url: Optional[str] = None,
+                          branch: Optional[str] = None) -> Dict[str, Any]:
+        """Initialize git services with optional configuration override."""
+        if not GIT_SERVICES_AVAILABLE:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": "Git services not available",
+                    "details": "Missing git service dependencies"
+                }
+            }
+
+        try:
+            # Create config with overrides if provided
+            config = GitConfig()
+            if repo_url:
+                config.TIMELINE_REPO_URL = repo_url
+            if branch:
+                config.TIMELINE_BRANCH = branch
+
+            git_service = GitService(config)
+            sync_service = TimelineSyncService(git_service)
+            pr_service = PRBuilderService(git_service, sync_service)
+
+            return {
+                "success": True,
+                "git": git_service,
+                "sync": sync_service,
+                "pr": pr_service
+            }
+        except Exception as e:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": str(e),
+                    "details": "Failed to initialize git services"
+                }
+            }
+
+    def git_pull(self, repo_url: Optional[str] = None, branch: Optional[str] = None) -> Dict[str, Any]:
+        """Pull latest changes from timeline repository."""
+        services = self._get_git_services(repo_url, branch)
+        if not services["success"]:
+            return services
+
+        try:
+            # Clone or update repository
+            result = services["git"].clone_or_update()
+
+            # Get sync status
+            sync_result = services["sync"].import_from_repo()
+
+            return {
+                "success": True,
+                "status_code": 200,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "data": {
+                    "git_result": result,
+                    "sync_result": sync_result,
+                    "workspace": str(services["git"].workspace)
+                }
+            }
+        except Exception as e:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": str(e),
+                    "details": "Failed to pull from repository"
+                }
+            }
+
+    def git_status(self, repo_url: Optional[str] = None, branch: Optional[str] = None) -> Dict[str, Any]:
+        """Get current git repository status."""
+        services = self._get_git_services(repo_url, branch)
+        if not services["success"]:
+            return services
+
+        try:
+            git_status = services["git"].get_status()
+            sync_status = services["sync"].get_sync_status()
+
+            return {
+                "success": True,
+                "status_code": 200,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "data": {
+                    "git_status": git_status,
+                    "sync_status": sync_status
+                }
+            }
+        except Exception as e:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": str(e),
+                    "details": "Failed to get repository status"
+                }
+            }
+
+    def create_pr(self, event_ids: Optional[str] = None,
+                  title: Optional[str] = None,
+                  description: Optional[str] = None,
+                  repo_url: Optional[str] = None,
+                  branch: Optional[str] = None) -> Dict[str, Any]:
+        """Create GitHub Pull Request with validated events."""
+        services = self._get_git_services(repo_url, branch)
+        if not services["success"]:
+            return services
+
+        try:
+            # Get events to include in PR
+            if event_ids:
+                # Get specific events by ID
+                event_id_list = [eid.strip() for eid in event_ids.split(',')]
+                events = []
+                for event_id in event_id_list:
+                    event = services["sync"].get_workspace_event(event_id)
+                    if event:
+                        events.append(event)
+                    else:
+                        return {
+                            "success": False,
+                            "status_code": 404,
+                            "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                            "error": {
+                                "message": f"Event not found: {event_id}",
+                                "details": "Check event ID and try again"
+                            }
+                        }
+            else:
+                # Get all workspace events
+                event_ids_all = services["sync"].list_workspace_events()
+                events = [services["sync"].get_workspace_event(eid) for eid in event_ids_all]
+                events = [e for e in events if e is not None]
+
+            if not events:
+                return {
+                    "success": False,
+                    "status_code": 400,
+                    "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                    "error": {
+                        "message": "No events available for PR",
+                        "details": "Workspace has no events to export"
+                    }
+                }
+
+            # Create PR
+            pr_result = services["pr"].create_pr(events, title, description)
+
+            if pr_result["success"]:
+                return {
+                    "success": True,
+                    "status_code": 201,
+                    "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                    "data": pr_result
+                }
+            else:
+                return {
+                    "success": False,
+                    "status_code": 500,
+                    "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                    "error": {
+                        "message": pr_result.get("error", "PR creation failed"),
+                        "details": "Check GitHub token and repository configuration"
+                    }
+                }
+        except Exception as e:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": str(e),
+                    "details": "Failed to create pull request"
+                }
+            }
+
+    def git_config_show(self) -> Dict[str, Any]:
+        """Show current git configuration."""
+        if not GIT_SERVICES_AVAILABLE:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": "Git services not available",
+                    "details": "Missing git service dependencies"
+                }
+            }
+
+        try:
+            config = GitConfig()
+            validation = PRBuilderService(
+                GitService(config),
+                TimelineSyncService(GitService(config))
+            ).validate_github_config()
+
+            return {
+                "success": True,
+                "status_code": 200,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "data": {
+                    "repo_url": config.TIMELINE_REPO_URL,
+                    "branch": config.TIMELINE_BRANCH,
+                    "workspace": str(config.TIMELINE_WORKSPACE),
+                    "workspace_isolation": config.WORKSPACE_ISOLATION,
+                    "has_github_token": bool(config.GITHUB_TOKEN),
+                    "validation": validation
+                }
+            }
+        except Exception as e:
+            return {
+                "success": False,
+                "status_code": 500,
+                "timestamp": datetime.now(timezone.utc).isoformat() + "Z",
+                "error": {
+                    "message": str(e),
+                    "details": "Failed to get git configuration"
+                }
+            }
+
 
 def main():
     """Main CLI entry point."""
@@ -330,6 +577,13 @@ Examples:
     python3 research_cli.py missing-sources --min-sources 2 --limit 5
     python3 research_cli.py research-candidates --min-importance 8
     python3 research_cli.py actor-timeline --actor "Trump"
+
+    # Git service layer commands
+    python3 research_cli.py git-pull
+    python3 research_cli.py git-status
+    python3 research_cli.py create-pr
+    python3 research_cli.py create-pr --events "2025-01-15--event-1,2025-01-16--event-2"
+    python3 research_cli.py git-config
         """
     )
     
@@ -477,7 +731,25 @@ Examples:
     
     server_logs_parser = subparsers.add_parser('server-logs', help='Get research monitor server logs')
     server_logs_parser.add_argument('--lines', type=int, default=50, help='Number of log lines to show')
-    
+
+    # Git Service Layer Commands
+    git_pull_parser = subparsers.add_parser('git-pull', help='Pull latest changes from timeline repository')
+    git_pull_parser.add_argument('--repo-url', help='Repository URL (overrides environment variable)')
+    git_pull_parser.add_argument('--branch', help='Branch name (overrides environment variable)')
+
+    git_status_parser = subparsers.add_parser('git-status', help='Get git repository status')
+    git_status_parser.add_argument('--repo-url', help='Repository URL (overrides environment variable)')
+    git_status_parser.add_argument('--branch', help='Branch name (overrides environment variable)')
+
+    create_pr_parser = subparsers.add_parser('create-pr', help='Create GitHub Pull Request with events')
+    create_pr_parser.add_argument('--events', help='Comma-separated event IDs (default: all workspace events)')
+    create_pr_parser.add_argument('--title', help='PR title (auto-generated if not provided)')
+    create_pr_parser.add_argument('--description', help='PR description (auto-generated if not provided)')
+    create_pr_parser.add_argument('--repo-url', help='Repository URL (overrides environment variable)')
+    create_pr_parser.add_argument('--branch', help='Base branch (overrides environment variable)')
+
+    git_config_parser = subparsers.add_parser('git-config', help='Show git configuration')
+
     # Validation Runs System Commands
     validation_runs_list_parser = subparsers.add_parser('validation-runs-list', help='List validation runs')
     validation_runs_list_parser.add_argument('--status', help='Filter by status (active, completed, paused, cancelled)')
@@ -694,7 +966,32 @@ Examples:
                 
                 else:
                     result = {"success": False, "error": {"message": f"Unknown server command: {args.command}"}}
-        
+
+        # Git Service Layer Commands
+        elif args.command == 'git-pull':
+            result = client.git_pull(
+                repo_url=getattr(args, 'repo_url', None),
+                branch=getattr(args, 'branch', None)
+            )
+
+        elif args.command == 'git-status':
+            result = client.git_status(
+                repo_url=getattr(args, 'repo_url', None),
+                branch=getattr(args, 'branch', None)
+            )
+
+        elif args.command == 'create-pr':
+            result = client.create_pr(
+                event_ids=getattr(args, 'events', None),
+                title=getattr(args, 'title', None),
+                description=getattr(args, 'description', None),
+                repo_url=getattr(args, 'repo_url', None),
+                branch=getattr(args, 'branch', None)
+            )
+
+        elif args.command == 'git-config':
+            result = client.git_config_show()
+
         # Validation Runs System Commands
         elif args.command == 'validation-runs-list':
             result = client.list_validation_runs(
