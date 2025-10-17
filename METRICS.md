@@ -387,6 +387,59 @@
 - ⏳ Remove hardcoded 'test'/'test-key' defaults in production deployments (via env vars)
 - ⏳ Additional production hardening (HTTPS, rate limiting, monitoring)
 
+### Phase 5: Spec-Driven Development Integration (Week 4)
+**Status**: ✅ **COMPLETE - Specification Infrastructure Established**
+
+**Completed**:
+- ✅ Installed uv package manager (0.9.3)
+- ✅ Installed GitHub Spec-Kit CLI (specify-cli 0.0.20)
+- ✅ Created .specify/ directory structure for specifications
+- ✅ Created comprehensive project constitution (350+ lines)
+  - 10 core principles (Research Integrity, Code Quality, Data Quality, etc.)
+  - Technology stack documentation
+  - Quality metrics and targets
+  - Decision-making frameworks
+  - Maintenance commitments
+- ✅ Created .specify/README.md with spec-kit workflow documentation
+- ✅ Created example specification: specs/001-extract-routes/
+  - Demonstrates spec-kit workflow for deferred refactoring
+  - Problem statement, success criteria, acceptance tests
+  - Risk analysis and timeline estimates
+
+**Spec-Kit Features Enabled**:
+- `/speckit.constitution` - Review project principles
+- `/speckit.specify` - Create feature specifications
+- `/speckit.plan` - Generate technical implementation plans
+- `/speckit.tasks` - Break down into actionable tasks
+- `/speckit.implement` - Execute with AI assistance
+
+**Project Constitution Highlights**:
+1. **Research Integrity**: Evidence-first, source quality hierarchy, transparency
+2. **Code Quality**: 80%+ coverage, 100% MyPy compliance, security-first
+3. **Data Quality**: Structured sources, continuous validation, automated checks
+4. **Architecture**: Separation of concerns, dependency injection, modular design
+5. **Security**: .env credentials, API key auth, regular audits
+6. **Documentation**: Comprehensive standards for all artifacts
+
+**Example Specification Created**:
+- **specs/001-extract-routes**: Blueprint for refactoring app_v2.py
+  - Current state: 1000+ line monolithic file
+  - Desired state: Modular routes/ directory with 7 blueprints
+  - Success criteria: Zero functionality change, all tests pass
+  - Timeline: ~10-12 hours estimated
+
+**Impact**:
+- Systematic approach to deferred refactoring tasks
+- Clear project principles for all contributors
+- AI-assisted specification and planning workflow
+- Foundation for future architectural decisions
+
+**Deferred Items Ready for Spec-Kit**:
+- Extract routes from app_v2.py (spec created)
+- Remove legacy filesystem sync code
+- Complete dependency injection throughout app_v2.py
+- Migrate pytest tests to unittest
+
 ---
 
 ## Improvement Velocity
