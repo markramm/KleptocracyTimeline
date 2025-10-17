@@ -10,9 +10,9 @@ Environment Variables:
 - RESEARCH_MONITOR_SECRET: Flask secret key (default: auto-generated)
 - RESEARCH_MONITOR_API_KEY: API authentication key (default: None)
 - RESEARCH_DB_PATH: SQLite database path (default: ../unified_research.db)
-- TIMELINE_EVENTS_PATH: Timeline events directory (default: ../timeline_data/events)
+- TIMELINE_EVENTS_PATH: Timeline events directory (default: ../timeline/data/events)
 - RESEARCH_PRIORITIES_PATH: Research priorities directory (default: ../research_priorities)
-- VALIDATION_LOGS_PATH: Validation logs directory (default: ../timeline_data/validation_logs)
+- VALIDATION_LOGS_PATH: Validation logs directory (default: ../timeline/data/validation_logs)
 - COMMIT_THRESHOLD: Events before commit signal (default: 10)
 - CACHE_TYPE: Flask-Caching cache type (default: simple)
 - CACHE_DEFAULT_TIMEOUT: Cache timeout in seconds (default: 300)
@@ -56,9 +56,9 @@ class Config:
         self.db_path = self._get_str('RESEARCH_DB_PATH', '../unified_research.db')
 
         # Path configuration
-        self.events_path = self._get_path('TIMELINE_EVENTS_PATH', '../timeline_data/events')
+        self.events_path = self._get_path('TIMELINE_EVENTS_PATH', '../timeline/data/events')
         self.priorities_path = self._get_path('RESEARCH_PRIORITIES_PATH', '../research_priorities')
-        self.validation_logs_path = self._get_path('VALIDATION_LOGS_PATH', '../timeline_data/validation_logs')
+        self.validation_logs_path = self._get_path('VALIDATION_LOGS_PATH', '../timeline/data/validation_logs')
 
         # Commit orchestration
         self.commit_threshold = self._get_int('COMMIT_THRESHOLD', 10)
