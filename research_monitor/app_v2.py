@@ -799,8 +799,9 @@ from research_monitor.routes import register_blueprints
 register_blueprints(app)
 
 # ==================== RESEARCH PRIORITY APIS (Database Authoritative) ====================
+# MOVED TO routes/priorities.py blueprint
 
-@app.route('/api/priorities/next', methods=['POST'])
+# @app.route('/api/priorities/next', methods=['POST'])
 @require_api_key
 def reserve_next_priority():
     """Atomically reserve the next priority for an agent (prevents race conditions)"""
