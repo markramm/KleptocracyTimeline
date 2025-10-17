@@ -14,16 +14,13 @@ from datetime import datetime, timedelta
 from sqlalchemy import func
 import logging
 
+# Import shared utilities
+from research_monitor.blueprint_utils import get_db, log_activity, success_response, error_response
+
 logger = logging.getLogger(__name__)
 
 # Create blueprint
 bp = Blueprint('git', __name__)
-
-
-def get_db():
-    """Get database session from app_v2"""
-    from research_monitor import app_v2
-    return app_v2.get_db()
 
 
 def get_qa_validation_stats(db):

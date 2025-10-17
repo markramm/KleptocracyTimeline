@@ -20,29 +20,12 @@ from flask import Blueprint, request, jsonify, current_app
 from sqlalchemy import func, desc
 import logging
 
+# Import shared utilities
+from research_monitor.blueprint_utils import get_db, require_api_key
+
 logger = logging.getLogger(__name__)
 
 bp = Blueprint('validation_runs', __name__, url_prefix='/api')
-
-
-def get_db():
-    """Get database session from app_v2 module"""
-    from research_monitor import app_v2
-    return app_v2.get_db()
-
-
-def require_api_key(f):
-    """API key authentication decorator"""
-    from functools import wraps
-
-    @wraps(f)
-    def decorated_function(*args, **kwargs):
-        from research_monitor import app_v2
-        # Get the actual decorator from app_v2 and apply it
-        api_key_decorator = app_v2.require_api_key
-        return api_key_decorator(f)(*args, **kwargs)
-
-    return decorated_function
 
 
 # ==================== VALIDATION RUNS ====================

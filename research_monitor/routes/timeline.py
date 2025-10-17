@@ -14,17 +14,15 @@ from sqlalchemy import func, or_
 from pathlib import Path
 import logging
 
+# Import shared utilities
+from research_monitor.blueprint_utils import get_db
+
 logger = logging.getLogger(__name__)
 
 bp = Blueprint('timeline', __name__, url_prefix='/api/timeline')
 
-def get_db():
-    """Get database session from app_v2"""
-    from research_monitor import app_v2
-    return app_v2.get_db()
-
 def get_cache():
-    """Get cache from app config"""
+    """Get cache from app config (blueprint-specific helper)"""
     return current_app.config.get('CACHE')
 
 # ==================== TIMELINE QUERY ENDPOINTS ====================

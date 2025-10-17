@@ -13,39 +13,24 @@ from typing import List, Tuple
 import json
 import logging
 
+# Import shared utilities
+from research_monitor.blueprint_utils import get_db, require_api_key
+
 logger = logging.getLogger(__name__)
 
 bp = Blueprint('events', __name__, url_prefix='/api/events')
 
-def get_db():
-    """Get database session from app_v2"""
-    from research_monitor import app_v2
-    return app_v2.get_db()
-
 def get_events_path():
-    """Get events path from config"""
+    """Get events path from config (blueprint-specific helper)"""
     return current_app.config.get('EVENTS_PATH')
 
 def get_priorities_path():
-    """Get priorities path from config"""
+    """Get priorities path from config (blueprint-specific helper)"""
     return current_app.config.get('PRIORITIES_PATH')
 
 def get_commit_threshold():
-    """Get commit threshold from config"""
+    """Get commit threshold from config (blueprint-specific helper)"""
     return current_app.config.get('COMMIT_THRESHOLD', 10)
-
-def require_api_key(f):
-    """Decorator to require API key for protected routes"""
-    from functools import wraps
-    @wraps(f)
-    def decorated_function(*args, **kwargs):
-        api_key = current_app.config.get('API_KEY')
-        if api_key:
-            provided_key = request.headers.get('X-API-Key')
-            if provided_key != api_key:
-                return jsonify({'error': 'Invalid or missing API key'}), 401
-        return f(*args, **kwargs)
-    return decorated_function
 
 # ==================== EVENT SEARCH APIS (Read from synced data) ====================
 
