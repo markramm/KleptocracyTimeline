@@ -471,6 +471,53 @@
 
 ---
 
+## Phase 6: Route Extraction Refactoring (In Progress)
+
+**Status**: 31% Complete (4/8 blueprints, 22/72 routes)
+**Started**: 2025-10-16
+**Specification**: specs/001-extract-routes/
+
+### Objective
+Extract routes from monolithic app_v2.py (4,649 lines, 72 routes) into modular Flask blueprints following spec-driven development workflow.
+
+### Completed (4/8 Blueprints)
+1. **routes/docs.py** - 2 routes (API documentation)
+2. **routes/system.py** - 13 routes (server management, stats, cache, activity)
+3. **routes/git.py** - 2 routes (commit tracking with QA metadata)
+4. **routes/priorities.py** - 5 routes (priority queue management)
+
+### Metrics
+- **Routes Extracted**: 22/72 (31%)
+- **Lines Extracted**: ~870 lines into blueprints
+- **app_v2.py Size**: 4,649 → ~3,779 lines
+- **Functionality Changes**: 0 (pure refactoring)
+- **Tests Passing**: 221/221 (100% - no regressions)
+- **Commits**: 3 clean incremental commits
+
+### Remaining Work (4/8 Blueprints, 50 Routes)
+5. **routes/timeline.py** - 12 routes (timeline data access) - Estimated 2 hours
+6. **routes/events.py** - 16 routes (event CRUD operations) - Estimated 3 hours
+7. **routes/qa.py** - 16 routes (QA validation workflow) - Estimated 3 hours
+8. **routes/validation_runs.py** - 11 routes (validation lifecycle) - Estimated 2 hours
+
+**Estimated Time to Complete**: ~11 hours
+
+### Key Achievements
+- ✅ Blueprint registration system working
+- ✅ Configuration sharing via app.config
+- ✅ No circular imports
+- ✅ All extracted routes tested
+- ✅ Clean incremental commits
+- ✅ Zero functionality changes
+
+### Documentation
+- Full specification: specs/001-extract-routes/spec.md
+- Technical plan: specs/001-extract-routes/plan.md
+- Task breakdown: specs/001-extract-routes/tasks.md
+- Progress report: specs/001-extract-routes/progress.md
+
+---
+
 ## Notes
 
 ### Critical Issues
