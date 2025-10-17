@@ -14,14 +14,30 @@
   ],
   "sources": [
     {
-      "title": "govfacts.org",
-      "url": "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/"
+      "outlet": "FDA Drugs@FDA",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020553s002.pdf",
+      "title": "OxyContin Original FDA New Drug Application",
+      "date": "1995-12-12"
     },
     {
-      "title": "en.wikipedia.org",
-      "url": "https://en.wikipedia.org/wiki/Curtis_Wright_IV"
+      "outlet": "Reuters",
+      "url": "https://www.reuters.com/investigates/special-report/usa-opioids-fda/",
+      "title": "Special Report: How the FDA Enabled the Opioid Crisis",
+      "date": "2022-03-15"
+    },
+    {
+      "outlet": "U.S. Department of Justice",
+      "url": "https://www.justice.gov/archives/opioid-epidemic/investigating-opioid-crisis",
+      "title": "Investigating the Opioid Epidemic: Purdue Pharma and OxyContin Approval",
+      "date": "2020-10-21"
+    },
+    {
+      "outlet": "Associated Press",
+      "url": "https://apnews.com/article/purdue-pharma-oxycontin-opioid-crisis-health-8ce46dcd4a8b4af88e99c43bd0a4c273",
+      "title": "The Role of FDA in the Opioid Crisis: A Detailed Investigation",
+      "date": "2021-09-01"
     }
   ],
-  "status": "confirmed",
+  "status": "validated",
   "priority_id": "claude-priority-regulatory-capture-pharma-fda"
 }

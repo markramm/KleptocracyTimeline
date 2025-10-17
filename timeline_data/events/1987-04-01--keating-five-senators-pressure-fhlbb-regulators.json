@@ -29,17 +29,31 @@
   ],
   "sources": [
     {
-      "title": "Keating Five",
-      "url": "https://en.wikipedia.org/wiki/Keating_Five",
-      "outlet": "Wikipedia",
-      "date": "2024-01-01",
+      "title": "WHERE IS THE KEATING FIVE REPORT?",
+      "url": "https://www.washingtonpost.com/archive/opinions/1991/10/06/where-is-the-keating-five-report/7db61932-0577-416b-b022-007cdb809245/",
+      "outlet": "Washington Post",
+      "date": "1991-10-06",
       "verified": true
     },
     {
-      "title": "Edwin Gray on the S&L Crisis: This Was a Self-Inflicted Disaster",
-      "url": "https://www.washingtonpost.com/archive/business/1988/10/09/edwin-gray-on-the-sl-crisis-this-was-a-self-inflicted-disaster/",
+      "title": "Scandal Shaped McCain's Sense of Honor in Office",
+      "url": "https://www.npr.org/2007/12/13/17137136/scandal-shaped-mccains-sense-of-honor-in-office",
+      "outlet": "NPR",
+      "date": "2007-12-13",
+      "verified": true
+    },
+    {
+      "title": "Savings and Loan Senate Ethics Investigation",
+      "url": "https://www.c-span.org/video/?15593-1/savings-loan-senate-ethics-investigation",
+      "outlet": "C-SPAN",
+      "date": "1991-01-04",
+      "verified": true
+    },
+    {
+      "title": "ETHICS PANEL HEARS 'KEATING 5' CHARGES",
+      "url": "https://www.washingtonpost.com/archive/politics/1990/11/16/ethics-panel-hears-keating-5-charges/6b9fd86a-a1eb-411e-b8dd-f94335abbc47/",
       "outlet": "Washington Post",
-      "date": "1988-10-09",
+      "date": "1990-11-16",
       "verified": true
     }
   ],
