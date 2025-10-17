@@ -5,11 +5,14 @@ Replaces filesystem sync complexity with explicit operations.
 """
 
 import json
+import logging
 from pathlib import Path
 from typing import Dict, Any, List, Optional, cast
 from datetime import datetime, timezone
 
 from research_monitor.services.git_service import GitService
+
+logger = logging.getLogger(__name__)
 
 
 class TimelineSyncService:
@@ -125,7 +128,7 @@ class TimelineSyncService:
                 written_files.append(relative_path)
             except (IOError, OSError, json.JSONEncodeError, ValueError) as e:
                 # Skip files that can't be written, but log the error
-                print(f"Warning: Failed to write event {event_id}: {e}")
+                logger.warning(f"Failed to write event {event_id}: {e}")
                 continue
 
         return written_files
@@ -185,7 +188,7 @@ class TimelineSyncService:
             return self._load_event_file(filepath)
         except (IOError, OSError, json.JSONDecodeError, ValueError, KeyError) as e:
             # Log parse errors but return None for missing/corrupt files
-            print(f"Warning: Failed to load event {event_id}: {e}")
+            logger.warning(f"Failed to load event {event_id}: {e}")
             return None
 
     def validate_workspace_events(self) -> Dict[str, Any]:

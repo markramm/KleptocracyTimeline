@@ -129,13 +129,22 @@ After updating each file:
 - **Maintainability**: Easy to add new config options
 - **Testing**: Singleton pattern allows config reset for tests
 
-## Task 3: Replace Print Statements (2 hours) - PENDING
+## Task 3: Replace Print Statements (2 hours) - ✅ COMPLETED
 
-Replace ~34 print statements with proper logging:
-- Use `logger.info()` for normal messages
-- Use `logger.warning()` for warnings
-- Use `logger.error()` for errors
-- Add structured logging where beneficial
+### Completed
+- ✅ Replaced all print statements in application code with proper logging
+  - `api_validation_endpoints.py`: Added logging, replaced `print()` with `logger.info()`
+  - `services/timeline_sync.py`: Added logging, replaced 2x `print()` with `logger.warning()`
+
+- ✅ Left print statements in appropriate places:
+  - Test files (test_app_v2.py, test_e2e.py) - print statements are appropriate for test output
+  - CLI tools (research_client.py, server_manager.py) - print statements are appropriate for user-facing CLI output
+
+### Impact
+- **Cleaner Logging**: All application code now uses proper Python logging
+- **Consistent Output**: Logging levels (INFO, WARNING, ERROR) properly categorized
+- **Better Debugging**: Structured logs with logger names for traceability
+- **No Breaking Changes**: Server verified healthy after modifications
 
 ## Task 4: API Endpoint Tests (8 hours) - PENDING
 
@@ -159,34 +168,39 @@ Implement automated source validation:
 |------|------|--------|--------|
 | 1. Blueprint helpers | 2h | 2h | ✅ Completed |
 | 2. Configuration | 4h | 3h | ✅ Completed |
-| 3. Print statements | 2h | - | Pending |
+| 3. Print statements | 2h | 0.5h | ✅ Completed |
 | 4. API tests | 8h | - | Pending |
 | 5. Broken links | 4h | - | Pending |
-| **Total** | **20h** | **5h** | **25% complete** |
+| **Total** | **20h** | **5.5h** | **28% complete** |
 
 ## Next Session Start Here
 
-Tasks 1 & 2 complete! Ready for Task 3: Replace Print Statements (2 hours)
+Tasks 1, 2 & 3 complete! Ready for Task 4: Add API Endpoint Tests (8 hours)
 
 ```bash
 # 1. Check current status
 curl http://localhost:5558/api/server/health
 
-# 2. Find all print statements in research_monitor/
-grep -r "print(" research_monitor/ --include="*.py" | wc -l
+# 2. Review existing tests
+ls -la tests/
+cat tests/test_research_api.py  # If exists
 
-# 3. Replace print statements with proper logging
-# - Use logger.info() for informational messages
-# - Use logger.warning() for warnings
-# - Use logger.error() for errors
-# - Add structured logging where beneficial
+# 3. Create comprehensive pytest test suite
+# Structure:
+# tests/
+#   test_system_endpoints.py - /api/stats, /api/server/*
+#   test_timeline_endpoints.py - /api/timeline/*
+#   test_events_endpoints.py - /api/events/*
+#   test_qa_endpoints.py - /api/qa/*
+#   test_validation_runs_endpoints.py - /api/validation-runs/*
+#   test_priorities_endpoints.py - /api/priorities/*
+#   conftest.py - Test fixtures and setup
 
-# 4. Test server starts without print() calls
-python3 research_cli.py server-restart
-curl http://localhost:5558/api/server/health
+# 4. Run tests
+pytest tests/ -v
 
-# 5. Verify log output is cleaner and more structured
-tail -f /tmp/research_monitor.log
+# 5. Add to CI/CD if not already present
+# GitHub Actions already has pytest stage
 ```
 
 ## Related Documentation

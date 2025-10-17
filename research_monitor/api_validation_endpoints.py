@@ -6,7 +6,10 @@ To be integrated into app_v2.py or used as app_v3.py
 from flask import Blueprint, request, jsonify
 from datetime import datetime, timezone
 import json
+import logging
 from event_validator import EventValidator
+
+logger = logging.getLogger(__name__)
 
 # Create validation blueprint
 validation_bp = Blueprint('validation', __name__)
@@ -249,7 +252,7 @@ def register_validation_endpoints(app):
     Register validation endpoints with the Flask app
     """
     app.register_blueprint(validation_bp)
-    print("✅ Validation endpoints registered")
+    logger.info("Validation endpoints registered")
     
     # Add validation info to root endpoint
     @app.route('/api/validation/info')
