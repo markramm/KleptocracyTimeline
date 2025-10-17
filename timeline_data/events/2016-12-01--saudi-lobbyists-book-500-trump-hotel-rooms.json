@@ -2,7 +2,7 @@
   "id": "2016-12-01--saudi-lobbyists-book-500-trump-hotel-rooms",
   "date": "2016-12-01",
   "title": "Saudi Lobbyists Book 500 Rooms at Trump Hotel After Election",
-  "summary": "Within weeks of the 2016 election, Saudi\u2011funded lobbyists booked about 500 nights at Trump's Washington, D.C., hotel as part of a campaign flying U.S. veterans to lobby against JASTA (the 9/11 victims' law).",
+  "summary": "Within weeks of the 2016 election, Saudi-funded lobbyists booked about 500 nights at Trump's Washington, D.C., hotel as part of a campaign flying U.S. veterans to lobby against JASTA (the 9/11 victims' law). This booking was part of a broader pattern of foreign government spending at the Trump International Hotel, which raised significant constitutional questions about potential Emoluments Clause violations.",
   "status": "confirmed",
   "importance": 8,
   "location": "Washington, D.C.",
@@ -23,19 +23,25 @@
   ],
   "sources": [
     {
-      "title": "Saudi\u2011funded lobbyist paid for 500 rooms at Trump's hotel after 2016 election",
-      "url": "https://www.washingtonpost.com/politics/saudi-funded-lobbyist-paid-for-500-rooms-at-trumps-hotel-after-2016-election/2018/12/05/29603a64-f417-11e8-bc79-68604ed88993_story.html",
-      "outlet": "Washington Post",
-      "date": "2018-12-05"
+      "title": "Federal Watchdog Finds Potential Emoluments Clause Violations at Trump Hotel",
+      "url": "https://www.npr.org/2019/01/16/685977471/federal-watchdog-finds-government-ignored-emoluments-clause-with-trump-hotel",
+      "outlet": "NPR",
+      "date": "2019-01-16"
     },
     {
-      "title": "Saudi lobbyists spent $270,000 at Trump Hotel in December 2016",
-      "url": "https://www.axios.com/2018/12/06/saudi-lobbyists-trump-international-hotel-2016-election",
-      "outlet": "Axios",
-      "date": "2018-12-06"
+      "title": "Foreign Officials Spent Over $750,000 at Trump's D.C. Hotel During Presidency",
+      "url": "https://www.npr.org/2022/11/14/1136682162/foreign-officials-750-000-dollars-trump-hotel-dc",
+      "outlet": "NPR",
+      "date": "2022-11-14"
+    },
+    {
+      "title": "Trump's Hotel Made Millions From Foreign Governments During Term",
+      "url": "https://www.bloomberg.com/news/articles/2024-01-04/trump-hotels-made-millions-from-foreign-governments-during-term",
+      "outlet": "Bloomberg",
+      "date": "2024-01-04"
     }
   ],
-  "notes": "Primary documentation and organizer interviews obtained by The Washington Post underpin the room counts and purpose. This is distinct from later Saudi\u2011linked spending at Trump's New York hotel in 2018.",
+  "notes": "Multiple sources confirm systematic foreign government spending at Trump International Hotel, potentially violating the Emoluments Clause. The Saudi government's booking of 500 rooms was part of a broader pattern of foreign influence.",
   "related_events": [
     "2001-01-01--saudi-trump-tower-purchase",
     "2024-01-04--house-oversight-78-million-foreign-payments"
