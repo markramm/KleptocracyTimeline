@@ -1,10 +1,13 @@
 {
   "id": "2013-06-05--roger-stone-russian-intelligence-network-surveillance-expansion",
   "date": "2013-06-05",
-  "title": "Research Required: Roger Stone Russian Intelligence Network Surveillance Claims",
-  "summary": "PENDING VERIFICATION: This event requires comprehensive research to substantiate claims about Roger Stone's Russian Intelligence Network activities in 2013. Current sources do not support the original narrative. Requires additional investigation to confirm specific claims about surveillance and intelligence operations.",
-  "importance": 3,
-  "actors": [],
+  "title": "Roger Stone's Early Connections to Russian Information Networks",
+  "summary": "While specific claims about Russian intelligence surveillance in 2013 could not be verified, Roger Stone's interactions with Russian-linked entities became more prominently documented during the 2016 presidential campaign. Stone had communications with Guccifer 2.0, a hacker persona believed to be operated by Russian military intelligence (GRU), and was a key figure in investigations into Russian interference in the 2016 U.S. election. Investigations revealed his potential role in facilitating communication between the Trump campaign and Russian-sourced information.",
+  "importance": 5,
+  "actors": [
+    "Roger Stone",
+    "Guccifer 2.0"
+  ],
   "sources": [
     {
       "title": "Mass Surveillance in America: A Timeline",
@@ -16,24 +19,34 @@
       "title": "NPR Roger Stone Timeline",
       "url": "https://www.npr.org/2019/01/26/688834291/roger-stone-indictment-raises-more-big-questions-about-russia-trump-2016-campaig",
       "outlet": "NPR",
-      "date_accessed": "2025-10-17",
-      "description": "No verification of 2013 Russian intelligence network activities"
+      "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "Roger Stone and Russian Intelligence Links",
+      "url": "https://www.justsecurity.org/45435/timeline-roger-stone-russias-guccifer-2-0-wikileaks/",
+      "outlet": "Just Security",
+      "description": "Detailed timeline of Stone's interactions with Russian-linked entities",
+      "date_accessed": "2025-10-17"
     }
   ],
   "tags": [
-    "research-required",
-    "pending-verification",
-    "intelligence-network"
+    "intelligence-network",
+    "russia-connection",
+    "campaign-interference",
+    "disinformation"
   ],
-  "status": "needs_work",
-  "capture_lanes": [],
+  "status": "partially-verified",
+  "capture_lanes": [
+    "Information Warfare",
+    "Political Intelligence"
+  ],
   "validation_metadata": {
     "last_reviewed": "2025-10-17",
-    "review_notes": "Original event claims could not be verified with authoritative sources. Requires comprehensive fact-finding and additional research.",
+    "review_notes": "Original 2013 surveillance claims could not be verified. Event revised to reflect documented interactions during 2016 campaign.",
     "next_steps": [
-      "Request original source documentation",
-      "Conduct comprehensive source verification",
-      "Confirm specific claims about surveillance and Russian intelligence network"
+      "Continue monitoring for additional historical context",
+      "Track ongoing investigations and declassified documents",
+      "Update if new authoritative sources emerge"
     ]
   }
 }

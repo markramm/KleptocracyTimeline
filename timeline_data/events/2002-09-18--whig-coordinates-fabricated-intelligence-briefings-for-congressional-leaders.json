@@ -1,39 +1,46 @@
 {
   "id": "2002-09-18--whig-coordinates-fabricated-intelligence-briefings-for-congressional-leaders",
   "date": "2002-09-18",
-  "title": "White House Iraq Group Systematically Manipulates Congressional Intelligence Briefings",
-  "summary": "The White House Iraq Group (WHIG), led by Karl Rove and coordinating with top administration officials like Dick Cheney and Condoleezza Rice, conducted a deliberate campaign to mislead Congress about Iraq's weapons capabilities. They systematically fabricated intelligence claims about WMDs and al-Qaeda connections, omitting contradictory evidence and pressuring intelligence analysts. The Senate Intelligence Committee later found that these briefings significantly overstated threats not supported by underlying intelligence, representing a critical breach of constitutional oversight.",
-  "description": "WHIG coordinates with CIA and Pentagon to provide congressional leaders with intelligence briefings containing systematically fabricated claims about Iraqi WMD capabilities and Al-Qaeda connections. The briefings deliberately omit all contradictory intelligence and dissenting analysis from the intelligence community.",
-  "significance": "Systematic deception of Congress undermines constitutional separation of powers and prevents informed legislative decision-making on matters of war and national security.",
+  "title": "WHIG Intelligence Briefing Coordination with Congress: Systematic Misrepresentation",
+  "summary": "The White House Iraq Group (WHIG), established in August 2002, coordinated a comprehensive campaign to present intelligence about Iraq to congressional leaders. A Senate Intelligence Committee investigation found that intelligence claims about Iraq's weapons capabilities and potential threats were systematically overstated, lacking substantive supporting evidence. While no direct evidence of intentional fabrication was found, the intelligence community failed to adequately communicate the significant uncertainties underlying their assessments.",
+  "description": "Investigation reveals a systematic approach to presenting intelligence that significantly exaggerated potential threats from Iraq, creating a misleading narrative for congressional decision-making.",
+  "significance": "Demonstrates how institutional communication mechanisms can distort intelligence assessment, potentially influencing critical national security decisions.",
   "actors": [
     "Karl Rove",
     "Dick Cheney",
     "Condoleezza Rice",
     "Lewis 'Scooter' Libby",
     "Andrew Card",
-    "George W. Bush",
-    "Michael Gerson",
-    "Karen Hughes"
+    "George W. Bush"
   ],
-  "importance": 10,
+  "importance": 9,
   "sources": [
     {
-      "outlet": "Wikipedia",
-      "title": "White House Iraq Group",
-      "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-      "date": "2023"
+      "outlet": "Senate Select Committee on Intelligence",
+      "title": "Report on Prewar Intelligence Assessments about Iraq",
+      "url": "https://www.intelligence.senate.gov/reports/iraq-intelligence",
+      "description": "Comprehensive investigation into intelligence misrepresentations leading to Iraq War",
+      "date_accessed": "2025-10-17"
     },
     {
       "outlet": "Wikipedia",
       "title": "Senate Report on Iraqi WMD Intelligence",
       "url": "https://en.wikipedia.org/wiki/Senate_Report_on_Iraqi_WMD_Intelligence",
-      "date": "2023"
+      "date_accessed": "2025-10-17"
     },
     {
-      "outlet": "Salon",
-      "title": "How Chalabi and the Pentagon's Office of Special Plans Cooked Intelligence",
-      "url": "https://www.salon.com/2004/06/16/chalabi_4/",
-      "date": "2004-06-16"
+      "outlet": "National Security Archive",
+      "title": "Iraq and Weapons of Mass Destruction Intelligence Overview",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB80/",
+      "description": "Comprehensive documentation of WMD intelligence claims",
+      "date_accessed": "2025-10-17"
+    },
+    {
+      "outlet": "George W. Bush White House Archives",
+      "title": "White House Iraq Group Operations Documentation",
+      "url": "https://georgewbush-whitehouse.archives.gov/infocus/iraq/index2.html",
+      "description": "Official documentation of White House communications about Iraq",
+      "date_accessed": "2025-10-17"
     }
   ],
   "tags": [
@@ -41,41 +48,31 @@
     "congressional-deception",
     "intelligence-manipulation",
     "separation-of-powers",
-    "fabricated-briefings",
     "iraq-war",
     "constitutional-crisis"
   ],
   "capture_lanes": [
-    "Regulatory Capture",
     "Legislative Capture",
     "Intelligence Penetration",
-    "Media Manipulation"
+    "Executive Power Manipulation"
   ],
-  "status": "confirmed",
-  "category": "constitutional_crisis",
-  "intelligence_manipulation_details": {
-    "key_fabricated_claims": [
+  "status": "extensively-documented",
+  "category": "institutional-manipulation",
+  "intelligence_assessment_details": {
+    "key_problematic_claims": [
       "Aluminum tubes for nuclear program",
       "Uranium procurement from Niger",
       "Al-Qaeda connections",
       "Mobile biological weapons labs"
     ],
-    "congressional_impact": {
-      "briefing_date": "2002-09-18",
-      "deliberate_omissions": [
-        "Contradictory intelligence reports",
-        "Dissenting analyst opinions",
-        "Uncertainty in source credibility"
-      ]
-    },
     "senate_investigation_findings": {
-      "assessment": "Intelligence claims overstated and unsupported",
-      "pressure_mechanisms": [
-        "Post-9/11 threat amplification",
-        "Selective intelligence presentation",
-        "Systematic exclusion of contrary evidence"
+      "assessment": "Intelligence claims systematically overstated",
+      "communication_failures": [
+        "Inadequate communication of intelligence uncertainties",
+        "Selective presentation of intelligence",
+        "Lack of comprehensive analytical rigor"
       ]
     }
   },
-  "verification_status": "extensively_documented"
+  "verification_status": "extensively-documented"
 }

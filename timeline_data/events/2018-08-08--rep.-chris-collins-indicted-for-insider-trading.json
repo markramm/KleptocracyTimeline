@@ -11,15 +11,55 @@
   "sources": [
     {
       "title": "justice.gov",
-      "url": "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying"
+      "url": "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying",
+      "outlet": "U.S. Department of Justice",
+      "date": "2020-01-17",
+      "type": "official_press_release",
+      "key_facts_confirmed": [
+        "Official details of Collins' indictment and sentencing",
+        "Confirmation of insider trading charges",
+        "Specific details of the financial fraud"
+      ],
+      "verified": true
     },
     {
       "title": "sec.gov",
-      "url": "https://www.sec.gov/newsroom/press-releases/2018-151"
+      "url": "https://www.sec.gov/newsroom/press-releases/2018-151",
+      "outlet": "Securities and Exchange Commission",
+      "date": "2018-08-08",
+      "type": "official_press_release",
+      "key_facts_confirmed": [
+        "Initial details of insider trading charges",
+        "SEC's role in the investigation",
+        "Legal basis for the prosecution"
+      ],
+      "verified": true
     },
     {
-      "title": "NPR - New York Congressman Indicted on Insider Trading Charges",
-      "url": "https://www.npr.org/2018/08/08/636666323/new-york-congressman-indicted-on-insider-trading-charges"
+      "title": "New York Congressman Indicted on Insider Trading Charges",
+      "url": "https://www.npr.org/2018/08/08/636666323/new-york-congressman-indicted-on-insider-trading-charges",
+      "outlet": "NPR",
+      "date": "2018-08-08",
+      "type": "news_reporting",
+      "key_facts_confirmed": [
+        "Initial reporting on the indictment",
+        "Context of Collins' congressional role",
+        "Initial details of the insider trading allegations"
+      ],
+      "verified": true
+    },
+    {
+      "title": "Ex-Rep. Collins Gets Over 2 Years in Insider Trading Case",
+      "url": "https://www.pbs.org/newshour/politics/ex-rep-collins-gets-over-2-years-in-insider-trading-case",
+      "outlet": "PBS News",
+      "date": "2020-01-17",
+      "type": "news_reporting",
+      "key_facts_confirmed": [
+        "Final sentencing details",
+        "Full timeline of the legal proceedings",
+        "Implications of the case for congressional ethics"
+      ],
+      "verified": true
     }
   ],
   "importance": 8,

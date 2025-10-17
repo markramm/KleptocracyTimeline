@@ -34,6 +34,13 @@
       "url": "https://www.pbs.org/newshour/politics/fcc-repeals-net-neutrality-rules-designed-to-provide-equal-access-to-internet",
       "outlet": "PBS NewsHour",
       "date": "2017-12-14"
+    },
+    {
+      "title": "Net Neutrality 2.0: Perspectives on FCC Regulation of Internet Service Providers",
+      "url": "https://www.brookings.edu/articles/net-neutrality-2-0-perspectives-on-fcc-regulation-of-internet-service-providers/",
+      "outlet": "Brookings Institution",
+      "date": "2018-01-15",
+      "description": "Academic analysis of the net neutrality repeal, providing policy context and historical perspective"
     }
   ],
   "status": "confirmed",

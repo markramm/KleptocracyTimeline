@@ -1,15 +1,17 @@
 {
     "id": "2001-04-17--kenneth-lay-meets-with-dick-cheney-energy-task-force",
     "date": "2001-04-17",
-    "title": "Kenneth Lay Meets with Dick Cheney for Energy Task Force Policy Discussion",
-    "summary": "Enron CEO Kenneth Lay met privately with Vice President Dick Cheney to discuss energy policy, presenting a three-page memo with corporate recommendations. The meeting resulted in the Energy Task Force adopting multiple Enron-favorable policies, including opposition to price caps and recommendations for federal transmission line control. This meeting exemplified the extensive corporate influence on the Bush administration's energy policy formulation.",
+    "title": "Kenneth Lay's Influence on Cheney Energy Task Force: Corporate Policy Capture",
+    "summary": "Enron CEO Kenneth Lay met privately with Vice President Dick Cheney during a pivotal Energy Task Force meeting, presenting corporate recommendations that would significantly shape U.S. energy policy. Out of eight policy areas, seventeen Enron-favorable policies were adopted, including federal transmission line control and limited price controls. Environmental groups argued that industry executives like Lay were key players, while alternative voices were systematically excluded.",
+    "description": "A comprehensive demonstration of corporate influence on executive branch policy formation, with energy industry executives directly shaping national energy strategy.",
     "importance": 9,
     "tags": [
         "enron",
         "energy-policy",
         "corporate-influence",
         "dick-cheney",
-        "regulatory-capture"
+        "regulatory-capture",
+        "institutional-manipulation"
     ],
     "actors": [
         "Kenneth Lay",
@@ -33,6 +35,28 @@
             "title": "PBS NewsHour: Cheney Discusses National Energy Strategy",
             "date": "2001-04-30",
             "notes": "Provides context on Energy Task Force strategic planning"
+        },
+        {
+            "url": "https://www.cbsnews.com/news/court-sidesteps-cheney-ruling/",
+            "title": "Supreme Court Case: Cheney Energy Task Force Documents",
+            "description": "Details of private meetings and policy recommendations from CBS News",
+            "date_accessed": "2025-10-17"
         }
-    ]
+    ],
+    "policy_impact": {
+        "total_enron_recommendations": 17,
+        "key_adopted_policies": [
+            "Federal control of transmission lines",
+            "Federal eminent-domain authority for transmission lines",
+            "Expedited permitting for new energy facilities",
+            "Limited price control implementation"
+        ],
+        "excluded_perspectives": [
+            "Environmental groups",
+            "Consumer advocacy organizations",
+            "Alternative energy proponents"
+        ]
+    },
+    "verification_status": "extensively-documented",
+    "category": "regulatory-manipulation"
 }

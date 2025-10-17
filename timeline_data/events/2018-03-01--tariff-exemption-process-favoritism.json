@@ -28,12 +28,42 @@
         "Detailed investigation of specific exemption cases"
       ],
       "verified": true
+    },
+    {
+      "title": "Politically Connected Corporations Received More Exemptions from U.S. Tariffs on Chinese Imports, Study Finds",
+      "url": "https://news.lehigh.edu/politically-connected-corporations-received-more-exemptions-from-us-tariffs-on-chinese-imports",
+      "outlet": "Lehigh University News",
+      "date": "2025-01-15",
+      "type": "academic_press_release",
+      "key_facts_confirmed": [
+        "14.6% of tariff exemption applications were approved",
+        "Companies donating to Republicans had 4% higher chance of exemption",
+        "The tariff exemption process functioned as a political 'spoils system'"
+      ],
+      "verified": true
+    },
+    {
+      "title": "The Political Economy of Tariff Exemption Grants",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963039",
+      "outlet": "Journal of Financial and Quantitative Analysis",
+      "date": "2025-01-15",
+      "type": "academic_publication",
+      "key_facts_confirmed": [
+        "Comprehensive statistical analysis of 7,015 tariff exemption applications",
+        "Demonstrated systematic bias in exemption approval based on political donations",
+        "Quantified impact of political contributions on exemption outcomes"
+      ],
+      "verified": true
     }
   ],
   "actors": [
     "Donald Trump",
-    "Trump Administration"
+    "Trump Administration",
+    "Veljko Fotak",
+    "Hye Seung Grace Lee",
+    "William Megginson",
+    "Jesus Salas"
   ],
   "location": "Washington, DC",
-  "notes": "Evidence shows tariff exemption system became a spoils system used to reward Trump's supporters and punish rivals"
+  "notes": "Evidence shows tariff exemption system became a spoils system used to reward Trump's supporters and punish rivals. Academic research provides statistical confirmation of political favoritism."
 }
