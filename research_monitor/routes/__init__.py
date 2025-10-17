@@ -37,7 +37,7 @@ def register_blueprints(app: Flask) -> None:
         timeline,
         events,
         qa,
-        # validation_runs
+        validation_runs
     )
 
     # Register blueprints in order (uncomment as blueprints are created)
@@ -48,4 +48,4 @@ def register_blueprints(app: Flask) -> None:
     app.register_blueprint(timeline.bp)
     app.register_blueprint(events.bp)
     app.register_blueprint(qa.bp)
-    # app.register_blueprint(validation_runs.bp)
+    app.register_blueprint(validation_runs.bp)
