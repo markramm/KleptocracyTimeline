@@ -451,5 +451,328 @@ class TestResearchAPIConvenienceMethods(unittest.TestCase):
         self.assertIn('No priorities', result['error'])
 
 
+class TestResearchAPIAutoFixFeatures(unittest.TestCase):
+    """Test auto_fix parameter and error handling"""
+
+    def setUp(self):
+        """Set up test API"""
+        self.api = ResearchAPI(base_url='http://localhost:5558')
+
+    @patch('builtins.__import__', side_effect=ImportError)
+    @patch.object(ResearchAPI, '_make_request')
+    def test_submit_events_batch_auto_fix_import_error(self, mock_request, mock_import):
+        """Test submit_events_batch handles missing enhanced validator"""
+        events = [{'date': '2025-01-15', 'title': 'Test'}]
+        mock_request.return_value = {'successful_events': 1, 'failed_events': 0}
+
+        result = self.api.submit_events_batch(events, 'RP-123', auto_fix=True)
+
+        self.assertEqual(result['successful_events'], 1)
+        # Verify it continues without auto_fix when enhanced validator unavailable
+        mock_request.assert_called_once()
+
+    @patch('builtins.__import__', side_effect=ImportError)
+    @patch.object(ResearchAPI, '_make_request')
+    def test_validate_event_auto_fix_import_error(self, mock_request, mock_import):
+        """Test validate_event handles missing enhanced validator"""
+        event = {'date': '2025-01-15', 'title': 'Test'}
+        mock_request.return_value = {'valid': True, 'errors': []}
+
+        result = self.api.validate_event(event, auto_fix=True)
+
+        self.assertTrue(result['valid'])
+        # Verify it falls back to API validation
+        mock_request.assert_called_once_with('POST', 'events/validate', event)
+
+    @patch('builtins.__import__', side_effect=ImportError)
+    @patch.object(ResearchAPI, 'validate_event')
+    def test_validate_events_batch_fallback(self, mock_validate, mock_import):
+        """Test validate_events_batch falls back to individual validation"""
+        events = [
+            {'date': '2025-01-15', 'title': 'Event 1'},
+            {'date': '2025-01-16', 'title': 'Event 2'}
+        ]
+        mock_validate.side_effect = [
+            {'valid': True, 'errors': []},
+            {'valid': False, 'errors': ['Missing field: actors']}
+        ]
+
+        result = self.api.validate_events_batch(events, auto_fix=True)
+
+        self.assertEqual(result['summary']['total_events'], 2)
+        self.assertEqual(result['summary']['valid_events'], 1)
+        self.assertEqual(result['summary']['total_errors'], 1)
+        self.assertEqual(len(result['results']), 2)
+
+
+class TestResearchAPIFixAndRetry(unittest.TestCase):
+    """Test fix_and_retry_events method"""
+
+    def setUp(self):
+        """Set up test API"""
+        self.api = ResearchAPI(base_url='http://localhost:5558')
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_fix_missing_actors(self, mock_submit):
+        """Test automatic fixing of missing actors field"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': ['Missing required field: actors']
+        }]
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Verify actors were added
+        fixed_call = mock_submit.call_args[0][0]
+        self.assertEqual(fixed_call[0]['actors'], ['Unknown Actor'])
+        self.assertEqual(result['successful_events'], 1)
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_fix_missing_sources(self, mock_submit):
+        """Test automatic fixing of missing sources field"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': ['Missing required field: sources']
+        }]
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Verify sources were added
+        fixed_call = mock_submit.call_args[0][0]
+        self.assertIn('sources', fixed_call[0])
+        self.assertEqual(len(fixed_call[0]['sources']), 1)
+        self.assertEqual(fixed_call[0]['sources'][0]['title'], 'Source needed')
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_fix_missing_tags(self, mock_submit):
+        """Test automatic fixing of missing tags field"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': ['Missing required field: tags']
+        }]
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Verify tags were added
+        fixed_call = mock_submit.call_args[0][0]
+        self.assertEqual(fixed_call[0]['tags'], ['needs_tags'])
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_fix_missing_importance(self, mock_submit):
+        """Test automatic fixing of missing importance field"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': ['Missing required field: importance']
+        }]
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Verify importance was added
+        fixed_call = mock_submit.call_args[0][0]
+        self.assertEqual(fixed_call[0]['importance'], 5)
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_fix_invalid_date_format(self, mock_submit):
+        """Test automatic fixing of date format (MM/DD/YYYY to YYYY-MM-DD)"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': ['Date must be YYYY-MM-DD format']
+        }]
+        events = [{'date': '1/15/2025', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Verify date was fixed
+        fixed_call = mock_submit.call_args[0][0]
+        self.assertEqual(fixed_call[0]['date'], '2025-01-15')
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_fix_multiple_fields(self, mock_submit):
+        """Test fixing multiple fields in single event"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': [
+                'Missing required field: actors',
+                'Missing required field: tags',
+                'Missing required field: importance'
+            ]
+        }]
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Verify all fields were fixed
+        fixed_call = mock_submit.call_args[0][0]
+        self.assertEqual(fixed_call[0]['actors'], ['Unknown Actor'])
+        self.assertEqual(fixed_call[0]['tags'], ['needs_tags'])
+        self.assertEqual(fixed_call[0]['importance'], 5)
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_no_fixes_applied_still_retries(self, mock_submit):
+        """Test when no automatic fixes match but event is still retried"""
+        failed_results = [{
+            'status': 'failed',
+            'index': 0,
+            'errors': ['Unknown error type']
+        }]
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+        mock_submit.return_value = {'successful_events': 0, 'failed_events': 1}
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # Event is still resubmitted even if no fixes were applied
+        mock_submit.assert_called_once()
+        self.assertEqual(result['failed_events'], 1)
+
+    def test_no_failed_events_in_results(self):
+        """Test when failed_results list is empty"""
+        failed_results = []
+        events = [{'date': '2025-01-15', 'title': 'Test Event'}]
+
+        result = self.api.fix_and_retry_events(failed_results, events, 'RP-123')
+
+        # No events to fix, returns no_fixes_applied
+        self.assertEqual(result['status'], 'no_fixes_applied')
+        self.assertIn('No automatic fixes', result['message'])
+
+
+class TestResearchAPISubmitWithRetry(unittest.TestCase):
+    """Test submit_events_with_retry method"""
+
+    def setUp(self):
+        """Set up test API"""
+        self.api = ResearchAPI(base_url='http://localhost:5558')
+
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_success_no_retry_needed(self, mock_submit):
+        """Test successful submission with no retries needed"""
+        mock_submit.return_value = {
+            'successful_events': 2,
+            'failed_events': 0,
+            'results': []
+        }
+        events = [
+            {'date': '2025-01-15', 'title': 'Event 1'},
+            {'date': '2025-01-16', 'title': 'Event 2'}
+        ]
+
+        result = self.api.submit_events_with_retry(events, 'RP-123', max_retries=2)
+
+        self.assertEqual(result['successful_events'], 2)
+        self.assertEqual(result['failed_events'], 0)
+        mock_submit.assert_called_once()
+
+    @patch.object(ResearchAPI, 'fix_and_retry_events')
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_retry_once_success(self, mock_submit, mock_fix):
+        """Test submission with one retry that succeeds"""
+        # First submission has 1 failure
+        mock_submit.return_value = {
+            'successful_events': 1,
+            'failed_events': 1,
+            'results': [
+                {'status': 'success'},
+                {'status': 'failed', 'index': 1, 'errors': ['Missing field: actors']}
+            ]
+        }
+        # Retry succeeds
+        mock_fix.return_value = {
+            'successful_events': 1,
+            'failed_events': 0
+        }
+        events = [
+            {'date': '2025-01-15', 'title': 'Event 1'},
+            {'date': '2025-01-16', 'title': 'Event 2'}
+        ]
+
+        result = self.api.submit_events_with_retry(events, 'RP-123', max_retries=2)
+
+        # Verify retry was attempted
+        self.assertEqual(result['retry_attempts'], 1)
+        self.assertEqual(result['successful_events'], 2)
+        self.assertEqual(result['failed_events'], 0)
+        mock_fix.assert_called_once()
+
+    @patch.object(ResearchAPI, 'fix_and_retry_events')
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_max_retries_exhausted(self, mock_submit, mock_fix):
+        """Test submission with max retries exhausted"""
+        # All submissions have failures
+        mock_submit.return_value = {
+            'successful_events': 0,
+            'failed_events': 2,
+            'results': [
+                {'status': 'failed', 'index': 0, 'errors': ['Error 1']},
+                {'status': 'failed', 'index': 1, 'errors': ['Error 2']}
+            ]
+        }
+        # Retries also fail
+        mock_fix.return_value = {
+            'successful_events': 0,
+            'failed_events': 2
+        }
+        events = [
+            {'date': '2025-01-15', 'title': 'Event 1'},
+            {'date': '2025-01-16', 'title': 'Event 2'}
+        ]
+
+        result = self.api.submit_events_with_retry(events, 'RP-123', max_retries=2)
+
+        # Verify max retries were attempted
+        self.assertEqual(result['retry_attempts'], 2)
+        self.assertEqual(result['successful_events'], 0)
+        self.assertEqual(result['failed_events'], 2)
+        self.assertEqual(mock_fix.call_count, 2)
+
+    @patch.object(ResearchAPI, 'fix_and_retry_events')
+    @patch.object(ResearchAPI, 'submit_events_batch')
+    def test_partial_retry_success(self, mock_submit, mock_fix):
+        """Test submission with partial success on retry"""
+        # First submission has 2 failures
+        mock_submit.return_value = {
+            'successful_events': 1,
+            'failed_events': 2,
+            'results': [
+                {'status': 'success'},
+                {'status': 'failed', 'index': 1, 'errors': ['Error 1']},
+                {'status': 'failed', 'index': 2, 'errors': ['Error 2']}
+            ]
+        }
+        # Retry fixes 1 event
+        mock_fix.return_value = {
+            'successful_events': 1,
+            'failed_events': 1
+        }
+        events = [
+            {'date': '2025-01-15', 'title': 'Event 1'},
+            {'date': '2025-01-16', 'title': 'Event 2'},
+            {'date': '2025-01-17', 'title': 'Event 3'}
+        ]
+
+        result = self.api.submit_events_with_retry(events, 'RP-123', max_retries=1)
+
+        # Verify partial success tracking
+        self.assertEqual(result['retry_attempts'], 1)
+        self.assertEqual(result['successful_events'], 2)  # 1 initial + 1 retry
+        self.assertEqual(result['failed_events'], 1)  # 2 - 1
+        self.assertIn('retry_result', result)
+
+
 if __name__ == '__main__':
     unittest.main()
