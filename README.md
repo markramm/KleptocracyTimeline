@@ -193,10 +193,10 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - **Report Issues** - Flag errors or broken links
 
 ### Validation Process
-1. Run validation: `cd timeline_data && python validation_app_enhanced.py`
+1. Run validation: `python3 research_cli.py qa-queue --limit 10`
 2. Pick any unvalidated event
 3. Verify sources confirm the claims
-4. Mark as validated if accurate
+4. Mark as validated: `python3 research_cli.py qa-validate --event-id <event-id> --score <score> --notes "<notes>"`
 
 ## 📖 Documentation
 

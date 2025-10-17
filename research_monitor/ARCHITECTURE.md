@@ -338,11 +338,14 @@ curl -X POST http://localhost:5555/api/activity \
 
 ```bash
 # Start the Research Monitor
-cd research_monitor
-python3 app_threadsafe.py
+python3 research_cli.py server-start
 
-# Service runs on http://localhost:5555
-# Dashboard available at http://localhost:5555/
+# Or manually:
+cd research_monitor
+RESEARCH_MONITOR_PORT=5558 python3 app_v2.py
+
+# Service runs on http://localhost:5558
+# API available at http://localhost:5558/api/
 ```
 
 ## Environment Variables
