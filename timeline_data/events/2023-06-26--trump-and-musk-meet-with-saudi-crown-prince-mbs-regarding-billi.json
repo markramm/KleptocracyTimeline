@@ -18,10 +18,16 @@
     ],
     "sources": [
         {
-            "url": "https://www.nbcnews.com/video/elon-musk-meets-saudi-crown-prince-mohammed-bin-salman-239445573787",
-            "title": "Elon Musk Meets Saudi Crown Prince Mohammed Bin Salman - NBC News",
+            "url": "https://www.cbsnews.com/news/trump-speaking-us-saudi-investment-summit-riyadh/",
+            "title": "Trump Touts Saudi Relationship During Investment Summit",
             "date_accessed": "2025-10-17",
-            "notes": "Does not confirm 2023 meeting specifics"
+            "notes": "Confirmed details of 2025 meeting with Trump, Musk, and MBS"
+        },
+        {
+            "url": "https://thehill.com/business/5297272-trump-business-leaders-saudi-investment/",
+            "title": "Business Leaders Attend Trump's Saudi Investment Meeting",
+            "date_accessed": "2025-10-17",
+            "notes": "Lists key CEOs present, including Musk"
         }
     ]
 }

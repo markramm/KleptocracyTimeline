@@ -1,16 +1,17 @@
 {
     "id": "2010-05-15--wells-fargo-hires-sec-enforcement-chief-two-weeks-before-regulatory-defense",
     "date": "2010-05-15",
-    "title": "Wells Fargo Hires SEC Enforcement Chief",
-    "summary": "Preliminary research indicates a potential hiring from SEC enforcement to Wells Fargo, but specific details could not be verified. Requires further investigation to confirm the exact circumstances and the individual involved.",
-    "importance": 5,
+    "title": "Wells Fargo Hires SEC Enforcement Chief: Investigation Needed",
+    "summary": "Unverified claim about Wells Fargo hiring a former SEC enforcement official requires comprehensive investigation. No credible sources could confirm the specific details of this alleged hiring in 2010.",
+    "importance": 3,
     "tags": [
-        "regulatory-capture",
-        "banking",
+        "unverified",
+        "needs-research",
         "wells-fargo",
-        "sec",
-        "unverified-source"
+        "regulatory-capture"
     ],
     "actors": ["Wells Fargo"],
-    "sources": []
+    "sources": [
+        "https://www.sec.gov/Archives/edgar/data/72971/000119312510059552/ddef14a.htm"
+    ]
 }

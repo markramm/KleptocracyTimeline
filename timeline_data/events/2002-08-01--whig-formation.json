@@ -58,6 +58,13 @@
             "outlet": "ProPublica",
             "date_accessed": "2025-10-17",
             "description": "Additional context on institutional record-keeping related to the Iraq War period"
+        },
+        {
+            "title": "NPR: Shadow Agencies Helped Build Case for War in Iraq",
+            "url": "https://www.npr.org/2005/12/01/5035046/shadow-agencies-helped-build-case-for-war-in-iraq",
+            "outlet": "NPR",
+            "date_accessed": "2025-10-17",
+            "description": "Details on secret White House agencies manipulating intelligence to support Iraq War narrative"
         }
     ]
 }

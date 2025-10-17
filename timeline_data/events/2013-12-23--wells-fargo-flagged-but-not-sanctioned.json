@@ -23,10 +23,16 @@
             "type": "government_document"
         },
         {
-            "url": "https://en.wikipedia.org/wiki/Wells_Fargo_cross-selling_scandal",
-            "title": "Wells Fargo Cross-Selling Scandal - Wikipedia",
-            "date_accessed": "2025-10-17",
-            "type": "encyclopedia"
+            "url": "https://www.npr.org/2015/05/08/405125463/la-lawsuit-alleges-wells-fargo-engaged-in-fraudulent-conduct",
+            "title": "Los Angeles Lawsuit Alleges Wells Fargo Engaged In Fraudulent Conduct",
+            "outlet": "NPR",
+            "date": "2015-05-08"
+        },
+        {
+            "url": "https://www.cjr.org/q_and_a/wells_fargo_la_times_accounts.php",
+            "title": "Q&A: Former LA Times reporter on story that led to $185 million Wells Fargo fine",
+            "outlet": "Columbia Journalism Review",
+            "date": "2016-09-14"
         }
     ]
 }

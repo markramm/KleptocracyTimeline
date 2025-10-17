@@ -47,6 +47,18 @@
         "Previously served as FDA Commissioner from 2019-2021"
       ],
       "verified": true
+    },
+    {
+      "title": "We Spent a Year Investigating How the FDA Let Risky Drugs Into the U.S. Market",
+      "outlet": "ProPublica",
+      "date": "2022-01-15",
+      "url": "https://www.propublica.org/article/fda-methodology-american-medicine-research",
+      "description": "Investigative report revealing systemic problems in FDA oversight, including the pervasive 'revolving door' between regulatory agencies and pharmaceutical companies",
+      "key_findings": [
+        "Over 57% of FDA reviewers later worked for pharmaceutical industry",
+        "FDA receives almost 75% of drug approval funding from pharmaceutical companies",
+        "Detailed examination of regulatory capture mechanisms"
+      ]
     }
   ],
   "status": "confirmed",

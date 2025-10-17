@@ -20,21 +20,21 @@
     "sources": [
         {
             "url": "https://qz.com/2184431/robinhood-nearly-defaulted-during-the-gamestop-short-squeeze",
-            "title": "Quartz: How Robinhood Nearly Defaulted During GameStop Trading",
-            "date_accessed": "2025-10-17",
-            "type": "news_article"
+            "title": "How Robinhood Nearly Defaulted During GameStop Trading",
+            "outlet": "Quartz",
+            "date": "2021-02-05"
         },
         {
             "url": "https://www.bloomberg.com/news/articles/2021-01-29/what-s-the-dtcc-and-how-did-it-stop-gamestop-mania-quicktake",
-            "title": "Bloomberg: DTCC's Role in GameStop Trading Pause",
-            "date_accessed": "2025-10-17",
-            "type": "financial_news"
+            "title": "DTCC's Role in GameStop Trading Pause",
+            "outlet": "Bloomberg",
+            "date": "2021-01-29"
         },
         {
-            "url": "https://en.wikipedia.org/wiki/GameStop_short_squeeze",
-            "title": "Wikipedia: GameStop Short Squeeze",
-            "date_accessed": "2025-10-17",
-            "type": "encyclopedia"
+            "url": "https://www.financemagnates.com/forex/robinhood-faced-deeper-liquidity-woes-following-gamestops-rally/",
+            "title": "Robinhood Faced Deeper Liquidity Woes Following GameStop's Rally",
+            "outlet": "Finance Magnates",
+            "date": "2021-02-05"
         }
     ]
 }
