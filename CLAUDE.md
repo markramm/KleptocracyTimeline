@@ -403,26 +403,60 @@ python3 research_cli.py update-failures-list --limit 20  # List recent event upd
 
 The WebFetch tool does not have built-in timeout limits. Agents MUST implement defensive strategies:
 
-**Timeout Prevention:**
-1. **Skip known slow sites immediately** - Do NOT attempt to fetch from:
-   - Washington Post (paywall + slow)
-   - New York Times (paywall + slow)
-   - Wall Street Journal (paywall)
-   - Sites requiring authentication
+**🚫 BLACKLISTED SOURCES (NEVER FETCH - Will Cause Timeout):**
 
-2. **Prioritize fast, open sources**:
-   - ✅ Reuters, AP, Bloomberg, NPR, PBS
-   - ✅ Government sites (.gov)
-   - ✅ Academic sources (.edu)
-   - ✅ ICIJ, ProPublica, investigative journalism
+The following sources have confirmed timeout issues and MUST be avoided:
 
-3. **Fallback strategy when sources are slow**:
-   - Use 2-3 tier-2 sources instead of waiting for tier-1 paywalled sources
-   - Search for alternative coverage of same event
-   - Use government press releases, congressional records
-   - Document in notes: "Used alternative sources due to paywall/timeout"
+**Confirmed Timeouts (Production Testing):**
+- ❌ **washingtonpost.com** - Confirmed timeout 2025-10-17 (agent hung for minutes)
+- ❌ **nytimes.com** - Paywall + slow response
+- ❌ **wsj.com** - Strict paywall
 
-4. **If agent appears stuck**:
+**Likely Timeouts (Use with Caution):**
+- ⚠️ **ft.com** (Financial Times) - Paywall
+- ⚠️ **economist.com** - Paywall
+- ⚠️ Any site requiring login/authentication
+
+**Alternative Sources to Use Instead:**
+
+When you encounter a blacklisted source, use these alternatives:
+
+**For Political/Government News (WaPo/NYT replacement):**
+- ✅ **Associated Press** (ap.org) - Fast, tier-1, no paywall
+- ✅ **Reuters** (reuters.com) - Fast, tier-1, no paywall
+- ✅ **NPR** (npr.org) - Fast, tier-1, public media
+- ✅ **PBS** (pbs.org) - Fast, tier-1, public media
+- ✅ **C-SPAN** (c-span.org) - Fast, tier-1, government coverage
+
+**For Financial News (WSJ replacement):**
+- ✅ **Bloomberg** (bloomberg.com) - Tier-1, usually accessible
+- ✅ **Reuters** (reuters.com) - Excellent financial coverage
+- ✅ **CNBC** (cnbc.com) - Tier-2, fast access
+
+**For Investigative Journalism:**
+- ✅ **ProPublica** (propublica.org) - Tier-1, open access
+- ✅ **The Intercept** (theintercept.com) - Tier-1, open access
+- ✅ **ICIJ** (icij.org) - Tier-1, investigative
+
+**For Government/Official Sources:**
+- ✅ **.gov domains** - Always tier-1, fast, authoritative
+- ✅ **Congressional records** (congress.gov) - Official documents
+- ✅ **Agency press releases** - Direct from source
+
+**Timeout Recovery Protocol:**
+
+1. **If you encounter a blacklisted URL:**
+   - ❌ DO NOT attempt to fetch it
+   - ✅ Search for alternative coverage using the sources above
+   - ✅ Document in validation_notes: "Used [alternative source] instead of [blacklisted source] due to known timeout"
+
+2. **If an unknown URL appears slow (>30 seconds):**
+   - ❌ DO NOT wait indefinitely
+   - ✅ Move to next source immediately
+   - ✅ Document in validation_notes: "URL [url] appeared slow, used alternative source"
+   - ✅ Report the slow URL for blacklist consideration
+
+3. **If agent appears completely stuck:**
    - Agent has likely hung on a WebFetch call
    - This is a known limitation - agents cannot self-recover
    - User must interrupt and restart with different validator-id

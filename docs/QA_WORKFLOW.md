@@ -20,6 +20,48 @@ python3 research_cli.py missing-sources --min-sources 3 --limit 10
 python3 research_cli.py qa-issues --limit 15
 ```
 
+## ⚠️ CRITICAL: WebFetch Timeout Prevention
+
+**IMPORTANT:** The WebFetch tool used for source validation has no built-in timeout. Fetching from paywalled or slow sources will cause agents to hang indefinitely.
+
+### 🚫 Blacklisted Sources (NEVER Fetch)
+
+**Confirmed Timeouts:**
+- ❌ `washingtonpost.com` - Confirmed timeout 2025-10-17 (hung for minutes)
+- ❌ `nytimes.com` - Paywall + slow
+- ❌ `wsj.com` - Strict paywall
+
+**Likely Timeouts:**
+- ⚠️ `ft.com`, `economist.com` - Paywalls
+- ⚠️ Any site requiring authentication
+
+### ✅ Recommended Fast Sources
+
+**Instead of WaPo/NYT, use:**
+- Associated Press (ap.org)
+- Reuters (reuters.com)
+- NPR (npr.org)
+- PBS (pbs.org)
+
+**Government/Official:**
+- All .gov domains (fast, authoritative)
+- congress.gov (congressional records)
+- Agency press releases
+
+**Investigative:**
+- ProPublica (propublica.org)
+- The Intercept (theintercept.com)
+- ICIJ (icij.org)
+
+### Timeout Recovery
+
+If you encounter a blacklisted URL:
+1. ❌ Do NOT attempt to fetch
+2. ✅ Search for alternative coverage
+3. ✅ Document: "Used [alternative] instead of [blacklisted] due to known timeout"
+
+See [CLAUDE.md](../CLAUDE.md) lines 402-463 for complete timeout handling documentation.
+
 ## Understanding the QA System
 
 ### Current System Status (2025-10-17)
