@@ -123,8 +123,9 @@ class TimelineSyncService:
                 # Track relative path for git commit
                 relative_path = filepath.relative_to(self.git.workspace)
                 written_files.append(relative_path)
-            except Exception:
-                # Skip files that can't be written
+            except (IOError, OSError, json.JSONEncodeError, ValueError) as e:
+                # Skip files that can't be written, but log the error
+                print(f"Warning: Failed to write event {event_id}: {e}")
                 continue
 
         return written_files
@@ -182,7 +183,9 @@ class TimelineSyncService:
 
         try:
             return self._load_event_file(filepath)
-        except Exception:
+        except (IOError, OSError, json.JSONDecodeError, ValueError, KeyError) as e:
+            # Log parse errors but return None for missing/corrupt files
+            print(f"Warning: Failed to load event {event_id}: {e}")
             return None
 
     def validate_workspace_events(self) -> Dict[str, Any]:

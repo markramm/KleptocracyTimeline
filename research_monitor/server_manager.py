@@ -210,11 +210,12 @@ class ServerManager:
         """Check if process with given PID is running"""
         try:
             return psutil.pid_exists(pid)
-        except Exception:
+        except (psutil.Error, AttributeError):
+            # Fallback to os.kill if psutil fails
             try:
                 os.kill(pid, 0)
                 return True
-            except OSError:
+            except (OSError, ProcessLookupError):
                 return False
     
     def _is_port_in_use(self) -> bool:
@@ -224,7 +225,8 @@ class ServerManager:
             with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 result = s.connect_ex(('localhost', self.port))
                 return result == 0
-        except Exception:
+        except (OSError, AttributeError) as e:
+            # Socket operation failed - assume port is not in use
             return False
     
     def _get_process_info(self, pid: int) -> Dict[str, Any]:
@@ -240,7 +242,7 @@ class ServerManager:
                 "memory_percent": process.memory_percent(),
                 "cpu_percent": process.cpu_percent()
             }
-        except Exception:
+        except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.Error, AttributeError):
             return {"pid": pid, "error": "Cannot get process info"}
     
     def _kill_processes_on_port(self) -> int:
@@ -255,9 +257,10 @@ class ServerManager:
                         killed += 1
                     except (psutil.NoSuchProcess, psutil.AccessDenied):
                         pass
-        except Exception:
+        except (psutil.Error, AttributeError, PermissionError):
+            # Cannot enumerate network connections - likely permissions issue
             pass
-        
+
         return killed
 
 def main():
