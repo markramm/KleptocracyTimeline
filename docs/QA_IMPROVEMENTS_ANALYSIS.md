@@ -136,11 +136,11 @@ The CLAUDE.md file already contains comprehensive timeout handling documentation
 
 **Impact:** Reduce timeout incidents from 1-2 per batch to 0-1 per batch.
 
-### Improvement 2: Timeout Monitoring Script
+### Improvement 2: Timeout Monitoring Script - ✅ IMPLEMENTED
 
 **Problem:** User must manually detect stuck agents (watching terminal output).
 
-**Solution:** Create monitoring script that checks validation run progress:
+**Solution:** Created `scripts/monitor_validation_progress.sh` that checks validation run progress:
 
 ```bash
 #!/bin/bash
@@ -171,6 +171,19 @@ done
 ```
 
 **Impact:** Proactive detection of stuck agents within 3 minutes instead of manual observation.
+
+**Implementation Details:**
+- Script: `scripts/monitor_validation_progress.sh`
+- Features:
+  - Real-time progress tracking with status breakdown
+  - Automatic stuck agent detection (>3 min default)
+  - SQL commands generated for quick reset
+  - Completion time estimates
+  - Active agent monitoring with working time
+  - Auto-stops when run completes
+  - Persistent stuck warnings after 3 consecutive detections
+- Documentation: CLAUDE.md lines 197-258
+- Usage: `./scripts/monitor_validation_progress.sh <run_id> [expected_agents] [check_interval] [stuck_threshold]`
 
 ### Improvement 3: Problematic Source Blacklist API
 
@@ -323,15 +336,17 @@ Before scaling beyond 10 agents:
 
 ## Implementation Priority
 
-### Phase 1: Immediate (This Session)
+### Phase 1: Immediate (This Session) - ✅ COMPLETED
 1. ✅ Update CLAUDE.md with explicit blacklist
 2. ✅ Document Washington Post timeout issue
 3. ✅ Create this analysis document
+4. ✅ Create monitoring script (Improvement 2)
+5. ✅ Add monitoring documentation to CLAUDE.md
 
 ### Phase 2: Next Batch (Before Batch 2)
-1. ⏳ Create monitoring script (Improvement 2)
-2. ⏳ Add blacklist API endpoint (Improvement 3)
-3. ⏳ Test with 10-agent batch
+1. ⏳ Add blacklist API endpoint (Improvement 3) - Optional
+2. ⏳ Test monitoring script with 10-agent batch
+3. ⏳ Validate <10% stuck rate with improved documentation
 
 ### Phase 3: Production Scale (After Batch 2 Success)
 1. ⏳ Implement heartbeat system (Improvement 4)

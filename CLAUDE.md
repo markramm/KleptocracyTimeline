@@ -195,6 +195,57 @@ python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent
 ```
 
 #### Monitoring Validation Runs
+
+**Automated Monitoring Script (Recommended for Parallel Batches):**
+
+The `monitor_validation_progress.sh` script provides real-time monitoring of validation runs with automatic stuck agent detection:
+
+```bash
+# Start monitoring (checks every 30s, stuck threshold 3 minutes)
+./scripts/monitor_validation_progress.sh <run_id> [expected_agents] [check_interval] [stuck_threshold]
+
+# Example: Monitor run 1 with 5 agents
+./scripts/monitor_validation_progress.sh 1 5 30 180
+
+# Example: Monitor run 2 with 10 agents, checking every 20s
+./scripts/monitor_validation_progress.sh 2 10 20 180
+```
+
+**Features:**
+- ⚡ Real-time progress tracking with completion estimates
+- 🚨 Automatic detection of stuck agents (>3 min by default)
+- 📊 Active agent status and working time monitoring
+- 🔧 SQL commands provided for quick stuck agent reset
+- ⏹️ Auto-stops when validation run completes
+- 🎯 Warns when approaching stuck threshold (70% of limit)
+
+**Example Output:**
+```
+╔════════════════════════════════════════════════════════════╗
+║     Validation Run Monitor - Stuck Agent Detection        ║
+╚════════════════════════════════════════════════════════════╝
+
+Run Status: active
+Progress: 8 / 20 events (40%)
+  ✅ Validated: 7
+  ❌ Rejected: 0
+  ⚠️  Needs Work: 1
+
+Active Agents: 5 / 5
+  qa-agent-1: 1 event assigned (working 2 min)
+  qa-agent-2: 1 event assigned (working 3 min)
+  ...
+
+⚠️  STUCK AGENTS DETECTED: 1
+  Validator: qa-agent-3
+  Event: 2025-01-15--event-slug
+  Stuck for: 5 minutes
+
+Recovery Option: [SQL command provided]
+```
+
+**Manual Monitoring Commands:**
+
 ```bash
 # Check validation run progress
 python3 research_cli.py validation-runs-get --run-id 1
