@@ -32,7 +32,7 @@ def register_blueprints(app: Flask) -> None:
     from research_monitor.routes import (
         docs,
         system,
-        # git,
+        git,
         # priorities,
         # timeline,
         # events,
@@ -43,7 +43,7 @@ def register_blueprints(app: Flask) -> None:
     # Register blueprints in order (uncomment as blueprints are created)
     app.register_blueprint(docs.bp)
     app.register_blueprint(system.bp)
-    # app.register_blueprint(git.bp)
+    app.register_blueprint(git.bp)
     # app.register_blueprint(priorities.bp)
     # app.register_blueprint(timeline.bp)
     # app.register_blueprint(events.bp)
