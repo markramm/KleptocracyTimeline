@@ -1,0 +1,73 @@
+{{ define "title" }}{{ .Site.Title }} - Home{{ end }}
+
+{{ define "main" }}
+<h1>Welcome to the Kleptocracy Timeline</h1>
+
+<p>{{ .Site.Params.description }}</p>
+
+<style>
+    .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin: 30px 0;
+    }
+    .stat-box {
+        background: #3498db;
+        color: white;
+        padding: 20px;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .stat-number {
+        font-size: 2.5em;
+        font-weight: bold;
+    }
+    .stat-label {
+        font-size: 0.9em;
+        opacity: 0.9;
+    }
+    .cta-button {
+        display: inline-block;
+        background: #2c3e50;
+        color: white;
+        padding: 15px 30px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 1.1em;
+        margin-top: 20px;
+    }
+    .cta-button:hover {
+        background: #34495e;
+    }
+</style>
+
+<div class="stats">
+    <div class="stat-box">
+        <div class="stat-number">{{ len .Site.RegularPages }}</div>
+        <div class="stat-label">Total Events</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-number">{{ len .Site.Taxonomies.tags }}</div>
+        <div class="stat-label">Tags</div>
+    </div>
+    <div class="stat-box">
+        <div class="stat-number">{{ len .Site.Taxonomies.actors }}</div>
+        <div class="stat-label">Actors</div>
+    </div>
+</div>
+
+<a href="/events/" class="cta-button">View Timeline &rarr;</a>
+
+<h2>Recent Events</h2>
+
+<ul style="list-style: none; padding: 0;">
+{{ range first 10 .Site.RegularPages.ByDate.Reverse }}
+    <li style="margin-bottom: 15px; padding: 10px; background: #f8f9fa; border-left: 3px solid #3498db;">
+        <strong>{{ .Date.Format "2006-01-02" }}</strong> -
+        <a href="{{ .Permalink }}" style="color: #2c3e50; text-decoration: none;">{{ .Title }}</a>
+    </li>
+{{ end }}
+</ul>
+
+{{ end }}

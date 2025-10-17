@@ -1,0 +1,79 @@
+{{ define "title" }}Timeline Events - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<h1>Timeline Events</h1>
+
+<style>
+    .event-list { list-style: none; padding: 0; }
+    .event-item {
+        border-left: 3px solid #3498db;
+        padding: 15px 20px;
+        margin-bottom: 20px;
+        background: #f8f9fa;
+    }
+    .event-date {
+        color: #666;
+        font-size: 0.9em;
+        font-weight: bold;
+    }
+    .event-title {
+        font-size: 1.2em;
+        margin: 5px 0;
+    }
+    .event-title a {
+        color: #2c3e50;
+        text-decoration: none;
+    }
+    .event-title a:hover {
+        color: #3498db;
+    }
+    .event-importance {
+        display: inline-block;
+        background: #e74c3c;
+        color: white;
+        padding: 2px 8px;
+        border-radius: 3px;
+        font-size: 0.8em;
+        margin-left: 10px;
+    }
+    .event-tags {
+        margin-top: 10px;
+    }
+    .tag {
+        display: inline-block;
+        background: #ecf0f1;
+        padding: 3px 10px;
+        margin: 2px;
+        border-radius: 3px;
+        font-size: 0.85em;
+        color: #555;
+    }
+</style>
+
+<p>Total events: {{ len .Pages }}</p>
+
+<ul class="event-list">
+{{ range .Pages.ByDate.Reverse }}
+    <li class="event-item">
+        <div class="event-date">{{ .Date.Format "January 2, 2006" }}</div>
+        <div class="event-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            {{ if .Params.importance }}
+            <span class="event-importance">Importance: {{ .Params.importance }}/10</span>
+            {{ end }}
+        </div>
+        <div class="event-summary">
+            {{ .Summary | truncate 200 }}
+        </div>
+        {{ if .Params.tags }}
+        <div class="event-tags">
+            {{ range .Params.tags }}
+            <span class="tag">{{ . }}</span>
+            {{ end }}
+        </div>
+        {{ end }}
+    </li>
+{{ end }}
+</ul>
+
+{{ end }}
