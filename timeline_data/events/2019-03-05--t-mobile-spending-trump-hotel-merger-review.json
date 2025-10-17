@@ -38,12 +38,13 @@
     },
     {
       "date": "2019-03-05",
-      "outlet": "Washington Post",
-      "title": "T-Mobile acknowledges sharp increase in patronage after merger announcement",
-      "url": "https://www.washingtonpost.com/politics/t-mobile-acknowledges-its-patronage-of-trumps-washington-hotel-increased-sharply-after-announcement-of-merger-with-sprint/2019/03/05/d123be66-3ecb-11e9-922c-64d6b7840b82_story.html",
+      "outlet": "ABC News",
+      "title": "T-Mobile spent more at Trump Hotel in Washington after news of Sprint merger",
+      "url": "https://abcnews.go.com/Politics/mobile-spent-trump-hotel-washington-news-sprint-merger/story?id=61484069",
       "archive_url": "",
       "key_facts_confirmed": [
-        "Company letter detailing expenditures and services purchased"
+        "Detailed spending breakdown from T-Mobile executives during merger review",
+        "Spending increase coincided with merger approval process"
       ],
       "verified": true
     }

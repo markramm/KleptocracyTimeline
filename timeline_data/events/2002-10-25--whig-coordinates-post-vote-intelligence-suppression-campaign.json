@@ -19,13 +19,12 @@
       "outlet": "George Washington University National Security Archive",
       "title": "U.S. Intelligence and Iraq WMD: Intelligence Community Documents Show Pressure from Vice President's Office",
       "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB254/index.htm",
-      "type": "academic_archive"
-    },
-    {
-      "outlet": "Wikipedia",
-      "title": "White House Iraq Group",
-      "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-      "type": "reference_overview"
+      "type": "academic_archive",
+      "key_facts_confirmed": [
+        "Detailed documentation of intelligence community pressure",
+        "Comprehensive analysis of White House Iraq Group's role in WMD narrative"
+      ],
+      "verified": true
     }
   ],
   "tags": [

@@ -17,16 +17,17 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "Trump Tariff Exemptions Benefit Politically Connected Firms",
+      "title": "Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion",
       "url": "https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy",
       "outlet": "ProPublica",
-      "date": "2024-10-25"
-    },
-    {
-      "title": "Trump Loves Tariffs, Just Not for the Rich and Well-Connected",
-      "url": "https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected",
-      "outlet": "Public Citizen",
-      "date": "2024-01-01"
+      "date": "2018-11-15",
+      "type": "investigative_journalism",
+      "key_facts_confirmed": [
+        "Politically connected firms received tariff exemptions with low transparency",
+        "Academic research found correlation between political donations and exemption approval",
+        "Detailed investigation of specific exemption cases"
+      ],
+      "verified": true
     }
   ],
   "actors": [
