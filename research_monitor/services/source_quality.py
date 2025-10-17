@@ -178,6 +178,27 @@ class SourceQualityClassifier:
         Returns:
             Tier number: 1 (best), 2 (good), or 3 (questionable/unknown)
         """
+        # PRIORITIZE URL-based classification first (more reliable than names)
+        if url:
+            url_lower = url.lower()
+
+            # Check for government domains (.gov)
+            if '.gov' in url_lower:
+                return 1
+
+            # Check for academic domains (.edu)
+            if '.edu' in url_lower:
+                return 1
+
+            # Check domain lists
+            for domain in cls.TIER_1_DOMAINS:
+                if domain in url_lower:
+                    return 1
+            for domain in cls.TIER_2_DOMAINS:
+                if domain in url_lower:
+                    return 2
+
+        # Fall back to outlet name classification
         if not outlet:
             return 3
 
@@ -188,24 +209,6 @@ class SourceQualityClassifier:
             return 2
         if outlet in cls.TIER_3_OUTLETS:
             return 3
-
-        # Check domain if URL provided
-        if url:
-            url_lower = url.lower()
-            for domain in cls.TIER_1_DOMAINS:
-                if domain in url_lower:
-                    return 1
-            for domain in cls.TIER_2_DOMAINS:
-                if domain in url_lower:
-                    return 2
-
-        # Check for government domains (.gov)
-        if url and '.gov' in url.lower():
-            return 1
-
-        # Check for academic domains (.edu)
-        if url and '.edu' in url.lower():
-            return 1
 
         # Default to tier 3 for unknown
         return 3
@@ -262,7 +265,8 @@ class SourceQualityClassifier:
             if not isinstance(source, dict):
                 continue
 
-            outlet = source.get('outlet', 'Unknown')
+            # Check for outlet field name variations (outlet, publication)
+            outlet = source.get('outlet') or source.get('publication') or 'Unknown'
             url = source.get('url', '')
             tier = cls.classify_outlet(outlet, url)
 

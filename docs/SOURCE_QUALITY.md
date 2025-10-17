@@ -4,6 +4,24 @@
 
 This document defines the source quality classification system for timeline events. The system uses a 3-tier classification to assess source credibility and provides automated quality scoring.
 
+## Classifier Logic (Updated 2025-10-17)
+
+The classifier uses **URL-priority classification** to handle schema variations across events:
+
+1. **URL-based classification** (checked first):
+   - Checks for `.gov` and `.edu` domains → Tier 1
+   - Checks against TIER_1_DOMAINS list (30 domains)
+   - Checks against TIER_2_DOMAINS list (18 domains)
+
+2. **Outlet name classification** (fallback):
+   - Checks `outlet` or `publication` fields
+   - Matches against tier outlet lists
+
+This approach handles three common source formats:
+- ✅ Modern format: `{"outlet": "Reuters", "url": "...", "title": "..."}`
+- ✅ Legacy format: `{"publication": "NPR", "url": "...", "title": "..."}`
+- ✅ Minimal format: `{"url": "https://washingtonpost.com/...", "title": "..."}`
+
 ## Source Quality Tiers
 
 ### Tier 1: High Credibility (Weight: 1.0)
@@ -144,23 +162,23 @@ For high-quality timeline events:
 
 ## Current System Statistics
 
-As of Sprint 3 Task 2 completion:
+As of Sprint 3 Task 2 completion (with URL-priority classification):
 
-- **Total Events**: 1,559
-- **Total Sources**: 5,505
+- **Total Events**: 1,561
+- **Total Sources**: 5,508
 - **Average Sources per Event**: 3.53
-- **Average Quality Score**: 6.58/10
+- **Average Quality Score**: 6.77/10 ✅ (+0.19 improvement)
 
 **Quality Distribution**:
-- Excellent (≥8.0): 34.2% (534 events)
-- Good (6.0-7.9): 34.1% (532 events)
-- Fair (4.0-5.9): 15.0% (234 events)
-- Poor (<4.0): 16.7% (261 events)
+- Excellent (≥8.0): 36.1% (563 events) ✅ +29 events
+- Good (6.0-7.9): 34.8% (544 events) ✅ +12 events
+- Fair (4.0-5.9): 15.7% (245 events)
+- Poor (<4.0): 13.4% (209 events) ✅ -52 events
 
 **Tier Distribution**:
-- Tier 1: 49.1% (2,703 sources)
-- Tier 2: 16.1% (885 sources)
-- Tier 3: 34.9% (1,920 sources)
+- Tier 1: 51.7% (2,846 sources) ✅ **Target met!** (≥50%)
+- Tier 2: 15.7% (866 sources)
+- Tier 3: 32.6% (1,796 sources) ✅ Improved (-2.3%)
 
 ## Improvement Guidelines
 
