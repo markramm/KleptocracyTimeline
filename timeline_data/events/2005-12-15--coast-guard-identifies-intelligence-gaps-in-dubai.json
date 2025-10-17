@@ -8,8 +8,8 @@
     "Dubai Ports World",
     "UAE",
     "9/11 Commission",
-    "Taliban",
-    "George W. Bush Administration"
+    "George W. Bush Administration",
+    "Sen. Susan Collins"
   ],
   "tags": [
     "intelligence-assessment",
@@ -22,22 +22,25 @@
   "location": "Washington, D.C.",
   "sources": [
     {
-      "title": "Coast Guard Noted Intelligence Gaps in Ports Deal",
-      "url": "https://www.npr.org/2006/02/27/5236702/coast-guard-noted-intelligence-gaps-in-ports-deal",
+      "title": "NPR: Coast Guard Noted Intelligence Gaps in Ports Deal",
+      "url": "https://www.npr.org/templates/story/story.php?storyId=5236702",
       "outlet": "NPR",
-      "date": "2006-02-27"
+      "date": "2006-02-27",
+      "type": "news_article"
     },
     {
       "title": "National Security Implications of Dubai Ports World Deal",
       "url": "https://www.govinfo.gov/content/pkg/CHRG-109hhrg32987/html/CHRG-109hhrg32987.htm",
       "outlet": "U.S. Government Publishing Office",
-      "date": "2006-02-15"
+      "date": "2006-02-15",
+      "type": "government_document"
     },
     {
-      "title": "Dubai Ports World Controversy: Port Security Analysis",
-      "url": "https://www.cfr.org/report/dp-world-controversy-and-ongoing-vulnerability-us-seaports-prepared-remarks",
-      "outlet": "Council on Foreign Relations",
-      "date": "2006-03-01"
+      "title": "Wikipedia: Dubai Ports World Controversy",
+      "url": "https://en.wikipedia.org/wiki/Dubai_Ports_World_controversy",
+      "outlet": "Wikipedia",
+      "date_accessed": "2025-10-17",
+      "type": "encyclopedia"
     }
   ],
   "status": "confirmed",

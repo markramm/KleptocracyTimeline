@@ -1,0 +1,32 @@
+{
+    "id": "2001-04-17--kenneth-lay-meets-with-dick-cheney-energy-task-force",
+    "date": "2001-04-17",
+    "title": "Kenneth Lay Meets with Dick Cheney for Energy Task Force Policy Discussion",
+    "summary": "Enron CEO Kenneth Lay met privately with Vice President Dick Cheney to discuss energy policy, presenting a three-page memo with corporate recommendations. The meeting resulted in the Energy Task Force adopting multiple Enron-favorable policies, including opposition to price caps and recommendations for federal transmission line control. This meeting exemplified the extensive corporate influence on the Bush administration's energy policy formulation.",
+    "importance": 9,
+    "tags": [
+        "enron",
+        "energy-policy",
+        "corporate-influence",
+        "dick-cheney",
+        "regulatory-capture"
+    ],
+    "actors": [
+        "Kenneth Lay",
+        "Dick Cheney",
+        "George W. Bush",
+        "Enron Corporation"
+    ],
+    "sources": [
+        {
+            "url": "https://abcnews.go.com/Business/story?id=87452&page=1",
+            "title": "Cheney Reveals Enron Meeting - ABC News",
+            "date_accessed": "2025-10-17"
+        },
+        {
+            "url": "https://www.sourcewatch.org/index.php/Cheney_Energy_Task_Force",
+            "title": "Cheney Energy Task Force - SourceWatch",
+            "date_accessed": "2025-10-17"
+        }
+    ]
+}

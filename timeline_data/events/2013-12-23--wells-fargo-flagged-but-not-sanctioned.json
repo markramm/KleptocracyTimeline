@@ -1,0 +1,32 @@
+{
+    "id": "2013-12-23--wells-fargo-flagged-but-not-sanctioned",
+    "date": "2013-12-23",
+    "title": "Wells Fargo Sales Practices Investigation Begins",
+    "summary": "The Los Angeles Times investigates Wells Fargo's aggressive sales practices, revealing systematic pressures on employees to create unauthorized accounts. The investigation exposes a corporate culture that incentivized fraud, with employees opening fake accounts to meet impossible sales quotas. While initially flagged, Wells Fargo was not immediately sanctioned, allowing problematic practices to continue for several more years.",
+    "importance": 8,
+    "tags": [
+        "corporate-fraud",
+        "banking-regulation",
+        "regulatory-capture",
+        "wells-fargo"
+    ],
+    "actors": [
+        "Wells Fargo Board",
+        "John Stumpf",
+        "Scott Reckard (LA Times Reporter)"
+    ],
+    "sources": [
+        {
+            "url": "https://www.govinfo.gov/content/pkg/CHRG-114shrg23001/html/CHRG-114shrg23001.htm",
+            "title": "Congressional Hearing Transcript: Wells Fargo Sales Practices",
+            "date_accessed": "2025-10-17",
+            "type": "government_document"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Wells_Fargo_cross-selling_scandal",
+            "title": "Wells Fargo Cross-Selling Scandal - Wikipedia",
+            "date_accessed": "2025-10-17",
+            "type": "encyclopedia"
+        }
+    ]
+}

@@ -1,36 +1,13 @@
 {
-  "id": "2024-03-22--grok-ai-regulatory-investigation",
-  "date": "2024-03-22",
-  "title": "xAI Announces Open Source Release of Grok AI",
-  "summary": "xAI, founded by Elon Musk, announced plans to open source its Grok AI chatbot in March 2024. This followed ongoing legal disputes with OpenAI and amid broader industry discussions about AI transparency and development practices.",
-  "importance": 6,
-  "actors": [
-    "Elon Musk",
-    "xAI",
-    "Grok AI"
-  ],
-  "sources": [
-    {
-      "outlet": "TechCrunch",
-      "title": "Elon Musk to open-source AI chatbot Grok this week",
-      "url": "https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/",
-      "date": "2024-03-11"
-    },
-    {
-      "outlet": "Fortune",
-      "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
-      "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
-      "date": "2025-07-17"
-    }
-  ],
-  "tags": [
-    "ai-development",
-    "open-source-technology",
-    "tech-industry-transparency"
-  ],
-  "capture_lanes": [
-    "Technological Capture",
-    "Innovation Infrastructure"
-  ],
-  "status": "confirmed"
+    "id": "2024-03-22--grok-ai-regulatory-investigation",
+    "date": "2024-03-22",
+    "title": "Irish Data Protection Commission Launches Grok AI Regulatory Investigation",
+    "summary": "The Irish Data Protection Commission (DPC) initiated legal proceedings against X (Twitter) on 6 August 2024 regarding the use of EU users' personal data to train the Grok AI without proper consent. X was ordered to suspend processing of personal data collected between May and August 2024. By 4 September 2024, X agreed to delete and stop using EU users' data for Grok training, though they were not required to delete existing AI models. The case was referred to the European Data Protection Board (EDPB) for further review, highlighting legal uncertainties surrounding AI model training and personal data usage.",
+    "importance": 8,
+    "tags": ["ai-regulation", "data-privacy", "gdpr", "tech-ethics", "artificial-intelligence"],
+    "actors": ["Elon Musk", "Irish Data Protection Commission", "X Corporation"],
+    "sources": [
+        "https://www.rpclegal.com/snapshots/data-protection/autumn-2024/x-suspends-training-of-ai-chatbot-grok-following-irish-dpc-pressure/",
+        "https://complydog.com/blog/grok-gdpr-investigation"
+    ]
 }

@@ -1,29 +1,39 @@
 {
   "id": "2013-06-05--roger-stone-russian-intelligence-network-surveillance-expansion",
   "date": "2013-06-05",
-  "title": "Surveillance Program Expansion: Roger Stone Russian Intelligence Network: From Lobbying to Operations Timeline",
-  "summary": "Classified documents reveal massive expansion of surveillance capabilities related to Roger Stone Russian Intelligence Network: From Lobbying to Operations Timeline. Constitutional violations institutionalized through secret interpretations of law and classified program authorities.",
-  "importance": 8,
-  "actors": [
-    "NSA Officials",
-    "FISA Court",
-    "Intelligence Contractors"
-  ],
+  "title": "Research Required: Roger Stone Russian Intelligence Network Surveillance Claims",
+  "summary": "PENDING VERIFICATION: This event requires comprehensive research to substantiate claims about Roger Stone's Russian Intelligence Network activities in 2013. Current sources do not support the original narrative. Requires additional investigation to confirm specific claims about surveillance and intelligence operations.",
+  "importance": 3,
+  "actors": [],
   "sources": [
     {
-      "title": "Surveillance State Documents",
-      "url": "https://www.eff.org/nsa-spying",
-      "outlet": "Electronic Frontier Foundation"
+      "title": "Mass Surveillance in America: A Timeline",
+      "url": "https://projects.propublica.org/graphics/surveillance-timeline",
+      "outlet": "ProPublica",
+      "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "NPR Roger Stone Timeline",
+      "url": "https://www.npr.org/2019/01/26/688834291/roger-stone-indictment-raises-more-big-questions-about-russia-trump-2016-campaig",
+      "outlet": "NPR",
+      "date_accessed": "2025-10-17",
+      "description": "No verification of 2013 Russian intelligence network activities"
     }
   ],
   "tags": [
-    "surveillance-state",
-    "constitutional-violation",
-    "intelligence-community"
+    "research-required",
+    "pending-verification",
+    "intelligence-network"
   ],
-  "status": "confirmed",
-  "capture_lanes": [
-    "Regulatory Capture",
-    "Intelligence Penetration"
-  ]
+  "status": "needs_work",
+  "capture_lanes": [],
+  "validation_metadata": {
+    "last_reviewed": "2025-10-17",
+    "review_notes": "Original event claims could not be verified with authoritative sources. Requires comprehensive fact-finding and additional research.",
+    "next_steps": [
+      "Request original source documentation",
+      "Conduct comprehensive source verification",
+      "Confirm specific claims about surveillance and Russian intelligence network"
+    ]
+  }
 }

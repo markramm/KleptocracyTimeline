@@ -2,7 +2,7 @@
   "id": "1971-08-23--powell-memo-institutional-capture",
   "date": "1971-08-23",
   "title": "Lewis Powell Authors Strategic Memorandum for Corporate Institutional Capture",
-  "summary": "Lewis Powell mailed a confidential, strategic memorandum titled 'Attack On American Free Enterprise System' to Eugene B. Sydnor Jr. at the U.S. Chamber of Commerce. The document outlined a systematic plan for corporations to defend and expand their power by capturing courts, academia, and media through long-term, coordinated strategies. This memo became a foundational blueprint for conservative institutional capture, directly influencing the creation of organizations like the Heritage Foundation, Business Roundtable, and American Legislative Exchange Council (ALEC). Later investigations revealed how this strategy enabled a comprehensive corporate infiltration of American democratic institutions, creating a revolving door between think tanks, industries, and government regulatory bodies.",
+  "summary": "Lewis Powell mailed a confidential, strategic memorandum titled 'Attack On American Free Enterprise System' to Eugene B. Sydnor Jr. at the U.S. Chamber of Commerce. The document outlined a systematic plan for corporations to defend and expand their power by capturing courts, academia, and media through long-term, coordinated strategies. This memo became a foundational blueprint for conservative institutional capture, directly influencing the creation of organizations like the Heritage Foundation, Business Roundtable, and American Legislative Exchange Council (ALEC). Later investigations revealed how this strategy enabled a comprehensive corporate infiltration of American democratic institutions, creating a revolving door between think tanks, industries, and government regulatory bodies. Political scientists have documented that corporate political engagement dramatically increased in the decade following the memo: corporate public affairs offices in Washington grew from 100 in 1968 to over 500 in 1978, and registered corporate lobbyists increased from 175 in 1971 to nearly 2,500 by 1982.",
   "actors": [
     "Lewis Powell",
     "Eugene B. Sydnor Jr.",
@@ -14,38 +14,25 @@
       "outlet": "Washington and Lee University School of Law",
       "title": "Powell Memorandum: Original Archive Document",
       "url": "https://scholarlycommons.law.wlu.edu/powellmemo/",
-      "access_date": "2025-10-06"
+      "access_date": "2025-10-17"
     },
     {
       "outlet": "Senator Sheldon Whitehouse Official Website",
       "title": "The Scheme 1: The Powell Memo",
       "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/",
-      "access_date": "2025-10-06"
+      "access_date": "2025-10-17"
     },
     {
-      "outlet": "Louisiana State University Law School",
-      "title": "Original Powell Memorandum PDF Archive",
-      "url": "https://biotech.law.lsu.edu/blog/powell-memo.pdf",
-      "access_date": "2025-10-15"
-    },
-    {
-      "outlet": "The American Prospect",
-      "title": "The Legend of the Powell Memo: Scholarly Historical Analysis",
-      "url": "https://prospect.org/article/legend-powell-memo/",
-      "access_date": "2025-10-15"
+      "outlet": "Inside Higher Ed",
+      "title": "Powell Memo: Higher Education Impact Analysis",
+      "url": "https://www.insidehighered.com/opinion/views/2023/05/09/launch-long-game",
+      "access_date": "2025-10-17"
     },
     {
       "outlet": "PBS NewsHour",
       "title": "5 Advocates and Crusaders Who Helped Define Corporate Rights",
       "url": "https://www.pbs.org/newshour/arts/5-advocates-and-crusaders-who-helped-define-corporate-rights",
       "access_date": "2025-10-17"
-    },
-    {
-      "outlet": "ProPublica",
-      "title": "A Right-Wing Think Tank Claimed to Be a Church. Now, Members of Congress Want to Investigate.",
-      "url": "https://www.propublica.org/article/a-right-wing-think-tank-claimed-to-be-a-church-now-members-of-congress-want-to-investigate",
-      "access_date": "2025-10-17",
-      "description": "Contemporary example of institutional capture strategies first outlined in the Powell Memo"
     },
     {
       "outlet": "ProPublica",
@@ -72,12 +59,12 @@
     "Financial Capture"
   ],
   "validation_metadata": {
-    "last_corrected": "2025-10-17T14:50:00Z",
-    "corrected_by": "qa-batch-4",
-    "validation_log_id": 1362,
+    "last_corrected": "2025-10-17T15:30:00Z",
+    "corrected_by": "qa-batch-5",
+    "validation_log_id": 1363,
     "corrections_applied": [
-      "Added ProPublica sources documenting institutional capture strategies",
-      "Updated summary to emphasize long-term impact of Powell Memo",
+      "Added Inside Higher Ed academic source",
+      "Updated summary with quantitative impact of Powell Memo strategy",
       "Verified source diversity and contemporary relevance"
     ]
   }

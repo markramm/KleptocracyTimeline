@@ -1,0 +1,34 @@
+{
+    "id": "1989-04-14--keating-five-investigation-opens",
+    "date": "1989-04-14",
+    "title": "Senate Ethics Committee Opens Keating Five Investigation",
+    "summary": "The Senate Ethics Committee launched an investigation into five senators (McCain, Glenn, Cranston, Riegle, and DeConcini) for their improper intervention with federal regulators on behalf of Charles Keating's Lincoln Savings and Loan Association. The investigation was initiated after Keating's $1.3 million in political contributions raised significant ethical concerns.",
+    "importance": 9,
+    "tags": [
+        "political-corruption",
+        "banking-scandal",
+        "senate-ethics",
+        "campaign-finance",
+        "regulatory-capture"
+    ],
+    "actors": [
+        "John McCain",
+        "John Glenn",
+        "Alan Cranston",
+        "Donald Riegle",
+        "Dennis DeConcini",
+        "Charles Keating"
+    ],
+    "sources": [
+        {
+            "title": "TIME Magazine - The Keating Five",
+            "date": "1991",
+            "url": "https://time.com/archive/6904639/the-keating-five/"
+        },
+        {
+            "title": "Factual America - Keating Five Scandal",
+            "date": "2023",
+            "url": "https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption"
+        }
+    ]
+}
