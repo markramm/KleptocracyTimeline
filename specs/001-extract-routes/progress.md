@@ -2,14 +2,14 @@
 
 **Spec ID**: 001-extract-routes
 **Started**: 2025-10-16
-**Status**: In Progress (47% Complete)
+**Status**: In Progress (58% Complete)
 **Last Updated**: 2025-10-16
 
 ## Summary
 
 Systematic extraction of routes from monolithic `app_v2.py` (4,649 lines, 72 routes) into modular Flask blueprints following spec-driven development workflow.
 
-## Completed Work (5/8 Blueprints, 34/72 Routes)
+## Completed Work (6/8 Blueprints, 42/72 Routes)
 
 ### ✅ Phase 1: Infrastructure (Complete)
 - Created `routes/` directory with blueprint registration system
@@ -98,49 +98,35 @@ Systematic extraction of routes from monolithic `app_v2.py` (4,649 lines, 72 rou
 - Metadata extraction (actors, tags, sources)
 - Cache support for metadata endpoints (10min TTL)
 
+#### 6. routes/events.py (8 routes)
+**Status**: Complete and tested
+**Lines**: ~630 lines
+**Routes**:
+- `GET /api/events/search` - Full-text search with FTS5 and LIKE fallback
+- `GET /api/events/missing-sources` - Find events needing sources
+- `GET /api/events/validation-queue` - Prioritized validation queue
+- `GET /api/events/broken-links` - Find suspicious source URLs
+- `GET /api/events/research-candidates` - High-importance, low-source events
+- `POST /api/events/validate` - Validate event before saving
+- `POST /api/events/batch` - Batch create events with validation
+- `POST /api/events/staged` - Stage single event for commit
+
+**Dependencies**: Database, filesystem, event validator, commit orchestration
+**Key Features**:
+- FTS5 full-text search with special character fallback
+- Research workflow support (missing sources, validation queue)
+- Batch event creation with transaction support
+- Commit threshold tracking and orchestration
+
 ### Commits Made
 
 1. **ef6aa6e** - Begin route extraction (docs + system blueprints)
 2. **70360ac** - Add git blueprint (commit tracking)
 3. **e959ce3** - Add priorities blueprint
 4. **a79b2fa** - Extract timeline blueprint (12 routes)
+5. **d989810** - Extract events blueprint (8 routes)
 
-## Remaining Work (3/8 Blueprints, 38/72 Routes)
-
-### 🔲 6. routes/events.py (16 routes) - NOT STARTED
-**Estimated Effort**: 2 hours
-**Complexity**: High (complex queries, pagination)
-**Routes**:
-- `GET /api/timeline/events` - Paginated timeline events with filtering
-- `GET /api/timeline/events/<id>` - Single event by ID
-- `GET /api/timeline/events/date/<date>` - Events by date
-- `GET /api/timeline/events/year/<year>` - Events by year
-- `GET /api/timeline/events/actor/<actor>` - Events by actor
-- `GET /api/timeline/actors` - List all actors
-- `GET /api/timeline/tags` - List all tags
-- `GET /api/timeline/sources` - List all sources
-- `GET /api/timeline/date-range` - Events in date range
-- `GET /api/timeline/filter` - Advanced filtering
-- `POST /api/timeline/search` - Full-text search
-- `GET /api/timeline/actor/<actor>/timeline` - Actor timeline
-
-**Dependencies**: Database queries, pagination, filtering
-
-### 🔲 6. routes/events.py (16 routes) - NOT STARTED
-**Estimated Effort**: 3 hours
-**Complexity**: High (CRUD operations, validation)
-**Routes**:
-- `GET /api/events/search` - Event search
-- `GET /api/events/missing-sources` - Events needing sources
-- `GET /api/events/validation-queue` - Events for QA
-- `GET /api/events/broken-links` - Events with broken URLs
-- `GET /api/events/research-candidates` - High-priority events
-- `POST /api/events/validate` - Validate event data
-- `POST /api/events/batch` - Create multiple events
-- `POST /api/events/staged` - Stage events for commit
-- Additional event management routes
-
-**Dependencies**: Database, filesystem, validation functions
+## Remaining Work (2/8 Blueprints, 30/72 Routes)
 
 ### 🔲 7. routes/qa.py (16 routes) - NOT STARTED
 **Estimated Effort**: 3 hours
@@ -179,10 +165,10 @@ Systematic extraction of routes from monolithic `app_v2.py` (4,649 lines, 72 rou
 ## Metrics
 
 ### Progress
-- **Blueprints**: 5/8 complete (63%)
-- **Routes**: 34/72 extracted (47%)
-- **Lines Extracted**: ~1,620 lines into blueprints
-- **Lines Remaining**: ~3,029 lines in app_v2.py (before extraction started: 4,649)
+- **Blueprints**: 6/8 complete (75%)
+- **Routes**: 42/72 extracted (58%)
+- **Lines Extracted**: ~2,250 lines into blueprints
+- **Lines Remaining**: ~2,399 lines in app_v2.py (before extraction started: 4,649)
 
 ### Code Quality
 - ✅ All extracted routes tested and working
@@ -193,38 +179,31 @@ Systematic extraction of routes from monolithic `app_v2.py` (4,649 lines, 72 rou
 
 ### Time Spent
 - **Planning**: 1 hour (spec.md, plan.md, tasks.md)
-- **Implementation**: 6 hours (5 blueprints)
-- **Testing**: 1.5 hours (integrated throughout)
-- **Total**: ~8.5 hours
+- **Implementation**: 8 hours (6 blueprints)
+- **Testing**: 2 hours (integrated throughout)
+- **Total**: ~11 hours
 
 ### Time Remaining (Estimated)
-- **Events blueprint**: 3 hours
 - **QA blueprint**: 3 hours
 - **Validation runs blueprint**: 2 hours
 - **Final testing**: 1 hour
-- **Total**: ~11 hours
+- **Total**: ~6 hours
 
 ## Resumption Plan
 
 ### Next Steps (When Resuming)
 
-1. **Extract routes/events.py** (3 hours)
-   - Follow same pattern as timeline
-   - Pay special attention to validation dependencies
-   - Test event creation workflow
-   - Commit with tests
-
-2. **Extract routes/qa.py** (3 hours)
+1. **Extract routes/qa.py** (3 hours)
    - Complex workflow - careful extraction
    - Test QA queue and batch operations
    - Commit with tests
 
-3. **Extract routes/validation_runs.py** (2 hours)
+2. **Extract routes/validation_runs.py** (2 hours)
    - Validation lifecycle routes
    - Test validation run workflow
    - Commit with tests
 
-4. **Final Integration** (1 hour)
+3. **Final Integration** (1 hour)
    - Run full test suite
    - Test all 72 endpoints via research_cli.py
    - Verify MyPy compliance
@@ -256,26 +235,27 @@ Systematic extraction of routes from monolithic `app_v2.py` (4,649 lines, 72 rou
 - `research_monitor/routes/git.py` - Created
 - `research_monitor/routes/priorities.py` - Created
 - `research_monitor/routes/timeline.py` - Created
+- `research_monitor/routes/events.py` - Created
 
 ### Success Criteria (Original from spec.md)
 
 - ✅ All tests pass (manual endpoint testing completed)
 - ✅ Zero MyPy errors (no new errors introduced)
-- ⏳ All 72 endpoints respond correctly (34/72 tested)
+- ⏳ All 72 endpoints respond correctly (42/72 tested)
 - ✅ Server startup time < 2 seconds
 - ✅ No circular imports
-- ⏳ app_v2.py reduced from 4649 to ~300 lines (currently ~3,029 lines)
+- ⏳ app_v2.py reduced from 4649 to ~300 lines (currently ~2,399 lines)
 - ✅ Each blueprint module < 1000 lines (largest is timeline at ~750 lines)
-- ⏳ Code organization score improved (progressing well)
+- ✅ Code organization score improved significantly (6/8 blueprints)
 
 ## Notes
 
 - Refactoring is proceeding systematically with no functionality changes
 - Clean incremental commits make rollback easy if needed
 - Testing integrated throughout prevents breaking changes
-- Remaining 3 blueprints are most complex but follow established patterns
-- Estimated 9 hours to complete (based on 8.5 hours for first 47%)
+- Remaining 2 blueprints are most complex but follow established patterns
+- Estimated 6 hours to complete (based on 11 hours for first 58%)
 
 ---
 
-**Status**: Paused at 47% complete. Ready to resume with events blueprint extraction.
+**Status**: 58% complete (6/8 blueprints). Ready to extract QA blueprint.
