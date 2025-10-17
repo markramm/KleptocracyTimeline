@@ -37,6 +37,7 @@ from models import (
 )
 from validation_calculator import ValidationRunCalculator
 from event_validator import EventValidator as TimelineEventValidator
+from parsers.factory import EventParserFactory
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -234,45 +235,57 @@ class FilesystemSyncer:
         try:
             synced = 0
             events_path = app.config.get('EVENTS_PATH')
-            for json_file in events_path.glob('*.json'):
+            parser_factory = EventParserFactory()
+
+            # Sync both .json and .md files (but skip README and other non-event markdown files)
+            md_files = [f for f in events_path.glob('*.md') if f.name.upper() != 'README.MD']
+            for event_file in list(events_path.glob('*.json')) + md_files:
                 try:
                     # Calculate file hash
-                    with open(json_file, 'rb') as f:
+                    with open(event_file, 'rb') as f:
                         file_content = f.read()
                         file_hash = hashlib.md5(file_content).hexdigest()
-                    
-                    # Check if needs update
-                    event_id = json_file.stem
+
+                    # Extract event ID from filename (without extension)
+                    event_id = event_file.stem
                     existing = db.query(TimelineEvent).filter_by(id=event_id).first()
-                    
+
                     if not existing or existing.file_hash != file_hash:
-                        # Parse JSON
-                        data = json.loads(file_content)
-                        
+                        # Parse event using appropriate parser
+                        try:
+                            data = parser_factory.parse_event(event_file)
+                        except ValueError as parse_error:
+                            logger.error(f"Parse error for {event_file}: {parse_error}")
+                            continue
+
                         # Create or update event (filesystem is authoritative)
                         if not existing:
                             event = TimelineEvent(id=event_id)
                         else:
                             event = existing
-                        
+
                         event.json_content = data
                         event.date = data.get('date', '')
                         event.title = data.get('title', '')
                         event.summary = data.get('summary', '')
                         event.importance = data.get('importance', 5)
                         event.status = data.get('status', 'confirmed')
-                        event.file_path = str(json_file)
+                        event.file_path = str(event_file)
                         event.file_hash = file_hash
                         event.last_synced = datetime.now()
-                        
+
                         if not existing:
                             db.add(event)
-                        
+
                         synced += 1
-                
+
+                        # Log which format was parsed
+                        format_type = event_file.suffix[1:]  # Remove leading dot
+                        logger.debug(f"Synced {event_id} from {format_type} format")
+
                 except Exception as e:
-                    logger.error(f"Error syncing {json_file}: {e}")
-            
+                    logger.error(f"Error syncing {event_file}: {e}")
+
             db.commit()
             if synced > 0:
                 logger.info(f"Synced {synced} events from filesystem")

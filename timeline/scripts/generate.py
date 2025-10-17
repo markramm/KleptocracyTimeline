@@ -194,23 +194,31 @@ class TimelineGenerator:
     def _extract_tags(self) -> List[Dict[str, Any]]:
         """Extract and count all tags."""
         tag_counter = Counter()
-        
+
         for event in self.events:
             if 'tags' in event and isinstance(event['tags'], list):
                 for tag in event['tags']:
-                    tag_counter[tag] += 1
-        
+                    # Only count string tags (skip dicts or other non-hashable types)
+                    if isinstance(tag, str):
+                        tag_counter[tag] += 1
+                    else:
+                        self.logger.warning(f"Skipping non-string tag in {event.get('id', 'unknown')}: {type(tag)}")
+
         return [{'name': tag, 'count': count} for tag, count in tag_counter.most_common()]
-    
+
     def _extract_actors(self) -> List[Dict[str, Any]]:
         """Extract and count all actors."""
         actor_counter = Counter()
-        
+
         for event in self.events:
             if 'actors' in event and isinstance(event['actors'], list):
                 for actor in event['actors']:
-                    actor_counter[actor] += 1
-        
+                    # Only count string actors (skip dicts or other non-hashable types)
+                    if isinstance(actor, str):
+                        actor_counter[actor] += 1
+                    else:
+                        self.logger.warning(f"Skipping non-string actor in {event.get('id', 'unknown')}: {type(actor)}")
+
         return [{'name': actor, 'count': count} for actor, count in actor_counter.most_common()]
     
     def _calculate_stats(self) -> Dict[str, Any]:

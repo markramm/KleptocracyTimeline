@@ -8,6 +8,15 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Union
 import sys
 
+# Import parser factory from research-server
+sys.path.insert(0, str(Path(__file__).parent.parent.parent.parent / 'research-server' / 'server'))
+try:
+    from parsers.factory import EventParserFactory
+    _parser_factory = EventParserFactory()
+except ImportError:
+    _parser_factory = None
+    print("Warning: Could not import EventParserFactory. JSON/Markdown parsing may be limited.", file=sys.stderr)
+
 
 def load_yaml_file(filepath: Union[str, Path]) -> Dict[str, Any]:
     """
@@ -89,11 +98,13 @@ def save_json_file(filepath: Union[str, Path], data: Dict[str, Any], indent: int
 
 def get_event_files(events_dir: Union[str, Path] = "timeline_data/events") -> List[Path]:
     """
-    Get all event YAML files from the events directory.
-    
+    Get all event files from the events directory.
+
+    Supports multiple formats: JSON (.json), Markdown (.md), and YAML (.yaml, .yml).
+
     Args:
         events_dir: Path to the events directory
-        
+
     Returns:
         List of Path objects for each event file
     """
@@ -101,32 +112,51 @@ def get_event_files(events_dir: Union[str, Path] = "timeline_data/events") -> Li
     if not events_dir.exists():
         print(f"Warning: Events directory not found: {events_dir}", file=sys.stderr)
         return []
-    
-    # Get both .yaml and .yml files, excluding hidden files
-    yaml_files = []
-    for pattern in ['*.yaml', '*.yml']:
-        yaml_files.extend([f for f in events_dir.glob(pattern) if not f.name.startswith('.')])
-    
-    return sorted(yaml_files)
+
+    # Get event files in all supported formats, excluding hidden files and README
+    event_files = []
+    for pattern in ['*.json', '*.md', '*.yaml', '*.yml']:
+        files = [
+            f for f in events_dir.glob(pattern)
+            if not f.name.startswith('.') and f.name.upper() != 'README.MD'
+        ]
+        event_files.extend(files)
+
+    return sorted(event_files)
 
 
 def load_event(filepath: Union[str, Path]) -> Optional[Dict[str, Any]]:
     """
     Load a single event file with error handling.
-    
+
+    Supports JSON, Markdown, and YAML formats using the parser factory.
+
     Args:
         filepath: Path to the event file
-        
+
     Returns:
         Dictionary containing event data, or None if loading fails
     """
+    filepath = Path(filepath)
+
     try:
-        data = load_yaml_file(filepath)
+        # Try using parser factory for JSON and Markdown files
+        if _parser_factory and filepath.suffix.lower() in ['.json', '.md']:
+            data = _parser_factory.parse_event(filepath)
+        # Fall back to YAML for .yaml/.yml files
+        elif filepath.suffix.lower() in ['.yaml', '.yml']:
+            data = load_yaml_file(filepath)
+        else:
+            print(f"Unsupported file format: {filepath.suffix}", file=sys.stderr)
+            return None
+
         # Add metadata
-        data['_file'] = Path(filepath).name
+        data['_file'] = filepath.name
+
         # Convert date objects to strings for consistency
         if 'date' in data and hasattr(data['date'], 'isoformat'):
             data['date'] = data['date'].isoformat()
+
         return data
     except Exception as e:
         print(f"Error loading {filepath}: {e}", file=sys.stderr)
