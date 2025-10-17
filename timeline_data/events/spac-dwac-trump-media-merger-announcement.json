@@ -24,12 +24,22 @@
   "sources": [
     {
       "url": "https://www.sec.gov/newsroom/press-releases/2023-135",
-      "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors"
+      "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors",
+      "outlet": "SEC"
     },
     {
-      "url": "https://www.washingtonpost.com/technology/2024/02/03/trump-social-dwac-investigation/",
-      "title": "The wild probe into investors of DWAC, Trump Media's proposed merger ally"
+      "url": "https://www.npr.org/2021/12/06/1061821936/trump-social-media-spac-truth-social",
+      "title": "Trump's social media deal is being investigated by regulators",
+      "outlet": "NPR",
+      "date": "2021-12-06"
+    },
+    {
+      "url": "https://www.npr.org/2024/03/25/1240724446/truth-social-trump-media-technology-group-trading-bond",
+      "title": "Trump's social media app Truth Social will start trading on Tuesday",
+      "outlet": "NPR",
+      "date": "2024-03-25"
     }
   ],
-  "status": "confirmed"
+  "status": "confirmed",
+  "notes": "Demonstrates systematic exploitation of SPAC regulatory environment. Shareholders approved merger despite ongoing SEC investigations, with Trump set to own majority of the new company."
 }

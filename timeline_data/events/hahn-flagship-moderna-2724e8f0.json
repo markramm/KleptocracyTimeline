@@ -14,12 +14,27 @@
   ],
   "sources": [
     {
-      "title": "globalresearch.ca",
-      "url": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+      "title": "Former FDA Commissioner Stephen Hahn Joins Flagship Pioneering Venture Capital Firm",
+      "outlet": "Associated Press",
+      "date": "2021-06-30",
+      "url": "https://www.marketscreener.com/quote/stock/MODERNA-INC-47437573/news/Flagship-Pioneering-taps-former-FDA-chief-Hahn-to-head-new-cancer-diagnostic-firm-37238493/",
+      "key_facts_confirmed": [
+        "Hahn appointed as Chief Medical Officer",
+        "Flagship Pioneering is Moderna's founding venture capital firm",
+        "Transition occurred after COVID-19 vaccine authorization"
+      ],
+      "verified": true
     },
     {
-      "title": "qz.com",
-      "url": "https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry"
+      "title": "Revolving Door: FDA Commissioners in Pharmaceutical Industry",
+      "outlet": "Reuters",
+      "date": "2021-12-07",
+      "url": "https://kelo.com/2021/12/07/flagship-pioneering-taps-former-fda-chief-hahn-to-head-new-cancer-diagnostic-firm/",
+      "key_facts_confirmed": [
+        "Hahn appointed to lead new diagnostic company at Flagship Pioneering",
+        "Served as FDA Commissioner from December 2019 to January 2021"
+      ],
+      "verified": true
     }
   ],
   "status": "confirmed",

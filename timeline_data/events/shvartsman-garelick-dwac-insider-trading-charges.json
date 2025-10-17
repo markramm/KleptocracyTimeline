@@ -24,11 +24,21 @@
   "sources": [
     {
       "url": "https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10",
-      "title": "U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals"
+      "title": "U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals",
+      "outlet": "Department of Justice",
+      "date": "2023-06-29"
     },
     {
       "url": "https://www.sec.gov/newsroom/press-releases/2023-121",
-      "title": "SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC Securities"
+      "title": "SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC Securities",
+      "outlet": "SEC",
+      "date": "2023-06-29"
+    },
+    {
+      "url": "https://www.cnbc.com/2024/04/03/brothers-plead-guilty-to-trump-media-merger-insider-trading.html",
+      "title": "Shvartsman Brothers Plead Guilty to Trump Media Merger Insider Trading",
+      "outlet": "CNBC",
+      "date": "2024-04-03"
     }
   ],
   "status": "confirmed"

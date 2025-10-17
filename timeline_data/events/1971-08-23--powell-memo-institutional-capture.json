@@ -33,6 +33,12 @@
       "title": "The Legend of the Powell Memo: Scholarly Historical Analysis",
       "url": "https://prospect.org/article/legend-powell-memo/",
       "access_date": "2025-10-15"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "title": "5 Advocates and Crusaders Who Helped Define Corporate Rights",
+      "url": "https://www.pbs.org/newshour/arts/5-advocates-and-crusaders-who-helped-define-corporate-rights",
+      "access_date": "2025-10-17"
     }
   ],
   "importance": 9,
@@ -58,7 +64,8 @@
     "corrections_applied": [
       "Added authoritative law school archive sources",
       "Expanded historical context from scholarly analysis",
-      "Verified source diversity and academic credibility"
+      "Verified source diversity and academic credibility",
+      "Added PBS NewsHour source discussing corporate rights expansion"
     ]
   }
 }

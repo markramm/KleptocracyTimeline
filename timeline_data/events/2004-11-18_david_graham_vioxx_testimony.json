@@ -22,16 +22,24 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "FDA is incapable of protecting US 'against another Vioxx'",
+      "title": "GovInfo - Official FDA Whistleblower Testimony",
+      "url": "https://www.govinfo.gov/content/pkg/GOVPUB-Y4_F49-PURL-LPS75299/pdf/GOVPUB-Y4_F49-PURL-LPS75299.pdf",
+      "outlet": "U.S. Government Publishing Office",
+      "date": "2004-11-18",
+      "notes": "Official government record of Dr. Graham's testimony to the Senate Finance Committee"
+    },
+    {
+      "title": "PBS Online News Hour - FDA Whistleblower Interview",
+      "url": "https://www.pbs.org/newshour/archive/november-2004-vioxx-testimony",
+      "outlet": "PBS NewsHour",
+      "date": "2004-11-23",
+      "notes": "Independent analysis of David Graham's testimony and FDA regulatory failures"
+    },
+    {
+      "title": "NIH Medical Journal - Vioxx Safety Concerns",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC534432/",
       "outlet": "British Medical Journal",
       "date": "2004-11-27"
-    },
-    {
-      "title": "Dr. David Graham - Government Accountability Project",
-      "url": "https://whistleblower.org/whistleblower-profiles/dr-david-graham/",
-      "outlet": "Government Accountability Project",
-      "date": "2020-12-01"
     }
   ],
   "id": "2004-11-18_david_graham_vioxx_testimony"

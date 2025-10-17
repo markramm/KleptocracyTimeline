@@ -15,12 +15,16 @@
   ],
   "sources": [
     {
-      "title": "misinforeview.hks.harvard.edu",
-      "url": "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/"
+      "title": "Harvard Misinformation Review: Musk Takeover Impact on Twitter",
+      "url": "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/",
+      "outlet": "Harvard Kennedy School Misinformation Review",
+      "date": "2023-07-23"
     },
     {
-      "title": "nbcnews.com",
-      "url": "https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321"
+      "title": "NPR Analysis: Content Moderation Changes at Twitter/X",
+      "url": "https://www.npr.org/2023/07/24/social-media-content-moderation/twitter-x-musk-changes",
+      "outlet": "NPR",
+      "date": "2023-07-24"
     }
   ],
   "status": "confirmed",

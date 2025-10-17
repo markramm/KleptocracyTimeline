@@ -24,16 +24,24 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "Net Neutrality Rules: FCC Votes To Repeal Restrictions On Internet Providers",
+      "title": "FCC Government Document - Net Neutrality Repeal Official Statement",
+      "url": "https://docs.fcc.gov/public/attachments/FCC-17-166A2.pdf",
+      "outlet": "Federal Communications Commission",
+      "date": "2017-12-14",
+      "notes": "Official FCC document detailing the net neutrality repeal decision"
+    },
+    {
+      "title": "PBS News - Net Neutrality Rules Repeal Analysis",
+      "url": "https://www.pbs.org/newshour/politics/fcc-repeals-net-neutrality-rules-designed-to-provide-equal-access-to-internet",
+      "outlet": "PBS NewsHour",
+      "date": "2017-12-14",
+      "notes": "Independent analysis of FCC's net neutrality repeal decision"
+    },
+    {
+      "title": "NPR - Net Neutrality Rules Repeal Coverage",
       "url": "https://www.npr.org/sections/thetwo-way/2017/12/14/570526390/fcc-repeals-net-neutrality-rules-for-internet-providers",
       "outlet": "NPR",
       "date": "2017-12-14"
-    },
-    {
-      "title": "Trump taps net neutrality critic to lead the FCC",
-      "url": "https://www.washingtonpost.com/news/the-switch/wp/2017/01/23/meet-donald-trumps-official-new-fcc-chairman-ajit-pai/",
-      "outlet": "Washington Post",
-      "date": "2017-01-23"
     }
   ],
   "id": "2017-12-14--fcc-repeals-net-neutrality-ajit-pai-verizon"

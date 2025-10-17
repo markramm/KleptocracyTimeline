@@ -25,16 +25,25 @@
   "status": "confirmed",
   "sources": [
     {
-      "title": "Bush v. Gore",
-      "url": "https://en.wikipedia.org/wiki/Bush_v._Gore",
-      "outlet": "Wikipedia",
-      "date": "2000-12-12"
+      "title": "Library of Congress - Official U.S. Supreme Court Report Bush v. Gore",
+      "url": "https://www.loc.gov/item/usrep531098/",
+      "outlet": "U.S. Library of Congress",
+      "date": "2000-12-12",
+      "notes": "Official legal record of the Supreme Court decision, 531 U.S. 98"
     },
     {
-      "title": "How Amy Coney Barrett played a role in Bush v. Gore",
-      "url": "https://www.washingtonpost.com/politics/amy-coney-barrett-bush-gore/2020/10/10/594641b8-09e3-11eb-991c-be6ead8c4018_story.html",
-      "outlet": "The Washington Post",
-      "date": "2020-10-10"
+      "title": "Cornell Legal Information Institute - Supreme Court Case Analysis",
+      "url": "https://www.law.cornell.edu/supct/html/00-949.ZPC.html",
+      "outlet": "Cornell Law School",
+      "date": "2000-12-12",
+      "notes": "Comprehensive legal analysis of Bush v. Gore Supreme Court decision"
+    },
+    {
+      "title": "Justia US Supreme Court Center - Bush v. Gore Case Details",
+      "url": "https://supreme.justia.com/cases/federal/us/531/98/",
+      "outlet": "Justia Legal Resources",
+      "date": "2000-12-12",
+      "notes": "Detailed legal summary of the Supreme Court's Bush v. Gore ruling"
     }
   ],
   "id": "bush_v_gore_2000"

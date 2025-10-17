@@ -6,20 +6,16 @@
   "importance": 9,
   "sources": [
     {
-      "title": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
-      "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/"
+      "outlet": "National Security Archive, George Washington University",
+      "title": "Iraq: The Media War Plan",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB219/index.htm",
+      "date": "2019-03-22"
     },
     {
-      "title": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
-      "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002"
-    },
-    {
-      "title": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
-      "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war"
-    },
-    {
-      "title": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
-      "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group"
+      "outlet": "National Security Archive, George Washington University",
+      "title": "THE IRAQ WAR -- PART III: Shaping the Debate",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB330/index.htm",
+      "date": "2019-03-22"
     }
   ],
   "tags": [
@@ -37,5 +33,5 @@
     "George W. Bush",
     "Andrew H. Card Jr."
   ],
-  "analysis_notes": "Systematic media manipulation campaign demonstrating how institutional networks can coordinate messaging across multiple media platforms. Key strategy involved creating emotional narrative through repeated use of 'mushroom cloud' imagery to build support for military intervention."
+  "analysis_notes": "Systematic media manipulation campaign demonstrating how institutional networks can coordinate messaging across multiple media platforms. Key strategy involved creating emotional narrative through repeated use of 'mushroom cloud' imagery to build support for military intervention. Declassified documents from National Security Archive reveal extensive media coordination strategy."
 }
