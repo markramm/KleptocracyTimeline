@@ -153,8 +153,11 @@ def cache_with_invalidation(timeout=300, key_prefix='view'):
             # Generate cache key from endpoint and args
             cache_key = f"{key_prefix}_{request.endpoint}_{request.query_string.decode()}"
 
-            # Try to get from cache
-            cache = current_app.config.get('CACHE', {})
+            # Try to get from cache (use simple dict, not Flask-Cache)
+            if not hasattr(current_app, '_simple_cache'):
+                current_app._simple_cache = {}
+            cache = current_app._simple_cache
+
             cached_data = cache.get(cache_key)
 
             if cached_data:
@@ -192,7 +195,9 @@ def invalidate_cache(key_pattern: str = None):
         # Clear all cache
         invalidate_cache()
     """
-    cache = current_app.config.get('CACHE', {})
+    if not hasattr(current_app, '_simple_cache'):
+        current_app._simple_cache = {}
+    cache = current_app._simple_cache
 
     if key_pattern is None:
         # Clear all
