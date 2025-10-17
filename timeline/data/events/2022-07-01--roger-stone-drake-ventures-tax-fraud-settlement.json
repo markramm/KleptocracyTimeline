@@ -1,0 +1,62 @@
+{
+  "id": "2022-07-01--roger-stone-drake-ventures-tax-fraud-settlement",
+  "date": "2022-07-01",
+  "title": "Roger Stone Settles $2.1 Million Tax Fraud Case Over Drake Ventures Shell Company",
+  "summary": "Department of Justice settles civil lawsuit with Roger Stone for $2.1 million over fraudulent transfers through Drake Ventures LLC, a Delaware shel...",
+  "description": "Department of Justice settles civil lawsuit with Roger Stone for $2.1 million over fraudulent transfers through Drake Ventures LLC, a Delaware shell company federal investigators called his \"alter ego.\" Company had no legitimate business but processed payments for Stone personally, funding everything from groceries to dental bills while evading nearly $2 million in unpaid taxes.",
+  "importance": 7,
+  "tags": [
+    "roger-stone",
+    "tax-fraud",
+    "drake-ventures",
+    "shell-company",
+    "fraudulent-transfers",
+    "irs",
+    "financial-crimes",
+    "asset-concealment"
+  ],
+  "actors": [
+    "roger-stone",
+    "Department of Justice",
+    "irs",
+    "drake-ventures-llc"
+  ],
+  "capture_lane": "judicial",
+  "status": "confirmed",
+  "sources": [
+    {
+      "outlet": "Tax Notes",
+      "date": "2022-07-01",
+      "url": "https://www.taxnotes.com/tax-notes-today-federal/criminal-investigations/roger-stone-settles-tax-case",
+      "title": "Roger Stone settles $2.1 million tax fraud case"
+    },
+    {
+      "outlet": "CNBC",
+      "date": "2022-07-01",
+      "url": "https://www.cnbc.com/2022/07/01/roger-stone-settles-justice-department-civil-suit",
+      "title": "Roger Stone settles Justice Department civil suit over unpaid taxes"
+    },
+    {
+      "outlet": "Florida Bulldog",
+      "date": "2022-07-02",
+      "url": "https://www.floridabulldog.org/2022/07/roger-stone-drake-ventures-tax-settlement",
+      "title": "Stone's Drake Ventures shell company central to tax fraud settlement"
+    }
+  ],
+  "connections": [
+    "2019-11-15--roger-stone-convicted",
+    "2020-07-10--roger-stone-sentence-commuted",
+    "2020-12-23--roger-stone-pardoned"
+  ],
+  "patterns": [
+    "financial-crimes",
+    "shell-companies",
+    "tax-evasion"
+  ],
+  "notes": "Drake Ventures LLC exemplifies the sophisticated financial structures Stone used for concealment. Despite having no legitimate business operations, website, or independent phone number, the company processed hundreds of thousands in payments while Stone owed the IRS nearly $2 million. When facing collection, Stone transferred assets to the Bertran Family Revocable Trust, including a Fort Lauderdale property purchased with a $400,000 mortgage obtained while owing millions in taxes. The DOJ documented these as \"fraudulent transfers\" designed to evade tax collection. While not directly involving Russian money, these structures demonstrate Stone's comfort with complex schemes to conceal assets and avoid oversight\u2014capabilities useful for his intelligence-related activities.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

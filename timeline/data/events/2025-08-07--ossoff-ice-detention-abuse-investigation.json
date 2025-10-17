@@ -1,0 +1,48 @@
+{
+  "id": "2025-08-07--ossoff-ice-detention-abuse-investigation",
+  "date": "2025-08-07",
+  "importance": 9,
+  "title": "Senator Ossoff documents 510 credible reports of ICE detention abuse including child mistreatment",
+  "summary": "Senator Jon Ossoff's investigation identified 510 credible reports of human rights abuse in ICE detention, including 41 cases of physical or sexual abuse, 18 reports of child mistreatment, and 14 reports of pregnant women abuse. At Krome detention center, the facility held 1,200 more people than capacity\u2014three times its operational limit. Women were detained in small visitation rooms with 30 others, no beds, no shower, no privacy for toilets. Detainees spent nights shackled on buses waiting to enter overcrowded facilities. DHS obstructed congressional oversight and called the documented allegations \"garbage.\"",
+  "location": "Florida (Krome and other facilities)",
+  "actors": [
+    "Jon Ossoff",
+    "ICE",
+    "Department of Homeland Security",
+    "Tricia McLaughlin (DHS)",
+    "Krome detention center"
+  ],
+  "tags": [
+    "detention-abuse",
+    "overcrowding",
+    "child-abuse",
+    "congressional-investigation",
+    "human-rights-violations"
+  ],
+  "capture_lanes": [
+    "Immigration & Border Militarization",
+    "Constitutional & Democratic Breakdown"
+  ],
+  "sources": [
+    {
+      "title": "The Abuse of Pregnant Women & Children in U.S. Immigration Detention",
+      "url": "https://www.ossoff.senate.gov/wp-content/uploads/2025/08/250721_Pregnancy_Report_v7.pdf",
+      "outlet": "Senate Committee Report",
+      "date": "2025-08-07"
+    },
+    {
+      "title": "Hundreds of alleged human rights abuses in immigrant detention, report finds",
+      "url": "https://www.nbcnews.com/news/us-news/immigration-detention-human-rights-abuses-report-rcna222499",
+      "outlet": "NBC News",
+      "date": "2025-08-11"
+    },
+    {
+      "title": "Krome Detention Center was most overcrowded ICE facility in country, new data shows",
+      "url": "https://www.wptv.com/news/state/miami-dade/krome-detention-center-was-most-overcrowded-ice-facility-in-country-new-data-shows",
+      "outlet": "WPTV",
+      "date": "2025-04-24"
+    }
+  ],
+  "notes": "By March, Krome detention increased 249% from pre-inauguration levels. Investigation based on interviews with correctional staff, law enforcement, attorneys, detainees, doctors, and nurses. DHS systematically obstructed site visits and detainee interviews.",
+  "status": "confirmed"
+}

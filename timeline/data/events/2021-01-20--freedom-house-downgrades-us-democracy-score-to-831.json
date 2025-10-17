@@ -1,0 +1,46 @@
+{
+  "id": "2021-01-20--freedom-house-downgrades-us-democracy-score-to-831",
+  "date": "2021-01-20",
+  "importance": 8,
+  "title": "Freedom House Downgrades US Democracy Score to 83/100",
+  "summary": "Freedom House downgraded the United States democracy score from 94/100 to 83/100 between 2010-2021, the steepest decline among established democracies. The 11-point drop reflected systematic erosion of democratic norms including partisan gerrymandering, voter suppression laws in 33 states, unprecedented legislative interference in election administration, political violence becoming normalized, and the January 6 insurrection attempt. The US fell behind countries like Argentina, Mongolia, and Romania in democratic health. Freedom House specifically cited Trump's refusal to accept election results, attacks on the legitimacy of opposition, encouragement of violence, and the Republican Party's embrace of anti-democratic tactics. The report warned that American democracy had become a 'flawed democracy' at risk of further backsliding toward competitive authoritarianism.",
+  "actors": [
+    "Freedom House",
+    "United States",
+    "Donald Trump",
+    "Republican Party"
+  ],
+  "tags": [
+    "democracy-erosion",
+    "democratic-backsliding",
+    "institutional-decay",
+    "authoritarianism",
+    "global-rankings"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "US suffers sharpest decline in freedom in over a decade",
+      "url": "https://freedomhouse.org/article/us-democracy-declined-significantly-past-decade",
+      "outlet": "Freedom House",
+      "date": "2021-03-03"
+    },
+    {
+      "title": "New Report: US Democracy Has Declined Significantly",
+      "url": "https://www.theguardian.com/us-news/2021/mar/24/us-world-democracy-rankings-freedom-house-trump",
+      "outlet": "The Guardian",
+      "date": "2021-03-24"
+    },
+    {
+      "title": "Freedom in the World 2021",
+      "url": "https://freedomhouse.org/report/freedom-world/2021/democracy-under-siege",
+      "outlet": "Freedom House",
+      "date": "2021-03-03"
+    }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Electoral Manipulation"
+  ]
+}

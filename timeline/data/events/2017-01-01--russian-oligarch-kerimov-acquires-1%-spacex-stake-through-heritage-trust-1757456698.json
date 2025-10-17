@@ -1,0 +1,41 @@
+{
+  "date": "2017-01-01",
+  "title": "Russian Oligarch Kerimov Acquires 1% SpaceX Stake Through Heritage Trust",
+  "summary": "Sanctioned Russian oligarch Suleyman Kerimov held a strategic 1% stake in SpaceX from 2017-2022 through Delaware's Heritage Trust, initially worth $10 million and later valued at $500 million. The investment, managed by Citigroup and structured to obscure Kerimov's ownership, raised significant national security concerns given Kerimov's status as a sanctioned Russian senator and the sensitive nature of SpaceX's government and military contracts.",
+  "actors": [
+    "Suleyman Kerimov",
+    "Elon Musk",
+    "SpaceX",
+    "Heritage Trust",
+    "Citigroup"
+  ],
+  "importance": 9,
+  "sources": [
+    {
+      "title": "The Moscow Times",
+      "url": ""
+    },
+    {
+      "title": "U.S. Department of Treasury",
+      "url": ""
+    },
+    {
+      "title": "Bloomberg News",
+      "url": ""
+    },
+    {
+      "title": "Kyiv Independent",
+      "url": ""
+    }
+  ],
+  "tags": [
+    "spacex-russia",
+    "kerimov-investment",
+    "national-security",
+    "oligarch-influence",
+    "heritage-trust-investigation"
+  ],
+  "status": "confirmed",
+  "id": "2017-01-01--russian-oligarch-kerimov-acquires-1%-spacex-stake-through-heritage-trust-1757456698",
+  "priority_id": "russian-influence-networks-1757456698"
+}

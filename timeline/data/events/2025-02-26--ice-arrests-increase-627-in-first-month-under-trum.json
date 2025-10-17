@@ -1,0 +1,58 @@
+{
+  "id": "2025-02-26--ice-arrests-increase-627-in-first-month-under-trum",
+  "date": "2025-02-26",
+  "title": "ICE arrests increase 627% in first month under Trump vs Biden era",
+  "summary": "Under President Trump, ICE made over 20,000 arrests in a single month - a 627% increase compared to just 33,000 at-large arrests for all of last year under Biden. This dramatic escalation marks the beginning of the administration's mass deportation campaign.",
+  "importance": 8,
+  "tags": [
+    "enforcement-escalation",
+    "statistical-milestone",
+    "ice",
+    "mass-deportation",
+    "immigration-enforcement"
+  ],
+  "actors": [
+    "Donald Trump",
+    "ICE",
+    "DHS",
+    "Kristi Noem"
+  ],
+  "sources": [
+    {
+      "title": "Under President Trump ICE Arrests Have Increased by 627%",
+      "url": "https://www.dhs.gov/news/2025/02/26/under-president-trump-ice-arrests-have-increased-627",
+      "outlet": "Department of Homeland Security",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "ICE is making more arrests, but critics say some claims do not add up",
+      "url": "https://www.npr.org/2025/03/01/nx-s1-5313059/immigration-ice-arrests-misleading-claims-kristi-noem-dhs",
+      "outlet": "NPR",
+      "date": "2025-03-01"
+    },
+    {
+      "title": "ICE tallies 20000 arrests in one month",
+      "url": "https://www.washingtontimes.com/news/2025/feb/26/ice-tallies-20000-arrests-one-month/",
+      "outlet": "Washington Times",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "President Trump Delivers Again: ICE Arrests Surge Nationwide",
+      "url": "https://www.whitehouse.gov/articles/2025/07/president-trump-delivers-again-ice-arrests-surge-nationwide/",
+      "outlet": "White House",
+      "date": "2025-07-01"
+    },
+    {
+      "title": "Trump's ICE Racks Up Over 20,000 Arrests In Single Month",
+      "url": "https://dailycaller.com/2025/02/27/ice-20000-arrests-one-month-trump-admin/",
+      "outlet": "The Daily Caller",
+      "date": "2025-02-27"
+    }
+  ],
+  "status": "confirmed",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-02-26--ice-arrests-increase-627-percent-under-trump",
+  "_merge_timestamp": "2025-09-05T23:46:55.903457",
+  "capture_lanes": [
+    "Executive Power Expansion"
+  ]
+}

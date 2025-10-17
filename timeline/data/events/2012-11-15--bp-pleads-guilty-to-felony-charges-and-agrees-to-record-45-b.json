@@ -1,0 +1,67 @@
+{
+  "date": "2012-11-15",
+  "title": "BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal Settlement",
+  "summary": "BP reached a landmark $4.5 billion criminal settlement with the U.S. Department of Justice, pleading guilty to 14 criminal charges including 11 felony counts of misconduct or negligent homicide related to the deaths of the 11 workers in the Deepwater Horizon explosion. The settlement included $4 billion in criminal fines and penalties, plus $525 million to the Securities and Exchange Commission for misleading investors about the flow rate of the spill. This marked the largest criminal resolution in U.S. history at the time. The agreement also included a five-year probationary period during which BP's safety and environmental compliance would be monitored. Two BP executives, Donald Vidrine and Robert Kaluza, were charged with manslaughter, while former BP executive David Rainey was charged with obstruction of justice for allegedly lying to federal agents about the oil flow rate. The case set important precedents for holding corporations and individual executives criminally accountable for environmental disasters.",
+  "actors": [
+    "BP (British Petroleum)",
+    "U.S. Department of Justice",
+    "Securities and Exchange Commission",
+    "Donald Vidrine",
+    "Robert Kaluza",
+    "David Rainey",
+    "Eric Holder",
+    "Lanny Breuer"
+  ],
+  "sources": [
+    {
+      "title": "DOJ Press Release: BP Exploration and Production Inc. Pleads Guilty to Sentencing",
+      "url": "https://www.justice.gov/archives/opa/pr/bp-exploration-and-production-inc-pleads-guilty-sentencedto-pay-record-4-billion-crimes",
+      "outlet": "U.S. Department of Justice",
+      "date": "2012-11-15",
+      "key_details": "Confirmed details of the $4 billion criminal settlement, including 14 criminal counts and specific charges"
+    },
+    {
+      "title": "BP Agrees to Plead Guilty to Crimes in Gulf Oil Spill",
+      "url": "https://www.propublica.org/article/bp-agrees-to-plead-guilty-to-crimes-in-gulf-oil-spill",
+      "outlet": "ProPublica",
+      "date": "2012-11-15",
+      "key_details": "Comprehensive analysis of the criminal settlement and its implications for corporate accountability"
+    },
+    {
+      "title": "Deepwater Horizon Litigation Overview",
+      "url": "https://en.wikipedia.org/wiki/Deepwater_Horizon_litigation",
+      "outlet": "Wikipedia",
+      "date": "2022-08-01",
+      "key_details": "Provides broader context of the legal proceedings and settlement"
+    }
+  ],
+  "importance": 9,
+  "tags": [
+    "criminal-settlement",
+    "corporate-prosecution",
+    "environmental-crime",
+    "deepwater-horizon",
+    "doj-enforcement"
+  ],
+  "id": "2012-11-15--bp-pleads-guilty-to-felony-charges-and-agrees-to-record-45-b",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-23",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ],
+  "sources_added": 3,
+  "sources_removed": 3,
+  "sources_validated": 3,
+  "validation_metadata": {
+    "last_corrected": "2025-09-16T19:13:52.740832",
+    "corrected_by": "source-qa-16-bulk-retry",
+    "validation_log_id": 139,
+    "corrections_applied": [
+      "sources_added: '3' \u2192 '3'",
+      "sources_removed: '3' \u2192 '3'",
+      "sources_validated: '3' \u2192 '3'"
+    ]
+  }
+}

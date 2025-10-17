@@ -1,0 +1,54 @@
+{
+  "id": "2020-04-01--mvm-hotel-detention-network",
+  "date": "2020-04-01",
+  "importance": 9,
+  "title": "MVM Inc operates shadow detention network using hotels and unmarked buildings for children",
+  "summary": "Private security contractor MVM Inc. detained migrant children in Hampton Inn hotels across Arizona and Texas border cities before expelling them under Title 42. The company held at least 29 children in hotels in April 2020, increasing to 80 by May, with children as young as 1 year old detained without standard child welfare protections. MVM also used a Phoenix office building not zoned for human occupancy where children bathed in sinks. Since FY2020, MVM has secured over $1.3 billion in ICE contracts, primarily for transporting immigrant children and families, operating unmarked white vans between hotels, airports, and detention centers.",
+  "location": "McAllen TX, El Paso TX, Phoenix AZ, Chicago IL, Seattle WA",
+  "actors": [
+    "MVM Inc.",
+    "ICE",
+    "Hampton Inn & Suites",
+    "Sonesta Hotels",
+    "Department of Homeland Security"
+  ],
+  "tags": [
+    "shadow-detention",
+    "child-detention",
+    "private-contractors",
+    "title-42",
+    "hotel-jails",
+    "human-rights-violations"
+  ],
+  "capture_lanes": [
+    "Corporate Capture & Regulatory Breakdown"
+  ],
+  "sources": [
+    {
+      "title": "Shadow Immigration System - Migrant Children Detained In Hotels By Private Contractors",
+      "url": "https://www.npr.org/2020/08/20/904027735/shadow-immigration-system-migrant-children-detained-in-hotels-by-private-contrac",
+      "outlet": "NPR",
+      "date": "2020-08-20"
+    },
+    {
+      "title": "ICE contractor held 1-year-old migrants in hotels before deporting them",
+      "url": "https://thehill.com/regulation/court-battles/508539-ice-contractor-held-1-year-old-migrants-in-hotels-before-deporting/",
+      "outlet": "The Hill",
+      "date": "2020-07-21"
+    },
+    {
+      "title": "Migrant kids held in US hotels, then expelled",
+      "url": "https://www.tampabay.com/news/nation-world/2020/07/22/migrant-kids-held-in-us-hotels-then-expelled/",
+      "outlet": "Tampa Bay Times",
+      "date": "2020-07-22"
+    },
+    {
+      "title": "MVM, Inc. - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/MVM,_Inc.",
+      "outlet": "Wikipedia",
+      "date": "2024-01-01"
+    }
+  ],
+  "notes": "MVM created a parallel detention system outside standard oversight, using commercial hotels as de facto jails for unaccompanied minors. In 2018, MVM used a Phoenix office building for three weeks despite lacking proper zoning or childcare licenses. Attorneys later filed suit against MVM for enforced disappearance, torture, and child abduction related to family separations. The use of hotels allowed ICE to bypass standard detention protocols and congressional oversight mechanisms.",
+  "status": "confirmed"
+}

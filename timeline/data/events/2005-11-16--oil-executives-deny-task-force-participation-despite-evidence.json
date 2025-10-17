@@ -1,0 +1,60 @@
+{
+  "id": "2005-11-16--oil-executives-deny-task-force-participation-despite-evidence",
+  "date": "2005-11-16",
+  "importance": 8,
+  "title": "Oil Executives Deny Task Force Participation Despite Documentary Evidence",
+  "summary": "Major oil executives testify before Congress denying participation in Cheney's 2001 Energy Task Force, despite White House documents proving their involvement. In joint hearings by Senate Energy and Commerce committees, CEOs of ExxonMobil, Chevron, and ConocoPhillips categorically denied their companies participated in the task force. Shell Oil's president claimed no knowledge of participation, while BP America's chief said he 'did not know.' However, The Washington Post simultaneously published White House documents showing specific meetings: James Rouse (ExxonMobil VP) met February 14, 2001; Archie Dunham (Conoco chairman) met March 21, 2001; Bob Malone (BP regional president) and Peter Davies (BP chief economist) met March 22, 2001; and Sir Mark Moody-Stuart (Shell chairman) and Steven Miller (Shell Oil chairman) met April 17, 2001. Committee Republicans, led by Chairman Ted Stevens, deliberately chose not to swear in the executives, avoiding perjury charges. However, false statements to Congress remain federal crimes punishable by up to five years imprisonment. Senator Frank Lautenberg called for Justice Department investigation, stating 'oil executives may be lying to Congress about their role in the Cheney task force.' This represents systematic corporate deception about policy capture processes.",
+  "actors": [
+    "ExxonMobil",
+    "Chevron",
+    "ConocoPhillips",
+    "Shell Oil",
+    "BP America",
+    "James Rouse",
+    "Archie Dunham",
+    "Bob Malone",
+    "Peter Davies",
+    "Mark Moody-Stuart",
+    "Steven Miller",
+    "Frank Lautenberg",
+    "Ted Stevens",
+    "Senate Energy Committee",
+    "Senate Commerce Committee"
+  ],
+  "tags": [
+    "oil-industry",
+    "congressional-testimony",
+    "false-statements",
+    "corporate-capture",
+    "cheney-task-force",
+    "deception",
+    "accountability-evasion"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Document Says Oil Chiefs Met With Cheney Task Force",
+      "url": "https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/",
+      "outlet": "Washington Post",
+      "date": "2005-11-16"
+    },
+    {
+      "title": "Document: Big oil met with Cheney task force",
+      "url": "https://www.nbcnews.com/id/wbna10045043",
+      "outlet": "NBC News",
+      "date": "2005-11-16"
+    },
+    {
+      "title": "White House records show oil chiefs at energy meetings",
+      "url": "https://www.sfgate.com/politics/article/White-House-records-show-oil-chiefs-at-energy-2594858.php",
+      "outlet": "San Francisco Chronicle",
+      "date": "2005-11-16"
+    }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1972-01-07--powell-sworn-in-supreme-court-corporate-blueprint-implementation",
+  "date": "1972-01-07",
+  "title": "Lewis Powell Sworn in as Supreme Court Justice, Begins Implementing Corporate Blueprint",
+  "summary": "Lewis F. Powell Jr. was sworn in as Associate Justice of the Supreme Court on January 7, 1972, after being nominated by President Nixon and confirmed by the Senate with an overwhelming 89-1 vote. A corporate lawyer with board memberships in 11 major corporations, Powell's appointment represented a strategic placement of a corporate interests advocate on the nation's highest court. His 1971 memo to the Chamber of Commerce had outlined a blueprint for corporate influence in American institutions, and his Supreme Court seat provided a direct mechanism to reshape constitutional interpretation in favor of business interests.",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Lewis F. Powell Jr.",
+    "Richard Nixon",
+    "Supreme Court",
+    "U.S. Senate"
+  ],
+  "tags": [
+    "powell-supreme-court",
+    "judicial-capture",
+    "corporate-interests",
+    "constitutional-interpretation",
+    "nixon-administration"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption",
+    "Corporate Influence"
+  ],
+  "sources": [
+    {
+      "outlet": "The American Presidency Project",
+      "title": "Statement About Senate Confirmation of Supreme Court Justices",
+      "url": "https://www.presidency.ucsb.edu/documents/statement-about-senate-confirmation-lewis-f-powell-jr-and-william-h-rehnquist-associate",
+      "key_facts_confirmed": [
+        "Nominated by President Nixon in October 1971",
+        "Confirmed by Senate 89-1 on December 6, 1971",
+        "Praised by Nixon for 'integrity and intellect'"
+      ],
+      "verified": true
+    },
+    {
+      "outlet": "Britannica",
+      "title": "Lewis F. Powell, Jr. Biography",
+      "url": "https://www.britannica.com/biography/Lewis-F-Powell-Jr",
+      "key_facts_confirmed": [
+        "Served as Supreme Court Associate Justice from 1972-1987",
+        "Born in Suffolk, Virginia in 1907",
+        "Had extensive legal and leadership experience before Court appointment"
+      ],
+      "verified": true
+    },
+    {
+      "title": "Lewis F. Powell Jr. - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Powell sworn in January 7, 1972",
+        "Confirmed by Senate 89-1",
+        "Sat on boards of 11 major corporations including Philip Morris"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2024-12-03",
+  "title": "South Korea President Yoon Suk Yeol Declares Martial Law, Triggering Democratic Crisis",
+  "summary": "On December 3, 2024, President Yoon Suk Yeol declared martial law at 22:23, marking an unprecedented challenge to South Korea's democratic institutions. Within six hours, the National Assembly unanimously rejected his order, revealing deep political tensions and pushing South Korea's democratic status into global scrutiny.",
+  "description": "President Yoon Suk Yeol's brief martial law declaration represented a dramatic attempt to circumvent legislative opposition. With an approval rating as low as 17% and facing potential impeachment, Yoon accused the opposition Democratic Party of being an 'anti-state den of criminals'. The National Assembly swiftly countered by forcing past soldiers to vote down his decree, highlighting the resilience of South Korean democratic institutions.",
+  "importance": 9,
+  "status": "confirmed",
+  "actors": [
+    "Yoon Suk Yeol",
+    "South Korean National Assembly",
+    "South Korean protesters",
+    "Democratic Party (DPK)"
+  ],
+  "location": "South Korea, Seoul",
+  "tags": [
+    "south-korea",
+    "martial-law",
+    "democratic-crisis",
+    "impeachment",
+    "political-instability"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion",
+    "Democratic Backsliding"
+  ],
+  "sources": [
+    {
+      "title": "Democracy Under Pressure: Yoon's Failed Martial Law",
+      "url": "https://www.asiapacific.ca/publication/explainer-yoons-failed-martial-law-decree-future-impacts",
+      "outlet": "Asia Pacific Institute",
+      "date": "2024-12-03"
+    },
+    {
+      "title": "Yoon's Failed Political Coup and South Korea's Crisis",
+      "url": "https://carnegieendowment.org/research/2024/12/yoons-failed-political-coup-and-south-koreas-mounting-crisis?lang=en",
+      "outlet": "Carnegie Endowment for International Peace",
+      "date": "2024-12-03"
+    },
+    {
+      "title": "South Korea Martial Law Lifted, Democracy Tarnished",
+      "url": "https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/",
+      "outlet": "CBS News",
+      "date": "2024-12-03"
+    }
+  ],
+  "id": "2024-12-03--south-korea-president-yoon-suk-yeol-declares-martial-law-tri",
+  "priority_id": "RP-20250909-capture-cascade-part-7-the-new-normal",
+  "connections": [],
+  "patterns": [
+    "democratic-backsliding"
+  ]
+}

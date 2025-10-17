@@ -1,0 +1,45 @@
+{
+  "id": "2001-01-01--abramoff-greenberg-traurig-scanlon-partnership",
+  "date": "2001-01-01",
+  "title": "Abramoff Moves to Greenberg Traurig, Partners with Michael Scanlon",
+  "summary": "Jack Abramoff leaves Preston Gates to join Greenberg Traurig's government relations practice in Washington, D.C. In June 2001, he begins a secret partnership with Tom DeLay's former communications director Michael Scanlon, who forms Capitol Campaign Strategies. Their 'gimme five' scheme would systematically defraud tribal clients of approximately $66 million through inflated lobbying and grassroots services, with Abramoff and Scanlon secretly splitting the majority of the fees.",
+  "actors": [
+    "Jack Abramoff",
+    "Michael Scanlon",
+    "Greenberg Traurig",
+    "Capitol Campaign Strategies",
+    "Tom DeLay"
+  ],
+  "sources": [
+    {
+      "title": "Jack Abramoff Indian lobbying scandal - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal",
+      "outlet": "Wikipedia"
+    },
+    {
+      "title": "Senate Report on Tribal Lobbying Matters",
+      "url": "https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm",
+      "outlet": "United States Senate",
+      "description": "Detailed investigation of Abramoff and Scanlon's lobbying fraud"
+    },
+    {
+      "title": "Levin Center: John McCain and the Abramoff Tribal Lobbying Scandal",
+      "url": "https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/",
+      "outlet": "Levin Center for Oversight"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "abramoff",
+    "michael-scanlon",
+    "greenberg-traurig",
+    "k-street",
+    "lobbying-corruption",
+    "tribal-fraud"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption",
+    "Lobbying Fraud"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-01--venezuelan-gang-deportation-defiance",
+  "date": "2025-08-01",
+  "importance": 6,
+  "title": "Administration deliberately evades court order on Venezuelan gang deportations",
+  "summary": "U.S. District Judge James Boasberg found probable cause that the Trump administration showed \"willful disregard\" for his order to halt deportation flights of Venezuelan migrants. The administration flew planes with hundreds of Venezuelans to El Salvador despite the judge's order to return them to the U.S., deliberately rushing planes into international airspace to evade jurisdiction. A whistleblower reported DOJ official Emil Bove told attorneys they may need to tell courts \"f*** you\" regarding such orders.",
+  "location": "United States",
+  "actors": [
+    "U.S. District Judge James Boasberg",
+    "Trump Administration",
+    "Emil Bove (DOJ official)",
+    "Venezuelan deportees",
+    "El Salvador government"
+  ],
+  "tags": [
+    "court-defiance",
+    "constitutional-violation",
+    "willful-disregard",
+    "deportation-abuse"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "sources": [
+    {
+      "title": "How Trump's White House defied a judge's order halting deportations",
+      "url": "https://www.axios.com/2025/03/16/trump-white-house-defy-judge-deport-venezuelans",
+      "outlet": "Axios",
+      "date": "2025-03-16"
+    },
+    {
+      "title": "What happens if a president and the federal government fail to follow a judge's orders?",
+      "url": "https://www.nbcnews.com/politics/politics-news/president-defies-judges-orders-contempt-rcna201455",
+      "outlet": "NBC News",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "Inside Team Trump's Attacks on Judges and Defiance of Court Orders",
+      "url": "https://www.rollingstone.com/politics/politics-features/inside-team-trump-attack-judges-defiance-court-orders-1235298463/",
+      "outlet": "Rolling Stone",
+      "date": "2025-08-01"
+    }
+  ],
+  "notes": "First instance where a judge explicitly found probable cause of contempt for the Trump administration's deliberate defiance of a court order. The administration attempted to remove Judge Boasberg from the case after defying his order.",
+  "status": "confirmed"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "2025-03-31--musk-funded-political-group-spends-big-and-goes-do",
+  "date": "2025-03-31",
+  "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
+  "summary": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
+  "description": "Musk\u2019s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race",
+      "url": "https://apnews.com/article/america-pac-musk-wisconsin-supreme-court-5c85a9f9b06f26cb2e09f2b35b1ff87a",
+      "outlet": "Associated Press",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Musk PAC spends big and goes door to door in Wisconsin Supreme Court race",
+      "url": "https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race",
+      "outlet": "PBS NewsHour",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Elon Musk Wasted 5M on Wisconsin Supreme Court Election Failure",
+      "url": "https://www.newsweek.com/elon-musk-wisconsin-supreme-court-election-loss-2053668",
+      "outlet": "Newsweek",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Elon Musk-funded political group spends big, goes door to door in Wisconsin Supreme Court race",
+      "url": "https://madison.com/news/state-regional/government-politics/elections/article_ebc5dd15-2335-4089-aafd-7bfd86c9eaa4.html",
+      "outlet": "Madison.com",
+      "date": "2025-03-31"
+    },
+    {
+      "title": "Wisconsin AG seeks to block Elon Musk's million-dollar giveaways ahead of state Supreme Court race",
+      "url": "https://www.nbcnews.com/politics/elections/elon-musk-travel-wisconsin-ahead-critical-state-supreme-court-election-rcna198544",
+      "outlet": "NBC News",
+      "date": "2025-03-30"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Judicial Capture"
+  ]
+}

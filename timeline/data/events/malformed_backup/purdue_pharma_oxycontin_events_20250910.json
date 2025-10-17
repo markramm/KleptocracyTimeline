@@ -1,0 +1,158 @@
+[
+  {
+    "id": "1995-12-12--fda-approves-oxycontin-with-misleading-label",
+    "title": "FDA Approves OxyContin with Deceptive Addiction-Resistance Claims",
+    "date": "1995-12-12",
+    "description": "The FDA approves Purdue Pharma's OxyContin with controversial labeling claiming 'delayed absorption, as provided by OxyContin tablets, is believed to reduce the abuse liability of a drug.' This approval was overseen by Dr. Curtis Wright IV, who allowed Purdue to help draft his medical officer's review and met secretly with company representatives in a hotel near FDA offices. The approval was based on theory rather than rigorous clinical studies designed to assess abuse potential, despite Wright knowing this claim was unsubstantiated. This misleading label language would become central to Purdue's aggressive marketing campaign that fueled the opioid epidemic.",
+    "category": "Regulatory Capture",
+    "tags": ["FDA", "regulatory capture", "pharmaceutical industry", "opioid crisis", "deceptive labeling", "revolving door"],
+    "sources": [
+      {
+        "url": "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/",
+        "title": "How the FDA Approved OxyContin: The 1995 Decision That Started America's Opioid Crisis",
+        "type": "Government Report",
+        "date": "2024"
+      },
+      {
+        "url": "https://journalofethics.ama-assn.org/article/how-fda-failures-contributed-opioid-crisis/2020-08",
+        "title": "How FDA Failures Contributed to the Opioid Crisis",
+        "type": "Medical Journal",
+        "date": "2020-08"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/",
+        "title": "The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy",
+        "type": "Academic Paper",
+        "date": "2008"
+      }
+    ],
+    "importance": 9,
+    "priority_id": "purdue_pharma_oxycontin_regulatory_capture",
+    "actors": [
+      {
+        "name": "Curtis Wright IV",
+        "role": "FDA Medical Review Officer",
+        "affiliation": "FDA Center for Drug Evaluation and Research"
+      },
+      {
+        "name": "Purdue Pharma",
+        "role": "Pharmaceutical Company",
+        "affiliation": "Private Corporation"
+      },
+      {
+        "name": "Food and Drug Administration",
+        "role": "Regulatory Agency",
+        "affiliation": "U.S. Government"
+      },
+      {
+        "name": "Robert F. Bedford",
+        "role": "Acting Director, Division of Anesthetic, Critical Care, and Addiction Drug Products",
+        "affiliation": "FDA"
+      }
+    ]
+  },
+  {
+    "id": "1998-12-01--curtis-wright-joins-purdue-pharma-revolving-door",
+    "title": "FDA's OxyContin Approver Curtis Wright Joins Purdue Pharma in Classic Revolving Door Move",
+    "date": "1998-12-01",
+    "description": "Dr. Curtis Wright IV, the FDA medical review officer who approved OxyContin in 1995, joins Purdue Pharma as Executive Director for Risk Assessment and Health Policy with a compensation package exceeding $379,000 annually. This move occurred less than three years after Wright overseen the controversial approval process where he allowed Purdue to help draft his medical officer's review and approved the misleading 'reduced abuse liability' label language. Wright's transition from regulator to regulated represents one of the most egregious examples of the pharmaceutical industry revolving door, raising serious questions about conflicts of interest in the FDA approval process that enabled the opioid epidemic.",
+    "category": "Revolving Door",
+    "tags": ["revolving door", "regulatory capture", "FDA", "pharmaceutical industry", "conflict of interest", "opioid crisis"],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Curtis_Wright_IV",
+        "title": "Curtis Wright IV - Wikipedia",
+        "type": "Encyclopedia",
+        "date": "2024"
+      },
+      {
+        "url": "https://www.yahoo.com/lifestyle/dr-curtis-wright-took-job-161400685.html",
+        "title": "Dr. Curtis Wright Took A Job At Purdue Pharma After OxyContin's Approval",
+        "type": "News Article",
+        "date": "2024"
+      },
+      {
+        "url": "https://sharylattkisson.com/2023/11/bmj-investigation-into-revolving-door-culture-between-the-fda-and-big-pharma/",
+        "title": "BMJ investigation into 'revolving door culture' between the FDA and Big Pharma",
+        "type": "Medical Journal Investigation",
+        "date": "2023-11"
+      }
+    ],
+    "importance": 8,
+    "priority_id": "purdue_pharma_oxycontin_regulatory_capture",
+    "actors": [
+      {
+        "name": "Curtis Wright IV",
+        "role": "Former FDA Medical Review Officer, New Purdue Executive",
+        "affiliation": "Purdue Pharma"
+      },
+      {
+        "name": "Purdue Pharma",
+        "role": "Pharmaceutical Company",
+        "affiliation": "Private Corporation"
+      },
+      {
+        "name": "Food and Drug Administration",
+        "role": "Former Employer",
+        "affiliation": "U.S. Government"
+      }
+    ]
+  },
+  {
+    "id": "2007-05-10--purdue-pharma-guilty-plea-deceptive-marketing",
+    "title": "Purdue Pharma Pleads Guilty to Criminal Misbranding Charges for OxyContin Deception",
+    "date": "2007-05-10",
+    "description": "Purdue Frederick Company Inc. (Purdue Pharma affiliate) and three top executives plead guilty to criminal charges of misbranding OxyContin by falsely claiming it was less addictive and less subject to abuse than other opioids. The company pays $634 million in fines while executives Michael Friedman, Howard R. Udell, and Paul D. Goldenheim pay $34.5 million in personal fines. Despite making $2.8 billion in revenue from OxyContin from 1996-2001, evidence shows Purdue trained sales representatives to falsely tell doctors that addiction risk was 'less than one percent' and continued deceptive practices even after this plea agreement. This represents one of the largest pharmaceutical fraud settlements at the time, yet failed to adequately deter the company's ongoing deceptive marketing practices.",
+    "category": "Corporate Crime",
+    "tags": ["criminal prosecution", "pharmaceutical fraud", "deceptive marketing", "opioid crisis", "plea agreement", "corporate accountability"],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/",
+        "title": "The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy",
+        "type": "Academic Paper",
+        "date": "2008"
+      },
+      {
+        "url": "https://www.cbsnews.com/news/oxycontin-purdue-pharma-former-sales-representative-deceptive-sales-psuedoaddiction/",
+        "title": "Purdue Pharma used deceptive sales tactic for OxyContin after settlement, ex-sales rep says",
+        "type": "News Investigation",
+        "date": "2020"
+      },
+      {
+        "url": "https://www.statnews.com/2020/01/09/prescriber-fears-oxycontin-misuse-purdue-pharma-sales-reps-misleadingly-played-up-safety/",
+        "title": "Faced with prescriber fears of OxyContin misuse, Purdue sales reps misleadingly played up drug's safety, documents show",
+        "type": "Investigative Journalism",
+        "date": "2020-01-09"
+      }
+    ],
+    "importance": 9,
+    "priority_id": "purdue_pharma_oxycontin_regulatory_capture",
+    "actors": [
+      {
+        "name": "Purdue Frederick Company Inc.",
+        "role": "Defendant Pharmaceutical Company",
+        "affiliation": "Purdue Pharma Affiliate"
+      },
+      {
+        "name": "Michael Friedman",
+        "role": "Company President",
+        "affiliation": "Purdue Pharma"
+      },
+      {
+        "name": "Howard R. Udell",
+        "role": "Top Lawyer",
+        "affiliation": "Purdue Pharma"
+      },
+      {
+        "name": "Paul D. Goldenheim",
+        "role": "Former Chief Medical Officer",
+        "affiliation": "Purdue Pharma"
+      },
+      {
+        "name": "U.S. Department of Justice",
+        "role": "Prosecutor",
+        "affiliation": "U.S. Government"
+      }
+    ]
+  }
+]

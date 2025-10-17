@@ -1,0 +1,56 @@
+{
+  "id": "1973-09-01--american-legislative-exchange-council-alec-established",
+  "date": "1973-09-01",
+  "title": "American Legislative Exchange Council (ALEC) Established",
+  "summary": "The American Legislative Exchange Council (ALEC) was founded in Chicago as the Conservative Caucus of State Legislators, initiated by Mark Rhoads with key involvement from Paul Weyrich. The organization was designed to create a systematic vehicle for corporate and conservative influence over state-level legislation, establishing a platform for corporations to draft model bills and coordinate with state legislators. By 1975, it moved to Washington, D.C., and became a key mechanism for implementing the Powell Memorandum's blueprint for corporate legislative capture.",
+  "importance": 8,
+  "status": "confirmed",
+  "actors": [
+    "Mark Rhoads",
+    "Paul Weyrich",
+    "Henry Hyde",
+    "State Legislators",
+    "Corporate Members"
+  ],
+  "sources": [
+    {
+      "outlet": "The American Prospect",
+      "title": "After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever",
+      "url": "https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/",
+      "date_accessed": "2025-09-25"
+    },
+    {
+      "outlet": "InfluenceWatch",
+      "title": "American Legislative Exchange Council (ALEC)",
+      "url": "https://www.influencewatch.org/non-profit/american-legislative-exchange-council/",
+      "date_accessed": "2025-09-25"
+    },
+    {
+      "outlet": "Brookings Institution",
+      "title": "ALEC's Influence over Lawmaking in State Legislatures",
+      "url": "https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/",
+      "date_accessed": "2025-10-15"
+    },
+    {
+      "outlet": "Congressional Record",
+      "title": "Tribute to Paul Weyrich: Founding of ALEC",
+      "url": "https://www.govinfo.gov/content/pkg/CRECB-2008-pt17/html/CRECB-2008-pt17-Pg23449-2.htm",
+      "date_accessed": "2025-10-15"
+    }
+  ],
+  "tags": [
+    "capture-cascade",
+    "blueprint",
+    "alec",
+    "state-legislation",
+    "model-bills",
+    "conservative-movement",
+    "corporate-influence"
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Political System Capture",
+    "Administrative State Capture"
+  ],
+  "validation_notes": "Comprehensive verification of ALEC's founding through multiple sources, including Congressional Record and Brookings Institution, confirming Paul Weyrich's role in establishing the organization in 1973 as a vehicle for conservative legislative influence."
+}

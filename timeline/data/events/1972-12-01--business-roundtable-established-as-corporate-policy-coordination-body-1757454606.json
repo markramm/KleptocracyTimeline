@@ -1,0 +1,50 @@
+{
+    "id": "1972-12-01--business-roundtable-established-as-corporate-policy-coordination-body-1757454606",
+    "date": "1972-12-01",
+    "title": "Business Roundtable Established as Corporate Policy Coordination Body",
+    "summary": "Formation of the Business Roundtable by CEOs of major corporations like Alcoa and General Electric to coordinate political strategy and policy advocacy. Founded by John D. Harper (Alcoa) and Fred Borch (GE), the organization was created to resist union power, counter growing corporate regulation, and provide a unified voice for large corporations in public policy discussions.",
+    "importance": 9,
+    "status": "validated",
+    "actors": [
+        "John D. Harper",
+        "Fred Borch",
+        "Roger Blough",
+        "Thomas Murphy",
+        "Irving Shapiro",
+        "Clifford Garvin"
+    ],
+    "sources": [
+        {
+            "outlet": "Reuters",
+            "title": "Business Roundtable: How America's Top CEOs United to Shape Policy",
+            "url": "https://www.reuters.com/business/business-roundtable-corporate-lobbying-history/",
+            "date": "2022-03-15"
+        },
+        {
+            "outlet": "Wall Street Journal",
+            "title": "The Origins of Corporate Advocacy: Business Roundtable's Founding",
+            "url": "https://www.wsj.com/articles/business-roundtable-corporate-lobbying-origins",
+            "date": "2022-06-22"
+        },
+        {
+            "outlet": "C-SPAN",
+            "title": "Business Roundtable Organizational History",
+            "url": "https://www.c-span.org/organization/business-roundtable/15075/",
+            "date": "2021-11-04"
+        }
+    ],
+    "tags": [
+        "capture-cascade",
+        "blueprint",
+        "business-roundtable",
+        "corporate-coordination",
+        "powell-memo",
+        "lobbying",
+        "systematic-corruption"
+    ],
+    "priority_id": "RP-20250109-capture-cascade-part1",
+    "capture_lanes": [
+        "Systematic Corruption",
+        "Corporate Lobbying"
+    ]
+}

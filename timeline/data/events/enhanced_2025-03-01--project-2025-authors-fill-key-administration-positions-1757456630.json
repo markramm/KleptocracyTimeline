@@ -1,0 +1,45 @@
+{
+  "id": "enhanced_2025-03-01--project-2025-authors-fill-key-administration-positions-1757456630",
+  "date": "2025-03-01",
+  "title": "Project 2025 Authors Fill Key Administration Positions",
+  "summary": "An in-depth analysis reveals that over 70% of Trump's cabinet members have direct connections to the Project 2025 blueprint, with more than 50 high-level officials from the project strategically placed in key government roles. Notable appointees include Brendan Carr (FCC Chairman), Tom Homan (Border Czar), and Linda McMahon (Education Secretary), who have either authored or closely aligned with Project 2025's comprehensive governmental transformation strategy.",
+  "importance": 9,
+  "actors": [
+    "Brendan Carr",
+    "Tom Homan",
+    "Linda McMahon",
+    "Karoline Leavitt",
+    "Russell Vought",
+    "John Ratcliffe",
+    "Pete Hoekstra"
+  ],
+  "sources": [
+    {
+      "outlet": "NBC News",
+      "title": "The key Project 2025 authors now staffing the Trump administration",
+      "url": "https://www.nbcnews.com/politics/trump-administration/key-project-2025-authors-now-staffing-trump-administration-rcna195107"
+    },
+    {
+      "outlet": "Newsweek",
+      "title": "Which Donald Trump Appointees Have Project 2025 Links?",
+      "url": "https://www.newsweek.com/donald-trump-project-2025-cabinet-picks-1989565"
+    },
+    {
+      "outlet": "PBS NewsHour",
+      "title": "Trump names Project 2025 architect Russell Vought to key White House role",
+      "url": "https://www.pbs.org/newshour/show/trump-names-project-2025-architect-russell-vought-to-key-white-house-role"
+    }
+  ],
+  "tags": [
+    "project-2025-network",
+    "cabinet-appointments",
+    "heritage-pipeline",
+    "government-capture",
+    "regulatory-capture"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration"
+  ],
+  "status": "confirmed"
+}

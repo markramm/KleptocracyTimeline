@@ -1,0 +1,56 @@
+{
+  "id": "2025-08-01--pfizer-ceo-attending-25-million-fundraiser-at-trum",
+  "date": "2025-08-01",
+  "title": "Pfizer CEO attending $25 million fundraiser at Trump's golf club after president demands drug price cuts, sources say",
+  "summary": "Days after Trump threatened pharmaceutical companies with federal action if they do not lower drug costs, Pfizer CEO Albert Bourla attended a $25 million MAGA Inc. fundraiser at Bedminster",
+  "description": "Days after Trump threatened pharmaceutical companies with federal action if they do not lower drug costs, Pfizer CEO Albert Bourla attended a $25 million MAGA Inc. fundraiser at Bedminster",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy",
+    "corruption"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Pfizer CEO attending $25 million fundraiser at Trump's golf club after president demands drug price ",
+      "url": "https://www.cbsnews.com/news/pfizer-ceo-albert-bourla-trump-golf-club-drug-price-cuts-sources-say/",
+      "outlet": "CBS News",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "Pfizer CEO expected to attend Trump fundraiser after drug price cut demands",
+      "url": "https://www.aa.com.tr/en/health/pfizer-ceo-expected-to-attend-trump-fundraiser-after-drug-price-cut-demands/3648868",
+      "outlet": "Anadolu Agency",
+      "date": "2025-08-01"
+    },
+    {
+      "title": "Pfizer CEO Attends 5M Trump Fundraiser Amid Drug Price Demands",
+      "url": "https://greekcitytimes.com/2025/08/03/pfizer-ceo-trump-fundraiser-drug-prices/",
+      "outlet": "Greek City Times",
+      "date": "2025-08-03"
+    },
+    {
+      "title": "Pfizer CEO attending 5 million fundraiser at Trump's golf club, sources say",
+      "url": "https://www.yahoo.com/news/articles/pfizer-ceo-attending-25-million-014312665.html",
+      "outlet": "Yahoo News",
+      "date": "2025-08-01"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "High-priority kleptocratic event from comprehensive timeline.",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-08-01--pfizer-ceo-attending-25-million-fundraiser-at-trump-s-golf-c",
+  "_merge_timestamp": "2025-09-05T23:46:55.897568",
+  "capture_lanes": [
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

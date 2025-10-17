@@ -1,0 +1,32 @@
+{
+  "id": "RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic",
+  "title": "AI Industry Regulatory Capture Network 2023-2025",
+  "description": "Investigate the systematic capture of AI governance and safety institutions by major AI companies including OpenAI, Anthropic, Meta, and Google. Focus on how 'AI safety' narratives mask oligarchic control of critical infrastructure, including academic partnerships, regulatory body infiltration, and the creation of barriers to entry that consolidate market power.",
+  "priority": 8,
+  "estimated_events": 4,
+  "category": "regulatory_capture",
+  "tags": [
+    "ai_governance",
+    "tech_oligarchy",
+    "regulatory_capture",
+    "ai_safety",
+    "market_concentration"
+  ],
+  "time_period": "2023-2025",
+  "estimated_importance": 8,
+  "status": "completed",
+  "blockers": [],
+  "next_steps": [
+    "Map AI safety institute capture",
+    "Research academic partnerships",
+    "Document regulatory influence",
+    "Track barrier creation mechanisms"
+  ],
+  "export_worthy": true,
+  "source_file": "claude_generated_research_priorities_2025.py",
+  "is_generated": true,
+  "created_date": "2025-09-10",
+  "research_notes": "Emerging threat - oligarchic capture of transformative technology governance",
+  "events_created": 4,
+  "completion_date": "2025-01-15"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "1971-10-22--nixon-nominates-powell-supreme-court-memo-author",
+  "date": "1971-10-22",
+  "title": "Nixon Nominates Lewis Powell to Supreme Court Two Months After Corporate Blueprint Memo",
+  "summary": "President Richard Nixon nominates Lewis F. Powell Jr. to the Supreme Court just two months after Powell authored his secret corporate blueprint memo to the U.S. Chamber of Commerce on August 23, 1971. Amidst a rare opportunity to reshape the Supreme Court, Nixon nominates Powell alongside William Rehnquist following the retirements of Justices Hugo Black and John Marshall Harlan. Powell's nomination represents a strategic placement of a corporate law expert who had recently written a comprehensive memo advocating for systematic business influence in American institutions. The memo, which remained confidential during his confirmation hearings, would later be seen as a pivotal document in understanding corporate capture of American democratic systems.",
+  "importance": 10,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Richard Nixon",
+    "Lewis F. Powell Jr.",
+    "John Mitchell",
+    "U.S. Chamber of Commerce",
+    "Supreme Court"
+  ],
+  "tags": [
+    "powell-memo",
+    "supreme-court-nomination",
+    "judicial-capture",
+    "corporate-blueprint",
+    "nixon-administration",
+    "judicial-system"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption",
+    "Corporate Power Expansion"
+  ],
+  "sources": [
+    {
+      "title": "The Scheme 2: Powell on the Court",
+      "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/",
+      "outlet": "Senator Sheldon Whitehouse",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Nixon nominated Powell on October 22, 1971",
+        "Nomination came two months after Powell memo dated August 23, 1971",
+        "Memo remained confidential during confirmation hearings"
+      ]
+    },
+    {
+      "title": "Address to the Nation Announcing Intention To Nominate Lewis F. Powell, Jr., and William H. Rehnquist To Be Associate Justices",
+      "url": "https://www.presidency.ucsb.edu/documents/address-the-nation-announcing-intention-nominate-lewis-f-powell-jr-and-william-h-rehnquist",
+      "outlet": "The American Presidency Project, University of California Santa Barbara",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Precise nomination details from primary source",
+        "Context of Nixon's Supreme Court nominations",
+        "Historical documentation of nomination process"
+      ]
+    },
+    {
+      "title": "On This Day: William Rehnquist and Lewis Powell Confirmed as Associate Justices of the Supreme Court",
+      "url": "https://blog.nixonfoundation.org/2014/12/day-william-reihnquist-lewis-powell-confirmed-associate-justices-supreme-court/",
+      "outlet": "Nixon Foundation",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Powell confirmed 89-1 by Senate",
+        "Nominated alongside William Rehnquist",
+        "Background of Powell's legal career"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

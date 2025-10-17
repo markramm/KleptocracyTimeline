@@ -1,0 +1,51 @@
+{
+  "id": "2000-03-06--bush-creates-rangerspioneers-pay-to-play-appointme",
+  "date": "2000-03-06",
+  "importance": 8,
+  "title": "Bush Creates Rangers/Pioneers Pay-to-Play Appointment System",
+  "summary": "George W. Bush formalized an unprecedented campaign bundling system where 'Rangers' raising 00,000+ and 'Pioneers' raising 00,000+ received federal appointments. In 2000, 241 Pioneers reached their goals, contributing to Bush raising 7 million in first 4 months. By 2004, the program included 221 Rangers, 327 Pioneers, and 62 'Super Rangers' raising 8.5 million combined. The pay-to-play pipeline was systematic: 173 Rangers/Pioneers received federal appointments, including 29 ambassadors and 4 Cabinet secretaries. Key examples included Mercer Reynolds (Texas Rangers co-owner with Bush) becoming Ambassador to Switzerland, Thomas Scully (Medicare administrator) designing Part D legislation favoring donors, and Sam Fox (Swift Boat funder) becoming Belgium ambassador. Designed by Karl Rove, this represented the most extensive formalization of campaign bundling in presidential politics. Nearly 1 in 5 elite fundraisers received appointments, creating direct quid pro quo between massive donations and government positions. The system institutionalized wealthy donors' access to federal policy-making roles regardless of qualifications.",
+  "actors": [
+    "George W. Bush",
+    "Karl Rove",
+    "Mercer Reynolds",
+    "Thomas Scully",
+    "Sam Fox",
+    "Rangers",
+    "Pioneers"
+  ],
+  "tags": [
+    "campaign-finance",
+    "pay-to-play",
+    "appointments",
+    "bundling",
+    "corruption",
+    "karl-rove"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Bush Rewards Rangers and Pioneers with Recess Appointments",
+      "url": "https://www.citizen.org/wp-content/uploads/migration/bushrewards.pdf",
+      "outlet": "Public Citizen",
+      "date": "2007-03-20"
+    },
+    {
+      "title": "The Buying of the President 2004",
+      "url": "https://www.publicintegrity.org/politics/buying-president-2004",
+      "outlet": "Center for Public Integrity",
+      "date": "2004-01-01"
+    },
+    {
+      "title": "Tracking the Bundlers",
+      "url": "https://www.cbsnews.com/news/tracking-the-bundlers/",
+      "outlet": "CBS News",
+      "date": "2004-10-28"
+    }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

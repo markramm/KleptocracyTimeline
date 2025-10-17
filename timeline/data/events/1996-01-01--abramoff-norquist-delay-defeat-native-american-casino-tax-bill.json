@@ -1,0 +1,47 @@
+{
+    "id": "1996-01-01--abramoff-norquist-delay-defeat-native-american-casino-tax-bill",
+    "date": "1996-01-01",
+    "title": "Abramoff-Norquist-DeLay Network Defeats Native American Casino Tax Bill",
+    "summary": "Jack Abramoff, working for the Mississippi Band of Choctaw Indians, successfully mobilized a network including Grover Norquist's Americans for Tax Reform and House Majority Whip Tom DeLay to defeat a Congressional bill that would have imposed unrelated business income tax (UBIT) on Native American casinos. This early collaboration established the operational template for the Abramoff lobbying network, demonstrating how strategic political relationships could be leveraged to block targeted legislation.",
+    "importance": 8,
+    "actors": [
+        "Jack Abramoff",
+        "Grover Norquist",
+        "Tom DeLay",
+        "Ralph Reed",
+        "Bill Archer",
+        "Ernest Istook",
+        "Mississippi Band of Choctaw Indians"
+    ],
+    "sources": [
+        {
+            "outlet": "NPR",
+            "title": "Six Degrees Of Jack Abramoff",
+            "url": "https://www.npr.org/2007/01/19/126399271/six-degrees-of-jack-abramoff"
+        },
+        {
+            "outlet": "Justice Department Archive",
+            "title": "Former Lobbyist Jack Abramoff Sentenced",
+            "url": "https://www.justice.gov/archive/opa/pr/2008/September/08-crm-779.html"
+        },
+        {
+            "outlet": "Wikipedia",
+            "title": "Jack Abramoff Indian Lobbying Scandal",
+            "url": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal"
+        }
+    ],
+    "tags": [
+        "lobbying-corruption",
+        "regulatory-capture",
+        "political-corruption",
+        "native-american-affairs",
+        "tax-policy"
+    ],
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Legislative Capture",
+        "Corporate Lobbying"
+    ],
+    "status": "verified",
+    "priority_id": "RT-EXP-95366B7D-jack-abramoff-indian-casino-network"
+}

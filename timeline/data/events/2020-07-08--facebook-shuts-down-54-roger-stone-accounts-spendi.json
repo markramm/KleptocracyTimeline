@@ -1,0 +1,49 @@
+{
+  "id": "2020-07-08--facebook-shuts-down-54-roger-stone-accounts-spendi",
+  "date": "2020-07-08",
+  "importance": 6,
+  "title": "Facebook shuts down 54 Roger Stone accounts spending $300K",
+  "summary": "Facebook removed network of 54 accounts, 50 pages, and 4 Instagram accounts linked to Roger Stone in July 2020. Network spent over $308,000 on advertising since 2015, used fake accounts to pose as Florida residents and evade enforcement. Connected to Proud Boys and active during 2016 election when Stone advised Trump campaign.",
+  "location": "United States",
+  "actors": [
+    "Roger Stone",
+    "Facebook"
+  ],
+  "tags": [
+    "disinformation",
+    "social-media",
+    "stone-network",
+    "information-warfare"
+  ],
+  "capture_lanes": [
+    "Information & Media Control"
+  ],
+  "sources": [
+    {
+      "title": "Facebook removes Stone network",
+      "url": "https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior",
+      "outlet": "Facebook",
+      "date": "2020-07-08"
+    },
+    {
+      "title": "Facebook closes network of accounts and pages affiliated with Roger Stone for manipulation",
+      "url": "https://www.washingtonpost.com/technology/2020/07/08/facebook-roger-stone/",
+      "outlet": "Washington Post",
+      "date": "2020-07-08"
+    },
+    {
+      "title": "Facebook removes network of inauthentic behavior tied to Roger Stone",
+      "url": "https://www.cnbc.com/2020/07/08/facebook-removes-network-of-inauthentic-behavior-tied-to-roger-stone.html",
+      "outlet": "CNBC",
+      "date": "2020-07-08"
+    },
+    {
+      "title": "Facebook takes down Roger Stone-affiliated accounts, pages",
+      "url": "https://thehill.com/policy/technology/506435-facebook-takes-down-roger-stone-affiliated-accounts-pages-for-coordinated/",
+      "outlet": "The Hill",
+      "date": "2020-07-08"
+    }
+  ],
+  "notes": "Digital influence operations parallel to Russian active measures tactics",
+  "status": "confirmed"
+}

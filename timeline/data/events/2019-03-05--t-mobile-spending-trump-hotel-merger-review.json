@@ -1,0 +1,63 @@
+{
+  "id": "2019-03-05--t-mobile-spending-trump-hotel-merger-review",
+  "date": "2019-03-05",
+  "importance": 8,
+  "title": "During Sprint merger review, T-Mobile executives spent ~$195,000 at Trump's D.C. hotel",
+  "summary": "While seeking federal approval of the T-Mobile–Sprint merger, T-Mobile executives sharply increased spending at Trump International Hotel in Washington—about $195,000 on rooms, meeting space, and services—according to company letters and reporting. The company said the stays did not affect the merger's review. T-Mobile executives began extensively patronizing the Trump Hotel immediately after announcing their merger with Sprint, raising significant conflicts of interest concerns that prompted congressional investigation and oversight.",
+  "notes": "Use company letter figures reported by Reuters and the Washington Post; note that the FCC/DOJ approvals proceeded separately, but the patronage raised conflict-of-interest concerns.",
+  "status": "confirmed",
+  "actors": [
+    "T-Mobile US",
+    "Sprint",
+    "Trump International Hotel Washington",
+    "FCC",
+    "DOJ Antitrust Division",
+    "Senator Elizabeth Warren",
+    "Representative Pramila Jayapal"
+  ],
+  "tags": [
+    "merger-review",
+    "lobbying",
+    "conflicts",
+    "corporate-influence",
+    "regulatory-capture"
+  ],
+  "patterns": [],
+  "related_events": [],
+  "capture_lanes": [
+    "Corporate Capture & Regulatory Breakdown"
+  ],
+  "location": "Washington, D.C.",
+  "sources": [
+    {
+      "date": "2019-03-05",
+      "outlet": "Reuters",
+      "title": "T-Mobile spent $195,000 at Trump hotel since merger announcement",
+      "url": "https://www.reuters.com/article/us-sprint-corp-m-a-trump/t-mobile-spent-195000-at-trump-hotel-in-d-c-since-merger-announcement-idUSKCN1QM1ZY/",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "~$195,000 figure; timing relative to merger announcement"
+      ],
+      "verified": true
+    },
+    {
+      "date": "2019-03-05",
+      "outlet": "ABC News",
+      "title": "T-Mobile spent more at Trump Hotel in Washington after news of Sprint merger",
+      "url": "https://abcnews.go.com/Politics/mobile-spent-trump-hotel-washington-news-sprint-merger/story?id=61484069",
+      "archive_url": "",
+      "key_facts_confirmed": [
+        "Detailed spending breakdown from T-Mobile executives during merger review",
+        "Spending increase coincided with merger approval process"
+      ],
+      "verified": true
+    },
+    {
+      "title": "Antitrust Enforcement After T-Mobile and Sprint Merger",
+      "url": "https://journals.library.columbia.edu/index.php/CBLR/announcement/view/286",
+      "outlet": "Columbia Business Law Review",
+      "date": "2020-02-01",
+      "description": "Academic analysis of regulatory review process and antitrust considerations for the T-Mobile Sprint merger"
+    }
+  ]
+}

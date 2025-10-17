@@ -1,0 +1,62 @@
+{
+  "id": "2025-05-09--large-investors-increased-stake-in-trump-media-by-hundreds-o",
+  "date": "2025-05-09",
+  "title": "Large investors increased stake in Trump Media by hundreds of millions",
+  "summary": "Large institutional investors have increased their stakes in Trump Media to the tune of hundreds of millions of dollars, despite the firm posting massive losses in 2024, in a possible attempt to curry favor with the president",
+  "description": "Large institutional investors have increased their stakes in Trump Media to the tune of hundreds of millions of dollars, despite the firm posting massive losses in 2024, in a possible attempt to curry favor with the president",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "kleptocracy",
+    "corruption"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Large investors increased stake in Trump Media by hundreds of millions",
+      "url": "https://www.theguardian.com/us-news/2025/may/09/trump-media-tmtg-shares",
+      "outlet": "The Guardian",
+      "date": "2025-05-09"
+    },
+    {
+      "title": "DJT shares fall 10% as Trump Media says it's raising 2.5 billion to buy bitcoin",
+      "url": "https://www.cnbc.com/2025/05/27/djt-trump-media-bitcoin.html",
+      "outlet": "CNBC",
+      "date": "2025-05-27"
+    },
+    {
+      "title": "Trump Media approves 400 million stock buyback",
+      "url": "https://www.cnbc.com/2025/06/23/trump-media-stock.html",
+      "outlet": "CNBC",
+      "date": "2025-06-23"
+    },
+    {
+      "title": "Trump Media shares drop after warning the president's trust and other insiders could sell stock",
+      "url": "https://www.cnbc.com/2025/04/02/trump-media-shares-drop-after-warning-the-presidents-trust-and-other-insiders-could-sell-stock.html",
+      "outlet": "CNBC",
+      "date": "2025-04-02"
+    },
+    {
+      "title": "Trump's social media company loses billions in value as stock price swings wildly",
+      "url": "https://www.cbsnews.com/news/trump-truth-social-djt-stock-down-losses-revenue-going-concern/",
+      "outlet": "CBS News",
+      "date": "2025-02-20"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "High-priority kleptocratic event from comprehensive timeline.",
+  "_merge_note": "Enhanced with information from duplicate event: 2025-05-09--large-investors-increased-stake-in-trump-media-by-",
+  "_merge_timestamp": "2025-09-05T23:46:55.898135",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Executive Power Expansion"
+  ]
+}

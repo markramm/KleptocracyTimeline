@@ -1,0 +1,46 @@
+{
+  "id": "2022-12-31--arabella-advisors-network-raises-record-135-billio",
+  "date": "2022-12-31",
+  "importance": 7,
+  "title": "Arabella Advisors Network Raises Record $1.35 Billion in Dark Money",
+  "summary": "The Arabella Advisors network, managing five nonprofit funds including the Sixteen Thirty Fund, raised $1.35 billion from anonymous donors in 2022, making it the dominant force in Democratic dark money operations. The Sixteen Thirty Fund alone spent $196 million on political causes including $66 million supporting liberal politicians and ballot initiatives. Swiss billionaire Hansj\u00f6rg Wyss has contributed $245 million to Arabella entities since 2016, with $208 million going to the Sixteen Thirty Fund. The Atlantic called it 'the indisputable heavyweight of Democratic dark money,' noting it was the second-largest super-PAC donor in 2020. The network faced scrutiny in September 2022 when the D.C. attorney general issued subpoenas seeking information on alleged financial mismanagement.",
+  "actors": [
+    "Arabella Advisors",
+    "Sixteen Thirty Fund",
+    "Hansj\u00f6rg Wyss",
+    "Eric Kessler"
+  ],
+  "tags": [
+    "dark-money",
+    "campaign-finance",
+    "political-influence",
+    "foreign-influence"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Under Ethics Scrutiny, Liberal Dark Money Behemoth Arabella Advisors Discloses $1.3 Billion Fundraising Haul",
+      "url": "https://freebeacon.com/democrats/under-ethics-scrutiny-liberal-dark-money-behemoth-arabella-advisors-discloses-1-3-billion-fundraising-haul/",
+      "outlet": "Washington Free Beacon",
+      "date": "2023-11-15"
+    },
+    {
+      "title": "Meet the Swiss Billionaire Behind Arabella Advisors Dark Money Empire",
+      "url": "https://capitalresearch.org/article/meet-the-swiss-billionaire-behind-arabella-advisors-dark-money-empire/",
+      "outlet": "Capital Research Center",
+      "date": "2023-02-08"
+    },
+    {
+      "title": "How a Secretive Billionaire Handed His Fortune to the Architect of the 'Dark Money' Political Network",
+      "url": "https://www.theatlantic.com/politics/archive/2021/09/anonymous-big-donor-conservative-nonprofit-16-thirty-fund/620092/",
+      "outlet": "The Atlantic",
+      "date": "2021-09-02"
+    }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
+}

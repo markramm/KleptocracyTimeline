@@ -1,0 +1,61 @@
+{
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "NASA Leadership",
+    "SpaceX",
+    "Elon Musk"
+  ],
+  "capture_lanes": [
+    "Systematic Corruption",
+    "Corporate Capture",
+    "Technological Infrastructure"
+  ],
+  "capture_type": "regulatory_capture",
+  "connections": [
+    "Elon Musk's SpaceX interests",
+    "Commercial space exploration privatization"
+  ],
+  "date": "2025-05-02",
+  "description": "The Trump administration proposes a radical $6 billion budget cut to NASA, simultaneously redirecting $1 billion towards Mars-focused missions, effectively dismantling numerous existing scientific programs.",
+  "id": "2025-05-02--nasa-proposal-would-shift-agency-s-focus-away-from-space-sci",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Budget restructuring demonstrates continued trend of redirecting public resources towards private sector interests",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-transformation",
+    "public-to-private-resource-shift"
+  ],
+  "sources": [
+    {
+      "date": "2025-05-02",
+      "outlet": "NASA",
+      "title": "President Trump's FY26 Budget Revitalizes Human Space Exploration",
+      "url": "https://www.nasa.gov/news-release/president-trumps-fy26-budget-revitalizes-human-space-exploration/"
+    },
+    {
+      "date": "2025-05-02",
+      "outlet": "CNBC",
+      "title": "Trump aims to cut $6 billion from NASA budget, shifting $1 billion to Mars-focused missions",
+      "url": "https://www.cnbc.com/2025/05/02/nasa-leader-warns-employees-tough-choices-ahead-with-6-billion-budget-cut-looming.html"
+    },
+    {
+      "date": "2025-05-02",
+      "outlet": "Science AAAS",
+      "title": "Dozens of active and planned NASA spacecraft killed in Trump budget request",
+      "url": "https://www.science.org/content/article/dozens-active-and-planned-nasa-spacecraft-killed-trump-budget-request"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "The Trump administration proposed a $6 billion cut to NASA's budget in 2025, strategically redirecting $1 billion towards Mars exploration while eliminating multiple ongoing scientific missions. This move aligns with Elon Musk's SpaceX interests and represents a significant shift in space exploration priorities, effectively privatizing and commercializing NASA's traditional scientific research programs.",
+  "tags": [
+    "kleptocracy",
+    "budget-cuts",
+    "space-exploration",
+    "nasa",
+    "trump-administration",
+    "privatization"
+  ],
+  "title": "NASA Proposal Shifts $6 Billion, Prioritizing Mars Missions and Commercial Space Interests"
+}

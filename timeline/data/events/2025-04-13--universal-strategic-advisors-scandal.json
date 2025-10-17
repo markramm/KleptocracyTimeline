@@ -1,0 +1,49 @@
+{
+  "id": "2025-04-13--universal-strategic-advisors-scandal",
+  "date": "2025-04-13",
+  "importance": 8,
+  "title": "ICE terminates $73 million no-bid contract after improper influence allegations",
+  "summary": "ICE terminated a $72.9 million no-bid contract with Universal Strategic Advisors after competitor protests exposed \"improper influence\" in securing the deal. The company's executives, Brian DeMore and David Marin, were previously sued for fabricating criminal evidence while at DHS. The contract was awarded without competition under \"emergency\" conditions, with the company having only one prior federal contract worth $1 million. Former ICE official Timothy Robbins, who worked under border czar Tom Homan, was CEO until March.",
+  "location": "United States",
+  "actors": [
+    "Universal Strategic Advisors",
+    "ICE",
+    "Brian DeMore",
+    "David Marin",
+    "Timothy Robbins",
+    "Nathan Young (Raven Investigations)"
+  ],
+  "tags": [
+    "no-bid-contracts",
+    "corruption",
+    "improper-influence",
+    "revolving-door",
+    "contract-fraud"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy",
+    "Corporate Capture & Regulatory Breakdown"
+  ],
+  "sources": [
+    {
+      "title": "No-Bid ICE Contract Went to Former ICE Agents Sued for Fabricating Criminal Evidence on the Job",
+      "url": "https://theintercept.com/2025/04/17/ice-deportation-contracts-us-advisors/",
+      "outlet": "The Intercept",
+      "date": "2025-04-17"
+    },
+    {
+      "title": "Universal Strategic Advisors Secures $73M ICE Contract for Critical Staffing Support",
+      "url": "https://www.hstoday.us/industry/industry-news/universal-strategic-advisors-secures-73m-ice-contract-for-critical-staffing-support/",
+      "outlet": "HSToday",
+      "date": "2025-04-01"
+    },
+    {
+      "title": "Rush of contracts on migrant crackdown exposes issues, contractors and experts say",
+      "url": "https://www.nbcnews.com/politics/national-security/rush-contracts-migrant-crackdown-exposes-issues-contractors-experts-sa-rcna203558",
+      "outlet": "NBC News",
+      "date": "2025-04-18"
+    }
+  ],
+  "notes": "Contract was terminated April 18, just over a week after competitor Nathan Young filed objection. Company was the only one invited by DHS to submit a proposal, violating competitive bidding requirements. Executives' history of fabricating evidence raised serious integrity concerns.",
+  "status": "confirmed"
+}

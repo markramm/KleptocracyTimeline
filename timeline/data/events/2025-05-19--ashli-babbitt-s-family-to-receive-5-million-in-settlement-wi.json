@@ -1,0 +1,56 @@
+{
+  "id": "2025-05-19--ashli-babbitt-s-family-to-receive-5-million-in-settlement-wi",
+  "date": "2025-05-19",
+  "title": "DOJ Settles Ashli Babbitt Lawsuit for $5 Million, Sparking Law Enforcement Controversy",
+  "summary": "The Trump administration's Department of Justice agreed to pay $5 million to settle a wrongful death lawsuit brought by the family of Ashli Babbitt, the January 6 rioter fatally shot while attempting to breach the Capitol. The settlement, which resolves a $30 million suit, drew criticism from Capitol Police leadership who argued it sends a 'chilling message' to law enforcement.",
+  "description": "The DOJ agreed to pay January 6 insurrectionist Ashli Babbitt's family $5 million to settle their lawsuit, signaling potential systemic legal manipulation and political influence in law enforcement accountability.",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Capitol Police",
+    "Tom Manger"
+  ],
+  "tags": [
+    "government-contracts",
+    "justice-weaponization",
+    "january-6-aftermath",
+    "legal-settlement"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "date": "2025-05-02",
+      "outlet": "Reuters (via U.S. News)",
+      "title": "US to Settle With Family of Woman Killed During 2021 Capitol Riot",
+      "url": "https://www.usnews.com/news/top-news/articles/2025-05-02/us-to-settle-with-family-of-woman-killed-during-capitol-riot-reports-say"
+    },
+    {
+      "date": "2025-05-19",
+      "outlet": "ABC News",
+      "title": "Ashli Babbitt's family to receive $5 million in settlement with Trump administration: Sources",
+      "url": "https://abcnews.go.com/Politics/trump-administration-pay-5-million-settle-lawsuit-ashli/story?id=121959389"
+    },
+    {
+      "date": "2025-05-19",
+      "outlet": "The Washington Post",
+      "title": "Ashli Babbitt wrongful-death suit to be settled for nearly $5 million",
+      "url": "https://www.washingtonpost.com/national-security/2025/05/19/ashli-babbitt-lawsuit-settlement/"
+    }
+  ],
+  "connections": [
+    "2021 January 6 Capitol Riot",
+    "Law Enforcement Accountability"
+  ],
+  "patterns": [
+    "kleptocratic-capture",
+    "legal-manipulation"
+  ],
+  "notes": "Event highlights complex legal and political dynamics surrounding the January 6 Capitol riot.",
+  "capture_lanes": [
+    "Executive Power Expansion",
+    "Judicial Manipulation"
+  ]
+}

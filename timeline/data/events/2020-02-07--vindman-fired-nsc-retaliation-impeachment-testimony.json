@@ -1,0 +1,70 @@
+{
+  "actors": [
+    "Donald Trump",
+    "Lt. Col. Alexander Vindman",
+    "Lt. Col. Yevgeny Vindman",
+    "National Security Council",
+    "U.S. Army",
+    "David Pressman",
+    "Adam Schiff"
+  ],
+  "capture_lanes": [
+    "Military Politicization",
+    "Executive Branch Corruption",
+    "Constitutional Subversion"
+  ],
+  "date": "2020-02-07",
+  "id": "2020-02-07--vindman-fired-nsc-retaliation-impeachment-testimony",
+  "importance": 8,
+  "location": "White House, Washington DC",
+  "sources": [
+    {
+      "title": "Lt. Col. Vindman, fired by White House after testifying in Trump impeachment",
+      "url": "https://www.stripes.com/branches/army/lt-col-vindman-fired-by-white-house-after-testifying-in-trump-impeachment-will-retire-from-army-1.636781",
+      "outlet": "Stars and Stripes",
+      "date": "2020-07-08",
+      "verified": true
+    },
+    {
+      "title": "Trump blasts dismissed Army officer at center of impeachment inquiry",
+      "url": "https://www.militarytimes.com/news/pentagon-congress/2020/02/08/trump-blasts-fired-army-officer-at-center-of-impeachment-inquiry-as-insubordinate-dishonest/",
+      "outlet": "Military Times",
+      "date": "2020-02-08",
+      "verified": true
+    },
+    {
+      "title": "Alexander Vindman, NSC official who testified in impeachment trial, removed from White House",
+      "url": "https://www.cbsnews.com/news/alexander-vindman-removed-from-white-house-today/",
+      "outlet": "CBS News",
+      "date": "2020-02-07",
+      "verified": true
+    },
+    {
+      "title": "Lt. Col. Vindman's former Army commander pushes back on Trump's decision to dismiss officer from National Security Council staff",
+      "url": "https://www.armytimes.com/news/your-army/2020/02/10/lt-col-vindmans-former-army-commander-pushes-back-on-trumps-decision-to-dismiss-officer-from-national-security-council-staff/",
+      "outlet": "Army Times",
+      "date": "2020-02-11",
+      "verified": true
+    },
+    {
+      "title": "Lt. Col. Vindman, Witness In Trump Impeachment, Is Retiring From Military",
+      "url": "https://www.npr.org/2020/07/08/888933684/lt-col-vindman-witness-in-trump-impeachment-is-retiring-from-military",
+      "outlet": "NPR",
+      "date": "2020-07-08",
+      "verified": true
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Army Lt. Col. Alexander Vindman, the Ukraine expert on the National Security Council who testified in Trump's impeachment proceedings, is escorted out of the White House and removed from his NSC position just days after Trump's Senate acquittal. This unprecedented retaliation follows Vindman's testimony about the July 25, 2019 phone call between Trump and Ukrainian President Zelensky, where he raised concerns about potential misconduct. Vindman and his twin brother Yevgeny, also an NSC lawyer, were both dismissed, demonstrating a clear pattern of punitive action against military personnel who provide truthful testimony to Congress. Vindman's lawyer, David Pressman, characterized the dismissal as retaliation, stating that Vindman was 'asked to leave for telling the truth.' The incident highlights the Trump administration's willingness to undermine military professionals who uphold their constitutional and ethical obligations.",
+  "tags": [
+    "vindman",
+    "retaliation",
+    "impeachment",
+    "nsc",
+    "military-politicization",
+    "chain-command",
+    "constitutional-crisis",
+    "whistleblower-protection"
+  ],
+  "title": "Trump Fires Lt. Col. Vindman from NSC in Retaliation for Impeachment Testimony"
+}

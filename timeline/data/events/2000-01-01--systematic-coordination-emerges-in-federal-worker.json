@@ -1,0 +1,45 @@
+{
+  "id": "2000-01-01--systematic-coordination-emerges-in-federal-worker",
+  "date": "2025-01-20",
+  "title": "Project 2025: Systematic Dismantling of Federal Civil Service Infrastructure",
+  "summary": "The Trump administration, through Project 2025 and the Department of Government Efficiency (DOGE), launches a comprehensive strategy to fundamentally transform the federal workforce by implementing Schedule F (renamed 'Schedule Policy/Career'), which strips civil service protections from policy-related roles. This coordinated effort aims to replace merit-based civil servants with politically loyal appointees, potentially eliminating up to 1 million federal jobs through agency dismantling, hiring freezes, and targeted reductions.",
+  "actors": [
+    "Heritage Foundation",
+    "Kevin D. Roberts",
+    "Donald Trump",
+    "Elon Musk",
+    "Department of Government Efficiency (DOGE)"
+  ],
+  "importance": 9,
+  "tags": [
+    "project-2025",
+    "schedule-f",
+    "regulatory-capture",
+    "institutional-corruption",
+    "civil-service-transformation"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Political Patronage",
+    "Institutional Transformation"
+  ],
+  "sources": [
+    {
+      "outlet": "Government Executive",
+      "title": "Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done That, and More",
+      "url": "https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/",
+      "date": "2025-04"
+    },
+    {
+      "outlet": "American Federation of Government Employees (AFGE)",
+      "title": "Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal Workers",
+      "url": "https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers"
+    },
+    {
+      "outlet": "Fact Check",
+      "title": "Trump, Project 2025 and the 'Dismantling' of the 'Administrative State'",
+      "url": "https://www.factcheck.org/2025/09/trump-project-2025-and-the-dismantling-of-the-administrative-state/"
+    }
+  ],
+  "status": "validated"
+}

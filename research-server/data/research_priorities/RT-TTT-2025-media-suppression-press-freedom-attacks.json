@@ -1,0 +1,32 @@
+{
+  "id": "RT-TTT-2025-media-suppression-press-freedom-attacks",
+  "title": "Media Suppression and Press Freedom Systematic Attacks (2025)",
+  "description": "Research systematic attacks on press freedom including journalist prosecutions, media outlet licensing threats, broadcast license revocations, and the weaponization of federal agencies against independent media. Trump Tyranny Tracker documented extensive press suppression efforts that represent unprecedented attacks on First Amendment protections.",
+  "priority": "high",
+  "status": "pending",
+  "expected_events": 8,
+  "research_focus": [
+    "Journalist prosecution and intimidation campaigns",
+    "Media outlet licensing threat escalation",
+    "Broadcast license revocation attempts",
+    "FCC weaponization against independent media",
+    "Secret Service press access restrictions",
+    "White House press credential revocations",
+    "Antitrust actions against critical media",
+    "International journalist visa restrictions",
+    "State-level media suppression coordination"
+  ],
+  "key_search_terms": [
+    "journalist prosecution",
+    "media licensing threat",
+    "broadcast license revocation",
+    "press freedom attack",
+    "FCC weaponization",
+    "press credential revocation",
+    "media antitrust"
+  ],
+  "timeline_gap_justification": "Trump Tyranny Tracker documented systematic press suppression as a key institutional capture mechanism, but our timeline lacks comprehensive coverage of these coordinated attacks on media independence.",
+  "source_validation": "Cross-reference media suppression incidents with journalism organizations, FCC records, and court filings to verify specific threats and actions.",
+  "importance_score": 8,
+  "tags": ["media_suppression", "press_freedom", "journalist_persecution", "fcc_weaponization", "broadcast_licensing", "first_amendment", "media_intimidation"]
+}

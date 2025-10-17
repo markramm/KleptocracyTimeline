@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-EC86869C-boeing-737-max-faa-self-certification",
+  "title": "Boeing 737 MAX FAA Self-Certification Scandal",
+  "description": "Document how Boeing was allowed to self-certify safety systems on the 737 MAX, leading to two crashes and demonstrating regulatory capture.",
+  "expected_events": 4,
+  "importance": 9,
+  "tags": [
+    "aviation-safety",
+    "regulatory-capture",
+    "corporate-malfeasance",
+    "regulatory-capture"
+  ],
+  "research_status": "not_started",
+  "time_period": "2011-2019"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "2022-12-15--trump-first-nft-collection",
+  "date": "2022-12-15",
+  "importance": 6,
+  "title": "Trump launches first NFT collection one month after campaign announcement",
+  "summary": "Trump launches first NFT collection of 45,000 'Trump Digital Trading Cards' for $99 each, selling out in under 12 hours and generating over $16 million in primary sales, marking his crypto debut one month after announcing presidential campaign.",
+  "location": "United States",
+  "actors": [
+    "Donald Trump",
+    "Trump Organization"
+  ],
+  "tags": [
+    "nft",
+    "crypto",
+    "campaign-finance",
+    "digital-assets"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "Donald Trump Announces $99 Digital Trading Card NFTs",
+      "url": "https://www.coindesk.com/web3/2022/12/15/trump-announces-99-digital-trading-card-nfts",
+      "outlet": "CoinDesk",
+      "date": "2022-12-15",
+      "archive_url": "https://web.archive.org/web/20250815000010/https://www.coindesk.com/web3/2022/12/15/trump-announces-99-digital-trading-card-nfts"
+    },
+    {
+      "title": "Donald Trump Now Has an NFT Collection—And Crypto Twitter 'Can't Even'",
+      "url": "https://decrypt.co/117317/donald-trump-nft-collection-crypto-cant-even",
+      "outlet": "Decrypt",
+      "date": "2022-12-15",
+      "archive_url": "https://web.archive.org/web/20250815000011/https://decrypt.co/117317/donald-trump-nft-collection-crypto-cant-even"
+    },
+    {
+      "title": "Donald Trump's first NFT collection sells out in less than a day",
+      "url": "https://www.cbsnews.com/news/donald-trump-first-nft-collection-sells-out-in-less-than-a-day/",
+      "outlet": "CBS News",
+      "date": "2022-12-15",
+      "archive_url": "https://web.archive.org/web/20251015000001/https://www.cbsnews.com/news/donald-trump-first-nft-collection-sells-out-in-less-than-a-day/"
+    },
+    {
+      "title": "Trump's 'Major Announcement' Was a Scammy, Superhero-Themed NFT Collection",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-announces-nft-trading-card-collection-1234648014/",
+      "outlet": "Rolling Stone",
+      "date": "2022-12-15",
+      "archive_url": "https://web.archive.org/web/20251015000002/https://www.rollingstone.com/politics/politics-news/trump-announces-nft-trading-card-collection-1234648014/"
+    }
+  ],
+  "notes": "Suspicious patterns with 115 collectors buying exactly 45 NFTs for Mar-a-Lago dinner",
+  "status": "confirmed"
+}

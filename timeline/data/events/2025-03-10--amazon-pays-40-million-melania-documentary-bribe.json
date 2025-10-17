@@ -1,0 +1,51 @@
+{
+  "actors": [
+    "Amazon",
+    "Jeff Bezos",
+    "Melania Trump",
+    "Donald Trump",
+    "Brett Ratner"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Media Capture"
+  ],
+  "date": "2025-03-10",
+  "id": "2025-03-10--amazon-pays-40-million-melania-documentary-bribe",
+  "importance": 8,
+  "sources": [
+    {
+      "date": "2025-01-07",
+      "outlet": "Mercury News",
+      "title": "Jeff Bezos' Amazon pays $40 million for Melania Trump documentary",
+      "url": "https://www.mercurynews.com/2025/01/07/jeff-bezos-amazon-pays-40-million-for-melania-trump-documentary/"
+    },
+    {
+      "date": "2025-01-10",
+      "outlet": "Common Dreams",
+      "title": "$40 Million Amazon Documentary Deal for Melania Trump Slammed as Corporate 'Pandering'",
+      "url": "https://www.commondreams.org/news/melanie-amazon-film-trump"
+    },
+    {
+      "date": "2025-04-29",
+      "outlet": "Senator Warren's Office",
+      "title": "Warren Highlights Amazon-Trump Quid Pro Quo",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Amazon agreed to pay $40 million for a documentary and limited series about Melania Trump, directed by Brett Ratner. The deal, far above market rates for similar content, came after Jeff Bezos met with Trump and as Amazon faced multiple federal investigations. The documentary, with Melania as an executive producer, is seen as a potential quid pro quo arrangement, with Amazon reportedly planning to donate $1 million to Trump's inaugural fund. Industry experts noted typical documentaries command $2-5 million, making the $40 million payment appear suspicious.",
+  "tags": [
+    "amazon",
+    "jeff-bezos",
+    "melania-trump",
+    "bribery",
+    "quid-pro-quo",
+    "documentary",
+    "corruption",
+    "media-capture",
+    "regulatory-capture"
+  ],
+  "title": "Amazon pays $40 million for Melania documentary in apparent quid pro quo arrangement"
+}

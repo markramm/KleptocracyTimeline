@@ -1,0 +1,53 @@
+{
+    "id": "2025-04-15--trump-donors-eye-potential-bonanza-if-us-succeeds-with-green",
+    "date": "2025-04-15",
+    "title": "Trump Donors Seek Greenland Investment Opportunities",
+    "summary": "Several major Trump donors, including tech billionaires and investment firms, are positioning themselves to potentially profit from the Trump Administration's continued pursuit of strategic interests in Greenland, focusing on rare earth mineral rights and geopolitical positioning.",
+    "description": "Donors and investors with close ties to Trump are exploring potential financial gains from the administration's persistent interest in Greenland's strategic resources and geopolitical significance.",
+    "status": "confirmed",
+    "importance": 7,
+    "location": "Washington, D.C.",
+    "actors": [
+        "Donald Trump",
+        "Mark Zuckerberg",
+        "Sam Altman",
+        "Jeff Bezos",
+        "Howard Lutnick",
+        "Drew Horn"
+    ],
+    "tags": [
+        "kleptocracy",
+        "trump-administration",
+        "rare-earth-minerals",
+        "arctic-geopolitics"
+    ],
+    "capture_type": "monetizing_position",
+    "sources": [
+        {
+            "title": "Trump Donors Eye Greenland Mineral Opportunities",
+            "url": "https://www.bloomberg.com/news/articles/2025-01-10/greenland-eyes-benefits-in-trump-s-proposed-land-grab",
+            "outlet": "Bloomberg",
+            "date": "2025-01-10"
+        },
+        {
+            "title": "Trump's Persistent Greenland Strategy Raises Ethical Questions",
+            "url": "https://www.npr.org/2025/01/07/nx-s1-5251168/trump-greenland",
+            "outlet": "NPR",
+            "date": "2025-01-07"
+        },
+        {
+            "title": "Trump Donors Eye Potential Bonanza",
+            "url": "https://www.theguardian.com/us-news/2025/apr/15/trump-greenland-donors-investors-finance",
+            "outlet": "The Guardian",
+            "date": "2025-04-15"
+        }
+    ],
+    "connections": [],
+    "patterns": [
+        "kleptocratic-capture"
+    ],
+    "notes": "Event highlights potential conflicts of interest with Trump donors positioning for Greenland resource investments.",
+    "capture_lanes": [
+        "Systematic Corruption"
+    ]
+}

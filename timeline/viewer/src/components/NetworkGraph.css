@@ -1,0 +1,355 @@
+.network-graph-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-attachment: fixed;
+}
+
+.network-graph {
+  width: 100%;
+  height: calc(100% - 60px);
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: grab;
+}
+
+.network-graph:active {
+  cursor: grabbing;
+}
+
+/* Graph Controls */
+.graph-controls {
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.control-group label {
+  font-weight: 500;
+  color: #333;
+}
+
+.control-group select {
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.control-group select:hover {
+  border-color: #667eea;
+}
+
+.control-group input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+/* Node Styles */
+.node {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.node:hover {
+  stroke-width: 4;
+  filter: brightness(1.2);
+}
+
+.node.event {
+  opacity: 0.9;
+}
+
+.node.actor {
+  opacity: 0.8;
+  stroke-dasharray: 2, 2;
+}
+
+/* Link Styles */
+.link {
+  fill: none;
+  pointer-events: none;
+}
+
+.link.temporal {
+  stroke-dasharray: 5, 5;
+}
+
+.link.thematic {
+  stroke-dasharray: 10, 5;
+}
+
+.link.involved {
+  stroke-dasharray: none;
+}
+
+/* Node Details Panel */
+.node-details {
+  position: absolute;
+  top: 80px;
+  right: 20px;
+  width: 350px;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.node-details h3 {
+  margin: 0 0 15px 0;
+  color: #1a1a1a;
+  font-size: 20px;
+  font-weight: 600;
+  border-bottom: 2px solid #667eea;
+  padding-bottom: 10px;
+}
+
+.node-details p {
+  margin: 10px 0;
+  color: #333;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.node-details p strong {
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+.node-details ul {
+  margin: 10px 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.node-details ul li {
+  margin: 8px 0;
+  padding: 8px 12px;
+  background: #f7f7f7;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #333;
+  line-height: 1.4;
+  border-left: 3px solid #667eea;
+}
+
+.node-details button {
+  margin-top: 15px;
+  padding: 8px 16px;
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.node-details button:hover {
+  background: #764ba2;
+}
+
+/* Legend */
+.graph-legend {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.graph-legend h4 {
+  margin: 0 0 10px 0;
+  font-size: 14px;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 6px 0;
+  font-size: 13px;
+  color: #666;
+}
+
+.legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.legend-color.judicial {
+  background: #e74c3c;
+}
+
+.legend-color.regulatory {
+  background: #3498db;
+}
+
+.legend-color.financial {
+  background: #2ecc71;
+}
+
+.legend-color.political {
+  background: #f39c12;
+}
+
+.legend-color.actor {
+  background: #95a5a6;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .network-graph-container {
+    height: 100vh;
+  }
+
+  .graph-controls {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .control-group {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .node-details {
+    top: auto;
+    bottom: 20px;
+    right: 20px;
+    left: 20px;
+    width: auto;
+  }
+
+  .graph-legend {
+    display: none; /* Hide on mobile to save space */
+  }
+}
+
+/* Tooltip for nodes */
+.node-tooltip {
+  position: absolute;
+  padding: 8px 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 4px;
+  font-size: 12px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+  z-index: 1000;
+}
+
+.node-tooltip.visible {
+  opacity: 1;
+}
+
+/* Loading state */
+.graph-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 18px;
+  color: #666;
+}
+
+.graph-loading::after {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  border: 3px solid #667eea;
+  border-radius: 50%;
+  border-top-color: transparent;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Export button */
+.export-graph {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.2s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.export-graph:hover {
+  background: #764ba2;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Graph stats */
+.graph-stats {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 8px 16px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  font-size: 13px;
+  color: #666;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.graph-stats span {
+  margin: 0 10px;
+}
+
+.graph-stats span:first-child {
+  margin-left: 0;
+}
+
+.graph-stats span:last-child {
+  margin-right: 0;
+}

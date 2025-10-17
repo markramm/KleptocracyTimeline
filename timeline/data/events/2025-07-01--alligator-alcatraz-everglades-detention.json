@@ -1,0 +1,56 @@
+{
+  "id": "2025-07-01--alligator-alcatraz-everglades-detention",
+  "date": "2025-07-01",
+  "importance": 9,
+  "title": "Florida opens \"Alligator Alcatraz\" tent detention camp in Everglades at $450 million annual cost",
+  "summary": "Florida opened a 3,000-5,000 person tent detention facility dubbed \"Alligator Alcatraz\" in the Everglades wetlands, costing $450 million annually\u2014three times the cost of existing facilities. Attorney General James Uthmeier boasted detainees who escape would face \"alligators and pythons.\" Built on Dade-Collier Airport runway without environmental review during hurricane season, the facility housed migrants in tents in extreme heat. By August 28, state officials evacuated all detainees after mounting legal challenges and safety concerns. The cost exceeded $90,000 per person annually.",
+  "location": "Dade-Collier Training and Transition Airport, Everglades, Florida",
+  "actors": [
+    "Florida Division of Emergency Management",
+    "James Uthmeier",
+    "Ron DeSantis",
+    "Donald Trump",
+    "Kevin Guthrie",
+    "Friends of the Everglades",
+    "Center for Biological Diversity"
+  ],
+  "tags": [
+    "detention-camps",
+    "environmental-violations",
+    "human-rights-violations",
+    "financial-waste",
+    "hurricane-risk"
+  ],
+  "capture_lanes": [
+    "Immigration & Border Militarization",
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "Alligator Alcatraz - Florida builds migrant detention center",
+      "url": "https://www.npr.org/2025/06/24/nx-s1-5443268/alligator-alcatraz-florida-everglades-migrant-detention-center",
+      "outlet": "NPR",
+      "date": "2025-06-24"
+    },
+    {
+      "title": "Florida builds Alligator Alcatraz for migrant detainees in Everglades",
+      "url": "https://www.washingtonpost.com/nation/2025/06/24/florida-desantis-ice-detention-center-everglades/",
+      "outlet": "Washington Post",
+      "date": "2025-06-24"
+    },
+    {
+      "title": "Florida Alligator Alcatraz detention facility to be empty within a few days",
+      "url": "https://www.npr.org/2025/08/28/nx-s1-5520698/alligator-alcatraz-detention-facility-empty",
+      "outlet": "NPR",
+      "date": "2025-08-28"
+    },
+    {
+      "title": "Alligator Alcatraz taking a big bite out of Florida tax dollars",
+      "url": "https://cbs12.com/news/cbs12-news-i-team/alligator-alcatraz-taking-a-big-bite-out-of-florida-tax-dollars-south-florida-news-everglades-undocumented-migrant-detention-facility-president-donald-trump-governor-ron-desantis-july-30-2025",
+      "outlet": "CBS12",
+      "date": "2025-07-30"
+    }
+  ],
+  "notes": "Trump toured facility July 1. Environmental groups filed suit for violating federal environmental review requirements. Sen. Carlos Guillermo Smith calculated the $90,000+ per person annual cost. Facility evacuated after less than two months of operation.",
+  "status": "confirmed"
+}

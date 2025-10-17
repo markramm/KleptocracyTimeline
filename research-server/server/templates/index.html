@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Interactive timeline viewer for corruption research">
+    <title>Timeline Viewer | Kleptocracy Research</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="/static/img/favicon.ico" type="image/x-icon">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="/manifest.json">
+    
+    <!-- Meta tags for PWA -->
+    <meta name="theme-color" content="#1a1a1a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Timeline Viewer">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/static/css/main.css">
+    <link rel="stylesheet" href="/static/css/timeline.css">
+    <link rel="stylesheet" href="/static/css/components.css">
+    
+    <!-- Font awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <h1 class="app-title">
+                    <i class="fas fa-timeline"></i>
+                    Timeline Viewer
+                </h1>
+                <nav class="header-nav">
+                    <button id="view-timeline" class="nav-btn active">
+                        <i class="fas fa-stream"></i> Timeline
+                    </button>
+                    <button id="view-network" class="nav-btn">
+                        <i class="fas fa-project-diagram"></i> Network
+                    </button>
+                    <button id="view-stats" class="nav-btn">
+                        <i class="fas fa-chart-bar"></i> Statistics
+                    </button>
+                </nav>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Loading Screen -->
+            <div id="loading-screen" class="loading-screen">
+                <div class="loading-spinner">
+                    <i class="fas fa-cog fa-spin"></i>
+                </div>
+                <p>Loading timeline data...</p>
+            </div>
+
+            <!-- Timeline View -->
+            <div id="timeline-view" class="view-container active">
+                <!-- Search and Filters -->
+                <div class="controls-panel">
+                    <div class="search-container">
+                        <input type="text" id="search-input" placeholder="Search events, actors, or content...">
+                        <button id="search-btn">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="filters-container">
+                        <select id="importance-filter">
+                            <option value="">All Importance Levels</option>
+                            <option value="9,10">Critical (9-10)</option>
+                            <option value="7,8">High (7-8)</option>
+                            <option value="5,6">Medium (5-6)</option>
+                            <option value="1,2,3,4">Low (1-4)</option>
+                        </select>
+                        
+                        <select id="year-filter">
+                            <option value="">All Years</option>
+                        </select>
+                        
+                        <select id="actor-filter">
+                            <option value="">All Actors</option>
+                        </select>
+                        
+                        <select id="tag-filter">
+                            <option value="">All Tags</option>
+                        </select>
+                    </div>
+                    
+                    <div class="results-info">
+                        <span id="results-count">Loading...</span>
+                    </div>
+                </div>
+
+                <!-- Timeline Container -->
+                <div id="timeline-container" class="timeline-container">
+                    <!-- Events will be populated here -->
+                </div>
+
+                <!-- Pagination -->
+                <div id="pagination-container" class="pagination-container">
+                    <button id="prev-page" class="page-btn" disabled>
+                        <i class="fas fa-chevron-left"></i> Previous
+                    </button>
+                    <span id="page-info">Page 1 of 1</span>
+                    <button id="next-page" class="page-btn" disabled>
+                        Next <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Network View -->
+            <div id="network-view" class="view-container">
+                <div class="network-container">
+                    <canvas id="network-canvas"></canvas>
+                </div>
+                <div class="network-controls">
+                    <button id="network-reset">Reset View</button>
+                    <label>
+                        Min Connections: 
+                        <input type="number" id="min-connections" value="3" min="1" max="20">
+                    </label>
+                </div>
+            </div>
+
+            <!-- Statistics View -->
+            <div id="stats-view" class="view-container">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Overview</h3>
+                        <div id="overview-stats">Loading...</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Top Actors</h3>
+                        <div id="actor-stats">Loading...</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Importance Distribution</h3>
+                        <div id="importance-stats">Loading...</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Timeline Coverage</h3>
+                        <div id="timeline-stats">Loading...</div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Event Detail Modal -->
+        <div id="event-modal" class="modal">
+            <div class="modal-content">
+                <span class="modal-close">&times;</span>
+                <div id="event-details">
+                    <!-- Event details will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="/static/js/api.js"></script>
+    <script src="/static/js/timeline.js"></script>
+    <script src="/static/js/network.js"></script>
+    <script src="/static/js/statistics.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+    "date": "1993-01-01",
+    "title": "Grover Norquist Wednesday Meetings Begin - Conservative Coordination Hub",
+    "summary": "Grover Norquist launched his weekly Wednesday Meeting series at Americans for Tax Reform (ATR) headquarters in 1993, initially to coordinate opposition to President Clinton's healthcare plan. The meetings became a critical coordination mechanism for conservative movement strategy, bringing together over 150 Republican congressional leaders, right-leaning think tanks, conservative advocacy groups, and K Street lobbyists. These weekly gatherings served as the 'Grand Central station of the conservative movement', establishing a nationwide network to advance conservative political initiatives.",
+    "actors": [
+        "Grover Norquist",
+        "Americans for Tax Reform",
+        "Republican Congressional Leadership",
+        "K Street Lobbyists"
+    ],
+    "sources": [
+        {
+            "outlet": "CBS News",
+            "title": "A Conservative War Room Opens Its Doors",
+            "url": "https://www.cbsnews.com/news/a-conservative-war-room-opens-its-doors/",
+            "verified": true
+        },
+        {
+            "outlet": "Greensboro News",
+            "title": "Conservatives Pencil In Wednesday Meeting: Grover Norquist's Weekly Gathering Illustrates the Direct Pipeline the Right Has to the White House",
+            "url": "https://greensboro.com/conservatives-pencil-in-wednesday-meeting-grover-norquists-weekly-gathering-illustrates-the-direct-pipeline-the-right/article_21843295-7e0f-5fe0-b6cc-f3d89c7a6df8.html",
+            "verified": true
+        },
+        {
+            "outlet": "Americans for Tax Reform",
+            "title": "About Coalition Meetings",
+            "url": "https://atr.org/about/coalition-meetings/",
+            "verified": true
+        }
+    ],
+    "importance": 8,
+    "tags": [
+        "conservative-coordination",
+        "lobbying-influence",
+        "political-networks",
+        "systematic-organization"
+    ],
+    "status": "confirmed",
+    "id": "1993-01-01--grover-norquist-wednesday-meetings-begin-conserva",
+    "priority_id": "RT-85893EE2-gingrich-k-street-project",
+    "capture_lanes": [
+        "Legislative Capture",
+        "Electoral Manipulation",
+        "Executive Power Expansion"
+    ]
+}

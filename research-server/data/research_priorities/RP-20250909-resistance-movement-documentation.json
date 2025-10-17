@@ -1,0 +1,19 @@
+{
+  "id": "RP-20250909-resistance-movement-documentation",
+  "title": "Resistance Movement Documentation",
+  "description": "Research and document organized resistance efforts, civil society responses, legal challenges, and grassroots movements opposing institutional capture.",
+  "priority": 7,
+  "status": "completed",
+  "category": "pdf-analysis",
+  "tags": [
+    "high-priority",
+    "resistance",
+    "civil-society"
+  ],
+  "estimated_events": 5,
+  "source_document": "documents/incoming/Resistance Documentation Framework.pdf",
+  "created_date": "2025-09-09",
+  "requires_pdf_analysis": true,
+  "events_created": 3,
+  "completion_date": "2025-01-15"
+}

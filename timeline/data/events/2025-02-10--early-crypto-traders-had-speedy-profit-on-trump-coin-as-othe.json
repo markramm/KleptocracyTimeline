@@ -1,0 +1,59 @@
+{
+  "id": "2025-02-10--early-crypto-traders-had-speedy-profit-on-trump-coin-as-othe",
+  "date": "2025-02-10",
+  "title": "Early crypto traders had speedy profit on Trump coin as others suffered losses",
+  "summary": "Early $TRUMP cryptocurrency insiders made millions of dollars, and Trump and his family pocketed nearly $100 million in fees, while over 800,000 investors lost a combined $2 billion",
+  "description": "Early $TRUMP cryptocurrency insiders made millions of dollars, and Trump and his family pocketed nearly $100 million in fees, while over 800,000 investors lost a combined $2 billion",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "crypto",
+    "government-contracts"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Early crypto traders had speedy profit on Trump coin as others suffered losses",
+      "url": "https://www.nytimes.com/2025/02/09/us/politics/trump-crypto-memecoin.html",
+      "outlet": "New York Times",
+      "date": "2025-02-10"
+    },
+    {
+      "title": "Trump and His Family Earned Millions From Trump Coin While 810,000 Others Lost Money",
+      "url": "https://www.rollingstone.com/politics/politics-news/trump-meme-coin-2-billion-ls-1235261422/",
+      "outlet": "Rolling Stone",
+      "date": "2025-02-10"
+    },
+    {
+      "title": "Thousands of investors in Trump's memecoin lost $2 billion in just weeks while the family and its partners racked up $100 million in trading fees",
+      "url": "https://fortune.com/2025/02/11/trump-memecoin-traders-2-billion-dollar-loss-family-100-million-fees/",
+      "outlet": "Fortune",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "810,000 Investors Have Lost Over $2 Billion on Trump Coin",
+      "url": "https://www.asiafinancial.com/810000-investors-have-lost-over-2-billion-on-trump-coin-nyt",
+      "outlet": "Asia Financial",
+      "date": "2025-02-10"
+    },
+    {
+      "title": "Over 760K lost money on Donald Trump's memecoin",
+      "url": "https://www.thestreet.com/crypto/markets/over-760k-lost-money-on-donald-trumps-memecoin-report",
+      "outlet": "TheStreet",
+      "date": "2025-02-10"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

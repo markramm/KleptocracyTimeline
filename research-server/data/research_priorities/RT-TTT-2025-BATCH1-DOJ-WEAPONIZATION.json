@@ -1,0 +1,24 @@
+{
+  "id": "RT-TTT-2025-BATCH1-DOJ-WEAPONIZATION",
+  "title": "DOJ Weaponization and Political Prosecution Coordination",
+  "description": "Documentation of Department of Justice politicization, specific cases, prosecutor targeting, and coordination mechanisms. Identified 566 pattern instances showing systematic efforts to weaponize DOJ for political purposes.",
+  "research_questions": [
+    "What are the specific mechanisms used for DOJ weaponization?",
+    "Who are the key actors coordinating political prosecutions?",
+    "What timeline evidence exists for systematic DOJ politicization?",
+    "Which prosecutors and cases show evidence of political targeting?",
+    "How does DOJ weaponization coordinate with other institutional capture efforts?"
+  ],
+  "expected_events": "15-20",
+  "priority_level": "CRITICAL",
+  "status": "pending",
+  "source_analysis": "Trump Tyranny Tracker Batch 1 Analysis - 566 DOJ weaponization patterns identified across 45 articles",
+  "creation_date": "2025-09-10T10:55:05.463573",
+  "tags": [
+    "doj",
+    "weaponization",
+    "political-prosecution",
+    "attorney-general",
+    "prosecutors"
+  ]
+}

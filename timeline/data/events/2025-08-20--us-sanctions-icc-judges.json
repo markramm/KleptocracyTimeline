@@ -1,0 +1,67 @@
+{
+  "id": "2025-08-20--us-sanctions-icc-judges",
+  "date": "2025-08-20",
+  "title": "US Imposes Unprecedented Sanctions on Four International Criminal Court Officials",
+  "summary": "On August 20, 2025, the United States imposed targeted sanctions on four International Criminal Court (ICC) officials, escalating an ongoing campaign to obstruct international judicial proceedings into potential war crimes.\n\nKey Details:\n- Four officials sanctioned: Two judges (Kimberly Prost and Nicolas Guillou) and two deputy prosecutors\n- Sanctions include asset freezes and travel bans\n- Targeted officials from Canada, France, Fiji, and Senegal\n- Follows previous sanctions on ICC Prosecutor Karim Khan and other court officials\n\nPolitical Context:\n- Sanctions primarily targeted officials investigating potential war crimes in Afghanistan and Gaza\n- Secretary of State Marco Rubio characterized ICC as a 'national security threat'\n- Part of broader strategy to shield US and Israeli personnel from international legal scrutiny\n\nSignificance: These sanctions represent a direct challenge to international judicial independence, specifically targeting officials investigating potential war crimes. The move signals an aggressive stance against international accountability mechanisms and undermines the principles of international law.",
+  "importance": 10,
+  "actors": [
+    "Kimberly Prost",
+    "Nicolas Guillou", 
+    "Nazhat Shameem Khan",
+    "Mame Mandiaye Niang",
+    "Marco Rubio",
+    "Volker Türk",
+    "Karim A.A. Khan"
+  ],
+  "sources": [
+    {
+      "date": "2025-08-20",
+      "outlet": "International Criminal Court",
+      "title": "ICC Strongly Rejects New US Sanctions Against Judges and Deputy Prosecutors",
+      "url": "https://www.icc-cpi.int/news/icc-strongly-rejects-new-us-sanctions-against-judges-and-deputy-prosecutors"
+    },
+    {
+      "date": "2025-08-20",
+      "outlet": "United Nations",
+      "title": "UN Rights Chief Decries 'Relentless Intensification' of US Sanctions Against ICC Staff",
+      "url": "https://news.un.org/en/story/2025/08/1165696"
+    },
+    {
+      "date": "2025-08-20",
+      "outlet": "US State Department",
+      "title": "Imposing Sanctions in Response to the ICC's Actions Targeting the United States and Israel",
+      "url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/08/imposing-further-sanctions-in-response-to-the-iccs-ongoing-threat-to-americans-and-israelis"
+    },
+    {
+      "date": "2025-08-20",
+      "outlet": "Washington Post",
+      "title": "US Sanctions More ICC Judges, Prosecutors for Probes into Alleged American, Israeli War Crimes",
+      "url": "https://www.washingtonpost.com/politics/2025/08/20/us-icc-trump-israel-rubio-sanctions/3d76b038-7de4-11f0-971c-6c8e53bd2f21_story.html"
+    },
+    {
+      "date": "2025-08-20",
+      "outlet": "Axios",
+      "title": "'Threat to Americans and Israelis': Trump Admin Imposes Fresh Sanctions on ICC Officials",
+      "url": "https://www.axios.com/2025/08/21/trump-icc-sanctions-israel-rubio-us-israel-afghanistan"
+    }
+  ],
+  "tags": [
+    "icc-sanctions",
+    "international-law",
+    "judicial-independence",
+    "rule-of-law",
+    "neutralize-referees",
+    "international-justice",
+    "israel-palestine",
+    "war-crimes",
+    "democratic-erosion",
+    "judicial-capture",
+    "accountability-obstruction"
+  ],
+  "capture_lanes": [
+    "Judicial Interference",
+    "International Legal Obstruction",
+    "Diplomatic Pressure Tactics"
+  ],
+  "validation_status": "pending"
+}

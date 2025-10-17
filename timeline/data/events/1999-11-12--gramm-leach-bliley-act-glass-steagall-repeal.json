@@ -1,0 +1,55 @@
+{
+  "actors": [
+    "Bill Clinton",
+    "Phil Gramm",
+    "Jim Leach",
+    "Thomas Bliley",
+    "Congress"
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Regulatory Capture"
+  ],
+  "date": "1999-11-12",
+  "id": "1999-11-12--gramm-leach-bliley-act-glass-steagall-repeal",
+  "importance": 10,
+  "location": "Washington, D.C.",
+  "sources": [
+    {
+      "outlet": "University of Arkansas Research",
+      "title": "Impact of the Gramm-Leach-Bliley Act",
+      "url": "https://news.uark.edu/articles/10167/impact-of-the-gramm-leach-bliley-act"
+    },
+    {
+      "outlet": "Demos",
+      "title": "Owning the Consequences: Clinton and the Repeal of Glass-Steagall",
+      "url": "https://www.demos.org/blog/owning-consequences-clinton-and-repeal-glass-steagall"
+    },
+    {
+      "outlet": "Federal Reserve History",
+      "title": "Financial Services Modernization Act of 1999",
+      "url": "https://www.federalreservehistory.org/essays/gramm-leach-bliley-act"
+    },
+    {
+      "outlet": "Duke University",
+      "title": "The Financial Services Modernization Act of 1999",
+      "url": "https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "President Bill Clinton signs the Financial Services Modernization Act (Gramm-Leach-Bliley Act), formally repealing key provisions of the Glass-Steagall Act after two decades of systematic erosion. The legislation, sponsored by Senator Phil Gramm, Representative Jim Leach, and Representative Thomas Bliley, passes with overwhelming bipartisan support (90-8 in Senate, 362-57 in House), legitimizing the regulatory violations already approved by the Federal Reserve. Clinton declares 'the Glass-Steagall law is no longer appropriate,' completing the banking industry's capture campaign that began in the 1980s and creating the deregulated financial system that contributes to the 2008 financial crisis.",
+  "tags": [
+    "gramm-leach-bliley-act",
+    "glass-steagall-repeal",
+    "financial-deregulation",
+    "clinton-administration",
+    "bipartisan-support"
+  ],
+  "title": "Clinton Signs Gramm-Leach-Bliley Act Formally Repealing Glass-Steagall",
+  "validation_metadata": {
+    "validated_by": "qa-v2-725",
+    "validation_date": "2025-10-15",
+    "source_count_before": 2,
+    "source_count_after": 4
+  }
+}

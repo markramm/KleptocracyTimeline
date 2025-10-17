@@ -1,0 +1,77 @@
+[
+  {
+    "id": "2005-10-13--faa-establishes-oda-program-boeing-self-certification",
+    "title": "FAA Establishes Organization Designation Authorization Program, Granting Boeing Self-Certification Powers",
+    "date": "2005-10-13",
+    "description": "The FAA formally established the Organization Designation Authorization (ODA) program, allowing aircraft manufacturers like Boeing to delegate certification responsibilities to their own employees. This marked a fundamental shift from direct FAA oversight to industry self-regulation, with Boeing eventually certifying 96% of its own work by 2018.",
+    "category": "regulatory_capture",
+    "tags": ["boeing", "faa", "regulatory_capture", "oda", "aviation_safety", "self_certification"],
+    "sources": [
+      {
+        "title": "Establishment of Organization Designation Authorization Program",
+        "url": "https://www.federalregister.gov/documents/2005/10/13/05-20470/establishment-of-organization-designation-authorization-program",
+        "date": "2005-10-13",
+        "outlet": "Federal Register"
+      },
+      {
+        "title": "Organization Designation Authorization (ODA) Office",
+        "url": "https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/oda",
+        "date": "2025-09-10",
+        "outlet": "Federal Aviation Administration"
+      }
+    ],
+    "importance": 9,
+    "priority_id": "RT-EXP-EC86869C-boeing-737-max-faa-self-certification",
+    "actors": ["FAA", "Boeing", "Aircraft manufacturers"]
+  },
+  {
+    "id": "2018-10-29--lion-air-flight-610-crash-mcas-system-failure",
+    "title": "Lion Air Flight 610 Crashes Due to Boeing 737 MAX MCAS System Malfunction",
+    "date": "2018-10-29",
+    "description": "Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea 13 minutes after takeoff from Jakarta, killing all 189 people aboard. The crash was caused by a malfunctioning MCAS (Maneuvering Characteristics Augmentation System) that repeatedly pushed the aircraft's nose down due to faulty angle-of-attack sensor data, a system that pilots were not informed about during training.",
+    "category": "aviation_safety",
+    "tags": ["boeing", "737max", "mcas", "lion_air", "aviation_safety", "regulatory_failure", "crash"],
+    "sources": [
+      {
+        "title": "Lion Air Flight 610",
+        "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
+        "date": "2018-10-29",
+        "outlet": "Wikipedia"
+      },
+      {
+        "title": "Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude of Contributing Factors",
+        "url": "https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/",
+        "date": "2019-10-28",
+        "outlet": "Aviation Today"
+      }
+    ],
+    "importance": 10,
+    "priority_id": "RT-EXP-EC86869C-boeing-737-max-faa-self-certification",
+    "actors": ["Lion Air", "Boeing", "MCAS system", "189 victims"]
+  },
+  {
+    "id": "2019-03-10--ethiopian-airlines-flight-302-crash-737-max-grounded",
+    "title": "Ethiopian Airlines Flight 302 Crashes, Triggering Worldwide Boeing 737 MAX Grounding",
+    "date": "2019-03-10",
+    "description": "Ethiopian Airlines Flight 302 crashed six minutes after takeoff from Addis Ababa, killing all 157 people aboard due to the same MCAS system malfunction that caused the Lion Air crash. This second fatal incident within five months exposed the FAA's regulatory capture, as the agency had initially resisted grounding the aircraft until international pressure forced their hand on March 13, 2019.",
+    "category": "aviation_safety",
+    "tags": ["boeing", "737max", "mcas", "ethiopian_airlines", "aviation_safety", "regulatory_capture", "grounding", "crash"],
+    "sources": [
+      {
+        "title": "Ethiopian Airlines Flight 302",
+        "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302",
+        "date": "2019-03-10",
+        "outlet": "Wikipedia"
+      },
+      {
+        "title": "Ethiopian Officials Say Faulty Boeing Software Played Role In Deadly 737 Max Crash",
+        "url": "https://www.npr.org/2020/03/09/813740173/ethiopian-officials-say-faulty-boeing-software-played-role-in-deadly-737-max-cra",
+        "date": "2020-03-09",
+        "outlet": "NPR"
+      }
+    ],
+    "importance": 10,
+    "priority_id": "RT-EXP-EC86869C-boeing-737-max-faa-self-certification",
+    "actors": ["Ethiopian Airlines", "Boeing", "FAA", "157 victims"]
+  }
+]

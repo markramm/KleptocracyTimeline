@@ -1,0 +1,45 @@
+{
+  "id": "1994-01-01--abramoff-preston-gates-tribal-lobbying-launch",
+  "date": "1994-01-01",
+  "title": "Jack Abramoff Joins Preston Gates - Launches Tribal Lobbying Practice",
+  "summary": "Jack Abramoff joins Preston Gates & Ellis in late 1994, strategically positioning himself to leverage the Republican electoral victories that reshaped congressional relationships with Native American tribes. By 1995, he had secured the Mississippi Band of Choctaw Indians as his first major client, demonstrating his ability to navigate the new political landscape by defeating legislation that would have imposed taxes on tribal casinos.",
+  "actors": [
+    "Jack Abramoff",
+    "Preston Gates & Ellis",
+    "Mississippi Band of Choctaw Indians",
+    "Nell Rogers",
+    "Grover Norquist"
+  ],
+  "sources": [
+    {
+      "title": "How scheming lobbyist operated in Seattle firm",
+      "url": "https://archive.seattletimes.com/archive/20060207/prestongates07m/how-scheming-lobbyist-operated-in-seattle-firm",
+      "outlet": "Seattle Times"
+    },
+    {
+      "title": "John McCain and the Abramoff Tribal Lobbying Scandal",
+      "url": "https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/",
+      "outlet": "Levin Center"
+    },
+    {
+      "title": "Jack Abramoff Indian Lobbying Scandal",
+      "url": "https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal",
+      "outlet": "Wikipedia"
+    }
+  ],
+  "importance": 7,
+  "tags": [
+    "abramoff",
+    "preston-gates",
+    "tribal-lobbying",
+    "lobbying-corruption",
+    "republican-revolution",
+    "casino-lobbying"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Electoral Manipulation",
+    "Corporate Lobbying"
+  ]
+}

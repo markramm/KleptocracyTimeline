@@ -1,0 +1,46 @@
+{
+  "id": "2023-07-18--sec-charges-dwac-material-misrepresentations-18-million-penalty",
+  "date": "2023-07-18",
+  "title": "SEC Charges DWAC with Securities Fraud, Imposes $18 Million Penalty",
+  "summary": "The Securities and Exchange Commission announced settled fraud charges against Digital World Acquisition Corp (DWAC) for material misrepresentations to investors about merger discussions with Trump Media & Technology Group (TMTG). The SEC found that individuals who would later become DWAC's leadership had extensive SPAC merger discussions with TMTG dating back to February 2021, contradicting public filings that claimed no such discussions had occurred. DWAC agreed to pay an $18 million civil penalty, with the fine contingent on merger completion. The enforcement action reveals systematic deception of investors about the predetermined nature of the SPAC merger, highlighting regulatory scrutiny of special purpose acquisition companies.",
+  "tags": [
+    "sec-charges",
+    "dwac",
+    "securities-fraud",
+    "trump-media",
+    "spac-fraud",
+    "regulatory-enforcement"
+  ],
+  "actors": [
+    "Securities and Exchange Commission",
+    "Digital World Acquisition Corp",
+    "Trump Media & Technology Group",
+    "SEC"
+  ],
+  "sources": [
+    {
+      "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors",
+      "url": "https://www.sec.gov/newsroom/press-releases/2023-135",
+      "outlet": "US Securities and Exchange Commission",
+      "date": "2023-07-18"
+    },
+    {
+      "title": "Trump Media merger partner DWAC settles with SEC over fraud charges",
+      "url": "https://www.cnbc.com/2023/07/20/trump-media-merger-partner-dwac-settles-with-sec-over-fraud-charges.html",
+      "outlet": "CNBC",
+      "date": "2023-07-20"
+    },
+    {
+      "title": "SEC charges Digital World Acquisition Corp with SPAC fraud",
+      "url": "https://www.cbsnews.com/news/sec-charges-digital-world-acquistion-corp-spac-donald-trump-trump-media-technology-group/",
+      "outlet": "CBS News",
+      "date": "2023-07-18"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
+}

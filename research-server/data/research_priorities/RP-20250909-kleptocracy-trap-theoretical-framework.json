@@ -1,0 +1,19 @@
+{
+  "id": "RP-20250909-kleptocracy-trap-theoretical-framework",
+  "title": "Kleptocracy Trap Theoretical Framework",
+  "description": "Research theoretical foundations of kleptocratic capture, including economic incentives, institutional vulnerabilities, and self-reinforcing cycles.",
+  "priority": 6,
+  "status": "completed",
+  "category": "pdf-analysis",
+  "tags": [
+    "medium-priority",
+    "kleptocracy",
+    "corruption"
+  ],
+  "estimated_events": 3,
+  "source_document": "documents/incoming/Theoretical Foundation_ The Kleptocracy Trap.pdf",
+  "created_date": "2025-09-09",
+  "requires_pdf_analysis": true,
+  "events_created": 1,
+  "completion_date": "2025-01-15"
+}

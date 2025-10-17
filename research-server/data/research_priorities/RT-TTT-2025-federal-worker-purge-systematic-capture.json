@@ -1,0 +1,30 @@
+{
+  "id": "RT-TTT-2025-federal-worker-purge-systematic-capture",
+  "title": "Federal Worker Purge and Civil Service Dismantling (2025)",
+  "description": "Research the systematic firing and targeting of federal workers for political reasons during Trump's second term. The Trump Tyranny Tracker documented extensive patterns of federal worker persecution, including the creation of 'lists' of targeted employees, mass firings of career professionals, and the installation of political operatives in career positions. This represents a fundamental attack on the merit-based civil service system established in the 1880s.",
+  "priority": "high",
+  "status": "pending",
+  "expected_events": 8,
+  "research_focus": [
+    "Schedule F expansion and implementation timeline",
+    "Specific federal agencies targeted for workforce purges",
+    "Names and positions of career professionals fired",
+    "Installation of political appointees in career positions",
+    "Legal challenges to civil service protections",
+    "Congressional oversight efforts and resistance",
+    "Intelligence community workforce targeting",
+    "DOJ career prosecutor firings and replacements"
+  ],
+  "key_search_terms": [
+    "Schedule F implementation",
+    "federal worker firing",
+    "civil service dismantling",
+    "career professional termination",
+    "political appointee installation",
+    "merit system destruction"
+  ],
+  "timeline_gap_justification": "Search for 'federal worker firing' returned 0 results in our timeline despite Trump Tyranny Tracker documenting this as one of the most systematic attacks on democratic institutions. This represents a critical gap in understanding institutional capture mechanisms.",
+  "source_validation": "Trump Tyranny Tracker documented extensive federal worker targeting with specific names, agencies, and dates that need to be cross-referenced and added to our timeline.",
+  "importance_score": 9,
+  "tags": ["institutional_capture", "civil_service", "federal_workforce", "schedule_f", "political_purge", "merit_system"]
+}

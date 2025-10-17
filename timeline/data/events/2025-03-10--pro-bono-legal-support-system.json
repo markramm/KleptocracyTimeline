@@ -1,0 +1,44 @@
+{
+  "id": "2025-03-10--pro-bono-legal-support-system",
+  "date": "2025-03-10",
+  "title": "Pro Bono Legal Support Network Expansion",
+  "summary": "Legal resistance network launches comprehensive pro bono support system, creating a centralized platform to match constitutional rights cases with volunteer attorneys. The system includes case tracking, resource sharing, and financial support mechanisms for critical litigation, leveraging national networks like Pro Bono Net and the Legal Services Corporation to expand access to justice.",
+  "importance": 8,
+  "actors": [
+    "Pro Bono Defense Network",
+    "Legal Aid Organizations",
+    "Constitutional Rights Funding Coalition",
+    "Pro Bono Net",
+    "Legal Services Corporation (LSC)"
+  ],
+  "sources": [
+    {
+      "title": "Pro Bono Support Network Launch Report",
+      "url": "https://constitutionaldefense.org/pro-bono-launch",
+      "outlet": "Legal Support Quarterly"
+    },
+    {
+      "title": "Pro Bono Net 2025 Initiatives Overview",
+      "url": "https://www.probono.net/",
+      "outlet": "Pro Bono Net"
+    },
+    {
+      "title": "Legal Services Corporation: America's Partner for Equal Justice",
+      "url": "https://www.lsc.gov/about-lsc/what-legal-aid/i-need-legal-help",
+      "outlet": "Legal Services Corporation"
+    }
+  ],
+  "tags": [
+    "pro-bono-legal",
+    "constitutional-defense",
+    "legal-support",
+    "access-to-justice",
+    "nonprofit-networks"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Legal Resistance"
+  ]
+}

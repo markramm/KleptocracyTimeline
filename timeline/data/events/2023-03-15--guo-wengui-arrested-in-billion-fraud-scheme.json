@@ -1,0 +1,51 @@
+{
+  "date": "2023-03-15",
+  "title": "DOJ Arrests Guo Wengui in Landmark $1 Billion Fraud Conspiracy",
+  "summary": "On March 15, 2023, the U.S. Department of Justice arrested Ho Wan Kwok (Guo Wengui) in a landmark twelve-count federal indictment alleging a complex, multi-year fraud scheme defrauding thousands of victims of approximately $1 billion. The sophisticated conspiracy involved fraudulent investments across multiple entities including GTV Media, Himalaya Farm Alliance, G|CLUBS, and Himalaya Exchange.\n\nKey Findings:\n- $1 billion fraud conspiracy spanning 2018-2023\n- Charges include wire fraud, securities fraud, bank fraud, money laundering\n- Over $634 million in fraud proceeds seized\n- Lavish personal expenditures including $50,000 sq ft mansion, $3.5M Ferrari\n\nImplications:\n- Exposed vulnerabilities in investment fraud detection\n- Revealed complex transnational financial manipulation networks\n- Demonstrated sophisticated methods of investor deception",
+  "importance": 9,
+  "actors": [
+    "Guo Wengui",
+    "Ho Wan Kwok",
+    "Kin Ming Je",
+    "U.S. Department of Justice",
+    "Steve Bannon",
+    "Yvette Wang"
+  ],
+  "tags": [
+    "financial-fraud",
+    "money-laundering",
+    "influence-operations",
+    "international-crime",
+    "investment-scam"
+  ],
+  "sources": [
+    {
+      "outlet": "U.S. Department of Justice",
+      "title": "Ho Wan Kwok Arrested for Orchestrating Over $1 Billion Dollar Fraud Conspiracy",
+      "url": "https://www.justice.gov/usao-sdny/pr/ho-wan-kwok-aka-miles-guo-arrested-orchestrating-over-1-billion-dollar-fraud-conspiracy",
+      "access_date": "2025-09-17"
+    },
+    {
+      "outlet": "CNBC",
+      "title": "DOJ Charges Guo Wengui, Steve Bannon Associate, in $1 Billion Fraud",
+      "url": "https://www.cnbc.com/2023/03/15/doj-charges-guo-wengui-steve-bannon-associate-in-1-billion-fraud.html",
+      "access_date": "2025-09-17"
+    },
+    {
+      "outlet": "Courthouse News Service",
+      "title": "Chinese Dissident Guo Wengui Guilty of Racketeering, Fraud in $1 Billion Scheme",
+      "url": "https://www.courthousenews.com/chinese-dissident-guo-wengui-guilty-of-racketeering-fraud-in-1-billion-scheme/",
+      "access_date": "2025-09-17"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2023-03-15--guo-wengui-arrested-in-billion-fraud-scheme",
+  "priority_id": "RT-EXP-2E557553-gettr-jason-miller-chinese-funding",
+  "capture_lanes": [
+    "Financial Crime",
+    "Media Manipulation",
+    "Influence Operations",
+    "International Financial Networks"
+  ],
+  "location": "Manhattan, New York"
+}

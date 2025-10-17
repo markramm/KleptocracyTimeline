@@ -1,0 +1,55 @@
+{
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Cara Petersen",
+    "Russell Vought",
+    "Mark Paoletta"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Institutional Disassembly",
+    "Agency Deconstruction"
+  ],
+  "capture_type": "regulatory_capture",
+  "connections": [],
+  "date": "2025-06-10",
+  "description": "The acting head of enforcement at the Consumer Financial Protection Bureau (CFPB), Cara Petersen, resigned, denouncing the Trump administration's systematic dismantling of the agency's core regulatory mission.",
+  "id": "2025-06-10--consumer-bureau-official-quits-citing-attack-on-agency-s-mis",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Detailed documentation of regulatory capture mechanisms in the Trump administration's second term.",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-deconstruction"
+  ],
+  "sources": [
+    {
+      "date": "2025-06-11",
+      "outlet": "American Banker",
+      "title": "CFPB's top enforcement official, Cara Petersen, resigns",
+      "url": "https://www.americanbanker.com/news/cfpbs-top-enforcement-official-cara-petersen-resigns"
+    },
+    {
+      "date": "2025-06-10",
+      "outlet": "Al Jazeera",
+      "title": "Top CFPB enforcement official to resign amid policy shifts under Trump",
+      "url": "https://www.aljazeera.com/economy/2025/6/10/top-cfpb-enforcement-official-to-resign-amid-policy-shifts-under-trump"
+    },
+    {
+      "date": "2025-06-10",
+      "outlet": "U.S. News & World Report",
+      "title": "Top CFPB Enforcement Official to Resign, Citing 'Devastating' Shifts Under Trump",
+      "url": "https://www.usnews.com/news/politics/articles/2025-06-10/top-cfpb-enforcement-official-to-resign-citing-devastating-shifts-under-trump"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Cara Petersen, acting enforcement director of the CFPB, resigned after criticizing the Trump administration's systematic dismantling of the agency. She highlighted dramatic staff cuts from 1,750 to potentially 200 employees, dismissal of over 20 enforcement cases, and the elimination of key oversight functions.",
+  "tags": [
+    "regulatory-capture",
+    "trump-administration",
+    "cfpb",
+    "institutional-capture"
+  ],
+  "title": "CFPB Enforcement Chief Resigns, Condemns Trump Administration's Agency Deconstruction"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2025-02-11--white-house-will-not-release-visitor-logs-during-trump-s-sec",
+  "date": "2025-02-11",
+  "title": "White House will not release visitor logs during Trump's second term",
+  "summary": "The Trump White House announced it will continue its policy of not releasing visitor logs, effectively preventing public and press access to information about who is meeting with the president. This approach, first implemented during Trump's first term and challenged by transparency advocates like Tom Blanton of the National Security Archive, breaks with the Obama-era practice of disclosing visitor information.",
+  "description": "The Trump White House continues its practice of not releasing visitor logs, preventing transparency about presidential meetings and potential conflicts of interest.",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Tom Blanton",
+    "National Security Archive"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "transparency",
+    "executive-power",
+    "government-secrecy"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "Trump Hides White House Visitor Logs",
+      "url": "https://nsarchive.gwu.edu/briefing-book/foia/2017-04-14/trump-hides-white-house-visitor-logs",
+      "outlet": "National Security Archive",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "White House will not release visitor logs during Trump's second term",
+      "url": "https://www.foxnews.com/politics/white-house-not-release-visitor-logs-during-trumps-second-term",
+      "outlet": "Fox News",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "White House Says It Won't Release Visitor Records",
+      "url": "https://www.pbs.org/newshour/nation/white-house-says-wont-release-visitor-records",
+      "outlet": "PBS News",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "White House Says It Will No Longer Release Visitor Logs To The Public",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/04/14/523968950/white-house-says-it-will-no-longer-release-visitor-logs-to-the-public",
+      "outlet": "NPR",
+      "date": "2025-02-11"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture",
+    "transparency-rollback"
+  ],
+  "notes": "Continuation of transparency rollback initiated during first administration. Visitor logs remain protected under Presidential Records Act. Historical context of legal challenges by National Security Archive and other transparency advocates.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
+}

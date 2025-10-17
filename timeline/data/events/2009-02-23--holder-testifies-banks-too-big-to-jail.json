@@ -1,0 +1,64 @@
+{
+    "id": "2009-02-23--holder-testifies-banks-too-big-to-jail",
+    "date": "2009-02-23",
+    "title": "Holder Testifies Some Banks Are Too Big to Jail",
+    "summary": "During a critical congressional testimony, Attorney General Eric Holder revealed the Department of Justice's emerging doctrine of 'too big to jail', acknowledging that prosecuting certain financial institutions could potentially destabilize the national and global economy. This testimony marked a pivotal moment in post-financial crisis regulatory approach, where massive banks were effectively shielded from criminal prosecution due to their systemic economic importance.\n\nKey details:\n- Holder expressed concern about prosecuting large financial institutions\n- Suggested that criminal charges could negatively impact national and global economic stability\n- Highlighted the complex relationship between large banks and economic risk\n- Sparked significant public and political debate about corporate accountability\n\nAcademic research by Brandon L. Garrett reveals that prior to 2008, bank prosecutions were extremely rare. Holder's testimony exposed a critical policy shift where the size and interconnectedness of financial institutions became a primary consideration in prosecution decisions.\n\nSenators Chuck Grassley and Sherrod Brown strongly criticized the 'too big to jail' concept, arguing that it undermines the rule of law and creates a dangerous precedent of institutional immunity.",
+    "importance": 10,
+    "actors": [
+        "Eric Holder",
+        "Department of Justice",
+        "JPMorgan Chase",
+        "Bank of America", 
+        "Citigroup",
+        "Senator Chuck Grassley",
+        "Senator Sherrod Brown"
+    ],
+    "tags": [
+        "institutional-capture",
+        "regulatory-capture",
+        "corruption",
+        "financial-crisis",
+        "bank-prosecution",
+        "economic-policy",
+        "legal-accountability",
+        "corporate-crime"
+    ],
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Legislative Capture", 
+        "Financial Capture",
+        "Intelligence Penetration"
+    ],
+    "sources": [
+        {
+            "date": "2013-03-06",
+            "outlet": "Politico",
+            "title": "Holder: Some banks 'too big to jail'",
+            "url": "https://www.politico.com/story/2013/03/eric-holder-banks-too-big-to-jail-088518"
+        },
+        {
+            "date": "2013-03-07",
+            "outlet": "Washington Post",
+            "title": "Holder concerned megabanks too big to jail",
+            "url": "https://www.washingtonpost.com/business/economy/holder-concerned-megabanks-too-big-to-jail/2013/03/06/6fa2b07a-869e-11e2-999e-5f8e0410cb9d_story.html"
+        },
+        {
+            "date": "2016-07-12",
+            "outlet": "The Intercept",
+            "title": "Eric Holder's Longtime Excuse for Not Prosecuting Banks Just Crashed and Burned",
+            "url": "https://theintercept.com/2016/07/12/eric-holders-longtime-excuse-for-not-prosecuting-banks-just-crashed-and-burned/"
+        },
+        {
+            "date": "2021",
+            "outlet": "SSRN - Brandon L. Garrett",
+            "title": "The Rise of Bank Prosecutions",
+            "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2811121"
+        },
+        {
+            "date": "2020",
+            "outlet": "Yale Law Journal Forum",
+            "title": "Bank Prosecutions and Institutional Change",
+            "url": "https://www.yalelawjournal.org/forum/the-rise-of-bank-prosecutions"
+        }
+    ]
+}

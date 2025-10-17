@@ -1,0 +1,66 @@
+{
+  "id": "2025-07-24--fcc-approves-8-billion-paramount-skydance-merger",
+  "date": "2025-07-24",
+  "title": "FCC approves $8 billion Paramount-Skydance merger",
+  "summary": "The FCC approved Paramount\u2019s merger deal with Skydance\u2014after the media company paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show with Stephen Colbert",
+  "description": "The FCC approved Paramount\u2019s merger deal with Skydance\u2014after the media company paid Trump $16 million to settle his frivolous lawsuit and canceled The Late Show with Stephen Colbert",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration"
+  ],
+  "tags": [
+    "media-control",
+    "government-contracts",
+    "justice-weaponization"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "FCC approves $8 billion Paramount-Skydance merger",
+      "url": "https://www.cnbc.com/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger.html",
+      "outlet": "CNBC",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "FCC Approves Skydance's Acquisition of Paramount CBS",
+      "url": "https://www.fcc.gov/document/fcc-approves-skydances-acquisition-paramount-cbs",
+      "outlet": "Federal Communications Commission",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "FCC approves Skydance merger with Paramount, ending a yearlong saga of uncertainty",
+      "url": "https://edition.cnn.com/2025/07/24/media/fcc-skydance-paramount-merger-approved",
+      "outlet": "CNN",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "FCC approves Paramount Skydance merger after concessions",
+      "url": "https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves",
+      "outlet": "NPR",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges",
+      "url": "https://variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/",
+      "outlet": "Variety",
+      "date": "2025-07-24"
+    },
+    {
+      "title": "FCC approves Paramount-Skydance merger following Trump settlement, Colbert cancellation",
+      "url": "https://www.foxnews.com/media/fcc-approves-paramount-skydance-merger-following-trump-settlement-colbert-cancellation",
+      "outlet": "Fox News",
+      "date": "2025-07-24"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture"
+  ],
+  "notes": "Event from comprehensive kleptocracy timeline tracking.",
+  "capture_lanes": [
+    "Media Capture & Control"
+  ]
+}

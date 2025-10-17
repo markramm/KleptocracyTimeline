@@ -1,0 +1,57 @@
+{
+    "id": "2025-02-06--attorney-general-pam-bondi-narrowed-fara-prosecutions-to-tra",
+    "date": "2025-02-06",
+    "title": "Attorney General Bondi Dramatically Narrows FARA Prosecutorial Scope",
+    "summary": "Attorney General Pam Bondi issued memorandums directing the DOJ to limit Foreign Agents Registration Act (FARA) prosecutions to traditional espionage cases, effectively decriminalizing many forms of foreign financial influence and disbanding the FBI's Foreign Influence Task Force.",
+    "importance": 8,
+    "actors": [
+        "Pam Bondi",
+        "Donald Trump",
+        "Trump Administration",
+        "DOJ National Security Division"
+    ],
+    "location": "Washington, D.C.",
+    "tags": [
+        "foreign-influence",
+        "regulatory-capture",
+        "justice-weaponization",
+        "institutional-transformation"
+    ],
+    "capture_type": "regulatory_capture",
+    "status": "confirmed",
+    "sources": [
+        {
+            "title": "DOJ Disbands Foreign Influence Task Force, Limits FARA Prosecutions",
+            "outlet": "CyberScoop",
+            "date": "2025-02-06",
+            "url": "https://cyberscoop.com/doj-disbands-foreign-influence-task-force/"
+        },
+        {
+            "title": "The State of FARA Following Bondi's DOJ Reprioritization",
+            "outlet": "Morgan Lewis Legal Insights",
+            "date": "2025-02-06",
+            "url": "https://www.morganlewis.com/pubs/2025/02/the-state-of-fara-following-attorney-general-bondis-reprioritization-of-doj-resources"
+        },
+        {
+            "title": "AG Bondi Refocuses DOJ Priorities in New Guidance Documents",
+            "outlet": "Wiley Law",
+            "date": "2025-02-06",
+            "url": "https://www.wiley.law/alert-AG-Bondi-Refocuses-DOJ-Priorities-in-New-Guidance-Documents"
+        }
+    ],
+    "connections": [
+        "Systematic reduction of foreign influence investigations",
+        "Narrowing of DOJ's national security enforcement scope"
+    ],
+    "patterns": [
+        "kleptocratic-capture",
+        "institutional-reconfiguration"
+    ],
+    "notes": "Event from comprehensive kleptocracy timeline tracking.",
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Financial Capture",
+        "Intelligence Penetration"
+    ],
+    "description": "Attorney General Pam Bondi directed DOJ to limit FARA prosecutions to traditional espionage cases, effectively reducing the scope of foreign influence investigations and disbanding the Foreign Influence Task Force."
+}

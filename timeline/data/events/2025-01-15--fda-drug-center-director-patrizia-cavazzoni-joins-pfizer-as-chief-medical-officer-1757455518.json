@@ -1,0 +1,66 @@
+{
+  "date": "2025-01-15",
+  "title": "Patrizia Cavazzoni's FDA to Pfizer Move Epitomizes Regulatory Capture",
+  "summary": "Dr. Patrizia Cavazzoni, former head of the FDA's Center for Drug Evaluation and Research (CDER), immediately transitioned to Pfizer as chief medical officer, reigniting intense debate about the pharmaceutical industry's regulatory influence and the problematic 'revolving door' between government agencies and private corporations.",
+  "description": "In a stark demonstration of regulatory capture, Dr. Patrizia Cavazzoni departed her role as head of the FDA's drug evaluation center in mid-January 2025 and was swiftly hired by Pfizer. Her move highlights the systemic issues of potential conflicts of interest, where top regulators who oversee drug approvals can immediately transition to high-level positions in the same pharmaceutical companies they previously regulated.",
+  "actors": [
+    "Patrizia Cavazzoni",
+    "FDA",
+    "Pfizer",
+    "Robert F. Kennedy Jr.",
+    "Center for Drug Evaluation and Research",
+    "Diana Zuckerman",
+    "Public Citizen's Health Research Group"
+  ],
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "tags": [
+    "regulatory-capture",
+    "pharmaceutical-industry",
+    "fda",
+    "revolving-door",
+    "institutional-corruption",
+    "healthcare-policy",
+    "executive-transitions"
+  ],
+  "sources": [
+    {
+      "title": "Pfizer Hires FDA Drug Regulator Cavazzoni, Sparking Revolving Door Debate",
+      "url": "https://www.center4research.org/pfizer-hires-fda-cavazzoni-sparking-debate/",
+      "outlet": "National Center for Health Research",
+      "date": "2025-01-15"
+    },
+    {
+      "title": "Top FDA Drug Regulator Returns to Pfizer: The Revolving Door Must End",
+      "url": "https://www.citizen.org/news/top-fda-drug-regulator-returns-to-pfizer-the-revolving-door-must-end/",
+      "outlet": "Public Citizen",
+      "date": "2025-01-15"
+    },
+    {
+      "title": "Patrizia Cavazzoni, Former Head of FDA's Drug Center, Joins Pfizer",
+      "url": "https://www.statnews.com/2025/02/24/patrizia-cavazzoni-fda-pfizer-chief-medical-officer/",
+      "outlet": "STAT News",
+      "date": "2025-02-24"
+    }
+  ],
+  "status": "confirmed",
+  "id": "2025-01-15--fda-drug-center-director-patrizia-cavazzoni-joins-pfizer-as-chief-medical-officer-1757455518",
+  "priority_id": "RT-COMPLETED-PATTERN-20250906-02",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Institutional Penetration",
+    "Healthcare Policy Manipulation"
+  ],
+  "capture_type": "personnel_rewiring",
+  "patterns": [
+    "revolving-door-phenomenon",
+    "institutional-compromise"
+  ],
+  "connections": [
+    "Pharmaceutical industry regulatory influence",
+    "Government-industry personnel migration"
+  ],
+  "notes": "Critical case study demonstrating systemic conflicts of interest in pharmaceutical regulation, where regulators can directly transition to executive roles in the companies they previously oversaw."
+}

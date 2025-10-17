@@ -1,0 +1,16 @@
+{
+  "id": "RT-F99CEA71",
+  "title": "Federalist Society Pipeline",
+  "description": "Map Federalist Society expansion and conservative judge pipeline establishment in 1980s",
+  "priority": "critical",
+  "tags": [
+    "federalist_society",
+    "judicial_capture",
+    "conservative_judiciary"
+  ],
+  "capture_lane": "judicial",
+  "decade": "1980s",
+  "created": "2025-09-09T21:17:43.463629",
+  "status": "pending",
+  "category": "capture_research"
+}

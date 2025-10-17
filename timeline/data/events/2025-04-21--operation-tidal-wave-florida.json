@@ -1,0 +1,46 @@
+{
+  "id": "2025-04-21--operation-tidal-wave-florida",
+  "date": "2025-04-21",
+  "importance": 8,
+  "title": "Operation Tidal Wave arrests 1,120 in Florida in largest single-state ICE operation",
+  "summary": "Operation Tidal Wave (April 21-26, 2025) resulted in 1,120 arrests across Florida, the largest number in a single state in one week in ICE's history. While ICE claimed all were \"criminal aliens,\" 37% had no criminal convictions beyond immigration violations. Governor DeSantis and ICE Deputy Director Madison Sheahan called it a \"test run\" and \"warm up\" for future operations. The operation utilized 287(g) agreements to integrate state and local law enforcement into immigration enforcement.",
+  "location": "Florida",
+  "actors": [
+    "ICE",
+    "Madison Sheahan",
+    "Ron DeSantis",
+    "Department of Homeland Security"
+  ],
+  "tags": [
+    "mass-arrests",
+    "political-operations",
+    "287g-programs",
+    "propaganda-operations"
+  ],
+  "capture_lanes": [
+    "Law Enforcement Weaponization",
+    "Immigration & Border Militarization"
+  ],
+  "sources": [
+    {
+      "title": "Largest joint immigration operation in Florida history leads to 1,120 criminal alien arrests",
+      "url": "https://www.ice.gov/news/releases/largest-joint-immigration-operation-florida-history-leads-1120-criminal-alien-arrests",
+      "outlet": "ICE",
+      "date": "2025-04-27"
+    },
+    {
+      "title": "Gov. Ron DeSantis, ICE officials laud Operation Tidal Wave as historic immigration enforcement program",
+      "url": "https://www.wflx.com/2025/05/01/gov-ron-desantis-ice-officials-laud-operation-tidal-wave-historic-immigration-enforcement-program/",
+      "outlet": "WFLX",
+      "date": "2025-05-01"
+    },
+    {
+      "title": "First-of-its-kind operation with local law enforcement leads to nearly 800 immigrant arrests in Florida",
+      "url": "https://www.cnn.com/2025/04/27/us/ice-operation-first-of-its-kind-florida-hnk",
+      "outlet": "CNN",
+      "date": "2025-04-27"
+    }
+  ],
+  "notes": "63% of those arrested had existing criminal arrests or convictions, meaning 37% did not. 378 had final removal orders. State officials described the first week as \"just a warm up,\" indicating plans for continued operations. The operation was explicitly framed as a political \"model for other states.\"",
+  "status": "confirmed"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "2025-01-24--trump-fires-17-inspectors-general-including-those-investigat",
+  "date": "2025-01-24",
+  "title": "Trump Fires 17 Inspectors General, Obstructing Federal Oversight",
+  "summary": "President Trump summarily fired 17 federal inspectors general without explanation, violating the 1978 Inspector General Act. The mass firing targeted officials investigating key areas, including Defense Department IG Robert Storch (SpaceX compliance review) and Agriculture Department IG Phyllis Fong (Neuralink investigation). The firings defied legal requirements for 30-day notice to Congress and specific justifications, representing an unprecedented assault on federal oversight mechanisms.",
+  "description": "The mass firing of 17 independent watchdogs occurred via late-night emails from White House Presidential Personnel Office Director Sergio Gor. The firings specifically targeted inspectors general investigating Elon Musk's companies and other potential administration conflicts. Eight fired inspectors general later sued the Trump administration, arguing the terminations were unlawful and designed to obstruct federal oversight.",
+  "status": "confirmed",
+  "importance": 10,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Sergio Gor",
+    "Robert Storch",
+    "Phyllis Fong",
+    "Larry Turner",
+    "Eric Soskin",
+    "Elon Musk",
+    "SpaceX",
+    "Neuralink"
+  ],
+  "tags": [
+    "inspectors-general",
+    "watchdog-purge",
+    "musk-investigations",
+    "oversight-destruction",
+    "executive-power-abuse"
+  ],
+  "capture_type": "personnel_rewiring",
+  "sources": [
+    {
+      "outlet": "Lawfare",
+      "title": "Trump Fired 17 Inspectors General—Was It Legal?",
+      "url": "https://www.lawfaremedia.org/article/trump-fired-17-inspectors-general-was-it-legal",
+      "date": "2025-02-15"
+    },
+    {
+      "outlet": "Wall Street on Parade",
+      "title": "Elon Musk's Companies Were Under Investigation by Five Inspectors General When the Trump Administration Fired Them",
+      "url": "https://wallstreetonparade.com/2025/02/elon-musks-companies-were-under-investigation-by-five-inspectors-general-when-the-trump-administration-fired-them-and-made-musk-the-investigator/",
+      "date": "2025-02-20"
+    },
+    {
+      "outlet": "NPR",
+      "title": "Trump uses mass firing to remove inspectors general at a series of agencies",
+      "url": "https://www.npr.org/2025/01/25/g-s1-44771/trump-fires-inspectors-general",
+      "date": "2025-01-25"
+    }
+  ],
+  "connections": [
+    "Elon Musk business investigations",
+    "Project 2025 administrative capture"
+  ],
+  "patterns": [
+    "neutralizing-watchdogs",
+    "crony-protection",
+    "legal-violations"
+  ],
+  "notes": "This event represents significant kleptocratic capture, institutional destruction, and a direct assault on federal oversight mechanisms.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Executive Power Expansion"
+  ]
+}

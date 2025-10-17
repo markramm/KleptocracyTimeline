@@ -1,0 +1,49 @@
+{
+  "id": "2007-03-09--doj-inspector-general-fbi-surveillance-abuse-report",
+  "date": "2007-03-09",
+  "title": "DOJ Inspector General Documents Systematic FBI Surveillance Abuse",
+  "summary": "Department of Justice Inspector General Glenn Fine releases comprehensive report documenting widespread FBI abuse of National Security Letters (NSLs) and surveillance authorities. The investigation found FBI systematically circumvented legal requirements, collected intelligence on Americans without proper authorization, and failed to report violations to Congress. The report revealed over 1,000 violations and showed intelligence agencies operating outside constitutional constraints under political pressure.",
+  "actors": [
+    "Glenn Fine",
+    "FBI",
+    "Department of Justice",
+    "Congress",
+    "National Security Division",
+    "Robert Mueller"
+  ],
+  "tags": [
+    "fbi-surveillance-abuse",
+    "inspector-general-report",
+    "constitutional-violation",
+    "national-security-letters",
+    "congressional-oversight"
+  ],
+  "sources": [
+    {
+      "url": "https://oig.justice.gov/reports/FBI/a0703/final.pdf",
+      "title": "A Review of the FBI's Use of National Security Letters",
+      "outlet": "Department of Justice Office of Inspector General",
+      "date": "2007-03-01"
+    },
+    {
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/03/08/AR2007030800538.html",
+      "title": "FBI Found to Abuse Patriot Act Powers",
+      "outlet": "Washington Post",
+      "date": "2007-03-09"
+    },
+    {
+      "url": "https://www.nytimes.com/2007/03/09/washington/09fbi.html",
+      "title": "F.B.I. Data Mining Reached Beyond Initial Targets",
+      "outlet": "New York Times",
+      "date": "2007-03-09"
+    }
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2025-08-22--fbi-raids-bolton-home-office",
+  "date": "2025-08-22", 
+  "title": "FBI Conducts Coordinated Search of John Bolton's Home and Office",
+  "summary": "On August 22, 2025, the FBI executed a court-authorized search of former National Security Advisor John Bolton's home in Bethesda, Maryland, and his Washington D.C. office, marking a significant escalation in the investigation of classified document handling.\n\nKey Details:\n- Ten FBI agents seized multiple electronic devices and documents\n- Targeted investigation into potential unauthorized disclosure of classified information\n- Search relates to Bolton's 2020 memoir, 'The Room Where It Happened'\n- Items seized included two phones, binders, hard drives, USB drives, and three computers\n\nPolitical Context:\n- Bolton served as Trump's national security advisor from April 2018 to September 2019\n- Previously criticized Trump administration extensively in his memoir\n- Search potentially linked to political retaliation against Trump administration critics\n\nSignificance: The raid represents a complex intersection of national security protocols, political accountability, and potential retribution, raising critical questions about the boundaries of executive privilege and whistleblower protections.",
+  "importance": 10,
+  "actors": [
+    "John Bolton",
+    "Donald Trump", 
+    "Kash Patel",
+    "John Ratcliffe",
+    "FBI",
+    "Pam Bondi"
+  ],
+  "sources": [
+    {
+      "date": "2025-08-22",
+      "outlet": "NBC News",
+      "title": "FBI Searches Former National Security Adviser John Bolton's Home in a Probe to Find Classified Records",
+      "url": "https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503"
+    },
+    {
+      "date": "2025-08-22",
+      "outlet": "CNN",
+      "title": "FBI Conducts Search at John Bolton's Home as Part of Resumed National Security Investigation",
+      "url": "https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search"
+    },
+    {
+      "date": "2025-08-22",
+      "outlet": "Washington Post",
+      "title": "FBI Raids Home of Former Trump National Security Adviser John Bolton",
+      "url": "https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/"
+    },
+    {
+      "date": "2025-08-22",
+      "outlet": "Newsweek",
+      "title": "John Bolton FBI Raid Update: Here's What Was Seized",
+      "url": "https://www.newsweek.com/john-bolton-fbi-raid-update-donald-trump-strikes-2124675"
+    },
+    {
+      "date": "2025-09-04",
+      "outlet": "CNN",
+      "title": "FBI Search of Bolton's Home Yielded Binders, Phones and Computers, DOJ Says",
+      "url": "https://www.cnn.com/2025/09/04/politics/bolton-search-fbi-court-documents"
+    }
+  ],
+  "tags": [
+    "political-retaliation",
+    "classified-documents",
+    "bolton-raid",
+    "trump-critics",
+    "fbi-weaponization",
+    "authoritarian-escalation",
+    "national-security",
+    "memoir-investigation"
+  ],
+  "capture_lanes": [
+    "Political Persecution",
+    "Information Control",
+    "Executive Branch Intimidation"
+  ],
+  "validation_status": "pending"
+}

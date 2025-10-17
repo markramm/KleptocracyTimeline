@@ -1,0 +1,84 @@
+{
+  "id": "1973-01-01--heritage-foundation-established-as-powell-memo-implementatio",
+  "priority_id": "RT-208559C5-heritage-foundation-launch-1973",
+  "date": "1973-02-16",
+  "title": "Heritage Foundation Established as Powell Memo Implementation Vehicle",
+  "summary": "The Heritage Foundation's founding represents a pivotal moment in conservative institutional infrastructure, directly implementing Lewis Powell's 1971 memorandum's strategy for coordinated corporate political influence. Established by Joseph Coors, Paul Weyrich, and Edwin Feulner, the organization pioneered an activist approach to policy research and implementation.",
+  "description": "Emerging from the strategic blueprint outlined in the Powell Memorandum, the Heritage Foundation was designed as an aggressive, action-oriented policy research organization. Unlike traditional think tanks, it focused on direct policy influence, marketing research to Congress, policymakers, and media to transform conservative intellectual frameworks into practical governance strategies.",
+  "actors": [
+    "Joseph Coors",
+    "Paul Weyrich",
+    "Edwin Feulner",
+    "Heritage Foundation"
+  ],
+  "location": "Washington, D.C.",
+  "tags": [
+    "powell-memorandum-acceleration",
+    "heritage-foundation",
+    "think-tank-creation",
+    "institutional-coordination",
+    "conservative-infrastructure"
+  ],
+  "sources": [
+    {
+      "title": "Founding of the Heritage Foundation: A Strategic Conservative Initiative",
+      "url": "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
+      "outlet": "Wikipedia",
+      "date": "1973-02-16"
+    },
+    {
+      "title": "Profile on the Right: The Heritage Foundation",
+      "url": "https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation",
+      "outlet": "Political Research Associates",
+      "date": "2018-06-22"
+    },
+    {
+      "title": "Origins of the Heritage Foundation: Powell Memo's Institutional Legacy",
+      "url": "https://www.influencewatch.org/non-profit/heritage-foundation/",
+      "outlet": "InfluenceWatch",
+      "date": "2023-01-15"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption",
+    "Institutional Capture",
+    "Policy Infrastructure Development"
+  ],
+  "financial_impact": {
+    "initial_funding": {
+      "amount": 250000,
+      "contributor": "Joseph Coors",
+      "year": 1973
+    },
+    "annual_funding": {
+      "amount": 300000,
+      "contributor": "Joseph Coors",
+      "period": "1973-1980"
+    }
+  },
+  "connections": [
+    "Powell Memorandum Implementation",
+    "Conservative Policy Infrastructure",
+    "Corporate Political Influence Strategy"
+  ],
+  "patterns": [
+    "institutional-coordination",
+    "policy-research-activism",
+    "conservative-network-building"
+  ],
+  "notes": "The Heritage Foundation represents a critical inflection point in conservative institutional development, transforming the Powell Memorandum's strategic vision into a concrete organizational model for policy influence.",
+  "implementation_strategy": {
+    "key_principles": [
+      "Aggressive policy research",
+      "Direct marketing to policymakers",
+      "Actionable conservative policy recommendations"
+    ],
+    "differentiating_factors": [
+      "Business-like approach to think tank operations",
+      "Focus on policy implementation, not just research",
+      "Targeted dissemination of conservative policy frameworks"
+    ]
+  }
+}

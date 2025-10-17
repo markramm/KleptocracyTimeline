@@ -1,0 +1,61 @@
+{
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Supreme Court",
+    "Congress",
+    "Merit Systems Protection Board"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Institutional Oversight Capture"
+  ],
+  "capture_type": "dismantling_institutional_safeguards",
+  "connections": [
+    "Post-Watergate institutional reforms",
+    "Civil service protections",
+    "Government oversight mechanisms"
+  ],
+  "date": "2025-06-21",
+  "description": "Trump has been systematically dismantling the post-Watergate legal framework of the US presidency through multiple strategic actions: impounding Congressional appropriations, politicizing the Justice Department, firing ethics watchdogs, unilaterally gutting federal agencies, and stripping civil servants of their legally entitled protections.",
+  "id": "2025-06-21--trump-undermines-watergate-laws-in-massive-shift-of-ethics-s",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "notes": "Comprehensive documentation of institutional capture and erosion of post-Watergate governance safeguards",
+  "patterns": [
+    "kleptocratic-capture",
+    "institutional-dismantling"
+  ],
+  "sources": [
+    {
+      "date": "2025-05-22",
+      "outlet": "Congress.gov",
+      "title": "Supreme Court Grants Emergency Motion on President's Removal Power",
+      "url": "https://www.congress.gov/crs-product/LSB11292"
+    },
+    {
+      "date": "2025-01-25",
+      "outlet": "Government Executive",
+      "title": "Trump fires multiple agency inspectors general",
+      "url": "https://www.govexec.com/oversight/2025/01/trump-fires-multiple-agency-inspectors-general/402504/"
+    },
+    {
+      "date": "2025-06-21",
+      "outlet": "Election Law Blog",
+      "title": "Trump undermines Watergate laws in massive shift of ethics system",
+      "url": "https://electionlawblog.org/?p=150503"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "President Trump has systematically undermined post-Watergate institutional safeguards by firing inspectors general, challenging civil service protections, and seeking to neutralize oversight mechanisms established after the Nixon era. Key actions include dismissing Merit Systems Protection Board members, firing agency watchdogs, and using Supreme Court rulings to expand presidential removal powers.",
+  "tags": [
+    "regulatory-capture",
+    "ethics-violation",
+    "justice-weaponization",
+    "institutional-dismantling",
+    "civil-service-protections"
+  ],
+  "title": "Trump systematically dismantles post-Watergate institutional safeguards"
+}

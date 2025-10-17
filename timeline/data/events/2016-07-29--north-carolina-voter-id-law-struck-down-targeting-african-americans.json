@@ -1,0 +1,49 @@
+{
+  "id": "2016-07-29--north-carolina-voter-id-law-struck-down-targeting-african-americans",
+  "date": "2016-07-29",
+  "title": "North Carolina Voter ID Law Struck Down for Targeting African Americans",
+  "importance": 8,
+  "summary": "The Fourth Circuit Court of Appeals struck down North Carolina's comprehensive voter restriction law, ruling it targeted African American voters 'with almost surgical precision.' The 2013 law eliminated same-day registration, reduced early voting, ended out-of-precinct voting, and required strict photo ID. The court found Republicans requested data on voting patterns by race, then restricted voting methods used disproportionately by Black voters. The decision revealed how lawmakers used racial data to craft restrictions, with the court noting the law's 'invidious discriminatory intent.' This ruling became a landmark case demonstrating how modern voter suppression uses data analysis to target minority communities while maintaining plausible deniability.",
+  "actors": [
+    "North Carolina General Assembly",
+    "Governor Pat McCrory",
+    "Fourth Circuit Court of Appeals",
+    "NAACP Legal Defense Fund",
+    "Justice Department Civil Rights Division"
+  ],
+  "tags": [
+    "voter-suppression",
+    "racial-targeting",
+    "voter-id-laws",
+    "early-voting",
+    "court-decision",
+    "discriminatory-intent"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Federal appeals court strikes down North Carolina voter ID law",
+      "url": "https://www.washingtonpost.com/local/public-safety/appeals-court-strikes-down-north-carolinas-voter-id-law/2016/07/29/810b5844-4f72-11e6-aa14-e0c1087f7583_story.html",
+      "outlet": "Washington Post",
+      "date": "2016-07-29"
+    },
+    {
+      "title": "Federal Court Blocks North Carolina's Voter ID Law",
+      "url": "https://www.nytimes.com/2016/07/30/us/federal-appeals-court-strikes-down-north-carolina-voter-id-requirement.html",
+      "outlet": "New York Times",
+      "date": "2016-07-29"
+    },
+    {
+      "title": "North Carolina State Conference of the NAACP v. McCrory",
+      "url": "https://www.ca4.uscourts.gov/opinions/Published/161468.P.pdf",
+      "outlet": "Fourth Circuit Court",
+      "date": "2016-07-29"
+    }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Judicial Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
+}

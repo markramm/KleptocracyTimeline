@@ -1,0 +1,19 @@
+{
+  "id": "RP-20250909-capture-cascade-part-3-the-weaponization",
+  "title": "Capture Cascade Part 3: The Weaponization",
+  "description": "Research the weaponization of government institutions against political opponents, media, and civil society. Document selective prosecution, regulatory targeting, and institutional abuse.",
+  "priority": 10,
+  "status": "pending",
+  "category": "pdf-analysis",
+  "tags": [
+    "critical-priority",
+    "capture-cascade",
+    "political-persecution",
+    "weaponization",
+    "institutional-capture"
+  ],
+  "estimated_events": 7,
+  "source_document": "documents/incoming/The Capture Cascade - Part 3_ The Weaponization.pdf",
+  "created_date": "2025-09-09",
+  "requires_pdf_analysis": true
+}

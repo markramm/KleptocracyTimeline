@@ -1,0 +1,44 @@
+{
+  "id": "2025-03-01--trump-350-million-crypto-revenue",
+  "date": "2025-03-01",
+  "importance": 6,
+  "title": "Trump crypto ventures generate $350 million through March 2025",
+  "summary": "Financial Times analysis finds Trump's crypto projects netted $350 million through March 2025, with $314 million from direct sales and $36 million in fees, while roughly half of top TRUMP holders received coins from exchanges rejecting U.S. customers.",
+  "location": "United States",
+  "actors": [
+    "Donald Trump",
+    "World Liberty Financial",
+    "CIC Digital LLC"
+  ],
+  "tags": [
+    "crypto",
+    "revenue",
+    "foreign-investment",
+    "financial-disclosure"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "Trump crypto revenue analysis",
+      "url": "https://www.ft.com/content/trump-crypto-revenue",
+      "outlet": "Financial Times",
+      "date": "2025-03-01"
+    },
+    {
+      "title": "Trump's World Liberty Financial crypto project says it sold $550 million in tokens",
+      "url": "https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html",
+      "outlet": "CNBC",
+      "date": "2025-03-17"
+    },
+    {
+      "title": "Trump family's net worth has increased by $2.9 billion thanks to crypto investments, new report says",
+      "url": "https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/",
+      "outlet": "CBS News",
+      "date": "2025-03-15"
+    }
+  ],
+  "notes": "Twenty-eight ghost wallets among top purchasers remain virtually untraceable",
+  "status": "confirmed"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "RT-CLAUDE-2025-project-2025-authoritarian-infrastructure",
+  "title": "Project 2025 Authoritarian Infrastructure Development",
+  "description": "Map the systematic development of authoritarian governance infrastructure through Project 2025, including the Heritage Foundation's role in creating bureaucratic capture mechanisms, judicial coordination networks, and the preparation of kleptocratic governance systems designed to redirect federal resources to oligarchic networks.",
+  "priority": 9,
+  "estimated_events": 4,
+  "category": "institutional_capture",
+  "tags": ["heritage_foundation", "judicial_capture", "bureaucratic_capture", "authoritarianism", "project_2025"],
+  "time_period": "2022-2025",
+  "estimated_importance": 9,
+  "status": "pending",
+  "blockers": [],
+  "next_steps": ["Document Heritage Foundation coordination", "Map judicial network preparation", "Research bureaucratic capture plans", "Track funding sources"],
+  "export_worthy": true,
+  "source_file": "claude_generated_research_priorities_2025.py",
+  "is_generated": true,
+  "created_date": "2025-09-10",
+  "research_notes": "Essential for understanding planned authoritarian/kleptocratic infrastructure"
+}

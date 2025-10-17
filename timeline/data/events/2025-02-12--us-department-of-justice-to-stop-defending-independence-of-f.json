@@ -1,0 +1,65 @@
+{
+  "id": "2025-02-12--us-department-of-justice-to-stop-defending-independence-of-f",
+  "date": "2025-02-12",
+  "title": "DOJ Moves to Undermine Independence of Regulatory Agencies",
+  "summary": "The Department of Justice announced plans to challenge the constitutional protections that prevent the president from arbitrarily firing leaders of independent agencies like the Federal Trade Commission (FTC) and National Labor Relations Board (NLRB). Acting Solicitor General Sarah Harris argued that current laws protecting agency leadership are unconstitutional, potentially opening the door to direct executive branch interference in regulatory bodies.",
+  "description": "The Department of Justice challenged the constitutional basis for independent regulatory agencies, arguing that agency heads should be removable at will by the president. This move targets the FTC, NLRB, and CPSC, potentially allowing direct executive control over these previously independent bodies.",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Sarah Harris",
+    "Richard Durbin",
+    "NLRB Leadership",
+    "FTC Leadership"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "justice-weaponization",
+    "constitutional-crisis",
+    "executive-power-expansion"
+  ],
+  "capture_type": "institutional_independence_erosion",
+  "sources": [
+    {
+      "title": "US Department of Justice to stop defending independence of FTC, NLRB, letter says",
+      "url": "https://www.reuters.com/world/us/us-justice-department-will-stop-defending-independence-ftc-nlrb-letter-says-2025-02-12/",
+      "outlet": "Reuters",
+      "date": "2025-02-12"
+    },
+    {
+      "title": "Justice Department to Stop Defending Removal Shields at NLRB, FTC",
+      "url": "https://news.bloomberglaw.com/antitrust/justice-department-to-stop-defending-removal-shields-at-nlrb-ftc",
+      "outlet": "Bloomberg Law",
+      "date": "2025-02-12"
+    },
+    {
+      "title": "US Department of Justice to Stop Defending Independence of FTC, NLRB",
+      "url": "https://www.usnews.com/news/top-news/articles/2025-02-12/us-justice-department-will-stop-defending-independence-of-ftc-nlrb-letter-says",
+      "outlet": "US News & World Report",
+      "date": "2025-02-12"
+    },
+    {
+      "title": "DOJ Won't Defend Independence of FTC, NLRB, CPSC",
+      "url": "https://www.newsmax.com/politics/doj-ftc-nlrb/2025/02/12/id/1198892/",
+      "outlet": "Newsmax",
+      "date": "2025-02-12"
+    }
+  ],
+  "connections": [
+    "Project 2025 Institutional Capture Implementation",
+    "Erosion of Regulatory Independence"
+  ],
+  "patterns": [
+    "kleptocratic-capture",
+    "executive-power-consolidation"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Political Capture",
+    "Institutional Transformation"
+  ],
+  "notes": "DOJ seeks to remove constitutional protections for independent agency leadership, marking a significant challenge to regulatory independence."
+}

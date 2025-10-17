@@ -1,0 +1,61 @@
+{
+  "actors": [
+    "Lewis F. Powell Jr.",
+    "Supreme Court",
+    "Federal Election Campaign Act"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "date": "1976-01-30",
+  "id": "1976-01-30--powell-implements-blueprint-buckley-v-valeo-money-speech",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "sources": [
+    {
+      "key_facts_confirmed": [
+        "Powell joined court's 1976 ruling in Buckley v. Valeo",
+        "Decision equated money with political speech",
+        "First case allowing Powell to implement recommendations from his memo"
+      ],
+      "outlet": "Senator Sheldon Whitehouse",
+      "title": "The Scheme 2: Powell on the Court",
+      "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/",
+      "verified": true
+    },
+    {
+      "key_facts_confirmed": [
+        "Supreme Court declared campaign expenditure limitations unconstitutional",
+        "Upheld contribution limits to prevent corruption",
+        "Established principle of money as political speech"
+      ],
+      "outlet": "Federal Election Commission",
+      "title": "Buckley v. Valeo Legal Resources",
+      "url": "https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/",
+      "verified": true
+    },
+    {
+      "key_facts_confirmed": [
+        "Case challenged provisions of Federal Election Campaign Act",
+        "Struck down limits on independent expenditures",
+        "Balanced regulatory interests with First Amendment protections"
+      ],
+      "outlet": "Cornell Law School Legal Information Institute",
+      "title": "Buckley v. Valeo Supreme Court Case Text",
+      "url": "https://www.law.cornell.edu/supremecourt/text/424/1",
+      "verified": true
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Justice Lewis Powell joins the Supreme Court's landmark decision in Buckley v. Valeo (424 U.S. 1), which fundamentally reshaped campaign finance law by equating money with political speech. The Court upheld contribution limits to prevent corruption while striking down expenditure limitations as unconstitutional. This decision represents Powell's first major implementation of his 1971 corporate blueprint memo, establishing a legal framework that protects unlimited political spending under First Amendment free speech protections. \n\nKey Holdings:\n- Upheld contribution limits ($1,000 per candidate, $25,000 annual total)\n- Struck down independent expenditure ceilings\n- Established that campaign spending is a form of protected political speech\n\nThe ruling created a constitutional precedent that corporations and wealthy individuals could use substantial financial resources to influence political discourse, directly advancing the strategic objectives outlined in Powell's corporate memo.",
+  "tags": [
+    "buckley-v.-valeo",
+    "campaign-finance",
+    "money-as-speech",
+    "political-expenditures",
+    "powell-blueprint-implementation",
+    "supreme-court",
+    "first-amendment"
+  ],
+  "title": "Powell Helps Implement Corporate Blueprint in Buckley v. Valeo Equating Money with Speech"
+}

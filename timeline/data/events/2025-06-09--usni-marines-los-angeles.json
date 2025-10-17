@@ -1,0 +1,65 @@
+{
+  "id": "2025-06-09--usni-marines-los-angeles",
+  "title": "USNI: Marines deploy to downtown Los Angeles",
+  "date": "2025-06-09",
+  "importance": 6,
+  "summary": "Defense Secretary Hegseth deployed 700 Marines from 2nd Battalion, 7th Marines (Twentynine Palms) to downtown Los Angeles on June 9, joining 2,100 National Guard troops as Task Force 51 under Maj. Gen. Sherman. Tasked with protecting federal property/personnel amid immigration protests, not law enforcement (Posse Comitatus Act not waived). Pentagon testified deployment cost $134 million for 4,000 Guard and 700 Marines total.",
+  "location": "Los Angeles, CA",
+  "actors": [
+    "Defense Secretary Pete Hegseth",
+    "2nd Battalion, 7th Marines",
+    "U.S. Northern Command",
+    "Task Force 51",
+    "Maj. Gen. Scott Sherman",
+    "California National Guard"
+  ],
+  "tags": [
+    "domestic-deployment",
+    "domestic-operations",
+    "military",
+    "civil-military"
+  ],
+  "citations": [
+    "https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles"
+  ],
+  "notes": "2/7 Marines from Twentynine Palms deployed under Title 10 authority. Task Force 51 totaled 2,800 personnel (2,100 Guard + 700 Marines). Operated under rules: self defense, defense of federal property/personnel only. Posse Comitatus Act prohibited law enforcement duties - no arrests/searches/seizures authorized. Insurrection Act NOT invoked. Pentagon testified $134M cost for deployment.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "700 Marines Deploying to Downtown Los Angeles",
+      "url": "https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles",
+      "outlet": "USNI News",
+      "date": "2025-06-09"
+    },
+    {
+      "title": "About 700 Marines being mobilized in response to LA protests",
+      "url": "https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests",
+      "outlet": "CNN Politics",
+      "date": "2025-06-09"
+    },
+    {
+      "title": "700 Marines arrive in L.A. area amid ICE protests as Newsom files suit to block deployment",
+      "url": "https://www.cbsnews.com/news/marines-high-alert-deploy-los-angeles-ice-protests/",
+      "outlet": "CBS News",
+      "date": "2025-06-09"
+    },
+    {
+      "title": "Trump sends Marines and more National Guard to Los Angeles",
+      "url": "https://www.npr.org/2025/06/09/g-s1-71640/trump-mobilizes-marines-for-duty-in-los-angeles",
+      "outlet": "NPR",
+      "date": "2025-06-09"
+    },
+    {
+      "title": "USNORTHCOM Statement on Additional Military Personnel in the Los Angeles Area",
+      "url": "https://www.northcom.mil/Newsroom/Press-Releases/Article/4210889/usnorthcom-statement-on-additional-military-personnel-in-the-los-angeles-area",
+      "outlet": "US Northern Command",
+      "date": "2025-06-09"
+    }
+  ],
+  "_merge_note": "Enhanced with information from duplicate event: 2025-06-09--marines-los-angeles",
+  "_merge_timestamp": "2025-09-05T23:46:55.897380",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

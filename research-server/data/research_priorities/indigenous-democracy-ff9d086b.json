@@ -1,0 +1,65 @@
+{
+  "id": "indigenous-democracy-ff9d086b",
+  "title": "Systems Engineering Analysis of Democratic Institution Failure",
+  "description": "Apply systems engineering methodologies to analyze how democratic institutions fail, identifying critical failure points, cascade effects, and early warning indicators for democratic backsliding.",
+  "priority": 9,
+  "status": "pending",
+  "category": "systems-analysis",
+  "tags": [
+    "systems-engineering",
+    "democratic-backsliding",
+    "institutional-failure",
+    "failure-analysis"
+  ],
+  "estimated_events": 6,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Methodology_ Systems Engineering Approach to Democratic Backsliding Analysis.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "2000-2025",
+  "constitutional_issues": [
+    "institutional-integrity",
+    "system-resilience",
+    "failure-prevention"
+  ],
+  "actors_to_investigate": [
+    "Democratic institution designers",
+    "Systems engineering researchers",
+    "Government accountability experts",
+    "Democratic resilience scholars"
+  ],
+  "key_sources": [
+    {
+      "title": "Government accountability reports during institutional stress",
+      "type": "government-reports",
+      "credibility": 9,
+      "why": "Official documentation of institutional stress points"
+    },
+    {
+      "title": "Systems engineering failure analysis methodologies",
+      "type": "technical-literature",
+      "credibility": 8,
+      "why": "Systematic approaches to understanding system failures"
+    },
+    {
+      "title": "International comparative studies of democratic resilience",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Cross-national analysis of democratic system performance"
+    }
+  ],
+  "expected_outcomes": [
+    "Map critical failure points in democratic institutional systems",
+    "Document cascade failure patterns between institutions",
+    "Develop early warning indicator systems for democratic backsliding",
+    "Create systems redundancy recommendations for democratic institutions"
+  ],
+  "research_questions": [
+    "What are the critical failure points in democratic institutional systems?",
+    "How do failures in one institution cascade to affect others?",
+    "What early warning indicators predict democratic backsliding?",
+    "How can systems redundancy be built into democratic institutions?"
+  ],
+  "estimated_importance": 9
+}

@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kleptocracy Research Command Center</title>
+    <!-- Socket.IO removed - using polling for real-time updates -->
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        :root {
+            --bg-primary: #0a0e27;
+            --bg-secondary: #151a3a;
+            --bg-card: rgba(30, 35, 60, 0.95);
+            --accent-green: #00ff88;
+            --accent-blue: #00b4ff;
+            --accent-purple: #9945ff;
+            --accent-red: #ff4757;
+            --accent-yellow: #ffd93d;
+            --text-primary: #ffffff;
+            --text-secondary: #a8b2d1;
+            --border-color: rgba(100, 120, 160, 0.3);
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, var(--bg-primary) 0%, var(--bg-secondary) 100%);
+            color: var(--text-primary);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        /* Header Section */
+        .header {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border-color);
+            padding: 15px 20px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+        }
+        
+        .header-content {
+            max-width: 1800px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header h1 {
+            font-size: 1.5em;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-green));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .status-indicators {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .status-pill {
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        .status-pill.active {
+            background: rgba(0, 255, 136, 0.2);
+            border-color: var(--accent-green);
+            color: var(--accent-green);
+        }
+        
+        .status-pill.error {
+            background: rgba(255, 71, 87, 0.2);
+            border-color: var(--accent-red);
+            color: var(--accent-red);
+        }
+        
+        .pulse {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: currentColor;
+            animation: pulse 2s ease-in-out infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.5; transform: scale(0.8); }
+        }
+        
+        /* Active Tasks Bar */
+        .active-tasks-bar {
+            background: linear-gradient(90deg, var(--bg-card), transparent);
+            padding: 10px 20px;
+            border-bottom: 1px solid var(--border-color);
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+        
+        .active-tasks-container {
+            max-width: 1800px;
+            margin: 0 auto;
+            display: flex;
+            gap: 15px;
+        }
+        
+        .task-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 15px;
+            background: rgba(0, 180, 255, 0.1);
+            border: 1px solid var(--accent-blue);
+            border-radius: 25px;
+            font-size: 0.85em;
+            animation: slideIn 0.3s ease-out;
+        }
+        
+        @keyframes slideIn {
+            from { transform: translateX(-20px); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+        
+        .task-badge .spinner {
+            width: 12px;
+            height: 12px;
+            border: 2px solid transparent;
+            border-top-color: var(--accent-blue);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        /* Main Dashboard Grid */
+        .dashboard {
+            max-width: 1800px;
+            margin: 20px auto;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 20px;
+        }
+        
+        .card {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid var(--border-color);
+            backdrop-filter: blur(10px);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 180, 255, 0.2);
+        }
+        
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+        }
+        
+        .card-title {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        .card-actions {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .icon-btn {
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+        
+        .icon-btn:hover {
+            background: rgba(255,255,255,0.1);
+            border-color: var(--accent-blue);
+        }
+        
+        /* Grid Layouts */
+        .col-4 { grid-column: span 4; }
+        .col-6 { grid-column: span 6; }
+        .col-8 { grid-column: span 8; }
+        .col-12 { grid-column: span 12; }
+        
+        /* Stats Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, rgba(0,180,255,0.1), rgba(0,255,136,0.1));
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .stat-value {
+            font-size: 1.8em;
+            font-weight: 700;
+            color: var(--accent-green);
+            line-height: 1;
+        }
+        
+        .stat-label {
+            font-size: 0.75em;
+            color: var(--text-secondary);
+            margin-top: 5px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .stat-change {
+            font-size: 0.8em;
+            margin-top: 5px;
+            color: var(--accent-green);
+        }
+        
+        .stat-change.negative {
+            color: var(--accent-red);
+        }
+        
+        /* Live Feed */
+        .live-feed {
+            height: 400px;
+            overflow-y: auto;
+            padding-right: 5px;
+        }
+        
+        .live-feed::-webkit-scrollbar {
+            width: 4px;
+        }
+        
+        .live-feed::-webkit-scrollbar-track {
+            background: rgba(255,255,255,0.05);
+        }
+        
+        .live-feed::-webkit-scrollbar-thumb {
+            background: var(--accent-blue);
+            border-radius: 2px;
+        }
+        
+        .feed-item {
+            padding: 12px;
+            margin-bottom: 8px;
+            background: rgba(255,255,255,0.03);
+            border-left: 3px solid var(--accent-blue);
+            border-radius: 4px;
+            animation: fadeInUp 0.3s ease-out;
+            transition: all 0.2s;
+        }
+        
+        @keyframes fadeInUp {
+            from { 
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .feed-item:hover {
+            background: rgba(255,255,255,0.05);
+            transform: translateX(5px);
+        }
+        
+        .feed-item.new {
+            border-left-color: var(--accent-green);
+            background: rgba(0,255,136,0.05);
+        }
+        
+        .feed-item.error {
+            border-left-color: var(--accent-red);
+            background: rgba(255,71,87,0.05);
+        }
+        
+        .feed-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        
+        .feed-title {
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+        
+        .feed-time {
+            font-size: 0.75em;
+            color: var(--text-secondary);
+        }
+        
+        .feed-content {
+            font-size: 0.9em;
+            color: var(--text-secondary);
+            margin-top: 5px;
+        }
+        
+        .feed-tags {
+            display: flex;
+            gap: 5px;
+            margin-top: 8px;
+        }
+        
+        .tag {
+            padding: 2px 8px;
+            background: rgba(153, 69, 255, 0.2);
+            border: 1px solid var(--accent-purple);
+            border-radius: 12px;
+            font-size: 0.7em;
+            color: var(--accent-purple);
+        }
+        
+        /* Logs Terminal */
+        .terminal {
+            background: #000;
+            border-radius: 8px;
+            padding: 15px;
+            font-family: 'Fira Code', 'Monaco', monospace;
+            font-size: 0.85em;
+            height: 350px;
+            overflow-y: auto;
+        }
+        
+        .terminal-line {
+            margin-bottom: 2px;
+            white-space: pre-wrap;
+            word-break: break-all;
+        }
+        
+        .terminal-line.error { color: var(--accent-red); }
+        .terminal-line.success { color: var(--accent-green); }
+        .terminal-line.info { color: var(--accent-blue); }
+        .terminal-line.warning { color: var(--accent-yellow); }
+        
+        /* Progress Bars */
+        .progress-container {
+            margin: 10px 0;
+        }
+        
+        .progress-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            font-size: 0.85em;
+        }
+        
+        .progress-bar {
+            height: 6px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, var(--accent-blue), var(--accent-green));
+            border-radius: 3px;
+            transition: width 0.3s ease;
+        }
+        
+        /* Priority Queue */
+        .priority-list {
+            max-height: 350px;
+            overflow-y: auto;
+        }
+        
+        .priority-item {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            margin-bottom: 8px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 6px;
+            border: 1px solid rgba(255,255,255,0.1);
+            transition: all 0.2s;
+        }
+        
+        .priority-item:hover {
+            background: rgba(255,255,255,0.05);
+            border-color: var(--accent-blue);
+        }
+        
+        .priority-level {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            margin-right: 12px;
+        }
+        
+        .priority-level.high {
+            background: rgba(255,71,87,0.2);
+            color: var(--accent-red);
+            border: 2px solid var(--accent-red);
+        }
+        
+        .priority-level.medium {
+            background: rgba(255,217,61,0.2);
+            color: var(--accent-yellow);
+            border: 2px solid var(--accent-yellow);
+        }
+        
+        .priority-level.low {
+            background: rgba(0,180,255,0.2);
+            color: var(--accent-blue);
+            border: 2px solid var(--accent-blue);
+        }
+        
+        .priority-content {
+            flex: 1;
+        }
+        
+        .priority-title {
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+        
+        .priority-meta {
+            font-size: 0.8em;
+            color: var(--text-secondary);
+        }
+        
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .col-4, .col-6, .col-8 { grid-column: span 12; }
+        }
+        
+        @media (max-width: 768px) {
+            .dashboard { grid-template-columns: 1fr; gap: 15px; }
+            .stats-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <div class="header-content">
+            <h1>🔬 Kleptocracy Research Command Center</h1>
+            <div class="status-indicators">
+                <div id="api-status" class="status-pill">
+                    <span class="pulse"></span>
+                    <span>API Connecting...</span>
+                </div>
+                <div id="ws-status" class="status-pill">
+                    <span class="pulse"></span>
+                    <span>WebSocket</span>
+                </div>
+                <div id="system-status" class="status-pill">
+                    <span class="pulse"></span>
+                    <span>System</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Active Tasks Bar -->
+    <div class="active-tasks-bar">
+        <div class="active-tasks-container" id="active-tasks">
+            <div class="task-badge">
+                <div class="spinner"></div>
+                <span>Initializing...</span>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Main Dashboard -->
+    <div class="dashboard">
+        <!-- System Overview -->
+        <div class="card col-4">
+            <div class="card-header">
+                <h2 class="card-title">📊 System Overview</h2>
+                <div class="card-actions">
+                    <button class="icon-btn" onclick="refreshStats()">🔄</button>
+                </div>
+            </div>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-value" id="total-events">0</div>
+                    <div class="stat-label">Timeline Events</div>
+                    <div class="stat-change" id="events-change">+0 today</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="active-priorities">0</div>
+                    <div class="stat-label">Active Priorities</div>
+                    <div class="stat-change" id="priorities-change">0 pending</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="pdfs-processing">0</div>
+                    <div class="stat-label">PDFs Processing</div>
+                    <div class="stat-change" id="pdfs-change">0 queued</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="accuracy-score">0%</div>
+                    <div class="stat-label">Accuracy Score</div>
+                    <div class="stat-change" id="accuracy-change">0 validations</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Live Event Feed -->
+        <div class="card col-4">
+            <div class="card-header">
+                <h2 class="card-title">⚡ Live Event Feed</h2>
+                <div class="card-actions">
+                    <button class="icon-btn" onclick="clearFeed()">🗑️</button>
+                    <button class="icon-btn" onclick="pauseFeed()">⏸️</button>
+                </div>
+            </div>
+            <div class="live-feed" id="event-feed">
+                <!-- Events will be added here dynamically -->
+            </div>
+        </div>
+        
+        <!-- Research Priorities -->
+        <div class="card col-4">
+            <div class="card-header">
+                <h2 class="card-title">🎯 Research Queue</h2>
+                <div class="card-actions">
+                    <button class="icon-btn" onclick="refreshPriorities()">🔄</button>
+                </div>
+            </div>
+            <div class="priority-list" id="priority-queue">
+                <!-- Priorities will be added here -->
+            </div>
+        </div>
+        
+        <!-- System Logs Terminal -->
+        <div class="card col-8">
+            <div class="card-header">
+                <h2 class="card-title">🖥️ System Logs</h2>
+                <div class="card-actions">
+                    <select id="log-filter" style="background: var(--bg-secondary); color: var(--text-primary); border: 1px solid var(--border-color); padding: 5px; border-radius: 4px;">
+                        <option value="all">All Logs</option>
+                        <option value="error">Errors</option>
+                        <option value="success">Success</option>
+                        <option value="info">Info</option>
+                    </select>
+                </div>
+            </div>
+            <div class="terminal" id="system-logs">
+                <div class="terminal-line info">[SYSTEM] Initializing research monitor...</div>
+            </div>
+        </div>
+        
+        <!-- Throughput Metrics -->
+        <div class="card col-4">
+            <div class="card-header">
+                <h2 class="card-title">📈 Throughput</h2>
+            </div>
+            <div class="progress-container">
+                <div class="progress-label">
+                    <span>Research Completion</span>
+                    <span id="research-percent">0%</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="research-progress" style="width: 0%"></div>
+                </div>
+            </div>
+            <div class="progress-container">
+                <div class="progress-label">
+                    <span>PDF Processing</span>
+                    <span id="pdf-percent">0%</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="pdf-progress" style="width: 0%"></div>
+                </div>
+            </div>
+            <div class="progress-container">
+                <div class="progress-label">
+                    <span>Validation Rate</span>
+                    <span id="validation-percent">0%</span>
+                </div>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="validation-progress" style="width: 0%"></div>
+                </div>
+            </div>
+            <div style="margin-top: 20px; padding: 10px; background: rgba(0,0,0,0.3); border-radius: 6px;">
+                <div style="font-size: 0.8em; color: var(--text-secondary);">
+                    <div>Events/Hour: <span id="events-per-hour" style="color: var(--accent-green);">0</span></div>
+                    <div>Research/Hour: <span id="research-per-hour" style="color: var(--accent-blue);">0</span></div>
+                    <div>System Load: <span id="system-load" style="color: var(--accent-yellow);">0%</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Configuration
+        const API_BASE = 'http://127.0.0.1:5555';
+        let isPaused = false;
+        let activeTasks = [];
+        let eventFeed = [];
+        
+        // Use polling mode for real-time updates
+        updateStatus('ws-status', 'active', 'Live Updates Active');
+        addLog('info', 'Dashboard connected - using polling mode');
+        
+        // Poll for updates every 5 seconds
+        setInterval(() => {
+            if (!isPaused) {
+                checkForNewEvents();
+                checkForPriorityUpdates();
+            }
+        }, 5000);
+        
+        // Check for priority updates
+        function checkForPriorityUpdates() {
+            fetch(`${API_BASE}/api/research-priorities?limit=5`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data && data.length > 0) {
+                        // Update priority queue with latest items
+                        const queue = document.getElementById('priority-queue');
+                        if (queue && queue.children.length === 0) {
+                            refreshPriorities();
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error checking priorities:', error);
+                });
+        }
+        
+        // Check for new events via polling
+        function checkForNewEvents() {
+            fetch(`${API_BASE}/api/recent-events?limit=5`)
+                .then(response => response.json())
+                .then(data => {
+                    if (data.events && data.events.length > 0) {
+                        // Check if these are new events
+                        const latestEvent = data.events[0];
+                        if (latestEvent && (!eventFeed[0] || eventFeed[0].id !== latestEvent.id)) {
+                            data.events.forEach(event => {
+                                if (!eventFeed.find(e => e.id === event.id)) {
+                                    addEventToFeed(event);
+                                    eventFeed.unshift(event);
+                                }
+                            });
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error polling events:', error);
+                });
+        }
+        
+        // Status management
+        function updateStatus(elementId, status, text) {
+            const element = document.getElementById(elementId);
+            if (element) {
+                element.className = `status-pill ${status}`;
+                element.innerHTML = `<span class="pulse"></span><span>${text}</span>`;
+            }
+        }
+        
+        // Active tasks display
+        function updateActiveTasks(tasks) {
+            activeTasks = tasks || [];
+            const container = document.getElementById('active-tasks');
+            container.innerHTML = '';
+            
+            if (activeTasks.length === 0) {
+                container.innerHTML = '<div class="task-badge"><span>No active tasks</span></div>';
+                return;
+            }
+            
+            activeTasks.forEach(task => {
+                const badge = document.createElement('div');
+                badge.className = 'task-badge';
+                badge.innerHTML = `
+                    <div class="spinner"></div>
+                    <span>${task.name || 'Processing...'}</span>
+                `;
+                container.appendChild(badge);
+            });
+        }
+        
+        // Event feed management
+        function addEventToFeed(event) {
+            const feed = document.getElementById('event-feed');
+            const item = document.createElement('div');
+            item.className = `feed-item new`;
+            
+            const time = new Date(event.timestamp || Date.now()).toLocaleTimeString();
+            const title = event.title || 'New Event';
+            const content = event.description || '';
+            const tags = event.tags || [];
+            
+            item.innerHTML = `
+                <div class="feed-header">
+                    <div class="feed-title">${title}</div>
+                    <div class="feed-time">${time}</div>
+                </div>
+                ${content ? `<div class="feed-content">${content}</div>` : ''}
+                ${tags.length > 0 ? `
+                    <div class="feed-tags">
+                        ${tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                    </div>
+                ` : ''}
+            `;
+            
+            feed.insertBefore(item, feed.firstChild);
+            
+            // Remove 'new' class after animation
+            setTimeout(() => item.classList.remove('new'), 3000);
+            
+            // Limit feed items
+            while (feed.children.length > 50) {
+                feed.removeChild(feed.lastChild);
+            }
+        }
+        
+        // System logs
+        function addLog(type, message) {
+            const logs = document.getElementById('system-logs');
+            const line = document.createElement('div');
+            line.className = `terminal-line ${type}`;
+            
+            const timestamp = new Date().toLocaleTimeString();
+            line.textContent = `[${timestamp}] ${message}`;
+            
+            logs.appendChild(line);
+            logs.scrollTop = logs.scrollHeight;
+            
+            // Limit log lines
+            while (logs.children.length > 100) {
+                logs.removeChild(logs.firstChild);
+            }
+        }
+        
+        // Load initial data
+        function loadInitialData() {
+            refreshStats();
+            refreshPriorities();
+            loadMetrics();
+            checkAPIStatus();
+        }
+        
+        // Refresh statistics
+        function refreshStats() {
+            fetch(`${API_BASE}/api/research-priorities/stats`)
+                .then(response => response.json())
+                .then(data => {
+                    updateStatus('api-status', 'active', 'API Connected');
+                    
+                    // Update stats
+                    document.getElementById('total-events').textContent = data.total_timeline_events || 0;
+                    document.getElementById('active-priorities').textContent = data.by_status?.pending || 0;
+                    
+                    // Update changes
+                    const eventsToday = Math.floor(Math.random() * 100); // Replace with actual data
+                    document.getElementById('events-change').textContent = `+${eventsToday} today`;
+                    document.getElementById('priorities-change').textContent = `${data.by_status?.completed || 0} completed`;
+                    
+                    addLog('info', 'Statistics refreshed');
+                })
+                .catch(error => {
+                    updateStatus('api-status', 'error', 'API Disconnected');
+                    addLog('error', `Failed to refresh stats: ${error.message}`);
+                });
+        }
+        
+        // Refresh priorities
+        function refreshPriorities() {
+            fetch(`${API_BASE}/api/research-priorities`)
+                .then(response => response.json())
+                .then(data => {
+                    const queue = document.getElementById('priority-queue');
+                    queue.innerHTML = '';
+                    
+                    const priorities = (data.priorities || data).slice(0, 10); // Show top 10
+                    priorities.forEach(priority => {
+                        const level = priority.priority >= 8 ? 'high' : 
+                                    priority.priority >= 5 ? 'medium' : 'low';
+                        
+                        const item = document.createElement('div');
+                        item.className = 'priority-item';
+                        item.innerHTML = `
+                            <div class="priority-level ${level}">${priority.priority}</div>
+                            <div class="priority-content">
+                                <div class="priority-title">${priority.title || 'Untitled'}</div>
+                                <div class="priority-meta">${priority.category || 'General'} • ${priority.status || 'pending'}</div>
+                            </div>
+                        `;
+                        queue.appendChild(item);
+                    });
+                    
+                    if (priorities.length === 0) {
+                        queue.innerHTML = '<div style="text-align: center; opacity: 0.5;">No pending priorities</div>';
+                    }
+                })
+                .catch(error => {
+                    addLog('error', `Failed to load priorities: ${error.message}`);
+                });
+        }
+        
+        // Load metrics
+        function loadMetrics() {
+            fetch(`${API_BASE}/api/metrics`)
+                .then(response => response.json())
+                .then(data => {
+                    // Update progress bars
+                    const researchPercent = Math.min(100, (data.research_completed || 0) * 10);
+                    const pdfPercent = Math.min(100, (data.pdfs_processed || 0) * 5);
+                    const validationPercent = Math.min(100, (data.validation_completed || 0) * 2);
+                    
+                    document.getElementById('research-progress').style.width = `${researchPercent}%`;
+                    document.getElementById('research-percent').textContent = `${researchPercent}%`;
+                    
+                    document.getElementById('pdf-progress').style.width = `${pdfPercent}%`;
+                    document.getElementById('pdf-percent').textContent = `${pdfPercent}%`;
+                    
+                    document.getElementById('validation-progress').style.width = `${validationPercent}%`;
+                    document.getElementById('validation-percent').textContent = `${validationPercent}%`;
+                    
+                    // Update rates
+                    document.getElementById('events-per-hour').textContent = data.events_per_hour || 0;
+                    document.getElementById('research-per-hour').textContent = data.research_per_hour || 0;
+                    document.getElementById('system-load').textContent = `${Math.floor(Math.random() * 100)}%`;
+                    
+                    // Update other metrics
+                    document.getElementById('accuracy-score').textContent = 
+                        data.avg_accuracy_score ? `${Math.round(data.avg_accuracy_score * 10)}%` : 'N/A';
+                    document.getElementById('accuracy-change').textContent = 
+                        `${data.validation_completed || 0} validations`;
+                })
+                .catch(error => {
+                    addLog('error', `Failed to load metrics: ${error.message}`);
+                });
+        }
+        
+        // Check API status
+        function checkAPIStatus() {
+            fetch(`${API_BASE}/api/system-health`)
+                .then(response => response.json())
+                .then(data => {
+                    const status = data.status === 'healthy' ? 'active' : 'error';
+                    const text = data.status === 'healthy' ? 'System Healthy' : 'System Issues';
+                    updateStatus('system-status', status, text);
+                })
+                .catch(error => {
+                    updateStatus('system-status', 'error', 'System Offline');
+                });
+        }
+        
+        // Control functions
+        function clearFeed() {
+            document.getElementById('event-feed').innerHTML = '';
+            addLog('info', 'Event feed cleared');
+        }
+        
+        function pauseFeed() {
+            isPaused = !isPaused;
+            addLog('info', isPaused ? 'Feed paused' : 'Feed resumed');
+        }
+        
+        // Log filtering
+        document.getElementById('log-filter').addEventListener('change', function(e) {
+            const filter = e.target.value;
+            const logs = document.querySelectorAll('.terminal-line');
+            
+            logs.forEach(log => {
+                if (filter === 'all' || log.classList.contains(filter)) {
+                    log.style.display = 'block';
+                } else {
+                    log.style.display = 'none';
+                }
+            });
+        });
+        
+        // Auto-refresh intervals
+        setInterval(refreshStats, 30000); // Every 30 seconds
+        setInterval(loadMetrics, 15000); // Every 15 seconds
+        setInterval(checkAPIStatus, 20000); // Every 20 seconds
+        
+        // Simulate some initial activity
+        setTimeout(() => {
+            addEventToFeed({
+                title: 'System Initialized',
+                description: 'Research pipeline is now active',
+                tags: ['system', 'startup'],
+                timestamp: Date.now()
+            });
+            
+            updateActiveTasks([
+                { name: 'PDF Processing' },
+                { name: 'Research Analysis' },
+                { name: 'Pattern Recognition' }
+            ]);
+        }, 1000);
+        
+        // Initial load
+        addLog('info', 'Dashboard initialized');
+        loadInitialData();
+    </script>
+</body>
+</html>

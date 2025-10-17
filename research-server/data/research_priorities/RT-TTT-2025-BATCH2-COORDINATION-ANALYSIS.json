@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-COORDINATION-ANALYSIS",
+  "title": "TTT Batch 2: Cross-Pattern Coordination and Systematic Integration",
+  "description": "Meta-analysis of coordination between different corruption mechanisms identified in TTT articles 46-90. Examines how Schedule F implementation, DOJ weaponization, military politicization, election infrastructure capture, oversight obstruction, and media suppression coordinate and integrate. Research inter-agency coordination, timing synchronization, resource sharing, and systematic corruption architecture. Focus on coordination mechanisms, command structures, and systematic integration patterns.",
+  "expected_events": 8,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "coordination-analysis",
+    "systematic-corruption",
+    "meta-analysis"
+  ],
+  "timeline_focus": "2017-2025",
+  "actors": [
+    "White House",
+    "Trump Administration",
+    "Cabinet",
+    "Federal Agencies"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348878",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

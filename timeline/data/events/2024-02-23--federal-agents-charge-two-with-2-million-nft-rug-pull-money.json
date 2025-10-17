@@ -1,0 +1,50 @@
+{
+  "actors": [
+    "Devin Alan Rhoden",
+    "Berman Jerry Nowlin Jr.",
+    "HSI",
+    "DHS",
+    "U.S. Air Force Office of Special Investigations",
+    "Pasco County Sheriff's Office",
+    "Department of Defense Inspector General"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Cyber Crime",
+    "Blockchain Fraud"
+  ],
+  "date": "2024-02-23",
+  "id": "2024-02-23--federal-agents-charge-two-with-2-million-nft-rug-pull-money",
+  "importance": 8,
+  "sources": [
+    {
+      "outlet": "DHS HSI",
+      "title": "2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains",
+      "url": "https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains"
+    },
+    {
+      "outlet": "Department of Justice - Middle District of Florida",
+      "title": "Jury Finds Non-Fungible Token Developer Guilty Of Defrauding Investors And Laundering Proceeds Through Blockchains",
+      "url": "https://www.justice.gov/usao-mdfl/pr/jury-finds-non-fungible-token-developer-guilty-defrauding-investors-and-laundering"
+    },
+    {
+      "outlet": "Business Observer",
+      "title": "Alabama, Pinellas Park men face prison in digital NFT scam",
+      "url": "https://www.businessobserverfl.com/news/2024/nov/01/alabama-pinellas-park-men-facing-prison-in-digital-nft-scam"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Homeland Security Investigations (HSI) Tampa led a multi-agency investigation charging Devin Alan Rhoden, a senior military cyber analyst, and Berman Jerry Nowlin Jr., an NFT developer, with conspiracy to commit wire fraud and money laundering. The defendants created three NFT collections ('UndeadApes', 'Undead Lady Apes', and 'Undead Tombstone') that were part of an elaborate cryptocurrency 'rug pull' scheme. Using sophisticated blockchain 'chain-hopping' techniques, they obfuscated nearly $400,000 in fraudulent proceeds by transferring funds between Solana and Ethereum blockchains. Nowlin was found guilty in November 2024, while Rhoden pleaded guilty in May 2024. This case represents a significant federal prosecution highlighting emerging cryptocurrency fraud techniques.",
+  "tags": [
+    "nft",
+    "money-laundering",
+    "fraud",
+    "blockchain",
+    "federal-prosecution",
+    "rug-pull",
+    "cyber-crime",
+    "crypto"
+  ],
+  "title": "Federal Agents Charge Two with $400,000 NFT 'Rug Pull' Money Laundering Scheme"
+}

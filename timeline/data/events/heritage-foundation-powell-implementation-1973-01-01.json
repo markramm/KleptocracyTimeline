@@ -1,0 +1,44 @@
+{
+  "id": "heritage-foundation-powell-implementation-1973-01-01",
+  "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
+  "date": "1973-01-01",
+  "title": "Heritage Foundation Established as Powell Memo Implementation Vehicle",
+  "summary": "Joseph Coors establishes Heritage Foundation think tank on February 16, 1973, directly inspired by the Powell Memorandum strategy. Represents first major institutional implementation of Powell's plan for coordinated corporate influence through policy research organizations. Founders Edwin Feulner and Paul Weyrich sought to create a conservative alternative to the Brookings Institution, with initial funding of $250,000 from Coors. Part of explosion in conservative think tanks following Powell blueprint including Business Roundtable (1972) and ALEC (1973).",
+  "actors": [
+    "Joseph Coors",
+    "Heritage Foundation",
+    "Edwin Feulner",
+    "Paul Weyrich"
+  ],
+  "financial_impact": 250000,
+  "sources": [
+    {
+      "title": "greenpeace.org",
+      "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+    },
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/The_Heritage_Foundation"
+    },
+    {
+      "title": "britannica.com",
+      "url": "https://www.britannica.com/topic/Heritage-Foundation"
+    },
+    {
+      "title": "opensecrets.org",
+      "url": "https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435"
+    },
+    {
+      "title": "loc.gov",
+      "url": "https://www.loc.gov/item/lcwaN0002695/"
+    }
+  ],
+  "importance": 8,
+  "tags": [
+    "powell-memorandum-acceleration",
+    "heritage-foundation",
+    "think-tank-creation",
+    "institutional-coordination",
+    "conservative-policy-research"
+  ]
+}

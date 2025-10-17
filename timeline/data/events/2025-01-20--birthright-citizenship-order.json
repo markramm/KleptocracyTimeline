@@ -1,0 +1,74 @@
+{
+  "id": "2025-01-20--birthright-citizenship-order",
+  "date": "2025-01-20",
+  "importance": 10,
+  "title": "Trump Signs Unconstitutional Executive Order Challenging Birthright Citizenship",
+  "summary": "On January 20, 2025, President Trump signed an executive order challenging birthright citizenship, targeting children born to non-citizen or undocumented parents. The order, which directly mirrors Project 2025 recommendations, seeks to reinterpret the 14th Amendment's citizenship clause, immediately facing multiple federal lawsuits and judicial injunctions.",
+  "description": "The executive order, titled 'Protecting the Meaning and Value of American Citizenship,' attempts to deny citizenship to children born in the United States whose parents are not U.S. citizens or lawful permanent residents. The order targets specific categories of births, including children of temporary visa holders and undocumented immigrants. Within days, multiple federal judges issued preliminary injunctions blocking the order's implementation, citing clear constitutional violations.",
+  "location": "Washington, DC",
+  "actors": [
+    "Donald Trump",
+    "Department of Justice",
+    "Supreme Court",
+    "Asian Law Caucus",
+    "ACLU",
+    "State Democracy Defenders Fund"
+  ],
+  "tags": [
+    "birthright-citizenship",
+    "constitutional-crisis",
+    "executive-order",
+    "project-2025",
+    "immigration",
+    "14th-amendment"
+  ],
+  "capture_lanes": [
+    "Executive Power & Emergency Authority",
+    "Immigration & Border Militarization",
+    "Judicial Manipulation"
+  ],
+  "sources": [
+    {
+      "title": "Protecting The Meaning And Value Of American Citizenship",
+      "url": "https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/",
+      "outlet": "White House",
+      "date": "2025-01-20"
+    },
+    {
+      "title": "Federal Court Blocks Trump Birthright Citizenship Executive Order",
+      "url": "https://www.aclu.org/press-releases/federal-court-blocks-trump-birthright-citizenship-executive-order",
+      "outlet": "ACLU",
+      "date": "2025-01-23"
+    },
+    {
+      "title": "Supreme Court Limits Nationwide Injunctions in Birthright Citizenship Case",
+      "url": "https://www.americanimmigrationcouncil.org/blog/in-birthright-citizenship-decision-the-supreme-court-expanded-trumps-power",
+      "outlet": "American Immigration Council",
+      "date": "2025-06-27"
+    },
+    {
+      "title": "Barbara v. Trump: Nationwide Class-Action Challenge to Birthright Citizenship Order",
+      "url": "https://www.asianlawcaucus.org/news-resources/barbara-v-trump-challenge",
+      "outlet": "Asian Law Caucus",
+      "date": "2025-07-10"
+    }
+  ],
+  "connections": [
+    "Project 2025 implementation",
+    "14th Amendment constitutional challenge",
+    "Immigration policy transformation"
+  ],
+  "patterns": [
+    "executive-overreach",
+    "constitutional-reinterpretation",
+    "systematic-discrimination"
+  ],
+  "notes": "Implementing Project 2025 recommendation despite 14th Amendment's clear language. Represents a direct assault on established constitutional citizenship principles.",
+  "status": "contested",
+  "legal_status": {
+    "initial_order": "Signed January 20, 2025",
+    "preliminary_injunctions": "Multiple federal judges blocked implementation",
+    "supreme_court_action": "Limited nationwide injunctions on June 27, 2025",
+    "current_status": "Blocked from full implementation"
+  }
+}

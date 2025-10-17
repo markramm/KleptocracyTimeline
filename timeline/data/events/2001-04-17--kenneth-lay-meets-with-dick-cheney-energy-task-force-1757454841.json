@@ -1,0 +1,46 @@
+{
+  "id": "2001-04-17--kenneth-lay-meets-with-dick-cheney-energy-task-force-1757454841",
+  "date": "2001-04-17",
+  "title": "Kenneth Lay Meets with Dick Cheney Energy Task Force",
+  "summary": "On April 17, 2001, Enron CEO Kenneth Lay met with Vice President Dick Cheney and his National Energy Policy Development Group (Energy Task Force), presenting a three-page \"wish list\" of corporate energy policy recommendations. This meeting was one of at least six interactions between Enron executives and the task force between January and May 2001. Lay provided specific policy recommendations targeting federal energy regulations, particularly concerning the California energy crisis. Subsequent analysis revealed that the final Energy Task Force report adopted 17 policies that either directly benefited Enron or aligned with their corporate interests, demonstrating the significant influence of corporate actors in shaping national energy policy.",
+  "importance": 9,
+  "sources": [
+    {
+      "outlet": "ABC News",
+      "title": "Cheney Reveals Enron Meeting",
+      "url": "https://abcnews.go.com/Business/story?id=87452"
+    },
+    {
+      "outlet": "The Nation",
+      "title": "Enron: What Dick Cheney Knew",
+      "url": "https://www.thenation.com/article/archive/enron-what-dick-cheney-knew/"
+    },
+    {
+      "outlet": "UPI",
+      "title": "Enron Attended 6 Energy Policy Meetings",
+      "url": "https://www.upi.com/Top_News/2002/01/08/Enron-attended-6-energy-policy-meetings/14501010550773/"
+    }
+  ],
+  "tags": [
+    "enron",
+    "cheney",
+    "energy-task-force",
+    "corporate-capture",
+    "corruption",
+    "regulatory-capture",
+    "executive-power"
+  ],
+  "actors": [
+    "Kenneth Lay",
+    "Dick Cheney",
+    "Enron",
+    "National Energy Policy Development Group",
+    "George W. Bush",
+    "Henry Waxman"
+  ],
+  "capture_lanes": [
+    "Executive Power Expansion",
+    "Regulatory Capture",
+    "Corporate Influence"
+  ]
+}

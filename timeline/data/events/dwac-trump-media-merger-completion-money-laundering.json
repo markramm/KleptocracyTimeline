@@ -1,0 +1,40 @@
+{
+  "id": "dwac-trump-media-merger-completion-money-laundering",
+  "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "date": "2024-03-25",
+  "title": "DWAC-Trump Media Merger Completes Despite Fraud Investigations and International Money Laundering Probes",
+  "summary": "The Digital World Acquisition Corp and Trump Media & Technology Group merger was completed on March 25, 2024, creating a public company valued at approximately $9.4 billion and providing Trump with a potential $4 billion windfall. The merger proceeded despite ongoing SEC fraud investigations, criminal insider trading prosecutions, and federal probes into potential money laundering involving Russian oligarch connections. The company began trading on NASDAQ under the ticker DJT, with Trump potentially holding a 69% stake through 78.75 million shares. The completion of the merger demonstrates the complex regulatory landscape surrounding Trump's business ventures, with the company going public despite multiple active investigations into its financial practices.",
+  "key_actors": [
+    "Donald Trump",
+    "Trump Media Technology Group",
+    "Digital World Acquisition Corp",
+    "NASDAQ",
+    "Russian oligarchs",
+    "federal investigators"
+  ],
+  "importance": 8,
+  "tags": [
+    "trump-media",
+    "dwac-merger",
+    "money-laundering",
+    "russian-oligarchs",
+    "regulatory-capture",
+    "political-financing",
+    "spac-fraud"
+  ],
+  "sources": [
+    {
+      "url": "https://thehill.com/business/4549540-digital-world-shareholders-approve-merger-with-trump-media/",
+      "title": "Truth Social merger approved, giving Trump potential source of cash"
+    },
+    {
+      "title": "Trump Media's merger with DWAC gets regulatory nod. Trump could get a stake worth $4 billion.",
+      "url": "https://www.cbsnews.com/news/trump-media-dwac-sec-approval-spac/"
+    },
+    {
+      "title": "DWAC shares soar as merger with Trump social media company appears closer",
+      "url": "https://www.cnbc.com/2024/02/15/trump-social-merger-with-dwac-appears-closer.html"
+    }
+  ],
+  "status": "confirmed"
+}

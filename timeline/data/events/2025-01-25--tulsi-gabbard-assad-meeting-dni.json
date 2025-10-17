@@ -1,0 +1,77 @@
+{
+    "id": "2025-01-25--tulsi-gabbard-assad-meeting-dni",
+    "date": "2025-01-25",
+    "title": "DNI Tulsi Gabbard's Secret Assad Meeting and Russian Ties Alarm Intelligence Allies",
+    "summary": "Director of National Intelligence Tulsi Gabbard, confirmed by a narrow 52-48 Senate vote, faces intense scrutiny over her 2017 secret meeting with Syrian dictator Bashar al-Assad and consistent pro-Russia positioning. Her minimal intelligence experience and controversial past have raised significant concerns among intelligence allies about potential security risks.",
+    "description": "Director of National Intelligence Tulsi Gabbard, who secretly met Syrian dictator Bashar al-Assad in 2017 trip financed by Lebanese party with Assad ties, consistently echoes Russian talking points on Ukraine. With only two years junior intelligence committee experience, allies express concerns about intelligence sharing. Her controversial Syria trip and pro-Russia statements have raised significant questions about her suitability for the role.",
+    "importance": 9,
+    "tags": [
+        "tulsi-gabbard",
+        "assad",
+        "russia",
+        "dni",
+        "intelligence-community",
+        "foreign-influence",
+        "security-risk",
+        "syria",
+        "senate-confirmation"
+    ],
+    "actors": [
+        "tulsi-gabbard",
+        "bashar-al-assad",
+        "russian-intelligence",
+        "dni",
+        "intelligence-allies",
+        "senate-republicans"
+    ],
+    "capture_lane": "political",
+    "status": "confirmed",
+    "sources": [
+        {
+            "outlet": "CNN",
+            "date": "2025-01-25",
+            "url": "https://www.cnn.com/2025/01/25/politics/gabbard-assad-meeting-dni-concerns/",
+            "title": "Gabbard's Assad meeting raises intelligence sharing concerns"
+        },
+        {
+            "outlet": "Politico",
+            "date": "2025-01-26",
+            "url": "https://www.politico.com/news/2025/01/26/tulsi-gabbard-russia-ukraine-dni",
+            "title": "DNI Gabbard's pro-Russia statements alarm allies"
+        },
+        {
+            "outlet": "NPR",
+            "date": "2025-02-12",
+            "url": "https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate",
+            "title": "Tulsi Gabbard confirmed as director of national intelligence, overcoming skepticism"
+        },
+        {
+            "outlet": "U.S. News",
+            "date": "2025-01-30",
+            "url": "https://www.usnews.com/news/national-news/articles/2025-01-30/questions-over-edward-snowden-bashar-assad-dominate-tulsi-gabbards-confirmation-hearing",
+            "title": "Questions over Edward Snowden, Bashar Assad Dominate Tulsi Gabbard's Confirmation Hearing"
+        },
+        {
+            "outlet": "Roll Call",
+            "date": "2025-02-10",
+            "url": "https://rollcall.com/2025/02/10/senate-advances-gabbards-nomination-to-become-dni/",
+            "title": "Senate advances Gabbard's nomination to become DNI"
+        }
+    ],
+    "connections": [
+        "2017-01-18--gabbard-assad-secret-meeting",
+        "2022-02-24--russia-invades-ukraine",
+        "2025-01-20--gabbard-dni-confirmation"
+    ],
+    "patterns": [
+        "foreign-influence",
+        "security-compromise",
+        "russian-alignment",
+        "institutional-transformation"
+    ],
+    "notes": "Gabbard's appointment as DNI despite secret meetings with Assad and consistent pro-Russia positioning represents an unprecedented security risk. Her 2017 Assad trip, financed by groups with Syrian regime ties, violated congressional notification requirements. She regularly appears on Russian state media, blamed NATO for Ukraine invasion, and called Zelensky a \"dictator.\" Intelligence allies now questioning whether to share sensitive information with U.S., potentially blind America to threats. Her minimal intelligence experience compounds concerns about protecting sources and methods.",
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Intelligence Penetration"
+    ]
+}

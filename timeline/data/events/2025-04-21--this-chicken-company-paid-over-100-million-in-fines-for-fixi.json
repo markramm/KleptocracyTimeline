@@ -1,0 +1,57 @@
+{
+  "id": "2025-04-21--this-chicken-company-paid-over-100-million-in-fines-for-fixi",
+  "date": "2025-04-21",
+  "title": "Pilgrim's Pride, Fined $100M, Donates $5M to Trump Inauguration Under Scrutiny",
+  "summary": "Pilgrim's Pride, a meat processor that paid over $100 million in antitrust fines, made the largest single $5 million donation to the Trump-Vance Inaugural Committee. Senator Elizabeth Warren launched an investigation into potential quid pro quo, highlighting the company's simultaneous SEC listing and regulatory benefits.",
+  "description": "Pilgrim's Pride made a substantial $5 million donation to the Trump-Vance Inaugural Committee following multiple antitrust settlements totaling over $200 million, raising concerns about potential regulatory favoritism.",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Pilgrim's Pride",
+    "Senator Elizabeth Warren"
+  ],
+  "tags": [
+    "government-contracts",
+    "corporate-donations",
+    "antitrust",
+    "inaugural-fund"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump's Top Inaugural Donor Is Poultry Company Fined for Price Fixing and Antitrust Violations",
+      "url": "https://readsludge.com/2025/04/21/trumps-top-inaugural-donor-is-poultry-company-fined-for-price-fixing-and-antitrust-violations/",
+      "outlet": "Sludge",
+      "date": "2025-04-21"
+    },
+    {
+      "title": "Warren Pushes Giant Meat Processor on Trump Inaugural Donation",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-meat-processor-pilgrims-pride-largest-donor-to-the-trump-vance-inaugural-committee-on-potential-corruption",
+      "outlet": "Senator Elizabeth Warren Official Website",
+      "date": "2025-05-19"
+    },
+    {
+      "title": "Pilgrim's Pride donated $5 million to Trump inauguration",
+      "url": "https://www.meatpoultry.com/articles/31799-pilgrims-pride-donated-5-million-to-trump-inauguration",
+      "outlet": "MEAT+POULTRY",
+      "date": "2025-04-22"
+    }
+  ],
+  "connections": [
+    "Antitrust Litigation",
+    "Inaugural Committee Fundraising"
+  ],
+  "patterns": [
+    "kleptocratic-capture",
+    "inauguration-fundraising",
+    "antitrust-violations"
+  ],
+  "notes": "Comprehensive investigation tracking potential regulatory capture and corporate influence.",
+  "capture_lanes": [
+    "Systematic Corruption",
+    "Corporate Influence"
+  ]
+}

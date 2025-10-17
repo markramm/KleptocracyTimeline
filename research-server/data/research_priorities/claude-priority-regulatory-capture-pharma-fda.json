@@ -1,0 +1,16 @@
+{
+    "id": "claude-regulatory-capture-pharma-fda",
+    "title": "Pharmaceutical Industry Regulatory Capture of FDA",
+    "description": "Research the systematic capture of FDA regulatory processes by pharmaceutical companies through revolving door appointments, funding mechanisms, and policy influence from 1980s-present",
+    "category": "regulatory-capture",
+    "priority": 9,
+    "status": "pending",
+    "estimated_events": 4,
+    "estimated_importance": 8,
+    "time_period": "1980-2024",
+    "tags": ["regulatory-capture", "pharmaceutical", "FDA", "revolving-door", "public-health"],
+    "export_worthy": true,
+    "research_notes": "Focus on key officials moving between pharma companies and FDA, approval processes for controversial drugs, and suppression of safety data. Include cases like OxyContin approval, COVID-19 vaccine approvals, and influence on drug pricing policies.",
+    "blockers": "None identified",
+    "next_steps": "Research FDA commissioner appointments from pharmaceutical backgrounds, analyze fast-track approval processes, document pharmaceutical lobbying expenditures and regulatory outcomes"
+}

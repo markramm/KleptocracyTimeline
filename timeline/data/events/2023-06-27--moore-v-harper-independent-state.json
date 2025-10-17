@@ -1,0 +1,49 @@
+{
+  "id": "2023-06-27--moore-v-harper-independent-state",
+  "date": "2023-06-27",
+  "importance": 6,
+  "title": "Supreme Court Rejects Dangerous \"Independent State Legislature\" Theory in Moore v. Harper",
+  "summary": "Supreme Court rejected dangerous \"independent state legislature\" theory in Moore v. Harper with 6-3 decision, preserving state courts' ability to review federal election laws under state constitutions. Theory would have given state legislatures unchecked power over federal elections without judicial review. Decision maintained crucial checks and balances on state legislatures' power, preventing legislatures from overriding state constitutions or courts in setting federal election rules. Victory for democracy prevented potential chaos in election administration.",
+  "location": "Washington DC",
+  "actors": [
+    "US Supreme Court",
+    "North Carolina Legislature",
+    "Democracy advocates"
+  ],
+  "tags": [
+    "independent-state-legislature",
+    "supreme-court",
+    "election-law",
+    "constitutional-law",
+    "checks-and-balances",
+    "democratic-protection"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Supreme Court rejects independent state legislature theory in Moore v. Harper",
+      "url": "https://www.scotusblog.com/2023/06/supreme-court-rejects-independent-state-legislature-theory/",
+      "outlet": "SCOTUSblog",
+      "date": "2023-06-27"
+    },
+    {
+      "title": "Court rejects theory that would have transformed American elections",
+      "url": "https://www.npr.org/2023/06/27/1184724043/supreme-court-independent-state-legislature-theory",
+      "outlet": "NPR",
+      "date": "2023-06-27"
+    },
+    {
+      "title": "Moore v. Harper decision preserves judicial review of election laws",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/moore-v-harper-decision",
+      "outlet": "Brennan Center for Justice",
+      "date": "2023-06-27"
+    }
+  ],
+  "notes": "Theory threatened to eliminate all state constitutional protections for voting rights and fair elections. Decision preserves role of state courts in protecting democracy.",
+  "capture_lanes": [
+    "Judicial Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
+}

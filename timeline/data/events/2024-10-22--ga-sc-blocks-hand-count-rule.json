@@ -1,0 +1,50 @@
+{
+  "id": "2024-10-22--ga-sc-blocks-hand-count-rule",
+  "title": "Georgia Supreme Court blocks State Election Board's hand-count rule",
+  "date": "2024-10-22",
+  "importance": 6,
+  "summary": "Georgia Supreme Court unanimously ruled the GOP-led State Election Board exceeded its authority by passing rules requiring hand-counting of ballots at polling places. Chief Justice Nels Peterson wrote the Board \"cannot go beyond, change or contradict\" state law. The court blocked four rules passed less than 50 days before the 2024 election, including hand counts and \"reasonable inquiry\" requirements before certification.",
+  "location": "Georgia",
+  "actors": [
+    "Georgia Supreme Court",
+    "Georgia State Election Board",
+    "Chief Justice Nels Peterson",
+    "NAACP Georgia"
+  ],
+  "tags": [
+    "election-administration",
+    "elections",
+    "state-courts",
+    "voter-suppression",
+    "hand-counting",
+    "election-certification"
+  ],
+  "capture_lanes": [
+    "Election System Attack"
+  ],
+  "citations": [
+    "https://www.ajc.com/politics/breaking-georgia-supreme-court-wont-expedite-appeal-over-controversial-election-rules/TJODHX67MBCZBPU4W432J2QQOI/"
+  ],
+  "notes": "GOP-led board attempted to implement these rules without legislative approval less than 50 days before 2024 election. NAACP and voting rights groups successfully challenged as voter suppression. The invalidated rules would have caused confusion and delays.",
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Georgia Supreme Court Blocks State Election Board's Anti-Voting Rules",
+      "url": "https://www.democracydocket.com/news-alerts/georgia-supreme-court-blocks-state-election-boards-anti-voting-rules/",
+      "outlet": "Democracy Docket",
+      "date": "2024-10-22"
+    },
+    {
+      "title": "Georgia Supreme Court Upholds Block on Hand Counting Rule",
+      "url": "https://www.aclu.org/press-releases/georgia-supreme-court-upholds-block-on-hand-counting-rule-in-major-win-for-voters",
+      "outlet": "ACLU",
+      "date": "2024-10-22"
+    },
+    {
+      "title": "Georgia Supreme Court strikes down State Election Board rules",
+      "url": "https://georgiarecorder.com/2024/10/22/georgia-supreme-court-rejects-changes-sought-by-trump-aligned-board-ahead-of-2024-election/",
+      "outlet": "Georgia Recorder",
+      "date": "2024-10-22"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2024-06-15--grok-ai-safety-protocol-revision",
+  "date": "2024-06-15",
+  "title": "xAI Implements Controversial AI Safety Framework Amid Industry Scrutiny",
+  "summary": "xAI announced a draft AI safety framework following international pressure, but faced severe criticism from AI safety experts for lack of comprehensive risk mitigation strategies. Industry researchers from OpenAI and Anthropic accused xAI of having a 'reckless' safety culture, highlighting concerns about Grok 4's deployment without proper safety assessments. The incident underscores growing tensions around responsible AI development and the need for standardized safety protocols.",
+  "importance": 8,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "The Midas Project",
+    "AI Safety Experts",
+    "Samuel Marks",
+    "Boaz Barak"
+  ],
+  "tags": [
+    "ai-safety",
+    "tech-regulation",
+    "algorithmic-accountability",
+    "ai-ethics",
+    "technological-governance"
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Tech Governance",
+    "Media Manipulation",
+    "Technological Risk Management"
+  ],
+  "sources": [
+    {
+      "outlet": "TechCrunch",
+      "title": "xAI's promised safety report is MIA",
+      "url": "https://techcrunch.com/2025/05/13/xais-promised-safety-report-is-mia/",
+      "retrieved": "2025-10-06",
+      "date": "2025-05-13"
+    },
+    {
+      "outlet": "Fortune",
+      "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
+      "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
+      "retrieved": "2025-10-06",
+      "date": "2025-07-17"
+    },
+    {
+      "outlet": "TechCrunch",
+      "title": "OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI",
+      "url": "https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/",
+      "retrieved": "2025-10-14",
+      "date": "2025-07-16"
+    }
+  ]
+}

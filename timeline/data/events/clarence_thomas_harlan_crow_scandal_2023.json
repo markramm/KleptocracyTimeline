@@ -1,0 +1,45 @@
+{
+  "date": "2023-04-06",
+  "title": "ProPublica Exposes Clarence Thomas's Undisclosed Luxury Gifts from Billionaire Harlan Crow",
+  "summary": "ProPublica revealed that Supreme Court Justice Clarence Thomas had accepted luxury vacations worth potentially hundreds of thousands of dollars from billionaire Republican donor Harlan Crow over more than 20 years without disclosing them, as required by federal ethics law. The gifts included private jet flights, yacht cruises costing over half a million dollars, trips to the exclusive Bohemian Grove retreat, and stays at Crow's sprawling Texas ranch. The investigation also uncovered that Thomas failed to disclose a $133,363 real estate transaction where Crow purchased three properties from Thomas and his family members in Savannah, Georgia. Additionally, Crow paid over $6,000 monthly in boarding school tuition for a boy Thomas was raising 'as a son.' These undisclosed financial relationships created serious conflicts of interest, as Crow's business interests came before the Supreme Court in at least 10 cases after their relationship began, with Thomas never recusing himself. The scandal represents unprecedented largesse from a political donor to a sitting Supreme Court justice and has prompted calls for ethics reform and formal ethics complaints against Thomas.",
+  "importance": 8,
+  "actors": [
+    "Clarence Thomas",
+    "Harlan Crow",
+    "Crow Holdings",
+    "Leonard Leo",
+    "Robin Arkley II",
+    "ProPublica"
+  ],
+  "tags": [
+    "judicial-capture",
+    "supreme-court",
+    "corporate-influence",
+    "ethics-violation",
+    "clarence-thomas",
+    "conflict-of-interest",
+    "undisclosed-gifts"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor",
+      "url": "https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow",
+      "outlet": "ProPublica",
+      "date": "2023-04-06"
+    },
+    {
+      "title": "Clarence Thomas's decisions have been benefiting wealthy donors like Harlan Crow — for decades",
+      "url": "https://www.citizensforethics.org/news/analysis/clarence-thomass-decisions-have-been-benefiting-wealthy-donors-like-harlan-crow-for-decades/",
+      "outlet": "Citizens for Responsibility and Ethics in Washington",
+      "date": "2023-04-06"
+    },
+    {
+      "title": "Now-released forms reveal more trips gifted to Justice Clarence Thomas by Harlan Crow",
+      "url": "https://www.npr.org/2023/08/31/1197084334/now-released-forms-reveal-more-trips-gifted-to-justice-clarence-thomas-by-harlan",
+      "outlet": "NPR",
+      "date": "2023-08-31"
+    }
+  ],
+  "id": "clarence_thomas_harlan_crow_scandal_2023"
+}

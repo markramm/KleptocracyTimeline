@@ -1,0 +1,53 @@
+{
+  "id": "2024-07-17--sec-sues-patrick-orlando-securities-fraud-allegations",
+  "date": "2024-07-17",
+  "title": "SEC Files Securities Fraud Lawsuit Against Former DWAC CEO Patrick Orlando",
+  "summary": "The Securities and Exchange Commission files a federal lawsuit against Patrick Orlando, former CEO and Chairman of Digital World Acquisition Corporation, alleging securities fraud in connection with DWAC's initial public offering and proposed merger with Trump Media. The SEC alleges Orlando made materially false and misleading statements in SEC filings, claiming DWAC had no discussions with potential merger targets when extensive negotiations with Trump Media had occurred since February 2021. The complaint details how Orlando initially pursued the TMTG merger through another SPAC before forming a plan in Spring 2021 to use DWAC instead. This represents the culmination of a multi-year investigation into systematic deception of public investors.",
+  "tags": [
+    "sec-lawsuit",
+    "patrick-orlando",
+    "securities-fraud",
+    "dwac",
+    "trump-media",
+    "spac-fraud"
+  ],
+  "actors": [
+    "Securities and Exchange Commission",
+    "Patrick Orlando",
+    "Digital World Acquisition Corp",
+    "Trump Media & Technology Group"
+  ],
+  "sources": [
+    {
+      "title": "SEC Sues Digital World Ex-CEO Patrick Orlando, Alleging Securities Fraud",
+      "url": "https://www.bloomberg.com/news/articles/2024-07-17/sec-sues-ex-ceo-of-digital-world-alleging-securities-fraud",
+      "outlet": "Bloomberg",
+      "date": "2024-07-17"
+    },
+    {
+      "title": "Patrick Orlando SEC Complaint",
+      "url": "https://www.sec.gov/files/litigation/complaints/2024/comp26051.pdf",
+      "outlet": "US Securities and Exchange Commission",
+      "date": "2024-07-17"
+    },
+    {
+      "title": "SEC sues Trump Media SPAC ex-CEO Patrick Orlando for alleged fraud",
+      "url": "https://www.cnbc.com/2024/07/18/sec-sues-trump-media-spac-ex-ceo-patrick-orlando.html",
+      "outlet": "CNBC",
+      "date": "2024-07-18"
+    },
+    {
+      "title": "Trump Media Rocked by Securities Fraud Scandal",
+      "url": "https://www.newsweek.com/patrick-orlando-accused-securities-fraud-trump-media-truth-social-digital-world-acquisition-corp-1926817",
+      "outlet": "Newsweek",
+      "date": "2024-07-18"
+    }
+  ],
+  "importance": 9,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

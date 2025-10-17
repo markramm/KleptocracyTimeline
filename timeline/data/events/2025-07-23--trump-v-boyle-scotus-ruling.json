@@ -1,0 +1,57 @@
+{
+  "id": "2025-07-23--trump-v-boyle-scotus-ruling",
+  "title": "Supreme Court Emergency Order in Trump v. Boyle",
+  "date": "2025-07-23",
+  "importance": 8,
+  "summary": "Supreme Court 6-3 unsigned order allows Trump to fire three Democratic CPSC commissioners without cause, reversing district court reinstatement. Kagan dissent warns court 'all but overturned' 90-year Humphrey's Executor precedent protecting independent agencies. Kavanaugh suggests court may formally strike down precedent.",
+  "location": "Washington DC",
+  "actors": [
+    "US Supreme Court",
+    "Donald Trump",
+    "CPSC Commissioners",
+    "Justice Kagan"
+  ],
+  "tags": [
+    "supreme-court",
+    "independent-agencies",
+    "emergency-relief",
+    "cpsc",
+    "judicial-deference"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption"
+  ],
+  "citations": [
+    "U.S. Supreme Court \u2014 Trump v. Boyle (order, Jul 23, 2025) (PDF): https://www.supremecourt.gov/opinions/24pdf/25a11_2cp3.pdf",
+    "SCOTUSblog \u2014 Trump v. Boyle case page (Jul 23, 2025): https://www.scotusblog.com/cases/case-files/trump-v-boyle/",
+    "Reuters \u2014 U.S. Supreme Court lets Trump remove CPSC commissioners (Jul 23, 2025): https://www.reuters.com/legal/government/us-supreme-court-lets-trump-remove-consumer-product-safety-commissioners-2025-07-23/"
+  ],
+  "notes": "Fired commissioners were Mary Boyle, Richard L. Trumka Jr., and Alexander Hoehn-Saric. Court cited Trump v. Wilcox precedent allowing NLRB firings. Kagan dissent decried emergency docket use to 'destroy independence of independent agency.' Kavanaugh concurrence indicated 'fair prospect' court will overturn Humphrey's Executor.",
+  "sources": [
+    {
+      "title": "Supreme Court sides with Trump administration in battle over ability to remove agency commissioners",
+      "url": "https://www.scotusblog.com/2025/07/supreme-court-sides-with-trump-administration-in-battle-over-cpsc-commissioners/",
+      "outlet": "SCOTUSblog",
+      "date": "2025-07-23"
+    },
+    {
+      "title": "Supreme Court allows Trump to remove consumer product safety regulators",
+      "url": "https://www.washingtonpost.com/politics/2025/07/23/supreme-court-consumer-product-safety-regulators-trump/",
+      "outlet": "Washington Post",
+      "date": "2025-07-23"
+    },
+    {
+      "title": "Supreme Court allows Trump to fire 3 Democrats on consumer safety panel for now",
+      "url": "https://www.npr.org/2025/07/23/nx-s1-5477634/supreme-court-cpsc-firings",
+      "outlet": "NPR",
+      "date": "2025-07-23"
+    },
+    {
+      "title": "Justice Elena Kagan warns Supreme Court just 'all but overturned' 90-year precedent",
+      "url": "https://www.newsweek.com/elena-kagan-supreme-court-trump-precedent-2103177",
+      "outlet": "Newsweek",
+      "date": "2025-07-23"
+    }
+  ],
+  "status": "confirmed"
+}

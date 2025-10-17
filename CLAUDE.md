@@ -1,9 +1,22 @@
 # Kleptocracy Timeline - Claude Code Instructions
 
+## 📁 Repository Structure (Updated Oct 2025)
+
+This repository is organized into two main components:
+
+- **`timeline/`** - Timeline data + static viewer (1,580+ events, React viewer, schemas)
+- **`research-server/`** - Research infrastructure (Flask API, MCP server, CLI tools, QA system)
+
+**Key Paths:**
+- Events: `timeline/data/events/*.json`
+- Research CLI: `research-server/cli/research_cli.py`
+- Research Server: `research-server/server/app_v2.py`
+- Viewer: `timeline/viewer/`
+
 ## System Architecture
 
 ### Research Monitor v2
-The Research Monitor v2 (`research_monitor/app_v2.py`) is a Flask server that provides:
+The Research Monitor v2 (`research-server/server/app_v2.py`) is a Flask server that provides:
 - **Filesystem-authoritative events**: Timeline events are read-only synced from JSON files
 - **Database-authoritative research priorities**: Full CRUD operations on research tasks
 - **Search capabilities**: Full-text search across 1,000+ timeline events
@@ -13,32 +26,32 @@ The Research Monitor v2 (`research_monitor/app_v2.py`) is a Flask server that pr
 
 ⚠️ **IMPORTANT**: Agents should use CLI commands, NOT direct API calls or Python imports.
 
-The `research_cli.py` provides a comprehensive command-line interface powered by the unified TimelineResearchClient architecture:
+The `research-server/cli/research_cli.py` provides a comprehensive command-line interface powered by the unified TimelineResearchClient architecture:
 
 ### Getting Help
 ```bash
 # Comprehensive help documentation
-python3 research_cli.py help
+python3 research-server/cli/research_cli.py help
 
 # Topic-specific help
-python3 research_cli.py help --topic validation
-python3 research_cli.py help --topic search
-python3 research_cli.py help --topic examples
+python3 research-server/cli/research_cli.py help --topic validation
+python3 research-server/cli/research_cli.py help --topic search
+python3 research-server/cli/research_cli.py help --topic examples
 ```
 
 ### Basic Commands
 ```bash
 # Search events
-python3 research_cli.py search-events --query "Trump crypto"
+python3 research-server/cli/research_cli.py search-events --query "Trump crypto"
 
 # Get system statistics
-python3 research_cli.py get-stats
+python3 research-server/cli/research_cli.py get-stats
 
 # Get next research priority
-python3 research_cli.py get-next-priority
+python3 research-server/cli/research_cli.py get-next-priority
 
 # Update priority status
-python3 research_cli.py update-priority --id "RP-123" --status "completed" --actual-events 3
+python3 research-server/cli/research_cli.py update-priority --id "RP-123" --status "completed" --actual-events 3
 ```
 
 ### Research Enhancement Commands
@@ -46,61 +59,61 @@ Powered by the enhanced TimelineResearchClient with comprehensive validation and
 
 ```bash
 # Find high-importance events needing more sources
-python3 research_cli.py research-candidates --min-importance 8 --limit 10
+python3 research-server/cli/research_cli.py research-candidates --min-importance 8 --limit 10
 
 # Get events with insufficient sources
-python3 research_cli.py missing-sources --min-sources 2 --limit 20
+python3 research-server/cli/research_cli.py missing-sources --min-sources 2 --limit 20
 
 # Get validation queue (events prioritized for review)
-python3 research_cli.py validation-queue --limit 15
+python3 research-server/cli/research_cli.py validation-queue --limit 15
 
 # Check for broken source links
-python3 research_cli.py broken-links --limit 25
+python3 research-server/cli/research_cli.py broken-links --limit 25
 
 # Analyze actor timeline comprehensively
-python3 research_cli.py actor-timeline --actor "Peter Thiel" --start-year 2000
+python3 research-server/cli/research_cli.py actor-timeline --actor "Peter Thiel" --start-year 2000
 ```
 
 ### Event Management
 ```bash
 # Create event from JSON file
-python3 research_cli.py create-event --file event.json
+python3 research-server/cli/research_cli.py create-event --file event.json
 
 # Validate event before creating
-python3 research_cli.py validate-event --file event.json
+python3 research-server/cli/research_cli.py validate-event --file event.json
 
 # List available tags and actors
-python3 research_cli.py list-tags
-python3 research_cli.py list-actors
+python3 research-server/cli/research_cli.py list-tags
+python3 research-server/cli/research_cli.py list-actors
 ```
 
 ### Quality Assurance Workflow
 ```bash
 # 1. Check system health and QA statistics
-python3 research_cli.py get-stats
-python3 research_cli.py qa-stats
+python3 research-server/cli/research_cli.py get-stats
+python3 research-server/cli/research_cli.py qa-stats
 
 # 2. Get validation candidates
-python3 research_cli.py validation-queue --limit 10
-python3 research_cli.py qa-queue --limit 10
+python3 research-server/cli/research_cli.py validation-queue --limit 10
+python3 research-server/cli/research_cli.py qa-queue --limit 10
 
 # 3. Get next highest priority event for QA
-python3 research_cli.py qa-next
+python3 research-server/cli/research_cli.py qa-next
 
 # 4. Find research gaps
-python3 research_cli.py missing-sources --min-sources 3
+python3 research-server/cli/research_cli.py missing-sources --min-sources 3
 
 # 5. Check source quality and QA issues
-python3 research_cli.py broken-links --limit 20
-python3 research_cli.py qa-issues --limit 15
+python3 research-server/cli/research_cli.py broken-links --limit 20
+python3 research-server/cli/research_cli.py qa-issues --limit 15
 
 # 6. Validate or reject events in QA workflow
-python3 research_cli.py qa-validate --event-id "2025-01-15--event-slug" --score 8.5 --notes "High quality sources verified"
-python3 research_cli.py qa-reject --event-id "2025-01-15--event-slug" --reason "insufficient_sources" --notes "Needs credible sources"
+python3 research-server/cli/research_cli.py qa-validate --event-id "2025-01-15--event-slug" --score 8.5 --notes "High quality sources verified"
+python3 research-server/cli/research_cli.py qa-reject --event-id "2025-01-15--event-slug" --reason "insufficient_sources" --notes "Needs credible sources"
 
 # 7. Reset validation status if needed
-python3 research_cli.py validation-reset
-python3 research_cli.py validation-init
+python3 research-server/cli/research_cli.py validation-reset
+python3 research-server/cli/research_cli.py validation-init
 ```
 
 ### Validation Runs System (Recommended for Parallel Processing)
@@ -110,28 +123,28 @@ python3 research_cli.py validation-init
 #### Creating Validation Runs
 ```bash
 # Create a validation run focused on source quality issues
-python3 research_cli.py validation-runs-create --run-type source_quality --target-count 30 --focus-unvalidated --exclude-recent-validations --created-by "agent-batch-1"
+python3 research-server/cli/research_cli.py validation-runs-create --run-type source_quality --target-count 30 --focus-unvalidated --exclude-recent-validations --created-by "agent-batch-1"
 
 # Create importance-focused validation run  
-python3 research_cli.py validation-runs-create --run-type importance_focused --target-count 20 --min-importance 8 --created-by "high-priority-batch"
+python3 research-server/cli/research_cli.py validation-runs-create --run-type importance_focused --target-count 20 --min-importance 8 --created-by "high-priority-batch"
 
 # Create date-range validation run
-python3 research_cli.py validation-runs-create --run-type date_range --target-count 15 --start-date 2025-01-01 --end-date 2025-12-31 --created-by "2025-events"
+python3 research-server/cli/research_cli.py validation-runs-create --run-type date_range --target-count 15 --start-date 2025-01-01 --end-date 2025-12-31 --created-by "2025-events"
 ```
 
 #### Processing Events from Validation Runs
 ```bash
 # 1. Get next unique event with validator reservation
-python3 research_cli.py validation-runs-next --run-id 1 --validator-id "agent-1"
+python3 research-server/cli/research_cli.py validation-runs-next --run-id 1 --validator-id "agent-1"
 
 # 2. Enhance event with proper sources and save to filesystem
-cp enhanced_event.json "/Users/markr/kleptocracy-timeline/timeline_data/events/[EVENT_ID].json"
+cp enhanced_event.json "/Users/markr/kleptocracy-timeline/timeline/data/events/[EVENT_ID].json"
 
 # 3. Log validation with quality score
-python3 research_cli.py qa-validate --event-id [EVENT_ID] --quality-score 9.0 --validation-notes "Enhanced with authoritative sources"
+python3 research-server/cli/research_cli.py qa-validate --event-id [EVENT_ID] --quality-score 9.0 --validation-notes "Enhanced with authoritative sources"
 
 # 4. Complete validation run event
-python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id [RUN_EVENT_ID] --status validated --notes "Successfully enhanced"
+python3 research-server/cli/research_cli.py validation-runs-complete --run-id 1 --run-event-id [RUN_EVENT_ID] --status validated --notes "Successfully enhanced"
 ```
 
 #### Validation Status Options
@@ -145,29 +158,29 @@ The validation system supports multiple completion statuses:
 
 **Rejected Event Archive System:**
 When an event is marked as `rejected`, it is automatically:
-1. Moved from `timeline_data/events/` to `archive/rejected_events/`
+1. Moved from `timeline/data/events/` to `archive/rejected_events/`
 2. Logged in `archive/rejected_events/rejection_log.txt` with timestamp and reason
 3. Removed from the active timeline (no longer searchable)
 
 **Requeuing Events That Need Work:**
 ```bash
 # Requeue all events marked as 'needs_work' back to pending status
-python3 research_cli.py validation-runs-requeue --run-id 1
+python3 research-server/cli/research_cli.py validation-runs-requeue --run-id 1
 ```
 
 **Examples of Different Status Completions:**
 ```bash
 # Event successfully validated and enhanced
-python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 15 --status validated --notes "Enhanced with credible sources and improved accuracy"
+python3 research-server/cli/research_cli.py validation-runs-complete --run-id 1 --run-event-id 15 --status validated --notes "Enhanced with credible sources and improved accuracy"
 
 # Event needs more work (can be requeued later)
-python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 16 --status needs_work --notes "Sources need verification, importance score questionable"
+python3 research-server/cli/research_cli.py validation-runs-complete --run-id 1 --run-event-id 16 --status needs_work --notes "Sources need verification, importance score questionable"
 
 # Event should be rejected and archived
-python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 17 --status rejected --notes "Duplicate of existing event 2023-01-15--similar-event"
+python3 research-server/cli/research_cli.py validation-runs-complete --run-id 1 --run-event-id 17 --status rejected --notes "Duplicate of existing event 2023-01-15--similar-event"
 
 # Event skipped for this validation round
-python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 18 --status skipped --notes "Requires specialized domain expertise"
+python3 research-server/cli/research_cli.py validation-runs-complete --run-id 1 --run-event-id 18 --status skipped --notes "Requires specialized domain expertise"
 ```
 
 #### Key Requirements for Parallel Processing
@@ -179,19 +192,19 @@ python3 research_cli.py validation-runs-complete --run-id 1 --run-event-id 18 --
 **Example for 5 parallel agents:**
 ```bash
 # Agent 1
-python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-1"
+python3 research-server/cli/research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-1"
 
 # Agent 2  
-python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-2"
+python3 research-server/cli/research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-2"
 
 # Agent 3
-python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-3"
+python3 research-server/cli/research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-3"
 
 # Agent 4
-python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-4"
+python3 research-server/cli/research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-4"
 
 # Agent 5
-python3 research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-5"
+python3 research-server/cli/research_cli.py validation-runs-next --run-id 1 --validator-id "qa-agent-5"
 ```
 
 #### Monitoring Validation Runs
@@ -248,13 +261,13 @@ Recovery Option: [SQL command provided]
 
 ```bash
 # Check validation run progress
-python3 research_cli.py validation-runs-get --run-id 1
+python3 research-server/cli/research_cli.py validation-runs-get --run-id 1
 
 # List all validation runs
-python3 research_cli.py validation-runs-list
+python3 research-server/cli/research_cli.py validation-runs-list
 
 # View validation logs
-python3 research_cli.py validation-logs-list --limit 20
+python3 research-server/cli/research_cli.py validation-logs-list --limit 20
 ```
 
 #### Validation Runs vs. Traditional QA Queue
@@ -283,16 +296,16 @@ python3 research_cli.py validation-logs-list --limit 20
 
 ```bash
 # Start server (preferred method)
-python3 research_cli.py server-start
+python3 research-server/cli/research_cli.py server-start
 
 # Alternative manual start (if needed)
-cd research_monitor
+cd research-server/server
 RESEARCH_MONITOR_PORT=5558 python3 app_v2.py &
 ```
 
 To verify the server is running:
 ```bash
-python3 research_cli.py server-status
+python3 research-server/cli/research_cli.py server-status
 ```
 
 ### Server Management
@@ -302,19 +315,19 @@ The CLI provides comprehensive server management commands:
 #### Server Status and Control
 ```bash
 # Check server status with detailed process information
-python3 research_cli.py server-status
+python3 research-server/cli/research_cli.py server-status
 
 # Start the server (if not running)
-python3 research_cli.py server-start
+python3 research-server/cli/research_cli.py server-start
 
 # Stop the server gracefully
-python3 research_cli.py server-stop
+python3 research-server/cli/research_cli.py server-stop
 
 # Restart the server (stop + start)
-python3 research_cli.py server-restart
+python3 research-server/cli/research_cli.py server-restart
 
 # View server logs
-python3 research_cli.py server-logs
+python3 research-server/cli/research_cli.py server-logs
 ```
 
 #### Legacy Server Commands (if CLI commands fail)
@@ -348,30 +361,30 @@ The `research_cli.py` tool is the **primary interface for AI agents**. It provid
 
 ```bash
 # All commands return structured JSON for easy parsing
-python3 research_cli.py <command> [options]
+python3 research-server/cli/research_cli.py <command> [options]
 ```
 
 ### Search Events
 ```bash
 # Search for events by keyword
-python3 research_cli.py search-events --query "Trump"
-python3 research_cli.py search-events --query "surveillance FISA" --limit 20
+python3 research-server/cli/research_cli.py search-events --query "Trump"
+python3 research-server/cli/research_cli.py search-events --query "surveillance FISA" --limit 20
 ```
 
 ### Research Priorities
 ```bash
 # Get next priority to research
-python3 research_cli.py get-next-priority
+python3 research-server/cli/research_cli.py get-next-priority
 
 # Update priority status
-python3 research_cli.py update-priority --id "RP-123" --status "in_progress" --notes "Research notes here"
-python3 research_cli.py update-priority --id "RP-123" --status "completed" --actual-events 3
+python3 research-server/cli/research_cli.py update-priority --id "RP-123" --status "in_progress" --notes "Research notes here"
+python3 research-server/cli/research_cli.py update-priority --id "RP-123" --status "completed" --actual-events 3
 ```
 
 ### Event Creation
 ```bash
 # Create event from JSON string
-python3 research_cli.py create-event --json '{
+python3 research-server/cli/research_cli.py create-event --json '{
   "id": "YYYY-MM-DD--event-slug",
   "date": "YYYY-MM-DD", 
   "title": "Event Title",
@@ -381,24 +394,24 @@ python3 research_cli.py create-event --json '{
 }'
 
 # Create event from JSON file
-python3 research_cli.py create-event --file event.json
+python3 research-server/cli/research_cli.py create-event --file event.json
 
 # Validate event without creating
-python3 research_cli.py validate-event --json '{"date": "2025-01-15", ...}'
+python3 research-server/cli/research_cli.py validate-event --json '{"date": "2025-01-15", ...}'
 ```
 
 ### System Information
 ```bash
 # Get system statistics
-python3 research_cli.py get-stats
+python3 research-server/cli/research_cli.py get-stats
 
 # List available tags and actors
-python3 research_cli.py list-tags
-python3 research_cli.py list-actors
+python3 research-server/cli/research_cli.py list-tags
+python3 research-server/cli/research_cli.py list-actors
 
 # Check commit status
-python3 research_cli.py commit-status
-python3 research_cli.py reset-commit
+python3 research-server/cli/research_cli.py commit-status
+python3 research-server/cli/research_cli.py reset-commit
 ```
 
 ### Research Enhancement Commands
@@ -406,20 +419,20 @@ The CLI provides specialized research workflow commands for quality assurance an
 
 ```bash
 # Find events with insufficient sources for research
-python3 research_cli.py missing-sources --min-sources 3 --limit 10
+python3 research-server/cli/research_cli.py missing-sources --min-sources 3 --limit 10
 
 # Get high-importance events needing more sources
-python3 research_cli.py research-candidates --min-importance 8 --limit 5
+python3 research-server/cli/research_cli.py research-candidates --min-importance 8 --limit 5
 
 # Find events prioritized for fact-checking and validation
-python3 research_cli.py validation-queue --limit 15
+python3 research-server/cli/research_cli.py validation-queue --limit 15
 
 # Check for events with potentially broken source links
-python3 research_cli.py broken-links --limit 10
+python3 research-server/cli/research_cli.py broken-links --limit 10
 
 # Get comprehensive timeline analysis for specific actors
-python3 research_cli.py actor-timeline --actor "Peter Thiel" --start-year 2000 --end-year 2025
-python3 research_cli.py actor-timeline --actor "Trump"
+python3 research-server/cli/research_cli.py actor-timeline --actor "Peter Thiel" --start-year 2000 --end-year 2025
+python3 research-server/cli/research_cli.py actor-timeline --actor "Trump"
 ```
 
 ### Advanced QA System Commands
@@ -427,25 +440,25 @@ The CLI includes a comprehensive quality assurance system for systematic event v
 
 ```bash
 # QA System Statistics and Overview
-python3 research_cli.py qa-stats                    # Get comprehensive QA statistics
-python3 research_cli.py qa-queue --limit 20         # Get prioritized queue of events needing QA
-python3 research_cli.py qa-next                     # Get next highest priority event for QA
+python3 research-server/cli/research_cli.py qa-stats                    # Get comprehensive QA statistics
+python3 research-server/cli/research_cli.py qa-queue --limit 20         # Get prioritized queue of events needing QA
+python3 research-server/cli/research_cli.py qa-next                     # Get next highest priority event for QA
 
 # QA Issue Analysis
-python3 research_cli.py qa-issues --limit 15        # Get events with specific QA issues
-python3 research_cli.py qa-score --json '{"date": "2025-01-15", "importance": 8}'  # Calculate QA priority score
+python3 research-server/cli/research_cli.py qa-issues --limit 15        # Get events with specific QA issues
+python3 research-server/cli/research_cli.py qa-score --json '{"date": "2025-01-15", "importance": 8}'  # Calculate QA priority score
 
 # QA Validation Actions
-python3 research_cli.py qa-validate --event-id "2025-01-15--event-slug" --score 8.5 --notes "Sources verified"
-python3 research_cli.py qa-reject --event-id "2025-01-15--event-slug" --reason "insufficient_sources" --notes "Needs more credible sources"
+python3 research-server/cli/research_cli.py qa-validate --event-id "2025-01-15--event-slug" --score 8.5 --notes "Sources verified"
+python3 research-server/cli/research_cli.py qa-reject --event-id "2025-01-15--event-slug" --reason "insufficient_sources" --notes "Needs more credible sources"
 
 # QA System Management
-python3 research_cli.py validation-init             # Initialize validation audit trail for all events
-python3 research_cli.py validation-reset            # Reset all validation records to pending status
+python3 research-server/cli/research_cli.py validation-init             # Initialize validation audit trail for all events
+python3 research-server/cli/research_cli.py validation-reset            # Reset all validation records to pending status
 
 # Event Update Failure Monitoring
-python3 research_cli.py update-failures-stats       # Get statistics on event save failures
-python3 research_cli.py update-failures-list --limit 20  # List recent event update failures
+python3 research-server/cli/research_cli.py update-failures-stats       # Get statistics on event save failures
+python3 research-server/cli/research_cli.py update-failures-list --limit 20  # List recent event update failures
 ```
 
 #### QA Agent Requirements
@@ -530,13 +543,13 @@ The QA system provides structured event validation with:
 
 ## Client Architecture
 
-**FOR AGENTS: Use `python3 research_cli.py` commands only. DO NOT import Python modules.**
+**FOR AGENTS: Use `python3 research-server/cli/research_cli.py` commands only. DO NOT import Python modules.**
 
 ### Two Interface Options
 
 1. **research_cli.py** - **RECOMMENDED FOR AGENTS** 
    - Self-contained CLI tool with JSON output
-   - Usage: `python3 research_cli.py <command> <options>`
+   - Usage: `python3 research-server/cli/research_cli.py <command> <options>`
    - No Python imports needed - just run commands
    - Perfect for AI agents and automation
 
@@ -554,27 +567,27 @@ The QA system provides structured event validation with:
 1. **Search for exact duplicates by date and key terms**:
 ```bash
 # Search by main actor/entity
-python3 research_cli.py search-events --query "Trump crypto"
-python3 research_cli.py search-events --query "Musk Starlink"
+python3 research-server/cli/research_cli.py search-events --query "Trump crypto"
+python3 research-server/cli/research_cli.py search-events --query "Musk Starlink"
 
 # Search by specific terms from the event
-python3 research_cli.py search-events --query "specific company name"
+python3 research-server/cli/research_cli.py search-events --query "specific company name"
 ```
 
 2. **Check events around the same date**:
 ```bash
 # List events by browsing the filesystem
-ls -la timeline_data/events/YYYY-MM-*.json
+ls -la timeline/data/events/YYYY-MM-*.json
 
 # Check specific date range
-ls -la timeline_data/events/2025-01-*.json | grep -i keyword
+ls -la timeline/data/events/2025-01-*.json | grep -i keyword
 ```
 
 3. **Search for related events**:
 ```bash
 # Search for broader patterns
-python3 research_cli.py search-events --query "FISA court"
-python3 research_cli.py search-events --query "no-bid contract"
+python3 research-server/cli/research_cli.py search-events --query "FISA court"
+python3 research-server/cli/research_cli.py search-events --query "no-bid contract"
 ```
 
 ### Duplicate Detection Rules
@@ -601,20 +614,20 @@ Always use: `YYYY-MM-DD--descriptive-slug-here`
 
 ### 1. Get Next Priority
 ```bash
-python3 research_cli.py get-next-priority
+python3 research-server/cli/research_cli.py get-next-priority
 ```
 
 ### 2. Search for Existing Related Events
 **ALWAYS DO THIS FIRST**
 ```bash
 # Search broadly for the topic
-python3 research_cli.py search-events --query "topic keywords"
+python3 research-server/cli/research_cli.py search-events --query "topic keywords"
 
 # Search for specific actors
-python3 research_cli.py search-events --query "actor name"
+python3 research-server/cli/research_cli.py search-events --query "actor name"
 
 # Check the time period
-ls -la timeline_data/events/YYYY-*.json
+ls -la timeline/data/events/YYYY-*.json
 ```
 
 ### 3. Research the Topic
@@ -631,30 +644,30 @@ For each potential event:
 
 ```bash
 # Validate before creating
-python3 research_cli.py validate-event --json '{"date": "2025-01-15", "title": "Event Title", "summary": "Summary...", "importance": 8, "tags": ["tag1"]}'
+python3 research-server/cli/research_cli.py validate-event --json '{"date": "2025-01-15", "title": "Event Title", "summary": "Summary...", "importance": 8, "tags": ["tag1"]}'
 
 # Create the event
-python3 research_cli.py create-event --json '{"id": "2025-01-15--event-slug", "date": "2025-01-15", "title": "Event Title", "summary": "Summary...", "importance": 8, "tags": ["tag1"]}'
+python3 research-server/cli/research_cli.py create-event --json '{"id": "2025-01-15--event-slug", "date": "2025-01-15", "title": "Event Title", "summary": "Summary...", "importance": 8, "tags": ["tag1"]}'
 ```
 
 ### 5. Update Priority Status
 ```bash
-python3 research_cli.py update-priority --id "RP-123" --status "completed" --actual-events 3 --notes "Research completed successfully"
+python3 research-server/cli/research_cli.py update-priority --id "RP-123" --status "completed" --actual-events 3 --notes "Research completed successfully"
 ```
 
 ### 6. Commit When Threshold Reached
 The server tracks events and will signal when 10 events are staged:
 ```bash
 # Check status
-python3 research_cli.py commit-status
+python3 research-server/cli/research_cli.py commit-status
 
 # If commit_needed is true, perform git operations:
 cd /Users/markr/kleptocracy-timeline
-git add timeline_data/events research_priorities
+git add timeline/data/events research_priorities
 git commit -m "Add X researched events and update priorities"
 
 # Reset the counter
-python3 research_cli.py reset-commit
+python3 research-server/cli/research_cli.py reset-commit
 ```
 
 ## Best Practices
@@ -684,32 +697,32 @@ python3 research_cli.py reset-commit
 ### Find Events by Actor
 ```bash
 # Search returns structured JSON with events array
-python3 research_cli.py search-events --query "Cheney" | jq '.data.events[] | {date, title}'
+python3 research-server/cli/research_cli.py search-events --query "Cheney" | jq '.data.events[] | {date, title}'
 ```
 
 ### Find Events by Pattern
 ```bash
 # Get count of matching events
-python3 research_cli.py search-events --query "no-bid contract" | jq '.data.count'
+python3 research-server/cli/research_cli.py search-events --query "no-bid contract" | jq '.data.count'
 ```
 
 ### Check System Stats
 ```bash
 # Get comprehensive system statistics
-python3 research_cli.py get-stats | jq '.data'
+python3 research-server/cli/research_cli.py get-stats | jq '.data'
 ```
 
 ### List Metadata
 ```bash
 # Get all available tags and actors
-python3 research_cli.py list-tags | jq '.data.tags[]'
-python3 research_cli.py list-actors | jq '.data.actors[]'
+python3 research-server/cli/research_cli.py list-tags | jq '.data.tags[]'
+python3 research-server/cli/research_cli.py list-actors | jq '.data.actors[]'
 ```
 
 ### Get Specific Event
 ```bash
 # Get event by ID
-python3 research_cli.py get-event --id "2025-01-15--event-slug"
+python3 research-server/cli/research_cli.py get-event --id "2025-01-15--event-slug"
 ```
 
 ## Troubleshooting
@@ -717,16 +730,16 @@ python3 research_cli.py get-event --id "2025-01-15--event-slug"
 ### Server Management Issues
 ```bash
 # Check current server status
-python3 research_cli.py server-status
+python3 research-server/cli/research_cli.py server-status
 
 # View server logs for errors
-python3 research_cli.py server-logs
+python3 research-server/cli/research_cli.py server-logs
 
 # Restart server if having issues
-python3 research_cli.py server-restart
+python3 research-server/cli/research_cli.py server-restart
 
 # Stop problematic server
-python3 research_cli.py server-stop
+python3 research-server/cli/research_cli.py server-stop
 ```
 
 ### Server Won't Start
@@ -735,7 +748,7 @@ python3 research_cli.py server-stop
 lsof -i :5558
 
 # Use CLI to start server
-python3 research_cli.py server-start
+python3 research-server/cli/research_cli.py server-start
 
 # If CLI fails, manual start with different port
 RESEARCH_MONITOR_PORT=5559 python3 research_monitor/app_v2.py &
@@ -744,27 +757,27 @@ RESEARCH_MONITOR_PORT=5559 python3 research_monitor/app_v2.py &
 ### Database Corruption
 ```bash
 # Stop server gracefully first
-python3 research_cli.py server-stop
+python3 research-server/cli/research_cli.py server-stop
 
 # Remove corrupted database files
 cd /Users/markr/kleptocracy-timeline
 rm -f unified_research.db unified_research.db-wal unified_research.db-shm
 
 # Restart server - it will rebuild from filesystem
-python3 research_cli.py server-start
+python3 research-server/cli/research_cli.py server-start
 ```
 
 ### QA System Issues
 ```bash
 # Check QA system status
-python3 research_cli.py qa-stats
+python3 research-server/cli/research_cli.py qa-stats
 
 # Reset validation if needed
-python3 research_cli.py validation-reset
-python3 research_cli.py validation-init
+python3 research-server/cli/research_cli.py validation-reset
+python3 research-server/cli/research_cli.py validation-init
 
 # Check for QA issues
-python3 research_cli.py qa-issues --limit 20
+python3 research-server/cli/research_cli.py qa-issues --limit 20
 ```
 
 ### Stuck QA Agents (WebFetch Timeout)
@@ -784,7 +797,7 @@ python3 research_cli.py qa-issues --limit 20
 1. **Identify stuck agents:**
    ```bash
    # Check validation run for "assigned" events that never complete
-   python3 research_cli.py validation-runs-get --run-id 11
+   python3 research-server/cli/research_cli.py validation-runs-get --run-id 11
    # Look for: "assigned": N where N > 0 for extended time
    ```
 
@@ -808,8 +821,8 @@ python3 research_cli.py qa-issues --limit 20
 
 ### Search Not Working
 - Wait 30 seconds for filesystem sync
-- Check server status: `python3 research_cli.py server-status`
-- Check server logs: `python3 research_cli.py server-logs`
+- Check server status: `python3 research-server/cli/research_cli.py server-status`
+- Check server logs: `python3 research-server/cli/research_cli.py server-logs`
 - Verify events are valid JSON
 
 ## Architecture Notes

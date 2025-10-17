@@ -1,0 +1,49 @@
+{
+    "id": "2025-07-07--ghana-launches-democracy-capture-index-revealing-widespread-institutional-capture-in-africa-1757455486",
+    "date": "2025-07-07",
+    "title": "Ghana Launches Democracy Capture Index Revealing Widespread Institutional Capture in Africa",
+    "summary": "The Ghana Centre for Democratic Development (CDD-Ghana) launched the inaugural Democracy Capture Index (DEMCAP), a comprehensive study revealing systemic vulnerabilities in African democratic institutions. The index analyzed 370 institutions across 10 countries, finding that 60% of agencies experience some level of democracy capture. Countries were categorized from low to very high capture levels, with Kenya, Benin, Tanzania, and DR Congo showing the most severe institutional vulnerabilities. The study identified the Chief Executive (president) as the primary perpetrator in most studied democracies, highlighting the complex challenges facing democratic governance in Africa.",
+    "importance": 8,
+    "status": "confirmed",
+    "actors": [
+        "Ghana Centre for Democratic Development",
+        "CDD-Ghana researchers",
+        "African presidents",
+        "Government agencies across 10 African countries"
+    ],
+    "sources": [
+        {
+            "outlet": "Ghana News Agency",
+            "title": "New CDD Report Finds Worrying Levels of Democracy Capture in Africa",
+            "url": "https://gna.org.gh/2025/07/new-cdd-report-finds-worrying-levels-of-democracy-capture-in-africa/",
+            "date_accessed": "2025-10-14"
+        },
+        {
+            "outlet": "Citi Newsroom",
+            "title": "CDD-Ghana Urges Media, CSOs to Resist Democracy Capture in Africa",
+            "url": "https://citinewsroom.com/2025/07/cdd-ghana-urges-media-csos-to-resist-democracy-capture-in-africa/",
+            "date_accessed": "2025-10-14"
+        },
+        {
+            "outlet": "News Ghana",
+            "title": "CDD-Ghana Launches Democracy Capture Index Amid Media Vulnerability Warning",
+            "url": "https://www.newsghana.com.gh/cdd-ghana-launches-democracy-capture-index-amid-media-vulnerability-warning/",
+            "date_accessed": "2025-10-14"
+        }
+    ],
+    "tags": [
+        "democracy-capture",
+        "institutional-capture",
+        "africa",
+        "governance",
+        "political-parties",
+        "civil-society",
+        "media-capture"
+    ],
+    "capture_lanes": [
+        "Media Capture & Control",
+        "Political System Capture",
+        "Administrative State Capture"
+    ],
+    "validation_notes": "Comprehensive verification of Democracy Capture Index details. Enhanced with source from Ghana News Agency providing additional context and systematic findings. Updated summary with more precise details from research."
+}

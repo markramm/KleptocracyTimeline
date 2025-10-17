@@ -1,0 +1,57 @@
+{
+  "actors": [
+    "Elon Musk",
+    "SpaceX Lobbyists",
+    "Tesla Lobbyists",
+    "Greg Abbott",
+    "Texas Legislature"
+  ],
+  "capture_lanes": [
+    "Legislative Capture",
+    "Corporate Influence"
+  ],
+  "capture_type": "monetizing_position",
+  "connections": [
+    "State Government Lobbying",
+    "Corporate Political Influence"
+  ],
+  "date": "2025-07-04",
+  "description": "Elon Musk hired a sophisticated lobbying team in Texas to push legislation favorable to his companies, successfully influencing multiple laws affecting SpaceX, Tesla, and X Corp.",
+  "id": "2025-07-04--elon-musk-hired-a-dozen-texas-lobbyists-this-year-state-law-",
+  "importance": 8,
+  "location": "Texas State Capitol, Austin",
+  "notes": "Comprehensive documentation of corporate lobbying mechanisms in 2025 Texas legislative session",
+  "patterns": [
+    "kleptocratic-capture",
+    "legislative-manipulation"
+  ],
+  "sources": [
+    {
+      "date": "2025-07-04",
+      "outlet": "ProPublica",
+      "title": "Elon Musk hired a dozen Texas lobbyists this year. State law keeps the extent of their influence under wraps",
+      "url": "https://www.propublica.org/article/elon-musk-texas-lobbyists-influence-law"
+    },
+    {
+      "date": "2025-07-03",
+      "outlet": "KUT Radio (Austin NPR)",
+      "title": "Want to know who Elon Musk's lobbyists wined and dined? It's a Texas-sized secret.",
+      "url": "https://www.kut.org/politics/2025-07-03/texas-elon-musk-tesla-spacex-lobbyist"
+    },
+    {
+      "date": "2025-07-02",
+      "outlet": "Texas Tribune",
+      "title": "How changes to Texas law will help Elon Musk's companies",
+      "url": "https://www.texastribune.org/2025/07/02/elon-musk-texas-politics-legislature-laws-spacex-tesla/"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Elon Musk deployed a sophisticated lobbying operation in Texas, hiring 12 lobbyists across SpaceX, Tesla, and X Corp. The team, including former advisors to Governor Greg Abbott, successfully influenced multiple legislative actions. They secured laws benefiting Musk's companies, including protections for SpaceX launch sites, drone restrictions, and business-friendly regulations, while exploiting Texas's weak lobbying transparency laws.",
+  "tags": [
+    "kleptocracy",
+    "corporate-lobbying",
+    "legislative-capture",
+    "elon-musk"
+  ],
+  "title": "Musk's Lobbying Team Secures Sweeping Legislative Wins in Texas"
+}

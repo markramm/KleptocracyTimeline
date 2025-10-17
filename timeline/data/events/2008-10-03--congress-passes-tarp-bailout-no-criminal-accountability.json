@@ -1,0 +1,54 @@
+{
+  "id": "2008-10-03--congress-passes-tarp-bailout-no-criminal-accountability",
+  "date": "2008-10-03",
+  "importance": 9,
+  "title": "Congress Passes $700 Billion TARP Bailout Without Criminal Accountability Provisions",
+  "summary": "Congress passes the Emergency Economic Stabilization Act, creating the $700 billion Troubled Asset Relief Program (TARP) to bail out major financial institutions. Despite extensive evidence of widespread mortgage fraud, predatory lending, and securities violations that precipitated the crisis, the legislation contains no provisions for criminal prosecution of bank executives. The bailout socializes losses while privatizing gains, establishing a precedent that major financial institutions are above the law. Treasury Secretary Henry Paulson, former Goldman Sachs CEO, oversees distribution with minimal oversight. The legislation represents a fundamental capture of democratic institutions by financial elites, transferring massive public wealth to private banks while their executives face no consequences.",
+  "actors": [
+    "Henry Paulson",
+    "Goldman Sachs",
+    "JPMorgan Chase",
+    "Bank of America",
+    "Citigroup",
+    "Wells Fargo",
+    "Congress",
+    "Treasury Department"
+  ],
+  "tags": [
+    "institutional-capture",
+    "corruption",
+    "financial-crisis",
+    "bailout",
+    "regulatory-capture",
+    "revolving-door",
+    "wealth-transfer"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Emergency Economic Stabilization Act of 2008 - Full Text",
+      "url": "https://www.congress.gov/bill/110th-congress/house-bill/1424",
+      "outlet": "U.S. Congress",
+      "date": "2008-10-03"
+    },
+    {
+      "title": "Bailout Is a No-Strings Windfall to Bankers, if Not to Borrowers",
+      "url": "https://www.nytimes.com/2008/10/15/business/economy/15bailout.html",
+      "outlet": "New York Times",
+      "date": "2008-10-15"
+    },
+    {
+      "title": "The $700 Billion Question",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2008/09/23/AR2008092303425.html",
+      "outlet": "Washington Post",
+      "date": "2008-09-24"
+    }
+  ],
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

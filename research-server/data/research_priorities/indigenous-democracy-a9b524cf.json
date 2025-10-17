@@ -1,0 +1,65 @@
+{
+  "id": "indigenous-democracy-a9b524cf",
+  "title": "Engineering Institutional Resilience Against Capture",
+  "description": "Research how systems engineering principles can be applied to design more resilient democratic institutions that resist capture, corruption, and authoritarian manipulation.",
+  "priority": 8,
+  "status": "pending",
+  "category": "institutional-resilience",
+  "tags": [
+    "resilience-engineering",
+    "institutional-capture",
+    "corruption-resistance",
+    "institutional-hardening"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Methodology_ Systems Engineering Approach to Democratic Backsliding Analysis.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "1787-2025",
+  "constitutional_issues": [
+    "institutional-design",
+    "corruption-prevention",
+    "system-hardening"
+  ],
+  "actors_to_investigate": [
+    "Constitutional designers",
+    "Resilience engineering experts",
+    "Anti-corruption specialists",
+    "Democratic reform advocates"
+  ],
+  "key_sources": [
+    {
+      "title": "Constitutional law scholarship on institutional design",
+      "type": "academic-research",
+      "credibility": 9,
+      "why": "Expert analysis of institutional design principles"
+    },
+    {
+      "title": "Engineering literature on resilient system design",
+      "type": "technical-literature",
+      "credibility": 8,
+      "why": "Systems engineering approaches to resilience"
+    },
+    {
+      "title": "Historical analyses of successful institutional reforms",
+      "type": "historical-analysis",
+      "credibility": 8,
+      "why": "Evidence-based examples of effective institutional strengthening"
+    }
+  ],
+  "expected_outcomes": [
+    "Design redundancy mechanisms to prevent institutional single points of failure",
+    "Create feedback loop systems for detecting institutional drift",
+    "Develop isolation mechanisms to prevent cascade failures",
+    "Engineer institutional hardening against deliberate sabotage"
+  ],
+  "research_questions": [
+    "What redundancy mechanisms can prevent single points of institutional failure?",
+    "How can feedback loops be designed to detect and correct institutional drift?",
+    "What isolation mechanisms can prevent cascade failures between institutions?",
+    "How can democratic institutions be hardened against deliberate sabotage?"
+  ],
+  "estimated_importance": 8
+}

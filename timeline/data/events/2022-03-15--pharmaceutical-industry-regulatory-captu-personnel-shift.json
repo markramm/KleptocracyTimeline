@@ -1,0 +1,43 @@
+{
+  "id": "2022-03-15--pharmaceutical-industry-regulatory-captu-personnel-shift",
+  "date": "2022-03-15",
+  "title": "FDA Commissioner Confirmed Amid Pharmaceutical Industry Ties Controversy",
+  "summary": "Dr. Robert Califf confirmed as FDA Commissioner by a narrow Senate vote of 50-46, highlighting ongoing concerns about pharmaceutical industry regulatory capture. Historical evidence suggests a systemic 'revolving door' between FDA and pharmaceutical companies, with approximately 27% of drug reviewers transitioning to industry roles. This pattern creates significant potential conflicts of interest and undermines regulatory oversight capabilities.",
+  "importance": 8,
+  "actors": [
+    "Robert Califf",
+    "Senate",
+    "FDA Leadership",
+    "Pharmaceutical Industry Executives"
+  ],
+  "sources": [
+    {
+      "title": "FDA Chief Confirmed Despite Industry Ties",
+      "url": "https://www.npr.org/2022/02/15/1080887602/an-fda-chief-has-been-confirmed-despite-concerns-over-his-pharmaceutical-industr",
+      "outlet": "NPR"
+    },
+    {
+      "title": "The Revolving Door: FDA to Pharmaceutical Industry",
+      "url": "https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry",
+      "outlet": "NPR"
+    },
+    {
+      "title": "FDA Only Inspected 6% of Foreign Drug Manufacturing Facilities in 2022",
+      "url": "https://www.propublica.org/article/fda-drugs-medication-inspections-china-india-manufacturers",
+      "outlet": "ProPublica"
+    }
+  ],
+  "tags": [
+    "regulatory-capture",
+    "revolving-door",
+    "pharmaceutical-industry",
+    "conflict-of-interest",
+    "senate-confirmation"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Executive Power Expansion",
+    "Healthcare Policy"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "2025-01-01--law-firms-940-million-extortion",
+  "date": "2025-01-01",
+  "importance": 6,
+  "title": "Nine law firms capitulate to $940M extortion campaign",
+  "summary": "Nine prestigious law firms capitulated to Trump's intimidation campaign, agreeing to provide $940 million in pro bono legal services for Trump-approved causes through what legal experts call \"legalized extortion.\"",
+  "location": "United States",
+  "actors": [
+    "Paul Weiss",
+    "Kirkland & Ellis",
+    "Latham & Watkins",
+    "Trump Administration"
+  ],
+  "tags": [
+    "economic-coercion",
+    "constitutional-violation",
+    "professional-intimidation",
+    "extortion"
+  ],
+  "sources": [
+    {
+      "title": "Law firm settlement agreements",
+      "url": "https://www.law.com/americanlawyer/2025/01/law-firms-settlements",
+      "outlet": "The American Lawyer",
+      "date": "2025-01-15"
+    },
+    {
+      "title": "Seven more major law firms capitulate to Trump's extortion",
+      "url": "https://www.wsws.org/en/articles/2025/04/17/wmrj-a17.html",
+      "outlet": "World Socialist Web Site",
+      "date": "2025-04-17"
+    },
+    {
+      "title": "Whitehouse Probes Trump Extortion of Law Firms",
+      "url": "https://www.epw.senate.gov/public/index.cfm/2025/5/whitehouse-probes-trump-extortion-of-law-firms",
+      "outlet": "Senate Environment Committee",
+      "date": "2025-05-15"
+    },
+    {
+      "title": "Trump Attacks on Law Firms Make It Harder to Challenge the Administration",
+      "url": "https://www.propublica.org/article/trump-law-firms-accountability-environment-police-lgbtq",
+      "outlet": "ProPublica",
+      "date": "2025-04-10"
+    }
+  ],
+  "notes": "Unprecedented economic coercion of legal profession",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

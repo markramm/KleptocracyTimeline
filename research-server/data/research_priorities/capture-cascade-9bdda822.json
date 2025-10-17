@@ -1,0 +1,33 @@
+{
+  "id": "9bdda822",
+  "title": "Algorithmic Influence Operations: Automated Crypto Corruption",
+  "description": "Investigate how automated trading systems execute influence operations based on political developments, creating algorithmic corruption that operates without human coordination or prosecutable evidence.",
+  "priority": 8,
+  "estimated_events": 4,
+  "category": "capture_cascade",
+  "tags": [
+    "algorithmic-corruption",
+    "automated-influence",
+    "crypto-manipulation",
+    "technical-sophistication",
+    "real-time-analytics"
+  ],
+  "research_areas": [
+    "Which trading algorithms show correlation with political events?",
+    "How do automated systems time purchases with policy announcements?",
+    "What cross-platform integration exists between crypto and social media manipulation?",
+    "How do real-time analytics optimize corruption effectiveness?",
+    "Which technical platforms enable algorithmic influence operations?"
+  ],
+  "timeline_focus": "2025-01-20 to 2025-06-30",
+  "actors": [
+    "Algorithm developers",
+    "Trading platform operators",
+    "Political data analysts",
+    "Cross-platform coordinators"
+  ],
+  "source_requirements": "Trading algorithm specifications, correlation analyses, platform integration records, effectiveness metrics",
+  "created_by": "pdf-ingestion-capture-cascade",
+  "pdf_source": "The Capture Cascade - Part 5_ The Breakthrough.pdf",
+  "created_at": "2025-09-09T18:31:03.966350"
+}

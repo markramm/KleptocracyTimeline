@@ -1,0 +1,30 @@
+{
+  "id": "event-2022-11-ftx-collapse-ea-network",
+  "date": "2022-11-11",
+  "title": "FTX Collapse Exposes EA Academic Capture Network Fraud",
+  "summary": "FTX bankruptcy reveals systematic theft of customer funds to finance EA academic capture operations and political influence network. SBF admits \"ethics stuff\" was \"mostly a front\" and ethics a \"dumb game,\" exposing how EA ideology provided intellectual cover for wealth extraction. Academic institutions including MIT, Stanford forced to return millions in fraudulent donations. EA community leaders disavow SBF but captured institutions remain compromised. Case demonstrates how academic partnerships can mask kleptocratic operations through charitable reputation washing.",
+  "importance": 9,
+  "key_actors": [
+    "Sam Bankman-Fried",
+    "FTX",
+    "EA Community",
+    "Academic Institutions"
+  ],
+  "sources": [
+    {
+      "title": "DOJ criminal filing",
+      "url": ""
+    },
+    {
+      "title": "Bankruptcy court documents",
+      "url": ""
+    },
+    {
+      "title": "University statements",
+      "url": ""
+    }
+  ],
+  "event_type": "fraud_exposure",
+  "confirmed": true,
+  "priority_id": "RT-CLAUDE-2025-ftx-sbf-effective-altruism-network"
+}

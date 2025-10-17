@@ -1,0 +1,46 @@
+{
+  "id": "2024-08-29--kylian-mbapp-twitter-account-hacked-to-promote-00-million-ce",
+  "date": "2024-08-29",
+  "title": "Kylian Mbappé Twitter Account Hacked to Promote $464M Crypto Pump-and-Dump Scam",
+  "summary": "Soccer superstar Kylian Mbappé's official X (Twitter) account was compromised in a sophisticated crypto scam on August 29, 2024. Hackers used his 14.4 million follower account to launch a fraudulent $MBAPPE token on the Solana blockchain, which rapidly reached a $464 million market cap before crashing to near-zero within minutes. The incident represents an advanced evolution of celebrity social media account hijacking for cryptocurrency fraud, where hackers directly exploit high-profile accounts instead of traditional celebrity endorsements.",
+  "importance": 8,
+  "actors": [
+    "Kylian Mbappé",
+    "Unknown Hackers",
+    "Sahil Arora"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Crypto Market Manipulation"
+  ],
+  "tags": [
+    "crypto",
+    "pump-and-dump",
+    "celebrity",
+    "social-media",
+    "phishing",
+    "fraud",
+    "blockchain",
+    "hacking"
+  ],
+  "sources": [
+    {
+      "outlet": "Cointelegraph",
+      "title": "Millions lost as Mbappé's hacked account promotes $460M crypto scam",
+      "url": "https://cointelegraph.com/news/trader-loses-1-million-fake-mbappe-token-scam"
+    },
+    {
+      "outlet": "Decrypt",
+      "title": "Kylian Mbappé Token Hit a $464 Million Market Cap—Then Crashed to Zero Because It Was Fake",
+      "url": "https://decrypt.co/246999/kylian-mbappe-token-hit-464-million-market-cap-crashed-zero"
+    },
+    {
+      "outlet": "CryptoPotato",
+      "title": "Hackers Hijack Kylian Mbappe's X Account to Promote Crypto Scam: Report",
+      "url": "https://cryptopotato.com/hackers-hijack-kylian-mbappes-x-account-to-promote-crypto-scam-report/"
+    }
+  ],
+  "status": "confirmed"
+}

@@ -1,0 +1,58 @@
+{
+  "actors": [
+    "Fifth Circuit Court of Appeals",
+    "Chief Judge Priscilla Richman",
+    "State of Texas",
+    "Biden Administration"
+  ],
+  "capture_lanes": [
+    "Immigration & Border Militarization"
+  ],
+  "citations": [
+    "https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html"
+  ],
+  "date": "2024-03-26",
+  "id": "2024-03-26--ca5-blocks-sb4",
+  "importance": 6,
+  "location": "New Orleans, LA",
+  "notes": "Updated with additional national news sources to provide broader context",
+  "sources": [
+    {
+      "archive_url": "https://web.archive.org/web/20240327000000*/https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html",
+      "date": "2024-03-26",
+      "outlet": "Fifth Circuit Court of Appeals via Justia",
+      "title": "United States v. Texas, No. 24-50149 (5th Cir. 2024)",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca5/24-50149/24-50149-2024-03-26.html"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20240328000000*/https://www.texastribune.org/2024/03/27/fifth-circuit-texas-immigration-law/",
+      "date": "2024-03-27",
+      "outlet": "Texas Tribune",
+      "title": "Appeals court keeps Texas' SB 4 migrant arrest law on hold",
+      "url": "https://www.texastribune.org/2024/03/27/fifth-circuit-texas-immigration-law"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20240327000000*/https://abcnews.go.com/Politics/supreme-court-allows-strict-texas-sb4-immigration-law/story?id=108248478",
+      "date": "2024-03-27",
+      "outlet": "ABC News",
+      "title": "5th Circuit Court of Appeals decision blocks enforcement of strict Texas immigration law SB4",
+      "url": "https://abcnews.go.com/Politics/supreme-court-allows-strict-texas-sb4-immigration-law/story?id=108248478"
+    },
+    {
+      "archive_url": "https://web.archive.org/web/20240327000000*/https://www.npr.org/2024/03/20/1239651676/sb4-texas-immigration-law",
+      "date": "2024-03-20",
+      "outlet": "NPR",
+      "title": "What to know about SB 4, the Texas immigration law in the courts now",
+      "url": "https://www.npr.org/2024/03/20/1239651676/sb4-texas-immigration-law"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "The Fifth Circuit Court of Appeals issued a complex, rapidly evolving ruling keeping Texas SB 4 on hold, highlighting the ongoing legal battle over state versus federal immigration enforcement powers. In a 2-1 decision, the court cited Supreme Court precedent that immigration control is \"exclusively a federal power\", temporarily blocking the controversial state immigration law.",
+  "tags": [
+    "appeals",
+    "fifth-circuit",
+    "immigration",
+    "border-policy"
+  ],
+  "title": "Fifth Circuit re-blocks Texas SB 4 pending appeal"
+}

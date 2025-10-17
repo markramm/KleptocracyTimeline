@@ -1,0 +1,54 @@
+{
+  "id": "2025-02-17--with-congress-pliant-an-emboldened-trump-pushes-his-business",
+  "date": "2025-02-17",
+  "title": "Trump Leverages Presidential Position in PGA-LIV Golf Merger Negotiations",
+  "summary": "President Trump actively intervened in negotiations between PGA Tour and LIV Golf, hosting meetings with executives and claiming ability to broker a merger, raising questions about potential conflicts of interest and personal business motivations",
+  "description": "Trump leverages presidential position to broker a complex golf league merger with potential personal business implications",
+  "status": "confirmed",
+  "importance": 7,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Jay Monahan",
+    "Yasir al-Rumayyan",
+    "PGA Tour",
+    "LIV Golf"
+  ],
+  "tags": [
+    "kleptocracy",
+    "executive-influence",
+    "trump-business"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "title": "Trump meets with PGA Tour commissioner after saying he can fix professional golf's division",
+      "url": "https://www.pbs.org/newshour/nation/trump-meets-with-pga-tour-commissioner-after-saying-he-can-fix-professional-golfs-division",
+      "outlet": "PBS News",
+      "date": "2025-02-13"
+    },
+    {
+      "title": "Trump involvement helps PGA Tour get closer to LIV Golf deal: Commissioner",
+      "url": "https://www.aljazeera.com/sports/2025/2/6/trump-involvement-helps-pga-tour-get-closer-to-liv-golf-deal-commissioner",
+      "outlet": "Al Jazeera",
+      "date": "2025-02-06"
+    },
+    {
+      "title": "Donald Trump gives short update on PGA Tour and LIV Golf merger",
+      "url": "https://www.irishstar.com/sport/golf/donald-trump-pga-liv-merger-34735059",
+      "outlet": "Irish Star",
+      "date": "2025-02-17"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture",
+    "power_monetization"
+  ],
+  "notes": "Demonstrates Trump's ongoing use of political influence for potential personal business advantage",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion",
+    "Business Negotiation"
+  ]
+}

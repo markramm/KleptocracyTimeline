@@ -1,0 +1,32 @@
+{
+  "id": "RP-20250911-comprehensive-research-framework",
+  "title": "Comprehensive Research Framework for Historical Institutional Capture",
+  "description": "Research framework for systematic documentation of key institutional capture events including Church Committee findings, media transformation (Fox News model), military privatization (Blackwater), and surveillance networks.",
+  "priority": "medium",
+  "estimated_events": 25,
+  "research_areas": [
+    "Church Committee CIA Operations documentation",
+    "Fox News partisan media model establishment",
+    "Blackwater Nisour Square massacre and PMC evolution",
+    "Pegasus journalist surveillance networks",
+    "Mercers Cambridge Analytica funding networks",
+    "Systematic research methodology development"
+  ],
+  "timeline_scope": {
+    "start_year": 1970,
+    "end_year": 2025,
+    "focus_periods": ["Post-Watergate reforms", "Media consolidation era", "War on Terror privatization"]
+  },
+  "methodology": "Comprehensive historical research and documentation",
+  "expected_outcomes": [
+    "Complete documentation of Church Committee findings",
+    "Analysis of partisan media model development", 
+    "PMC evolution and accountability failures",
+    "Surveillance network mapping",
+    "Academic capture through funding networks"
+  ],
+  "status": "pending",
+  "created_date": "2025-09-11", 
+  "created_by": "timeline-cleanup-agent",
+  "notes": "Created to consolidate comprehensive research framework content that was misplaced as timeline events. These are research methodologies, not historical occurrences."
+}

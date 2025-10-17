@@ -1,0 +1,187 @@
+[
+  {
+    "id": "boeing-max-380a962d",
+    "date": "2016-03-30",
+    "title": "Boeing Chief Technical Pilot Requests MCAS Removal from Pilot Manuals",
+    "summary": "Mark Forkner, Boeing's 737 MAX Chief Technical Pilot, sent a critical email to senior FAA officials on March 30, 2016, requesting that all reference to the Maneuvering Characteristics Augmentation System (MCAS) be stripped from the 737 MAX pilot manual. This deliberate omission represented a cornerstone of Boeing's strategy to minimize training requirements and certification complexity for the 737 MAX. Forkner's request came before he discovered crucial changes to the MCAS system that would make it far more aggressive and dangerous than originally designed. The FAA compliance with this request meant that pilots flying the 737 MAX for Boeing's U.S.-based airline customers would receive no information about MCAS in their manuals and training materials. This decision would prove catastrophic, as MCAS would later activate unexpectedly in flight conditions it was never intended to handle, contributing directly to two fatal crashes. The email represents a clear example of Boeing prioritizing commercial interests over aviation safety through regulatory manipulation, demonstrating how manufacturer influence can compromise essential safety information disclosure to airlines and pilots.",
+    "key_actors": [
+      "Mark Forkner",
+      "FAA Aircraft Evaluation Group",
+      "Boeing Corporation"
+    ],
+    "organizations": [
+      "Boeing",
+      "Federal Aviation Administration"
+    ],
+    "sources": [
+      {
+        "url": "https://www.justice.gov/opa/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud",
+        "title": "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud - DOJ"
+      },
+      {
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/explosive-text-messages-reveal-boeing-knew-of-mcas-aggression-in-2016-and-misled-faa/",
+        "title": "Stunning messages from 2016 deepen Boeing's 737 MAX crisis - Seattle Times"
+      },
+      {
+        "url": "https://www.washingtonpost.com/local/trafficandcommuting/text-messages-show-boeing-employees-knew-in-2016-of-problems-that-turned-deadly-on-the-737-max/2019/10/18/8578c990-f1ca-11e9-89eb-ec56cd414732_story.html",
+        "title": "Messages show Boeing employees knew in 2016 of problems that turned deadly on the 737 Max - Washington Post"
+      },
+      {
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/inspector-general-report-details-how-boeing-played-down-mcas-in-original-737-max-certification-and-faa-missed-it/",
+        "title": "Inspector General report details how Boeing played down MCAS in original 737 MAX certification - Seattle Times"
+      }
+    ],
+    "tags": [
+      "regulatory-capture",
+      "aviation-safety",
+      "boeing",
+      "faa-capture",
+      "pilot-training"
+    ],
+    "importance": 9,
+    "status": "confirmed"
+  },
+  {
+    "id": "boeing-max-79f3276d",
+    "date": "2016-11-15",
+    "title": "Boeing Pilot Discovers MCAS System Changes, Admits Deception to FAA",
+    "summary": "In November 2016, Mark Forkner discovered during simulator testing that Boeing had made critical changes to the MCAS system without informing the FAA. In a text exchange with a colleague after taking the MAX on a simulated test flight, Forkner wrote the infamous message: \"So I basically lied to the regulators (unknowingly).\" This discovery revealed that MCAS was now active down to Mach 0.2 - meaning at low speed conditions during normal flight operations, not just the high-speed maneuver for which it was originally designed and approved. Despite this knowledge of the system's dramatically expanded and dangerous operational envelope, Forkner chose to withhold this critical information from the FAA Aircraft Evaluation Group. His decision to conceal these changes represented a deliberate deception of federal regulators, prioritizing Boeing's commercial timeline over aviation safety. The simulator incident revealed MCAS could activate in flight conditions where pilots would have no expectation of its intervention, yet Boeing continued to market the aircraft as requiring minimal additional pilot training. This coverup would prove directly fatal when MCAS activated unexpectedly during the Lion Air and Ethiopian Airlines flights, with pilots having no knowledge of the system's existence or how to counteract its aggressive nose-down commands.",
+    "key_actors": [
+      "Mark Forkner",
+      "FAA Aircraft Evaluation Group",
+      "Boeing flight test team"
+    ],
+    "organizations": [
+      "Boeing",
+      "Federal Aviation Administration"
+    ],
+    "sources": [
+      {
+        "url": "https://www.justice.gov/opa/pr/former-boeing-737-max-chief-technical-pilot-indicted-fraud",
+        "title": "Former Boeing 737 MAX Chief Technical Pilot Indicted for Fraud - DOJ"
+      },
+      {
+        "url": "https://www.npr.org/2019/10/18/771451904/boeing-pilots-detected-737-max-flight-control-glitch-two-years-before-deadly-cra",
+        "title": "Boeing Pilots Detected 737 Max Flight Control Glitch 2 Years Before Deadly Crash - NPR"
+      },
+      {
+        "url": "https://www.cbsnews.com/dfw/news/boeing-pilot-regulators-flight-control-system-737-max/",
+        "title": "Boeing Pilot: 'I Basically Lied To Regulators (Unknowingly)' About Flight Control System On 737 MAX - CBS DFW"
+      },
+      {
+        "url": "https://www.dallasnews.com/business/airlines/2022/03/18/lawyers-paint-ex-boeing-pilot-mark-forkner-as-scapegoat-in-737-max-crisis-trial/",
+        "title": "Lawyers paint ex-Boeing pilot Mark Forkner as scapegoat in 737 Max crisis trial - Dallas News"
+      }
+    ],
+    "tags": [
+      "regulatory-capture",
+      "aviation-safety",
+      "boeing",
+      "cover-up",
+      "simulator-testing"
+    ],
+    "importance": 9,
+    "status": "confirmed"
+  },
+  {
+    "id": "boeing-max-b2f00b17",
+    "date": "2018-10-29",
+    "title": "Lion Air Flight 610 Crashes Due to MCAS System Boeing Concealed from Pilots",
+    "summary": "Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea shortly after takeoff from Jakarta, Indonesia, killing all 189 passengers and crew aboard. The crash was directly caused by the Maneuvering Characteristics Augmentation System (MCAS) that Boeing had deliberately concealed from pilot manuals and training materials. A miscalibrated angle of attack sensor triggered MCAS to repeatedly push the aircraft's nose down, while the pilots - having no knowledge of the system's existence - were unable to understand or counteract its commands. The flight crew fought desperately against the automated system for 11 minutes before losing control. This tragedy represented the fatal consequence of Boeing's regulatory capture strategy, where commercial considerations were prioritized over aviation safety through systematic deception of both regulators and airlines. The crash exposed how Boeing's influence over the FAA's self-certification process had allowed a fundamentally dangerous system to enter commercial service without proper disclosure, training, or safety protocols. Investigation revealed that if pilots had been informed about MCAS and provided proper training, the crash could have been prevented. The disaster marked the beginning of the Boeing 737 MAX crisis and demonstrated the lethal consequences of corporate capture of aviation safety regulation.",
+    "key_actors": [
+      "Captain Bhavye Suneja",
+      "First Officer Harvino",
+      "Lion Air crew",
+      "Boeing executives",
+      "FAA officials"
+    ],
+    "organizations": [
+      "Lion Air",
+      "Boeing",
+      "Federal Aviation Administration",
+      "Indonesian aviation authorities"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
+        "title": "Lion Air Flight 610 - Wikipedia"
+      },
+      {
+        "url": "https://www.pogo.org/analysis/corrupted-oversight-the-faa-boeing-and-the-737-max",
+        "title": "Corrupted Oversight: The FAA, Boeing, and the 737 Max - POGO"
+      },
+      {
+        "url": "https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/",
+        "title": "Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Contributing Factors - Avionics International"
+      },
+      {
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/indonesias-investigation-of-lion-air-737-max-crash-faults-boeing-design-and-faa-certification-as-well-as-airlines-maintenance-and-pilot-errors/",
+        "title": "Indonesia's investigation of Lion Air 737 MAX crash faults Boeing design and FAA certification - Seattle Times"
+      },
+      {
+        "url": "https://www.cbsnews.com/news/boeing-737-max-8-lion-air-plane-crash-mcas-system-flight-jt610-pilots/",
+        "title": "Boeing 737 Max 8 in Lion Air plane crash had close call with MCAS system - CBS News"
+      }
+    ],
+    "tags": [
+      "aviation-disaster",
+      "regulatory-capture",
+      "boeing",
+      "mcas-system",
+      "pilot-training-failure"
+    ],
+    "importance": 9,
+    "status": "confirmed"
+  },
+  {
+    "id": "boeing-max-4b761039",
+    "date": "2019-03-10",
+    "title": "Ethiopian Airlines Flight 302 Second Fatal 737 MAX Crash Forces Worldwide Grounding",
+    "summary": "Ethiopian Airlines Flight 302 crashed approximately six minutes after takeoff from Addis Ababa, killing all 157 passengers and crew aboard. The crash showed striking similarities to the Lion Air disaster five months earlier, with MCAS again activated by a faulty angle of attack sensor - likely damaged by a bird strike during takeoff. Despite Boeing and the FAA's awareness of the Lion Air crash cause, no emergency airworthiness directive had been issued to ground the aircraft or mandate comprehensive pilot training on MCAS. The Ethiopian crew, like their Lion Air counterparts, had no knowledge of MCAS existence and were unable to counteract the system's repeated nose-down commands. The jackscrew was found in the full \"nose down\" position in both crashes, indicating identical system failures. This second tragedy within five months forced aviation authorities worldwide to ground all 737 MAX aircraft, representing one of the largest aircraft groundings in aviation history. The crash definitively proved that Boeing's regulatory capture strategy - prioritizing minimal training requirements and certification complexity over safety - had created a systemically dangerous aircraft. It exposed the fundamental failure of the FAA's delegation of safety oversight to Boeing through the Organization Designation Authorization program, where the manufacturer essentially certified its own aircraft with minimal independent oversight.",
+    "key_actors": [
+      "Captain Yared Getachew",
+      "First Officer Ahmednur Mohammed",
+      "Ethiopian Airlines crew",
+      "Boeing executives",
+      "FAA Administrator Steve Dickson"
+    ],
+    "organizations": [
+      "Ethiopian Airlines",
+      "Boeing",
+      "Federal Aviation Administration",
+      "EASA",
+      "global aviation authorities"
+    ],
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_302",
+        "title": "Ethiopian Airlines Flight 302 - Wikipedia"
+      },
+      {
+        "url": "https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion",
+        "title": "Boeing Charged with 737 Max Fraud Conspiracy - DOJ"
+      },
+      {
+        "url": "https://www.seattletimes.com/business/boeing-aerospace/final-report-on-boeing-737-max-crash-disputed-agencies-note-pilot-error-as-a-factor/",
+        "title": "Final report on Boeing 737 MAX crash sparks dispute over pilot error - Seattle Times"
+      },
+      {
+        "url": "https://www.npr.org/2020/03/09/813740173/ethiopian-officials-say-faulty-boeing-software-played-role-in-deadly-737-max-cra",
+        "title": "Ethiopian Officials Say Faulty Boeing Software Played Role In Deadly 737 Max Crash - NPR"
+      },
+      {
+        "url": "https://www.ntsb.gov/news/press-releases/Pages/NR20230124.aspx",
+        "title": "NTSB Publishes Additional Comments on Ethiopia's Final Report on 737 MAX 8 Accident - NTSB"
+      }
+    ],
+    "tags": [
+      "aviation-disaster",
+      "regulatory-capture",
+      "boeing",
+      "worldwide-grounding",
+      "mcas-system"
+    ],
+    "importance": 9,
+    "status": "confirmed"
+  }
+]

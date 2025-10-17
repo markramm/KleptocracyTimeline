@@ -1,0 +1,51 @@
+{
+  "id": "2019-05-01--phantom-fireworks-tariff-delay",
+  "date": "2019-05-01",
+  "importance": 8,
+  "title": "Fireworks CEO Provides $750K-$1M Gift After Trump Delays Tariffs",
+  "summary": "Phantom Fireworks CEO Bruce Zoldan met with Trump in May 2019 to lobby against tariffs on Chinese fireworks. Shortly after, Zoldan's company provided an estimated $750,000-$1,000,000 in fireworks and services for Trump's \"Salute to America\" July 4th event. The administration delayed imposing planned tariffs on fireworks around this period. Ethics watchdogs identified this as a glaring case of pay-to-play.",
+  "tags": [
+    "tariffs",
+    "pay-to-play",
+    "corruption",
+    "quid-pro-quo",
+    "ethics-violation"
+  ],
+  "capture_lanes": [
+    "Financial Corruption & Kleptocracy"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Trump's Tariffs and Crony Capitalism",
+      "url": "https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected",
+      "outlet": "Public Citizen",
+      "date": "2019-07-01"
+    },
+    {
+      "title": "July 4th fireworks donor lobbied President Trump on tariffs and won a reprieve",
+      "url": "https://abcnews.go.com/Politics/july-4th-fireworks-donor-lobbied-president-trump-tariffs/story?id=64108794",
+      "outlet": "ABC News",
+      "date": "2019-07-08"
+    },
+    {
+      "title": "Company that donated fireworks to Trump's event also successfully lobbied against tariffs",
+      "url": "https://thehill.com/homenews/administration/451685-company-that-donated-fireworks-to-trumps-event-also-successfully/",
+      "outlet": "The Hill",
+      "date": "2019-07-08"
+    },
+    {
+      "title": "July 4 firework donor met with Trump on tariffs ahead of donation",
+      "url": "https://wtop.com/government/2019/06/july-4-firework-donor-met-with-trump-on-tariffs-ahead-of-donation/",
+      "outlet": "WTOP News",
+      "date": "2019-06-25"
+    }
+  ],
+  "actors": [
+    "Donald Trump",
+    "Bruce Zoldan",
+    "Phantom Fireworks"
+  ],
+  "location": "Washington, DC",
+  "notes": "Private firm buying goodwill and policy favors by stroking the president's ego with extravagant donation"
+}

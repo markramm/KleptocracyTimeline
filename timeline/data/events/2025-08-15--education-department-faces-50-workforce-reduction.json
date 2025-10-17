@@ -1,0 +1,49 @@
+{
+    "id": "2025-08-15--education-department-faces-50-workforce-reduction",
+    "date": "2025-08-15",
+    "title": "Education Department Faces 50% Workforce Reduction",
+    "summary": "Education Secretary Linda McMahon initiated a dramatic 50% workforce reduction at the Department of Education, laying off approximately 1,950 employees. The mass layoffs, occurring on March 11, 2025, represent the first phase of the Trump administration's plan to dismantle the department, directly implementing recommendations from Project 2025. Employees were placed on administrative leave with full pay until June 9, marking a significant transformation of federal education infrastructure.",
+    "actors": [
+        "Linda McMahon",
+        "Department of Education",
+        "Federal education workforce",
+        "Trump Administration",
+        "Project 2025 Leadership"
+    ],
+    "importance": 9,
+    "tags": [
+        "education-dismantling",
+        "department-elimination",
+        "workforce-cuts",
+        "federal-education",
+        "project-2025",
+        "administrative-reorganization"
+    ],
+    "capture_lanes": [
+        "Regulatory Capture",
+        "Legislative Capture",
+        "Institutional Transformation"
+    ],
+    "sources": [
+        {
+            "outlet": "NBC News",
+            "title": "Education Department to cut roughly half its staff",
+            "url": "https://www.nbcnews.com/politics/trump-administration/education-department-lay-off-roughly-half-workforce-linda-mcmahon-rcna195038",
+            "date": "2025-03-11"
+        },
+        {
+            "outlet": "U.S. Department of Education",
+            "title": "U.S. Department of Education Initiates Reduction in Force",
+            "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-reduction-force",
+            "date": "2025-03-11"
+        },
+        {
+            "outlet": "Federal News Network",
+            "title": "Education Dept cuts workforce by nearly 50% in mass layoffs",
+            "url": "https://federalnewsnetwork.com/workforce/2025/03/education-dept-announces-temporary-office-closures-citing-security-reasons/",
+            "date": "2025-03-11"
+        }
+    ],
+    "status": "confirmed",
+    "priority_id": "project-2025-implementation-1757456630"
+}

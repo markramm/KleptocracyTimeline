@@ -1,0 +1,57 @@
+{
+  "id": "2025-02-11--trump-advisers-eye-bank-regulator-consolidation-after-target",
+  "date": "2025-02-11",
+  "title": "Trump Administration Explores Consolidating Banking Regulators",
+  "summary": "Trump administration explores consolidating banking regulators by potentially merging FDIC and OCC under Treasury Department, reducing regulatory workforce and oversight. Proposed changes include combining regulatory functions, transferring employees, and potentially eliminating independent banking supervision.",
+  "description": "Trump administration explores consolidating banking regulators by potentially merging FDIC and OCC under Treasury Department, reducing regulatory oversight and workforce. Potential scenarios include folding FDIC into Treasury, combining FDIC's regulatory role with OCC, or having single leadership over both agencies.",
+  "status": "confirmed",
+  "importance": 8,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "Trump Administration",
+    "Office of the Comptroller of the Currency",
+    "Federal Deposit Insurance Corporation"
+  ],
+  "tags": [
+    "regulatory-capture",
+    "treasury-department",
+    "banking-regulation",
+    "trump-administration"
+  ],
+  "capture_type": "regulatory_capture",
+  "sources": [
+    {
+      "title": "White House Weighs Folding FDIC Into Other Agencies",
+      "url": "https://www.nascus.org/2025/02/14/white-house-weighs-folding-fdic-into-other-agencies/",
+      "outlet": "NASCUS",
+      "date": "2025-02-14"
+    },
+    {
+      "title": "Trump Gets Ready to Move Bank Regulators After Workforce Purge",
+      "url": "https://news.bloomberglaw.com/banking-law/trump-gets-ready-to-move-bank-regulators-after-workforce-purge",
+      "outlet": "Bloomberg Law",
+      "date": "2025-02-11"
+    },
+    {
+      "title": "White House Weighs Folding FDIC Into Other Agencies",
+      "url": "https://www.pymnts.com/news/regulation/2025/white-house-weighs-folding-fdic-into-other-agencies/",
+      "outlet": "PYMNTS",
+      "date": "2025-02-14"
+    }
+  ],
+  "connections": [
+    "CFPB workforce reduction",
+    "Banking regulation consolidation"
+  ],
+  "patterns": [
+    "kleptocratic-capture",
+    "regulatory-restructuring"
+  ],
+  "notes": "Part of broader effort to reduce banking regulatory complexity and oversight",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Financial Capture"
+  ]
+}

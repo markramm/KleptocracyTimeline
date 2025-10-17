@@ -1,0 +1,46 @@
+{
+  "id": "2025-08-06--trump-announces-dc-federal-takeover",
+  "date": "2025-08-06",
+  "importance": 9,
+  "title": "Trump announces federal takeover of DC police citing Coristine attack",
+  "summary": "Trump announced federal takeover of Washington DC police department and deployment of\nNational Guard, using the assault on Edward Coristine as justification. Trump stated he\nwas considering \"having his administration take over the DC Police Department\" and\nbringing in National Guard. This represented unprecedented federal control over the\nnation's capital's local law enforcement, exploiting a single assault incident despite\ncrime being at 30-year lows.\n",
+  "actors": [
+    "Donald Trump",
+    "DC Police Department",
+    "National Guard",
+    "Edward Coristine"
+  ],
+  "tags": [
+    "dc-takeover",
+    "federal-control",
+    "crisis-exploitation",
+    "authoritarianism",
+    "police-state"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Trump reignites threat to take over DC after former DOGE worker assaulted",
+      "url": "https://www.cnn.com/2025/08/06/politics/trump-federal-take-over-dc-doge-coristine-assault",
+      "outlet": "CNN",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "Trump threatens federal takeover of DC after attack on former DOGE worker",
+      "url": "https://www.pbs.org/newshour/politics/trump-threatens-federal-takeover-of-dc-after-attack-on-former-doge-worker",
+      "outlet": "PBS NewsHour",
+      "date": "2025-08-06"
+    },
+    {
+      "title": "Can Trump Federalize D.C.?",
+      "url": "https://time.com/7307798/trump-washington-dc-federalize-takeover-big-balls-edward-coristine-assault/",
+      "outlet": "TIME",
+      "date": "2025-08-06"
+    }
+  ],
+  "notes": "Trump's announcement came two days after Coristine assault. Despite DC Mayor's objections\nand constitutional questions about federal authority over local policing, Trump proceeded\nwith deployment plans. By August 11, 1,450+ Guard troops from multiple states were\ndeployed to DC. This marked first federal takeover of capital's police since Reconstruction.",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture"
+  ]
+}

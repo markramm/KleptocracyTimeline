@@ -1,0 +1,33 @@
+{
+  "id": "RT-TTT-2025-doj-weaponization-systematic-persecution",
+  "title": "DOJ Weaponization and Systematic Political Persecution (2025)",
+  "description": "Research the systematic weaponization of the Department of Justice for political persecution, including the targeting of political opponents, journalists, and whistleblowers. Trump Tyranny Tracker documented extensive patterns of DOJ abuse including politically motivated prosecutions, selective enforcement, and the installation of partisan operatives in career prosecutor positions.",
+  "priority": "critical",
+  "status": "pending",
+  "expected_events": 10,
+  "research_focus": [
+    "Political opponent prosecution initiatives",
+    "Journalist and media targeting campaigns",
+    "Whistleblower retaliation prosecutions",
+    "Career prosecutor firing and replacement",
+    "Special counsel interference and termination",
+    "FBI political surveillance expansion",
+    "State attorney general coordination efforts",
+    "Congressional investigation obstruction",
+    "Civil rights enforcement suspension",
+    "Voting rights prosecution reversal"
+  ],
+  "key_search_terms": [
+    "DOJ weaponization",
+    "political prosecution",
+    "journalist targeting",
+    "whistleblower retaliation",
+    "career prosecutor firing",
+    "FBI political surveillance",
+    "special counsel termination"
+  ],
+  "timeline_gap_justification": "While our timeline covers some DOJ corruption, Trump Tyranny Tracker revealed the systematic nature of DOJ weaponization with specific cases, prosecutors involved, and coordination mechanisms that we're missing.",
+  "source_validation": "Cross-reference specific prosecutions, personnel changes, and policy reversals documented by Trump Tyranny Tracker with court records and DOJ announcements.",
+  "importance_score": 10,
+  "tags": ["doj_weaponization", "political_persecution", "prosecutor_purge", "journalist_targeting", "whistleblower_retaliation", "fbi_politicization", "special_counsel"]
+}

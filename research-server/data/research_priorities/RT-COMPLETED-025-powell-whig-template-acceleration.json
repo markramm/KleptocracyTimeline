@@ -1,0 +1,79 @@
+{
+  "id": "RT-025-powell-whig-template-acceleration",
+  "title": "Powell Memorandum Template Acceleration Through WHIG Crisis Implementation",
+  "description": "Research how the White House Iraq Group operations represented systematic acceleration of Powell Memorandum institutional capture strategy from gradual 50-year implementation to rapid crisis-driven transformation. Investigate how WHIG coordinated with Powell Memo institutions (Heritage Foundation, Federalist Society, corporate media, think tanks) to exploit 9/11 crisis for accelerated institutional capture. Document how WHIG operations demonstrated the template for crisis-accelerated implementation of systematic institutional capture, providing the blueprint for rapid democratic transformation that subsequent crises (financial, pandemic, political) could exploit.",
+  "priority": 10,
+  "status": "pending",
+  "category": "crisis-accelerated-capture",
+  "tags": [
+    "powell-memorandum-acceleration",
+    "whig-crisis-implementation",
+    "systematic-capture-acceleration",
+    "institutional-coordination",
+    "crisis-exploitation-template",
+    "democratic-transformation-blueprint"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-06",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "1971-08-23--powell-memorandum-corporate-capture-blueprint",
+    "2002-08-01--white-house-iraq-group-formation-propaganda-coordination",
+    "2001-09-11--september-11-attacks"
+  ],
+  "key_sources": [
+    {
+      "title": "Coordination records between WHIG and Powell Memo institutional network",
+      "type": "government-records",
+      "credibility": 9,
+      "description": "Documentation of systematic coordination with established capture infrastructure"
+    },
+    {
+      "title": "Think tank response coordination during Iraq War period",
+      "type": "organizational-records",
+      "credibility": 9,
+      "description": "Evidence of coordinated institutional response supporting WHIG operations"
+    },
+    {
+      "title": "Analysis of crisis-accelerated institutional capture patterns",
+      "type": "academic-research",
+      "credibility": 9,
+      "description": "Scholarly documentation of systematic capture acceleration mechanisms"
+    }
+  ],
+  "expected_outcomes": [
+    "Documents systematic coordination between WHIG and Powell Memo institutional network",
+    "Reveals crisis-acceleration template for systematic institutional capture",
+    "Shows transformation of gradual capture strategy into rapid crisis implementation",
+    "Connects WHIG operations to broader systematic democratic transformation blueprint"
+  ],
+  "connections": [
+    {
+      "to": "1971-08-23--powell-memorandum-corporate-capture-blueprint",
+      "type": "accelerates-implementation-of",
+      "description": "Crisis-driven acceleration of systematic capture strategy"
+    },
+    {
+      "to": "RT-021-powell-memo-acceleration-crisis-exploitation",
+      "type": "coordinates-with",
+      "description": "Systematic crisis exploitation of established infrastructure"
+    }
+  ],
+  "actors_to_investigate": [
+    "WHIG coordination with Heritage Foundation",
+    "Think tank crisis response teams",
+    "Corporate media coordination during crisis",
+    "Federalist Society crisis legal opinions",
+    "Powell Memo institutional network activation"
+  ],
+  "time_period": "2001-2005",
+  "constitutional_issues": [
+    "crisis exploitation",
+    "systematic institutional capture",
+    "democratic transformation acceleration",
+    "constitutional crisis enablement",
+    "oligarchic capture coordination"
+  ],
+  "estimated_importance": 10
+}

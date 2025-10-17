@@ -1,0 +1,49 @@
+{
+  "id": "2007-11-15--thomas-drake-reports-nsa-trailblazer-waste-surveillance-expansion",
+  "date": "2007-11-15",
+  "title": "Thomas Drake Reports NSA Trailblazer Program Waste and Constitutional Violations",
+  "summary": "NSA senior executive Thomas Drake reports to DOD Inspector General massive waste in the $1.2 billion Trailblazer surveillance program and systematic constitutional violations. Drake documented how NSA chose expensive, ineffective contractor solutions over proven internal alternatives while expanding illegal domestic surveillance. His whistleblowing revealed systematic corruption where contractors and political appointees prioritized profits over national security and constitutional compliance.",
+  "actors": [
+    "Thomas Drake",
+    "NSA",
+    "DOD Inspector General",
+    "Trailblazer Program",
+    "SAIC",
+    "ThinThread Program",
+    "Michael Hayden"
+  ],
+  "tags": [
+    "nsa-whistleblowing",
+    "trailblazer-scandal",
+    "contractor-corruption",
+    "surveillance-waste",
+    "constitutional-violation"
+  ],
+  "sources": [
+    {
+      "url": "https://www.newyorker.com/magazine/2011/05/23/the-secret-sharer",
+      "title": "The Secret Sharer: Is Thomas Drake an Enemy of the State?",
+      "outlet": "The New Yorker",
+      "date": "2011-05-23"
+    },
+    {
+      "url": "https://www.baltimoresun.com/news/bs-xpm-2010-04-25-bs-md-drake-20100425-story.html",
+      "title": "NSA Whistleblower Thomas Drake Speaks Out",
+      "outlet": "Baltimore Sun",
+      "date": "2010-04-25"
+    },
+    {
+      "url": "https://www.washingtonpost.com/world/national-security/former-nsa-executive-thomas-a-drake-may-pay-a-high-price-for-media-leaks/2011/05/22/AGCJ1uDH_story.html",
+      "title": "Former NSA Executive Thomas A. Drake May Pay a High Price for Media Leaks",
+      "outlet": "Washington Post",
+      "date": "2011-05-23"
+    }
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Intelligence Penetration",
+    "Executive Power Expansion"
+  ]
+}

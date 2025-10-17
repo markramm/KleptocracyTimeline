@@ -1,0 +1,461 @@
+"""
+Tests for research monitor database models
+"""
+
+import pytest
+from datetime import datetime, timedelta
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.exc import IntegrityError
+
+# Import models
+from research_monitor.models_v3 import (
+    Base,
+    TimelineEvent,
+    ResearchPriority,
+    ValidationHistory,
+    EventValidationQueue,
+    ResearchAgent,
+    AgentActivity
+)
+
+# Import fixtures
+from tests.fixtures.events import valid_event, minimal_event, invalid_event
+
+
+@pytest.fixture
+def db_session():
+    """Create a test database session"""
+    engine = create_engine('sqlite:///:memory:')
+    Base.metadata.create_all(engine)
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    yield session
+    session.close()
+
+
+@pytest.mark.database
+class TestTimelineEventModel:
+    """Test TimelineEvent model"""
+    
+    def test_create_valid_event(self, db_session, valid_event):
+        """Test creating a valid timeline event"""
+        event = TimelineEvent(
+            id=valid_event['id'],
+            date=valid_event['date'],
+            title=valid_event['title'],
+            summary=valid_event['summary'],
+            actors=valid_event['actors'],
+            sources=valid_event['sources'],
+            tags=valid_event['tags'],
+            status=valid_event.get('status', 'confirmed'),
+            importance=valid_event.get('importance', 7)
+        )
+        
+        db_session.add(event)
+        db_session.commit()
+        
+        # Retrieve and verify
+        saved_event = db_session.query(TimelineEvent).filter_by(id=event.id).first()
+        assert saved_event is not None
+        assert saved_event.title == valid_event['title']
+        assert saved_event.validation_status == 'unvalidated'
+        assert saved_event.validation_score == 0.0
+    
+    def test_event_constraints(self, db_session):
+        """Test database constraints on event fields"""
+        # Test invalid status
+        with pytest.raises(IntegrityError):
+            event = TimelineEvent(
+                id='test-invalid-status',
+                date='2024-01-01',
+                title='Test Event',
+                summary='Test summary',
+                actors=['Actor 1'],
+                sources=[{'title': 'Source', 'url': 'https://example.com'}],
+                tags=['test'],
+                status='invalid_status'  # Invalid
+            )
+            db_session.add(event)
+            db_session.commit()
+        db_session.rollback()
+        
+        # Test invalid importance
+        with pytest.raises(IntegrityError):
+            event = TimelineEvent(
+                id='test-invalid-importance',
+                date='2024-01-01',
+                title='Test Event',
+                summary='Test summary',
+                actors=['Actor 1'],
+                sources=[{'title': 'Source', 'url': 'https://example.com'}],
+                tags=['test'],
+                importance=15  # Out of range
+            )
+            db_session.add(event)
+            db_session.commit()
+        db_session.rollback()
+    
+    def test_event_validation_tracking(self, db_session):
+        """Test validation tracking fields"""
+        event = TimelineEvent(
+            id='test-validation',
+            date='2024-01-01',
+            title='Test Event',
+            summary='Test summary',
+            actors=['Actor 1', 'Actor 2'],
+            sources=[
+                {'title': 'Source 1', 'url': 'https://example.com/1'},
+                {'title': 'Source 2', 'url': 'https://example.com/2'}
+            ],
+            tags=['test', 'validation'],
+            validation_status='validated',
+            validation_score=0.95,
+            sources_verified=True,
+            actors_verified=True,
+            date_verified=True
+        )
+        
+        db_session.add(event)
+        db_session.commit()
+        
+        saved = db_session.query(TimelineEvent).filter_by(id=event.id).first()
+        assert saved.validation_status == 'validated'
+        assert saved.validation_score == 0.95
+        assert saved.sources_verified is True
+    
+    def test_event_relationships(self, db_session):
+        """Test event relationships with other models"""
+        # Create a research priority
+        priority = ResearchPriority(
+            id='priority-1',
+            query='test query',
+            status='active',
+            priority_level=8
+        )
+        
+        # Create event linked to priority
+        event = TimelineEvent(
+            id='test-relationship',
+            date='2024-01-01',
+            title='Related Event',
+            summary='Event related to priority',
+            actors=['Actor 1'],
+            sources=[{'title': 'Source', 'url': 'https://example.com'}],
+            tags=['test'],
+            priority=priority
+        )
+        
+        db_session.add(priority)
+        db_session.add(event)
+        db_session.commit()
+        
+        # Verify relationship
+        saved_event = db_session.query(TimelineEvent).filter_by(id=event.id).first()
+        assert saved_event.priority is not None
+        assert saved_event.priority.query == 'test query'
+    
+    def test_validate_format_method(self, db_session):
+        """Test the validate_format method"""
+        event = TimelineEvent(
+            id='test-format',
+            date='2024-01-01',
+            title='Test',  # Too short
+            summary='Short',  # Too short
+            actors=[],  # Empty
+            sources=['https://example.com'],  # Legacy format
+            tags=[]  # Empty
+        )
+        
+        errors = event.validate_format()
+        assert len(errors) > 0
+        assert any('title' in error.lower() for error in errors)
+        assert any('actors' in error.lower() for error in errors)
+
+
+@pytest.mark.database
+class TestResearchPriorityModel:
+    """Test ResearchPriority model"""
+    
+    def test_create_priority(self, db_session):
+        """Test creating a research priority"""
+        priority = ResearchPriority(
+            id='priority-test',
+            query='corruption investigation',
+            keywords=['corruption', 'fraud', 'investigation'],
+            status='active',
+            priority_level=9,
+            created_by='test_user'
+        )
+        
+        db_session.add(priority)
+        db_session.commit()
+        
+        saved = db_session.query(ResearchPriority).filter_by(id=priority.id).first()
+        assert saved is not None
+        assert saved.query == 'corruption investigation'
+        assert saved.priority_level == 9
+        assert saved.progress == 0
+    
+    def test_priority_status_transitions(self, db_session):
+        """Test priority status transitions"""
+        priority = ResearchPriority(
+            id='priority-status',
+            query='test query',
+            status='pending'
+        )
+        
+        db_session.add(priority)
+        db_session.commit()
+        
+        # Update status
+        priority.status = 'active'
+        priority.started_at = datetime.utcnow()
+        db_session.commit()
+        
+        saved = db_session.query(ResearchPriority).filter_by(id=priority.id).first()
+        assert saved.status == 'active'
+        assert saved.started_at is not None
+        
+        # Complete priority
+        priority.status = 'completed'
+        priority.completed_at = datetime.utcnow()
+        priority.progress = 100
+        db_session.commit()
+        
+        saved = db_session.query(ResearchPriority).filter_by(id=priority.id).first()
+        assert saved.status == 'completed'
+        assert saved.progress == 100
+    
+    def test_priority_events_relationship(self, db_session):
+        """Test relationship between priority and events"""
+        priority = ResearchPriority(
+            id='priority-events',
+            query='test query'
+        )
+        
+        # Create multiple events for this priority
+        for i in range(3):
+            event = TimelineEvent(
+                id=f'event-{i}',
+                date=f'2024-01-{i+1:02d}',
+                title=f'Event {i}',
+                summary=f'Summary {i}',
+                actors=['Actor'],
+                sources=[{'title': 'Source', 'url': f'https://example.com/{i}'}],
+                tags=['test'],
+                priority=priority
+            )
+            db_session.add(event)
+        
+        db_session.add(priority)
+        db_session.commit()
+        
+        saved = db_session.query(ResearchPriority).filter_by(id=priority.id).first()
+        assert len(saved.events) == 3
+        assert saved.results_count == 0  # Not automatically updated
+
+
+@pytest.mark.database
+class TestValidationHistoryModel:
+    """Test ValidationHistory model"""
+    
+    def test_create_validation_history(self, db_session):
+        """Test creating validation history entries"""
+        event = TimelineEvent(
+            id='event-for-history',
+            date='2024-01-01',
+            title='Event with History',
+            summary='Event to track validation history',
+            actors=['Actor 1'],
+            sources=[{'title': 'Source', 'url': 'https://example.com'}],
+            tags=['test']
+        )
+        
+        db_session.add(event)
+        db_session.commit()
+        
+        # Add validation history
+        history1 = ValidationHistory(
+            event_id=event.id,
+            validation_type='initial',
+            score_before=0.0,
+            score_after=0.7,
+            errors_before=['Missing sources', 'Title too short'],
+            errors_after=['Title too short'],
+            changes_made={'sources': 'Added 1 source'},
+            validated_by='validator_agent'
+        )
+        
+        db_session.add(history1)
+        db_session.commit()
+        
+        # Add enhancement history
+        history2 = ValidationHistory(
+            event_id=event.id,
+            validation_type='enhancement',
+            score_before=0.7,
+            score_after=0.95,
+            errors_before=['Title too short'],
+            errors_after=[],
+            changes_made={'title': 'Expanded title', 'summary': 'Enhanced summary'},
+            validated_by='enhancer_agent'
+        )
+        
+        db_session.add(history2)
+        db_session.commit()
+        
+        # Verify history
+        saved_event = db_session.query(TimelineEvent).filter_by(id=event.id).first()
+        assert len(saved_event.validation_history) == 2
+        
+        latest = saved_event.validation_history[-1]
+        assert latest.score_after == 0.95
+        assert latest.validation_type == 'enhancement'
+
+
+@pytest.mark.database  
+class TestEventValidationQueueModel:
+    """Test EventValidationQueue model"""
+    
+    def test_queue_operations(self, db_session):
+        """Test validation queue operations"""
+        # Add items to queue
+        for i in range(5):
+            queue_item = EventValidationQueue(
+                event_id=f'event-{i}',
+                priority=10 - i,  # Decreasing priority
+                validation_type='full' if i < 3 else 'quick',
+                requested_by='test_user'
+            )
+            db_session.add(queue_item)
+        
+        db_session.commit()
+        
+        # Query by priority
+        high_priority = db_session.query(EventValidationQueue)\
+            .filter(EventValidationQueue.priority >= 8)\
+            .order_by(EventValidationQueue.priority.desc())\
+            .all()
+        
+        assert len(high_priority) == 3
+        assert high_priority[0].priority == 10
+        
+        # Process item
+        item = high_priority[0]
+        item.status = 'processing'
+        item.attempts = 1
+        db_session.commit()
+        
+        # Complete item
+        item.status = 'completed'
+        item.completed_at = datetime.utcnow()
+        item.result = {'score': 0.9, 'errors': []}
+        db_session.commit()
+        
+        completed = db_session.query(EventValidationQueue)\
+            .filter_by(status='completed')\
+            .first()
+        assert completed is not None
+        assert completed.result['score'] == 0.9
+    
+    def test_queue_retry_logic(self, db_session):
+        """Test queue retry logic"""
+        queue_item = EventValidationQueue(
+            event_id='retry-event',
+            priority=5,
+            max_attempts=3
+        )
+        
+        db_session.add(queue_item)
+        db_session.commit()
+        
+        # Simulate failures
+        for attempt in range(1, 4):
+            queue_item.attempts = attempt
+            queue_item.status = 'processing'
+            db_session.commit()
+            
+            if attempt < 3:
+                queue_item.status = 'failed'
+                queue_item.error_message = f'Attempt {attempt} failed'
+            else:
+                queue_item.status = 'failed'
+                queue_item.error_message = 'Max attempts reached'
+        
+        db_session.commit()
+        
+        saved = db_session.query(EventValidationQueue)\
+            .filter_by(event_id='retry-event')\
+            .first()
+        assert saved.attempts == 3
+        assert saved.status == 'failed'
+        assert 'Max attempts' in saved.error_message
+
+
+@pytest.mark.database
+class TestResearchAgentModel:
+    """Test ResearchAgent model"""
+    
+    def test_agent_creation(self, db_session):
+        """Test creating research agents"""
+        agent = ResearchAgent(
+            id='test-agent',
+            name='Test Agent',
+            type='validator',
+            capabilities=['validation', 'enhancement'],
+            status='active'
+        )
+        
+        db_session.add(agent)
+        db_session.commit()
+        
+        saved = db_session.query(ResearchAgent).filter_by(id='test-agent').first()
+        assert saved is not None
+        assert saved.name == 'Test Agent'
+        assert 'validation' in saved.capabilities
+    
+    def test_agent_activity_tracking(self, db_session):
+        """Test tracking agent activities"""
+        agent = ResearchAgent(
+            id='activity-agent',
+            name='Activity Agent',
+            type='researcher'
+        )
+        
+        db_session.add(agent)
+        db_session.commit()
+        
+        # Log activities
+        activity1 = AgentActivity(
+            agent_id=agent.id,
+            activity_type='research',
+            target_id='event-1',
+            action='searched_sources',
+            result={'sources_found': 3},
+            duration_seconds=45
+        )
+        
+        activity2 = AgentActivity(
+            agent_id=agent.id,
+            activity_type='validation',
+            target_id='event-2',
+            action='validated_event',
+            result={'score': 0.85},
+            duration_seconds=30
+        )
+        
+        db_session.add(activity1)
+        db_session.add(activity2)
+        db_session.commit()
+        
+        # Update agent stats
+        agent.total_tasks = 2
+        agent.successful_tasks = 2
+        agent.last_active = datetime.utcnow()
+        db_session.commit()
+        
+        # Verify
+        saved_agent = db_session.query(ResearchAgent).filter_by(id=agent.id).first()
+        assert saved_agent.total_tasks == 2
+        assert len(saved_agent.activities) == 2

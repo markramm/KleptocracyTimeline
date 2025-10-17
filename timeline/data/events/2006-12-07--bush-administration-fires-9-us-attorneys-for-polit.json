@@ -1,0 +1,50 @@
+{
+  "id": "2006-12-07--bush-administration-fires-9-us-attorneys-for-polit",
+  "date": "2006-12-07",
+  "importance": 8,
+  "title": "Bush Administration Fires 9 U.S. Attorneys for Political Reasons",
+  "summary": "The Bush administration fired 9 U.S. attorneys in an unprecedented midterm purge for what investigators determined were largely political reasons. Seven prosecutors were ordered to resign on December 7, 2006, including David Iglesias (New Mexico), Carol Lam (Southern California), and John McKay (Washington). Two others, Todd Graves and Bud Cummins, were dismissed earlier in 2006. Internal emails revealed Karl Rove and Attorney General Alberto Gonzales orchestrated the firings to replace prosecutors with 'loyal Bushies.' Iglesias faced pressure from Senator Pete Domenici and Rep. Heather Wilson to file Democratic indictments before the 2006 election. Carol Lam was targeted after successfully prosecuting Republican Congressman Duke Cunningham and notifying DOJ about planned CIA search warrants. The Justice Department Inspector General's 2008 report found the process was 'arbitrary' and 'fundamentally flawed,' with 'substantial evidence' that partisan political considerations drove several firings. Gonzales testified to Congress he couldn't recall events 71 times and resigned in disgrace on September 17, 2007.",
+  "actors": [
+    "Alberto Gonzales",
+    "Karl Rove",
+    "David Iglesias",
+    "Carol Lam",
+    "George W. Bush",
+    "Congress"
+  ],
+  "tags": [
+    "obstruction-of-justice",
+    "political-prosecution",
+    "doj",
+    "gonzales",
+    "authoritarianism"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "An Investigation into the Removal of Nine U.S. Attorneys in 2006",
+      "url": "https://oig.justice.gov/sites/default/files/archive/special/s0809a/final.pdf",
+      "outlet": "DOJ Inspector General",
+      "date": "2008-09-29"
+    },
+    {
+      "title": "Timeline: Behind the Firing of Eight U.S. Attorneys",
+      "url": "https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys",
+      "outlet": "NPR",
+      "date": "2007-04-15"
+    },
+    {
+      "title": "Gonzales Resigns as Attorney General",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html",
+      "outlet": "Washington Post",
+      "date": "2007-08-27"
+    }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation"
+  ]
+}

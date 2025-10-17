@@ -1,0 +1,32 @@
+{
+  "id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
+  "title": "Musk Twitter/X Acquisition Speech Manipulation Network",
+  "description": "Investigate the systematic capture and weaponization of information infrastructure through Elon Musk's Twitter acquisition, including Saudi and foreign funding sources, coordination with oligarch networks, algorithmic manipulation of public discourse, and the transformation of speech platforms into political warfare tools.",
+  "priority": 9,
+  "estimated_events": 4,
+  "category": "information_warfare",
+  "tags": [
+    "social_media",
+    "oligarchy",
+    "foreign_influence",
+    "information_warfare",
+    "saudi_funding"
+  ],
+  "time_period": "2022-2025",
+  "estimated_importance": 9,
+  "status": "completed",
+  "blockers": [],
+  "next_steps": [
+    "Research Saudi investment details",
+    "Map oligarch coordination",
+    "Document algorithm changes",
+    "Track speech manipulation campaigns"
+  ],
+  "export_worthy": true,
+  "source_file": "claude_generated_research_priorities_2025.py",
+  "is_generated": true,
+  "created_date": "2025-09-10",
+  "research_notes": "Critical modern case of oligarchic capture of information infrastructure",
+  "events_created": 4,
+  "completion_date": "2025-01-15"
+}

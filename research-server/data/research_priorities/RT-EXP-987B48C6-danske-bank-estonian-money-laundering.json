@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-987B48C6-danske-bank-estonian-money-laundering",
+  "title": "Danske Bank Estonian Money Laundering Scandal",
+  "description": "Investigate the \u20ac200 billion money laundering operation through Danske Bank's Estonian branch involving Russian oligarchs.",
+  "expected_events": 4,
+  "importance": 8,
+  "tags": [
+    "money-laundering",
+    "russian-oligarchs",
+    "banking-scandal",
+    "money-laundering"
+  ],
+  "research_status": "not_started",
+  "time_period": "2007-2015"
+}

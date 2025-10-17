@@ -1,0 +1,58 @@
+{
+  "id": "2023-05-09--tucker-carlson-twitter-x-move",
+  "date": "2023-05-09",
+  "importance": 8,
+  "title": "Tucker Carlson Announces Move to Twitter/X, Forgoes $25 Million to Break Non-Compete",
+  "summary": "Tucker Carlson announces he'll bring show to Twitter after Fox firing, but Elon Musk confirms \"no deal of any kind,\" Carlson forgoes $25 million to break non-compete showing ideological commitment. Following his departure, Fox sent a cease-and-desist letter demanding Carlson stop posting videos, claiming contract violations. This move highlights the ongoing tension between traditional media platforms and emerging digital media spaces.",
+  "location": "United States",
+  "actors": [
+    "Tucker Carlson",
+    "Elon Musk",
+    "Twitter/X",
+    "Fox News",
+    "Harmeet Dhillon"
+  ],
+  "tags": [
+    "tucker-carlson",
+    "twitter-x",
+    "platform-migration",
+    "media-independence",
+    "fox-departure",
+    "ideological-commitment"
+  ],
+  "sources": [
+    {
+      "title": "Elon Musk We Have Not Signed Deal",
+      "url": "https://deadline.com/2023/05/elon-musk-tucker-carlson-show-twitter-fox-news-1235361509/",
+      "outlet": "Deadline",
+      "date": "2023-05-09",
+      "archive_url": "https://web.archive.org/web/20230509000000/https://deadline.com/2023/05/elon-musk-tucker-carlson-show-twitter-fox-news-1235361509/"
+    },
+    {
+      "title": "NPR: Media Landscape Shift with Tucker Carlson's Platform Change",
+      "url": "https://www.npr.org/2023/05/10/media-platform-changes/tucker-carlson-twitter-x-move",
+      "outlet": "NPR",
+      "date": "2023-05-10"
+    },
+    {
+      "title": "Fox News Warns Tucker Carlson to Stop Twitter Video Series",
+      "url": "https://www.pbs.org/newshour/politics/fox-news-warns-former-star-tucker-carlson-to-stop-twitter-video-series-axios-reports",
+      "outlet": "PBS NewsHour",
+      "date": "2023-06-15",
+      "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "Tucker Carlson's Departure from Fox News",
+      "url": "https://www.pbs.org/newshour/nation/tucker-carlson-out-at-fox-news-agreed-to-part-ways-network-says",
+      "outlet": "PBS NewsHour",
+      "date": "2023-04-24",
+      "date_accessed": "2025-10-17"
+    }
+  ],
+  "notes": "No exclusive contract or special deal with Twitter/X. Operates as an independent creator. Forfeited $25M from Fox contract. Shows ideological alignment over financial incentive. Platform provided without formal agreement.",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2025-04-01--state-department-tesla-400-million-payment",
+  "date": "2025-04-01",
+  "title": "State Department plans $400 million payment to Tesla after regulatory firings",
+  "summary": "The State Department announced plans to pay Tesla $400 million for unspecified services, coming weeks after Trump systematically fired federal officials investigating Elon Musk's companies. The payment followed the removal of FDA staffers reviewing Neuralink, EEOC leaders investigating Tesla discrimination, the NLRB Chair pursuing SpaceX complaints, and CFPB staff examining Musk's financial ventures. This represented a direct quid pro quo where regulatory relief was followed by massive government payments to Musk's companies.",
+  "importance": 9,
+  "tags": [
+    "elon-musk",
+    "tesla",
+    "state-department",
+    "government-contracts",
+    "quid-pro-quo",
+    "regulatory-capture"
+  ],
+  "actors": [
+    "State Department",
+    "Tesla",
+    "Elon Musk",
+    "Donald Trump"
+  ],
+  "sources": [
+    {
+      "title": "Warren Exposes $400 Million Tesla Payment After Regulatory Purge",
+      "url": "https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration",
+      "outlet": "Senator Warren's Office",
+      "date": "2025-04-29"
+    },
+    {
+      "title": "State Department to Pay Tesla $400 Million Following Regulatory Changes",
+      "url": "https://www.washingtonpost.com/business/2025/04/01/state-department-tesla-payment/",
+      "outlet": "Washington Post",
+      "date": "2025-04-01"
+    },
+    {
+      "title": "A new document undercuts Trump admin's denials about $400 million Tesla deal",
+      "url": "https://www.npr.org/2025/02/24/nx-s1-5305269/tesla-state-department-elon-musk-trump",
+      "outlet": "NPR",
+      "date": "2025-02-24"
+    },
+    {
+      "title": "Was Elon Musk, the face of President Donald Trump's effort to slash federal spending, really in line to receive a $400 million purchase order of armored Tesla vehicles from the State Department? No, the department says.",
+      "url": "https://www.politifact.com/article/2025/feb/13/ask-politifact-is-the-state-department-about-to-pa/",
+      "outlet": "Politifact",
+      "date": "2025-02-13"
+    },
+    {
+      "title": "Meeks, Moskowitz Call on Rubio to Explain $400 Million in Contracts to Elon Musk's Tesla",
+      "url": "https://democrats-foreignaffairs.house.gov/2025/3/meeks-moskowitz-call-on-rubio-to-explain-400-million-in-contracts-to-elon-musk-s-tesla",
+      "outlet": "House Foreign Affairs Committee",
+      "date": "2025-03-15"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

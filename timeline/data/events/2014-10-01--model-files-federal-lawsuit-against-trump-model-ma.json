@@ -1,0 +1,44 @@
+{
+  "id": "2014-10-01--model-files-federal-lawsuit-against-trump-model-ma",
+  "date": "2014-10-01",
+  "importance": 7,
+  "title": "Model Files Federal Lawsuit Against Trump Model Management for Wage Theft",
+  "summary": "Jamaican model Alexia Palmer files federal lawsuit against Trump Model Management seeking class-action status. Palmer's H-1B visa application promised $75,000 per year, but she received only $3,880.75 over three years after agency fees. Court documents reveal systematic exploitation: models charged excessive fees, housed in overcrowded apartments, and prevented from working elsewhere due to 'power of attorney' contracts giving Trump's agency total control.",
+  "actors": [
+    "Alexia Palmer",
+    "Trump Model Management",
+    "Donald Trump"
+  ],
+  "tags": [
+    "labor-violations",
+    "exploitation",
+    "legal-proceedings",
+    "immigration"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Former Trump model felt like 'slave' working for Donald's agency",
+      "url": "https://abcnews.go.com/Politics/trump-model-felt-slave-working-donalds-agency/story?id=37313993",
+      "outlet": "ABC News",
+      "date": "2016-03-02"
+    },
+    {
+      "title": "Trump model: I felt like a 'slave'",
+      "url": "https://money.cnn.com/2016/03/02/news/trump-model-lawsuit/",
+      "outlet": "CNN Money",
+      "date": "2016-03-02"
+    },
+    {
+      "title": "Former Trump Model Alexia Palmer Claims She Was Treated Like a Slave",
+      "url": "https://www.newsweek.com/donald-trump-alexia-palmer-model-432948",
+      "outlet": "Newsweek",
+      "date": "2016-03-02"
+    }
+  ],
+  "capture_lanes": [
+    "Judicial Capture",
+    "Legislative Capture",
+    "Financial Capture"
+  ]
+}

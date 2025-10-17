@@ -1,0 +1,51 @@
+{
+  "id": "2017-01-01--ice-hiring-collapse",
+  "date": "2017-01-01",
+  "importance": 6,
+  "title": "ICE hiring collapses despite 10,000 agent expansion order",
+  "summary": "Despite Trump's executive order 5 days after inauguration calling for 10,000 additional ICE officers, hiring collapsed 50% to just 371 deportation officers total in 2017. Congress denied specific funding for hiring expansion, providing only $15.7M for 65 agents instead of requested $186M for 1,000 officers.",
+  "location": "United States",
+  "actors": [
+    "ICE",
+    "Trump Administration"
+  ],
+  "tags": [
+    "administrative-failure",
+    "bureaucratic-resistance",
+    "immigration-enforcement",
+    "hiring-crisis"
+  ],
+  "sources": [
+    {
+      "title": "Donald Trump breaks promise to triple number of ICE enforcement officers",
+      "url": "https://www.politifact.com/truth-o-meter/promises/trumpometer/promise/1440/triple-ice-enforcement",
+      "outlet": "PolitiFact",
+      "date": "2019-12-03",
+      "archive_url": "https://web.archive.org/web/20250814000000/https://www.politifact.com/truth-o-meter/promises/trumpometer/promise/1440/triple-ice-enforcement/"
+    },
+    {
+      "title": "New Deportation Officer Hires Dropped in Half in Trump's First Year",
+      "url": "https://www.govexec.com/management/2018/02/new-deportation-officer-hires-dropped-half-trumps-first-year/146069/",
+      "outlet": "Government Executive",
+      "date": "2018-02-28"
+    },
+    {
+      "title": "Trump Raids Federal Government Ranks to Fix ICE Hiring Disaster",
+      "url": "https://www.thedailybeast.com/trump-raids-federal-government-ranks-to-fix-ice-hiring-disaster/",
+      "outlet": "The Daily Beast",
+      "date": "2018-03-15"
+    },
+    {
+      "title": "Trump's Plan To Hire 15,000 Border Patrol And ICE Agents Won't Be Easy",
+      "url": "https://www.npr.org/2017/02/23/516712980/trumps-plan-to-hire-15-000-border-patrol-and-ice-agents-wont-be-easy-to-fulfill",
+      "outlet": "NPR",
+      "date": "2017-02-23"
+    }
+  ],
+  "notes": "Executive order signed 5 days after inauguration Jan 2017. Congress denied funding - requested $76M for FY2017 capacity building, got $0. Requested $186M for 1,000 officers FY2018, got only $15.7M for 65 agents. Hiring dropped from ~740 officers in 2016 to 371 in 2017. Administration resorted to raiding other federal agencies for personnel to meet enforcement goals.",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Executive Power Expansion"
+  ]
+}

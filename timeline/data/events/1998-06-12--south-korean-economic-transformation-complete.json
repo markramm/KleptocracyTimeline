@@ -1,0 +1,53 @@
+{
+  "id": "1998-06-12--south-korean-economic-transformation-complete",
+  "date": "1998-06-12",
+  "title": "South Korea Completes IMF-Mandated Economic Restructuring",
+  "summary": "South Korea finalizes comprehensive economic reforms mandated by the IMF, including massive corporate restructuring, labor market deregulation, and opening financial markets to foreign investment. The reforms fundamentally transformed South Korea's economic model through key changes: financial sector transparency, labor market flexibility, capital account liberalization, and macroeconomic policy adjustments. These structural reforms enabled South Korea's rapid economic recovery after the 1997 Asian Financial Crisis.",
+  "importance": 9,
+  "actors": [
+    "IMF",
+    "World Bank",
+    "South Korean Government",
+    "Chaebol Corporations",
+    "US Treasury Department"
+  ],
+  "tags": [
+    "asian-financial-crisis",
+    "structural-adjustment",
+    "economic-shock",
+    "corporate-transformation",
+    "imf-intervention",
+    "financial-liberalization"
+  ],
+  "sources": [
+    {
+      "outlet": "International Monetary Fund",
+      "title": "Press Release: IMF Approves SDR 15.5 Billion Stand-by Credit for Korea",
+      "url": "https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr9755",
+      "date_published": "1997-12-04"
+    },
+    {
+      "outlet": "IMF Working Papers",
+      "title": "Korea's Economic Adjustments Under the IMF-supported Program",
+      "url": "https://www.imf.org/external/np/speeches/1998/012198a.pdf",
+      "date_published": "1998-01-21"
+    },
+    {
+      "outlet": "Asian Development Bank Institute",
+      "title": "ADBI Working Paper: Twenty Years After the Financial Crisis",
+      "url": "https://www.adb.org/sites/default/files/publication/378801/adbi-wp790.pdf",
+      "date_published": "2018-12-01"
+    },
+    {
+      "outlet": "University of Notre Dame",
+      "title": "The 1997 Financial Crisis and Governance: The Case of South Korea",
+      "url": "https://kellogg.nd.edu/sites/default/files/old_files/documents/272.pdf",
+      "date_published": "1998-06-12"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

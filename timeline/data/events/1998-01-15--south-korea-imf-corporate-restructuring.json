@@ -1,0 +1,62 @@
+{
+  "id": "1998-01-15--south-korea-imf-corporate-restructuring",
+  "date": "1998-01-15",
+  "title": "IMF Forces Massive Corporate Restructuring in South Korea",
+  "summary": "The International Monetary Fund implements a 7 billion bailout package for South Korea, mandating sweeping economic reforms. This included forced corporate restructuring of the chaebol system, financial sector liberalization, and opening markets to foreign investors. The conditions resulted in liquidating insolvent banks, breaking up corporate conglomerates, and fundamentally transforming South Korea's economic structure through neoliberal policy interventions. The crisis exposed the deep structural weaknesses in South Korea's economic model, with the IMF requiring comprehensive reforms: banks were consolidated, chaebols were forced to reduce debt-to-equity ratios from over 300% to around 172.9%, and eight of the top thirty chaebols were bankrupted, leading to significant economic restructuring.",
+  "importance": 9,
+  "status": "confirmed",
+  "actors": [
+    "International Monetary Fund",
+    "South Korean Government",
+    "Chaebol Corporations",
+    "World Bank",
+    "Asian Development Bank"
+  ],
+  "sources": [
+    {
+      "outlet": "IMF",
+      "title": "Korean Crisis and Recovery Analysis",
+      "url": "https://www.imf.org/external/np/seminars/eng/2002/cpem/pdf/kihwan.pdf",
+      "date_accessed": "2025-09-25"
+    },
+    {
+      "outlet": "The Korea Herald",
+      "title": "From 'miracle to debacle': Painful 'IMF days' of 1997-1998",
+      "url": "https://www.koreaherald.com/article/3212370",
+      "date_accessed": "2025-09-25"
+    },
+    {
+      "outlet": "Korea Economic Institute of America",
+      "title": "South Korea 20 Years After the IMF Rescue Package",
+      "url": "https://keia.org/the-peninsula/south-korea-20-years-after-the-imf-rescue-package/",
+      "date_accessed": "2025-10-15"
+    },
+    {
+      "outlet": "Columbia University Business School",
+      "title": "Economic Crisis and Chaebol Reform in Korea",
+      "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/PFS/APEC_New/PSLee.PDF",
+      "date_accessed": "2025-10-15"
+    },
+    {
+      "outlet": "Stanford University",
+      "title": "Korea and the Asian Financial Crisis",
+      "url": "https://web.stanford.edu/class/e297c/trade_environment/global/hkorea.html",
+      "date_accessed": "2025-10-15"
+    }
+  ],
+  "tags": [
+    "imf",
+    "structural-adjustment",
+    "economic-shock-therapy",
+    "asian-financial-crisis",
+    "south-korea",
+    "neoliberal-reform",
+    "corporate-restructuring"
+  ],
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Economic System Transformation"
+  ],
+  "validation_notes": "Comprehensive verification of IMF bailout conditions, economic impact, and chaebol restructuring from multiple academic, institutional, and government sources. Enhanced summary to reflect detailed context of economic transformation and structural reforms."
+}

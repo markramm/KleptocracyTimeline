@@ -1,0 +1,75 @@
+{
+  "actors": [
+    "Elon Musk",
+    "X (Twitter)"
+  ],
+  "capture_lanes": [
+    "Information & Media Control"
+  ],
+  "citations": [
+    {
+      "url": "https://x.com/elonmusk/status/1640490130543771650",
+      "archived": "https://nitter.net/elonmusk/status/1640490130543771650"
+    },
+    {
+      "url": "https://x.com/elonmusk/status/1640502698549075972",
+      "archived": "https://nitter.net/elonmusk/status/1640502698549075972"
+    },
+    {
+      "url": "https://www.theverge.com/2023/3/27/23659351/elon-musk-twitter-for-you-verified-accounts-polls",
+      "archived": "https://web.archive.org/web/20240101000000/https://www.theverge.com/2023/3/27/23659351/elon-musk-twitter-for-you-verified-accounts-polls"
+    },
+    {
+      "url": "https://www.vanityfair.com/news/2023/03/elon-musk-getting-everyone-pay-for-twitter",
+      "archived": "https://web.archive.org/web/20240101000000/https://www.vanityfair.com/news/2023/03/elon-musk-getting-everyone-pay-for-twitter"
+    }
+  ],
+  "date": "2023-03-27",
+  "id": "2023-03-27--x-verified-priority",
+  "importance": 6,
+  "location": "Online",
+  "sources": [
+    {
+      "title": "X Updates Recommendation Algorithm to Prioritize Verified Accounts",
+      "url": "https://x.com/elonmusk/status/1640345967024504832",
+      "outlet": "X/Twitter",
+      "date": "2023-03-27"
+    },
+    {
+      "title": "Twitter Blue Subscribers Get Boost in For You Timeline",
+      "url": "https://techcrunch.com/2023/03/27/twitter-blue-subscribers-for-you-timeline-boost",
+      "outlet": "TechCrunch",
+      "date": "2023-03-27"
+    },
+    {
+      "title": "Musk says Twitter will soon only show verified accounts in \"For You\" timeline",
+      "url": "https://www.axios.com/2023/03/28/musk-twitter-verified-accounts-for-you-timeline",
+      "outlet": "Axios",
+      "date": "2023-03-28"
+    },
+    {
+      "title": "Elon Musk says only verified Twitter users to show up in \"For You\" tab",
+      "url": "https://www.cnbc.com/2023/03/28/elon-musk-says-only-verified-twitter-users-to-show-up-in-for-you-tab.html",
+      "outlet": "CNBC",
+      "date": "2023-03-28"
+    },
+    {
+      "title": "Elon Musk Says Only Verified Twitter Accounts Will Appear in For You Timeline Starting in April",
+      "url": "https://variety.com/2023/digital/news/elon-musk-twitter-verified-accounts-for-you-recommendations-1235566031/",
+      "outlet": "Variety",
+      "date": "2023-03-28"
+    }
+  ],
+  "status": "confirmed",
+  "summary": "Elon Musk stated that only verified (paid) accounts would be eligible for 'For You' recommendations and for voting in polls, tying organic reach to paid verification. This represented a fundamental change in Twitter's algorithmic distribution of content, effectively creating a pay-to-play information ecosystem.",
+  "tags": [
+    "algorithms",
+    "platform-policy",
+    "ranking",
+    "x-twitter",
+    "subscriptions",
+    "pay-to-play",
+    "media-control"
+  ],
+  "title": "X prioritizes verified accounts for recommendations and polls"
+}

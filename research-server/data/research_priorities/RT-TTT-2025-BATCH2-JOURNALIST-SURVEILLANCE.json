@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-JOURNALIST-SURVEILLANCE",
+  "title": "TTT Batch 2: Media Suppression Through Surveillance and Intimidation",
+  "description": "Systematic analysis of media suppression through surveillance and intimidation based on Trump Tyranny Tracker documentation. Found 57 instances across articles 46-90. Research journalist surveillance programs, press credential revocation, media access restriction, intimidation campaigns, and press freedom violations. Focus on specific journalists targeted, surveillance methods, and coordination mechanisms.",
+  "expected_events": 13,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "media-suppression",
+    "journalist-surveillance",
+    "systematic-corruption"
+  ],
+  "timeline_focus": "2017-2025",
+  "actors": [
+    "White House Press Office",
+    "Secret Service",
+    "Intelligence Agencies",
+    "Media Organizations"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348814",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

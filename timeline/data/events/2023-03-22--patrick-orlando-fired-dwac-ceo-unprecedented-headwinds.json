@@ -1,0 +1,51 @@
+{
+  "id": "2023-03-22--patrick-orlando-fired-dwac-ceo-unprecedented-headwinds",
+  "date": "2023-03-22",
+  "title": "Digital World Acquisition Corp Fires CEO Patrick Orlando Amid SEC Investigation",
+  "summary": "Digital World Acquisition Corp (DWAC) terminated CEO Patrick Orlando's employment, citing \"unprecedented headwinds\" that necessitated a leadership change. The board appointed Eric Swider as interim CEO after investigations by the SEC and federal prosecutors into potential securities fraud related to pre-IPO merger discussions with Trump Media & Technology Group. Orlando had been a key figure in the proposed SPAC merger to take Truth Social public, but remained a director of the company after his removal as CEO.",
+  "tags": [
+    "dwac",
+    "patrick-orlando",
+    "truth-social",
+    "spac-fraud",
+    "sec-investigation",
+    "trump-media",
+    "corporate-governance"
+  ],
+  "actors": [
+    "Patrick Orlando",
+    "Digital World Acquisition Corp",
+    "DWAC",
+    "Trump Media & Technology Group",
+    "SEC",
+    "Eric Swider"
+  ],
+  "sources": [
+    {
+      "title": "Trump-linked Digital World Acquisition Corp fires CEO Patrick Orlando",
+      "url": "https://www.cnbc.com/2023/03/22/trump-linked-digital-world-acquisition-corp-fires-ceo.html",
+      "outlet": "CNBC",
+      "date": "2023-03-22"
+    },
+    {
+      "title": "Trump Media Merger Partner DWAC Fires CEO Patrick Orlando",
+      "url": "https://variety.com/2023/digital/news/trump-media-merger-dwac-fires-ceo-patrick-orlando-1235561215/",
+      "outlet": "Variety",
+      "date": "2023-03-22"
+    },
+    {
+      "title": "DWAC fires its CEO amid stalled deal to buy Trump's Truth Social",
+      "url": "https://www.axios.com/2023/03/22/dwac-fires-ceo-trump-truth-social-spac",
+      "outlet": "Axios",
+      "date": "2023-03-22"
+    }
+  ],
+  "importance": 8,
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Financial Capture",
+    "Intelligence Penetration"
+  ]
+}

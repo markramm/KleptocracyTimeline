@@ -1,0 +1,43 @@
+{
+  "id": "2024-05-15--grok-ai-safety-protocol-updates",
+  "date": "2024-05-15",
+  "title": "xAI Announces Enhanced Safety Protocols for Grok Chatbot at AI Seoul Summit",
+  "summary": "At the AI Seoul Summit in May 2024, xAI committed to the Frontier AI Safety Commitments, agreeing to provide transparency around model capabilities, risk assessments, and potential inappropriate use cases. However, the company faced significant criticism for not fully disclosing its safety framework, with experts calling its approach 'irresponsible'. The commitments include improved content filtering, bias detection, and stricter information verification processes for the Grok AI chatbot.",
+  "importance": 8,
+  "actors": [
+    "Elon Musk",
+    "xAI",
+    "AI Ethics Consultants",
+    "Boaz Barak",
+    "Gina Raimondo"
+  ],
+  "sources": [
+    {
+      "title": "Grok AI Safety Protocol Enhancements",
+      "url": "https://techcrunch.com/2024/05/15/xai-grok-safety-updates/",
+      "outlet": "TechCrunch"
+    },
+    {
+      "title": "Frontier AI Safety Commitments, AI Seoul Summit 2024",
+      "url": "https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024",
+      "outlet": "UK Government"
+    },
+    {
+      "title": "Elon Musk's xAI Fails to Publish Promised Safety Framework",
+      "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
+      "outlet": "Fortune"
+    }
+  ],
+  "tags": [
+    "ai-safety",
+    "tech-ethics",
+    "regulatory-compliance",
+    "international-ai-governance"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Regulatory Capture",
+    "Tech Governance"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1982-01-01--federalist-society-founding-conservative-legal-movement",
+  "date": "1982-01-01",
+  "title": "Federalist Society Founded to Capture Conservative Legal Pipeline",
+  "summary": "Yale Law School students Steven Calabresi, David McIntosh, Lee Liberman Otis, Spencer Abraham, and Peter Keisler founded the Federalist Society in 1982 to challenge liberal ideology in elite law schools. With initial funding of $24,000 from the John M. Olin Foundation, the organization created a systematic pipeline for conservative legal talent. Their first event in April 1982 was a symposium on federalism featuring prominent conservative legal scholars. The Society quickly grew to over 5,000 student members across 145 law schools, becoming the most successful judicial capture operation in modern American history.",
+  "importance": 9,
+  "location": "New Haven, CT",
+  "actors": [
+    "Steven Calabresi",
+    "David McIntosh",
+    "Lee Liberman Otis",
+    "Spencer Abraham",
+    "Peter Keisler",
+    "Yale Law School"
+  ],
+  "tags": [
+    "federalist-society",
+    "conservative-legal-movement",
+    "judicial-pipeline",
+    "originalism",
+    "legal-education",
+    "judicial-capture"
+  ],
+  "capture_lanes": [
+    "Judicial Capture & Corruption",
+    "Academic Capture"
+  ],
+  "sources": [
+    {
+      "outlet": "Yale Daily News",
+      "title": "How the Federalist Society shaped America's judiciary",
+      "url": "https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Founded by Steven Calabresi, David McIntosh, Lee Liberman Otis in 1982",
+        "First event held in April 1982 at Yale Law School",
+        "Initial funding of $24,000 from John M. Olin Foundation and Institute for Educational Affairs"
+      ]
+    },
+    {
+      "outlet": "Yale University News",
+      "title": "Federalist Society Annual Symposium Details",
+      "url": "https://news.yale.edu/2002/02/13/federalist-society-hold-annual-symposium-law-and-truth",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Founded by five individuals including Calabresi, McIntosh, Liberman Otis, Abraham, Keisler",
+        "Purpose: Create forum for conservatives and libertarians to reform legal order",
+        "Grew to 5,000+ student members across 145 law schools"
+      ]
+    },
+    {
+      "title": "Federalist Society - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Federalist_Society",
+      "outlet": "Wikipedia",
+      "verified": true,
+      "key_facts_confirmed": [
+        "Founded in 1982 by Yale Law School students",
+        "Founded by Steven Calabresi, David McIntosh, and Lee Liberman Otis",
+        "Aimed to challenge liberal ideology in elite law schools"
+      ]
+    }
+  ],
+  "status": "confirmed"
+}

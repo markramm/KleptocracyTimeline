@@ -1,0 +1,71 @@
+{
+  "id": "2021-12-31--rogan-malone-mass-formation-psychosis",
+  "date": "2021-12-31",
+  "importance": 9,
+  "title": "Rogan Hosts Vaccine Skeptic Dr. Robert Malone Who Claims \"Mass Formation Psychosis\"",
+  "summary": "Dr. Robert Malone on Rogan's podcast falsely claims vaccines increase COVID risk and compares pandemic response to Nazi Germany through a discredited psychological theory, reaching 11 million listeners. The episode sparked major controversy, with 270 medical professionals demanding Spotify take action against medical misinformation, and leading to artist boycotts and platform responses.",
+  "location": "United States",
+  "actors": [
+    "Joe Rogan",
+    "Dr. Robert Malone",
+    "Spotify",
+    "The Joe Rogan Experience"
+  ],
+  "tags": [
+    "covid-misinformation",
+    "vaccine-disinformation",
+    "mass-formation-psychosis",
+    "podcast-influence",
+    "medical-misinformation",
+    "nazi-comparison"
+  ],
+  "sources": [
+    {
+      "title": "270 doctors demand Spotify take action over Joe Rogan vaccine misinformation",
+      "url": "https://www.cnn.com/2022/01/13/tech/spotify-joe-rogan-doctors-covid-vaccine/index.html",
+      "outlet": "CNN",
+      "date": "2022-01-13",
+      "archive_url": "https://web.archive.org/web/20220113000000/https://www.cnn.com/2022/01/13/tech/spotify-joe-rogan-doctors-covid-vaccine/index.html"
+    },
+    {
+      "title": "Joe Rogan's Malone interview breaks the internet",
+      "url": "https://www.politifact.com/article/2022/jan/06/who-robert-malone-joe-rogans-guest-was-vaccine-sc/",
+      "outlet": "PolitiFact",
+      "date": "2022-01-06",
+      "archive_url": "https://web.archive.org/web/20220106000000/https://www.politifact.com/article/2022/jan/06/who-robert-malone-joe-rogans-guest-was-vaccine-sc/"
+    },
+    {
+      "title": "Mass Formation Psychosis and the Need for a DSM of Social Psychopathologies",
+      "url": "https://www.psychiatrictimes.com/view/mass-formation-psychosis-and-the-need-for-a-dsm-of-social-psychopathologies",
+      "outlet": "Psychiatric Times",
+      "date": "2022-01-10",
+      "archive_url": "https://web.archive.org/web/20220110000000/https://www.psychiatrictimes.com/view/mass-formation-psychosis-and-the-need-for-a-dsm-of-social-psychopathologies"
+    },
+    {
+      "title": "Scientists, Doctors Call on Spotify to Implement Misinformation Policy Over Claims on Joe Rogan Show",
+      "url": "https://www.techpolicy.press/scientists-doctors-call-on-spotify-to-implement-misinformation-policy-over-claims-on-joe-rogan-show/",
+      "outlet": "TechPolicy.Press",
+      "date": "2022-01-15",
+      "archive_url": "https://web.archive.org/web/20220115000000/https://www.techpolicy.press/scientists-doctors-call-on-spotify-to-implement-misinformation-policy-over-claims-on-joe-rogan-show/"
+    },
+    {
+      "title": "What the Joe Rogan podcast controversy says about the online misinformation ecosystem",
+      "url": "https://www.npr.org/2022/01/21/1074442185/joe-rogan-doctor-covid-podcast-spotify-misinformation",
+      "outlet": "NPR",
+      "date": "2022-01-21",
+      "archive_url": ""
+    },
+    {
+      "title": "Fighting Misinformation With Science Journalism",
+      "url": "https://www.npr.org/2022/03/09/1085425659/fighting-misinformation-with-science-journalism",
+      "outlet": "NPR",
+      "date": "2022-03-09",
+      "archive_url": ""
+    }
+  ],
+  "notes": "Malone claimed he invented mRNA vaccines (false). Said vaccines make COVID worse. Compared US to Nazi Germany. 270 doctors wrote open letter. Neil Young, Joni Mitchell pulled music from Spotify in protest.",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Systematic Corruption"
+  ]
+}

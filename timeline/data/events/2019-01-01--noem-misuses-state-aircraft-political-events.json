@@ -1,0 +1,50 @@
+{
+  "id": "2019-01-01--noem-misuses-state-aircraft-political-events",
+  "date": "2019-01-01",
+  "title": "Noem uses state aircraft for political events violating state law",
+  "summary": "Governor Kristi Noem used state airplanes to travel to political events hosted by organizations including the National Rifle Association and Republican Jewish Coalition, violating South Dakota law that bars state aircraft from being used for anything other than state business. Democratic lawmakers sought investigation, but the ethics board ultimately dismissed the complaint due to unclear legal definitions of 'state business'.",
+  "importance": 7,
+  "tags": [
+    "corruption",
+    "misuse-of-resources",
+    "kristi-noem",
+    "south-dakota",
+    "ethics-violation",
+    "state-aircraft"
+  ],
+  "actors": [
+    "Kristi Noem",
+    "NRA",
+    "Republican Jewish Coalition"
+  ],
+  "sources": [
+    {
+      "title": "Ethics board says South Dakota Gov. Kristi Noem may have engaged in misconduct",
+      "url": "https://www.pbs.org/newshour/politics/ethics-board-says-south-dakota-gov-kristi-noem-may-have-engaged-in-misconduct",
+      "outlet": "PBS NewsHour",
+      "date": "2022-08-22"
+    },
+    {
+      "title": "South Dakota Governor Kristi Noem may have engaged in misconduct, ethics board says",
+      "url": "https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/",
+      "outlet": "CBS News",
+      "date": "2022-08-22"
+    },
+    {
+      "title": "GOP governor Kristi Noem used state aircraft for tens of thousands of dollars in political travel",
+      "url": "https://www.alternet.org/2021/02/kristi-noem-2650540846",
+      "outlet": "Alternet.org",
+      "date": "2021-02-01"
+    },
+    {
+      "title": "Exclusive: GOP governor Kristi Noem, potential Trump successor, used state aircraft for tens of thousands of dollars in political travel",
+      "url": "https://www.rawstory.com/kristi-noem-2650536372/",
+      "outlet": "Raw Story",
+      "date": "2021-02-01"
+    }
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Intelligence Penetration"
+  ]
+}

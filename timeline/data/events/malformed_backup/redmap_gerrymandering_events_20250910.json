@@ -1,0 +1,169 @@
+[
+  {
+    "id": "redmap-project-launch-2010-01-21",
+    "title": "REDMAP Project Launched Following Citizens United Decision",
+    "date": "2010-01-21",
+    "description": "The Republican State Leadership Committee, led by Chris Jankowski, launches the Redistricting Majority Project (REDMAP) immediately following the Supreme Court's Citizens United v. FEC decision that removed restrictions on corporate political spending. The project systematically targets 107 state legislative races across 16 states to gain control of redistricting following the 2010 census. With newly available corporate funding, REDMAP allocates $30 million to flip state legislatures in key swing states including Pennsylvania, Ohio, Michigan, Wisconsin, and North Carolina. The strategy specifically exploits the timing of the 2010 midterm election cycle, recognizing that control of state legislatures would enable Republicans to redraw congressional district maps for the following decade. Ed Gillespie, former counselor to President George W. Bush, serves as RSLC chairman, while Karl Rove provides strategic coordination through American Crossroads. The project represents an unprecedented systematic approach to gerrymandering, leveraging advanced mapping software including Caliper Corporation's Maptitude to achieve precise partisan advantage.",
+    "category": "Electoral Manipulation",
+    "tags": ["gerrymandering", "redistricting", "corporate influence", "Citizens United", "state capture", "electoral fraud"],
+    "importance": "high",
+    "priority_id": "REDMAP Project Gerrymandering 2010",
+    "sources": [
+      {
+        "title": "REDMAP - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/REDMAP",
+        "type": "reference"
+      },
+      {
+        "title": "The RSLC Redistricting Majority Project – REDMAP",
+        "url": "https://www.redistrictingmajorityproject.com/",
+        "type": "official"
+      },
+      {
+        "title": "'Gerrymandering On Steroids': How Republicans Stacked The Nation's Statehouses",
+        "url": "https://www.wbur.org/hereandnow/2016/07/19/gerrymandering-republicans-redmap",
+        "type": "news"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Republican State Leadership Committee",
+        "role": "primary_actor",
+        "type": "organization"
+      },
+      {
+        "name": "Chris Jankowski",
+        "role": "executive_director",
+        "type": "individual"
+      },
+      {
+        "name": "Ed Gillespie",
+        "role": "chairman",
+        "type": "individual"
+      },
+      {
+        "name": "Karl Rove",
+        "role": "strategic_coordinator",
+        "type": "individual"
+      },
+      {
+        "name": "American Crossroads",
+        "role": "funding_source",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "id": "redmap-election-victory-2010-11-02",
+    "title": "REDMAP Achieves Massive State Legislature Takeover in 2010 Elections",
+    "date": "2010-11-02",
+    "description": "The REDMAP project achieves unprecedented success in the 2010 midterm elections, fundamentally altering the balance of power in state legislatures across America. Prior to Election Day, Democrats controlled 60 state legislative chambers while Republicans controlled 36. After the elections, the balance flipped dramatically with Republicans controlling 55 chambers and Democrats reduced to 40. Republicans gained control of 21 legislative bodies and now hold majorities in both chambers in 25 states, up from 14. The project's targeted investments prove devastatingly effective: $1 million in Michigan results in a 20-seat pickup; $1 million in Ohio secures Republican control of the House; $1.1 million in Wisconsin flips both chambers; and over $1.2 million in North Carolina, combined with Art Pope's $2.3 million investment, delivers Republican control for the first time since Reconstruction. This systematic takeover gives Republicans control of the redistricting process in 10 of the 15 states that will gain or lose U.S. House seats following the 2010 census, affecting 193 of 435 total House seats including all seats from the swing states of Ohio, Pennsylvania, Michigan, and Wisconsin.",
+    "category": "Electoral Manipulation",
+    "tags": ["gerrymandering", "state capture", "election results", "redistricting control", "systematic manipulation"],
+    "importance": "critical",
+    "priority_id": "REDMAP Project Gerrymandering 2010",
+    "sources": [
+      {
+        "title": "2012 REDMAP Summary Report",
+        "url": "https://www.redistrictingmajorityproject.com/?p=646",
+        "type": "official"
+      },
+      {
+        "title": "In 2010, Republicans 'Weaponized' Gerrymandering. Here's How They Did It.",
+        "url": "https://billmoyers.com/story/in-2010-republicans-weaponized-gerrymandering-heres-how-they-did-it/",
+        "type": "analysis"
+      },
+      {
+        "title": "How The GOP's Project REDMAP Helped Them Fix Election Wins Until 2020",
+        "url": "https://allthatsinteresting.com/redmap-project",
+        "type": "investigation"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Republican State Leadership Committee",
+        "role": "coordinating_organization",
+        "type": "organization"
+      },
+      {
+        "name": "Art Pope",
+        "role": "major_donor_north_carolina",
+        "type": "individual"
+      },
+      {
+        "name": "Koch Brothers Network",
+        "role": "funding_source",
+        "type": "organization"
+      },
+      {
+        "name": "State Republican Parties",
+        "role": "implementation_partners",
+        "type": "organization"
+      },
+      {
+        "name": "Caliper Corporation",
+        "role": "mapping_technology_provider",
+        "type": "organization"
+      }
+    ]
+  },
+  {
+    "id": "redmap-gerrymandering-impact-2012-11-06",
+    "title": "REDMAP Gerrymandering Delivers Disproportionate 2012 Election Results",
+    "date": "2012-11-06",
+    "description": "The first election under REDMAP's gerrymandered congressional maps demonstrates the devastating effectiveness of systematic redistricting manipulation. Despite Democratic House candidates receiving 1.4 million more votes nationally than Republicans, the GOP retains control of the House with a 234-201 majority. The gerrymandered maps produce extreme distortions in key swing states: In Pennsylvania, Democrats win 51% of votes but secure only 28% of legislative seats and lose the congressional delegation 13-5 despite casting 83,000 more votes for Democratic candidates. Wisconsin Democrats win 53% of statewide votes but capture only 36 of 99 Assembly seats, while Obama wins the state by nearly 7 points yet Republicans maintain a 5-3 congressional majority. Michigan Democrats win the majority of votes but Republicans secure 9 of 14 House seats. Ohio Republicans capture 75% of congressional seats with just over 50% of the vote. These results represent the culmination of REDMAP's $30 million investment and establish a decade-long pattern of minority rule through gerrymandering. The systematic nature of these distortions triggers numerous court challenges, with Pennsylvania's map later declared unconstitutional and Wisconsin's becoming the basis for Gill v. Whitford Supreme Court case.",
+    "category": "Electoral Manipulation",
+    "tags": ["gerrymandering", "election results", "minority rule", "court challenges", "democratic backsliding", "vote dilution"],
+    "importance": "critical",
+    "priority_id": "REDMAP Project Gerrymandering 2010",
+    "sources": [
+      {
+        "title": "The United States of REDMAP",
+        "url": "https://www.aapf.org/theforum-united-states-of-redmap",
+        "type": "analysis"
+      },
+      {
+        "title": "Pennsylvania Redistricting Lawsuit",
+        "url": "https://pubintlaw.org/cases-and-projects/pennsylvania-redistricting-lawsuit/",
+        "type": "legal"
+      },
+      {
+        "title": "Redistricting in Wisconsin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Redistricting_in_Wisconsin",
+        "type": "reference"
+      },
+      {
+        "title": "Redistricting Report Card",
+        "url": "https://gerrymander.princeton.edu/redistricting-report-card/",
+        "type": "academic"
+      }
+    ],
+    "actors": [
+      {
+        "name": "Republican-controlled State Legislatures",
+        "role": "map_drawers",
+        "type": "organization"
+      },
+      {
+        "name": "League of Women Voters of Pennsylvania",
+        "role": "plaintiff_challenging_gerrymandering",
+        "type": "organization"
+      },
+      {
+        "name": "Federal Courts",
+        "role": "constitutional_arbiters",
+        "type": "institution"
+      },
+      {
+        "name": "Democratic Voters",
+        "role": "victims_of_vote_dilution",
+        "type": "group"
+      },
+      {
+        "name": "Pennsylvania Supreme Court",
+        "role": "constitutional_enforcement",
+        "type": "institution"
+      }
+    ]
+  }
+]

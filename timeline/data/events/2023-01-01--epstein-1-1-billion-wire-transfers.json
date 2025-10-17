@@ -1,0 +1,46 @@
+{
+  "id": "2023-01-01--epstein-1-1-billion-wire-transfers",
+  "date": "2023-01-01",
+  "importance": 8,
+  "title": "Treasury records reveal $1.1 billion in Epstein wire transfers through Russian banks",
+  "summary": "Treasury Department records obtained by Senator Ron Wyden reveal $1.1 billion in wire transfers through just one Epstein account, with \"hundreds of millions\" flowing through now-sanctioned Russian banks, appearing \"correlated to the movement of women or girls around the world.\"",
+  "location": "United States",
+  "actors": [
+    "Jeffrey Epstein",
+    "Senator Ron Wyden",
+    "Treasury Department",
+    "Russian banks"
+  ],
+  "tags": [
+    "money-laundering",
+    "russian-operations",
+    "epstein-network",
+    "human-trafficking"
+  ],
+  "capture_lanes": [
+    "Epstein Network & Kompromat",
+    "Financial Corruption & Kleptocracy"
+  ],
+  "sources": [
+    {
+      "title": "As Trump Sits on Key Epstein Files, Wyden Lays Out \"Follow the Money\" Investigation for DOJ",
+      "url": "https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj",
+      "outlet": "Senate Finance Committee",
+      "date": "2025-07-23"
+    },
+    {
+      "title": "As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed Epstein File",
+      "url": "https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file",
+      "outlet": "Senate Finance Committee",
+      "date": "2025-07-17"
+    },
+    {
+      "title": "A Democratic Senator was already investigating Jeffrey Epstein's finances",
+      "url": "https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances",
+      "outlet": "NPR",
+      "date": "2025-07-25"
+    }
+  ],
+  "notes": "Massive financial flows correlated with international trafficking operations",
+  "status": "confirmed"
+}

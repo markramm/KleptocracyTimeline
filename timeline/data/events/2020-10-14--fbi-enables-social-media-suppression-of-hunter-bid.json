@@ -1,0 +1,56 @@
+{
+  "id": "2020-10-14--fbi-enables-social-media-suppression-of-hunter-bid",
+  "date": "2020-10-14",
+  "importance": 8,
+  "title": "FBI Enables Social Media Suppression of Hunter Biden Laptop Story Despite Knowing Authenticity",
+  "summary": "Twitter and Facebook suppressed the New York Post's Hunter Biden laptop story after months of FBI warnings about potential Russian 'hack-and-leak' operations. The FBI had possessed the laptop since December 2019 and confirmed its authenticity, but when social media companies asked directly about it, FBI officials responded 'no comment,' allowing platforms to conclude it was Russian disinformation. Twitter's Yoel Roth testified the FBI warned during weekly meetings to expect 'hack-and-leak operations' involving Hunter Biden 'likely in October.' House testimony revealed FBI personnel warning about Russian operations knew the laptop was real. Twitter blocked sharing entirely while Facebook reduced circulation by 95%. Executives later called suppression a 'mistake.' The laptop was used as evidence in Hunter Biden's 2024 criminal conviction.",
+  "actors": [
+    "FBI",
+    "Twitter",
+    "Facebook",
+    "Yoel Roth",
+    "Hunter Biden",
+    "New York Post"
+  ],
+  "tags": [
+    "censorship",
+    "election-interference",
+    "fbi",
+    "social-media",
+    "disinformation"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "title": "Testimony Reveals FBI Employees Who Warned Social Media Companies Knew Hunter Biden Laptop Wasn't Russian Disinformation",
+      "url": "https://judiciary.house.gov/media/press-releases/testimony-reveals-fbi-employees-who-warned-social-media-companies-about-hack",
+      "outlet": "House Judiciary Committee",
+      "date": "2023-07-10"
+    },
+    {
+      "title": "Former Twitter execs tell House committee that removal of Hunter Biden laptop story was a mistake",
+      "url": "https://abcnews.go.com/US/former-twitter-execs-house-committee-removal-hunter-biden/story?id=96979014",
+      "outlet": "ABC News",
+      "date": "2023-02-08"
+    },
+    {
+      "title": "Twitter execs acknowledge mistakes with Hunter Biden laptop story but say no government involvement",
+      "url": "https://www.cnn.com/2023/02/08/politics/twitter-hearing-house-oversight/index.html",
+      "outlet": "CNN",
+      "date": "2023-02-08"
+    },
+    {
+      "title": "FBI Spent a Year Preparing Platforms to Censor Biden Story",
+      "url": "https://www.nationalreview.com/news/fbi-spent-a-year-preparing-platforms-to-censor-biden-story-withheld-info-on-laptops-authenticity/",
+      "outlet": "National Review",
+      "date": "2023-07-10"
+    }
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Legislative Capture",
+    "Intelligence Penetration",
+    "Electoral Manipulation",
+    "Executive Power Expansion"
+  ]
+}

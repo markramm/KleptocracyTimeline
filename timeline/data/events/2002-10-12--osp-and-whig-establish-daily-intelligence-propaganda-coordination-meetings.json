@@ -1,0 +1,56 @@
+{
+  "id": "2002-10-12--osp-and-whig-establish-daily-intelligence-propaganda-coordination-meetings",
+  "date": "2002-10-12",
+  "title": "OSP and WHIG Establish Daily Intelligence-Propaganda Coordination Meetings",
+  "summary": "The Office of Special Plans (OSP), led by Douglas Feith, and the White House Iraq Group (WHIG) institutionalized daily coordination meetings to synchronize intelligence production with propaganda messaging. These meetings enabled the systematic manipulation of intelligence to support the Bush administration's case for invading Iraq, bypassing traditional intelligence assessment processes.",
+  "description": "Office of Special Plans and White House Iraq Group establish daily meetings to ensure intelligence products from the Pentagon directly support public messaging campaigns about Iraq. This coordination mechanism allowed for the selective use of intelligence data to build a case for war, effectively transforming intelligence gathering into a propaganda operation.",
+  "actors": [
+    "Douglas Feith",
+    "Paul Wolfowitz",
+    "Andrew Card",
+    "Dick Cheney",
+    "Karl Rove",
+    "Condoleezza Rice",
+    "Karen Hughes"
+  ],
+  "capture_lanes": [
+    "Intelligence Penetration",
+    "Media Capture & Control",
+    "Executive Power Expansion",
+    "Legislative Manipulation"
+  ],
+  "tags": [
+    "intelligence-manipulation",
+    "iraq-war",
+    "osp",
+    "whig",
+    "propaganda",
+    "intelligence-coordination"
+  ],
+  "sources": [
+    {
+      "outlet": "The Guardian",
+      "title": "Pentagon Office Produced 'Alternative' Intelligence on Iraq",
+      "url": "https://www.theguardian.com/world/2004/jul/17/usa.iraq1",
+      "type": "news_report"
+    },
+    {
+      "outlet": "Center for Public Integrity",
+      "title": "Pentagon Office's Misleading Intelligence",
+      "url": "https://publicintegrity.org/politics/pentagon-offices-misleading-intelligence/",
+      "date": "2023",
+      "type": "investigative_report"
+    },
+    {
+      "outlet": "History Commons",
+      "title": "Context of White House Iraq Group Intelligence Coordination",
+      "url": "http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group",
+      "type": "historical_analysis"
+    }
+  ],
+  "importance": 9,
+  "significance": "Represents a critical moment in the systematic manipulation of intelligence to support a predetermined political agenda, demonstrating how executive branch offices can undermine traditional intelligence assessment processes.",
+  "category": "intelligence_corruption",
+  "status": "confirmed",
+  "verification_status": "extensively_documented"
+}

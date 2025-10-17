@@ -1,0 +1,66 @@
+{
+  "id": "geopolitics-eca6337a",
+  "title": "Saudi Arabia's Regional Influence Network Expansion Through Conflict",
+  "description": "Analyze how Saudi Arabia systematically exploits regional conflicts to expand influence networks, secure energy partnerships, and strengthen defense relationships with Western powers.",
+  "priority": 7,
+  "status": "pending",
+  "category": "influence-networks",
+  "tags": [
+    "saudi-influence",
+    "regional-networks",
+    "defense-partnerships",
+    "energy-diplomacy"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Regional Power Dynamics After Israeli Strikes on Iran_ Saudi Arabia's Strategic Advantage.pdf",
+  "created_by": "pdf-agent-6-additional",
+  "time_period": "2015-2025",
+  "constitutional_issues": [
+    "foreign-influence",
+    "defense-contracting",
+    "energy-policy"
+  ],
+  "actors_to_investigate": [
+    "Saudi diplomatic corps",
+    "Western defense contractors",
+    "Energy company executives",
+    "Regional government officials",
+    "U.S. foreign policy establishment"
+  ],
+  "key_sources": [
+    {
+      "title": "Saudi diplomatic cables and foreign ministry documents",
+      "type": "diplomatic-records",
+      "credibility": 8,
+      "why": "Direct evidence of influence network development strategies"
+    },
+    {
+      "title": "Defense contracting records and congressional testimony",
+      "type": "government-records",
+      "credibility": 9,
+      "why": "Official documentation of Saudi defense partnerships"
+    },
+    {
+      "title": "Energy sector investment and partnership agreements",
+      "type": "commercial-records",
+      "credibility": 8,
+      "why": "Evidence of Saudi economic influence expansion"
+    }
+  ],
+  "expected_outcomes": [
+    "Map Saudi influence network expansion mechanisms",
+    "Document energy diplomacy as geopolitical leverage tool",
+    "Analyze defense partnerships as regional influence multipliers",
+    "Track Western government coordination with Saudi strategic objectives"
+  ],
+  "research_questions": [
+    "How does Saudi Arabia use energy partnerships to build regional influence networks?",
+    "What role do Western defense contracts play in Saudi regional power projection?",
+    "How do Saudi influence operations affect Western foreign policy decisions?",
+    "What oversight mechanisms exist for Saudi influence activities in partner countries?"
+  ],
+  "estimated_importance": 7
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Asian Financial Crisis Structural Adjustment (1997-1998)",
+  "description": "Track the systematic exploitation of financial crisis to implement Western corporate-beneficial policies across Asia",
+  "priority": 7,
+  "estimated_events": 4,
+  "category": "financial_crisis",
+  "tags": [
+    "asian_financial_crisis",
+    "imf",
+    "mckinsey",
+    "structural_adjustment"
+  ],
+  "source_document": "The Capture Cascade - Part 2: The Accelerant.pdf",
+  "created_at": "2025-09-09T18:22:58.187662",
+  "is_generated": true,
+  "research_notes": "Generated from systematic analysis of disaster capitalism documentation. Focus on concrete timeline events, personnel connections, and institutional capture mechanisms.",
+  "research_areas": [
+    "IMF emergency loans conditional on privatization and deregulation across Thailand, South Korea, Indonesia",
+    "McKinsey & Company role as primary implementer connecting Powell-era capture to Asian restructuring",
+    "Same consulting firms moving from Latin America/Eastern Europe to Asia implementation",
+    "Western corporate and financial institution benefits while devastating local economies"
+  ]
+}

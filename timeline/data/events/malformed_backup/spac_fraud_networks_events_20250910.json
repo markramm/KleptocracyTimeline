@@ -1,0 +1,77 @@
+[
+  {
+    "id": "2021-10-20--trump-dwac-truth-social-spac-merger-announcement",
+    "title": "Trump Media & Technology Group Announces SPAC Merger with DWAC to Launch Truth Social",
+    "date": "2021-10-20",
+    "description": "Digital World Acquisition Corp (DWAC) and Trump Media & Technology Group announced a definitive merger agreement valuing TMTG at $875 million initially, with potential earnouts of $825 million. DWAC stock surged 357% following the announcement as retail investors poured in, despite undisclosed pre-IPO negotiations between DWAC leadership and Trump dating back to February 2021.",
+    "category": "financial_fraud",
+    "tags": ["spac_fraud", "truth_social", "dwac", "trump_media", "retail_fraud", "disclosure_violations"],
+    "sources": [
+      {
+        "title": "Trump SPAC shares DWAC soar on social media deal news",
+        "url": "https://www.cnbc.com/2021/10/21/trump-linked-spac-shares-soar-more-than-40percent-on-news-of-social-media-deal.html",
+        "date": "2021-10-21",
+        "outlet": "CNBC"
+      },
+      {
+        "title": "Trump Media's merger with DWAC gets regulatory nod. Trump could get a stake worth $4 billion",
+        "url": "https://www.cbsnews.com/news/trump-media-dwac-sec-approval-spac/",
+        "date": "2021-10-20",
+        "outlet": "CBS News"
+      }
+    ],
+    "importance": 9,
+    "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+    "actors": ["Donald Trump", "Digital World Acquisition Corp", "Trump Media & Technology Group"]
+  },
+  {
+    "id": "2023-07-20--sec-charges-dwac-material-misrepresentations-trump-media",
+    "title": "SEC Charges DWAC SPAC with Material Misrepresentations Over Trump Media Merger",
+    "date": "2023-07-20",
+    "description": "The SEC charged Digital World Acquisition Corp with securities fraud for making material misrepresentations in IPO filings by falsely claiming no pre-IPO discussions with potential targets. The agency found DWAC had extensive merger discussions with Trump Media dating to February 2021, months before their September 2021 IPO. DWAC agreed to pay an $18 million penalty and cease-and-desist order.",
+    "category": "regulatory_capture",
+    "tags": ["sec_enforcement", "dwac", "trump_media", "disclosure_violations", "spac_fraud", "material_misrepresentations"],
+    "sources": [
+      {
+        "title": "SEC Charges Digital World SPAC for Material Misrepresentations to Investors",
+        "url": "https://www.sec.gov/newsroom/press-releases/2023-135",
+        "date": "2023-07-20",
+        "outlet": "SEC"
+      },
+      {
+        "title": "Trump Media merger partner DWAC settles with SEC over fraud charges",
+        "url": "https://www.cnbc.com/2023/07/20/trump-media-merger-partner-dwac-settles-with-sec-over-fraud-charges.html",
+        "date": "2023-07-20",
+        "outlet": "CNBC"
+      }
+    ],
+    "importance": 8,
+    "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+    "actors": ["SEC", "Digital World Acquisition Corp", "Trump Media"]
+  },
+  {
+    "id": "2021-03-31--spac-boom-peak-retail-investor-wealth-extraction",
+    "title": "SPAC Boom Reaches Peak as 613 SPACs Raise $160 Billion, Systematically Extracting Wealth from Retail Investors",
+    "date": "2021-03-31",
+    "description": "The SPAC boom peaked in 2021 with 613 SPACs raising over $160 billion, representing more than half of all IPO volume. The structure systematically favored sponsors who received 20% stakes for minimal investment while retail investors faced massive losses, with 77% of post-merger SPACs trading below issue price within a year and over $46 billion in subsequent bankruptcies by 2023.",
+    "category": "retail_fraud",
+    "tags": ["spac_boom", "retail_fraud", "wealth_extraction", "regulatory_capture", "systematic_fraud", "sponsor_promote"],
+    "sources": [
+      {
+        "title": "What to know about the SPACs craze and why it's concerning economists",
+        "url": "https://abcnews.go.com/Business/spacs-craze-economists/story?id=76747045",
+        "date": "2021-03-30",
+        "outlet": "ABC News"
+      },
+      {
+        "title": "Here's Why Digital World Acquisition Stock Skyrocketed 580.9% in October",
+        "url": "https://www.fool.com/investing/2021/11/02/heres-why-digital-world-acquisition-stock-skyrocke/",
+        "date": "2021-11-02",
+        "outlet": "The Motley Fool"
+      }
+    ],
+    "importance": 9,
+    "priority_id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+    "actors": ["SPAC sponsors", "Retail investors", "Investment banks"]
+  }
+]

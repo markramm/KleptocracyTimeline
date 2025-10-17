@@ -1,0 +1,16 @@
+{
+  "id": "RT-F4E8C3D4",
+  "title": "NSA Silicon Valley Partnerships",
+  "description": "Map NSA partnerships with Silicon Valley for mass surveillance infrastructure",
+  "priority": "critical",
+  "tags": [
+    "nsa",
+    "prism",
+    "tech_surveillance"
+  ],
+  "capture_lane": "intelligence",
+  "decade": "2000s",
+  "created": "2025-09-09T21:17:43.464204",
+  "status": "pending",
+  "category": "capture_research"
+}
