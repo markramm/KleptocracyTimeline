@@ -1,45 +1,6 @@
 {
   "events": [
     {
-      "id": "2025-01-20--jd-vance-inaugurated-as-vice-president",
-      "sources": [
-        {
-          "outlet": "ABC News",
-          "title": "Megabill negotiations show Vance is a key player in the Trump administration",
-          "url": "https://abcnews.go.com/Politics/megabill-negotiations-show-vance-key-player-trump-administration/story?id=123418081",
-          "date": "2025-03-15"
-        },
-        {
-          "outlet": "NPR",
-          "title": "A look at VP Vance's role in the Trump White House",
-          "url": "https://www.npr.org/2025/03/06/nx-s1-5316821/a-look-at-vp-vances-role-in-the-trump-white-house",
-          "date": "2025-03-06"
-        },
-        {
-          "outlet": "NBC News",
-          "title": "Trump helps pad JD Vance's political fund as questions about 2028 loom",
-          "url": "https://www.nbcnews.com/politics/2028-election/trump-helps-pad-jd-vances-political-fund-questions-2028-loom-rcna229402",
-          "date": "2025-05-02"
-        }
-      ],
-      "summary": "J.D. Vance was sworn in as the 50th Vice President of the United States on January 20, 2025, completing a remarkable political transformation from bestselling author and Trump critic to Trump's most prominent advocate. At 40 years old, he is the first millennial and third-youngest vice president in U.S. history. Vance quickly established himself as a key player in the Trump administration, serving as the president's primary legislative negotiator, casting critical tie-breaking votes in the Senate, and becoming the first vice president to simultaneously serve as the Republican National Committee finance chair. His role extends beyond traditional vice presidential duties, positioning him as a potential MAGA heir apparent for the 2028 presidential election.",
-      "tags": [
-        "inauguration",
-        "vice-president",
-        "political-transformation",
-        "thiel-influence",
-        "trump-administration",
-        "republican-party",
-        "legislative-strategy"
-      ],
-      "capture_lanes": [
-        "Regulatory Capture",
-        "Executive Power Expansion",
-        "Political Network Consolidation"
-      ],
-      "importance": 10
-    },
-    {
       "id": "1142-01-01--haudenosaunee-democratic-consensus-model",
       "date": "1142-01-01",
       "title": "Haudenosaunee Confederacy: Pre-Constitutional Democratic Model",
@@ -63,18 +24,11 @@
         },
         {
           "title": "The United States Constitution and the Iroquois League",
-          "author": "Elisabeth Tooker",
-          "outlet": "Ethnohistory",
-          "date": "1988-10-01",
-          "volume": "Vol. 35, No. 4",
-          "pages": "305-336",
-          "type": "Scholarly Article"
+          "url": ""
         },
         {
           "title": "Exemplar of Liberty: Native America and the Evolution of Democracy",
-          "author": "Donald A. Grinde, Jr.",
-          "outlet": "Academic Publication",
-          "type": "Historical Research"
+          "url": ""
         },
         {
           "title": "U.S. Senate Resolution Recognizing Iroquois Confederacy Influence",
@@ -85,17 +39,11 @@
         },
         {
           "title": "American Indian Constitutions and Their Influence on the United States Constitution",
-          "author": "Robert J. Miller",
-          "outlet": "Proceedings of the American Philosophical Society",
-          "date": "2015-03-01",
-          "type": "Scholarly Article"
+          "url": ""
         },
         {
           "title": "The Indigenous Influence Theory of American Democracy",
-          "author": "Jerry D. Stubben",
-          "outlet": "Social Science Quarterly",
-          "date": "2000-09-01",
-          "type": "Academic Research"
+          "url": ""
         }
       ],
       "tags": [
@@ -772,11 +720,26 @@
         }
       },
       "sources": [
-        "https://scholarlycommons.law.wlu.edu/powellmemo/",
-        "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
-        "https://prospect.org/article/legend-powell-memo/",
-        "https://theamericanleader.org/timeline-event/the-blueprint-powells-memo/",
-        "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/"
+        {
+          "title": "scholarlycommons.law.wlu.edu",
+          "url": "https://scholarlycommons.law.wlu.edu/powellmemo/"
+        },
+        {
+          "title": "greenpeace.org",
+          "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+        },
+        {
+          "title": "prospect.org",
+          "url": "https://prospect.org/article/legend-powell-memo/"
+        },
+        {
+          "title": "theamericanleader.org",
+          "url": "https://theamericanleader.org/timeline-event/the-blueprint-powells-memo/"
+        },
+        {
+          "title": "billmoyers.com",
+          "url": "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/"
+        }
       ],
       "importance": 9,
       "tags": [
@@ -867,8 +830,14 @@
       ],
       "financial_impact": null,
       "sources": [
-        "https://scholarlycommons.law.wlu.edu/powellmemo/",
-        "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+        {
+          "title": "scholarlycommons.law.wlu.edu",
+          "url": "https://scholarlycommons.law.wlu.edu/powellmemo/"
+        },
+        {
+          "title": "greenpeace.org",
+          "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+        }
       ],
       "importance": 9,
       "tags": [
@@ -1416,11 +1385,26 @@
       ],
       "financial_impact": 250000,
       "sources": [
-        "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
-        "https://en.wikipedia.org/wiki/The_Heritage_Foundation",
-        "https://www.britannica.com/topic/Heritage-Foundation",
-        "https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435",
-        "https://www.loc.gov/item/lcwaN0002695/"
+        {
+          "title": "greenpeace.org",
+          "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/The_Heritage_Foundation"
+        },
+        {
+          "title": "britannica.com",
+          "url": "https://www.britannica.com/topic/Heritage-Foundation"
+        },
+        {
+          "title": "opensecrets.org",
+          "url": "https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435"
+        },
+        {
+          "title": "loc.gov",
+          "url": "https://www.loc.gov/item/lcwaN0002695/"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -1898,10 +1882,22 @@
         "Corporate Members"
       ],
       "sources": [
-        "https://www.alecattacks.org/history-of-alec",
-        "https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council",
-        "https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council",
-        "https://ballotpedia.org/American_Legislative_Exchange_Council"
+        {
+          "title": "alecattacks.org",
+          "url": "https://www.alecattacks.org/history-of-alec"
+        },
+        {
+          "title": "sourcewatch.org",
+          "url": "https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council"
+        },
+        {
+          "title": "ballotpedia.org",
+          "url": "https://ballotpedia.org/American_Legislative_Exchange_Council"
+        }
       ],
       "tags": [
         "capture-cascade",
@@ -2291,9 +2287,18 @@
         "FBI"
       ],
       "sources": [
-        "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm",
-        "https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm",
-        "https://constitutioncenter.org/blog/looking-back-at-the-church-committee"
+        {
+          "title": "senate.gov",
+          "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm"
+        },
+        {
+          "title": "aarclibrary.org",
+          "url": "https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm"
+        },
+        {
+          "title": "constitutioncenter.org",
+          "url": "https://constitutioncenter.org/blog/looking-back-at-the-church-committee"
+        }
       ],
       "status": "confirmed"
     },
@@ -4349,9 +4354,18 @@
         "Marc Rich"
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/Rupert_Murdoch",
-        "https://www.pewresearch.org/journalism/2007/08/01/publisher-murdochs-u-s-track-record/",
-        "https://www.cnn.com/interactive/2011/07/world/interactive.rupert.murdoch/index.html"
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/Rupert_Murdoch"
+        },
+        {
+          "title": "pewresearch.org",
+          "url": "https://www.pewresearch.org/journalism/2007/08/01/publisher-murdochs-u-s-track-record/"
+        },
+        {
+          "title": "cnn.com",
+          "url": "https://www.cnn.com/interactive/2011/07/world/interactive.rupert.murdoch/index.html"
+        }
       ],
       "status": "confirmed"
     },
@@ -4712,15 +4726,8 @@
           ]
         },
         {
-          "outlet": "Web Search Research",
           "title": "Federal Reserve Section 20 Subsidiary Regulatory Overview",
-          "key_facts_confirmed": [
-            "Section 20 subsidiaries allowed limited engagement in securities underwriting",
-            "Initially permitted 5% of revenue from bank-ineligible securities",
-            "Subject to prudential limitations and operating standards"
-          ],
-          "notes": "Comprehensive web search analysis revealing initial regulatory framework",
-          "verified": true
+          "url": ""
         },
         {
           "key_facts_confirmed": [
@@ -5580,11 +5587,26 @@
         "Pharmaceutical Companies"
       ],
       "sources": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/",
-        "https://www.pogo.org/investigations/fda-depends-on-industry-funding-money-comes-with-strings-attached",
-        "https://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments",
-        "https://www.heritage.org/health-care-reform/report/the-prescription-drug-user-fee-act-history-and-reauthorization-issues",
-        "https://en.wikipedia.org/wiki/Prescription_Drug_User_Fee_Act"
+        {
+          "title": "pmc.ncbi.nlm.nih.gov",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/"
+        },
+        {
+          "title": "pogo.org",
+          "url": "https://www.pogo.org/investigations/fda-depends-on-industry-funding-money-comes-with-strings-attached"
+        },
+        {
+          "title": "fda.gov",
+          "url": "https://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments"
+        },
+        {
+          "title": "heritage.org",
+          "url": "https://www.heritage.org/health-care-reform/report/the-prescription-drug-user-fee-act-history-and-reauthorization-issues"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/Prescription_Drug_User_Fee_Act"
+        }
       ],
       "status": "confirmed",
       "priority_id": "claude-priority-regulatory-capture-pharma-fda"
@@ -5997,11 +6019,26 @@
         "regulatory-capture"
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/K_Street_Project",
-        "https://sourcewatch.org/index.php?title=K_Street_Project",
-        "https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay",
-        "NPR investigative report on K Street Project dynamics",
-        "Academic research on multi-client lobbying transformations"
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/K_Street_Project"
+        },
+        {
+          "title": "sourcewatch.org",
+          "url": "https://sourcewatch.org/index.php?title=K_Street_Project"
+        },
+        {
+          "title": "npr.org",
+          "url": "https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay"
+        },
+        {
+          "title": "NPR investigative report on K Street Project dynamics",
+          "url": ""
+        },
+        {
+          "title": "Academic research on multi-client lobbying transformations",
+          "url": ""
+        }
       ],
       "status": "confirmed",
       "actors": []
@@ -6167,9 +6204,18 @@
         "Spencer Bachus"
       ],
       "sources": [
-        "UPI Archives February 1995",
-        "US Treasury Department",
-        "House Banking Committee"
+        {
+          "title": "UPI Archives February 1995",
+          "url": ""
+        },
+        {
+          "title": "US Treasury Department",
+          "url": ""
+        },
+        {
+          "title": "House Banking Committee",
+          "url": ""
+        }
       ],
       "event_type": "regulatory_capture",
       "confirmed": true,
@@ -6302,8 +6348,14 @@
         "Division of Anesthetic, Critical Care, and Addiction Drug Products"
       ],
       "sources": [
-        "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/",
-        "https://en.wikipedia.org/wiki/Curtis_Wright_IV"
+        {
+          "title": "govfacts.org",
+          "url": "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/Curtis_Wright_IV"
+        }
       ],
       "status": "confirmed",
       "priority_id": "claude-priority-regulatory-capture-pharma-fda"
@@ -7694,11 +7746,26 @@
         "media-influence"
       ],
       "sources": [
-        "https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/",
-        "https://commonhome.georgetown.edu/topics/climateenergy/defense-denial-and-disinformation-uncovering-the-oil-industrys-early-knowledge-of-climate-change/",
-        "https://www.congress.gov/event/116th-congress/house-event/LC64569/text?s=1&r=4",
-        "https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998)",
-        "https://www.govinfo.gov/content/pkg/CHRG-116hhrg38304/html/CHRG-116hhrg38304.htm"
+        {
+          "title": "climatefiles.com",
+          "url": "https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/"
+        },
+        {
+          "title": "commonhome.georgetown.edu",
+          "url": "https://commonhome.georgetown.edu/topics/climateenergy/defense-denial-and-disinformation-uncovering-the-oil-industrys-early-knowledge-of-climate-change/"
+        },
+        {
+          "title": "congress.gov",
+          "url": "https://www.congress.gov/event/116th-congress/house-event/LC64569/text?s=1&r=4"
+        },
+        {
+          "title": "sourcewatch.org",
+          "url": "https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998)"
+        },
+        {
+          "title": "govinfo.gov",
+          "url": "https://www.govinfo.gov/content/pkg/CHRG-116hhrg38304/html/CHRG-116hhrg38304.htm"
+        }
       ],
       "status": "confirmed",
       "id": "1998-04-03--american-petroleum-institute-\"victory\"-memo-outlin",
@@ -9127,10 +9194,22 @@
         "fcc-regulation"
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/IHeartMedia",
-        "https://reclaimdemocracy.org/clear_channel_backlash/",
-        "https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm",
-        "https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html"
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/IHeartMedia"
+        },
+        {
+          "title": "reclaimdemocracy.org",
+          "url": "https://reclaimdemocracy.org/clear_channel_backlash/"
+        },
+        {
+          "title": "justice.gov",
+          "url": "https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm"
+        },
+        {
+          "title": "transition.fcc.gov",
+          "url": "https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html"
+        }
       ],
       "status": "confirmed",
       "id": "2000-08-30--clear-channel-acquires-amfm-inc.-creating-radio-mo",
@@ -10930,14 +11009,38 @@
       ],
       "financial_impact": null,
       "sources": [
-        "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-        "https://sourcewatch.org/index.php/White_House_Iraq_Group",
-        "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB80/",
-        "https://www.airuniversity.af.edu/Portals/10/ASPJ/journals/Chronicles/tracey.pdf",
-        "https://pages.gseis.ucla.edu/faculty/kellner/papers/mediapropaganda.htm",
-        "https://adamsmith.house.gov/news/blog-post/white-house-iraq-group-must-be-investigated",
-        "https://georgewbush-whitehouse.archives.gov/ogc/apparatus/printer.html",
-        "https://www.npr.org/transcripts/124597241"
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group"
+        },
+        {
+          "title": "sourcewatch.org",
+          "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group"
+        },
+        {
+          "title": "nsarchive2.gwu.edu",
+          "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB80/"
+        },
+        {
+          "title": "airuniversity.af.edu",
+          "url": "https://www.airuniversity.af.edu/Portals/10/ASPJ/journals/Chronicles/tracey.pdf"
+        },
+        {
+          "title": "pages.gseis.ucla.edu",
+          "url": "https://pages.gseis.ucla.edu/faculty/kellner/papers/mediapropaganda.htm"
+        },
+        {
+          "title": "adamsmith.house.gov",
+          "url": "https://adamsmith.house.gov/news/blog-post/white-house-iraq-group-must-be-investigated"
+        },
+        {
+          "title": "georgewbush-whitehouse.archives.gov",
+          "url": "https://georgewbush-whitehouse.archives.gov/ogc/apparatus/printer.html"
+        },
+        {
+          "title": "npr.org",
+          "url": "https://www.npr.org/transcripts/124597241"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -12106,10 +12209,22 @@
       ],
       "financial_impact": null,
       "sources": [
-        "https://www.cnn.com/2002/ALLPOLITICS/09/08/iraq.debate/",
-        "https://georgewbush-whitehouse.archives.gov/news/releases/2002/10/20021007-8.html",
-        "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
-        "https://www.newsweek.com/karl-roves-iraq-war-role-98969"
+        {
+          "title": "cnn.com",
+          "url": "https://www.cnn.com/2002/ALLPOLITICS/09/08/iraq.debate/"
+        },
+        {
+          "title": "georgewbush-whitehouse.archives.gov",
+          "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2002/10/20021007-8.html"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group"
+        },
+        {
+          "title": "newsweek.com",
+          "url": "https://www.newsweek.com/karl-roves-iraq-war-role-98969"
+        }
       ],
       "importance": 7,
       "tags": [
@@ -12415,25 +12530,16 @@
       "importance": 8,
       "sources": [
         {
-          "name": "Washington Post",
-          "type": "News Article",
-          "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
-          "publication_date": "2002-09-08",
-          "excerpt": "White House Iraq Group coordinated media strategy to build war support"
+          "title": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
+          "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/"
         },
         {
-          "name": "Newsweek",
-          "type": "Investigative Report",
-          "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
-          "publication_date": "2002-09-15",
-          "excerpt": "Detailed analysis of WHIG's media manipulation tactics"
+          "title": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
+          "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002"
         },
         {
-          "name": "National Security Archive",
-          "type": "Government Document Repository",
-          "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
-          "publication_date": "2019-03-22",
-          "excerpt": "Comprehensive documentation of Iraq War media campaign"
+          "title": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
+          "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war"
         }
       ],
       "tags": [
@@ -12555,32 +12661,20 @@
       "importance": 9,
       "sources": [
         {
-          "name": "Washington Post",
-          "type": "News Article",
-          "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
-          "publication_date": "2002-09-08",
-          "excerpt": "White House Iraq Group coordinated media strategy to build war support"
+          "title": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
+          "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/"
         },
         {
-          "name": "Newsweek",
-          "type": "Investigative Report",
-          "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
-          "publication_date": "2002-09-15",
-          "excerpt": "Detailed analysis of WHIG's media manipulation tactics"
+          "title": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
+          "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002"
         },
         {
-          "name": "National Security Archive",
-          "type": "Government Document Repository",
-          "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
-          "publication_date": "2019-03-22",
-          "excerpt": "Comprehensive documentation of Iraq War media campaign"
+          "title": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
+          "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war"
         },
         {
-          "name": "SourceWatch",
-          "type": "Research Database",
-          "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
-          "publication_date": "2022-10-15",
-          "excerpt": "Detailed background on WHIG's formation and media coordination strategy"
+          "title": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
+          "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group"
         }
       ],
       "tags": [
@@ -15795,10 +15889,22 @@
         "Matt Damschroder"
       ],
       "sources": [
-        "https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies",
-        "https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections",
-        "https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/",
-        "https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/"
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies"
+        },
+        {
+          "title": "columbusfreepress.com",
+          "url": "https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections"
+        },
+        {
+          "title": "money.cnn.com",
+          "url": "https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/"
+        },
+        {
+          "title": "verifiedvoting.org",
+          "url": "https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/"
+        }
       ],
       "status": "confirmed"
     },
@@ -16995,9 +17101,18 @@
         "AIG"
       ],
       "sources": [
-        "US Treasury Department",
-        "White House Archives",
-        "Senate Confirmation Records"
+        {
+          "title": "US Treasury Department",
+          "url": ""
+        },
+        {
+          "title": "White House Archives",
+          "url": ""
+        },
+        {
+          "title": "Senate Confirmation Records",
+          "url": ""
+        }
       ],
       "event_type": "regulatory_capture",
       "confirmed": true,
@@ -18592,9 +18707,18 @@
         "Sanford Weill"
       ],
       "sources": [
-        "ProPublica",
-        "Federal Reserve",
-        "Treasury Department"
+        {
+          "title": "ProPublica",
+          "url": ""
+        },
+        {
+          "title": "Federal Reserve",
+          "url": ""
+        },
+        {
+          "title": "Treasury Department",
+          "url": ""
+        }
       ],
       "event_type": "regulatory_capture",
       "confirmed": true,
@@ -18623,10 +18747,22 @@
         "FreedomWorks"
       ],
       "sources": [
-        "https://www.jstor.org/stable/perspoli/article/10.1017/S1537592711001019",
-        "https://journals.sagepub.com/doi/10.1177/23294965221123808",
-        "https://www.desmog.com/2010/10/13/david-koch-has-direct-contact-tea-party-astroturf-organizers-americans-prosperity-event/",
-        "https://www.theguardian.com/world/2010/aug/30/koch-brothers-tea-party-group"
+        {
+          "title": "jstor.org",
+          "url": "https://www.jstor.org/stable/perspoli/article/10.1017/S1537592711001019"
+        },
+        {
+          "title": "journals.sagepub.com",
+          "url": "https://journals.sagepub.com/doi/10.1177/23294965221123808"
+        },
+        {
+          "title": "desmog.com",
+          "url": "https://www.desmog.com/2010/10/13/david-koch-has-direct-contact-tea-party-astroturf-organizers-americans-prosperity-event/"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://www.theguardian.com/world/2010/aug/30/koch-brothers-tea-party-group"
+        }
       ],
       "status": "confirmed"
     },
@@ -19391,10 +19527,22 @@
         "dark-money"
       ],
       "sources": [
-        "https://supreme.justia.com/cases/federal/us/558/310/",
-        "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained",
-        "https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec/",
-        "https://www.law.cornell.edu/wex/citizens_united_v._federal_election_commission_(2010)"
+        {
+          "title": "supreme.justia.com",
+          "url": "https://supreme.justia.com/cases/federal/us/558/310/"
+        },
+        {
+          "title": "brennancenter.org",
+          "url": "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained"
+        },
+        {
+          "title": "fec.gov",
+          "url": "https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec/"
+        },
+        {
+          "title": "law.cornell.edu",
+          "url": "https://www.law.cornell.edu/wex/citizens_united_v._federal_election_commission_(2010)"
+        }
       ],
       "status": "confirmed",
       "id": "2010-01-21--citizens-united-v.-fec-supreme-court-decision-unle",
@@ -19640,8 +19788,14 @@
         "independent-expenditures"
       ],
       "sources": [
-        "https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/",
-        "https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/"
+        {
+          "title": "fec.gov",
+          "url": "https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/"
+        },
+        {
+          "title": "freespeechforpeople.org",
+          "url": "https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/"
+        }
       ],
       "status": "confirmed",
       "id": "2010-03-26--speechnow.org-v.-fec-appeals-court-decision-create",
@@ -20179,9 +20333,18 @@
         "Henry Waxman"
       ],
       "sources": [
-        "https://www.reuters.com/article/us-oil-spill-bp-fund-idUSTRE65J4MO20100620",
-        "https://www.washingtonpost.com/wp-dyn/content/article/2010/06/16/AR2010061600570.html",
-        "https://www.gulfspillrestoration.noaa.gov/funding"
+        {
+          "title": "reuters.com",
+          "url": "https://www.reuters.com/article/us-oil-spill-bp-fund-idUSTRE65J4MO20100620"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://www.washingtonpost.com/wp-dyn/content/article/2010/06/16/AR2010061600570.html"
+        },
+        {
+          "title": "gulfspillrestoration.noaa.gov",
+          "url": "https://www.gulfspillrestoration.noaa.gov/funding"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -20503,9 +20666,18 @@
         "Effective Altruism"
       ],
       "sources": [
-        "MIT records",
-        "Washington Post",
-        "EA Forum"
+        {
+          "title": "MIT records",
+          "url": ""
+        },
+        {
+          "title": "Washington Post",
+          "url": ""
+        },
+        {
+          "title": "EA Forum",
+          "url": ""
+        }
       ],
       "event_type": "academic_capture",
       "confirmed": true,
@@ -20615,8 +20787,14 @@
         "Federal Trade Commission"
       ],
       "sources": [
-        "https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc",
-        "https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/"
+        {
+          "title": "ftc.gov",
+          "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc"
+        },
+        {
+          "title": "fortune.com",
+          "url": "https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -20654,11 +20832,26 @@
         "Federal Trade Commission"
       ],
       "sources": [
-        "https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc",
-        "https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/",
-        "https://techcrunch.com/2012/08/22/ftc-facebook-instagram/",
-        "https://thehill.com/policy/technology/509635-zuckerberg-pushes-back-on-accusations-that-instagram-acquisition-was/",
-        "https://www.npr.org/2025/04/13/nx-s1-5358434/ftc-meta-antitrust-trial"
+        {
+          "title": "ftc.gov",
+          "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc"
+        },
+        {
+          "title": "fortune.com",
+          "url": "https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/"
+        },
+        {
+          "title": "techcrunch.com",
+          "url": "https://techcrunch.com/2012/08/22/ftc-facebook-instagram/"
+        },
+        {
+          "title": "thehill.com",
+          "url": "https://thehill.com/policy/technology/509635-zuckerberg-pushes-back-on-accusations-that-instagram-acquisition-was/"
+        },
+        {
+          "title": "npr.org",
+          "url": "https://www.npr.org/2025/04/13/nx-s1-5358434/ftc-meta-antitrust-trial"
+        }
       ],
       "status": "confirmed"
     },
@@ -20728,9 +20921,18 @@
         "James Gorman"
       ],
       "sources": [
-        "https://www.cnbc.com/2012/12/17/morgan-stanley-fined-5-million-over-facebook-ipo.html",
-        "https://money.cnn.com/2012/05/23/technology/facebook-ipo-what-went-wrong/index.htm",
-        "https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard"
+        {
+          "title": "cnbc.com",
+          "url": "https://www.cnbc.com/2012/12/17/morgan-stanley-fined-5-million-over-facebook-ipo.html"
+        },
+        {
+          "title": "money.cnn.com",
+          "url": "https://money.cnn.com/2012/05/23/technology/facebook-ipo-what-went-wrong/index.htm"
+        },
+        {
+          "title": "hbsslaw.com",
+          "url": "https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard"
+        }
       ],
       "status": "confirmed"
     },
@@ -20816,9 +21018,18 @@
         "Lanny Breuer"
       ],
       "sources": [
-        "https://www.justice.gov/opa/pr/bp-exploration-and-production-inc-agrees-plead-guilty-felony-manslaughter-environmental",
-        "https://www.sec.gov/news/press-release/2012-2012-249htm",
-        "https://www.nytimes.com/2012/11/16/business/global/16iht-bp16.html"
+        {
+          "title": "justice.gov",
+          "url": "https://www.justice.gov/opa/pr/bp-exploration-and-production-inc-agrees-plead-guilty-felony-manslaughter-environmental"
+        },
+        {
+          "title": "sec.gov",
+          "url": "https://www.sec.gov/news/press-release/2012-2012-249htm"
+        },
+        {
+          "title": "nytimes.com",
+          "url": "https://www.nytimes.com/2012/11/16/business/global/16iht-bp16.html"
+        }
       ],
       "importance": 9,
       "tags": [
@@ -21265,9 +21476,18 @@
         "Julian Assange"
       ],
       "sources": [
-        "https://www.washingtonpost.com/wp-srv/special/national/nsa-timeline/",
-        "https://www.theguardian.com/us-news/the-nsa-files",
-        "https://www.aclu.org/nsa-documents-released-to-the-public-since-june-2013"
+        {
+          "title": "washingtonpost.com",
+          "url": "https://www.washingtonpost.com/wp-srv/special/national/nsa-timeline/"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://www.theguardian.com/us-news/the-nsa-files"
+        },
+        {
+          "title": "aclu.org",
+          "url": "https://www.aclu.org/nsa-documents-released-to-the-public-since-june-2013"
+        }
       ],
       "status": "confirmed"
     },
@@ -22022,9 +22242,18 @@
         "Dmitry Kozak"
       ],
       "sources": [
-        "https://www.reuters.com/article/us-ukraine-crisis-timeline-idUSKBN0M82DF20150312",
-        "https://www.bbc.com/news/world-europe-26606097",
-        "https://www.nytimes.com/2014/03/19/world/europe/ukraine.html"
+        {
+          "title": "reuters.com",
+          "url": "https://www.reuters.com/article/us-ukraine-crisis-timeline-idUSKBN0M82DF20150312"
+        },
+        {
+          "title": "bbc.com",
+          "url": "https://www.bbc.com/news/world-europe-26606097"
+        },
+        {
+          "title": "nytimes.com",
+          "url": "https://www.nytimes.com/2014/03/19/world/europe/ukraine.html"
+        }
       ],
       "importance": 9,
       "tags": [
@@ -22641,7 +22870,7 @@
       "title": "EU and US Impose Sectoral Sanctions on Russia"
     },
     {
-      "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia",
+      "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757457198",
       "date": "2014-07-16",
       "title": "US and EU Impose Coordinated Sectoral Sanctions on Russia Following MH17 Downing",
       "summary": "In response to the downing of Malaysia Airlines Flight MH17 and Russia's destabilization of Ukraine, the United States and European Union simultaneously imposed comprehensive sectoral sanctions targeting Russian financial, energy, and defense sectors. The US Treasury issued the Sectoral Sanctions Identifications List, restricting transactions with major Russian banks and energy companies, while the EU imposed capital market restrictions and technology export controls. These sanctions marked a significant escalation in Western diplomatic and economic pressure on Russia.",
@@ -23465,10 +23694,22 @@
         "Mithril Capital"
       ],
       "sources": [
-        "https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/",
-        "https://en.wikipedia.org/wiki/JD_Vance",
-        "https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html",
-        "https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/"
+        {
+          "title": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/JD_Vance"
+        },
+        {
+          "title": "finance.yahoo.com",
+          "url": "https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html"
+        },
+        {
+          "title": "seattletimes.com",
+          "url": "https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/"
+        }
       ],
       "tags": [
         "succession-risk",
@@ -25351,10 +25592,22 @@
       ],
       "importance": 9,
       "sources": [
-        "The Moscow Times",
-        "U.S. Department of Treasury",
-        "Bloomberg News",
-        "Kyiv Independent"
+        {
+          "title": "The Moscow Times",
+          "url": ""
+        },
+        {
+          "title": "U.S. Department of Treasury",
+          "url": ""
+        },
+        {
+          "title": "Bloomberg News",
+          "url": ""
+        },
+        {
+          "title": "Kyiv Independent",
+          "url": ""
+        }
       ],
       "tags": [
         "spacex-russia",
@@ -26078,9 +26331,18 @@
         "IndyMac"
       ],
       "sources": [
-        "Newsweek",
-        "California Attorney General",
-        "Senate Banking Committee"
+        {
+          "title": "Newsweek",
+          "url": ""
+        },
+        {
+          "title": "California Attorney General",
+          "url": ""
+        },
+        {
+          "title": "Senate Banking Committee",
+          "url": ""
+        }
       ],
       "event_type": "regulatory_capture",
       "confirmed": true,
@@ -26356,19 +26618,16 @@
       ],
       "sources": [
         {
-          "name": "EPA Official Press Release",
-          "url": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way",
-          "date": "2017-03-28"
+          "title": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way",
+          "url": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way"
         },
         {
-          "name": "Scientific American - EPA Climate Regulation Rollback",
-          "url": "https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/",
-          "date": "2017-03-28"
+          "title": "https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/",
+          "url": "https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/"
         },
         {
-          "name": "PBS News - Trump EPA Regulatory Changes",
-          "url": "https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation",
-          "date": "2017-03-28"
+          "title": "https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation",
+          "url": "https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation"
         }
       ],
       "status": "confirmed"
@@ -27817,7 +28076,7 @@
         "personnel-conflicts"
       ],
       "status": "confirmed",
-      "id": "2018-01-01--dan-elwell-becomes-acting-faa-administrator-after-boeing-executive-career-1757458612",
+      "id": "2018-01-07--dan-elwell-becomes-acting-faa-administrator-after-boeing-executive-career-1757458612",
       "priority_id": "indigenous-democracy-60dde4fe"
     },
     {
@@ -28376,9 +28635,18 @@
         "My Step Alliance"
       ],
       "sources": [
-        "https://www.gppac.net/news/armenias-velvet-revolution-civil-society-success-peace",
-        "https://www.fpri.org/article/2019/02/armenia-and-the-velvet-revolution-the-merits-and-flaws-of-a-protest-based-civil-society/",
-        "https://www.journalofdemocracy.org/articles/armenias-velvet-revolution/"
+        {
+          "title": "gppac.net",
+          "url": "https://www.gppac.net/news/armenias-velvet-revolution-civil-society-success-peace"
+        },
+        {
+          "title": "fpri.org",
+          "url": "https://www.fpri.org/article/2019/02/armenia-and-the-velvet-revolution-the-merits-and-flaws-of-a-protest-based-civil-society/"
+        },
+        {
+          "title": "journalofdemocracy.org",
+          "url": "https://www.journalofdemocracy.org/articles/armenias-velvet-revolution/"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -29154,8 +29422,14 @@
         "Innate Immunotherapeutics"
       ],
       "sources": [
-        "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying",
-        "https://www.sec.gov/newsroom/press-releases/2018-151"
+        {
+          "title": "justice.gov",
+          "url": "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying"
+        },
+        {
+          "title": "sec.gov",
+          "url": "https://www.sec.gov/newsroom/press-releases/2018-151"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -29730,8 +30004,14 @@
       ],
       "importance": 8,
       "sources": [
-        "Narya Capital founding documents",
-        "Forbes reporting"
+        {
+          "title": "Narya Capital founding documents",
+          "url": ""
+        },
+        {
+          "title": "Forbes reporting",
+          "url": ""
+        }
       ],
       "tags": [
         "narya-capital",
@@ -30691,10 +30971,22 @@
         "William Barr"
       ],
       "sources": [
-        "https://www.justice.gov/archives/opa/speech/special-counsel-robert-s-mueller-iii-makes-statement-investigation-russian-interference",
-        "https://www.washingtonpost.com/politics/2019/05/29/muellers-statement-annotated-if-we-had-confidence-that-president-clearly-did-not-commit-crime-we-would-have-said-so/",
-        "https://www.lawfaremedia.org/article/defending-muellers-constitutional-analysis-obstruction-and-faithful-execution",
-        "https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/"
+        {
+          "title": "justice.gov",
+          "url": "https://www.justice.gov/archives/opa/speech/special-counsel-robert-s-mueller-iii-makes-statement-investigation-russian-interference"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://www.washingtonpost.com/politics/2019/05/29/muellers-statement-annotated-if-we-had-confidence-that-president-clearly-did-not-commit-crime-we-would-have-said-so/"
+        },
+        {
+          "title": "lawfaremedia.org",
+          "url": "https://www.lawfaremedia.org/article/defending-muellers-constitutional-analysis-obstruction-and-faithful-execution"
+        },
+        {
+          "title": "americanprogress.org",
+          "url": "https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/"
+        }
       ],
       "status": "confirmed"
     },
@@ -31022,8 +31314,14 @@
         "CNBC"
       ],
       "sources": [
-        "https://www.citizen.org/article/outrage-of-the-month-revolving-door-to-fda-commissioners-office-sows-distrust-in-agency/",
-        "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+        {
+          "title": "citizen.org",
+          "url": "https://www.citizen.org/article/outrage-of-the-month-revolving-door-to-fda-commissioners-office-sows-distrust-in-agency/"
+        },
+        {
+          "title": "globalresearch.ca",
+          "url": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+        }
       ],
       "status": "confirmed",
       "priority_id": "claude-priority-regulatory-capture-pharma-fda"
@@ -32740,10 +33038,22 @@
         "Jho Low"
       ],
       "sources": [
-        "https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks",
-        "https://www.icij.org/investigations/fincen-files/",
-        "https://www.bbc.com/news/business-54226456",
-        "https://www.reuters.com/article/us-usa-banks-fincen-idUSKCN26B0OL"
+        {
+          "title": "buzzfeednews.com",
+          "url": "https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks"
+        },
+        {
+          "title": "icij.org",
+          "url": "https://www.icij.org/investigations/fincen-files/"
+        },
+        {
+          "title": "bbc.com",
+          "url": "https://www.bbc.com/news/business-54226456"
+        },
+        {
+          "title": "reuters.com",
+          "url": "https://www.reuters.com/article/us-usa-banks-fincen-idUSKCN26B0OL"
+        }
       ],
       "importance": 9,
       "tags": [
@@ -32836,9 +33146,18 @@
         "FTX"
       ],
       "sources": [
-        "FEC filings",
-        "Campaign finance records",
-        "Fortune Magazine"
+        {
+          "title": "FEC filings",
+          "url": ""
+        },
+        {
+          "title": "Campaign finance records",
+          "url": ""
+        },
+        {
+          "title": "Fortune Magazine",
+          "url": ""
+        }
       ],
       "event_type": "regulatory_capture",
       "confirmed": true,
@@ -33827,10 +34146,22 @@
         "Anti-Corruption Foundation (FBK)"
       ],
       "sources": [
-        "https://www.youtube.com/watch?v=ipAnwilMncI",
-        "https://palace.navalny.com/",
-        "https://www.bbc.com/news/world-europe-55713045",
-        "https://www.reuters.com/article/us-russia-politics-navalny-palace-idUSKBN29O1Y8"
+        {
+          "title": "youtube.com",
+          "url": "https://www.youtube.com/watch?v=ipAnwilMncI"
+        },
+        {
+          "title": "palace.navalny.com",
+          "url": "https://palace.navalny.com/"
+        },
+        {
+          "title": "bbc.com",
+          "url": "https://www.bbc.com/news/world-europe-55713045"
+        },
+        {
+          "title": "reuters.com",
+          "url": "https://www.reuters.com/article/us-russia-politics-navalny-palace-idUSKBN29O1Y8"
+        }
       ],
       "importance": 9,
       "tags": [
@@ -34689,8 +35020,14 @@
         "Food and Drug Administration"
       ],
       "sources": [
-        "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870",
-        "https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry"
+        {
+          "title": "globalresearch.ca",
+          "url": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+        },
+        {
+          "title": "qz.com",
+          "url": "https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry"
+        }
       ],
       "status": "confirmed",
       "priority_id": "claude-priority-regulatory-capture-pharma-fda"
@@ -34710,10 +35047,22 @@
         "Alem\u00e1n, Cordero, Galindo & Lee"
       ],
       "sources": [
-        "https://www.icij.org/investigations/pandora-papers/",
-        "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful",
-        "https://www.bbc.com/news/world-58780561",
-        "https://www.washingtonpost.com/business/interactive/2021/pandora-papers-global-offshore/"
+        {
+          "title": "icij.org",
+          "url": "https://www.icij.org/investigations/pandora-papers/"
+        },
+        {
+          "title": "theguardian.com",
+          "url": "https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful"
+        },
+        {
+          "title": "bbc.com",
+          "url": "https://www.bbc.com/news/world-58780561"
+        },
+        {
+          "title": "washingtonpost.com",
+          "url": "https://www.washingtonpost.com/business/interactive/2021/pandora-papers-global-offshore/"
+        }
       ],
       "importance": 10,
       "tags": [
@@ -35217,10 +35566,22 @@
         "digital_assets"
       ],
       "sources": [
-        "https://www.newsweek.com/melania-trump-launches-nft-sale-melanias-vision-1660090",
-        "https://www.artnews.com/art-news/news/melania-trump-nft-platform-1234613890/",
-        "https://www.cbsnews.com/news/former-first-lady-melania-trump-launches-her-own-nft-endeavor/",
-        "https://www.prnewswire.com/news-releases/the-former-first-lady-of-the-united-states-mrs-melania-trump-to-launch-a-new-nft-and-blockchain-technology-venture-301446348.html"
+        {
+          "title": "newsweek.com",
+          "url": "https://www.newsweek.com/melania-trump-launches-nft-sale-melanias-vision-1660090"
+        },
+        {
+          "title": "artnews.com",
+          "url": "https://www.artnews.com/art-news/news/melania-trump-nft-platform-1234613890/"
+        },
+        {
+          "title": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/former-first-lady-melania-trump-launches-her-own-nft-endeavor/"
+        },
+        {
+          "title": "prnewswire.com",
+          "url": "https://www.prnewswire.com/news-releases/the-former-first-lady-of-the-united-states-mrs-melania-trump-to-launch-a-new-nft-and-blockchain-technology-venture-301446348.html"
+        }
       ],
       "importance_score": 7,
       "status": "confirmed",
@@ -35647,9 +36008,18 @@
         "Georgetown"
       ],
       "sources": [
-        "Future Fund website",
-        "University partnership announcements",
-        "Bloomberg"
+        {
+          "title": "Future Fund website",
+          "url": ""
+        },
+        {
+          "title": "University partnership announcements",
+          "url": ""
+        },
+        {
+          "title": "Bloomberg",
+          "url": ""
+        }
       ],
       "event_type": "academic_capture",
       "confirmed": true,
@@ -35666,9 +36036,18 @@
         "Kleptocracy Asset Recovery Initiative"
       ],
       "sources": [
-        "https://www.justice.gov/opa/pr/attorney-general-announces-task-force-kleptocapture",
-        "https://globalanticorruptionblog.com/tag/kleptocracy-asset-recovery-initiative/",
-        "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/"
+        {
+          "title": "justice.gov",
+          "url": "https://www.justice.gov/opa/pr/attorney-general-announces-task-force-kleptocapture"
+        },
+        {
+          "title": "globalanticorruptionblog.com",
+          "url": "https://globalanticorruptionblog.com/tag/kleptocracy-asset-recovery-initiative/"
+        },
+        {
+          "title": "amlintelligence.com",
+          "url": "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/"
+        }
       ],
       "importance": 7,
       "tags": [
@@ -36509,46 +36888,32 @@
       ],
       "sources": [
         {
-          "name": "ProPublica/The Lever Joint Investigation",
-          "url": "https://www.propublica.org/article/dark-money-leonard-leo-barre-seid",
-          "date": "2022-08-22",
-          "description": "Original investigative report detailing the $1.6 billion donation and its tax implications"
+          "title": "https://www.propublica.org/article/dark-money-leonard-leo-barre-seid",
+          "url": "https://www.propublica.org/article/dark-money-leonard-leo-barre-seid"
         },
         {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/2022/08/22/us/barre-seid-leonard-leo-donation.html",
-          "date": "2022-08-22",
-          "description": "First major news outlet to report the $1.6 billion donation details"
+          "title": "https://www.nytimes.com/2022/08/22/us/barre-seid-leonard-leo-donation.html",
+          "url": "https://www.nytimes.com/2022/08/22/us/barre-seid-leonard-leo-donation.html"
         },
         {
-          "name": "Deseret News",
-          "url": "https://www.deseret.com/2022/8/23/23318205/conservative-political-group-marble-freedom-donation/",
-          "date": "2022-08-23",
-          "description": "Analysis of the donation's political and financial structure"
+          "title": "https://www.deseret.com/2022/8/23/23318205/conservative-political-group-marble-freedom-donation/",
+          "url": "https://www.deseret.com/2022/8/23/23318205/conservative-political-group-marble-freedom-donation/"
         },
         {
-          "name": "Washington Post",
-          "url": "https://www.washingtonpost.com/opinions/2022/08/28/leonard-leo-donation-campaign-finance/",
-          "date": "2022-08-28",
-          "description": "Opinion piece examining the broader implications of the massive dark money donation"
+          "title": "https://www.washingtonpost.com/opinions/2022/08/28/leonard-leo-donation-campaign-finance/",
+          "url": "https://www.washingtonpost.com/opinions/2022/08/28/leonard-leo-donation-campaign-finance/"
         },
         {
-          "name": "IRS Tax Form (as reported by CNN)",
-          "url": "https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html",
-          "date": "2022-08-22",
-          "description": "Verified tax documentation showing distribution of funds from Marble Freedom Trust"
+          "title": "https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html",
+          "url": "https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html"
         },
         {
-          "name": "Fox News",
-          "url": "https://www.foxnews.com/politics/new-conservative-group-gets-1-6-billion-donation",
-          "date": "2022-08-22",
-          "description": "Fox News reporting on the details of the conservative group donation"
+          "title": "https://www.foxnews.com/politics/new-conservative-group-gets-1-6-billion-donation",
+          "url": "https://www.foxnews.com/politics/new-conservative-group-gets-1-6-billion-donation"
         },
         {
-          "name": "Democracy Now!",
-          "url": "https://www.democracynow.org/2022/8/25/16_billion_leonard_leo_dark_money",
-          "date": "2022-08-25",
-          "description": "In-depth profile of Barre Seid and the donation's context"
+          "title": "https://www.democracynow.org/2022/8/25/16_billion_leonard_leo_dark_money",
+          "url": "https://www.democracynow.org/2022/8/25/16_billion_leonard_leo_dark_money"
         }
       ],
       "status": "confirmed"
@@ -36814,9 +37179,18 @@
         "Twitter Inc."
       ],
       "sources": [
-        "https://www.aljazeera.com/news/2022/10/28/saudis-kingdom-holding-company-to-maintain-twitter-stake",
-        "https://www.bloomberg.com/news/articles/2022-11-01/musk-s-twitter-investors-include-saudi-prince-dorsey-and-qatar",
-        "https://www.axios.com/2022/11/01/elon-musk-twitter-saudi-arabia"
+        {
+          "title": "aljazeera.com",
+          "url": "https://www.aljazeera.com/news/2022/10/28/saudis-kingdom-holding-company-to-maintain-twitter-stake"
+        },
+        {
+          "title": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2022-11-01/musk-s-twitter-investors-include-saudi-prince-dorsey-and-qatar"
+        },
+        {
+          "title": "axios.com",
+          "url": "https://www.axios.com/2022/11/01/elon-musk-twitter-saudi-arabia"
+        }
       ],
       "status": "confirmed",
       "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"
@@ -36834,9 +37208,18 @@
         "Academic Institutions"
       ],
       "sources": [
-        "DOJ criminal filing",
-        "Bankruptcy court documents",
-        "University statements"
+        {
+          "title": "DOJ criminal filing",
+          "url": ""
+        },
+        {
+          "title": "Bankruptcy court documents",
+          "url": ""
+        },
+        {
+          "title": "University statements",
+          "url": ""
+        }
       ],
       "event_type": "fraud_exposure",
       "confirmed": true,
@@ -37025,10 +37408,22 @@
         "market_manipulation"
       ],
       "sources": [
-        "https://nftpricefloor.com/trump-nft-digital-trading-cards",
-        "https://www.cryptoslam.io/trumpdigitaltradingcards",
-        "https://www.coindesk.com/web3/2022/12/16/trump-nft-collection-sells-out-price-surges",
-        "https://finance.yahoo.com/news/trump-nft-prices-nosedive-then-soar-185015789.html"
+        {
+          "title": "nftpricefloor.com",
+          "url": "https://nftpricefloor.com/trump-nft-digital-trading-cards"
+        },
+        {
+          "title": "cryptoslam.io",
+          "url": "https://www.cryptoslam.io/trumpdigitaltradingcards"
+        },
+        {
+          "title": "coindesk.com",
+          "url": "https://www.coindesk.com/web3/2022/12/16/trump-nft-collection-sells-out-price-surges"
+        },
+        {
+          "title": "finance.yahoo.com",
+          "url": "https://finance.yahoo.com/news/trump-nft-prices-nosedive-then-soar-185015789.html"
+        }
       ],
       "importance_score": 8,
       "status": "confirmed",
@@ -39082,8 +39477,14 @@
         "Far-right Network Actors"
       ],
       "sources": [
-        "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/",
-        "https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321"
+        {
+          "title": "misinforeview.hks.harvard.edu",
+          "url": "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/"
+        },
+        {
+          "title": "nbcnews.com",
+          "url": "https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321"
+        }
       ],
       "status": "confirmed",
       "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"
@@ -41146,10 +41547,8 @@
           "notes": "Details emerging executive order proposing Foreign Service restructuring"
         },
         {
-          "outlet": "Foreign Policy",
           "title": "Dissent Channel: A Mechanism of Diplomatic Criticism and Preservation",
-          "date": "2024",
-          "notes": "Background on historical dissent channel established in 1971"
+          "url": ""
         }
       ],
       "status": "confirmed",
@@ -41278,7 +41677,7 @@
       ]
     },
     {
-      "id": "2024-03-22--grok-ai-open-source-release",
+      "id": "2024-03-22--grok-ai-regulatory-investigation",
       "date": "2024-03-22",
       "title": "xAI Announces Open Source Release of Grok AI",
       "summary": "xAI, founded by Elon Musk, announced plans to open source its Grok AI chatbot in March 2024. This followed ongoing legal disputes with OpenAI and amid broader industry discussions about AI transparency and development practices.",
@@ -42761,9 +43160,18 @@
       ],
       "importance": 8,
       "sources": [
-        "https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation",
-        "https://abcnews.go.com/Politics/director-heritage-foundations-project-2025-stepping/story?id=112415277",
-        "https://www.newsweek.com/project-2025-director-steps-down-heritage-foundation-report-1932277"
+        {
+          "title": "pbs.org",
+          "url": "https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation"
+        },
+        {
+          "title": "abcnews.go.com",
+          "url": "https://abcnews.go.com/Politics/director-heritage-foundations-project-2025-stepping/story?id=112415277"
+        },
+        {
+          "title": "newsweek.com",
+          "url": "https://www.newsweek.com/project-2025-director-steps-down-heritage-foundation-report-1932277"
+        }
       ],
       "tags": [
         "project-2025",
@@ -42946,10 +43354,22 @@
         "Republican Party"
       ],
       "sources": [
-        "https://cybernews.com/news/x-algorithm-changed-musk-boost-right-wing/",
-        "https://arxiv.org/html/2411.01852v3",
-        "https://www.techpolicy.press/new-research-points-to-possible-algorithmic-bias-on-x/",
-        "https://uk.finance.yahoo.com/news/elon-musk-appears-tweaked-x-205549349.html"
+        {
+          "title": "cybernews.com",
+          "url": "https://cybernews.com/news/x-algorithm-changed-musk-boost-right-wing/"
+        },
+        {
+          "title": "arxiv.org",
+          "url": "https://arxiv.org/html/2411.01852v3"
+        },
+        {
+          "title": "techpolicy.press",
+          "url": "https://www.techpolicy.press/new-research-points-to-possible-algorithmic-bias-on-x/"
+        },
+        {
+          "title": "uk.finance.yahoo.com",
+          "url": "https://uk.finance.yahoo.com/news/elon-musk-appears-tweaked-x-205549349.html"
+        }
       ],
       "status": "confirmed",
       "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
@@ -43518,9 +43938,18 @@
         "Heritage Foundation"
       ],
       "sources": [
-        "https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election",
-        "https://www.poynter.org/fact-checking/2024/jd-vance-who-wrote-project-2025/",
-        "https://www.inquirer.com/politics/election/jd-vance-kevin-roberts-book-foreword-20240808.html"
+        {
+          "title": "pbs.org",
+          "url": "https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election"
+        },
+        {
+          "title": "poynter.org",
+          "url": "https://www.poynter.org/fact-checking/2024/jd-vance-who-wrote-project-2025/"
+        },
+        {
+          "title": "inquirer.com",
+          "url": "https://www.inquirer.com/politics/election/jd-vance-kevin-roberts-book-foreword-20240808.html"
+        }
       ],
       "tags": [
         "succession-risk",
@@ -43634,39 +44063,13 @@
       "status": "confirmed"
     },
     {
-      "date": "2024-08-29",
-      "title": "Kylian Mbapp\u00e9 Twitter Account Hacked to Promote 00 Million Celebrity Crypto Pump-and-Dump",
-      "summary": "Soccer superstar Kylian Mbapp\u00e9's official Twitter account was compromised in a sophisticated phishing attack to promote a fraudulent token called MBAPPE to his massive following. The scheme represents an evolution in celebrity-based crypto pump-and-dump operations, where hackers compromise high-profile accounts rather than paying celebrities directly, highlighting the intersection of social media security and crypto fraud.",
-      "importance": 7,
-      "actors": [
-        "Kylian Mbapp\u00e9",
-        "Unknown Hackers"
-      ],
-      "sources": [
-        {
-          "title": "Fame and failure: 7 celebrity-endorsed crypto scams that went wrong",
-          "url": "https://cointelegraph.com/news/fame-failure-celebrity-crypto-scams",
-          "outlet": "Cointelegraph"
-        }
-      ],
-      "tags": [
-        "crypto",
-        "pump and dump",
-        "celebrity",
-        "social media",
-        "phishing",
-        "fraud"
-      ],
-      "id": "2024-08-29--kylian-mbapp\u00e9-twitter-account-hacked-to-promote-00"
-    },
-    {
       "actors": [
         "Kylian Mbapp\u00e9",
         "Unknown Hackers",
         "Sahil Arora"
       ],
       "date": "2024-08-29",
-      "id": "2024-08-29--kylian-mbapp\u00e9-twitter-account-hacked-to-promote-00",
+      "id": "2024-08-29--kylian-mbapp\\u00e9-twitter-account-hacked-to-promote-00",
       "importance": 8,
       "sources": [
         {
@@ -44137,10 +44540,22 @@
         "Robert Habeck"
       ],
       "sources": [
-        "https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter",
-        "https://theconversation.com/elon-musks-flood-of-us-election-tweets-may-look-chaotic-my-data-reveals-an-alarming-strategy-243021",
-        "https://www.bloomberg.com/news/articles/2024-10-16/elon-musk-s-75-million-gift-cements-role-as-a-top-trump-donor",
-        "https://www.bloomberg.com/news/articles/2024-10-02/elon-musk-s-america-pac-still-hiring-for-get-out-the-vote-as-election-nears"
+        {
+          "title": "npr.org",
+          "url": "https://www.npr.org/2024/10/22/nx-s1-5156184/elon-musk-trump-election-x-twitter"
+        },
+        {
+          "title": "theconversation.com",
+          "url": "https://theconversation.com/elon-musks-flood-of-us-election-tweets-may-look-chaotic-my-data-reveals-an-alarming-strategy-243021"
+        },
+        {
+          "title": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2024-10-16/elon-musk-s-75-million-gift-cements-role-as-a-top-trump-donor"
+        },
+        {
+          "title": "bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2024-10-02/elon-musk-s-america-pac-still-hiring-for-get-out-the-vote-as-election-nears"
+        }
       ],
       "status": "confirmed",
       "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"
@@ -44809,9 +45224,18 @@
         "CFTC"
       ],
       "sources": [
-        "https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/",
-        "https://www.financemagnates.com/cryptocurrency/regulatory-winds-of-change-crypto-industry-prepares-for-compliance-in-2024/",
-        "https://www.gov.uk/government/publications/regulatory-regime-for-cryptoassets-regulated-activities-draft-si-and-policy-note/future-financial-services-regulatory-regime-for-cryptoassets-regulated-activities-policy-note-accessible"
+        {
+          "title": "fsb.org",
+          "url": "https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/"
+        },
+        {
+          "title": "financemagnates.com",
+          "url": "https://www.financemagnates.com/cryptocurrency/regulatory-winds-of-change-crypto-industry-prepares-for-compliance-in-2024/"
+        },
+        {
+          "title": "gov.uk",
+          "url": "https://www.gov.uk/government/publications/regulatory-regime-for-cryptoassets-regulated-activities-draft-si-and-policy-note/future-financial-services-regulatory-regime-for-cryptoassets-regulated-activities-policy-note-accessible"
+        }
       ],
       "status": "confirmed"
     },
@@ -45084,9 +45508,18 @@
         "Kim Yong Hyun"
       ],
       "sources": [
-        "https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/",
-        "https://www.npr.org/2024/12/12/g-s1-37854/south-korea-yoon-martial-law",
-        "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis"
+        {
+          "title": "cbsnews.com",
+          "url": "https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/"
+        },
+        {
+          "title": "npr.org",
+          "url": "https://www.npr.org/2024/12/12/g-s1-37854/south-korea-yoon-martial-law"
+        },
+        {
+          "title": "en.wikipedia.org",
+          "url": "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis"
+        }
       ],
       "tags": [
         "South Korea",
@@ -46163,10 +46596,22 @@
       ],
       "importance": 10,
       "sources": [
-        "NBC News: 'WATCH: JD Vance is sworn in as vice president'",
-        "CBS News: 'Here's who is swearing in Trump and Vance at the 2025 inauguration'",
-        "The Hill: 'Who was sitting behind JD Vance on Inauguration Day?'",
-        "California Governor's Office: Official inaugural statement"
+        {
+          "title": "NBC News: 'WATCH: JD Vance is sworn in as vice president'",
+          "url": ""
+        },
+        {
+          "title": "CBS News: 'Here's who is swearing in Trump and Vance at the 2025 inauguration'",
+          "url": ""
+        },
+        {
+          "title": "The Hill: 'Who was sitting behind JD Vance on Inauguration Day?'",
+          "url": ""
+        },
+        {
+          "title": "California Governor's Office: Official inaugural statement",
+          "url": ""
+        }
       ],
       "tags": [
         "inauguration",
@@ -46274,7 +46719,7 @@
         "civil_service_reform"
       ],
       "status": "confirmed",
-      "id": "2025-01-20--coordinated-federal-workforce-purge-schedule-f-doj",
+      "id": "enhanced_2025-01-20--coordinated-federal-workforce-purge-schedule-f-doj",
       "capture_lanes": [
         "Regulatory Capture",
         "Financial Capture",
@@ -46693,6 +47138,54 @@
         "Constitutional Transformation"
       ],
       "location": "U.S. Capitol Rotunda, Washington, D.C."
+    },
+    {
+      "id": "2025-01-20--jd-vance-inaugurated-as-vice-president",
+      "date": "2025-01-20",
+      "title": "J.D. Vance Inaugurated as 50th Vice President",
+      "status": "confirmed",
+      "actors": [
+        "J.D. Vance",
+        "Donald Trump",
+        "Peter Thiel",
+        "Republican Party"
+      ],
+      "sources": [
+        {
+          "outlet": "ABC News",
+          "title": "Megabill negotiations show Vance is a key player in the Trump administration",
+          "url": "https://abcnews.go.com/Politics/megabill-negotiations-show-vance-key-player-trump-administration/story?id=123418081",
+          "date": "2025-03-15"
+        },
+        {
+          "outlet": "NPR",
+          "title": "A look at VP Vance's role in the Trump White House",
+          "url": "https://www.npr.org/2025/03/06/nx-s1-5316821/a-look-at-vp-vances-role-in-the-trump-white-house",
+          "date": "2025-03-06"
+        },
+        {
+          "outlet": "NBC News",
+          "title": "Trump helps pad JD Vance's political fund as questions about 2028 loom",
+          "url": "https://www.nbcnews.com/politics/2028-election/trump-helps-pad-jd-vances-political-fund-questions-2028-loom-rcna229402",
+          "date": "2025-05-02"
+        }
+      ],
+      "summary": "J.D. Vance was sworn in as the 50th Vice President of the United States on January 20, 2025, completing a remarkable political transformation from bestselling author and Trump critic to Trump's most prominent advocate. At 40 years old, he is the first millennial and third-youngest vice president in U.S. history. Vance quickly established himself as a key player in the Trump administration, serving as the president's primary legislative negotiator, casting critical tie-breaking votes in the Senate, and becoming the first vice president to simultaneously serve as the Republican National Committee finance chair. His role extends beyond traditional vice presidential duties, positioning him as a potential MAGA heir apparent for the 2028 presidential election.",
+      "tags": [
+        "inauguration",
+        "vice-president",
+        "political-transformation",
+        "thiel-influence",
+        "trump-administration",
+        "republican-party",
+        "legislative-strategy"
+      ],
+      "capture_lanes": [
+        "Regulatory Capture",
+        "Executive Power Expansion",
+        "Political Network Consolidation"
+      ],
+      "importance": 10
     },
     {
       "id": "2025-01-20--78-biden-orders-rescinded",
@@ -48338,23 +48831,19 @@
       ],
       "sources": [
         {
-          "outlet": "Time Magazine",
-          "date": "2025-01-24",
+          "title": "https://time.com/7209901/donald-trump-executive-actions-project-2025/",
           "url": "https://time.com/7209901/donald-trump-executive-actions-project-2025/"
         },
         {
-          "outlet": "NPR",
-          "date": "2025-01-31",
+          "title": "https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning",
           "url": "https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning"
         },
         {
-          "outlet": "PBS News Weekend",
-          "date": "2025-01-31",
+          "title": "https://www.pbs.org/newshour/show/the-project-2025-policies-the-trump-administration-is-already-implementing",
           "url": "https://www.pbs.org/newshour/show/the-project-2025-policies-the-trump-administration-is-already-implementing"
         },
         {
-          "outlet": "CBS News",
-          "date": "2025-01-31",
+          "title": "https://www.cbsnews.com/news/trump-project-2025-first-100-days/",
           "url": "https://www.cbsnews.com/news/trump-project-2025-first-100-days/"
         }
       ],
@@ -50569,9 +51058,18 @@
       ],
       "importance": 9,
       "sources": [
-        "Federal News Network",
-        "Wikipedia",
-        "Project 2025 analysis"
+        {
+          "title": "Federal News Network",
+          "url": ""
+        },
+        {
+          "title": "Wikipedia",
+          "url": ""
+        },
+        {
+          "title": "Project 2025 analysis",
+          "url": ""
+        }
       ],
       "tags": [
         "schedule-f",
@@ -53212,7 +53710,7 @@
       "status": "confirmed"
     },
     {
-      "id": "2025-02-15--trump-doj-systematic-prosecutor-removals",
+      "id": "2025-02-15--example-trump-doj-weaponization-event",
       "date": "2025-02-15",
       "title": "Trump Administration Systematically Removes DOJ Prosecutors",
       "summary": "The Trump administration initiated a widespread purge of federal prosecutors, particularly those who previously investigated the president. Over 40 career prosecutors were fired without warning, with the acting attorney general claiming they could not be 'trusted to faithfully implement the President's agenda'. Key targets included prosecutors involved in special counsel Jack Smith's investigations into Trump's handling of classified documents and attempts to overturn the 2020 election.",
@@ -53513,9 +54011,18 @@
         "Transparency International"
       ],
       "sources": [
-        "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/",
-        "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/",
-        "https://www.lawfaremedia.org/article/bondi-s-dismantling-of-the-kleptocracy-team-threatens-national-security"
+        {
+          "title": "amlintelligence.com",
+          "url": "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/"
+        },
+        {
+          "title": "us.transparency.org",
+          "url": "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/"
+        },
+        {
+          "title": "lawfaremedia.org",
+          "url": "https://www.lawfaremedia.org/article/bondi-s-dismantling-of-the-kleptocracy-team-threatens-national-security"
+        }
       ],
       "importance": 8,
       "tags": [
@@ -56245,7 +56752,7 @@
       "status": "confirmed"
     },
     {
-      "id": "2025-03-01--project-2025-authors-fill-key-administration-positions-1757456630",
+      "id": "enhanced_2025-03-01--project-2025-authors-fill-key-administration-positions-1757456630",
       "date": "2025-03-01",
       "title": "Project 2025 Authors Fill Key Administration Positions",
       "summary": "An in-depth analysis reveals that over 70% of Trump's cabinet members have direct connections to the Project 2025 blueprint, with more than 50 high-level officials from the project strategically placed in key government roles. Notable appointees include Brendan Carr (FCC Chairman), Tom Homan (Border Czar), and Linda McMahon (Education Secretary), who have either authored or closely aligned with Project 2025's comprehensive governmental transformation strategy.",
@@ -65774,9 +66281,18 @@
         "Joshua Kushner"
       ],
       "sources": [
-        "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system",
-        "https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/",
-        "https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/"
+        {
+          "title": "propublica.org",
+          "url": "https://www.propublica.org/article/trump-peter-thiel-ramp-gsa-smartpay-expense-payment-system"
+        },
+        {
+          "title": "techcrunch.com",
+          "url": "https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/"
+        },
+        {
+          "title": "bankingdive.com",
+          "url": "https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/"
+        }
       ]
     },
     {
@@ -67029,9 +67545,7 @@
         },
         {
           "title": "Musk Inner Circle Selling Private Company Access",
-          "outlet": "Online News Analysis",
-          "date": "2025-04-24",
-          "notes": "Detailed analysis of private share sales by Musk associates"
+          "url": ""
         },
         {
           "title": "Elon Musk's SpaceX Share Sale to Value Company at About $400 Billion",
@@ -73720,11 +74234,26 @@
       ],
       "importance": 9,
       "sources": [
-        "ProPublica: Russell Vought's Project 2025 Policy Statements",
-        "AP News: White House Budget Office Federal Workforce Reduction",
-        "Official OMB/OPM Guidance on Agency Workforce Reductions",
-        "Federal News Network",
-        "Project 2025 Implementation analysis"
+        {
+          "title": "ProPublica: Russell Vought's Project 2025 Policy Statements",
+          "url": ""
+        },
+        {
+          "title": "AP News: White House Budget Office Federal Workforce Reduction",
+          "url": ""
+        },
+        {
+          "title": "Official OMB/OPM Guidance on Agency Workforce Reductions",
+          "url": ""
+        },
+        {
+          "title": "Federal News Network",
+          "url": ""
+        },
+        {
+          "title": "Project 2025 Implementation analysis",
+          "url": ""
+        }
       ],
       "tags": [
         "workforce-reduction",
@@ -78587,9 +79116,18 @@
       ],
       "importance": 9,
       "sources": [
-        "PBS NewsHour: 'As NOAA braces for more cuts, scientists say public safety is at risk'",
-        "Environmental Defense Fund: 'Reports: Trump Administration Plans Detrimental Cuts to NOAA Climate Research'",
-        "Project 2025 Implementation analysis"
+        {
+          "title": "PBS NewsHour: 'As NOAA braces for more cuts, scientists say public safety is at risk'",
+          "url": ""
+        },
+        {
+          "title": "Environmental Defense Fund: 'Reports: Trump Administration Plans Detrimental Cuts to NOAA Climate Research'",
+          "url": ""
+        },
+        {
+          "title": "Project 2025 Implementation analysis",
+          "url": ""
+        }
       ],
       "tags": [
         "climate-dismantling",
@@ -82474,9 +83012,18 @@
       ],
       "importance": 8,
       "sources": [
-        "Food Research & Action Center",
-        "ACLU",
-        "NPR"
+        {
+          "title": "Food Research & Action Center",
+          "url": ""
+        },
+        {
+          "title": "ACLU",
+          "url": ""
+        },
+        {
+          "title": "NPR",
+          "url": ""
+        }
       ],
       "tags": [
         "education-dismantling",
@@ -83287,7 +83834,7 @@
       ]
     },
     {
-      "id": "2025-08-26--doge-social-security-data-breach",
+      "id": "enhanced_2025-08-26--doge-social-security-data-breach",
       "date": "2025-08-26",
       "title": "Whistleblower Reveals DOGE's Alleged Unauthorized Copy of Social Security NUMIDENT Database",
       "summary": "A critical whistleblower complaint filed by Charles Borges, SSA Chief Data Officer, alleges that the Department of Government Efficiency (DOGE) improperly copied the entire NUMIDENT database, containing sensitive personal information for over 300 million Americans, into an unsecured cloud environment.\n\nKey Details:\n- Former DOGE employee John Solly requested copying the NUMIDENT database on June 10, 2025\n- The database includes comprehensive personal information: Social Security numbers, names, birthdates, citizenship data, family details, phone numbers, and addresses\n- Solly's request was approved by DOGE-affiliated officials Michael Russo and Aram Moghaddassi, allegedly circumventing standard SSA security protocols\n- A March 20, 2025 temporary restraining order forbidding external access to live Social Security data was reportedly disregarded\n\nCybersecurity Vulnerability:\n- The cloud environment reportedly lacks independent security controls or audit mechanisms\n- Potential risks include widespread identity theft, compromise of healthcare and food benefits\n- SSA claims to be 'unaware of any compromise' despite the whistleblower's detailed complaint\n\nContext: This incident reveals profound systemic risks in government data handling, highlighting potential institutional capture mechanisms and the dangers of creating new government departments with insufficient oversight and cybersecurity protocols.\n\nSignificance: The event represents one of the most significant potential cybersecurity vulnerabilities involving U.S. government databases in 2025, with implications for the personal security of hundreds of millions of Americans.",

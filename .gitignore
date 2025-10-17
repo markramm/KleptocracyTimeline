@@ -201,3 +201,4 @@ timeline_data/static/logs/
 archive/
 coverage_html/
 .coverage
+coverage.json
