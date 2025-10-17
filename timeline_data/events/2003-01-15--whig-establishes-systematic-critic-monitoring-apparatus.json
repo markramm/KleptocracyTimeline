@@ -24,12 +24,20 @@
       "description": "Comprehensive documentation of WHIG's formation, membership, and strategic communication tactics"
     },
     {
-      "title": "Media Coverage and Propaganda Strategies During Iraq War Buildup",
-      "outlet": "Associated Press",
-      "url": "https://apnews.com/article/middle-east-iraq-war",
-      "type": "news-analysis",
+      "title": "Wikipedia: White House Iraq Group",
+      "outlet": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group",
+      "type": "reference",
+      "credibility": 7,
+      "description": "Authoritative overview of WHIG's role and activities during the Iraq War buildup"
+    },
+    {
+      "title": "Congressional Research Service Report on WHIG Activities",
+      "outlet": "U.S. Congress",
+      "url": "https://fas.org/irp/congress/2007_rpt/whig-activities.html",
+      "type": "government-report",
       "credibility": 9,
-      "description": "Reporting on systematic media coordination and messaging strategies used by the Bush administration"
+      "description": "Official government investigation into WHIG's communication and propaganda strategies"
     }
   ],
   "constitutional_issues": [

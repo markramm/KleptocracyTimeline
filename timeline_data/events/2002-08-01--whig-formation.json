@@ -65,6 +65,13 @@
             "outlet": "NPR",
             "date_accessed": "2025-10-17",
             "description": "Details on secret White House agencies manipulating intelligence to support Iraq War narrative"
+        },
+        {
+            "title": "White House Iraq Group: Marketing the War",
+            "url": "https://www.pbs.org/wgbh/pages/frontline/shows/truth/",
+            "outlet": "PBS Frontline",
+            "date_accessed": "2025-10-17",
+            "description": "In-depth documentary exploring the institutional mechanisms behind the Iraq War narrative"
         }
     ]
 }

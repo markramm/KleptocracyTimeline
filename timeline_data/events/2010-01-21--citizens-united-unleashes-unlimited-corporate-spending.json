@@ -56,6 +56,13 @@
       "outlet": "ProPublica",
       "date_accessed": "2025-10-17",
       "description": "Analysis of transparency issues emerging from Citizens United decision"
+    },
+    {
+      "title": "Big Sky, Big Money: How Citizens United Changed Campaign Spending",
+      "url": "https://www.pbs.org/wgbh/frontline/article/archives-citizens-united-campaign-spending-documentary/",
+      "outlet": "PBS Frontline",
+      "date_accessed": "2025-10-17",
+      "description": "Comprehensive documentary exploring the transformation of campaign finance after the Supreme Court decision, revealing the rise of dark money and outside political spending"
     }
   ],
   "status": "confirmed",

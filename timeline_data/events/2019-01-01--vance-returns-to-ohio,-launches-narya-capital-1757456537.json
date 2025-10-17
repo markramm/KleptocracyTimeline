@@ -24,6 +24,13 @@
       "outlet": "Bloomberg",
       "date": "2019-01-01",
       "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "Crunchbase: J.D. Vance Professional Profile",
+      "url": "https://www.crunchbase.com/person/j-d-vance",
+      "outlet": "Crunchbase",
+      "date": "2025",
+      "date_accessed": "2025-10-17"
     }
   ],
   "tags": [
