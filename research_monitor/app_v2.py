@@ -104,6 +104,15 @@ PRIORITIES_PATH = Path(os.environ.get('RESEARCH_PRIORITIES_PATH', '../research_p
 VALIDATION_LOGS_PATH = Path(os.environ.get('VALIDATION_LOGS_PATH', '../timeline_data/validation_logs'))
 COMMIT_THRESHOLD = int(os.environ.get('COMMIT_THRESHOLD', '10'))
 
+# Store configuration in app.config for blueprint access
+app.config['API_KEY'] = API_KEY
+app.config['DB_PATH'] = DB_PATH
+app.config['EVENTS_PATH'] = EVENTS_PATH
+app.config['PRIORITIES_PATH'] = PRIORITIES_PATH
+app.config['VALIDATION_LOGS_PATH'] = VALIDATION_LOGS_PATH
+app.config['COMMIT_THRESHOLD'] = COMMIT_THRESHOLD
+app.config['CACHE'] = cache  # Make cache available to blueprints
+
 # Database setup
 engine = init_database(DB_PATH)
 Session = scoped_session(sessionmaker(bind=engine))
@@ -783,6 +792,11 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
             file_path=str(event_file) if event_file else None
         )
         return False
+
+# ==================== BLUEPRINT REGISTRATION ====================
+# Import and register route blueprints
+from research_monitor.routes import register_blueprints
+register_blueprints(app)
 
 # ==================== RESEARCH PRIORITY APIS (Database Authoritative) ====================
 
@@ -1674,126 +1688,128 @@ def reset_commit_counter():
 
 # ==================== SERVER MANAGEMENT ====================
 
-@app.route('/api/server/shutdown', methods=['POST'])
-@require_api_key
-def graceful_shutdown():
-    """Gracefully shutdown the Research Monitor server"""
-    global syncer
-    
-    try:
-        # Stop the filesystem sync thread
-        if syncer:
-            syncer.stop()
-            logger.info("Filesystem sync thread stopped")
-        
-        # Close database connections
-        try:
-            Session.remove()
-            engine.dispose()
-            logger.info("Database connections closed")
-        except Exception as e:
-            logger.warning(f"Error closing database connections: {e}")
-        
-        # Schedule Flask server shutdown
-        def shutdown_server():
-            time.sleep(1)  # Give response time to be sent
-            try:
-                os.kill(os.getpid(), signal.SIGTERM)
-            except Exception as e:
-                logger.error(f"Error during shutdown: {e}")
-        threading.Thread(target=shutdown_server).start()
-        
-        return jsonify({
-            'status': 'shutting_down',
-            'message': 'Research Monitor server is shutting down gracefully'
-        })
-        
-    except Exception as e:
-        logger.error(f"Error during graceful shutdown: {e}")
-        return jsonify({
-            'status': 'error',
-            'message': f'Shutdown error: {str(e)}'
-        }), 500
+# MOVED TO routes/system.py blueprint
+# @app.route('/api/server/shutdown', methods=['POST'])
+# @require_api_key
+# def graceful_shutdown():
+#     """Gracefully shutdown the Research Monitor server"""
+#     global syncer
+#
+#     try:
+#         # Stop the filesystem sync thread
+#         if syncer:
+#             syncer.stop()
+#             logger.info("Filesystem sync thread stopped")
+#
+#         # Close database connections
+#         try:
+#             Session.remove()
+#             engine.dispose()
+#             logger.info("Database connections closed")
+#         except Exception as e:
+#             logger.warning(f"Error closing database connections: {e}")
+#
+#         # Schedule Flask server shutdown
+#         def shutdown_server():
+#             time.sleep(1)  # Give response time to be sent
+#             try:
+#                 os.kill(os.getpid(), signal.SIGTERM)
+#             except Exception as e:
+#                 logger.error(f"Error during shutdown: {e}")
+#         threading.Thread(target=shutdown_server).start()
+#
+#         return jsonify({
+#             'status': 'shutting_down',
+#             'message': 'Research Monitor server is shutting down gracefully'
+#         })
+#
+#     except Exception as e:
+#         logger.error(f"Error during graceful shutdown: {e}")
+#         return jsonify({
+#             'status': 'error',
+#             'message': f'Shutdown error: {str(e)}'
+#         }), 500
+#
+# @app.route('/api/server/health', methods=['GET'])
+# def health_check():
+#     """Simple health check endpoint"""
+#     db = get_db()
+#     try:
+#         # Test database connection
+#         db.execute(text('SELECT 1'))
+#         db_status = 'healthy'
+#     except Exception as e:
+#         db_status = f'unhealthy: {str(e)}'
+#     finally:
+#         db.close()
+#
+#     return jsonify({
+#         'status': 'healthy',
+#         'database': db_status,
+#         'session_id': current_session_id,
+#         'events_since_commit': events_since_commit,
+#         'timestamp': datetime.now().isoformat()
+#     })
 
-@app.route('/api/server/health', methods=['GET'])
-def health_check():
-    """Simple health check endpoint"""
-    db = get_db()
-    try:
-        # Test database connection
-        db.execute(text('SELECT 1'))
-        db_status = 'healthy'
-    except Exception as e:
-        db_status = f'unhealthy: {str(e)}'
-    finally:
-        db.close()
-    
-    return jsonify({
-        'status': 'healthy',
-        'database': db_status,
-        'session_id': current_session_id,
-        'events_since_commit': events_since_commit,
-        'timestamp': datetime.now().isoformat()
-    })
-
-@app.route('/api/openapi.json', methods=['GET'])
-@cache.cached(timeout=3600)  # Cache for 1 hour
-def get_openapi_spec():
-    """Return OpenAPI 3.0 specification"""
-    try:
-        openapi_path = Path(__file__).parent / 'openapi.json'
-        with open(openapi_path, 'r') as f:
-            spec = json.load(f)
-        return jsonify(spec)
-    except Exception as e:
-        logger.error(f"Error loading OpenAPI spec: {e}")
-        return jsonify({
-            'error': 'OpenAPI specification not available',
-            'message': str(e)
-        }), 500
-
-@app.route('/api/docs', methods=['GET'])
-def api_documentation():
-    """Redirect to API documentation"""
-    return jsonify({
-        'documentation': {
-            'markdown': '/static/API_DOCUMENTATION.md',
-            'openapi': '/api/openapi.json',
-            'interactive': 'Planned for future release'
-        },
-        'endpoints': {
-            'events': [
-                '/api/events/search',
-                '/api/events/{id}',
-                '/api/events/staged'
-            ],
-            'timeline': [
-                '/api/timeline/events',
-                '/api/timeline/actors',
-                '/api/timeline/tags',
-                '/api/timeline/sources'
-            ],
-            'visualization': [
-                '/api/viewer/timeline-data',
-                '/api/viewer/actor-network',
-                '/api/viewer/tag-cloud'
-            ],
-            'statistics': [
-                '/api/viewer/stats/overview',
-                '/api/viewer/stats/actors',
-                '/api/viewer/stats/patterns'
-            ],
-            'research': [
-                '/api/priorities/next',
-                '/api/priorities/{id}/status'
-            ],
-            'system': [
-                '/api/server/health',
-                '/api/stats',
-                '/api/commit/status'
-            ]
-        }
-    })
+# MOVED TO routes/docs.py blueprint
+# @app.route('/api/openapi.json', methods=['GET'])
+# @cache.cached(timeout=3600)  # Cache for 1 hour
+# def get_openapi_spec():
+#     """Return OpenAPI 3.0 specification"""
+#     try:
+#         openapi_path = Path(__file__).parent / 'openapi.json'
+#         with open(openapi_path, 'r') as f:
+#             spec = json.load(f)
+#         return jsonify(spec)
+#     except Exception as e:
+#         logger.error(f"Error loading OpenAPI spec: {e}")
+#         return jsonify({
+#             'error': 'OpenAPI specification not available',
+#             'message': str(e)
+#         }), 500
+#
+# @app.route('/api/docs', methods=['GET'])
+# def api_documentation():
+#     """Redirect to API documentation"""
+#     return jsonify({
+#         'documentation': {
+#             'markdown': '/static/API_DOCUMENTATION.md',
+#             'openapi': '/api/openapi.json',
+#             'interactive': 'Planned for future release'
+#         },
+#         'endpoints': {
+#             'events': [
+#                 '/api/events/search',
+#                 '/api/events/{id}',
+#                 '/api/events/staged'
+#             ],
+#             'timeline': [
+#                 '/api/timeline/events',
+#                 '/api/timeline/actors',
+#                 '/api/timeline/tags',
+#                 '/api/timeline/sources'
+#             ],
+#             'visualization': [
+#                 '/api/viewer/timeline-data',
+#                 '/api/viewer/actor-network',
+#                 '/api/viewer/tag-cloud'
+#             ],
+#             'statistics': [
+#                 '/api/viewer/stats/overview',
+#                 '/api/viewer/stats/actors',
+#                 '/api/viewer/stats/patterns'
+#             ],
+#             'research': [
+#                 '/api/priorities/next',
+#                 '/api/priorities/{id}/status'
+#             ],
+#             'system': [
+#                 '/api/server/health',
+#                 '/api/stats',
+#                 '/api/commit/status'
+#             ]
+#         }
+#     })
 
 @app.route('/api/stats')
 def get_stats():
