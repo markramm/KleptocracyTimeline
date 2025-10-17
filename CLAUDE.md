@@ -8,7 +8,7 @@ This repository is organized into two main components:
 - **`research-server/`** - Research infrastructure (Flask API, MCP server, CLI tools, QA system)
 
 **Key Paths:**
-- Events: `timeline/data/events/*.json`
+- Events: `timeline/data/events/` (supports `.json` and `.md` formats)
 - Research CLI: `research-server/cli/research_cli.py`
 - Research Server: `research-server/server/app_v2.py`
 - Viewer: `timeline/viewer/`
@@ -17,10 +17,11 @@ This repository is organized into two main components:
 
 ### Research Monitor v2
 The Research Monitor v2 (`research-server/server/app_v2.py`) is a Flask server that provides:
-- **Filesystem-authoritative events**: Timeline events are read-only synced from JSON files
+- **Filesystem-authoritative events**: Timeline events are read-only synced from JSON/Markdown files
 - **Database-authoritative research priorities**: Full CRUD operations on research tasks
 - **Search capabilities**: Full-text search across 1,000+ timeline events
 - **Commit orchestration**: Tracks when commits are needed but doesn't perform them
+- **Multi-format parsing**: Automatic support for both `.json` and `.md` event files
 
 ## Research Client (CLI Tool)
 
@@ -382,11 +383,15 @@ python3 research-server/cli/research_cli.py update-priority --id "RP-123" --stat
 ```
 
 ### Event Creation
+
+The timeline supports **two event formats**: JSON (`.json`) and Markdown (`.md`). Both are fully equivalent.
+
+**JSON Format** - Best for programmatic creation:
 ```bash
 # Create event from JSON string
 python3 research-server/cli/research_cli.py create-event --json '{
   "id": "YYYY-MM-DD--event-slug",
-  "date": "YYYY-MM-DD", 
+  "date": "YYYY-MM-DD",
   "title": "Event Title",
   "summary": "Detailed summary",
   "importance": 8,
@@ -399,6 +404,54 @@ python3 research-server/cli/research_cli.py create-event --file event.json
 # Validate event without creating
 python3 research-server/cli/research_cli.py validate-event --json '{"date": "2025-01-15", ...}'
 ```
+
+**Markdown Format** - Best for manual editing:
+
+Create a file `timeline/data/events/YYYY-MM-DD--event-slug.md`:
+
+```markdown
+---
+id: YYYY-MM-DD--event-slug
+date: YYYY-MM-DD
+title: Event Title
+importance: 8
+tags:
+  - tag1
+  - tag2
+sources:
+  - url: https://example.com/article
+    title: Article Title
+    publisher: Publisher Name
+    date: YYYY-MM-DD
+    tier: 1
+---
+
+Detailed summary paragraph describing what happened and why it matters.
+
+## Background
+
+You can use Markdown formatting:
+- **Bold** for emphasis
+- *Italics* for titles
+- Lists for clarity
+
+## Significance
+
+Explain why this event matters...
+```
+
+**Validate Markdown events:**
+```bash
+python3 research-server/cli/research_cli.py validate-event --file event.md
+```
+
+**Convert between formats:**
+```bash
+# JSON to Markdown
+python3 timeline/scripts/convert_to_markdown.py --input event.json --output event.md
+```
+
+For complete format documentation, see [timeline/docs/EVENT_FORMAT.md](timeline/docs/EVENT_FORMAT.md)
 
 ### System Information
 ```bash
@@ -626,8 +679,8 @@ python3 research-server/cli/research_cli.py search-events --query "topic keyword
 # Search for specific actors
 python3 research-server/cli/research_cli.py search-events --query "actor name"
 
-# Check the time period
-ls -la timeline/data/events/YYYY-*.json
+# Check the time period (both JSON and Markdown)
+ls -la timeline/data/events/YYYY-*
 ```
 
 ### 3. Research the Topic

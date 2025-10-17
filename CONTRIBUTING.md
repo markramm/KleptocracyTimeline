@@ -30,14 +30,33 @@ Search existing events first:
 grep -r "your search term" timeline_data/events/
 ```
 
-### Step 2: Create Your Event File
+### Step 2: Choose Your Format
+
+We support **two formats** for timeline events:
+
+**JSON Format** (`.json`) - Best for:
+- Programmatic creation
+- Strict structure requirements
+- Automated workflows
+
+**Markdown Format** (`.md`) - Best for:
+- Manual editing in text editors
+- Editing directly on GitHub
+- Community contributions
+- Longer, formatted summaries
+
+Both formats are fully equivalent. Use whichever you're more comfortable with!
+
+### Step 3: Create Your Event File
+
+#### Option A: JSON Format
 
 Create a new file in `timeline_data/events/` named:
 ```
 YYYY-MM-DD--brief-description.json
 ```
 
-### Step 3: Use This Template
+**JSON Template:**
 
 ```json
 {
@@ -45,7 +64,8 @@ YYYY-MM-DD--brief-description.json
   "date": "YYYY-MM-DD",
   "title": "Factual, neutral title without editorializing",
   "summary": "Objective description of what happened. Include: What specifically occurred, which institutions/people were involved, what the immediate impact was, and why this represents a systemic issue. Keep it factual. No speculation or editorial language.",
-  "status": "pending",
+  "importance": 7,
+  "status": "confirmed",
   "location": "City, State",
   "actors": [
     "Person Name (Role)",
@@ -59,13 +79,76 @@ YYYY-MM-DD--brief-description.json
     {
       "title": "Exact Article Headline",
       "url": "https://original-source.com/article",
-      "outlet": "Publication Name",
+      "publisher": "Publication Name",
       "date": "2024-01-15",
-      "archived_url": "https://web.archive.org/..."
+      "tier": 1,
+      "archive_url": "https://web.archive.org/..."
     }
-  ],
-  "notes": "Additional context for researchers (optional) - won't be displayed publicly"
+  ]
+}
 ```
+
+#### Option B: Markdown Format
+
+Create a new file in `timeline_data/events/` named:
+```
+YYYY-MM-DD--brief-description.md
+```
+
+**Markdown Template:**
+
+```markdown
+---
+id: YYYY-MM-DD--brief-description
+date: YYYY-MM-DD
+title: Factual, neutral title without editorializing
+importance: 7
+status: confirmed
+location: City, State
+actors:
+  - Person Name (Role)
+  - Organization Name
+tags:
+  - democratic-erosion
+  - regulatory-capture
+sources:
+  - title: Exact Article Headline
+    url: https://original-source.com/article
+    publisher: Publication Name
+    date: 2024-01-15
+    tier: 1
+    archive_url: https://web.archive.org/...
+---
+
+Objective description of what happened. Include:
+- What specifically occurred
+- Which institutions/people were involved
+- What the immediate impact was
+- Why this represents a systemic issue
+
+Keep it factual. No speculation or editorial language.
+
+## Background
+
+You can use standard Markdown formatting:
+- **Bold** for emphasis
+- *Italics* for titles
+- [Links](https://example.com) for references
+- Lists for clarity
+
+## Significance
+
+Explain why this event matters in the broader context...
+```
+
+**Benefits of Markdown Format:**
+- ✅ Easier to edit directly on GitHub
+- ✅ Better for longer summaries with formatting
+- ✅ More readable in text editors
+- ✅ Supports headers, lists, bold, italics
+- ✅ Lower barrier to entry for contributors
+
+For complete format documentation, see [timeline/docs/EVENT_FORMAT.md](timeline/docs/EVENT_FORMAT.md)
 
 ### Step 4: Validate Your Event
 
