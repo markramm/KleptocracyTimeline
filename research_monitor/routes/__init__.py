@@ -26,8 +26,9 @@ def register_blueprints(app: Flask) -> None:
         4. priorities - Research priority management
         5. timeline - Read-only timeline data access
         6. events - Event CRUD and search
-        7. qa - QA validation workflow
-        8. validation_runs - Validation run lifecycle
+        7. sources - Source URL validation
+        8. qa - QA validation workflow
+        9. validation_runs - Validation run lifecycle
     """
     from research_monitor.routes import (
         docs,
@@ -36,6 +37,7 @@ def register_blueprints(app: Flask) -> None:
         priorities,
         timeline,
         events,
+        sources,
         qa,
         validation_runs
     )
@@ -47,5 +49,6 @@ def register_blueprints(app: Flask) -> None:
     app.register_blueprint(priorities.bp)
     app.register_blueprint(timeline.bp)
     app.register_blueprint(events.bp)
+    app.register_blueprint(sources.bp)
     app.register_blueprint(qa.bp)
     app.register_blueprint(validation_runs.bp)

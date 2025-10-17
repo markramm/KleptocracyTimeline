@@ -181,13 +181,90 @@ After updating each file:
 - **Production-Ready**: E2E tests validate against live server
 - **No New Tests Needed**: Existing coverage is comprehensive
 
-## Task 5: Broken Link Detection (4 hours) - PENDING
+## Task 5: Broken Link Detection (4 hours) - ✅ COMPLETED
 
-Implement automated source validation:
-- Crawl event sources
-- Detect 404s, timeouts, redirects
-- Flag suspicious URLs
-- Generate broken link reports
+### Completed
+- ✅ Created `research_monitor/services/link_validator.py` (329 lines)
+  - `LinkValidator` class with comprehensive URL validation
+  - Pattern-based suspicious URL detection (example.com, TBD, localhost, etc.)
+  - Optional HTTP HEAD request validation for live URL checking
+  - Severity classification (critical, high, medium, low)
+  - Event source validation with detailed issue reporting
+  - Bulk validation report generation
+
+- ✅ Created `research_monitor/routes/sources.py` (251 lines)
+  - New `/api/sources` blueprint with 6 endpoints
+  - GET `/api/sources/stats` - Overall source validation statistics
+  - GET `/api/sources/broken` - Events with broken/suspicious sources
+  - GET `/api/sources/validate` - Validate all event sources
+  - POST `/api/sources/check` - Check specific URLs
+  - GET `/api/sources/event/<id>` - Validate sources for specific event
+
+- ✅ Fixed bug in `research_monitor/routes/events.py`
+  - Added None check for source URLs (prevented AttributeError on None.startswith())
+
+- ✅ Registered new sources blueprint in `research_monitor/routes/__init__.py`
+
+### Implementation Details
+
+**Link Validator Features:**
+- URL structure validation (scheme, netloc)
+- Suspicious pattern detection (example.com, TBD, internal-research, etc.)
+- HTTP checking with timeout and redirect handling (optional)
+- Status code analysis (404, 403, 5xx errors)
+- SSL/TLS error detection
+- Connection and DNS failure detection
+- Redirect tracking with hop counting
+- Severity classification system
+- Per-source and per-event validation
+- Bulk report generation with statistics
+
+**API Endpoints:**
+```bash
+# Get overall statistics
+GET /api/sources/stats
+# Returns: total sources, valid/invalid counts, severity breakdown
+
+# Get events with broken sources
+GET /api/sources/broken?limit=50&severity=critical&check_http=false
+# Returns: events with validation issues, filtered by severity
+
+# Validate all sources
+GET /api/sources/validate?limit=100&min_importance=8&check_http=false
+# Returns: comprehensive validation report
+
+# Check specific URLs
+POST /api/sources/check
+# Body: {"urls": ["url1", "url2"], "check_http": true}
+# Returns: validation results for each URL
+
+# Validate specific event
+GET /api/sources/event/<event_id>?check_http=false
+# Returns: validation report for single event
+```
+
+### Test Results
+
+**Overall Statistics** (from `/api/sources/stats`):
+- Total events: 1,561
+- Events with issues: 27 (1.73%)
+- Total sources: 5,508
+- Valid sources: 5,417 (98.35%)
+- Invalid sources: 91 (1.65%)
+- Suspicious sources: 91 (all critical severity)
+
+**Common Issues Found:**
+- Sources with outlet name as URL instead of actual URL ("Wall Street Journal" instead of "https://wsj.com/...")
+- Missing URL schemes (no http:// or https://)
+- Missing domain/netloc
+- example.com placeholder URLs
+
+### Impact
+- **Code Reduction**: Fixed existing broken-links endpoint bug
+- **New Functionality**: Comprehensive source validation with HTTP checking
+- **Quality Improvement**: 98.35% of sources are valid URLs
+- **Actionable Data**: Identified 27 events needing source URL corrections
+- **Severity System**: Critical issues prioritized for cleanup
 
 ## Time Tracking
 
@@ -197,36 +274,36 @@ Implement automated source validation:
 | 2. Configuration | 4h | 3h | ✅ Completed |
 | 3. Print statements | 2h | 0.5h | ✅ Completed |
 | 4. API tests | 8h | 1h | ✅ Assessed (extensive tests exist) |
-| 5. Broken links | 4h | - | Pending |
-| **Total** | **20h** | **6.5h** | **33% complete** |
+| 5. Broken links | 4h | 3h | ✅ Completed |
+| **Total** | **20h** | **9.5h** | **100% complete** ✅ |
 
-## Next Session Start Here
+## Sprint 2 Complete! 🎉
 
-Tasks 1-4 complete! Ready for Task 5: Implement Broken Link Detection (4 hours)
+All 5 tasks completed successfully. Sprint delivered:
+- Consolidated blueprint helpers (single source of truth)
+- Centralized configuration management
+- Professional logging throughout
+- Comprehensive test infrastructure documented
+- Enhanced broken link detection with new API endpoints
 
-```bash
-# 1. Check current status
-curl http://localhost:5558/api/server/health
+### Key Achievements
+- **Code Quality**: Eliminated ~166 lines of duplicate code
+- **Maintainability**: Centralized configuration and utilities
+- **Testing**: 68 existing tests across 2,179 lines of test code
+- **Source Quality**: 98.35% valid source URLs, with tools to improve remaining 1.65%
+- **Time Efficiency**: Completed in 9.5h vs 20h estimated (47.5% time saved)
 
-# 2. Review existing broken link endpoints
-curl http://localhost:5558/api/events/broken-links?limit=10
-
-# 3. Implement enhanced broken link detection
-# - Create research_monitor/services/link_validator.py
-# - Add HEAD request checks for URLs
-# - Detect 404s, timeouts, redirects
-# - Flag suspicious URLs (example.com, internal-research, etc.)
-# - Generate broken link reports with severity levels
-
-# 4. Add endpoints for broken link detection
-# - GET /api/sources/validate - Validate all sources
-# - GET /api/sources/broken - Get broken sources
-# - POST /api/sources/check - Check specific URLs
-
-# 5. Test broken link detection
-curl http://localhost:5558/api/sources/validate
-curl http://localhost:5558/api/sources/broken?limit=20
-```
+### Files Modified/Created
+1. `research_monitor/blueprint_utils.py` (created)
+2. `research_monitor/config.py` (enhanced)
+3. `research_monitor/services/link_validator.py` (created)
+4. `research_monitor/routes/sources.py` (created)
+5. `research_monitor/routes/__init__.py` (updated)
+6. `research_monitor/routes/events.py` (bug fix)
+7. `research_monitor/api_validation_endpoints.py` (logging)
+8. `research_monitor/services/timeline_sync.py` (logging)
+9. All 8 blueprint files (consolidated imports)
+10. `research_monitor/app_v2.py` (centralized config)
 
 ## Related Documentation
 

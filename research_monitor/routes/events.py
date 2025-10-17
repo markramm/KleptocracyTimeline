@@ -221,6 +221,9 @@ def find_broken_links():
                     for source in sources:
                         if isinstance(source, dict) and 'url' in source:
                             url = source['url']
+                            # Skip if URL is None or not a string
+                            if not url or not isinstance(url, str):
+                                continue
                             # Basic checks for potentially broken links
                             if (url.startswith('http://example.com') or
                                 url.startswith('https://example.com') or
