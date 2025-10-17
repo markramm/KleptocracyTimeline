@@ -19,19 +19,16 @@
   ],
   "sources": [
     {
-      "name": "EPA Official Press Release",
-      "url": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way",
-      "date": "2017-03-28"
+      "title": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way",
+      "url": "https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way"
     },
     {
-      "name": "Scientific American - EPA Climate Regulation Rollback",
-      "url": "https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/",
-      "date": "2017-03-28"
+      "title": "https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/",
+      "url": "https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/"
     },
     {
-      "name": "PBS News - Trump EPA Regulatory Changes",
-      "url": "https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation",
-      "date": "2017-03-28"
+      "title": "https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation",
+      "url": "https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation"
     }
   ],
   "status": "confirmed"

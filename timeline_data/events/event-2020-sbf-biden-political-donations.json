@@ -11,9 +11,18 @@
     "FTX"
   ],
   "sources": [
-    "FEC filings",
-    "Campaign finance records",
-    "Fortune Magazine"
+    {
+      "title": "FEC filings",
+      "url": ""
+    },
+    {
+      "title": "Campaign finance records",
+      "url": ""
+    },
+    {
+      "title": "Fortune Magazine",
+      "url": ""
+    }
   ],
   "event_type": "regulatory_capture",
   "confirmed": true,

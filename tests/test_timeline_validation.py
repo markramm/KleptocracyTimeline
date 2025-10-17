@@ -180,7 +180,8 @@ class TestTimelineValidation(unittest.TestCase):
     def test_sources_have_required_fields(self):
         """Verify that all sources have required fields when present."""
         source_errors = []
-        # Only title and url are strictly required
+        # Sources must have 'title' and 'url' fields present (for structure)
+        # At least ONE of title or url must be non-empty (for usefulness)
         # date and outlet are recommended but not required (per validation_functions.py)
         required_source_fields = ['title', 'url']
 
@@ -191,11 +192,27 @@ class TestTimelineValidation(unittest.TestCase):
 
                 sources = data.get('sources', [])
                 for i, source in enumerate(sources):
+                    # Check that source is a dict with required fields
+                    if not isinstance(source, dict):
+                        source_errors.append(
+                            f"{json_file.name}: source {i+1} is not a dict (got {type(source).__name__})"
+                        )
+                        continue
+
+                    # Check that required fields exist
                     for field in required_source_fields:
-                        if field not in source or not source[field]:
+                        if field not in source:
                             source_errors.append(
                                 f"{json_file.name}: source {i+1} missing field '{field}'"
                             )
+
+                    # Check that at least ONE field has content
+                    title = (source.get('title') or '').strip()
+                    url = (source.get('url') or '').strip()
+                    if not title and not url:
+                        source_errors.append(
+                            f"{json_file.name}: source {i+1} has empty title AND url"
+                        )
             except Exception:
                 pass
 

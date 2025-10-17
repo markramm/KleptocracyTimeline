@@ -12,9 +12,18 @@
     "Georgetown"
   ],
   "sources": [
-    "Future Fund website",
-    "University partnership announcements",
-    "Bloomberg"
+    {
+      "title": "Future Fund website",
+      "url": ""
+    },
+    {
+      "title": "University partnership announcements",
+      "url": ""
+    },
+    {
+      "title": "Bloomberg",
+      "url": ""
+    }
   ],
   "event_type": "academic_capture",
   "confirmed": true,

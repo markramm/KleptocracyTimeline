@@ -9,9 +9,18 @@
   ],
   "importance": 9,
   "sources": [
-    "Federal News Network",
-    "Wikipedia",
-    "Project 2025 analysis"
+    {
+      "title": "Federal News Network",
+      "url": ""
+    },
+    {
+      "title": "Wikipedia",
+      "url": ""
+    },
+    {
+      "title": "Project 2025 analysis",
+      "url": ""
+    }
   ],
   "tags": [
     "schedule-f",

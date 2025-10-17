@@ -13,8 +13,14 @@
     "CNBC"
   ],
   "sources": [
-    "https://www.citizen.org/article/outrage-of-the-month-revolving-door-to-fda-commissioners-office-sows-distrust-in-agency/",
-    "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+    {
+      "title": "citizen.org",
+      "url": "https://www.citizen.org/article/outrage-of-the-month-revolving-door-to-fda-commissioners-office-sows-distrust-in-agency/"
+    },
+    {
+      "title": "globalresearch.ca",
+      "url": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+    }
   ],
   "status": "confirmed",
   "priority_id": "claude-priority-regulatory-capture-pharma-fda"

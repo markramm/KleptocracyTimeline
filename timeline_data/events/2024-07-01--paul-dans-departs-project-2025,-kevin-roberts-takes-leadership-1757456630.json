@@ -13,9 +13,18 @@
   ],
   "importance": 8,
   "sources": [
-    "https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation",
-    "https://abcnews.go.com/Politics/director-heritage-foundations-project-2025-stepping/story?id=112415277",
-    "https://www.newsweek.com/project-2025-director-steps-down-heritage-foundation-report-1932277"
+    {
+      "title": "pbs.org",
+      "url": "https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation"
+    },
+    {
+      "title": "abcnews.go.com",
+      "url": "https://abcnews.go.com/Politics/director-heritage-foundations-project-2025-stepping/story?id=112415277"
+    },
+    {
+      "title": "newsweek.com",
+      "url": "https://www.newsweek.com/project-2025-director-steps-down-heritage-foundation-report-1932277"
+    }
   ],
   "tags": [
     "project-2025",

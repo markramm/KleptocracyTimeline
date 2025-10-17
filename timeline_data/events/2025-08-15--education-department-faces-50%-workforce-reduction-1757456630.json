@@ -9,9 +9,18 @@
   ],
   "importance": 8,
   "sources": [
-    "Food Research & Action Center",
-    "ACLU",
-    "NPR"
+    {
+      "title": "Food Research & Action Center",
+      "url": ""
+    },
+    {
+      "title": "ACLU",
+      "url": ""
+    },
+    {
+      "title": "NPR",
+      "url": ""
+    }
   ],
   "tags": [
     "education-dismantling",

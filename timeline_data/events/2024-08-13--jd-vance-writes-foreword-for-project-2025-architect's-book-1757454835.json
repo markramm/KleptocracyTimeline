@@ -10,9 +10,18 @@
     "Heritage Foundation"
   ],
   "sources": [
-    "https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election",
-    "https://www.poynter.org/fact-checking/2024/jd-vance-who-wrote-project-2025/",
-    "https://www.inquirer.com/politics/election/jd-vance-kevin-roberts-book-foreword-20240808.html"
+    {
+      "title": "pbs.org",
+      "url": "https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election"
+    },
+    {
+      "title": "poynter.org",
+      "url": "https://www.poynter.org/fact-checking/2024/jd-vance-who-wrote-project-2025/"
+    },
+    {
+      "title": "inquirer.com",
+      "url": "https://www.inquirer.com/politics/election/jd-vance-kevin-roberts-book-foreword-20240808.html"
+    }
   ],
   "tags": [
     "succession-risk",

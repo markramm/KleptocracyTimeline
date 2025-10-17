@@ -12,9 +12,18 @@
     "Kim Yong Hyun"
   ],
   "sources": [
-    "https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/",
-    "https://www.npr.org/2024/12/12/g-s1-37854/south-korea-yoon-martial-law",
-    "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis"
+    {
+      "title": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/"
+    },
+    {
+      "title": "npr.org",
+      "url": "https://www.npr.org/2024/12/12/g-s1-37854/south-korea-yoon-martial-law"
+    },
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/2024_South_Korean_martial_law_crisis"
+    }
   ],
   "tags": [
     "South Korea",

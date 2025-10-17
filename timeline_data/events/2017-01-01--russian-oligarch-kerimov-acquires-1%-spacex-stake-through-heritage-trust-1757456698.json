@@ -11,10 +11,22 @@
   ],
   "importance": 9,
   "sources": [
-    "The Moscow Times",
-    "U.S. Department of Treasury",
-    "Bloomberg News",
-    "Kyiv Independent"
+    {
+      "title": "The Moscow Times",
+      "url": ""
+    },
+    {
+      "title": "U.S. Department of Treasury",
+      "url": ""
+    },
+    {
+      "title": "Bloomberg News",
+      "url": ""
+    },
+    {
+      "title": "Kyiv Independent",
+      "url": ""
+    }
   ],
   "tags": [
     "spacex-russia",

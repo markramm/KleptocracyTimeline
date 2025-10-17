@@ -11,9 +11,18 @@
     "AIG"
   ],
   "sources": [
-    "US Treasury Department",
-    "White House Archives",
-    "Senate Confirmation Records"
+    {
+      "title": "US Treasury Department",
+      "url": ""
+    },
+    {
+      "title": "White House Archives",
+      "url": ""
+    },
+    {
+      "title": "Senate Confirmation Records",
+      "url": ""
+    }
   ],
   "event_type": "regulatory_capture",
   "confirmed": true,

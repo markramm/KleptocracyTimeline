@@ -10,10 +10,22 @@
     "Mithril Capital"
   ],
   "sources": [
-    "https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/",
-    "https://en.wikipedia.org/wiki/JD_Vance",
-    "https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html",
-    "https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/"
+    {
+      "title": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/"
+    },
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/JD_Vance"
+    },
+    {
+      "title": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html"
+    },
+    {
+      "title": "seattletimes.com",
+      "url": "https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/"
+    }
   ],
   "tags": [
     "succession-risk",

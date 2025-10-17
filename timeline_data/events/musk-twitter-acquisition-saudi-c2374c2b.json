@@ -15,9 +15,18 @@
     "Twitter Inc."
   ],
   "sources": [
-    "https://www.aljazeera.com/news/2022/10/28/saudis-kingdom-holding-company-to-maintain-twitter-stake",
-    "https://www.bloomberg.com/news/articles/2022-11-01/musk-s-twitter-investors-include-saudi-prince-dorsey-and-qatar",
-    "https://www.axios.com/2022/11/01/elon-musk-twitter-saudi-arabia"
+    {
+      "title": "aljazeera.com",
+      "url": "https://www.aljazeera.com/news/2022/10/28/saudis-kingdom-holding-company-to-maintain-twitter-stake"
+    },
+    {
+      "title": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2022-11-01/musk-s-twitter-investors-include-saudi-prince-dorsey-and-qatar"
+    },
+    {
+      "title": "axios.com",
+      "url": "https://www.axios.com/2022/11/01/elon-musk-twitter-saudi-arabia"
+    }
   ],
   "status": "confirmed",
   "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"

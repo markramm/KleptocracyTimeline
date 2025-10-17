@@ -10,9 +10,18 @@
     "Transparency International"
   ],
   "sources": [
-    "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/",
-    "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/",
-    "https://www.lawfaremedia.org/article/bondi-s-dismantling-of-the-kleptocracy-team-threatens-national-security"
+    {
+      "title": "amlintelligence.com",
+      "url": "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/"
+    },
+    {
+      "title": "us.transparency.org",
+      "url": "https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/"
+    },
+    {
+      "title": "lawfaremedia.org",
+      "url": "https://www.lawfaremedia.org/article/bondi-s-dismantling-of-the-kleptocracy-team-threatens-national-security"
+    }
   ],
   "importance": 8,
   "tags": [

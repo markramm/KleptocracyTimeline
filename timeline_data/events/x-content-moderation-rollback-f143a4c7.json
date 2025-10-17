@@ -14,8 +14,14 @@
     "Far-right Network Actors"
   ],
   "sources": [
-    "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/",
-    "https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321"
+    {
+      "title": "misinforeview.hks.harvard.edu",
+      "url": "https://misinforeview.hks.harvard.edu/article/did-the-musk-takeover-boost-contentious-actors-on-twitter/"
+    },
+    {
+      "title": "nbcnews.com",
+      "url": "https://www.nbcnews.com/tech/social-media/elon-musk-turned-x-trump-echo-chamber-rcna174321"
+    }
   ],
   "status": "confirmed",
   "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"

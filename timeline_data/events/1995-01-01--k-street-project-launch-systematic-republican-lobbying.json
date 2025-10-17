@@ -13,11 +13,26 @@
     "regulatory-capture"
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/K_Street_Project",
-    "https://sourcewatch.org/index.php?title=K_Street_Project",
-    "https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay",
-    "NPR investigative report on K Street Project dynamics",
-    "Academic research on multi-client lobbying transformations"
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/K_Street_Project"
+    },
+    {
+      "title": "sourcewatch.org",
+      "url": "https://sourcewatch.org/index.php?title=K_Street_Project"
+    },
+    {
+      "title": "npr.org",
+      "url": "https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay"
+    },
+    {
+      "title": "NPR investigative report on K Street Project dynamics",
+      "url": ""
+    },
+    {
+      "title": "Academic research on multi-client lobbying transformations",
+      "url": ""
+    }
   ],
   "status": "confirmed",
   "actors": []

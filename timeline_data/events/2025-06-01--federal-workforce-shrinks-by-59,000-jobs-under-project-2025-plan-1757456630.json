@@ -11,11 +11,26 @@
   ],
   "importance": 9,
   "sources": [
-    "ProPublica: Russell Vought's Project 2025 Policy Statements",
-    "AP News: White House Budget Office Federal Workforce Reduction",
-    "Official OMB/OPM Guidance on Agency Workforce Reductions",
-    "Federal News Network",
-    "Project 2025 Implementation analysis"
+    {
+      "title": "ProPublica: Russell Vought's Project 2025 Policy Statements",
+      "url": ""
+    },
+    {
+      "title": "AP News: White House Budget Office Federal Workforce Reduction",
+      "url": ""
+    },
+    {
+      "title": "Official OMB/OPM Guidance on Agency Workforce Reductions",
+      "url": ""
+    },
+    {
+      "title": "Federal News Network",
+      "url": ""
+    },
+    {
+      "title": "Project 2025 Implementation analysis",
+      "url": ""
+    }
   ],
   "tags": [
     "workforce-reduction",

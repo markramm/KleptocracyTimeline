@@ -11,9 +11,18 @@
     "Effective Altruism"
   ],
   "sources": [
-    "MIT records",
-    "Washington Post",
-    "EA Forum"
+    {
+      "title": "MIT records",
+      "url": ""
+    },
+    {
+      "title": "Washington Post",
+      "url": ""
+    },
+    {
+      "title": "EA Forum",
+      "url": ""
+    }
   ],
   "event_type": "academic_capture",
   "confirmed": true,

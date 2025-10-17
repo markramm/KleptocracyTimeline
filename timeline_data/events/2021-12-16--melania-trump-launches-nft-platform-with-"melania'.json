@@ -20,10 +20,22 @@
     "digital_assets"
   ],
   "sources": [
-    "https://www.newsweek.com/melania-trump-launches-nft-sale-melanias-vision-1660090",
-    "https://www.artnews.com/art-news/news/melania-trump-nft-platform-1234613890/",
-    "https://www.cbsnews.com/news/former-first-lady-melania-trump-launches-her-own-nft-endeavor/",
-    "https://www.prnewswire.com/news-releases/the-former-first-lady-of-the-united-states-mrs-melania-trump-to-launch-a-new-nft-and-blockchain-technology-venture-301446348.html"
+    {
+      "title": "newsweek.com",
+      "url": "https://www.newsweek.com/melania-trump-launches-nft-sale-melanias-vision-1660090"
+    },
+    {
+      "title": "artnews.com",
+      "url": "https://www.artnews.com/art-news/news/melania-trump-nft-platform-1234613890/"
+    },
+    {
+      "title": "cbsnews.com",
+      "url": "https://www.cbsnews.com/news/former-first-lady-melania-trump-launches-her-own-nft-endeavor/"
+    },
+    {
+      "title": "prnewswire.com",
+      "url": "https://www.prnewswire.com/news-releases/the-former-first-lady-of-the-united-states-mrs-melania-trump-to-launch-a-new-nft-and-blockchain-technology-venture-301446348.html"
+    }
   ],
   "importance_score": 7,
   "status": "confirmed",

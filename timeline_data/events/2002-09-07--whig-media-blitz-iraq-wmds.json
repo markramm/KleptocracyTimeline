@@ -6,32 +6,20 @@
   "importance": 9,
   "sources": [
     {
-      "name": "Washington Post",
-      "type": "News Article",
-      "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
-      "publication_date": "2002-09-08",
-      "excerpt": "White House Iraq Group coordinated media strategy to build war support"
+      "title": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/",
+      "url": "https://www.washingtonpost.com/wp-dyn/articles/whig-media-coordination-2002/"
     },
     {
-      "name": "Newsweek",
-      "type": "Investigative Report",
-      "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
-      "publication_date": "2002-09-15",
-      "excerpt": "Detailed analysis of WHIG's media manipulation tactics"
+      "title": "https://www.newsweek.com/selling-war-michael-isikoff-2002",
+      "url": "https://www.newsweek.com/selling-war-michael-isikoff-2002"
     },
     {
-      "name": "National Security Archive",
-      "type": "Government Document Repository",
-      "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
-      "publication_date": "2019-03-22",
-      "excerpt": "Comprehensive documentation of Iraq War media campaign"
+      "title": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war",
+      "url": "https://nsarchive.gwu.edu/briefing-book/iraq/2019-03-22/selling-iraq-war"
     },
     {
-      "name": "SourceWatch",
-      "type": "Research Database",
-      "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
-      "publication_date": "2022-10-15",
-      "excerpt": "Detailed background on WHIG's formation and media coordination strategy"
+      "title": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
+      "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group"
     }
   ],
   "tags": [

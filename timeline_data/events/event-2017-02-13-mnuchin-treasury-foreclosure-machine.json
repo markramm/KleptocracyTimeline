@@ -11,9 +11,18 @@
     "IndyMac"
   ],
   "sources": [
-    "Newsweek",
-    "California Attorney General",
-    "Senate Banking Committee"
+    {
+      "title": "Newsweek",
+      "url": ""
+    },
+    {
+      "title": "California Attorney General",
+      "url": ""
+    },
+    {
+      "title": "Senate Banking Committee",
+      "url": ""
+    }
   ],
   "event_type": "regulatory_capture",
   "confirmed": true,

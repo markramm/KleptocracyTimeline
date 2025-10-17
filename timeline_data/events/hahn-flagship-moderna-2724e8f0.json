@@ -13,8 +13,14 @@
     "Food and Drug Administration"
   ],
   "sources": [
-    "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870",
-    "https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry"
+    {
+      "title": "globalresearch.ca",
+      "url": "https://www.globalresearch.ca/revolving-door-3-fda-authorized-covid-shot-companies-employ-former-fda-commissioners/5758870"
+    },
+    {
+      "title": "qz.com",
+      "url": "https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry"
+    }
   ],
   "status": "confirmed",
   "priority_id": "claude-priority-regulatory-capture-pharma-fda"

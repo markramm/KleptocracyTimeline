@@ -18,9 +18,18 @@
     "FBI"
   ],
   "sources": [
-    "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm",
-    "https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm",
-    "https://constitutioncenter.org/blog/looking-back-at-the-church-committee"
+    {
+      "title": "senate.gov",
+      "url": "https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm"
+    },
+    {
+      "title": "aarclibrary.org",
+      "url": "https://www.aarclibrary.org/publib/contents/church/contents_church_reports.htm"
+    },
+    {
+      "title": "constitutioncenter.org",
+      "url": "https://constitutioncenter.org/blog/looking-back-at-the-church-committee"
+    }
   ],
   "status": "confirmed"
 }

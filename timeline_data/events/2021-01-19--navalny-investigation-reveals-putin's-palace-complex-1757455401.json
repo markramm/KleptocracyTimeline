@@ -11,10 +11,22 @@
     "Anti-Corruption Foundation (FBK)"
   ],
   "sources": [
-    "https://www.youtube.com/watch?v=ipAnwilMncI",
-    "https://palace.navalny.com/",
-    "https://www.bbc.com/news/world-europe-55713045",
-    "https://www.reuters.com/article/us-russia-politics-navalny-palace-idUSKBN29O1Y8"
+    {
+      "title": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=ipAnwilMncI"
+    },
+    {
+      "title": "palace.navalny.com",
+      "url": "https://palace.navalny.com/"
+    },
+    {
+      "title": "bbc.com",
+      "url": "https://www.bbc.com/news/world-europe-55713045"
+    },
+    {
+      "title": "reuters.com",
+      "url": "https://www.reuters.com/article/us-russia-politics-navalny-palace-idUSKBN29O1Y8"
+    }
   ],
   "importance": 9,
   "tags": [

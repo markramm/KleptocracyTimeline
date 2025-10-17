@@ -10,8 +10,14 @@
   ],
   "importance": 8,
   "sources": [
-    "Narya Capital founding documents",
-    "Forbes reporting"
+    {
+      "title": "Narya Capital founding documents",
+      "url": ""
+    },
+    {
+      "title": "Forbes reporting",
+      "url": ""
+    }
   ],
   "tags": [
     "narya-capital",

@@ -18,10 +18,22 @@
     "Matt Damschroder"
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies",
-    "https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections",
-    "https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/",
-    "https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/"
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies"
+    },
+    {
+      "title": "columbusfreepress.com",
+      "url": "https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections"
+    },
+    {
+      "title": "money.cnn.com",
+      "url": "https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/"
+    },
+    {
+      "title": "verifiedvoting.org",
+      "url": "https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/"
+    }
   ],
   "status": "confirmed"
 }

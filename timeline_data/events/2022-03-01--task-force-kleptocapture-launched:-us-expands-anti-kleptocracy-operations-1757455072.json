@@ -9,9 +9,18 @@
     "Kleptocracy Asset Recovery Initiative"
   ],
   "sources": [
-    "https://www.justice.gov/opa/pr/attorney-general-announces-task-force-kleptocapture",
-    "https://globalanticorruptionblog.com/tag/kleptocracy-asset-recovery-initiative/",
-    "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/"
+    {
+      "title": "justice.gov",
+      "url": "https://www.justice.gov/opa/pr/attorney-general-announces-task-force-kleptocapture"
+    },
+    {
+      "title": "globalanticorruptionblog.com",
+      "url": "https://globalanticorruptionblog.com/tag/kleptocracy-asset-recovery-initiative/"
+    },
+    {
+      "title": "amlintelligence.com",
+      "url": "https://www.amlintelligence.com/2025/02/latest-pam-bondi-shuts-doj-anti-corruption-task-force-redirects-seized-funds-to-detention-centres/"
+    }
   ],
   "importance": 7,
   "tags": [

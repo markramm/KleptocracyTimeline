@@ -19,8 +19,14 @@
     "independent-expenditures"
   ],
   "sources": [
-    "https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/",
-    "https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/"
+    {
+      "title": "fec.gov",
+      "url": "https://www.fec.gov/legal-resources/court-cases/speechnoworg-v-fec/"
+    },
+    {
+      "title": "freespeechforpeople.org",
+      "url": "https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/"
+    }
   ],
   "status": "confirmed",
   "id": "2010-03-26--speechnow.org-v.-fec-appeals-court-decision-create",

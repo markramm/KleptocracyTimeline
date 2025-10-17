@@ -21,10 +21,22 @@
     "market_manipulation"
   ],
   "sources": [
-    "https://nftpricefloor.com/trump-nft-digital-trading-cards",
-    "https://www.cryptoslam.io/trumpdigitaltradingcards",
-    "https://www.coindesk.com/web3/2022/12/16/trump-nft-collection-sells-out-price-surges",
-    "https://finance.yahoo.com/news/trump-nft-prices-nosedive-then-soar-185015789.html"
+    {
+      "title": "nftpricefloor.com",
+      "url": "https://nftpricefloor.com/trump-nft-digital-trading-cards"
+    },
+    {
+      "title": "cryptoslam.io",
+      "url": "https://www.cryptoslam.io/trumpdigitaltradingcards"
+    },
+    {
+      "title": "coindesk.com",
+      "url": "https://www.coindesk.com/web3/2022/12/16/trump-nft-collection-sells-out-price-surges"
+    },
+    {
+      "title": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/trump-nft-prices-nosedive-then-soar-185015789.html"
+    }
   ],
   "importance_score": 8,
   "status": "confirmed",

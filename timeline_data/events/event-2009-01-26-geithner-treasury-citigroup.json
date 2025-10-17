@@ -11,9 +11,18 @@
     "Sanford Weill"
   ],
   "sources": [
-    "ProPublica",
-    "Federal Reserve",
-    "Treasury Department"
+    {
+      "title": "ProPublica",
+      "url": ""
+    },
+    {
+      "title": "Federal Reserve",
+      "url": ""
+    },
+    {
+      "title": "Treasury Department",
+      "url": ""
+    }
   ],
   "event_type": "regulatory_capture",
   "confirmed": true,

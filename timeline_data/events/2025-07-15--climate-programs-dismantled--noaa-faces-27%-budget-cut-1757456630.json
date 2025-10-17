@@ -10,9 +10,18 @@
   ],
   "importance": 9,
   "sources": [
-    "PBS NewsHour: 'As NOAA braces for more cuts, scientists say public safety is at risk'",
-    "Environmental Defense Fund: 'Reports: Trump Administration Plans Detrimental Cuts to NOAA Climate Research'",
-    "Project 2025 Implementation analysis"
+    {
+      "title": "PBS NewsHour: 'As NOAA braces for more cuts, scientists say public safety is at risk'",
+      "url": ""
+    },
+    {
+      "title": "Environmental Defense Fund: 'Reports: Trump Administration Plans Detrimental Cuts to NOAA Climate Research'",
+      "url": ""
+    },
+    {
+      "title": "Project 2025 Implementation analysis",
+      "url": ""
+    }
   ],
   "tags": [
     "climate-dismantling",

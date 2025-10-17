@@ -14,10 +14,22 @@
     "Jho Low"
   ],
   "sources": [
-    "https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks",
-    "https://www.icij.org/investigations/fincen-files/",
-    "https://www.bbc.com/news/business-54226456",
-    "https://www.reuters.com/article/us-usa-banks-fincen-idUSKCN26B0OL"
+    {
+      "title": "buzzfeednews.com",
+      "url": "https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks"
+    },
+    {
+      "title": "icij.org",
+      "url": "https://www.icij.org/investigations/fincen-files/"
+    },
+    {
+      "title": "bbc.com",
+      "url": "https://www.bbc.com/news/business-54226456"
+    },
+    {
+      "title": "reuters.com",
+      "url": "https://www.reuters.com/article/us-usa-banks-fincen-idUSKCN26B0OL"
+    }
   ],
   "importance": 9,
   "tags": [

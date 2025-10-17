@@ -21,10 +21,22 @@
     "fcc-regulation"
   ],
   "sources": [
-    "https://en.wikipedia.org/wiki/IHeartMedia",
-    "https://reclaimdemocracy.org/clear_channel_backlash/",
-    "https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm",
-    "https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html"
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/IHeartMedia"
+    },
+    {
+      "title": "reclaimdemocracy.org",
+      "url": "https://reclaimdemocracy.org/clear_channel_backlash/"
+    },
+    {
+      "title": "justice.gov",
+      "url": "https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm"
+    },
+    {
+      "title": "transition.fcc.gov",
+      "url": "https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html"
+    }
   ],
   "status": "confirmed",
   "id": "2000-08-30--clear-channel-acquires-amfm-inc.-creating-radio-mo",

@@ -20,23 +20,19 @@
   ],
   "sources": [
     {
-      "outlet": "Time Magazine",
-      "date": "2025-01-24",
+      "title": "https://time.com/7209901/donald-trump-executive-actions-project-2025/",
       "url": "https://time.com/7209901/donald-trump-executive-actions-project-2025/"
     },
     {
-      "outlet": "NPR",
-      "date": "2025-01-31",
+      "title": "https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning",
       "url": "https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning"
     },
     {
-      "outlet": "PBS News Weekend",
-      "date": "2025-01-31",
+      "title": "https://www.pbs.org/newshour/show/the-project-2025-policies-the-trump-administration-is-already-implementing",
       "url": "https://www.pbs.org/newshour/show/the-project-2025-policies-the-trump-administration-is-already-implementing"
     },
     {
-      "outlet": "CBS News",
-      "date": "2025-01-31",
+      "title": "https://www.cbsnews.com/news/trump-project-2025-first-100-days/",
       "url": "https://www.cbsnews.com/news/trump-project-2025-first-100-days/"
     }
   ],

@@ -13,11 +13,26 @@
     "Pharmaceutical Companies"
   ],
   "sources": [
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/",
-    "https://www.pogo.org/investigations/fda-depends-on-industry-funding-money-comes-with-strings-attached",
-    "https://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments",
-    "https://www.heritage.org/health-care-reform/report/the-prescription-drug-user-fee-act-history-and-reauthorization-issues",
-    "https://en.wikipedia.org/wiki/Prescription_Drug_User_Fee_Act"
+    {
+      "title": "pmc.ncbi.nlm.nih.gov",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/"
+    },
+    {
+      "title": "pogo.org",
+      "url": "https://www.pogo.org/investigations/fda-depends-on-industry-funding-money-comes-with-strings-attached"
+    },
+    {
+      "title": "fda.gov",
+      "url": "https://www.fda.gov/industry/fda-user-fee-programs/prescription-drug-user-fee-amendments"
+    },
+    {
+      "title": "heritage.org",
+      "url": "https://www.heritage.org/health-care-reform/report/the-prescription-drug-user-fee-act-history-and-reauthorization-issues"
+    },
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Prescription_Drug_User_Fee_Act"
+    }
   ],
   "status": "confirmed",
   "priority_id": "claude-priority-regulatory-capture-pharma-fda"

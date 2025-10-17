@@ -12,9 +12,18 @@
     "Henry Waxman"
   ],
   "sources": [
-    "https://www.reuters.com/article/us-oil-spill-bp-fund-idUSTRE65J4MO20100620",
-    "https://www.washingtonpost.com/wp-dyn/content/article/2010/06/16/AR2010061600570.html",
-    "https://www.gulfspillrestoration.noaa.gov/funding"
+    {
+      "title": "reuters.com",
+      "url": "https://www.reuters.com/article/us-oil-spill-bp-fund-idUSTRE65J4MO20100620"
+    },
+    {
+      "title": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wp-dyn/content/article/2010/06/16/AR2010061600570.html"
+    },
+    {
+      "title": "gulfspillrestoration.noaa.gov",
+      "url": "https://www.gulfspillrestoration.noaa.gov/funding"
+    }
   ],
   "importance": 8,
   "tags": [

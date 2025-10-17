@@ -10,9 +10,18 @@
     "Dmitry Kozak"
   ],
   "sources": [
-    "https://www.reuters.com/article/us-ukraine-crisis-timeline-idUSKBN0M82DF20150312",
-    "https://www.bbc.com/news/world-europe-26606097",
-    "https://www.nytimes.com/2014/03/19/world/europe/ukraine.html"
+    {
+      "title": "reuters.com",
+      "url": "https://www.reuters.com/article/us-ukraine-crisis-timeline-idUSKBN0M82DF20150312"
+    },
+    {
+      "title": "bbc.com",
+      "url": "https://www.bbc.com/news/world-europe-26606097"
+    },
+    {
+      "title": "nytimes.com",
+      "url": "https://www.nytimes.com/2014/03/19/world/europe/ukraine.html"
+    }
   ],
   "importance": 9,
   "tags": [

@@ -9,9 +9,18 @@
     "My Step Alliance"
   ],
   "sources": [
-    "https://www.gppac.net/news/armenias-velvet-revolution-civil-society-success-peace",
-    "https://www.fpri.org/article/2019/02/armenia-and-the-velvet-revolution-the-merits-and-flaws-of-a-protest-based-civil-society/",
-    "https://www.journalofdemocracy.org/articles/armenias-velvet-revolution/"
+    {
+      "title": "gppac.net",
+      "url": "https://www.gppac.net/news/armenias-velvet-revolution-civil-society-success-peace"
+    },
+    {
+      "title": "fpri.org",
+      "url": "https://www.fpri.org/article/2019/02/armenia-and-the-velvet-revolution-the-merits-and-flaws-of-a-protest-based-civil-society/"
+    },
+    {
+      "title": "journalofdemocracy.org",
+      "url": "https://www.journalofdemocracy.org/articles/armenias-velvet-revolution/"
+    }
   ],
   "importance": 8,
   "tags": [

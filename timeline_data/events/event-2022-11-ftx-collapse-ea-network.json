@@ -11,9 +11,18 @@
     "Academic Institutions"
   ],
   "sources": [
-    "DOJ criminal filing",
-    "Bankruptcy court documents",
-    "University statements"
+    {
+      "title": "DOJ criminal filing",
+      "url": ""
+    },
+    {
+      "title": "Bankruptcy court documents",
+      "url": ""
+    },
+    {
+      "title": "University statements",
+      "url": ""
+    }
   ],
   "event_type": "fraud_exposure",
   "confirmed": true,

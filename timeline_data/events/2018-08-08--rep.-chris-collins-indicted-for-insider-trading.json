@@ -9,8 +9,14 @@
     "Innate Immunotherapeutics"
   ],
   "sources": [
-    "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying",
-    "https://www.sec.gov/newsroom/press-releases/2018-151"
+    {
+      "title": "justice.gov",
+      "url": "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying"
+    },
+    {
+      "title": "sec.gov",
+      "url": "https://www.sec.gov/newsroom/press-releases/2018-151"
+    }
   ],
   "importance": 8,
   "tags": [

@@ -21,11 +21,26 @@
     }
   },
   "sources": [
-    "https://scholarlycommons.law.wlu.edu/powellmemo/",
-    "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
-    "https://prospect.org/article/legend-powell-memo/",
-    "https://theamericanleader.org/timeline-event/the-blueprint-powells-memo/",
-    "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/"
+    {
+      "title": "scholarlycommons.law.wlu.edu",
+      "url": "https://scholarlycommons.law.wlu.edu/powellmemo/"
+    },
+    {
+      "title": "greenpeace.org",
+      "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/"
+    },
+    {
+      "title": "prospect.org",
+      "url": "https://prospect.org/article/legend-powell-memo/"
+    },
+    {
+      "title": "theamericanleader.org",
+      "url": "https://theamericanleader.org/timeline-event/the-blueprint-powells-memo/"
+    },
+    {
+      "title": "billmoyers.com",
+      "url": "https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/"
+    }
   ],
   "importance": 9,
   "tags": [

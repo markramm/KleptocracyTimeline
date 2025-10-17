@@ -13,8 +13,14 @@
     "Division of Anesthetic, Critical Care, and Addiction Drug Products"
   ],
   "sources": [
-    "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/",
-    "https://en.wikipedia.org/wiki/Curtis_Wright_IV"
+    {
+      "title": "govfacts.org",
+      "url": "https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/"
+    },
+    {
+      "title": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/wiki/Curtis_Wright_IV"
+    }
   ],
   "status": "confirmed",
   "priority_id": "claude-priority-regulatory-capture-pharma-fda"

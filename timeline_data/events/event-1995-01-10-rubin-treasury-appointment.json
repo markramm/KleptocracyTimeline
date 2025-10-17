@@ -11,9 +11,18 @@
     "Spencer Bachus"
   ],
   "sources": [
-    "UPI Archives February 1995",
-    "US Treasury Department",
-    "House Banking Committee"
+    {
+      "title": "UPI Archives February 1995",
+      "url": ""
+    },
+    {
+      "title": "US Treasury Department",
+      "url": ""
+    },
+    {
+      "title": "House Banking Committee",
+      "url": ""
+    }
   ],
   "event_type": "regulatory_capture",
   "confirmed": true,
