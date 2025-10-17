@@ -33,7 +33,7 @@
   },
   {
     "name": "institutional-capture",
-    "count": 71
+    "count": 73
   },
   {
     "name": "constitutional-crisis",
@@ -41,11 +41,11 @@
   },
   {
     "name": "supreme-court",
-    "count": 51
+    "count": 54
   },
   {
     "name": "campaign-finance",
-    "count": 48
+    "count": 50
   },
   {
     "name": "whig",
@@ -53,7 +53,7 @@
   },
   {
     "name": "corporate-influence",
-    "count": 44
+    "count": 46
   },
   {
     "name": "ethics-violation",
@@ -88,11 +88,11 @@
     "count": 32
   },
   {
-    "name": "national-security",
-    "count": 30
+    "name": "iraq-war",
+    "count": 31
   },
   {
-    "name": "iraq-war",
+    "name": "national-security",
     "count": 30
   },
   {
@@ -113,7 +113,7 @@
   },
   {
     "name": "media-manipulation",
-    "count": 24
+    "count": 25
   },
   {
     "name": "separation-of-powers",
@@ -156,6 +156,10 @@
     "count": 19
   },
   {
+    "name": "heritage-foundation",
+    "count": 18
+  },
+  {
     "name": "epstein-network",
     "count": 18
   },
@@ -172,11 +176,11 @@
     "count": 18
   },
   {
-    "name": "heritage-foundation",
+    "name": "surveillance",
     "count": 17
   },
   {
-    "name": "surveillance",
+    "name": "first-amendment",
     "count": 17
   },
   {
@@ -190,10 +194,6 @@
   {
     "name": "constitutional-defense",
     "count": 17
-  },
-  {
-    "name": "first-amendment",
-    "count": 16
   },
   {
     "name": "deregulation",
@@ -212,6 +212,10 @@
     "count": 16
   },
   {
+    "name": "dark-money",
+    "count": 16
+  },
+  {
     "name": "social-media",
     "count": 16
   },
@@ -224,12 +228,12 @@
     "count": 15
   },
   {
-    "name": "dark-money",
+    "name": "elon-musk",
     "count": 15
   },
   {
-    "name": "elon-musk",
-    "count": 15
+    "name": "conservative-movement",
+    "count": 14
   },
   {
     "name": "systematic-corruption",
@@ -254,10 +258,6 @@
   {
     "name": "market-manipulation",
     "count": 14
-  },
-  {
-    "name": "conservative-movement",
-    "count": 13
   },
   {
     "name": "media-consolidation",
@@ -293,6 +293,10 @@
   },
   {
     "name": "congressional-oversight",
+    "count": 13
+  },
+  {
+    "name": "elections",
     "count": 13
   },
   {
@@ -340,16 +344,16 @@
     "count": 12
   },
   {
-    "name": "elections",
-    "count": 12
-  },
-  {
     "name": "tariffs",
     "count": 12
   },
   {
     "name": "courts",
     "count": 12
+  },
+  {
+    "name": "powell-memo",
+    "count": 11
   },
   {
     "name": "congressional-investigation",
@@ -388,7 +392,7 @@
     "count": 10
   },
   {
-    "name": "powell-memo",
+    "name": "institutional-coordination",
     "count": 10
   },
   {
@@ -468,7 +472,7 @@
     "count": 10
   },
   {
-    "name": "institutional-coordination",
+    "name": "government-accountability",
     "count": 9
   },
   {
@@ -548,15 +552,19 @@
     "count": 8
   },
   {
+    "name": "capture-cascade",
+    "count": 8
+  },
+  {
     "name": "financial-crime",
     "count": 8
   },
   {
-    "name": "economic-shock-therapy",
+    "name": "powell-memorandum-acceleration",
     "count": 8
   },
   {
-    "name": "government-accountability",
+    "name": "economic-shock-therapy",
     "count": 8
   },
   {
@@ -652,15 +660,11 @@
     "count": 7
   },
   {
-    "name": "capture-cascade",
+    "name": "blueprint",
     "count": 7
   },
   {
     "name": "powell-memo-implementation",
-    "count": 7
-  },
-  {
-    "name": "powell-memorandum-acceleration",
     "count": 7
   },
   {
@@ -677,6 +681,10 @@
   },
   {
     "name": "information-warfare",
+    "count": 7
+  },
+  {
+    "name": "financial-deregulation",
     "count": 7
   },
   {
@@ -816,11 +824,11 @@
     "count": 6
   },
   {
-    "name": "blueprint",
+    "name": "corporate-coordination",
     "count": 6
   },
   {
-    "name": "corporate-coordination",
+    "name": "corporate-power",
     "count": 6
   },
   {
@@ -837,10 +845,6 @@
   },
   {
     "name": "intelligence-protection",
-    "count": 6
-  },
-  {
-    "name": "financial-deregulation",
     "count": 6
   },
   {
@@ -1028,11 +1032,23 @@
     "count": 5
   },
   {
+    "name": "powell-memorandum",
+    "count": 5
+  },
+  {
     "name": "intelligence-privatization",
     "count": 5
   },
   {
+    "name": "alec",
+    "count": 5
+  },
+  {
     "name": "washington-dc",
+    "count": 5
+  },
+  {
+    "name": "institutional-resistance",
     "count": 5
   },
   {
@@ -1288,19 +1304,7 @@
     "count": 4
   },
   {
-    "name": "powell-memorandum",
-    "count": 4
-  },
-  {
     "name": "corporate-strategy",
-    "count": 4
-  },
-  {
-    "name": "corporate-power",
-    "count": 4
-  },
-  {
-    "name": "alec",
     "count": 4
   },
   {
@@ -1308,7 +1312,7 @@
     "count": 4
   },
   {
-    "name": "institutional-resistance",
+    "name": "intelligence-oversight",
     "count": 4
   },
   {
@@ -1720,6 +1724,14 @@
     "count": 3
   },
   {
+    "name": "think-tank-creation",
+    "count": 3
+  },
+  {
+    "name": "conservative-infrastructure",
+    "count": 3
+  },
+  {
     "name": "think-tanks",
     "count": 3
   },
@@ -1728,11 +1740,27 @@
     "count": 3
   },
   {
-    "name": "intelligence-oversight",
+    "name": "state-legislation",
+    "count": 3
+  },
+  {
+    "name": "model-bills",
+    "count": 3
+  },
+  {
+    "name": "democratic-safeguards",
+    "count": 3
+  },
+  {
+    "name": "constitutional-rights",
     "count": 3
   },
   {
     "name": "influence-operations",
+    "count": 3
+  },
+  {
+    "name": "buckley-valeo",
     "count": 3
   },
   {
@@ -1833,6 +1861,10 @@
   },
   {
     "name": "labor-violations",
+    "count": 3
+  },
+  {
+    "name": "glass-steagall-repeal",
     "count": 3
   },
   {
@@ -2528,6 +2560,14 @@
     "count": 2
   },
   {
+    "name": "strategic-planning",
+    "count": 2
+  },
+  {
+    "name": "think-tank-formation",
+    "count": 2
+  },
+  {
     "name": "supreme-court-nomination",
     "count": 2
   },
@@ -2552,14 +2592,6 @@
     "count": 2
   },
   {
-    "name": "think-tank-creation",
-    "count": 2
-  },
-  {
-    "name": "conservative-infrastructure",
-    "count": 2
-  },
-  {
     "name": "think-tank-founding",
     "count": 2
   },
@@ -2569,14 +2601,6 @@
   },
   {
     "name": "narrative-control",
-    "count": 2
-  },
-  {
-    "name": "state-legislation",
-    "count": 2
-  },
-  {
-    "name": "model-bills",
     "count": 2
   },
   {
@@ -2596,19 +2620,7 @@
     "count": 2
   },
   {
-    "name": "democratic-safeguards",
-    "count": 2
-  },
-  {
-    "name": "constitutional-rights",
-    "count": 2
-  },
-  {
     "name": "billionaire-funding",
-    "count": 2
-  },
-  {
-    "name": "buckley-valeo",
     "count": 2
   },
   {
@@ -2828,7 +2840,15 @@
     "count": 2
   },
   {
-    "name": "glass-steagall-repeal",
+    "name": "gramm-leach-bliley-act",
+    "count": 2
+  },
+  {
+    "name": "clinton-administration",
+    "count": 2
+  },
+  {
+    "name": "bipartisan-support",
     "count": 2
   },
   {
@@ -2933,6 +2953,10 @@
   },
   {
     "name": "war-crimes",
+    "count": 2
+  },
+  {
+    "name": "strategic-communication",
     "count": 2
   },
   {
@@ -4752,14 +4776,6 @@
     "count": 1
   },
   {
-    "name": "strategic-planning",
-    "count": 1
-  },
-  {
-    "name": "think-tank-formation",
-    "count": 1
-  },
-  {
     "name": "think-tank-strategy",
     "count": 1
   },
@@ -5800,18 +5816,6 @@
     "count": 1
   },
   {
-    "name": "gramm-leach-bliley-act",
-    "count": 1
-  },
-  {
-    "name": "clinton-administration",
-    "count": 1
-  },
-  {
-    "name": "bipartisan-support",
-    "count": 1
-  },
-  {
     "name": "criminal-case",
     "count": 1
   },
@@ -6197,10 +6201,6 @@
   },
   {
     "name": "torture-memos",
-    "count": 1
-  },
-  {
-    "name": "strategic-communication",
     "count": 1
   },
   {

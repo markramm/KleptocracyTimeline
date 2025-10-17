@@ -1,16 +1,16 @@
 {
-  "total_events": 1581,
+  "total_events": 1589,
   "total_tags": 3341,
   "total_actors": 3189,
-  "total_sources": 5671,
+  "total_sources": 5707,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-11-04"
   },
   "status_counts": {
-    "confirmed": 1445,
+    "confirmed": 1452,
     "validated": 32,
-    "unknown": 86,
+    "unknown": 87,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
@@ -59,7 +59,7 @@
     },
     {
       "name": "institutional-capture",
-      "count": 71
+      "count": 73
     },
     {
       "name": "constitutional-crisis",
@@ -93,7 +93,7 @@
     },
     {
       "name": "Karl Rove",
-      "count": 44
+      "count": 45
     },
     {
       "name": "Jeffrey Epstein",
@@ -101,12 +101,12 @@
     },
     {
       "name": "Heritage Foundation",
-      "count": 36
+      "count": 37
     },
     {
       "name": "FBI",
-      "count": 35
+      "count": 36
     }
   ],
-  "generated": "2025-10-17T15:41:11.685924"
+  "generated": "2025-10-17T15:52:22.512495"
 }

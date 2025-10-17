@@ -126,8 +126,9 @@ class MarkdownEventParser(EventParser):
             if 'id' in data and not isinstance(data['id'], str):
                 errors.append("Field 'id' must be a string")
 
-            if 'date' in data and not isinstance(data['date'], str):
-                errors.append("Field 'date' must be a string")
+            # Accept both strings and date objects (YAML parser converts dates)
+            if 'date' in data and not isinstance(data['date'], (str, date, datetime)):
+                errors.append("Field 'date' must be a string or date object")
 
             if 'title' in data and not isinstance(data['title'], str):
                 errors.append("Field 'title' must be a string")

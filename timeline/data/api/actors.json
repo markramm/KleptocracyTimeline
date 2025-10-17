@@ -25,7 +25,7 @@
   },
   {
     "name": "Karl Rove",
-    "count": 44
+    "count": 45
   },
   {
     "name": "Jeffrey Epstein",
@@ -33,11 +33,11 @@
   },
   {
     "name": "Heritage Foundation",
-    "count": 36
+    "count": 37
   },
   {
     "name": "FBI",
-    "count": 35
+    "count": 36
   },
   {
     "name": "White House Iraq Group",
@@ -45,11 +45,11 @@
   },
   {
     "name": "Condoleezza Rice",
-    "count": 34
+    "count": 35
   },
   {
     "name": "Supreme Court",
-    "count": 32
+    "count": 34
   },
   {
     "name": "Pam Bondi",
@@ -65,11 +65,15 @@
   },
   {
     "name": "Andrew Card",
-    "count": 27
+    "count": 28
   },
   {
     "name": "Karen Hughes",
-    "count": 26
+    "count": 27
+  },
+  {
+    "name": "NSA",
+    "count": 24
   },
   {
     "name": "World Bank",
@@ -78,10 +82,6 @@
   {
     "name": "xAI",
     "count": 24
-  },
-  {
-    "name": "NSA",
-    "count": 23
   },
   {
     "name": "Department of Homeland Security",
@@ -96,15 +96,15 @@
     "count": 23
   },
   {
+    "name": "Congress",
+    "count": 22
+  },
+  {
     "name": "Eric Trump",
     "count": 22
   },
   {
     "name": "Trump Organization",
-    "count": 21
-  },
-  {
-    "name": "Congress",
     "count": 21
   },
   {
@@ -152,15 +152,19 @@
     "count": 16
   },
   {
+    "name": "Scooter Libby",
+    "count": 16
+  },
+  {
     "name": "World Liberty Financial",
     "count": 16
   },
   {
-    "name": "Lewis F. Powell Jr.",
+    "name": "CIA",
     "count": 15
   },
   {
-    "name": "Scooter Libby",
+    "name": "Lewis F. Powell Jr.",
     "count": 15
   },
   {
@@ -176,7 +180,7 @@
     "count": 15
   },
   {
-    "name": "CIA",
+    "name": "Michael Gerson",
     "count": 14
   },
   {
@@ -184,12 +188,12 @@
     "count": 13
   },
   {
-    "name": "Michael Gerson",
+    "name": "DHS",
     "count": 13
   },
   {
-    "name": "DHS",
-    "count": 13
+    "name": "Paul Weyrich",
+    "count": 12
   },
   {
     "name": "Jack Abramoff",
@@ -228,6 +232,10 @@
     "count": 12
   },
   {
+    "name": "Joseph Coors",
+    "count": 11
+  },
+  {
     "name": "United States",
     "count": 11
   },
@@ -244,11 +252,15 @@
     "count": 11
   },
   {
+    "name": "Mary Matalin",
+    "count": 11
+  },
+  {
     "name": "Barack Obama",
     "count": 11
   },
   {
-    "name": "Joseph Coors",
+    "name": "U.S. Chamber of Commerce",
     "count": 10
   },
   {
@@ -256,7 +268,7 @@
     "count": 10
   },
   {
-    "name": "Paul Weyrich",
+    "name": "Bill Clinton",
     "count": 10
   },
   {
@@ -276,7 +288,7 @@
     "count": 10
   },
   {
-    "name": "Mary Matalin",
+    "name": "Stephen Hadley",
     "count": 10
   },
   {
@@ -300,10 +312,6 @@
     "count": 10
   },
   {
-    "name": "U.S. Chamber of Commerce",
-    "count": 9
-  },
-  {
     "name": "Republican Party",
     "count": 9
   },
@@ -316,15 +324,7 @@
     "count": 9
   },
   {
-    "name": "Bill Clinton",
-    "count": 9
-  },
-  {
     "name": "Michael Hayden",
-    "count": 9
-  },
-  {
-    "name": "Stephen Hadley",
     "count": 9
   },
   {
@@ -380,7 +380,15 @@
     "count": 8
   },
   {
+    "name": "Eugene B. Sydnor Jr.",
+    "count": 8
+  },
+  {
     "name": "U.S. Senate",
+    "count": 8
+  },
+  {
+    "name": "Edwin Feulner",
     "count": 8
   },
   {
@@ -464,14 +472,6 @@
     "count": 7
   },
   {
-    "name": "Eugene B. Sydnor Jr.",
-    "count": 7
-  },
-  {
-    "name": "Edwin Feulner",
-    "count": 7
-  },
-  {
     "name": "Federal Reserve Board",
     "count": 7
   },
@@ -537,6 +537,10 @@
   },
   {
     "name": "peter-thiel",
+    "count": 7
+  },
+  {
+    "name": "Federal Election Commission",
     "count": 7
   },
   {
@@ -632,6 +636,10 @@
     "count": 6
   },
   {
+    "name": "Ari Fleischer",
+    "count": 6
+  },
+  {
     "name": "Lewis 'Scooter' Libby",
     "count": 6
   },
@@ -653,10 +661,6 @@
   },
   {
     "name": "Paul Singer",
-    "count": 6
-  },
-  {
-    "name": "Federal Election Commission",
     "count": 6
   },
   {
@@ -796,10 +800,6 @@
     "count": 5
   },
   {
-    "name": "Ari Fleischer",
-    "count": 5
-  },
-  {
     "name": "Robert Mueller",
     "count": 5
   },
@@ -825,6 +825,10 @@
   },
   {
     "name": "CDC",
+    "count": 5
+  },
+  {
+    "name": "Citizens United",
     "count": 5
   },
   {
@@ -956,6 +960,14 @@
     "count": 4
   },
   {
+    "name": "Lewis Powell",
+    "count": 4
+  },
+  {
+    "name": "Senator Frank Church",
+    "count": 4
+  },
+  {
     "name": "Ronald Reagan",
     "count": 4
   },
@@ -1009,6 +1021,10 @@
   },
   {
     "name": "China",
+    "count": 4
+  },
+  {
+    "name": "Phil Gramm",
     "count": 4
   },
   {
@@ -1077,10 +1093,6 @@
   },
   {
     "name": "Rick Santelli",
-    "count": 4
-  },
-  {
-    "name": "Citizens United",
     "count": 4
   },
   {
@@ -1292,7 +1304,15 @@
     "count": 3
   },
   {
-    "name": "Lewis Powell",
+    "name": "Henry Hyde",
+    "count": 3
+  },
+  {
+    "name": "State Legislators",
+    "count": 3
+  },
+  {
+    "name": "Corporate Members",
     "count": 3
   },
   {
@@ -1300,7 +1320,23 @@
     "count": 3
   },
   {
-    "name": "Senator Frank Church",
+    "name": "Seymour Hersh",
+    "count": 3
+  },
+  {
+    "name": "US Senate",
+    "count": 3
+  },
+  {
+    "name": "James Buckley",
+    "count": 3
+  },
+  {
+    "name": "Francis Valeo",
+    "count": 3
+  },
+  {
+    "name": "Justice Byron White",
     "count": 3
   },
   {
@@ -1356,7 +1392,7 @@
     "count": 3
   },
   {
-    "name": "Phil Gramm",
+    "name": "Jim Leach",
     "count": 3
   },
   {
@@ -2040,15 +2076,7 @@
     "count": 2
   },
   {
-    "name": "Henry Hyde",
-    "count": 2
-  },
-  {
-    "name": "State Legislators",
-    "count": 2
-  },
-  {
-    "name": "Corporate Members",
+    "name": "Mark Rhoads",
     "count": 2
   },
   {
@@ -2060,27 +2088,11 @@
     "count": 2
   },
   {
-    "name": "Seymour Hersh",
-    "count": 2
-  },
-  {
     "name": "IRS",
     "count": 2
   },
   {
-    "name": "US Senate",
-    "count": 2
-  },
-  {
-    "name": "James Buckley",
-    "count": 2
-  },
-  {
-    "name": "Francis Valeo",
-    "count": 2
-  },
-  {
-    "name": "Justice Byron White",
+    "name": "Senator John Tower",
     "count": 2
   },
   {
@@ -2300,7 +2312,7 @@
     "count": 2
   },
   {
-    "name": "Jim Leach",
+    "name": "Thomas Bliley",
     "count": 2
   },
   {
@@ -2661,6 +2673,14 @@
   },
   {
     "name": "Tevfik Arif",
+    "count": 2
+  },
+  {
+    "name": "Justice Anthony Kennedy",
+    "count": 2
+  },
+  {
+    "name": "Justice John Paul Stevens",
     "count": 2
   },
   {
@@ -4268,10 +4288,6 @@
     "count": 1
   },
   {
-    "name": "Mark Rhoads",
-    "count": 1
-  },
-  {
     "name": "Milton Friedman",
     "count": 1
   },
@@ -4341,10 +4357,6 @@
   },
   {
     "name": "Mike Mansfield",
-    "count": 1
-  },
-  {
-    "name": "Senator John Tower",
     "count": 1
   },
   {
@@ -5037,10 +5049,6 @@
   },
   {
     "name": "Thomas Bliley Jr",
-    "count": 1
-  },
-  {
-    "name": "Thomas Bliley",
     "count": 1
   },
   {
@@ -6197,14 +6205,6 @@
   },
   {
     "name": "Mukhtar Ablyazov",
-    "count": 1
-  },
-  {
-    "name": "Justice Anthony Kennedy",
-    "count": 1
-  },
-  {
-    "name": "Justice John Paul Stevens",
     "count": 1
   },
   {

@@ -1,18 +1,18 @@
 # Timeline Statistics Report
 
-Generated: 2025-10-17 15:41:11
+Generated: 2025-10-17 15:52:22
 
 ## Overview
-- **Total Events**: 1581
+- **Total Events**: 1589
 - **Date Range**: 1142-01-01 to 2025-11-04
-- **Total Sources**: 5671
+- **Total Sources**: 5707
 - **Unique Tags**: 3341
 - **Unique Actors**: 3189
 
 ## Event Status
-- **Confirmed**: 1445
+- **Confirmed**: 1452
 - **Validated**: 32
-- **Unknown**: 86
+- **Unknown**: 87
 - **Disputed**: 2
 - **Verified**: 1
 - **Enhanced**: 1
@@ -35,7 +35,7 @@ Generated: 2025-10-17 15:41:11
 - trump-administration: 97 events
 - conflict-of-interest: 76 events
 - foreign-influence: 75 events
-- institutional-capture: 71 events
+- institutional-capture: 73 events
 - constitutional-crisis: 63 events
 
 ## Top Actors
@@ -45,10 +45,10 @@ Generated: 2025-10-17 15:41:11
 - Department of Justice: 70 events
 - Dick Cheney: 48 events
 - George W. Bush: 47 events
-- Karl Rove: 44 events
+- Karl Rove: 45 events
 - Jeffrey Epstein: 42 events
-- Heritage Foundation: 36 events
-- FBI: 35 events
+- Heritage Foundation: 37 events
+- FBI: 36 events
 
 ## Events by Year
 - 1142: 1 events
@@ -59,12 +59,12 @@ Generated: 2025-10-17 15:41:11
 - 1953: 2 events
 - 1968: 1 events
 - 1970: 2 events
-- 1971: 10 events
+- 1971: 11 events
 - 1972: 5 events
-- 1973: 13 events
+- 1973: 15 events
 - 1974: 2 events
-- 1975: 5 events
-- 1976: 9 events
+- 1975: 6 events
+- 1976: 10 events
 - 1977: 2 events
 - 1978: 5 events
 - 1979: 2 events
@@ -85,10 +85,10 @@ Generated: 2025-10-17 15:41:11
 - 1996: 6 events
 - 1997: 13 events
 - 1998: 18 events
-- 1999: 9 events
+- 1999: 10 events
 - 2000: 13 events
 - 2001: 22 events
-- 2002: 63 events
+- 2002: 64 events
 - 2003: 20 events
 - 2004: 17 events
 - 2005: 15 events
@@ -96,7 +96,7 @@ Generated: 2025-10-17 15:41:11
 - 2007: 7 events
 - 2008: 16 events
 - 2009: 17 events
-- 2010: 18 events
+- 2010: 19 events
 - 2011: 6 events
 - 2012: 12 events
 - 2013: 17 events

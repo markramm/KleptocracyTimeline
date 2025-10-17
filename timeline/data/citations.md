@@ -127,6 +127,16 @@
 5. [Think Tanks and Supreme Court Connections](https://projects.propublica.org/supreme-connections/organizations/category/think-tank/)
 6. [Powell Memorandum: Original Archival Source Full Text](https://scholarlycommons.law.wlu.edu/powellmemo/1/)
 
+## Lewis Powell Authors Strategic Memorandum for Corporate Institutional Capture
+*Date: 1971-08-23*
+
+1. [Powell Memorandum: Original Archive Document](https://scholarlycommons.law.wlu.edu/powellmemo/)
+2. [The Scheme 1: The Powell Memo](https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/)
+3. [Powell Memo: Higher Education Impact Analysis](https://www.insidehighered.com/opinion/views/2023/05/09/launch-long-game)
+4. [5 Advocates and Crusaders Who Helped Define Corporate Rights](https://www.pbs.org/newshour/arts/5-advocates-and-crusaders-who-helped-define-corporate-rights)
+5. [Think Tanks and Supreme Court Connections](https://projects.propublica.org/supreme-connections/organizations/category/think-tank/)
+6. [Powell Memorandum: Original Archival Source Full Text](https://scholarlycommons.law.wlu.edu/powellmemo/1/)
+
 ## Powell Memorandum Establishes Blueprint for Conservative Think Tank Strategy
 *Date: 1971-08-23*
 
@@ -227,6 +237,13 @@
 2. [Profile on the Right: The Heritage Foundation](https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation)
 3. [Origins of the Heritage Foundation: Powell Memo's Institutional Legacy](https://www.influencewatch.org/non-profit/heritage-foundation/)
 
+## Heritage Foundation Established as Powell Memo Implementation Vehicle
+*Date: 1973-02-16*
+
+1. [Founding of the Heritage Foundation: A Strategic Conservative Initiative](https://en.wikipedia.org/wiki/The_Heritage_Foundation)
+2. [Profile on the Right: The Heritage Foundation](https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation)
+3. [Origins of the Heritage Foundation: Powell Memo's Institutional Legacy](https://www.influencewatch.org/non-profit/heritage-foundation/)
+
 ## Heritage Foundation Founded by Conservative Activists and Business Leaders
 *Date: 1973-02-16*
 
@@ -286,6 +303,14 @@
 3. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
 4. [Tribute to Paul Weyrich: Founding of ALEC](https://www.govinfo.gov/content/pkg/CRECB-2008-pt17/html/CRECB-2008-pt17-Pg23449-2.htm)
 
+## American Legislative Exchange Council (ALEC) Established
+*Date: 1973-09-01*
+
+1. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
+2. [American Legislative Exchange Council (ALEC)](https://www.influencewatch.org/non-profit/american-legislative-exchange-council/)
+3. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
+4. [Tribute to Paul Weyrich: Founding of ALEC](https://www.govinfo.gov/content/pkg/CRECB-2008-pt17/html/CRECB-2008-pt17-Pg23449-2.htm)
+
 ## Chicago Boys Initiate Radical Economic Shock Therapy Under Pinochet's Dictatorship
 *Date: 1973-09-11*
 
@@ -336,6 +361,13 @@
 2. [40 Years Ago, Church Committee Investigated Americans Spying on Americans](https://www.brookings.edu/articles/40-years-ago-church-committee-investigated-americans-spying-on-americans)
 3. [Curtailment of the National Security State: The Church Senate Committee of 1975-1976](https://www.boisestate.edu/sps-frankchurchinstitute/2019/05/13/curtailment-of-the-national-security-state-the-church-senate-committee-of-1975-1976/)
 
+## Church Committee: Landmark Democratic Resistance Framework Against Intelligence Abuses
+*Date: 1975-04-22*
+
+1. [Church Committee Investigation Details](https://www.senate.gov/about/powers-procedures/investigations/church-committee.htm)
+2. [40 Years Ago, Church Committee Investigated Americans Spying on Americans](https://www.brookings.edu/articles/40-years-ago-church-committee-investigated-americans-spying-on-americans)
+3. [Curtailment of the National Security State: The Church Senate Committee of 1975-1976](https://www.boisestate.edu/sps-frankchurchinstitute/2019/05/13/curtailment-of-the-national-security-state-the-church-senate-committee-of-1975-1976/)
+
 ## Church Committee Exposes Systemic Intelligence Agency Abuses
 *Date: 1975-04-26*
 
@@ -378,6 +410,16 @@
 1. [The Scheme 2: Powell on the Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/)
 2. [Buckley v. Valeo Legal Resources](https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/)
 3. [Buckley v. Valeo Supreme Court Case Text](https://www.law.cornell.edu/supremecourt/text/424/1)
+
+## Supreme Court Decides Buckley v. Valeo, Unleashing Corporate Money in Politics
+*Date: 1976-01-30*
+
+1. [Buckley v. Valeo](https://supreme.justia.com/cases/federal/us/424/1/)
+2. [Campaign Finance Law After Buckley v. Valeo](https://www.brennancenter.org/our-work/research-reports/campaign-finance-law-after-buckley-v-valeo)
+3. [Buckley v. Valeo: Court Case and Campaign Finance Impact](https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/)
+4. [Buckley v. Valeo: Its Aftermath and Prospects](https://scholarship.law.vanderbilt.edu/vlr/vol29/iss6/1/)
+5. [Coercion in Campaign Finance Reform: A Closer Look at Footnote 65](https://www.uclalawreview.org/wp-content/uploads/2019/09/13_50UCLALRev2052002-2003.pdf)
+6. [The Original Sin of Campaign Finance Law: Why Buckley v. Valeo is Wrong](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2241869)
 
 ## Supreme Court Decides Buckley v. Valeo, Unleashing Corporate Money in Politics
 *Date: 1976-01-30*
@@ -1317,6 +1359,14 @@
 3. [Financial Services Modernization Act of 1999](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
 4. [The Financial Services Modernization Act of 1999](https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/)
 
+## Clinton Signs Gramm-Leach-Bliley Act Formally Repealing Glass-Steagall
+*Date: 1999-11-12*
+
+1. [Impact of the Gramm-Leach-Bliley Act](https://news.uark.edu/articles/10167/impact-of-the-gramm-leach-bliley-act)
+2. [Owning the Consequences: Clinton and the Repeal of Glass-Steagall](https://www.demos.org/blog/owning-consequences-clinton-and-repeal-glass-steagall)
+3. [Financial Services Modernization Act of 1999](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
+4. [The Financial Services Modernization Act of 1999](https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/)
+
 ## Club New York shooting involving Diddy creates kompromat opportunity
 *Date: 1999-12-27*
 
@@ -1628,6 +1678,13 @@
 4. [FBI E-mails Detail Objections to CIA Torture Techniques](https://www.aclu.org/other/fbi-e-mails-detail-objections-cia-torture-techniques)
 5. [Report of the International Committee of the Red Cross on the Treatment of Fourteen 'High Value Detainees'](https://assets.documentcloud.org/documents/278885/icrc-report-on-the-treatment-of-fourteen-high.pdf)
 6. [Vice President Defends Harsh Interrogations](https://abcnews.go.com/Nightline/story?id=6287413)
+
+## White House Iraq Group Established for Crisis-Driven Institutional Coordination
+*Date: 2002-08-01*
+
+1. [GovInfo - National Archives White House Historical Documents](https://www.govinfo.gov/app/collection/cpd/)
+2. [National Security Archive - Iraq Media War Plan](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB219/index.htm)
+3. [PBS News - Bush Administration War Communication Strategies](https://www.pbs.org/newshour/politics/white-house-war-communication-2002)
 
 ## White House Iraq Group Established for Crisis-Driven Institutional Coordination
 *Date: 2002-08-01*
@@ -2815,6 +2872,17 @@
 2. [Steppe to Soho: How Millions Linked to Kazakhstan Mega-Fraud Case Ended up in Trump Property](https://www.occrp.org/en/investigation/steppe-to-soho-how-millions-linked-to-kazakhstan-mega-fraud-case-ended-up-in-trump-property)
 3. [Trump, Russia, and Those Shadowy Sater Deals at Bayrock](https://www.bloomberg.com/opinion/articles/2017-06-21/trump-russia-and-those-shadowy-sater-deals-at-bayrock)
 4. [Former Mafia-linked figure describes association with Trump](https://www.washingtonpost.com/politics/former-mafia-linked-figure-describes-association-with-trump/2016/05/17/cec6c2c6-16d3-11e6-aa55-670cabef46e0_story.html)
+
+## Supreme Court Citizens United Decision Unleashes Unlimited Corporate Spending
+*Date: 2010-01-21*
+
+1. [Citizens United v. Federal Election Commission, 558 U.S. 310 (2010)](https://www.supremecourt.gov/opinions/09pdf/08-205.pdf)
+2. [Supreme Court Rolls Back Campaign Spending Limits](https://www.npr.org/2010/01/21/122805666/supreme-court-rips-up-campaign-finance-laws)
+3. [Supreme Court Unleashes Corporate Political Spending](https://www.reuters.com/article/us-usa-court-campaign-idUSTRE60K6YA20100121)
+4. [Citizens United and the Decline of US Democracy](https://rooseveltinstitute.org/publications/citizens-united-15-years-later/)
+5. [Brennan Center: Fifteen Years Later, Citizens United Defined the 2024 Election](https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election)
+6. [Campaign Contribution Records Lack Transparency](https://www.propublica.org/article/campaign-contribution-records-are-open-but-hardly-transparent)
+7. [Big Sky, Big Money: How Citizens United Changed Campaign Spending](https://www.pbs.org/wgbh/frontline/article/archives-citizens-united-campaign-spending-documentary/)
 
 ## Supreme Court Citizens United Decision Unleashes Unlimited Corporate Spending
 *Date: 2010-01-21*
