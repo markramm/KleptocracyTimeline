@@ -214,24 +214,31 @@ Run all tests before committing:
 
 ## 📊 Data Format
 
-Events are stored as YAML files with this structure:
-```yaml
-id: unique-event-id
-date: YYYY-MM-DD
-title: Event Title
-summary: Brief description
-importance: 1-10
-tags: [tag1, tag2]
-sources:
-  - outlet: Source Name
-    url: https://...
-    date: YYYY-MM-DD
+Events are stored as JSON files with this structure:
+```json
+{
+  "id": "YYYY-MM-DD--event-slug",
+  "date": "YYYY-MM-DD",
+  "title": "Event Title",
+  "summary": "Brief description",
+  "importance": 7,
+  "tags": ["tag1", "tag2"],
+  "actors": ["Actor1", "Actor2"],
+  "sources": [
+    {
+      "title": "Article Title",
+      "url": "https://...",
+      "outlet": "News Outlet",
+      "date": "YYYY-MM-DD"
+    }
+  ]
+}
 ```
 
-**Never create event YAML files manually!** Use the event creation tools:
-- `python create_event.py` - Interactive creation with validation
-- `python timeline_event_manager.py` - Python API for scripts
-- `python create_event_agent.py` - CLI for automation
+**Never create event JSON files manually!** Use the event creation tools:
+- `python3 research_cli.py create-event --file event.json` - CLI tool (recommended)
+- `python3 research_cli.py validate-event --file event.json` - Validation before creating
+- `python timeline_event_manager.py` - Python API for scripts (deprecated, use research_cli.py)
 
 ## 📜 License
 
