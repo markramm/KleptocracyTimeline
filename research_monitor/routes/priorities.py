@@ -19,16 +19,13 @@ from sqlalchemy import or_, and_
 import logging
 import time
 
+# Import shared utilities
+from research_monitor.blueprint_utils import get_db, log_activity, success_response, error_response
+
 logger = logging.getLogger(__name__)
 
 # Create blueprint
 bp = Blueprint('priorities', __name__, url_prefix='/api/priorities')
-
-
-def get_db():
-    """Get database session from app_v2"""
-    from research_monitor import app_v2
-    return app_v2.get_db()
 
 
 @bp.route('/next', methods=['POST'])
