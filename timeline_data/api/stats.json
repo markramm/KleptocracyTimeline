@@ -1,102 +1,112 @@
 {
-  "total_events": 909,
-  "total_tags": 1551,
-  "total_actors": 1140,
-  "total_sources": 2586,
+  "total_events": 1580,
+  "total_tags": 3340,
+  "total_actors": 3188,
+  "total_sources": 5670,
   "date_range": {
-    "start": "1970-01-01",
+    "start": "1142-01-01",
     "end": "2025-11-04"
   },
   "status_counts": {
-    "confirmed": 896,
+    "confirmed": 1444,
+    "validated": 32,
+    "unknown": 86,
     "disputed": 2,
-    "reported": 9,
+    "verified": 1,
+    "enhanced": 1,
+    "extensively-documented": 1,
+    "reported": 6,
+    "investigated": 1,
+    "partially-verified": 1,
+    "contested": 1,
+    "needs_work": 1,
+    "unverified": 1,
     "predicted": 1,
     "developing": 1
   },
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 140
-    },
-    {
-      "name": "kleptocracy",
-      "count": 129
-    },
-    {
-      "name": "government-contracts",
-      "count": 120
+      "count": 286
     },
     {
       "name": "corruption",
-      "count": 100
+      "count": 126
+    },
+    {
+      "name": "kleptocracy",
+      "count": 124
+    },
+    {
+      "name": "government-contracts",
+      "count": 117
     },
     {
       "name": "crypto",
-      "count": 82
+      "count": 111
+    },
+    {
+      "name": "trump-administration",
+      "count": 97
+    },
+    {
+      "name": "conflict-of-interest",
+      "count": 76
     },
     {
       "name": "foreign-influence",
-      "count": 56
+      "count": 75
     },
     {
-      "name": "justice-weaponization",
-      "count": 34
+      "name": "institutional-capture",
+      "count": 71
     },
     {
-      "name": "cryptocurrency",
-      "count": 28
-    },
-    {
-      "name": "ethics-violations",
-      "count": 27
-    },
-    {
-      "name": "conflicts-of-interest",
-      "count": 27
+      "name": "constitutional-crisis",
+      "count": 63
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 503
+      "count": 560
     },
     {
       "name": "Trump Administration",
-      "count": 366
-    },
-    {
-      "name": "Department of Justice",
-      "count": 39
-    },
-    {
-      "name": "ICE",
-      "count": 33
+      "count": 272
     },
     {
       "name": "Elon Musk",
-      "count": 32
+      "count": 147
+    },
+    {
+      "name": "Department of Justice",
+      "count": 70
+    },
+    {
+      "name": "Dick Cheney",
+      "count": 48
+    },
+    {
+      "name": "George W. Bush",
+      "count": 47
+    },
+    {
+      "name": "Karl Rove",
+      "count": 44
     },
     {
       "name": "Jeffrey Epstein",
-      "count": 30
+      "count": 42
     },
     {
-      "name": "Kristi Noem",
-      "count": 23
-    },
-    {
-      "name": "Department of Homeland Security",
-      "count": 21
-    },
-    {
-      "name": "Trump Organization",
-      "count": 17
+      "name": "Heritage Foundation",
+      "count": 36
     },
     {
       "name": "FBI",
-      "count": 16
+      "count": 35
     }
   ],
-  "generated": "2025-09-02T18:14:24.420732"
+  "generated": "2025-10-17T16:40:55.924349"
 }
