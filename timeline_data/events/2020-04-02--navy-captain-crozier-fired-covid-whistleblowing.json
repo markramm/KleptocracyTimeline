@@ -38,8 +38,22 @@
       "outlet": "NPR",
       "date": "2020-04-24",
       "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "Navy Recommends Reinstatement of Fired Carrier Captain",
+      "url": "https://www.pbs.org/newshour/politics/navy-recommends-reinstatement-of-fired-carrier-captain",
+      "outlet": "PBS NewsHour",
+      "date": "2020-04-24",
+      "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "Navy Captain Fired After Pleading for Help on Coronavirus-Stricken Aircraft Carrier",
+      "url": "https://www.pbs.org/newshour/nation/navy-captain-fired-after-pleading-for-help-on-coronavirus-stricken-aircraft-carrier",
+      "outlet": "PBS NewsHour",
+      "date": "2020-04-02",
+      "date_accessed": "2025-10-17"
     }
   ],
   "status": "confirmed",
-  "validation_notes": "Removed Washington Post source. Enhanced with NPR sources documenting the full sequence of events surrounding Captain Crozier's firing and subsequent Navy review."
+  "validation_notes": "Added PBS NewsHour sources providing comprehensive context about Captain Crozier's firing and Navy's response to the COVID-19 outbreak on USS Theodore Roosevelt"
 }

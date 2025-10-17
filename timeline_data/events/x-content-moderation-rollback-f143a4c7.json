@@ -11,7 +11,9 @@
     "Twitter/X Platform",
     "Center for Countering Digital Hate",
     "Eddie Perez",
-    "Far-right Network Actors"
+    "Far-right Network Actors",
+    "Jennie King",
+    "Yoel Roth"
   ],
   "sources": [
     {
@@ -25,8 +27,33 @@
       "url": "https://www.npr.org/2023/07/24/social-media-content-moderation/twitter-x-musk-changes",
       "outlet": "NPR",
       "date": "2023-07-24"
+    },
+    {
+      "title": "Musk's Twitter Changes Put 'Rocket Boosters' on Climate Change Misinformation",
+      "url": "https://www.pbs.org/newshour/politics/musks-twitter-changes-put-rocket-boosters-on-climate-change-misinformation",
+      "outlet": "PBS NewsHour",
+      "date": "2023-11-15",
+      "date_accessed": "2025-10-17"
+    },
+    {
+      "title": "Former Twitter Insider Describes Elon Musk's Mixed Signals on Free Speech",
+      "url": "https://www.pbs.org/wgbh/frontline/article/twitter-elon-musk-free-speech-x-documentary-excerpt/",
+      "outlet": "PBS Frontline",
+      "date": "2023-10-01",
+      "date_accessed": "2025-10-17"
     }
   ],
   "status": "confirmed",
-  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation"
+  "priority_id": "RT-CLAUDE-2025-musk-twitter-x-speech-manipulation",
+  "tags": [
+    "twitter-x",
+    "elon-musk",
+    "content-moderation",
+    "misinformation",
+    "information-warfare"
+  ],
+  "capture_lanes": [
+    "Media Capture & Control",
+    "Information Infrastructure"
+  ]
 }
