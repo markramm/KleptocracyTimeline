@@ -2,7 +2,7 @@
   "id": "1987-04-01--keating-five-senators-pressure-fhlbb-regulators",
   "date": "1987-04-01",
   "title": "Keating Five Senators Pressure FHLBB to Halt Lincoln Investigation",
-  "summary": "Five U.S. Senators\u2014Alan Cranston (D-CA), Dennis DeConcini (D-AZ), John Glenn (D-OH), John McCain (R-AZ), and Donald Riegle (D-MI)\u2014meet with Federal Home Loan Bank Board officials to pressure them to halt regulatory investigation of Charles Keating's Lincoln Savings and Loan. The senators had received $1.5 million in campaign contributions from Keating in exchange for regulatory intervention. Following the meeting, the FHLBB backs off enforcement action against Lincoln, demonstrating successful legislative capture of financial regulation. This coordination between industry money and senatorial pressure exemplifies systematic corruption across branches of government.",
+  "summary": "Five U.S. Senators—Alan Cranston (D-CA), Dennis DeConcini (D-AZ), John Glenn (D-OH), John McCain (R-AZ), and Donald Riegle (D-MI)—meet with Federal Home Loan Bank Board officials to pressure them to halt regulatory investigation of Charles Keating's Lincoln Savings and Loan. The senators had received $1.5 million in campaign contributions from Keating in exchange for regulatory intervention. Following the meeting, the FHLBB backs off enforcement action against Lincoln, demonstrating successful legislative capture of financial regulation. This coordination between industry money and senatorial pressure exemplifies systematic corruption across branches of government.",
   "importance": 9,
   "location": "Washington DC",
   "actors": [
@@ -16,11 +16,11 @@
     "Federal Home Loan Bank Board"
   ],
   "tags": [
-    "keating_five",
-    "regulatory_capture",
-    "campaign_contributions",
-    "lincoln_savings",
-    "systematic_corruption",
+    "keating-five",
+    "regulatory-capture",
+    "campaign-contributions",
+    "lincoln-savings",
+    "systematic-corruption",
     "fhlbb"
   ],
   "capture_lanes": [

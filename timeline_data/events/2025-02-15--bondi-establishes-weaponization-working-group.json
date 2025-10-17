@@ -35,13 +35,13 @@
   "status": "confirmed",
   "summary": "Attorney General Pam Bondi establishes 'Weaponization Working Group' as first priority after confirmation, tasked with investigating 'activities of all departments and agencies exercising civil or criminal enforcement authority over the last four years.' Bondi declares intention to 'investigate the investigators' and 'prosecute the prosecutors' who worked on Trump-related cases. The working group specifically targets prosecutions by Jack Smith, Alvin Bragg, and Letitia James, with a mandate to review Jan. 6 investigations, potential FBI targeting of groups, and DOJ actions. This represents a systematic mechanism for political retaliation, transforming the Justice Department into a politically-driven enforcement arm designed to punish prosecutors who investigated Trump administration activities.",
   "tags": [
-    "doj_weaponization",
-    "pam_bondi",
-    "weaponization_working_group",
-    "prosecutor_targeting",
-    "institutional_capture",
-    "political_retaliation",
-    "doj_transformation"
+    "doj-weaponization",
+    "pam-bondi",
+    "weaponization-working-group",
+    "prosecutor-targeting",
+    "institutional-capture",
+    "political-retaliation",
+    "doj-transformation"
   ],
   "title": "Attorney General Bondi Establishes 'Weaponization Working Group' to Target Prosecutors"
 }

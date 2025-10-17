@@ -5,11 +5,11 @@
   "summary": "Meta announced a groundbreaking policy shift, making its open-source Llama AI models available to US government agencies and defense contractors. Partnering with companies like Accenture, AWS, Anduril, Lockheed Martin, Microsoft, Oracle, Scale AI, and others, Meta opened its technology for national security applications. This strategic move breaks previous prohibitions on military use, offering specific projects such as aircraft maintenance document synthesis, operational planning support, and code generation. The decision comes amid geopolitical tensions, including reports of Chinese researchers using an older Llama model for defense applications, signaling a significant transformation in Meta's approach to government and defense technology.",
   "importance": 8,
   "tags": [
-    "ai_governance",
-    "military_contracts",
-    "open_source",
-    "regulatory_capture",
-    "national_security",
+    "ai-governance",
+    "military-contracts",
+    "open-source",
+    "regulatory-capture",
+    "national-security",
     "tech-government-integration"
   ],
   "actors": [

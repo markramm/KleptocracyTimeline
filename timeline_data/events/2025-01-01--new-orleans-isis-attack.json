@@ -12,10 +12,10 @@
   "tags": [
     "isis",
     "terrorism",
-    "mass_casualty",
-    "political_violence",
-    "international_terrorism",
-    "new_orleans"
+    "mass-casualty",
+    "political-violence",
+    "international-terrorism",
+    "new-orleans"
   ],
   "status": "confirmed",
   "sources": [

@@ -40,11 +40,11 @@
     "surveillance",
     "telecommunications",
     "nsa",
-    "corporate_cooperation",
-    "internet_backbone",
-    "civil_liberties",
-    "bush_administration",
-    "mass_surveillance"
+    "corporate-cooperation",
+    "internet-backbone",
+    "civil-liberties",
+    "bush-administration",
+    "mass-surveillance"
   ],
   "importance": 9,
   "category": "surveillance_infrastructure",

@@ -53,14 +53,14 @@
   "status": "confirmed",
   "summary": "Robert Maxwell begins systematic distribution of the weaponized PROMIS software with intelligence backdoors to foreign governments including the Soviet KGB and Chinese Military Intelligence (PLA-2). According to multiple sources, Maxwell sold China a copy of PROMIS for $9 million in 1985, revealing the software's 'trap door' secret. Working with Israeli Mossad operative Rafi Eitan, Maxwell ultimately distributed over $500 million worth of the surveillance-enabled PROMIS software to intelligence agencies worldwide, creating a global espionage network that allowed Western intelligence to monitor foreign governments and organizations.\n\nThe PROMIS software, originally developed by Inslaw for case tracking, was modified by the NSA to include covert electronic surveillance capabilities. Maxwell's distribution network spanned multiple countries, including the UK, Australia, South Korea, Canada, and the Soviet KGB, with intelligence sales facilitated by arms dealers like Adnan Khashoggi and Manucher Ghorbanifar.",
   "tags": [
-    "Robert Maxwell",
-    "PROMIS software",
-    "KGB",
-    "Chinese intelligence",
-    "Mossad",
-    "Rafi Eitan",
-    "surveillance backdoors",
-    "international espionage"
+    "robert-maxwell",
+    "promis-software",
+    "kgb",
+    "chinese-intelligence",
+    "mossad",
+    "rafi-eitan",
+    "surveillance-backdoors",
+    "international-espionage"
   ],
   "title": "Maxwell Begins Distribution of Backdoored PROMIS Software to KGB and China"
 }

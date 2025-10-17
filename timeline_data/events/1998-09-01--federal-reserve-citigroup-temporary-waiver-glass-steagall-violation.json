@@ -85,14 +85,14 @@
   "status": "confirmed",
   "summary": "In September 1998, the Federal Reserve Board granted Citicorp a temporary waiver allowing its merger with Travelers Group, effectively circumventing the Glass-Steagall Act and Bank Holding Company Act. This strategic regulatory maneuver created Citigroup, the first 'universal bank' since the 1930s. Public hearings revealed significant community and legal concerns about the merger's potential violations of existing banking regulations. President Bill Clinton, Treasury Secretary Robert Rubin, and Fed Chairman Alan Greenspan endorsed the merger, placing significant pressure on Congress to formally repeal Glass-Steagall's anti-affiliation rules. Community representatives from areas like Cypress Hills and City Line testified about potential negative impacts, highlighting concerns about reduced local banking services and community lending. The merger catalyzed a massive lobbying campaign that culminated in the Gramm-Leach-Bliley Act of 1999, permanently dismantling New Deal-era financial regulations and enabling the creation of massive, integrated financial institutions.",
   "tags": [
-    "federal_reserve",
+    "federal-reserve",
     "citigroup",
-    "glass_steagall_violation",
-    "regulatory_waiver",
-    "systemic_corruption",
-    "banking_merger",
-    "financial_deregulation",
-    "congressional_capture"
+    "glass-steagall-violation",
+    "regulatory-waiver",
+    "systemic-corruption",
+    "banking-merger",
+    "financial-deregulation",
+    "congressional-capture"
   ],
   "title": "Federal Reserve Grants Citigroup Temporary Waiver for Glass-Steagall Violation"
 }

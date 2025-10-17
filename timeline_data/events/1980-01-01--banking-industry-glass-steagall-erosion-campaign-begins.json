@@ -14,13 +14,13 @@
     "Alan Greenspan"
   ],
   "tags": [
-    "Glass-Steagall",
-    "banking deregulation",
-    "regulatory capture",
-    "financial lobbying",
-    "New Deal reforms",
-    "Alan Greenspan",
-    "Federal Reserve"
+    "glass-steagall",
+    "banking-deregulation",
+    "regulatory-capture",
+    "financial-lobbying",
+    "new-deal-reforms",
+    "alan-greenspan",
+    "federal-reserve"
   ],
   "capture_lanes": [
     "Regulatory Capture",
@@ -29,8 +29,8 @@
   ],
   "sources": [
     {
-      "title": "Decline of the Glass\u2013Steagall Act",
-      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass\u2013Steagall_Act",
+      "title": "Decline of the Glass–Steagall Act",
+      "url": "https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act",
       "outlet": "Wikipedia",
       "verified": true,
       "key_facts_confirmed": [

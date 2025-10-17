@@ -31,12 +31,12 @@
     }
   ],
   "tags": [
-    "corporate_pacs",
-    "campaign_finance",
-    "systematic_corruption",
-    "institutional_capture",
-    "supreme_court",
-    "political_spending"
+    "corporate-pacs",
+    "campaign-finance",
+    "systematic-corruption",
+    "institutional-capture",
+    "supreme-court",
+    "political-spending"
   ],
   "importance": 8,
   "status": "confirmed",

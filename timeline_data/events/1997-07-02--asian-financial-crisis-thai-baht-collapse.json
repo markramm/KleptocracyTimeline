@@ -1,95 +1,95 @@
 {
-    "id": "1997-07-02--asian-financial-crisis-thai-baht-collapse",
-    "date": "1997-07-02",
-    "title": "Thai Baht Collapse Triggers Systemic Southeast Asian Economic Crisis",
-    "summary": "Thailand floats the baht on July 2, 1997, causing a dramatic currency devaluation that triggers the Asian Financial Crisis. After years of rapid economic growth and significant current account deficits, Thailand was forced to abandon its fixed exchange rate, with the baht depreciating from 25 to 56 per U.S. dollar by January 1998. This event marked a critical moment of financial vulnerability, prompting massive IMF intervention and revealing deep structural weaknesses in Southeast Asian economies.",
-    "actors": [
-        "Thai Government",
-        "International Monetary Fund (IMF)",
-        "World Bank",
-        "McKinsey & Company",
-        "Asian Development Bank"
-    ],
-    "importance": 9,
-    "sources": [
-        {
-            "outlet": "IMF Finance & Development",
-            "title": "The Asian Crisis: Causes and Cures",
-            "url": "https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm",
-            "date": "1998-06"
-        },
-        {
-            "outlet": "Federal Reserve History",
-            "title": "Asian Financial Crisis Overview",
-            "url": "https://www.federalreservehistory.org/essays/asian-financial-crisis",
-            "date": "2013"
-        },
-        {
-            "outlet": "Bank of Thailand",
-            "title": "Lessons Learned from the Tom Yum Kung Crisis",
-            "url": "https://www.bot.or.th/en/our-roles/special-measures/Tom-Yum-Kung-lesson.html",
-            "date": "2007"
-        }
-    ],
-    "tags": [
-        "asian_financial_crisis",
-        "currency_collapse",
-        "imf_intervention",
-        "structural_adjustment",
-        "economic_vulnerability",
-        "global_financial_systems"
-    ],
-    "capture_lanes": [
-        "Financial Capture",
-        "Intelligence Penetration",
-        "Economic Destabilization",
-        "International Financial Governance"
-    ],
-    "status": "confirmed",
-    "economic_crisis_details": {
-        "pre_crisis_conditions": {
-            "economic_growth_period": {
-                "years": "1985-1996",
-                "average_growth_rate": 9.0,
-                "currency_peg": "25 baht per USD"
-            },
-            "economic_vulnerabilities": [
-                "Widening current account deficit",
-                "Unsustainable fixed exchange rate",
-                "Weak financial system supervision"
-            ]
-        },
-        "crisis_mechanics": {
-            "trigger_date": "1997-07-02",
-            "initial_events": [
-                "Currency speculation attacks",
-                "Exhaustion of foreign exchange reserves",
-                "Forced currency float"
-            ],
-            "currency_depreciation": {
-                "pre_crisis_rate": 25,
-                "january_1998_rate": 56,
-                "total_depreciation_percentage": 124
-            }
-        },
-        "international_response": {
-            "total_financial_support": "$118 billion",
-            "supporting_institutions": [
-                "International Monetary Fund",
-                "World Bank",
-                "Asian Development Bank"
-            ],
-            "aid_conditions": [
-                "Structural economic reforms",
-                "Financial system restructuring",
-                "Improved economic transparency"
-            ]
-        },
-        "long_term_consequences": [
-            "Establishment of Chiang Mai Initiative",
-            "Regional financial system reforms",
-            "Increased economic transparency",
-            "Restructured international financial governance"
-        ]
+  "id": "1997-07-02--asian-financial-crisis-thai-baht-collapse",
+  "date": "1997-07-02",
+  "title": "Thai Baht Collapse Triggers Systemic Southeast Asian Economic Crisis",
+  "summary": "Thailand floats the baht on July 2, 1997, causing a dramatic currency devaluation that triggers the Asian Financial Crisis. After years of rapid economic growth and significant current account deficits, Thailand was forced to abandon its fixed exchange rate, with the baht depreciating from 25 to 56 per U.S. dollar by January 1998. This event marked a critical moment of financial vulnerability, prompting massive IMF intervention and revealing deep structural weaknesses in Southeast Asian economies.",
+  "actors": [
+    "Thai Government",
+    "International Monetary Fund (IMF)",
+    "World Bank",
+    "McKinsey & Company",
+    "Asian Development Bank"
+  ],
+  "importance": 9,
+  "sources": [
+    {
+      "outlet": "IMF Finance & Development",
+      "title": "The Asian Crisis: Causes and Cures",
+      "url": "https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm",
+      "date": "1998-06"
+    },
+    {
+      "outlet": "Federal Reserve History",
+      "title": "Asian Financial Crisis Overview",
+      "url": "https://www.federalreservehistory.org/essays/asian-financial-crisis",
+      "date": "2013"
+    },
+    {
+      "outlet": "Bank of Thailand",
+      "title": "Lessons Learned from the Tom Yum Kung Crisis",
+      "url": "https://www.bot.or.th/en/our-roles/special-measures/Tom-Yum-Kung-lesson.html",
+      "date": "2007"
     }
+  ],
+  "tags": [
+    "asian-financial-crisis",
+    "currency-collapse",
+    "imf-intervention",
+    "structural-adjustment",
+    "economic-vulnerability",
+    "global-financial-systems"
+  ],
+  "capture_lanes": [
+    "Financial Capture",
+    "Intelligence Penetration",
+    "Economic Destabilization",
+    "International Financial Governance"
+  ],
+  "status": "confirmed",
+  "economic_crisis_details": {
+    "pre_crisis_conditions": {
+      "economic_growth_period": {
+        "years": "1985-1996",
+        "average_growth_rate": 9.0,
+        "currency_peg": "25 baht per USD"
+      },
+      "economic_vulnerabilities": [
+        "Widening current account deficit",
+        "Unsustainable fixed exchange rate",
+        "Weak financial system supervision"
+      ]
+    },
+    "crisis_mechanics": {
+      "trigger_date": "1997-07-02",
+      "initial_events": [
+        "Currency speculation attacks",
+        "Exhaustion of foreign exchange reserves",
+        "Forced currency float"
+      ],
+      "currency_depreciation": {
+        "pre_crisis_rate": 25,
+        "january_1998_rate": 56,
+        "total_depreciation_percentage": 124
+      }
+    },
+    "international_response": {
+      "total_financial_support": "$118 billion",
+      "supporting_institutions": [
+        "International Monetary Fund",
+        "World Bank",
+        "Asian Development Bank"
+      ],
+      "aid_conditions": [
+        "Structural economic reforms",
+        "Financial system restructuring",
+        "Improved economic transparency"
+      ]
+    },
+    "long_term_consequences": [
+      "Establishment of Chiang Mai Initiative",
+      "Regional financial system reforms",
+      "Increased economic transparency",
+      "Restructured international financial governance"
+    ]
+  }
 }

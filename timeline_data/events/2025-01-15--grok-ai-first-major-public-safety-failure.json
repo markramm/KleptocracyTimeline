@@ -12,11 +12,11 @@
     "Future of Life Institute"
   ],
   "tags": [
-    "AI safety failure",
-    "Misinformation",
-    "Tech accountability",
-    "AI regulation",
-    "Technological risk"
+    "ai-safety-failure",
+    "misinformation",
+    "tech-accountability",
+    "ai-regulation",
+    "technological-risk"
   ],
   "capture_lanes": [
     "Technological Capture",
@@ -25,7 +25,7 @@
   "sources": [
     {
       "outlet": "Fortune",
-      "title": "Elon Musk released xAIs Grok 4 without any safety reports\u2014despite calling AI more dangerous than nukes",
+      "title": "Elon Musk released xAIs Grok 4 without any safety reports—despite calling AI more dangerous than nukes",
       "url": "https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/",
       "date": "2025-07-17"
     },

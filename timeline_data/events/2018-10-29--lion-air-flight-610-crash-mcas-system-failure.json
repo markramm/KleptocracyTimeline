@@ -1,60 +1,60 @@
 {
-    "id": "2018-10-29--lion-air-flight-610-crash-mcas-system-failure",
-    "title": "Lion Air Flight 610 Crashes Due to Boeing 737 MAX MCAS System Malfunction",
-    "date": "2018-10-29",
-    "description": "Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea 13 minutes after takeoff from Jakarta, killing all 189 people aboard. The crash was caused by a malfunctioning MCAS (Maneuvering Characteristics Augmentation System) that repeatedly pushed the aircraft's nose down due to faulty angle-of-attack sensor data, a system that pilots were not informed about during training.",
-    "category": "aviation_safety",
-    "tags": [
-        "boeing",
-        "737max",
-        "mcas",
-        "lion_air",
-        "aviation_safety",
-        "regulatory_failure",
-        "crash",
-        "transportation_safety"
-    ],
-    "sources": [
-        {
-            "title": "Lion Air Flight 610",
-            "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
-            "date": "2018-10-29",
-            "outlet": "Wikipedia"
-        },
-        {
-            "title": "Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude of Contributing Factors",
-            "url": "https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/",
-            "date": "2019-10-28",
-            "outlet": "Aviation Today"
-        },
-        {
-            "title": "Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators Say",
-            "url": "https://www.npr.org/2018/11/28/671421822/lion-air-jet-was-not-airworthy-in-lead-up-to-fatal-crash-investigators-say",
-            "date": "2018-11-28",
-            "outlet": "NPR"
-        },
-        {
-            "title": "Lion Air Flight 610 Investigation Summary",
-            "url": "https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx",
-            "date": "2019-10-25",
-            "outlet": "NTSB"
-        }
-    ],
-    "importance": 10,
-    "priority_id": "RT-EXP-EC86869C-boeing-737-max-faa-self-certification",
-    "actors": [
-        "Lion Air",
-        "Boeing",
-        "MCAS system",
-        "189 victims",
-        "National Transportation Safety Committee (NTSC)",
-        "Federal Aviation Administration (FAA)"
-    ],
-    "summary": "A fatal aviation disaster revealing critical design flaws in Boeing's 737 MAX aircraft. The crash of Lion Air Flight 610 exposed systemic issues in aircraft design, maintenance, and pilot training, resulting from a malfunctioning Maneuvering Characteristics Augmentation System (MCAS). Investigators found multiple contributing factors, including miscalibrated sensors, inadequate pilot training, and Boeing's decision to obscure MCAS system details from flight manuals.",
-    "status": "confirmed",
-    "capture_lanes": [
-        "Regulatory Capture",
-        "Corporate Safety Negligence"
-    ],
-    "validation_priority": 8
+  "id": "2018-10-29--lion-air-flight-610-crash-mcas-system-failure",
+  "title": "Lion Air Flight 610 Crashes Due to Boeing 737 MAX MCAS System Malfunction",
+  "date": "2018-10-29",
+  "description": "Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea 13 minutes after takeoff from Jakarta, killing all 189 people aboard. The crash was caused by a malfunctioning MCAS (Maneuvering Characteristics Augmentation System) that repeatedly pushed the aircraft's nose down due to faulty angle-of-attack sensor data, a system that pilots were not informed about during training.",
+  "category": "aviation_safety",
+  "tags": [
+    "boeing",
+    "737max",
+    "mcas",
+    "lion-air",
+    "aviation-safety",
+    "regulatory-failure",
+    "crash",
+    "transportation-safety"
+  ],
+  "sources": [
+    {
+      "title": "Lion Air Flight 610",
+      "url": "https://en.wikipedia.org/wiki/Lion_Air_Flight_610",
+      "date": "2018-10-29",
+      "outlet": "Wikipedia"
+    },
+    {
+      "title": "Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude of Contributing Factors",
+      "url": "https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/",
+      "date": "2019-10-28",
+      "outlet": "Aviation Today"
+    },
+    {
+      "title": "Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators Say",
+      "url": "https://www.npr.org/2018/11/28/671421822/lion-air-jet-was-not-airworthy-in-lead-up-to-fatal-crash-investigators-say",
+      "date": "2018-11-28",
+      "outlet": "NPR"
+    },
+    {
+      "title": "Lion Air Flight 610 Investigation Summary",
+      "url": "https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx",
+      "date": "2019-10-25",
+      "outlet": "NTSB"
+    }
+  ],
+  "importance": 10,
+  "priority_id": "RT-EXP-EC86869C-boeing-737-max-faa-self-certification",
+  "actors": [
+    "Lion Air",
+    "Boeing",
+    "MCAS system",
+    "189 victims",
+    "National Transportation Safety Committee (NTSC)",
+    "Federal Aviation Administration (FAA)"
+  ],
+  "summary": "A fatal aviation disaster revealing critical design flaws in Boeing's 737 MAX aircraft. The crash of Lion Air Flight 610 exposed systemic issues in aircraft design, maintenance, and pilot training, resulting from a malfunctioning Maneuvering Characteristics Augmentation System (MCAS). Investigators found multiple contributing factors, including miscalibrated sensors, inadequate pilot training, and Boeing's decision to obscure MCAS system details from flight manuals.",
+  "status": "confirmed",
+  "capture_lanes": [
+    "Regulatory Capture",
+    "Corporate Safety Negligence"
+  ],
+  "validation_priority": 8
 }

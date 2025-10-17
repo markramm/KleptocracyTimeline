@@ -5,15 +5,15 @@
   "summary": "Robert Kaplan (Dallas Fed) and Eric Rosengren (Boston Fed) announce simultaneous resignations following massive public backlash over their 2020 trading activities. The scandal revealed deep ethical vulnerabilities in the Federal Reserve, where senior officials traded stocks during critical market interventions. Kaplan traded at least $1 million in 22 stocks, while Rosengren invested in mortgage-backed funds similar to those the Fed was purchasing. Their resignations came amid mounting pressure and scrutiny, highlighting systemic conflicts of interest in financial regulatory institutions. Senator Elizabeth Warren and other critics called for comprehensive reforms to prevent such ethical breaches in the future.",
   "importance": 9,
   "tags": [
-    "federal_reserve",
+    "federal-reserve",
     "resignation",
-    "trading_scandal",
-    "robert_kaplan",
-    "eric_rosengren",
-    "institutional_corruption",
-    "dallas_fed",
-    "boston_fed",
-    "financial_ethics"
+    "trading-scandal",
+    "robert-kaplan",
+    "eric-rosengren",
+    "institutional-corruption",
+    "dallas-fed",
+    "boston-fed",
+    "financial-ethics"
   ],
   "actors": [
     "Robert Kaplan",

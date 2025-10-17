@@ -10,12 +10,12 @@
     "Unknown arsonist"
   ],
   "tags": [
-    "political_violence",
+    "political-violence",
     "arson",
-    "gubernatorial_attack",
-    "state_government",
-    "domestic_terrorism",
-    "democratic_institutions"
+    "gubernatorial-attack",
+    "state-government",
+    "domestic-terrorism",
+    "democratic-institutions"
   ],
   "status": "confirmed",
   "sources": [

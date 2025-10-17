@@ -39,10 +39,10 @@
     }
   ],
   "tags": [
-    "corporate_pacs",
-    "campaign_finance",
-    "systematic_corruption",
-    "institutional_capture"
+    "corporate-pacs",
+    "campaign-finance",
+    "systematic-corruption",
+    "institutional-capture"
   ],
   "importance": 8,
   "status": "confirmed",

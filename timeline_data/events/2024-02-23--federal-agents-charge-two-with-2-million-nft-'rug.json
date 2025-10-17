@@ -28,14 +28,14 @@
   ],
   "summary": "HSI agents charged Devin Alan Rhoden (24, active-duty Air Force cyber analyst) and Berman Jerry Nowlin Jr. (20) with conspiracy to commit wire fraud and money laundering through NFT schemes. The defendants created two NFT collections ('UndeadApes' and 'Undead Lady Apes') on the Solana blockchain, raising nearly $400,000 from hundreds of international investors through a sophisticated 'rug pull' scheme. They used 'chain-hopping' techniques, transferring fraud proceeds between Solana and Ethereum blockchains to obfuscate illicit funds. The case represents a significant federal prosecution highlighting emerging cryptocurrency fraud and money laundering techniques involving blockchain technologies.",
   "tags": [
-    "NFT",
-    "money laundering",
+    "nft",
+    "money-laundering",
     "fraud",
     "blockchain",
-    "federal prosecution",
-    "rug pull",
-    "cryptocurrency",
-    "cyber crime"
+    "federal-prosecution",
+    "rug-pull",
+    "crypto",
+    "cyber-crime"
   ],
   "title": "Federal Agents Charge Two with 2 Million NFT 'Rug Pull' Money Laundering Scheme"
 }

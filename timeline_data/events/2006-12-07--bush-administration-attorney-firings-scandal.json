@@ -5,13 +5,13 @@
   "summary": "Bush administration Justice Department fires seven U.S. attorneys in coordinated operation later determined to be politically motivated retaliation. Fired prosecutors included David Iglesias (New Mexico), Carol Lam (California), Daniel Bogden (Nevada), Paul Charlton (Arizona), Margaret Chiara (Michigan), Todd Graves (Missouri), and John McKay (Washington). Investigation revealed Karl Rove was 'very agitated' over Iglesias's refusal to expedite corruption investigation against Democratic candidate before 2006 election. DOJ Inspector General's 2008 report found firings were 'arbitrary', 'fundamentally flawed', and 'raised doubts about integrity of Department prosecution decisions', establishing systematic template for DOJ weaponization against prosecutors who refuse political demands.",
   "importance": 8,
   "tags": [
-    "doj_weaponization",
-    "attorney_firings",
-    "karl_rove",
-    "political_prosecutions",
-    "bush_administration",
-    "prosecutor_targeting",
-    "institutional_corruption"
+    "doj-weaponization",
+    "attorney-firings",
+    "karl-rove",
+    "political-prosecutions",
+    "bush-administration",
+    "prosecutor-targeting",
+    "institutional-corruption"
   ],
   "actors": [
     "Karl Rove",

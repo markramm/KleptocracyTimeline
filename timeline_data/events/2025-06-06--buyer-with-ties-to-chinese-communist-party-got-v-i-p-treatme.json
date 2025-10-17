@@ -1,75 +1,75 @@
 {
-    "id": "2025-06-06--buyer-with-ties-to-chinese-communist-party-got-v-i-p-treatme",
-    "date": "2025-06-06",
-    "title": "Communist Party Adviser Purchases Trump Memecoin for VIP Dinner Access",
-    "summary": "He Tianying, a Chinese tech executive and delegate to the Chinese People's Political Consultative Conference, purchased $3.7 million of Trump's memecoin to secure a private dinner with the president, revealing deep constitutional concerns about foreign influence and presidential access through cryptocurrency.",
-    "description": "He Tianying, a delegate of the Fangshan CPPCC (Chinese People's Political Consultative Conference), purchased $3.7 million worth of Trump's memecoin, positioning himself among the top 220 buyers and earning a private dinner with the president at his golf club near Washington, D.C., while raising serious ethical and legal questions about foreign access to the president.",
-    "status": "confirmed",
-    "importance": 9,
-    "location": "Washington, D.C.",
-    "actors": [
-        "Donald Trump",
-        "He Tianying",
-        "Justin Sun",
-        "Adam Schiff",
-        "Elizabeth Warren"
-    ],
-    "tags": [
-        "crypto",
-        "government-contracts",
-        "foreign-influence",
-        "campaign-finance",
-        "constitutional-violations"
-    ],
-    "capture_type": "monetizing_position",
-    "sources": [
-        {
-            "outlet": "NPR",
-            "title": "White House denies conflicts of interest as Trump joins dinner for meme coin investors",
-            "date": "2025-05-22",
-            "url": "https://www.npr.org/2025/05/22/nx-s1-5407411/white-house-denies-conflicts-of-interest-as-trump-joins-dinner-for-meme-coin-investors"
-        },
-        {
-            "outlet": "Fortune Crypto",
-            "title": "Trump's big crypto dinner this Thursday will host 220 guests, including a Chinese billionaire",
-            "date": "2025-05-20",
-            "url": "https://fortune.com/crypto/2025/05/20/trump-memecoin-dinner-us-senator-justin-sun-billionaire/"
-        },
-        {
-            "outlet": "CNBC",
-            "title": "At Trump's $148 million meme coin dinner, 'the food sucked' and security was lax, attendee says",
-            "date": "2025-05-23",
-            "url": "https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html"
-        },
-        {
-            "outlet": "CNBC",
-            "title": "Trump's memecoin dinner contest earns insiders $900,000 in two days",
-            "date": "2025-04-25",
-            "url": "https://www.cnbc.com/2025/04/25/trumps-memecoin-dinner-contest-earns-insiders-900000-in-two-days.html"
-        },
-        {
-            "outlet": "Raw Story",
-            "title": "'Unfortunate': Chinese Communist Party adviser scored VIP Trump dinner",
-            "date": "2025-06-06",
-            "url": "https://www.rawstory.com/trump-crypto-2672324656/"
-        },
-        {
-            "outlet": "Semafor",
-            "title": "Trump memecoin purchases are helping some Chinese firms",
-            "date": "2025-05-22",
-            "url": "https://www.semafor.com/article/05/22/2025/trump-purchases-help-chinese-firms"
-        }
-    ],
-    "connections": [],
-    "patterns": [
-        "kleptocratic-capture",
-        "foreign-influence-networks",
-        "constitutional-violations"
-    ],
-    "notes": "Comprehensive investigation reveals significant constitutional and ethical concerns. Justin Sun, a Chinese-born crypto entrepreneur, confirmed purchasing $18.6 million in Trump-themed meme tokens. Democratic senators Adam Schiff and Elizabeth Warren urged investigation into potential 'pay to play' corruption. Constitutional experts note potential violations of foreign influence restrictions.",
-    "capture_lanes": [
-        "Executive Power Expansion",
-        "Fundraising Access",
-        "Foreign Influence"
-    ]
+  "id": "2025-06-06--buyer-with-ties-to-chinese-communist-party-got-v-i-p-treatme",
+  "date": "2025-06-06",
+  "title": "Communist Party Adviser Purchases Trump Memecoin for VIP Dinner Access",
+  "summary": "He Tianying, a Chinese tech executive and delegate to the Chinese People's Political Consultative Conference, purchased $3.7 million of Trump's memecoin to secure a private dinner with the president, revealing deep constitutional concerns about foreign influence and presidential access through cryptocurrency.",
+  "description": "He Tianying, a delegate of the Fangshan CPPCC (Chinese People's Political Consultative Conference), purchased $3.7 million worth of Trump's memecoin, positioning himself among the top 220 buyers and earning a private dinner with the president at his golf club near Washington, D.C., while raising serious ethical and legal questions about foreign access to the president.",
+  "status": "confirmed",
+  "importance": 9,
+  "location": "Washington, D.C.",
+  "actors": [
+    "Donald Trump",
+    "He Tianying",
+    "Justin Sun",
+    "Adam Schiff",
+    "Elizabeth Warren"
+  ],
+  "tags": [
+    "crypto",
+    "government-contracts",
+    "foreign-influence",
+    "campaign-finance",
+    "constitutional-violation"
+  ],
+  "capture_type": "monetizing_position",
+  "sources": [
+    {
+      "outlet": "NPR",
+      "title": "White House denies conflicts of interest as Trump joins dinner for meme coin investors",
+      "date": "2025-05-22",
+      "url": "https://www.npr.org/2025/05/22/nx-s1-5407411/white-house-denies-conflicts-of-interest-as-trump-joins-dinner-for-meme-coin-investors"
+    },
+    {
+      "outlet": "Fortune Crypto",
+      "title": "Trump's big crypto dinner this Thursday will host 220 guests, including a Chinese billionaire",
+      "date": "2025-05-20",
+      "url": "https://fortune.com/crypto/2025/05/20/trump-memecoin-dinner-us-senator-justin-sun-billionaire/"
+    },
+    {
+      "outlet": "CNBC",
+      "title": "At Trump's $148 million meme coin dinner, 'the food sucked' and security was lax, attendee says",
+      "date": "2025-05-23",
+      "url": "https://www.cnbc.com/2025/05/23/trump-meme-coin-dinner.html"
+    },
+    {
+      "outlet": "CNBC",
+      "title": "Trump's memecoin dinner contest earns insiders $900,000 in two days",
+      "date": "2025-04-25",
+      "url": "https://www.cnbc.com/2025/04/25/trumps-memecoin-dinner-contest-earns-insiders-900000-in-two-days.html"
+    },
+    {
+      "outlet": "Raw Story",
+      "title": "'Unfortunate': Chinese Communist Party adviser scored VIP Trump dinner",
+      "date": "2025-06-06",
+      "url": "https://www.rawstory.com/trump-crypto-2672324656/"
+    },
+    {
+      "outlet": "Semafor",
+      "title": "Trump memecoin purchases are helping some Chinese firms",
+      "date": "2025-05-22",
+      "url": "https://www.semafor.com/article/05/22/2025/trump-purchases-help-chinese-firms"
+    }
+  ],
+  "connections": [],
+  "patterns": [
+    "kleptocratic-capture",
+    "foreign-influence-networks",
+    "constitutional-violations"
+  ],
+  "notes": "Comprehensive investigation reveals significant constitutional and ethical concerns. Justin Sun, a Chinese-born crypto entrepreneur, confirmed purchasing $18.6 million in Trump-themed meme tokens. Democratic senators Adam Schiff and Elizabeth Warren urged investigation into potential 'pay to play' corruption. Constitutional experts note potential violations of foreign influence restrictions.",
+  "capture_lanes": [
+    "Executive Power Expansion",
+    "Fundraising Access",
+    "Foreign Influence"
+  ]
 }

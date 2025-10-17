@@ -2,8 +2,8 @@
   "id": "2023-06-08--allen-v-milligan",
   "date": "2023-06-08",
   "importance": 9,
-  "title": "Allen v. Milligan reaffirms Voting Rights Act \u00a72; orders additional majority-Black district in Alabama",
-  "summary": "The Supreme Court held that Alabama's congressional map likely violated \u00a72 of the Voting Rights\nAct and ordered a remedy adding a second majority-Black district. The ruling preserved the\nThornburg v. Gingles framework for vote-dilution claims, affecting redistricting nationally.\n",
+  "title": "Allen v. Milligan reaffirms Voting Rights Act §2; orders additional majority-Black district in Alabama",
+  "summary": "The Supreme Court held that Alabama's congressional map likely violated §2 of the Voting Rights\nAct and ordered a remedy adding a second majority-Black district. The ruling preserved the\nThornburg v. Gingles framework for vote-dilution claims, affecting redistricting nationally.\n",
   "notes": "Use the opinion and DOJ statement of interest for doctrinal clarity and remedy context.\n",
   "status": "confirmed",
   "actors": [
@@ -13,14 +13,14 @@
   ],
   "tags": [
     "section-2",
-    "section_2_vra",
-    "voting_rights_act",
+    "section-2-vra",
+    "voting-rights-act",
     "redistricting",
-    "racial_discrimination",
+    "racial-discrimination",
     "alabama",
     "voting-rights",
-    "supreme_court",
-    "democratic_protection"
+    "supreme-court",
+    "democratic-protection"
   ],
   "patterns": [],
   "related_events": [
@@ -49,7 +49,7 @@
       "url": "https://www.justice.gov/d9/2023-08/soi-_singleton_v_allen_milligan_v_allen_and_caster_v_allen.pdf",
       "archive_url": "",
       "key_facts_confirmed": [
-        "DOJ's framing of \u00a72 standards in the Alabama litigation"
+        "DOJ's framing of §2 standards in the Alabama litigation"
       ],
       "verified": true
     },

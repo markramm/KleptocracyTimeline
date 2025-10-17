@@ -45,13 +45,13 @@
   "status": "confirmed",
   "summary": "Anthropic achieved comprehensive FedRAMP High certification for Claude across multiple cloud platforms, enabling secure AI deployment across all three branches of the U.S. government. Through a groundbreaking $1 OneGov deal with the General Services Administration (GSA), Anthropic offers Claude AI to federal, legislative, and judicial agencies with unprecedented accessibility.\n\nKey achievements include:\n- FedRAMP High authorization on Amazon Bedrock and Google Cloud Vertex AI\n- Multicloud infrastructure supporting DoD Impact Level 4 and 5 workloads\n- First major AI company to offer government-wide access for just $1 per agency\n- Partnerships with AWS, Google Cloud, and Palantir for secure AI integration\n\nThis strategic move positions Anthropic at the center of government AI adoption, leveraging their Constitutional AI framework to gain critical national security infrastructure contracts.",
   "tags": [
-    "ai_governance",
-    "national_security",
-    "surveillance_tech",
-    "regulatory_capture",
-    "classified_systems",
-    "cloud_infrastructure",
-    "government_contracts"
+    "ai-governance",
+    "national-security",
+    "surveillance-tech",
+    "regulatory-capture",
+    "classified-systems",
+    "cloud-infrastructure",
+    "government-contract"
   ],
   "title": "Anthropic Secures Comprehensive FedRAMP High Certification for Government AI Deployment"
 }

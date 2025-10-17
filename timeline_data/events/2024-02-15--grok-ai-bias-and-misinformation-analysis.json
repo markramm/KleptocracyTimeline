@@ -1,48 +1,48 @@
 {
-    "id": "2024-02-15--grok-ai-bias-and-misinformation-analysis",
-    "date": "2024-02-15",
-    "title": "AI Ethics Study Highlights Systemic Bias and Misinformation Risks in Grok AI",
-    "summary": "Stanford's AI Index 2024 and Northwestern CASMI research reveal critical systemic bias and misinformation risks in AI language models, with a specific focus on Grok AI. The studies highlight significant challenges in developing ethically-aligned artificial intelligence, documenting how advanced AI systems can amplify conspiracy theories, political misinformation, and demonstrate implicit ideological biases. By 2024, the AI Incidents Database reported 233 AI-related incidents—a 56.4% increase from 2023—with many incidents involving large language models spreading unverified or false information.",
-    "importance": 8,
-    "actors": [
-        "Stanford HAI Researchers",
-        "Elon Musk",
-        "xAI Team",
-        "AI Ethics Researchers",
-        "CASMI Northwestern Researchers"
-    ],
-    "sources": [
-        {
-            "outlet": "Stanford HAI",
-            "title": "AI Index Report 2024",
-            "url": "https://hai.stanford.edu/ai-index/2024-ai-index-report"
-        },
-        {
-            "outlet": "Reuters",
-            "title": "AI Models Consistently Show Systemic Bias, New Research Reveals",
-            "url": "https://www.reuters.com/technology/ai-models-systemic-bias-research-2024"
-        },
-        {
-            "outlet": "Global Witness",
-            "title": "Conspiracy and Toxicity: Grok AI Shares Disinformation in Political Queries",
-            "url": "https://globalwitness.org/en/campaigns/digital-threats/conspiracy-and-toxicity-xs-ai-chatbot-grok-shares-disinformation-in-replies-to-political-queries/"
-        },
-        {
-            "outlet": "Northwestern CASMI",
-            "title": "Misinformation at Scale: Elon Musk's Grok and the Battle for Truth",
-            "url": "https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html"
-        }
-    ],
-    "tags": [
-        "AI safety",
-        "Algorithmic bias",
-        "Ethical technology",
-        "Misinformation risks",
-        "Technological capture"
-    ],
-    "capture_lanes": [
-        "Technological Capture",
-        "Information Manipulation"
-    ],
-    "status": "confirmed"
+  "id": "2024-02-15--grok-ai-bias-and-misinformation-analysis",
+  "date": "2024-02-15",
+  "title": "AI Ethics Study Highlights Systemic Bias and Misinformation Risks in Grok AI",
+  "summary": "Stanford's AI Index 2024 and Northwestern CASMI research reveal critical systemic bias and misinformation risks in AI language models, with a specific focus on Grok AI. The studies highlight significant challenges in developing ethically-aligned artificial intelligence, documenting how advanced AI systems can amplify conspiracy theories, political misinformation, and demonstrate implicit ideological biases. By 2024, the AI Incidents Database reported 233 AI-related incidents—a 56.4% increase from 2023—with many incidents involving large language models spreading unverified or false information.",
+  "importance": 8,
+  "actors": [
+    "Stanford HAI Researchers",
+    "Elon Musk",
+    "xAI Team",
+    "AI Ethics Researchers",
+    "CASMI Northwestern Researchers"
+  ],
+  "sources": [
+    {
+      "outlet": "Stanford HAI",
+      "title": "AI Index Report 2024",
+      "url": "https://hai.stanford.edu/ai-index/2024-ai-index-report"
+    },
+    {
+      "outlet": "Reuters",
+      "title": "AI Models Consistently Show Systemic Bias, New Research Reveals",
+      "url": "https://www.reuters.com/technology/ai-models-systemic-bias-research-2024"
+    },
+    {
+      "outlet": "Global Witness",
+      "title": "Conspiracy and Toxicity: Grok AI Shares Disinformation in Political Queries",
+      "url": "https://globalwitness.org/en/campaigns/digital-threats/conspiracy-and-toxicity-xs-ai-chatbot-grok-shares-disinformation-in-replies-to-political-queries/"
+    },
+    {
+      "outlet": "Northwestern CASMI",
+      "title": "Misinformation at Scale: Elon Musk's Grok and the Battle for Truth",
+      "url": "https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html"
+    }
+  ],
+  "tags": [
+    "ai-safety",
+    "algorithmic-bias",
+    "ethical-technology",
+    "misinformation-risks",
+    "technological-capture"
+  ],
+  "capture_lanes": [
+    "Technological Capture",
+    "Information Manipulation"
+  ],
+  "status": "confirmed"
 }

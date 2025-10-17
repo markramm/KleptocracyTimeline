@@ -38,19 +38,19 @@
   ],
   "importance": 10,
   "tags": [
-    "public_corruption",
-    "doj_dismantling", 
-    "systematic_coordination", 
-    "institutional_capture", 
-    "law_enforcement_capture",
-    "prosecutorial_misconduct",
-    "judicial_interference"
+    "public-corruption",
+    "doj-dismantling",
+    "systematic-coordination",
+    "institutional-capture",
+    "law-enforcement-capture",
+    "prosecutorial-misconduct",
+    "judicial-interference"
   ],
   "status": "confirmed",
   "id": "2025-02-14--doj-public-corruption-division-systematic-dismantling",
   "capture_lanes": [
     "Regulatory Capture",
-    "Judicial Capture", 
+    "Judicial Capture",
     "Law Enforcement Capture",
     "Prosecutorial Capture"
   ]

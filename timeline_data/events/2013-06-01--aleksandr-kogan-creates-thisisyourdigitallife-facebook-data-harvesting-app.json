@@ -12,33 +12,35 @@
     "Cambridge Analytica"
   ],
   "tags": [
-    "aleksandr_kogan",
+    "aleksandr-kogan",
     "thisisyourdigitallife",
-    "data_harvesting",
-    "facebook_api",
-    "personality_quiz",
-    "systematic_data_collection"
+    "data-harvesting",
+    "facebook-api",
+    "personality-quiz",
+    "systematic-data-collection"
   ],
   "sources": [
     {
-        "date": "2013-06-01",
-        "outlet": "Wikipedia",
-        "title": "Facebook-Cambridge Analytica Data Scandal",
-        "url": "https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal"
+      "date": "2013-06-01",
+      "outlet": "Wikipedia",
+      "title": "Facebook-Cambridge Analytica Data Scandal",
+      "url": "https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal"
     },
     {
-        "date": "2018-04-10",
-        "outlet": "CNBC",
-        "title": "Cambridge Analytica Timeline",
-        "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html"
+      "date": "2018-04-10",
+      "outlet": "CNBC",
+      "title": "Cambridge Analytica Timeline",
+      "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html"
     },
     {
-        "date": "2019-07-24",
-        "outlet": "CBS News",
-        "title": "Aleksandr Kogan: The Link Between Cambridge Analytica and the Facebook Data Breach",
-        "url": "https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/"
+      "date": "2019-07-24",
+      "outlet": "CBS News",
+      "title": "Aleksandr Kogan: The Link Between Cambridge Analytica and the Facebook Data Breach",
+      "url": "https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/"
     }
   ],
-  "capture_lanes": ["Systematic Corruption"],
+  "capture_lanes": [
+    "Systematic Corruption"
+  ],
   "status": "confirmed"
 }

@@ -13,12 +13,12 @@
     "Federal Home Loan Bank Board"
   ],
   "tags": [
-    "charles_keating",
-    "lincoln_savings",
+    "charles-keating",
+    "lincoln-savings",
     "fraud",
-    "keating_five",
-    "regulatory_capture",
-    "s&l_crisis"
+    "keating-five",
+    "regulatory-capture",
+    "s&l-crisis"
   ],
   "capture_lanes": [
     "Financial Regulatory Capture",
@@ -59,7 +59,11 @@
       "outlet": "University of California Press",
       "date": "1997-01-01",
       "verified": true,
-      "authors": ["Kitty Calavita", "Henry N. Pontell", "Robert H. Tillman"]
+      "authors": [
+        "Kitty Calavita",
+        "Henry N. Pontell",
+        "Robert H. Tillman"
+      ]
     },
     {
       "title": "The Savings and Loan Crisis: A Deep Dive into Financial Regulatory Capture",
