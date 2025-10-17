@@ -34,7 +34,7 @@ def register_blueprints(app: Flask) -> None:
         system,
         git,
         priorities,
-        # timeline,
+        timeline,
         # events,
         # qa,
         # validation_runs
@@ -45,7 +45,7 @@ def register_blueprints(app: Flask) -> None:
     app.register_blueprint(system.bp)
     app.register_blueprint(git.bp)
     app.register_blueprint(priorities.bp)
-    # app.register_blueprint(timeline.bp)
+    app.register_blueprint(timeline.bp)
     # app.register_blueprint(events.bp)
     # app.register_blueprint(qa.bp)
     # app.register_blueprint(validation_runs.bp)
