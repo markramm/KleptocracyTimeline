@@ -162,7 +162,7 @@ class TestTimelineResearchClientSearch(unittest.TestCase):
         self.assertEqual(len(result['events']), 1)
 
     @patch('research_client.requests.Session.request')
-    def test_search_with_filters(self, mock_request):
+    def test_find_connections(self, mock_request):
         """Test search with additional filters"""
         mock_response = Mock()
         mock_response.status_code = 200
@@ -625,6 +625,332 @@ class TestTimelineResearchClientResearchNotes(unittest.TestCase):
         self.assertEqual(len(result), 1)
         call_args = mock_request.call_args
         self.assertEqual(call_args[1]['params']['limit'], 20)
+
+
+class TestTimelineResearchClientAdvancedSearch(unittest.TestCase):
+    """Test advanced search and filter methods"""
+
+    def setUp(self):
+        """Set up test client"""
+        with patch('research_client.get_research_monitor_url', return_value='http://localhost:5558'):
+            self.client = TimelineResearchClient()
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_find_connections_actor_only(self, mock_search):
+        """Test find_connections with actor filter"""
+        mock_search.return_value = [{'id': '1', 'actors': ['Trump']}]
+
+        result = self.client.find_connections(actor='Trump')
+
+        self.assertEqual(len(result), 1)
+        mock_search.assert_called_once_with(actor='Trump')
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_find_connections_tag_only(self, mock_search):
+        """Test find_connections with tag filter"""
+        mock_search.return_value = [{'id': '1', 'tags': ['corruption']}]
+
+        result = self.client.find_connections(tag='corruption')
+
+        self.assertEqual(len(result), 1)
+        mock_search.assert_called_once_with(tag='corruption')
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_find_connections_date_range(self, mock_search):
+        """Test find_connections with date range"""
+        mock_search.return_value = [{'id': '1', 'date': '2025-01-15'}]
+
+        result = self.client.find_connections(date_range=('2025-01-01', '2025-12-31'))
+
+        self.assertEqual(len(result), 1)
+        mock_search.assert_called_once_with(start_date='2025-01-01', end_date='2025-12-31')
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_find_connections_combined(self, mock_search):
+        """Test find_connections with multiple filters"""
+        mock_search.return_value = [{'id': '1'}]
+
+        result = self.client.find_connections(
+            actor='Trump',
+            tag='corruption',
+            date_range=('2020-01-01', '2025-12-31')
+        )
+
+        self.assertEqual(len(result), 1)
+        mock_search.assert_called_once_with(
+            actor='Trump',
+            tag='corruption',
+            start_date='2020-01-01',
+            end_date='2025-12-31'
+        )
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_find_connections_no_filters(self, mock_search):
+        """Test find_connections with no filters"""
+        mock_search.return_value = [{'id': '1'}, {'id': '2'}]
+
+        result = self.client.find_connections()
+
+        self.assertEqual(len(result), 2)
+        mock_search.assert_called_once_with()
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_analyze_actor_with_events(self, mock_search):
+        """Test analyze_actor with events found"""
+        mock_search.return_value = [
+            {
+                'id': '1',
+                'date': '2020-01-15',
+                'actors': ['Trump', 'Musk'],
+                'tags': ['corruption', 'tech'],
+                'importance': 8
+            },
+            {
+                'id': '2',
+                'date': '2021-05-20',
+                'actors': ['Trump', 'Thiel'],
+                'tags': ['corruption', 'finance'],
+                'importance': 9
+            }
+        ]
+
+        result = self.client.analyze_actor('Trump')
+
+        self.assertEqual(result['actor'], 'Trump')
+        self.assertEqual(result['total_events'], 2)
+        self.assertEqual(sorted(result['active_years']), ['2020', '2021'])
+        self.assertIn('corruption', result['common_tags'])
+        self.assertIn('Musk', result['frequent_co_actors'])
+        self.assertIn('Thiel', result['frequent_co_actors'])
+        self.assertNotIn('Trump', result['frequent_co_actors'])  # Target actor removed
+        self.assertEqual(result['avg_importance'], 8.5)
+        self.assertEqual(result['max_importance'], 9)
+        self.assertEqual(result['date_range']['start'], '2020-01-15')
+        self.assertEqual(result['date_range']['end'], '2021-05-20')
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_analyze_actor_no_events(self, mock_search):
+        """Test analyze_actor with no events found"""
+        mock_search.return_value = []
+
+        result = self.client.analyze_actor('Unknown Actor')
+
+        self.assertEqual(result['actor'], 'Unknown Actor')
+        self.assertEqual(result['events'], [])
+        self.assertEqual(result['total'], 0)
+
+    @patch.object(TimelineResearchClient, 'search_events')
+    def test_analyze_actor_missing_fields(self, mock_search):
+        """Test analyze_actor handles events with missing fields gracefully"""
+        mock_search.return_value = [
+            {'id': '1', 'date': '2020-01-15'},  # Missing tags, actors, importance
+            {'id': '2', 'actors': ['Trump']},  # Missing date, tags, importance
+        ]
+
+        result = self.client.analyze_actor('Trump')
+
+        self.assertEqual(result['total_events'], 2)
+        self.assertEqual(result['avg_importance'], 0)  # No importance values
+        self.assertEqual(result['max_importance'], 0)
+
+
+class TestTimelineResearchClientValidationRuns(unittest.TestCase):
+    """Test validation run methods"""
+
+    def setUp(self):
+        """Set up test client"""
+        with patch('research_client.get_research_monitor_url', return_value='http://localhost:5558'):
+            self.client = TimelineResearchClient()
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_list_validation_runs(self, mock_request):
+        """Test list_validation_runs"""
+        mock_request.return_value = {
+            'runs': [{'id': 1, 'run_type': 'source_quality'}]
+        }
+
+        result = self.client.list_validation_runs(status='active', run_type='source_quality', limit=10, offset=0)
+
+        self.assertIn('runs', result)
+        self.assertEqual(len(result['runs']), 1)
+        call_args = mock_request.call_args
+        self.assertEqual(call_args[1]['params']['status'], 'active')
+        # Note: run_type parameter is stored as 'type' in params
+        self.assertEqual(call_args[1]['params']['type'], 'source_quality')
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_create_validation_run(self, mock_request):
+        """Test create_validation_run"""
+        mock_request.return_value = {'run_id': 1, 'status': 'active'}
+
+        result = self.client.create_validation_run(
+            'source_quality',
+            target_count=30,
+            min_importance=8,
+            created_by='test-agent'
+        )
+
+        self.assertEqual(result['run_id'], 1)
+        call_args = mock_request.call_args
+        self.assertEqual(call_args[1]['json']['run_type'], 'source_quality')
+        self.assertEqual(call_args[1]['json']['target_count'], 30)
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_get_validation_run(self, mock_request):
+        """Test get_validation_run"""
+        mock_request.return_value = {
+            'id': 1,
+            'run_type': 'source_quality',
+            'status': 'active'
+        }
+
+        result = self.client.get_validation_run(1)
+
+        self.assertEqual(result['id'], 1)
+        self.assertEqual(result['run_type'], 'source_quality')
+        mock_request.assert_called_once()
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_get_next_validation_event(self, mock_request):
+        """Test get_next_validation_event"""
+        mock_request.return_value = {
+            'run_event_id': 5,
+            'event_id': 'test-123'
+        }
+
+        result = self.client.get_next_validation_event(1, validator_id='agent-1')
+
+        self.assertEqual(result['run_event_id'], 5)
+        self.assertEqual(result['event_id'], 'test-123')
+        call_args = mock_request.call_args
+        # Note: validator_id is passed as params, not json (GET request)
+        self.assertEqual(call_args[1]['params']['validator_id'], 'agent-1')
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_complete_validation_run_event(self, mock_request):
+        """Test complete_validation_run_event"""
+        mock_request.return_value = {'status': 'success'}
+
+        result = self.client.complete_validation_run_event(
+            1, 5, status='validated', notes='Good quality'
+        )
+
+        self.assertEqual(result['status'], 'success')
+        call_args = mock_request.call_args
+        self.assertEqual(call_args[1]['json']['status'], 'validated')
+        self.assertEqual(call_args[1]['json']['notes'], 'Good quality')
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_requeue_needs_work_events(self, mock_request):
+        """Test requeue_needs_work_events"""
+        mock_request.return_value = {'requeued': 3}
+
+        result = self.client.requeue_needs_work_events(1)
+
+        self.assertEqual(result['requeued'], 3)
+        mock_request.assert_called_once()
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_list_validation_logs(self, mock_request):
+        """Test list_validation_logs"""
+        mock_request.return_value = {
+            'logs': [{'id': 1, 'event_id': 'test-123'}]
+        }
+
+        result = self.client.list_validation_logs(
+            event_id='test-123',
+            validation_run_id=1,
+            limit=50,
+            offset=0
+        )
+
+        self.assertIn('logs', result)
+        self.assertEqual(len(result['logs']), 1)
+        call_args = mock_request.call_args
+        self.assertEqual(call_args[1]['params']['event_id'], 'test-123')
+
+
+class TestTimelineResearchClientCommitMessage(unittest.TestCase):
+    """Test QA commit message generation"""
+
+    def setUp(self):
+        """Set up test client"""
+        with patch('research_client.get_research_monitor_url', return_value='http://localhost:5558'):
+            self.client = TimelineResearchClient()
+
+    @patch.object(TimelineResearchClient, 'get_commit_status')
+    def test_generate_qa_commit_message_success(self, mock_status):
+        """Test get_qa_commit_message when commit is needed"""
+        mock_status.return_value = {
+            'commit_needed': True,
+            'suggested_commit_message': {
+                'title': 'Add 10 validated timeline events',
+                'qa_summary': 'QA Summary: 10 events validated',
+                'validation_rate': 'Validation rate: 90%'
+            },
+            'qa_validation': {
+                'recent_validations_24h': 15,
+                'total_events_with_metadata': 100
+            }
+        }
+
+        result = self.client.get_qa_commit_message()
+
+        self.assertIn('title', result)
+        self.assertIn('body', result)
+        self.assertIn('qa_metadata', result)
+        self.assertEqual(result['title'], 'Add 10 validated timeline events')
+        self.assertIn('15 validations in last 24h', result['body'])
+
+    @patch.object(TimelineResearchClient, 'get_commit_status')
+    def test_generate_qa_commit_message_not_needed(self, mock_status):
+        """Test get_qa_commit_message when no commit needed"""
+        mock_status.return_value = {'commit_needed': False}
+
+        result = self.client.get_qa_commit_message()
+
+        self.assertIn('error', result)
+        self.assertIn('No commit needed', result['error'])
+
+    @patch.object(TimelineResearchClient, 'get_commit_status')
+    def test_generate_qa_commit_message_missing_metadata(self, mock_status):
+        """Test get_qa_commit_message with missing QA metadata"""
+        mock_status.return_value = {
+            'commit_needed': True
+            # Missing suggested_commit_message
+        }
+
+        result = self.client.get_qa_commit_message()
+
+        self.assertIn('error', result)
+
+
+class TestTimelineResearchClientConnectionMethods(unittest.TestCase):
+    """Test research connection tracking methods"""
+
+    def setUp(self):
+        """Set up test client"""
+        with patch('research_client.get_research_monitor_url', return_value='http://localhost:5558'):
+            self.client = TimelineResearchClient()
+
+    @patch.object(TimelineResearchClient, '_request')
+    def test_add_event_connection(self, mock_request):
+        """Test add_connection"""
+        mock_request.return_value = {'status': 'success'}
+
+        result = self.client.add_connection(
+            'event-1',
+            'event-2',
+            connection_type='causal',
+            strength=8,
+            notes='Direct causation'
+        )
+
+        self.assertEqual(result['status'], 'success')
+        call_args = mock_request.call_args
+        self.assertEqual(call_args[1]['json']['event_id_1'], 'event-1')
+        self.assertEqual(call_args[1]['json']['event_id_2'], 'event-2')
+        self.assertEqual(call_args[1]['json']['connection_type'], 'causal')
 
 
 if __name__ == '__main__':
