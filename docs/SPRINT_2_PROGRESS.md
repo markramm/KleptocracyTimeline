@@ -103,13 +103,31 @@ After updating each file:
    curl http://localhost:5558/api/server/health
    ```
 
-## Task 2: Centralize Configuration (4 hours) - PENDING
+## Task 2: Centralize Configuration (4 hours) - ✅ COMPLETED
 
-Create `research_monitor/config.py` with Config class:
-- Environment variable loading
-- Validation
-- Defaults
-- Type conversion
+### Completed
+- ✅ Created enhanced `research_monitor/config.py` with Config class
+  - Environment variable loading with defaults
+  - Type conversion (int, Path, string)
+  - Configuration validation (port range, thresholds, cache settings)
+  - `to_flask_config()` method for Flask integration
+  - Singleton pattern with `get_config()`
+  - Safe `__repr__` and human-readable `summary()` methods
+  - Backward compatibility with legacy functions
+
+- ✅ Updated `research_monitor/app_v2.py` to use centralized config
+  - Replaced scattered `os.environ.get()` calls with Config class
+  - Removed duplicate configuration variables (API_KEY, DB_PATH, EVENTS_PATH, etc.)
+  - Updated all references to use `config` or `app.config`
+  - Simplified Flask app initialization
+
+### Impact
+- **Code Reduction**: Eliminated ~15 lines of duplicate environment variable loading
+- **Single Source of Truth**: All configuration in one Config class
+- **Better Validation**: Port range, threshold, and cache validation
+- **Type Safety**: Proper type conversion with error handling
+- **Maintainability**: Easy to add new config options
+- **Testing**: Singleton pattern allows config reset for tests
 
 ## Task 3: Replace Print Statements (2 hours) - PENDING
 
@@ -140,36 +158,35 @@ Implement automated source validation:
 | Task | Est. | Actual | Status |
 |------|------|--------|--------|
 | 1. Blueprint helpers | 2h | 2h | ✅ Completed |
-| 2. Configuration | 4h | - | Pending |
+| 2. Configuration | 4h | 3h | ✅ Completed |
 | 3. Print statements | 2h | - | Pending |
 | 4. API tests | 8h | - | Pending |
 | 5. Broken links | 4h | - | Pending |
-| **Total** | **20h** | **2h** | **10% complete** |
+| **Total** | **20h** | **5h** | **25% complete** |
 
 ## Next Session Start Here
 
-Task 1 is complete! Ready for Task 2: Centralize Configuration (4 hours)
+Tasks 1 & 2 complete! Ready for Task 3: Replace Print Statements (2 hours)
 
 ```bash
 # 1. Check current status
 curl http://localhost:5558/api/server/health
 
-# 2. Create research_monitor/config.py with Config class
-# - Load environment variables
-# - Set defaults (PORT, DB path, API keys, paths)
-# - Validate configuration
-# - Type conversion and validation
+# 2. Find all print statements in research_monitor/
+grep -r "print(" research_monitor/ --include="*.py" | wc -l
 
-# 3. Update app_v2.py to use Config class
-# - Replace scattered config.get() calls
-# - Centralize all configuration in one place
+# 3. Replace print statements with proper logging
+# - Use logger.info() for informational messages
+# - Use logger.warning() for warnings
+# - Use logger.error() for errors
+# - Add structured logging where beneficial
 
-# 4. Test configuration loading
-python3 -c "from research_monitor.config import Config; config = Config(); print(config)"
-
-# 5. Verify server starts with centralized config
+# 4. Test server starts without print() calls
 python3 research_cli.py server-restart
 curl http://localhost:5558/api/server/health
+
+# 5. Verify log output is cleaner and more structured
+tail -f /tmp/research_monitor.log
 ```
 
 ## Related Documentation

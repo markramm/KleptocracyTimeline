@@ -41,16 +41,17 @@ from event_validator import EventValidator as TimelineEventValidator
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-app = Flask(__name__, 
+app = Flask(__name__,
             static_folder='static',
             static_url_path='/static',
             template_folder='templates')
-app.config['SECRET_KEY'] = os.environ.get('RESEARCH_MONITOR_SECRET', 'research-monitor-key')
 
-# Configure Flask-Caching
-app.config['CACHE_TYPE'] = 'simple'  # In-memory cache
-app.config['CACHE_DEFAULT_TIMEOUT'] = 300  # 5 minutes default
-app.config['CACHE_THRESHOLD'] = 1000  # Maximum cached items
+# Load centralized configuration
+from research_monitor.config import get_config
+config = get_config()
+
+# Apply configuration to Flask app
+app.config.update(config.to_flask_config())
 
 cache = Cache(app)
 CORS(app)
@@ -96,25 +97,11 @@ def handle_internal_error(error):
         }), 500
     return error
 
-# Configuration
-API_KEY = os.environ.get('RESEARCH_MONITOR_API_KEY', None)
-DB_PATH = os.environ.get('RESEARCH_DB_PATH', '../unified_research.db')
-EVENTS_PATH = Path(os.environ.get('TIMELINE_EVENTS_PATH', '../timeline_data/events'))
-PRIORITIES_PATH = Path(os.environ.get('RESEARCH_PRIORITIES_PATH', '../research_priorities'))
-VALIDATION_LOGS_PATH = Path(os.environ.get('VALIDATION_LOGS_PATH', '../timeline_data/validation_logs'))
-COMMIT_THRESHOLD = int(os.environ.get('COMMIT_THRESHOLD', '10'))
+# Store cache in app.config for blueprint access
+app.config['CACHE'] = cache
 
-# Store configuration in app.config for blueprint access
-app.config['API_KEY'] = API_KEY
-app.config['DB_PATH'] = DB_PATH
-app.config['EVENTS_PATH'] = EVENTS_PATH
-app.config['PRIORITIES_PATH'] = PRIORITIES_PATH
-app.config['VALIDATION_LOGS_PATH'] = VALIDATION_LOGS_PATH
-app.config['COMMIT_THRESHOLD'] = COMMIT_THRESHOLD
-app.config['CACHE'] = cache  # Make cache available to blueprints
-
-# Database setup
-engine = init_database(DB_PATH)
+# Database setup using centralized config
+engine = init_database(config.db_path)
 Session = scoped_session(sessionmaker(bind=engine))
 
 # Current session tracking
@@ -126,9 +113,10 @@ def require_api_key(f):
     """Decorator to require API key for write operations"""
     @wraps(f)
     def decorated_function(*args, **kwargs):
-        if API_KEY:
+        api_key = app.config.get('API_KEY')
+        if api_key:
             provided_key = request.headers.get('X-API-Key')
-            if provided_key != API_KEY:
+            if provided_key != api_key:
                 abort(401, description="Invalid or missing API key")
         return f(*args, **kwargs)
     return decorated_function
@@ -245,7 +233,8 @@ class FilesystemSyncer:
         db = Session()
         try:
             synced = 0
-            for json_file in EVENTS_PATH.glob('*.json'):
+            events_path = app.config.get('EVENTS_PATH')
+            for json_file in events_path.glob('*.json'):
                 try:
                     # Calculate file hash
                     with open(json_file, 'rb') as f:
@@ -308,7 +297,8 @@ class FilesystemSyncer:
         db = Session()
         try:
             seeded = 0
-            for json_file in PRIORITIES_PATH.glob('*.json'):
+            priorities_path = app.config.get('PRIORITIES_PATH')
+            for json_file in priorities_path.glob('*.json'):
                 try:
                     priority_id = json_file.stem
                     
@@ -354,12 +344,13 @@ def write_validation_log_to_filesystem(validation_log_data: dict):
     """Write validation log to filesystem for persistence"""
     try:
         # Ensure validation logs directory exists
-        VALIDATION_LOGS_PATH.mkdir(parents=True, exist_ok=True)
-        
+        validation_logs_path = app.config.get('VALIDATION_LOGS_PATH')
+        validation_logs_path.mkdir(parents=True, exist_ok=True)
+
         # Create filename with timestamp and ID
         timestamp = validation_log_data['validation_date'].replace(':', '-').replace('.', '-')
         filename = f"validation-log-{validation_log_data['id']}-{timestamp}.json"
-        file_path = VALIDATION_LOGS_PATH / filename
+        file_path = validation_logs_path / filename
         
         # Write to filesystem
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -375,8 +366,9 @@ def sync_validation_logs_from_filesystem():
     db = Session()
     try:
         synced = 0
-        if VALIDATION_LOGS_PATH.exists():
-            for json_file in VALIDATION_LOGS_PATH.glob('validation-log-*.json'):
+        validation_logs_path = app.config.get('VALIDATION_LOGS_PATH')
+        if validation_logs_path.exists():
+            for json_file in validation_logs_path.glob('validation-log-*.json'):
                 try:
                     with open(json_file, 'r', encoding='utf-8') as f:
                         data = json.load(f)
@@ -4685,22 +4677,20 @@ def manifest():
 # ==================== STARTUP ====================
 
 if __name__ == '__main__':
-    PORT = int(os.environ.get('RESEARCH_MONITOR_PORT', 5555))
-    
     # Sync validation logs from filesystem on startup
     sync_validation_logs_from_filesystem()
-    
+
     # Start filesystem syncer
     syncer.start()
-    
-    logger.info(f"Research Monitor v2 starting on port {PORT}")
-    logger.info(f"Database: {DB_PATH}")
-    logger.info(f"Events path: {EVENTS_PATH}")
-    logger.info(f"Priorities path: {PRIORITIES_PATH}")
-    logger.info(f"Validation logs path: {VALIDATION_LOGS_PATH}")
-    logger.info(f"Commit threshold: {COMMIT_THRESHOLD} events")
+
+    logger.info(f"Research Monitor v2 starting on port {config.port}")
+    logger.info(f"Database: {config.db_path}")
+    logger.info(f"Events path: {config.events_path}")
+    logger.info(f"Priorities path: {config.priorities_path}")
+    logger.info(f"Validation logs path: {config.validation_logs_path}")
+    logger.info(f"Commit threshold: {config.commit_threshold} events")
     
     try:
-        app.run(host='127.0.0.1', port=PORT, debug=False)
+        app.run(host='127.0.0.1', port=config.port, debug=False)
     finally:
         syncer.stop()
