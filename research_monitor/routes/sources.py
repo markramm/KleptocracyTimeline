@@ -1,5 +1,5 @@
 """
-Source Validation Routes - API endpoints for validating source URLs
+Source Validation Routes - API endpoints for validating source URLs and quality
 """
 
 from flask import Blueprint, request, jsonify
@@ -7,13 +7,15 @@ import logging
 
 from research_monitor.blueprint_utils import get_db, success_response, error_response
 from research_monitor.services.link_validator import LinkValidator
+from research_monitor.services.source_quality import SourceQualityClassifier
 
 logger = logging.getLogger(__name__)
 
 bp = Blueprint('sources', __name__, url_prefix='/api/sources')
 
-# Initialize link validator
+# Initialize validators
 validator = LinkValidator(timeout=10, max_redirects=5)
+quality_classifier = SourceQualityClassifier()
 
 
 @bp.route('/validate', methods=['GET'])
@@ -267,3 +269,220 @@ def get_validation_stats():
         return error_response(f"Failed to get validation stats: {str(e)}", 500)
     finally:
         db.close()
+
+
+# === Source Quality Endpoints ===
+
+@bp.route('/quality/stats', methods=['GET'])
+def get_quality_stats():
+    """
+    Get overall source quality statistics
+
+    Query params:
+    - min_importance: int - Only analyze events with importance >= this (default: 0)
+    """
+    from research_monitor.models import TimelineEvent
+
+    db = get_db()
+    try:
+        min_importance = int(request.args.get('min_importance', 0))
+
+        query = db.query(TimelineEvent)
+        if min_importance > 0:
+            query = query.filter(TimelineEvent.importance >= min_importance)
+
+        events = query.all()
+        event_dicts = [event.json_content for event in events if event.json_content]
+
+        # Analyze all events
+        quality_levels = {'excellent': 0, 'good': 0, 'fair': 0, 'poor': 0}
+        tier_counts = {1: 0, 2: 0, 3: 0}
+        total_quality_score = 0
+        events_with_issues = 0
+
+        for event_dict in event_dicts:
+            classification = quality_classifier.classify_event_sources(event_dict)
+            quality_levels[classification['quality_level']] += 1
+            tier_counts[1] += classification['tier_1_count']
+            tier_counts[2] += classification['tier_2_count']
+            tier_counts[3] += classification['tier_3_count']
+            total_quality_score += classification['quality_score']
+            if classification['issues']:
+                events_with_issues += 1
+
+        total_events = len(event_dicts)
+        total_sources = sum(tier_counts.values())
+        avg_quality_score = total_quality_score / total_events if total_events > 0 else 0
+
+        stats = {
+            'total_events': total_events,
+            'total_sources': total_sources,
+            'average_quality_score': round(avg_quality_score, 2),
+            'quality_distribution': {
+                level: {
+                    'count': count,
+                    'percent': round(count / total_events * 100, 1) if total_events > 0 else 0
+                }
+                for level, count in quality_levels.items()
+            },
+            'tier_distribution': {
+                f'tier_{tier}': {
+                    'count': count,
+                    'percent': round(count / total_sources * 100, 1) if total_sources > 0 else 0
+                }
+                for tier, count in tier_counts.items()
+            },
+            'events_with_issues': events_with_issues,
+            'events_with_issues_percent': round(
+                events_with_issues / total_events * 100, 1
+            ) if total_events > 0 else 0,
+            'classifier_stats': quality_classifier.get_statistics()
+        }
+
+        return success_response({'stats': stats})
+
+    except ValueError as e:
+        return error_response(f"Invalid parameter: {str(e)}", 400)
+    except Exception as e:
+        logger.error(f"Error getting quality stats: {e}", exc_info=True)
+        return error_response(f"Failed to get quality stats: {str(e)}", 500)
+    finally:
+        db.close()
+
+
+@bp.route('/quality/low', methods=['GET'])
+def get_low_quality_events():
+    """
+    Get events with low source quality
+
+    Query params:
+    - max_score: float - Maximum quality score (default: 5.0)
+    - min_importance: int - Minimum importance (default: 0)
+    - limit: int - Max events to return (default: 50)
+    """
+    from research_monitor.models import TimelineEvent
+
+    db = get_db()
+    try:
+        max_score = float(request.args.get('max_score', 5.0))
+        min_importance = int(request.args.get('min_importance', 0))
+        limit = min(int(request.args.get('limit', 50)), 500)
+
+        query = db.query(TimelineEvent)
+        if min_importance > 0:
+            query = query.filter(TimelineEvent.importance >= min_importance)
+
+        events = query.order_by(TimelineEvent.importance.desc()).all()
+
+        low_quality_events = []
+        for event in events:
+            if not event.json_content:
+                continue
+
+            classification = quality_classifier.classify_event_sources(event.json_content)
+
+            if classification['quality_score'] <= max_score:
+                event_data = event.json_content.copy()
+                event_data['quality_analysis'] = {
+                    'quality_score': classification['quality_score'],
+                    'quality_level': classification['quality_level'],
+                    'tier_1_count': classification['tier_1_count'],
+                    'tier_2_count': classification['tier_2_count'],
+                    'tier_3_count': classification['tier_3_count'],
+                    'issues': classification['issues']
+                }
+                low_quality_events.append(event_data)
+
+                if len(low_quality_events) >= limit:
+                    break
+
+        return success_response({
+            'events': low_quality_events,
+            'count': len(low_quality_events),
+            'parameters': {
+                'max_score': max_score,
+                'min_importance': min_importance,
+                'limit': limit
+            }
+        })
+
+    except ValueError as e:
+        return error_response(f"Invalid parameter: {str(e)}", 400)
+    except Exception as e:
+        logger.error(f"Error getting low quality events: {e}", exc_info=True)
+        return error_response(f"Failed to get low quality events: {str(e)}", 500)
+    finally:
+        db.close()
+
+
+@bp.route('/quality/event/<event_id>', methods=['GET'])
+def analyze_event_quality(event_id: str):
+    """
+    Analyze source quality for a specific event
+    """
+    from research_monitor.models import TimelineEvent
+
+    db = get_db()
+    try:
+        event = db.query(TimelineEvent).filter_by(id=event_id).first()
+
+        if not event:
+            return error_response(f"Event not found: {event_id}", 404)
+
+        if not event.json_content:
+            return error_response("Event has no content", 404)
+
+        classification = quality_classifier.classify_event_sources(event.json_content)
+
+        # Get recommendations
+        suggestions = []
+        if classification['tier_1_count'] == 0:
+            suggestions.append("Add at least one tier-1 source (major news, government, academic)")
+        if classification['tier_3_count'] > classification['tier_1_count'] + classification['tier_2_count']:
+            suggestions.append("Reduce tier-3 sources, add more tier-1 or tier-2 sources")
+        if classification['total_sources'] < 2:
+            suggestions.append("Add more sources - minimum 2 recommended")
+        if classification['total_sources'] < 3:
+            suggestions.append("Add one more source for better credibility (3+ recommended)")
+
+        return success_response({
+            'event_id': event_id,
+            'quality_analysis': classification,
+            'suggestions': suggestions
+        })
+
+    except Exception as e:
+        logger.error(f"Error analyzing event quality: {e}", exc_info=True)
+        return error_response(f"Failed to analyze event quality: {str(e)}", 500)
+    finally:
+        db.close()
+
+
+@bp.route('/quality/tier/<int:tier>', methods=['GET'])
+def get_tier_outlets(tier: int):
+    """
+    Get list of outlets in a specific quality tier
+
+    Path params:
+    - tier: Quality tier (1, 2, or 3)
+    """
+    try:
+        if tier not in [1, 2, 3]:
+            return error_response("Tier must be 1, 2, or 3", 400)
+
+        if tier == 1:
+            outlets = list(quality_classifier.TIER_1_OUTLETS)
+        elif tier == 2:
+            outlets = list(quality_classifier.TIER_2_OUTLETS)
+        else:
+            outlets = list(quality_classifier.TIER_3_OUTLETS)
+
+        return success_response({
+            'tier': tier,
+            'outlet_count': len(outlets),
+            'outlets': sorted(outlets)
+        })
+
+    except Exception as e:
+        logger.error(f"Error getting tier outlets: {e}", exc_info=True)
+        return error_response(f"Failed to get tier outlets: {str(e)}", 500)
