@@ -76,8 +76,13 @@ class MarkdownEventParser(EventParser):
         except Exception as e:
             raise ValueError(f"Error parsing markdown file {file_path}: {e}")
 
-        # Validate required fields
-        required_fields = ['id', 'date', 'title']
+        # Generate ID from filename if not present (Hugo-compatible)
+        if 'id' not in data:
+            # Use filename without extension as ID
+            data['id'] = file_path.stem
+
+        # Validate required fields (id can now be auto-generated)
+        required_fields = ['date', 'title']
         missing_fields = [field for field in required_fields if field not in data]
         if missing_fields:
             raise ValueError(
