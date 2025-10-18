@@ -18,7 +18,7 @@ actors:
   - Aymara Communities
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 The Andean Ayllu system represented a sophisticated pre-colonial Indigenous governance model that prioritized collective decision-making, resource sharing, and ecological sustainability. Operating across Quechua and Aymara communities, the ayllu was a complex social hierarchy defined by kinship, reciprocity, and communal land management. This governance system demonstrated remarkable resilience, preserving core principles of mutual aid and consensual leadership for over 5000 years, challenging Western individualistic paradigms of social organization.
@@ -31,5 +31,5 @@ The Andean Ayllu system represented a sophisticated pre-colonial Indigenous gove
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 8/10

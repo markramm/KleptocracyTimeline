@@ -200,8 +200,10 @@ class StaticAPIGenerator:
         # Actor counts
         actor_counter = Counter()
         for event in self.events:
-            if 'actors' in event:
-                actor_counter.update(event['actors'])
+            if 'actors' in event and isinstance(event['actors'], list):
+                for actor in event['actors']:
+                    if isinstance(actor, str):
+                        actor_counter[actor] += 1
 
         stats = {
             'total_events': len(self.events),

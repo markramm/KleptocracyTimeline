@@ -1,0 +1,41 @@
+---
+title: "Bartlett and Fleischer Establish Rapid Response Media Coordination Infrastructure"
+date: 2002-08-30
+importance: 8
+draft: false
+
+tags:
+  - dan-bartlett
+  - ari-fleischer
+  - rapid-response
+  - media-coordination
+  - whig
+  - network-reporters
+  - talking-points
+  - institutional-coordination
+
+actors:
+  - Dan Bartlett
+  - Ari Fleischer
+  - White House Iraq Group
+  - television network reporters
+  - network correspondents
+  - network booking departments
+  - White House press corps
+
+verification_status: "pending"
+last_updated: 2025-10-18T00:46:42Z
+---
+
+White House Communications Director Dan Bartlett and Press Secretary Ari Fleischer establish systematic rapid response coordination with television network reporters and executives to ensure synchronized administration messaging during the Iraq campaign rollout. Building on Bartlett's 2000 campaign experience in rapid response operations, the duo creates infrastructure for real-time coordination with network correspondents, including advance briefings for key reporters and systematic follow-up with network executives. The coordination system includes pre-arranged contacts with reporters covering the administration, strategic leak management, and systematic coordination with network booking departments to ensure administration officials receive favorable scheduling and treatment. Fleischer coordinates daily press briefings with advance talking points distribution, while Bartlett manages longer-term strategic communication with network executives and senior correspondents. The infrastructure enables the administration to push specific narratives to targeted reporters while coordinating broader messaging campaigns across multiple networks simultaneously. This systematic approach transforms episodic media relations into permanent coordination infrastructure, establishing institutional relationships that extend beyond individual stories to encompass systematic message coordination. The Bartlett-Fleischer operation represents the systematization of government-media coordination that enables sustained propaganda campaigns through institutional cooperation rather than coercion.
+
+## Sources
+
+1. [Dan Bartlett](https://en.wikipedia.org/wiki/Dan_Bartlett)
+2. [Ari Fleischer](https://en.wikipedia.org/wiki/Ari_Fleischer)
+3. [Ari Fleischer Oral History](https://millercenter.org/the-presidency/presidential-oral-histories/ari-fleischer-oral-history)
+
+---
+
+**Last Updated**: October 18, 2025
+**Importance Score**: 8/10

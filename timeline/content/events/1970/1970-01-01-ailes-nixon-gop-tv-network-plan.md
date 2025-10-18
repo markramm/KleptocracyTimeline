@@ -20,7 +20,7 @@ actors:
 
 location: "Washington D.C."
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 Political consultant Roger Ailes and Nixon aides develop plan to create TV network providing "pro-administration" coverage, with Nixon saying they need "our own news" for "brutal attack on opposition". The plan involved creating Television News Incorporated (TVN), financed by Joseph Coors, to inject conservative narratives into local news broadcasts.
@@ -34,5 +34,5 @@ Political consultant Roger Ailes and Nixon aides develop plan to create TV netwo
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 8/10

@@ -23,7 +23,7 @@ actors:
 
 location: "Moscow, USSR"
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 British media mogul and Labour MP Robert Maxwell secretly travels to Moscow to meet KGB head Yuri Andropov in 1968. This meeting occurs during Soviet planning for the invasion of Czechoslovakia, with Andropov as the main advocate for 'extreme measures' against Prague Spring reforms. Maxwell, a Czechoslovakian native, subsequently defends the August 1968 Soviet invasion in Parliament, being 'notably conciliatory' about the brutal suppression of democratic reforms. KGB defector Oleg Gordievsky suggests Maxwell was being manipulated as a Soviet 'publicity agent', indicating a complex relationship with Soviet intelligence that blurred the lines between media influence and potential espionage.
@@ -36,5 +36,5 @@ British media mogul and Labour MP Robert Maxwell secretly travels to Moscow to m
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 8/10

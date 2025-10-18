@@ -21,7 +21,7 @@ actors:
   - Genovese Crime Family
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 In early 1953, Roy Cohn begins developing a systematic blackmail infrastructure during the McCarthy Senate hearings, leveraging anti-communist hysteria and homophobic tactics to gather compromising information on political and cultural figures. As 24-year-old chief counsel to Senator Joseph McCarthy, Cohn creates an early model of political manipulation through personal compromise, targeting LGBTQ individuals, suspected communists, and potential political threats. His network will eventually include connections to organized crime, intelligence agencies, and political elites across multiple decades, demonstrating a sophisticated approach to institutional penetration and control.
@@ -35,5 +35,5 @@ In early 1953, Roy Cohn begins developing a systematic blackmail infrastructure 
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 8/10

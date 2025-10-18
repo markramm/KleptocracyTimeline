@@ -17,7 +17,7 @@ actors:
   - Tuscarora Nation
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 The Haudenosaunee Confederacy established a sophisticated democratic system predating the US Constitution, featuring consensus-based decision-making, checks on leadership power, and equal representation across member nations. Scholarly research by Donald A. Grinde and James Johansen suggests this system significantly influenced early American democratic principles, though academic debate continues about the precise extent of its impact on the U.S. Constitution.
@@ -31,5 +31,5 @@ The Haudenosaunee Confederacy established a sophisticated democratic system pred
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 9/10

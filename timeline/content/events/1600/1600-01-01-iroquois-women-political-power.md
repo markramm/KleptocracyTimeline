@@ -17,7 +17,7 @@ actors:
   - Haudenosaunee Nations
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 The Iroquois Confederacy demonstrated an advanced governance model with women, specifically Clan Mothers, holding critical political power. They possessed the authority to nominate, elect, and impeach male leaders, manage land redistribution, and define tribal social and political norms. This system represented a sophisticated democratic framework that challenged European patriarchal governance structures of the time.
@@ -31,5 +31,5 @@ The Iroquois Confederacy demonstrated an advanced governance model with women, s
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 9/10

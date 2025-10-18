@@ -19,7 +19,7 @@ actors:
   - Founding Fathers
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 The Haudenosaunee (Iroquois) Confederacy demonstrated sophisticated democratic practices that significantly influenced American constitutional design, including consensus-based decision-making, gender-balanced leadership, and a complex system of checks and balances. Benjamin Franklin extensively studied their governmental system, particularly during the Albany Congress, where he recognized the strength of their confederacy model. The U.S. Senate officially acknowledged the Confederacy's influence in a 1987 resolution, highlighting their innovative governance principles.
@@ -32,5 +32,5 @@ The Haudenosaunee (Iroquois) Confederacy demonstrated sophisticated democratic p
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 9/10

@@ -22,7 +22,7 @@ actors:
   - Robert J. Miller
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 The Haudenosaunee (Iroquois) Confederacy established a sophisticated democratic system centuries before the United States Constitution, featuring consensus-based governance, sophisticated separation of powers, personal rights protections, and significant roles for women in political leadership. Benjamin Franklin and other Founding Fathers explicitly studied and acknowledged the Confederacy's political innovations, which directly influenced constitutional design principles.
@@ -40,5 +40,5 @@ Scholarly research highlights specific democratic features predating European mo
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 9/10

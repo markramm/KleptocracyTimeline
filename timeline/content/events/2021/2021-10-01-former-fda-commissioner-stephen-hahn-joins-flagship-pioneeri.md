@@ -1,0 +1,39 @@
+---
+title: "Former FDA Commissioner Stephen Hahn Joins Moderna Backer Flagship Pioneering"
+date: 2021-10-01
+importance: 8
+draft: false
+
+tags:
+  - regulatory-capture
+  - pharmaceutical-industry
+  - revolving-door
+  - covid-19
+  - fda
+
+actors:
+  - Stephen Hahn
+  - Flagship Pioneering
+  - Moderna
+  - Food and Drug Administration
+  - Noubar Afeyan
+  - Stéphane Bancel
+
+location: "Cambridge, MA, United States"
+verification_status: "pending"
+last_updated: 2025-10-18T00:46:42Z
+---
+
+Former FDA Commissioner Stephen Hahn, who led the agency during the Emergency Use Authorization of Moderna's COVID-19 vaccines, took an executive-level position as Chief Medical Officer with Flagship Pioneering, the venture capital firm that launched Moderna. This transition occurred six months after Hahn oversaw critical regulatory decisions regarding COVID-19 vaccine approvals. Flagship Pioneering has deep ties to Moderna, with CEO Noubar Afeyan serving as Moderna's chairman and maintaining significant financial interests. The move exemplifies the persistent 'revolving door' between federal regulatory agencies and the pharmaceutical industry, raising systemic concerns about potential conflicts of interest and the independence of drug approval processes.
+
+## Sources
+
+1. [He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer](https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding)
+2. [Dr. Stephen Hahn Joins Flagship Pioneering as Chief Medical Officer](https://www.flagshippioneering.com/news/press-release/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative)
+3. [Former FDA Head Takes on Exec Role at Flagship's Preemptive Health Initiative](https://www.biospace.com/former-fda-head-stephen-hahn-takes-cmo-role-at-flagship-pioneering-preemptive-health-initiative)
+4. [Dr. Stephen Hahn, 24th US FDA Commissioner, Joins Flagship Pioneering as Chief Medical Officer](https://www.prnewswire.com/news-releases/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative-301312012.html)
+
+---
+
+**Last Updated**: October 18, 2025
+**Importance Score**: 8/10

@@ -17,7 +17,7 @@ actors:
   - Sidney Gottlieb
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 Under CIA Director Allen Dulles, Project MKULTRA is officially launched as a comprehensive, covert research program exploring behavioral modification and mind control techniques. The program involves 149 subprojects conducted through universities and research institutions, focusing on chemical and psychological manipulation methods.
@@ -30,5 +30,5 @@ Under CIA Director Allen Dulles, Project MKULTRA is officially launched as a com
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 9/10

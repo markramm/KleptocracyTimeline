@@ -17,7 +17,7 @@ actors:
   - Puebloan Societies
 
 verification_status: "pending"
-last_updated: 2025-10-17T21:58:27Z
+last_updated: 2025-10-18T00:46:42Z
 ---
 
 Indigenous societies across the Americas developed complex democratic systems predating European colonization, featuring sophisticated conflict resolution mechanisms, representation models, and collective decision-making processes that challenge modern Western democratic assumptions.
@@ -31,5 +31,5 @@ Indigenous societies across the Americas developed complex democratic systems pr
 
 ---
 
-**Last Updated**: October 17, 2025
+**Last Updated**: October 18, 2025
 **Importance Score**: 8/10
