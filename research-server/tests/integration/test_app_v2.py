@@ -21,9 +21,9 @@ os.environ['RESEARCH_DB_PATH'] = ':memory:'  # Use in-memory database for tests
 os.environ['COMMIT_THRESHOLD'] = '3'
 
 import sys
-sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / 'server'))
 
-from app_v2 import app, Session, FilesystemSyncer, trigger_commit
+from app_v2 import app, Session, FilesystemSyncer
 from models import (
     Base, TimelineEvent, EventMetadata, ResearchPriority,
     EventResearchLink, ActivityLog, ResearchSession, init_database
@@ -945,12 +945,11 @@ class TestAPIClientIntegration(TestResearchMonitorBase):
         # Import and create API client
         import sys
         sys.path.insert(0, str(Path(__file__).parent))
-        from research_client import ResearchAPIClient
-        
+        from research_client import ResearchMonitorClient
+
         # Create client pointing to test server
-        self.api_client = ResearchAPIClient(
-            base_url='http://localhost', 
-            api_key='test-key'
+        self.api_client = ResearchMonitorClient(
+            base_url='http://localhost:5558'
         )
         
         # Override session to use test client

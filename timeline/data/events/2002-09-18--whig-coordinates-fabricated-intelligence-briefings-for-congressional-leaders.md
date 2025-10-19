@@ -47,7 +47,7 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 - Executive Power Manipulation
-status: extensively-documented
+status: confirmed
 category: institutional-manipulation
 intelligence_assessment_details:
   key_problematic_claims:
@@ -61,7 +61,7 @@ intelligence_assessment_details:
     - Inadequate communication of intelligence uncertainties
     - Selective presentation of intelligence
     - Lack of comprehensive analytical rigor
-verification_status: extensively-documented
+verification_status: confirmed
 ---
 
 The White House Iraq Group (WHIG), established in August 2002, coordinated a comprehensive campaign to present intelligence about Iraq to congressional leaders. A Senate Intelligence Committee investigation found that intelligence claims about Iraq's weapons capabilities and potential threats were systematically overstated, lacking substantive supporting evidence. While no direct evidence of intentional fabrication was found, the intelligence community failed to adequately communicate the significant uncertainties underlying their assessments.

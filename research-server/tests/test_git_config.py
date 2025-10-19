@@ -6,8 +6,11 @@ Tests for git configuration module.
 import os
 import unittest
 from pathlib import Path
+import sys
 
-from research_monitor.core.config import Config, GitConfig
+sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
+
+from core.config import Config, GitConfig
 
 
 class TestConfig(unittest.TestCase):
@@ -65,7 +68,7 @@ class TestGitConfig(unittest.TestCase):
         os.environ['TIMELINE_REPO_URL'] = 'https://github.com/user/my-timeline'
         # Need to reload GitConfig to pick up new env var
         from importlib import reload
-        from research_monitor.core import config
+        from core import config
         reload(config)
 
         repo_name = config.GitConfig.get_repo_name()
@@ -75,7 +78,7 @@ class TestGitConfig(unittest.TestCase):
         """Test validation fails without repo URL"""
         os.environ.pop('TIMELINE_REPO_URL', None)
         from importlib import reload
-        from research_monitor.core import config
+        from core import config
         reload(config)
 
         self.assertFalse(config.GitConfig.validate())
@@ -103,7 +106,7 @@ class TestMultiTenantConfiguration(unittest.TestCase):
         os.environ['TIMELINE_BRANCH'] = 'develop'
 
         from importlib import reload
-        from research_monitor.core import config
+        from core import config
         reload(config)
 
         self.assertEqual(config.GitConfig.TIMELINE_REPO_URL,
@@ -115,7 +118,7 @@ class TestMultiTenantConfiguration(unittest.TestCase):
         os.environ['TIMELINE_WORKSPACE'] = '/custom/workspace'
 
         from importlib import reload
-        from research_monitor.core import config
+        from core import config
         reload(config)
 
         self.assertEqual(config.GitConfig.TIMELINE_WORKSPACE, Path('/custom/workspace'))

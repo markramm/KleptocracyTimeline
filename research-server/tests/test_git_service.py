@@ -8,9 +8,12 @@ from unittest.mock import Mock, patch, MagicMock
 from pathlib import Path
 import tempfile
 import shutil
+import sys
 
-from research_monitor.services.git_service import GitService
-from research_monitor.core.config import GitConfig
+sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
+
+from services.git_service import GitService
+from core.config import GitConfig
 
 
 class TestGitService(unittest.TestCase):

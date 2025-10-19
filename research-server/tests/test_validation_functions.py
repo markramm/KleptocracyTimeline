@@ -7,10 +7,11 @@ from datetime import datetime
 import sys
 import os
 
-# Add parent directory to path
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add server directory to path
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
 
-from research_monitor.validation_functions import (
+from validation_functions import (
     validate_date_format,
     validate_title,
     validate_summary,

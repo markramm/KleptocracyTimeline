@@ -9,9 +9,12 @@ from pathlib import Path
 import tempfile
 import shutil
 import json
+import sys
 
-from research_monitor.services.timeline_sync import TimelineSyncService
-from research_monitor.services.git_service import GitService
+sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
+
+from services.timeline_sync import TimelineSyncService
+from services.git_service import GitService
 
 
 class TestTimelineSyncService(unittest.TestCase):
@@ -28,7 +31,7 @@ class TestTimelineSyncService(unittest.TestCase):
         self.git_service.workspace = self.workspace
 
         # Create events directory
-        self.events_dir = self.workspace / 'timeline_data' / 'events'
+        self.events_dir = self.workspace / 'timeline' / 'data' / 'events'
         self.events_dir.mkdir(parents=True)
 
         self.sync_service = TimelineSyncService(self.git_service, self.events_dir)
@@ -50,7 +53,7 @@ class TestTimelineSyncService(unittest.TestCase):
             'success': True,
             'new_commits': 2,
             'files_changed': [
-                'timeline_data/events/2025-01-01--test-event.json',
+                'timeline/data/events/2025-01-01--test-event.json',
                 'README.md'
             ]
         }

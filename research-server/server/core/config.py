@@ -12,8 +12,9 @@ class Config:
     """Application configuration settings"""
 
     # Base paths
-    BASE_DIR = Path(__file__).parent.parent.parent
-    TIMELINE_DIR = BASE_DIR / 'timeline_data' / 'events'
+    # Go up from config.py -> core -> server -> research-server -> repo root
+    BASE_DIR = Path(__file__).parent.parent.parent.parent
+    TIMELINE_DIR = BASE_DIR / 'timeline' / 'data' / 'events'
 
     # Database
     DATABASE_URL = os.environ.get('DATABASE_URL', 'sqlite:///unified_research.db')

@@ -16,6 +16,9 @@ import requests
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / 'server'))
+
 from models import Base, TimelineEvent, ResearchPriority, init_database
 from app_v2 import app
 

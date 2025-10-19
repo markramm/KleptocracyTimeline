@@ -25,7 +25,7 @@ tags:
 - russia-connection
 - campaign-interference
 - disinformation
-status: partially-verified
+status: reported
 capture_lanes:
 - Information Warfare
 - Political Intelligence

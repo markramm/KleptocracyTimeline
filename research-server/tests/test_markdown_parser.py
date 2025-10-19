@@ -149,9 +149,9 @@ This content should be ignored.
 
         assert data['summary'] == 'This is the explicit summary.'
 
-    def test_missing_id_raises_error(self, tmp_path):
-        """Test that missing id field raises ValueError."""
-        event_file = tmp_path / 'no_id.md'
+    def test_missing_id_uses_filename(self, tmp_path):
+        """Test that missing id field is auto-generated from filename."""
+        event_file = tmp_path / '2025-01-15--no-id-event.md'
         event_file.write_text("""---
 date: 2025-01-15
 title: No ID Event
@@ -160,8 +160,10 @@ title: No ID Event
 Content.
 """)
 
-        with pytest.raises(ValueError, match="Missing required fields.*id"):
-            self.parser.parse(event_file)
+        data = self.parser.parse(event_file)
+
+        # ID should be auto-generated from filename
+        assert data['id'] == '2025-01-15--no-id-event'
 
     def test_missing_date_raises_error(self, tmp_path):
         """Test that missing date field raises ValueError."""

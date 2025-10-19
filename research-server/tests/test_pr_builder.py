@@ -6,10 +6,13 @@ Tests for PRBuilderService.
 import unittest
 from unittest.mock import Mock, patch, MagicMock
 from pathlib import Path
+import sys
 
-from research_monitor.services.pr_builder import PRBuilderService
-from research_monitor.services.git_service import GitService
-from research_monitor.services.timeline_sync import TimelineSyncService
+sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
+
+from services.pr_builder import PRBuilderService
+from services.git_service import GitService
+from services.timeline_sync import TimelineSyncService
 
 
 class TestPRBuilderService(unittest.TestCase):
@@ -40,7 +43,7 @@ class TestPRBuilderService(unittest.TestCase):
         self.assertFalse(result['success'])
         self.assertIn('No events', result['error'])
 
-    @patch('research_monitor.services.pr_builder.requests.post')
+    @patch('services.pr_builder.requests.post')
     def test_create_pr_success(self, mock_post):
         """Test successful PR creation"""
         # Setup test events
@@ -302,7 +305,7 @@ class TestPRBuilderService(unittest.TestCase):
         self.assertFalse(result['valid'])
         self.assertGreater(len(result['issues']), 0)
 
-    @patch('research_monitor.services.pr_builder.requests.post')
+    @patch('services.pr_builder.requests.post')
     def test_create_github_pr_success(self, mock_post):
         """Test creating PR via GitHub API"""
         mock_post.return_value = Mock(
@@ -324,7 +327,7 @@ class TestPRBuilderService(unittest.TestCase):
         self.assertEqual(pr_data['number'], 42)
         self.assertIn('github.com', pr_data['html_url'])
 
-    @patch('research_monitor.services.pr_builder.requests.post')
+    @patch('services.pr_builder.requests.post')
     def test_create_github_pr_api_error(self, mock_post):
         """Test creating PR when GitHub API fails"""
         import requests

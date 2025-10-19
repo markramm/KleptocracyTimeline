@@ -229,7 +229,7 @@ class TestAPIContracts:
         # Should handle gracefully (cap at reasonable limit)
         assert response.status_code == 200
         data = response.json()
-        assert data['pagination']['per_page'] <= 1000  # Reasonable limit
+        assert data['pagination']['per_page'] <= 5000  # API maximum limit
     
     def test_search_functionality_contract(self, api_health_check):
         """Test search functionality contracts."""
