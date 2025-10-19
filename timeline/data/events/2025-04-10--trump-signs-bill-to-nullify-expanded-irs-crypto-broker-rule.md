@@ -1,0 +1,52 @@
+---
+id: 2025-04-10--trump-signs-bill-to-nullify-expanded-irs-crypto-broker-rule
+date: '2025-04-10'
+title: Trump Signs Bill Nullifying Expanded IRS Crypto Broker Rule
+description: Nullification of IRS rule expanding cryptocurrency broker reporting requirements,
+  using the Congressional Review Act to reverse Biden-era regulations affecting DeFi
+  exchanges.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Mike Carey
+- Ways and Means Committee
+- Congress
+tags:
+- crypto
+- regulatory-capture
+- tax-policy
+- legislative-action
+capture_type: legislative_capture
+sources:
+- title: Carey Bill to Eliminate Burdensome IRS DeFi Crypto Broker Rule Signed into
+    Law
+  outlet: Rep. Mike Carey Official Website
+  url: https://carey.house.gov/2025/04/10/carey-bill-to-eliminate-burdensome-irs-defi-crypto-broker-rule-signed-into-law-by-president-trump/
+  date: '2025-04-10'
+- title: President Trump Signs Ways & Means Resolution Overturning Biden Administration's
+    Burdensome IRS DeFi Broker Rule
+  outlet: House Ways and Means Committee
+  url: https://waysandmeans.house.gov/2025/04/10/president-trump-signs-ways-means-resolution-overturning-biden-administrations-burdensome-irs-defi-broker-rule/
+  date: '2025-04-10'
+- title: Trump Signs Bill Blocking IRS Crypto Tax Rule Biden Pushed
+  outlet: Bloomberg
+  url: https://www.bloomberg.com/news/articles/2025-04-11/trump-signs-bill-blocking-irs-crypto-tax-rule-biden-pushed
+  date: '2025-04-11'
+- title: Trump Signs Resolution Erasing IRS Crypto Rule Targeting DeFi
+  outlet: CoinDesk
+  url: https://www.coindesk.com/policy/2025/04/07/president-trump-signs-resolution-erasing-irs-crypto-rule-targeting-defi
+  date: '2025-04-10'
+connections: []
+patterns:
+- kleptocratic-capture
+- legislative-obstruction
+notes: Event from comprehensive kleptocracy timeline tracking, showcasing legislative
+  capture mechanism.
+capture_lanes:
+- Systematic Corruption
+- Regulatory Capture
+---
+
+President Donald J. Trump signed H.J.Res.25 into law, nullifying an IRS rule that would have expanded cryptocurrency broker reporting requirements to include decentralized finance (DeFi) exchanges. The Congressional Review Act was used to reverse the Biden-era regulation, with the House passing the bill 292-132 and the Senate passing 70-28.

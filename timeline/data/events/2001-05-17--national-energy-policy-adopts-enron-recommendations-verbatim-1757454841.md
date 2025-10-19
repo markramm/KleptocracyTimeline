@@ -1,0 +1,38 @@
+---
+id: 2001-05-17--national-energy-policy-adopts-enron-recommendations-verbatim-1757454841
+date: '2001-05-17'
+title: National Energy Policy Adopts Enron Recommendations Verbatim
+importance: 9
+status: confirmed
+actors:
+- Dick Cheney
+- George W. Bush
+- Enron
+- Kenneth Lay
+- National Energy Policy Development Group
+- American Petroleum Institute
+sources:
+- outlet: Natural Resources Defense Council (NRDC)
+  title: Analysis of Cheney Energy Task Force Documents
+  url: https://www.nrdc.org/resources/cheney-energy-task-force
+- outlet: Government Accountability Office (GAO)
+  title: Process Used to Develop the National Energy Policy
+  url: https://www.gao.gov/assets/gao-03-894.pdf
+- outlet: The Hill
+  title: Cheney's Behind-the-Scenes Energy Ploy
+  url: https://thehill.com/blogs/congress-blog/politics/24210-cheneys-behind-the-scenes-energy-ploy/amp/
+tags:
+- enron
+- energy-policy
+- corporate-capture
+- regulatory-capture
+- corruption
+- fossil-fuels
+priority_id: RT-COMPLETED-004-enron-cheney-connection
+capture_lanes:
+- Regulatory Capture
+- Corporate Influence
+- Energy Policy Manipulation
+---
+
+The Bush administration releases the National Energy Policy, revealing extensive incorporation of Enron's recommendations. Analysis shows the task force adopted "all or significant portions" of Enron's recommendations in seven of eight policy areas, with at least 17 policies that directly benefited Enron included nearly word-for-word in the final plan. The policy overwhelmingly favored fossil fuel industries, with only seven of 105 recommendations referencing renewable energy.

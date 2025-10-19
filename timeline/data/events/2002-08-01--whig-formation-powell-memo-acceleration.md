@@ -1,0 +1,54 @@
+---
+date: '2002-08-01'
+title: White House Iraq Group Formation Implements Powell Memo Crisis-Acceleration
+  Model
+importance: 8
+actors:
+- Andrew Card
+- Karl Rove
+- Condoleezza Rice
+- Lewis Libby
+- Karen Hughes
+- Stephen J. Hadley
+- Michael Gerson
+sources:
+- outlet: NPR
+  title: 'Karl Rove Interview: Formation and Purpose of White House Iraq Group'
+  url: https://www.npr.org/transcripts/124597241?storyId=124597241
+  retrieved: '2025-10-17'
+- outlet: SourceWatch
+  title: White House Iraq Group Overview
+  url: https://sourcewatch.org/index.php/White_House_Iraq_Group
+  retrieved: '2025-10-17'
+- outlet: History Commons
+  title: White House Iraq Group Detailed Chronicle
+  url: http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group
+  retrieved: '2025-10-17'
+- outlet: NPR
+  title: Shadow Agencies Helped Build Case for War in Iraq
+  url: https://www.npr.org/2005/12/01/5035046/shadow-agencies-helped-build-case-for-war-in-iraq
+  retrieved: '2025-10-17'
+- outlet: NPR - Karl Rove Interview
+  title: Rove's Perspective on White House Iraq Group Formation
+  url: https://www.npr.org/transcripts/124597241?storyId=124597241
+  notes: Rove disputes exact formation date, claims meetings began in summer/fall
+    2003
+  retrieved: '2025-10-17'
+tags:
+- whig
+- crisis-acceleration
+- powell-memo-implementation
+- propaganda-coordination
+- iraq-war
+- media-manipulation
+status: confirmed
+id: 2002-08-01--whig-formation-powell-memo-acceleration
+priority_id: RT-COMPLETED-025-powell-whig-template-acceleration
+financial_impact: null
+capture_lanes:
+- Legislative Capture
+- Executive Power Expansion
+- Media Manipulation
+---
+
+White House Chief of Staff Andrew Card established the White House Iraq Group (WHIG) in August 2002, a strategic communications task force chaired by Karl Rove to coordinate a systematic propaganda campaign for the Iraq invasion. The group, including key officials like Condoleezza Rice and Lewis Libby, developed coordinated messaging strategies to build public support for the war, exemplifying the Powell Memo's institutional capture tactics of crisis exploitation and strategic communication. While Karl Rove disputed the exact timing, arguing meetings began later in 2003, multiple sources confirm the group's formation and purpose of coordinating war messaging.

@@ -1,0 +1,42 @@
+---
+id: 1976-01-01--scaife-funding-heritage-foundation-major-expansion
+date: '1976-01-01'
+title: Richard Mellon Scaife Becomes Heritage Foundation's Primary Donor
+actors:
+- Richard Mellon Scaife
+- Heritage Foundation
+- Scaife Family Charitable Trust
+- Joseph Coors
+- Edwin Meese III
+sources:
+- outlet: Washington Post
+  title: 'Scaife: Funding Father of the Right'
+  url: https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm
+  accessed_date: '2025-09-23'
+- outlet: SourceWatch
+  title: 'Scaife Foundations: Conservative Funding Network'
+  url: https://www.sourcewatch.org/index.php/Scaife_Foundations
+  accessed_date: '2025-09-23'
+- outlet: Conservative Transparency
+  title: Scaife Family Foundations Research
+  url: http://conservativetransparency.org/org/scaife-foundations/
+  accessed_date: '2025-09-23'
+importance: 8
+tags:
+- billionaire-funding
+- think-tank-expansion
+- conservative-infrastructure
+- political-influence
+- narrative-control
+- movement-building
+- intellectual-capture
+status: confirmed
+priority_id: RT-208559C5-heritage-foundation-launch-1973
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+- Intellectual Infrastructure
+- Media Manipulation
+---
+
+Billionaire Richard Mellon Scaife emerges as the Heritage Foundation's largest and most crucial donor, contributing $420,000 in 1976 alone - representing 42 percent of the foundation's total $1 million annual budget. Scaife's massive financial commitment transforms Heritage from a small think tank into a major force in conservative politics, providing the resources necessary for substantial expansion of operations and influence. His funding comes through the Scaife Family Charitable Trust and represents a strategic investment in building conservative intellectual infrastructure as envisioned in the Powell Memorandum. Scaife's support enables Heritage to compete with established liberal institutions like Brookings and begin developing the policy expertise that will later influence the Reagan administration. Over the next two decades, Scaife would ultimately contribute more than $23 million to the Heritage Foundation, establishing a funding model that demonstrates how concentrated wealth can systematically shape intellectual discourse and policy development in the United States.

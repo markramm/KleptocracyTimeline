@@ -1,0 +1,67 @@
+---
+actors:
+- Federal Reserve Board
+- JP Morgan & Co.
+- Section 20 subsidiaries
+capture_lanes:
+- Regulatory Capture
+date: '1989-01-01'
+id: 1989-01-01--federal-reserve-expands-section-20-corporate-debt-underwriting
+importance: 9
+location: Washington, D.C.
+sources:
+- key_facts_confirmed:
+  - In 1989 Fed approved Section 20 affiliates underwriting corporate debt securities
+  - Increased revenue limit from 5% to 10% for bank-ineligible activities
+  - JP Morgan became first commercial bank to underwrite corporate debt
+  outlet: Wikipedia
+  title: Decline of the Glass–Steagall Act
+  url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
+  verified: true
+- key_facts_confirmed:
+  - 1989 marks Federal Reserve raising Section 20 subsidiary revenue limit to 10%
+  - Expanded types of securities Section 20 affiliates could underwrite
+  - Part of gradual process of weakening Glass-Steagall restrictions
+  outlet: Federal Reserve Bank of San Francisco
+  title: Cracking the Glass-Steagall Barriers
+  url: https://www.frbsf.org/research-and-insights/publications/economic-letter/1997/03/cracking-the-glass-steagall-barriers/
+  verified: true
+- key_facts_confirmed:
+  - Congressional Research Service confirmed gradual erosion of Glass-Steagall via
+    Section 20 subsidiary rules
+  - Federal Reserve progressively expanded bank holding company securities underwriting
+    powers
+  - Bank holding companies allowed to establish Section 20 subsidiaries for securities
+    activities
+  outlet: Congressional Research Service
+  title: 'The Glass-Steagall Act: A Legal and Policy Analysis'
+  url: https://www.congress.gov/crs_external_products/R/PDF/R44349/R44349.3.pdf
+  verified: true
+- key_facts_confirmed:
+  - Limited securities activities allowed through bank holding company subsidiaries
+  - Fed set initial 5-10% revenue limit for bank-ineligible securities
+  - Regulatory interpretation allowed gradual expansion of commercial bank securities
+    powers
+  outlet: University of Connecticut Law Review
+  title: Banking Regulation and Interpretation of Section 20
+  url: https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1020&context=law_review
+  verified: true
+- key_facts_confirmed:
+  - Systematic expansion of Section 20 subsidiary powers in 1989
+  - First major administrative reinterpretation of Glass-Steagall restrictions
+  - Increased revenue and securities underwriting limits for bank holding companies
+  outlet: Capital Markets Regulation Group
+  title: 'Nothing But the Facts: The Glass-Steagall Act'
+  url: https://capmktsreg.org/nothing-but-the-facts-report-the-glass-steagall-act/
+  verified: true
+status: confirmed
+tags:
+- section-20-expansion
+- corporate-debt-underwriting
+- jp-morgan
+- regulatory-capture
+- glass-steagall-erosion
+title: Federal Reserve Expands Section 20 Powers to Include Corporate Debt Securities
+---
+
+The Federal Reserve Board dramatically expands Section 20 subsidiary powers, approving underwriting of corporate debt securities and increasing the revenue limit from bank-ineligible activities from 5% to 10%. This decision allows JP Morgan to become the first commercial bank to underwrite a corporate debt offering, effectively reuniting the commercial and investment banking arms of the original House of Morgan that Glass-Steagall had separated. The expansion represents a systematic approach to dismantling Glass-Steagall through administrative interpretation rather than legislative repeal, with the Federal Reserve progressively weakening the Act's restrictions throughout the late 1980s and 1990s.

@@ -1,0 +1,50 @@
+---
+id: 2025-02-13--indias-modi-talks-space-and-good-governance-with-m
+date: '2025-02-13'
+title: India's Modi talks space and 'good governance' with Musk in Washington
+description: Elon Musk met with Indian PM Narendra Modi in the White House hours before
+  Modi's official visit with Trump to discuss space, technology, and Starlink's entry
+  into India
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: India's Modi talks space and 'good governance' with Musk in Washington
+  url: https://www.reuters.com/world/indias-modi-holds-meeting-with-billionaire-tesla-ceo-musk-2025-02-13/
+  outlet: REUTERS
+  date: '2025-02-13'
+- title: President Trump doesn't know if Elon Musk met Narendra Modi as a CEO or White
+    House employee
+  url: https://fortune.com/2025/02/14/president-trump-musk-modi-conflicts-interest-meeting/
+  outlet: Fortune
+  date: '2025-02-14'
+- title: 'PM Modi meets Elon Musk during US visit: AI, space, technology, and business
+    on agenda'
+  url: https://www.businesstoday.in/technology/news/story/pm-modi-meets-elon-musk-during-us-visit-ai-space-technology-and-business-on-agenda-464598-2025-02-14
+  outlet: Business Today
+  date: '2025-02-14'
+- title: WTF Was Elon Musk Doing Meeting With India's Modi?
+  url: https://newrepublic.com/post/191521/elon-musk-meeting-india-narendra-modi
+  outlet: The New Republic
+  date: '2025-02-13'
+- title: Airtel, Starlink announce India deal weeks after Musk met Modi
+  url: https://restofworld.org/2025/airtel-starlink-india-deal-modi-musk/
+  outlet: Rest of World
+  date: '2025-03-01'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
+capture_lanes:
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+Elon Musk met with Indian PM Narendra Modi in the White House hours before Modi's official visit with Trump to discuss space, technology, and Starlink's entry into India

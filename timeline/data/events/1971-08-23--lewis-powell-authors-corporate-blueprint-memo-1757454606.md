@@ -1,0 +1,46 @@
+---
+id: 1971-08-23--lewis-powell-authors-corporate-blueprint-memo-1757454606
+date: '1971-08-23'
+title: Lewis Powell Authors Corporate Blueprint Memo
+importance: 9
+status: confirmed
+actors:
+- Lewis F. Powell Jr.
+- Eugene B. Sydnor Jr.
+- U.S. Chamber of Commerce
+- Richard Mellon Scaife
+- Joe Coors
+- Koch Brothers
+sources:
+- outlet: Washington and Lee University School of Law
+  title: 'Lewis F. Powell Jr. Papers: Memorandum on American Free Enterprise'
+  url: https://scholarlycommons.law.wlu.edu/powellmemo/
+- outlet: The American Prospect
+  title: The Legend of the Powell Memo
+  url: https://prospect.org/article/legend-powell-memo/
+- outlet: Senator Sheldon Whitehouse
+  title: 'The Scheme 1: The Powell Memo'
+  url: https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/
+- outlet: Greenpeace
+  title: 'The Lewis Powell Memo: Corporate Blueprint to Dominate Democracy'
+  url: https://www.greenpeace.org/usa/the-lewis-powell-memo-corporate-blueprint-to-dominate-democracy/
+  retrieved: '2025-10-17'
+- outlet: Slate
+  title: Notes to the Chamber of Commerce on America's 'Anti-Business' Climate
+  url: https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html
+  retrieved: '2025-10-17'
+tags:
+- capture-cascade
+- blueprint
+- institutional-capture
+- powell-memo
+- chamber-of-commerce
+- corporate-influence
+priority_id: RP-20250109-capture-cascade-part1
+capture_lanes:
+- Media Capture & Control
+- Judicial Capture
+- Corporate Political Strategy
+---
+
+Supreme Court Justice nominee Lewis F. Powell Jr. writes confidential memo to U.S. Chamber of Commerce outlining systematic strategy for corporate capture of democratic institutions. The memo provides a detailed blueprint for business mobilization through think tanks, legal foundations, lobbying organizations, and media influence. Scholars consider this document a foundational text in understanding how corporations systematically transformed American political and legal infrastructure.

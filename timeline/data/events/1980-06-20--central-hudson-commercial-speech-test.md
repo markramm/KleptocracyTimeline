@@ -1,0 +1,57 @@
+---
+id: 1980-06-20--central-hudson-commercial-speech-test
+date: '1980-06-20'
+importance: 6
+title: Powell creates Central Hudson test expanding corporate commercial speech rights
+location: Washington, DC
+actors:
+- Lewis F. Powell Jr.
+- Supreme Court of the United States
+- Central Hudson Gas & Electric Corporation
+- New York Public Service Commission
+tags:
+- commercial-speech-rights
+- central-hudson-test
+- corporate-advertising-rights
+- powell-memo-implementation
+- utility-regulation
+- first-amendment-expansion
+sources:
+- title: Central Hudson Gas & Electric Corp. v. Public Service Commission of New York,
+    447 U.S. 557 (1980)
+  url: https://supreme.justia.com/cases/federal/us/447/557/
+  outlet: Supreme Court of the United States
+  date: '1980-06-20'
+  verified: true
+  verified_date: '2025-08-19'
+  archive_url: https://web.archive.org/web/20240101000000/https://supreme.justia.com/cases/federal/us/447/557/
+  key_facts_confirmed:
+  - Decided June 20, 1980
+  - Powell delivered majority opinion
+  - 8-1 decision in favor of Central Hudson
+  - Established four-part Central Hudson test
+- title: Central Hudson Gas and Electric Corp. v. Public Service Commission (1980)
+  url: https://firstamendment.mtsu.edu/article/central-hudson-gas-and-electric-corp-v-public-service-commission/
+  outlet: The First Amendment Encyclopedia
+  date: '2024-01-01'
+  verified: true
+- title: Central Hudson Gas & Electric Corporation v. Public Service Commission
+  url: https://www.oyez.org/cases/1979/79-565
+  outlet: Oyez
+  date: '2024-01-01'
+  verified: true
+notes: Powell's four-part test requires (1) speech concerns lawful activity and is
+  not misleading, (2) governmental interest is substantial, (3) regulation directly
+  advances that interest, and (4) restriction is "not more extensive than necessary."
+  Decision arose from 1973 energy crisis advertising ban that remained after shortage
+  ended. Only Justice Rehnquist dissented. Central Hudson test remains dominant framework
+  for commercial speech cases. Further implements Powell's 1971 memo strategy of using
+  courts to expand business rights, extending beyond political speech (Bellotti) to
+  commercial advertising rights.
+status: confirmed
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+---
+
+Justice Lewis Powell delivers 8-1 majority opinion in Central Hudson Gas & Electric Corp. v. Public Service Commission of New York (447 U.S. 557), striking down New York ban on utility promotional advertising and establishing four-part "Central Hudson test" for commercial speech regulation. Powell's decision extends First Amendment protection to corporate advertising and promotional speech, ruling that complete advertising bans violate corporate free speech rights. Creates framework requiring government restrictions on commercial speech to be "not more extensive than necessary" to serve substantial interests, significantly expanding corporate speech protections beyond political contexts established in Bellotti.

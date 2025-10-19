@@ -1,0 +1,46 @@
+---
+date: '2015-10-28'
+title: Trump Signs Letter of Intent for Trump Tower Moscow
+actors:
+- Donald Trump
+- Michael Cohen
+- Felix Sater
+importance: 10
+sources:
+- title: Trump Signed Letter of Intent for Russian Tower During Campaign, Lawyer Says
+  url: https://abcnews.go.com/amp/Politics/trump-knew-moscow-tower-proposal-campaign-lawyer/story?id=49472342
+  outlet: ABC News
+  date: '2018-11-29'
+- title: 'Lawyer: Trump Organization Pursued Property in Russia During Campaign'
+  url: https://www.pbs.org/newshour/amp/nation/lawyer-trump-organization-pursued-property-russia-campaign
+  outlet: PBS News
+  date: '2018-11-29'
+- title: 'Trump''s Moscow Tower and Back-Channel Ukraine Dossier: Both Began During
+    the Election'
+  url: https://www.justsecurity.org/44962/trump-tower-moscow-ukraine-dossier-peace-plan-michael-cohen-felix-sater/
+  outlet: Just Security
+  date: '2018-02-19'
+tags:
+- trump-tower-moscow
+- campaign-compromise
+- russia-negotiations
+- political-leverage
+status: confirmed
+id: 2015-10-28--trump-signs-letter-of-intent-for-trump-tower-moscow-1757456698
+priority_id: russian-influence-networks-1757456698
+capture_lanes:
+- Executive Power Expansion
+sources_replaced: 3
+sources_added: 3
+summary_enhanced: true
+validation_metadata:
+  last_corrected: '2025-09-16T19:13:48.076500'
+  corrected_by: source-qa-8-bulk-retry
+  validation_log_id: 130
+  corrections_applied:
+  - 'sources_added: ''3'' → ''3'''
+  - 'sources_replaced: ''3'' → ''3'''
+  - 'summary_enhanced: ''True'' → ''True'''
+---
+
+Donald Trump signs letter of intent for Trump Tower Moscow while running for president, with lawyer Michael Cohen continuing negotiations through June 2016. Felix Sater boasts: "Our boy can become president...we can engineer it." The 17-page letter proposed a massive development in Moscow, with 250 luxury condos, a hotel, and spa, potentially worth $4 million in initial licensing fees.

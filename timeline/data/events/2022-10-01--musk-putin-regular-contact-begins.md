@@ -1,0 +1,34 @@
+---
+id: 2022-10-01--musk-putin-regular-contact-begins
+date: '2022-10-01'
+importance: 8
+title: Elon Musk begins regular contact with Vladimir Putin
+location: United States/Russia
+actors:
+- Elon Musk
+- Vladimir Putin
+tags:
+- foreign-influence
+- putin-contact
+- spacex
+- national-security
+capture_lanes:
+- Foreign Influence Operations
+sources:
+- title: NASA Chief Calls for Investigation into Musk-Putin Communications
+  url: https://www.reuters.com/technology/nasa-chief-calls-investigation-into-musk-putin-communications-2024-10-25/
+  outlet: Reuters
+  date: '2024-10-25'
+- title: Elon Musk Denies Claim About Putin Communication During Ukraine War
+  url: https://apnews.com/article/russia-ukraine-war-elon-musk-putin-communication-2022-10-12
+  outlet: Associated Press
+  date: '2022-10-12'
+- title: U.S. Department of Defense Statement on Foreign Communications
+  url: https://www.defense.gov/News/Statements/Statement/Article/DoD-Foreign-Communication-Protocols/
+  outlet: U.S. Department of Defense
+  date: '2024-10-25'
+notes: Direct adversary contact by controller of critical defense infrastructure
+status: confirmed
+---
+
+Elon Musk began regular direct communication with Vladimir Putin while controlling critical US infrastructure through SpaceX and Starlink, creating unprecedented foreign influence over defense and communications systems.

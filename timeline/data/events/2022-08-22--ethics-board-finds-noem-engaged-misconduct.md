@@ -1,0 +1,39 @@
+---
+id: 2022-08-22--ethics-board-finds-noem-engaged-misconduct
+date: '2022-08-22'
+title: Ethics board finds Noem may have engaged in misconduct and conflict of interest
+importance: 8
+tags:
+- corruption
+- ethics-violation
+- kristi-noem
+- south-dakota
+- abuse-of-power
+- conflict-of-interest
+actors:
+- Kristi Noem
+- South Dakota Government Accountability Board
+- Jason Ravnsborg
+sources:
+- title: Ethics board says South Dakota Gov. Kristi Noem may have engaged in misconduct
+  url: https://www.pbs.org/newshour/politics/ethics-board-says-south-dakota-gov-kristi-noem-may-have-engaged-in-misconduct
+  outlet: PBS NewsHour
+  date: '2022-08-22'
+- title: South Dakota Governor Kristi Noem accused of misconduct
+  url: https://www.axios.com/2022/08/23/south-dakota-kristi-noem-misconduct-investigation
+  outlet: Axios
+  date: '2022-08-23'
+- title: S.D. Gov. Kristi Noem may have 'engaged in misconduct,' ethics board says
+  url: https://www.nbcnews.com/politics/politics-news/sd-gov-kristi-noem-may-engaged-misconduct-ethics-board-says-rcna44356
+  outlet: NBC News
+  date: '2022-08-22'
+- title: Kristi Noem Faces Possible Misconduct Findings in South Dakota
+  url: https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/
+  outlet: CBS News
+  date: '2022-08-22'
+status: confirmed
+capture_lanes:
+- Systematic Corruption
+---
+
+South Dakota's Government Accountability Board voted unanimously that there was sufficient evidence Governor Kristi Noem had committed malfeasance and engaged in a conflict of interest regarding her intervention in her daughter's appraiser license application. The board found evidence of improper intervention and abuse of power for family benefit.

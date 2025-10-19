@@ -1,0 +1,52 @@
+---
+id: 2022-06-03--christina-bobb-false-attestation
+date: '2022-06-03'
+importance: 9
+title: Christina Bobb signs false attestation that all classified documents returned
+actors:
+- Christina Bobb
+- Evan Corcoran
+- Donald Trump
+- Department of Justice
+tags:
+- classified-documents
+- false-statements
+- obstruction-of-justice
+- mar-a-lago
+- criminal-investigation
+status: confirmed
+sources:
+- title: Trump lawyer claimed no classified material was at Mar-a-Lago in signed letter
+    to Justice Department
+  url: https://www.cnn.com/2022/08/13/politics/trump-attorney-classified-documents-mar-a-lago-search/index.html
+  outlet: CNN
+  date: '2022-08-13'
+- title: 'Christina Bobb and Evan Corcoran: Trump''s attorneys face scrutiny over
+    level of cooperation'
+  url: https://www.cnn.com/2022/08/31/politics/christina-bobb-evan-corcoran/index.html
+  outlet: CNN
+  date: '2022-08-31'
+- title: Trump lawyer Christina Bobb speaks to federal investigators in Mar-a-Lago
+    case
+  url: https://www.nbcnews.com/politics/donald-trump/trump-lawyer-christina-bobb-speaks-federal-investigators-mar-lago-case-rcna51459
+  outlet: NBC News
+  date: '2022-10-10'
+notes: 'Bobb told investigators that Corcoran drafted the statement and told her to
+  sign it. She
+
+  later cooperated with federal investigators. The FBI''s August search recovered
+  documents
+
+  in a matter of hours that Trump''s team claimed didn''t exist after "weeks" of diligent
+
+  searching. Bobb was also indicted in Arizona for the 2020 fake electors scheme.'
+capture_lanes:
+- Intelligence Penetration
+---
+
+Trump attorney Christina Bobb signed a certification stating that all classified documents
+requested by the May 11 grand jury subpoena had been returned to the government. The
+attestation, drafted by Evan Corcoran, proved false when the FBI found 103 additional
+classified documents during the August 8 search - more than twice what had been returned
+on June 3. This false certification became key evidence in the obstruction charges against Trump.
+

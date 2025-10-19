@@ -1,0 +1,35 @@
+---
+date: '2024-05-29'
+title: Treasury Releases First NFT Illicit Finance Risk Assessment Warning of Money
+  Laundering Vulnerabilities
+importance: 9
+actors:
+- U.S. Treasury Department
+- FinCEN
+sources:
+- title: Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment
+  url: https://home.treasury.gov/news/press-releases/jy2382
+  outlet: U.S. Treasury
+- title: U.S. Treasury Describes NFTs as 'Highly Susceptible to Use in Fraud and Scams'
+  url: https://www.coindesk.com/policy/2024/05/29/us-treasury-describes-nfts-as-highly-susceptible-to-use-in-fraud-and-scams
+  outlet: CoinDesk
+- title: Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment
+  url: https://www.globalsecurity.org/security/library/news/2024/05/sec-240529-treasury01.htm
+  outlet: Global Security Organization
+tags:
+- nft
+- money-laundering
+- treasury
+- risk-assessment
+- financial-crimes
+- policy
+- digital-assets
+id: 2024-05-29--treasury-releases-first-nft-illicit-finance-risk-a
+status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+The U.S. Treasury Department published its first-ever comprehensive risk assessment of NFTs for illicit finance, determining that bad actors can exploit NFT platforms for money laundering, terrorist financing, and proliferation financing. The report highlights techniques including overpaying for NFTs to transfer illicit funds and using NFT transactions to obscure the source of criminal proceeds. Key findings include that NFT platforms lack appropriate controls to mitigate financial crimes, and that over $100 million worth of NFTs were stolen through scams between July 2021 and July 2022. The assessment represents a significant step in recognizing and addressing potential financial risks in the emerging NFT marketplace.

@@ -1,0 +1,57 @@
+---
+id: 2025-05-27--trump-pardons-reality-stars-todd-and-julie-chrisley
+date: '2025-05-27'
+title: Trump pardons reality stars Todd and Julie Chrisley
+description: Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted
+  in 2022 for defrauding banks of over $30 million and evading federal taxes, after
+  their daughter—an RNC speaker and Trump supporter—lobbied for their clemency
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- corruption
+- pardon
+- government-contracts
+capture_type: monetizing_position
+sources:
+- title: Trump pardons reality stars Todd and Julie Chrisley
+  url: https://www.washingtonpost.com/politics/2025/05/27/trump-pardon-chrisley/
+  outlet: Washington Post
+  date: '2025-05-27'
+- title: Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud
+    and tax evasion
+  url: https://www.cnbc.com/2025/05/27/trump-pardons-todd-julie-chrisley-reality-tv.html
+  outlet: CNBC
+  date: '2025-05-27'
+- title: Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of
+    fraud
+  url: https://www.npr.org/2025/05/28/nx-s1-5414091/todd-julie-chrisley-pardon-trump
+  outlet: NPR
+  date: '2025-05-28'
+- title: Todd and Julie Chrisley released from prison after pardons from Trump
+  url: https://www.nbcnews.com/news/us-news/todd-julie-chrisleys-pardons-came-intervention-daughter-rcna209439
+  outlet: NBC News
+  date: '2025-05-28'
+- title: Trump pardons Todd and Julie Chrisley convicted of bank fraud and tax crimes
+  url: https://www.cnn.com/2025/05/27/politics/trump-pardon-chrisley-knows-best
+  outlet: CNN
+  date: '2025-05-27'
+- title: Trump Pardons Reality Stars Todd and Julie Chrisley Following Tax Evasion
+    and Bank Fraud Convictions
+  url: https://variety.com/2025/tv/news/trump-pardons-todd-julie-tax-evasion-bank-fraud-1236411269/
+  outlet: Variety
+  date: '2025-05-27'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
+_merge_note: 'Enhanced with information from duplicate event: 2025-05-27--trump-pardons-reality-stars-todd-and-julie-chrisle'
+_merge_timestamp: '2025-09-05T23:46:55.900421'
+capture_lanes:
+- Financial Capture
+---
+
+Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted in 2022 for defrauding banks of over $30 million and evading federal taxes, after their daughter—an RNC speaker and Trump supporter—lobbied for their clemency

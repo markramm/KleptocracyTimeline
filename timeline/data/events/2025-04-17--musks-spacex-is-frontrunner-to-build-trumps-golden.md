@@ -1,0 +1,47 @@
+---
+id: 2025-04-17--musks-spacex-is-frontrunner-to-build-trumps-golden
+date: '2025-04-17'
+title: Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield
+description: Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+capture_type: monetizing_position
+sources:
+- title: Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield
+  url: https://www.reuters.com/business/aerospace-defense/musks-spacex-is-frontrunner-build-trumps-golden-dome-missile-shield-2025-04-17/
+  outlet: REUTERS
+  date: '2025-04-17'
+- title: 'Musk''s SpaceX is frontrunner to build Trump''s Golden Dome missile shield:
+    Reuters'
+  url: https://www.cnbc.com/2025/04/17/musks-spacex-is-frontrunner-to-build-trumps-missile-shield.html
+  outlet: CNBC
+  date: '2025-04-17'
+- title: 'SpaceX and its partners emerge as frontrunners to build part of Trump''s
+    Golden Dome project: report'
+  url: https://www.foxbusiness.com/politics/spacex-its-partners-emerge-frontrunners-build-part-trumps-golden-dome-project-report
+  outlet: Fox Business
+  date: '2025-04-17'
+- title: Trump wants a Golden Dome over America. Here's what it would take
+  url: https://www.npr.org/2025/04/22/g-s1-61658/trump-golden-dome-america-iron-military-defense
+  outlet: NPR
+  date: '2025-04-22'
+- title: Elon Musk denies SpaceX is frontrunner for Trump's 00 billion Golden Dome
+    missile-defense project
+  url: https://fortune.com/2025/05/21/elon-musk-denies-spacex-frontrunner-for-trump-golden-dome/
+  outlet: Fortune
+  date: '2025-05-21'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
+capture_lanes:
+- Systematic Corruption
+---
+
+Musk's SpaceX is frontrunner to build Trump's Golden Dome missile shield

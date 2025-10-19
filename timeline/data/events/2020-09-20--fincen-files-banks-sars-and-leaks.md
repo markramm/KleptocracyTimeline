@@ -1,0 +1,77 @@
+---
+id: 2020-09-20--fincen-files-banks-sars-and-leaks
+date: '2020-09-20'
+importance: 8
+title: '''FinCEN Files'' leak reveals banks flagged >$2T in suspicious transactions;
+  U.S. warns SAR disclosures are unlawful'
+notes: 'Include both investigative findings (scope and examples) and FinCEN''s official
+  response on the
+
+  illegality of SAR disclosures; note that SARs reflect suspicions, not proven crimes.
+
+  '
+status: confirmed
+actors:
+- Financial Crimes Enforcement Network (FinCEN)
+- International Consortium of Investigative Journalists (ICIJ)
+- BuzzFeed News (original partner)
+- Deutsche Bank
+- HSBC
+- Standard Chartered
+- JPMorgan Chase
+- Barclays
+tags:
+- money-laundering
+- banking
+- transparency
+- financial-crime
+- international-corruption
+patterns:
+- Global Financial Corruption
+- Banking Regulatory Capture
+- Money Laundering Networks
+related_events: []
+capture_lanes:
+- Financial Corruption & Kleptocracy
+location: United States
+sources:
+- date: '2020-09-20'
+  outlet: ICIJ
+  title: FinCEN Files — investigation overview
+  url: https://www.icij.org/investigations/fincen-files/
+  archive_url: ''
+  key_facts_confirmed:
+  - ~2,100 SARs; >$2T flagged transactions
+  verified: true
+- date: '2020-09-01'
+  outlet: FinCEN (U.S. Treasury)
+  title: Statement regarding unlawfully disclosed Suspicious Activity Reports
+  url: https://www.fincen.gov/news/news-releases/statement-fincen-regarding-unlawfully-disclosed-suspicious-activity-reports
+  archive_url: ''
+  key_facts_confirmed:
+  - Unauthorized disclosure of SARs is a crime; referrals to DOJ and Treasury OIG
+  verified: true
+- date: '2020-09-20'
+  outlet: BuzzFeed News
+  title: 'FinCEN Files Explainer: Data and Money Transactions Investigation'
+  url: https://www.buzzfeednews.com/article/jsvine/fincen-files-explainer-data-money-transactions
+  archive_url: ''
+  key_facts_confirmed:
+  - 2,657 leaked documents including 2,121 SARs
+  - Over $2 trillion in suspicious transactions
+  - Involving over 200 major banks
+  - Spanned transactions from 1999-2017
+  verified: true
+- date: '2020-09-20'
+  outlet: Axios
+  title: 'Leaked Treasury Documents: Global Banking Money Laundering Exposed'
+  url: https://www.axios.com/2020/09/20/fincen-files-us-banks-money-laundering-buzzfeed
+  archive_url: ''
+  key_facts_confirmed:
+  - Deutsche Bank responsible for 62% of leaked SARs
+  - $1.3 trillion in suspicious transactions
+  - Collaboration with 400+ reporters in 88 countries
+  verified: true
+---
+
+The ICIJ/BuzzFeed 'FinCEN Files' exposed a massive global banking corruption investigation, revealing over $2 trillion in suspicious financial transactions across 200+ banks between 1999-2017. The leaked 2,657 documents, including 2,121 Suspicious Activity Reports (SARs), showed systemic money laundering and financial crimes, with Deutsche Bank alone accounting for 62% of the leaked suspicious transactions totaling $1.3 trillion. FinCEN warned that the leak of these confidential documents was itself a criminal act, referring the matter to the Department of Justice and Treasury Office of the Inspector General.

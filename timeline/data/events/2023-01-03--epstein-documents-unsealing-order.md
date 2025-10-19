@@ -1,0 +1,40 @@
+---
+id: 2023-01-03--epstein-documents-unsealing-order
+date: '2023-01-03'
+title: Federal Court Orders Unsealing of Jeffrey Epstein Case Documents
+actors:
+- Loretta Preska
+- Virginia Giuffre
+- Ghislaine Maxwell
+- Miami Herald
+- Julie Brown
+tags:
+- document-unsealing
+- transparency
+- media-litigation
+- public-interest
+- judicial-oversight
+sources:
+- url: https://www.reuters.com/legal/judge-orders-release-more-jeffrey-epstein-related-documents-2023-01-04/
+  title: Judge orders release of more Jeffrey Epstein-related documents
+  outlet: Reuters
+  date: '2023-01-04'
+- url: https://www.miamiherald.com/news/local/article270935462.html
+  title: Judge orders release of sealed Jeffrey Epstein documents
+  outlet: Miami Herald
+  date: '2023-01-03'
+- url: https://apnews.com/article/jeffrey-epstein-documents-unsealed-ghislaine-maxwell-fa79d83aafd5c66b30d56ee6c05ba726
+  title: Judge orders unsealing of documents in Jeffrey Epstein case
+  outlet: Associated Press
+  date: '2023-01-03'
+importance: 8
+status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Judicial Capture
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+U.S. District Judge Loretta Preska orders the unsealing of documents from Virginia Giuffre's 2015 defamation case against Ghislaine Maxwell, including depositions and court filings that had been sealed for years. The order affects approximately 180 individuals mentioned in the documents, though many high-profile names remain redacted or protected by privacy interests.

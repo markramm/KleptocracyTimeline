@@ -1,0 +1,38 @@
+---
+id: 1996-08-26--maria-farmer-reports-epsteinmaxwell-assault-to-fbi
+date: '1996-08-26'
+importance: 10
+title: Maria Farmer reports Epstein/Maxwell assault to FBI, ignored for decade
+actors:
+- Maria Farmer
+- Jeffrey Epstein
+- Ghislaine Maxwell
+- FBI
+- Les Wexner
+tags:
+- epstein-intelligence
+- law-enforcement-failure
+- fbi-coverup
+- victim-ignored
+- sexual-assault
+- intelligence-protection
+- systemic-failure
+status: confirmed
+sources:
+- title: Jeffrey Epstein Accuser Names Powerful Men in Alleged Sex Ring
+  url: https://www.thedailybeast.com/jeffrey-epstein-accuser-maria-farmer-names-powerful-men
+  outlet: The Daily Beast
+  date: '2019-07-09'
+- title: Epstein Victim Says FBI Ignored Her 1996 Report for a Decade
+  url: https://www.businessinsider.com/maria-farmer-fbi-ignored-jeffrey-epstein-report-decade-2019-8
+  outlet: Business Insider
+  date: '2019-08-07'
+- title: '''I Was So Scared of Him'': Epstein Survivor Recounts Abuse'
+  url: https://www.theguardian.com/us-news/2019/jul/13/jeffrey-epstein-maria-farmer-fbi-interview
+  outlet: The Guardian
+  date: '2019-07-13'
+capture_lanes:
+- Intelligence Penetration
+---
+
+Artist Maria Farmer files a report with the FBI detailing sexual assault by Jeffrey Epstein and Ghislaine Maxwell at Les Wexner's estate in Ohio. The FBI takes no action on her complaint for over 10 years, allowing the abuse network to continue operating with apparent impunity despite early law enforcement awareness.

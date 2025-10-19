@@ -1,0 +1,52 @@
+---
+id: 2024-02-11--ukrainian-intelligence-confirms-systemic-russian-m
+date: '2024-02-11'
+importance: 6
+title: Ukrainian intelligence confirms systemic Russian military use of Starlink
+location: Ukraine/Russia
+actors:
+- Russian military
+- Ukrainian intelligence
+- Elon Musk
+- SpaceX/Starlink
+tags:
+- starlink-compromise
+- russian-military
+- space-infrastructure
+- dual-use-technology
+sources:
+- title: Russian military reportedly using Starlink inside Ukraine
+  url: https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine
+  outlet: The Kyiv Independent
+  date: '2024-02-11'
+  archive_url: https://web.archive.org/web/20240914000000/https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine/
+- title: Military intelligence Russia reportedly buying Starlink in 'Arab countries'
+  url: https://kyivindependent.com/military-intelligence-russia-reportedly-buying-starlink-in-middle-east
+  outlet: The Kyiv Independent
+  date: '2024-02-13'
+  archive_url: https://web.archive.org/web/20240914000000/https://kyivindependent.com/military-intelligence-russia-reportedly-buying-starlink-in-middle-east/
+- title: Ukrainian intelligence says Russia using Starlink satellite Internet system
+    for combat operations
+  url: https://meduza.io/en/news/2024/02/11/ukrainian-intelligence-says-russia-using-starlink-satellite-internet-system-for-combat-operations-in-occupied-territory
+  outlet: Meduza
+  date: '2024-02-11'
+  archive_url: null
+- title: Russian Forces Getting More Access To Starlink Satellite Internet, Threatening
+    Ukraine's Military Communications
+  url: https://www.rferl.org/a/ukraine-russia-starlink-access-threat/32819373.html
+  outlet: Radio Free Europe/Radio Liberty
+  date: '2024-02-24'
+  archive_url: null
+- title: Russia's forces are illegally using Starlink terminals against Ukraine
+  url: https://www.washingtonpost.com/world/2024/10/12/starlink-russia-ukraine-elon-musk/
+  outlet: The Washington Post
+  date: '2024-10-12'
+  archive_url: null
+notes: Critical infrastructure compromise enabling enemy military operations. Multiple
+  sources confirm systemic Russian military acquisition and use of Starlink terminals.
+status: confirmed
+capture_lanes:
+- Intelligence Penetration
+---
+
+Ukrainian intelligence confirmed "systemic" Russian military use of Starlink terminals since February 2024, with Russians acquiring them through third countries, demonstrating compromise of critical US space infrastructure.

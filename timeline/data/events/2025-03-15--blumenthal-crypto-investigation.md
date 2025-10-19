@@ -1,0 +1,41 @@
+---
+id: 2025-03-15--blumenthal-crypto-investigation
+date: '2025-03-15'
+importance: 9
+title: Senator Blumenthal opens investigation into Trump crypto ventures
+location: Washington, DC
+actors:
+- Richard Blumenthal
+- Senate Permanent Subcommittee on Investigations
+- Donald Trump
+tags:
+- congressional-investigation
+- crypto
+- foreign-influence
+- corruption-investigation
+capture_lanes:
+- Financial Corruption & Kleptocracy
+- Foreign Influence Operations
+sources:
+- title: Permanent Subcommittee on Investigations Opens Inquiry into Trump Crypto
+    Corruption
+  url: https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption
+  outlet: U.S. Senator Richard Blumenthal
+  date: '2025-05-06'
+- title: Senate Democrat Opens Investigation Into Trump's Crypto Businesses
+  url: https://www.coindesk.com/policy/2025/05/06/senate-democrat-says-hes-looking-into-trumps-crypto-businesses
+  outlet: CoinDesk
+  date: '2025-05-06'
+- title: Democrats push back against Trump's growing crypto empire
+  url: https://www.cnbc.com/2025/05/07/democrats-push-back-against-trumps-growing-crypto-empire.html
+  outlet: CNBC
+  date: '2025-05-07'
+- title: Trump Faces Senate Subcommittee Inquiry Over 'Crypto Corruption'
+  url: https://decrypt.co/318358/democratic-senator-investigates-trumps-chilling-crypto-ventures
+  outlet: Decrypt
+  date: '2025-05-07'
+notes: Congressional oversight targets unprecedented crypto conflicts
+status: confirmed
+---
+
+Senator Richard Blumenthal's Permanent Subcommittee on Investigations opens preliminary inquiry into Trump's digital assets, stating 'TRUMP allows, and even invites, anyone in the world, including foreign governments and unscrupulous individuals, to directly enrich the president.'

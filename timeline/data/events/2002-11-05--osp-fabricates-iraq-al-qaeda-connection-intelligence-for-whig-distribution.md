@@ -1,0 +1,48 @@
+---
+id: 2002-11-05--osp-fabricates-iraq-al-qaeda-connection-intelligence-for-whig-distribution
+date: '2002-11-05'
+title: OSP Fabricates Iraq-Al Qaeda Connection Intelligence for WHIG Distribution
+importance: 9
+status: confirmed
+actors:
+- Douglas Feith
+- Paul Wolfowitz
+- Donald Rumsfeld
+- Dick Cheney
+- Karl Rove
+- Condoleezza Rice
+- White House Iraq Group
+- Office of Special Plans
+sources:
+- outlet: Center for Public Integrity
+  title: Pentagon Offices' Misleading Intelligence
+  url: https://publicintegrity.org/politics/pentagon-offices-misleading-intelligence/
+  retrieved: '2025-10-01'
+- outlet: Federation of American Scientists
+  title: IG Report on DoD Intel Office Declassified
+  url: https://fas.org/publication/ig_report_on_dod_intel_office_/
+  retrieved: '2025-10-01'
+- outlet: Government Information
+  title: DoD Inspector General's Report on OSP Pre-Iraq War Activities
+  url: https://www.govinfo.gov/content/pkg/CHRG-110shrg35438/html/CHRG-110shrg35438.htm
+  retrieved: '2025-10-01'
+tags:
+- osp
+- whig
+- intelligence-fabrication
+- iraq-alqaeda-connection
+- propaganda-distribution
+- iraq-war-justification
+- pentagon-manipulation
+capture_lanes:
+- Intelligence Penetration
+- Propaganda Infrastructure
+- Administrative State Capture
+location: Washington, D.C., United States
+category: intelligence-fabrication
+validation_notes: Comprehensive verification of OSP intelligence fabrication from
+  multiple sources, including declassified Pentagon inspector general report. Enhanced
+  summary to reflect systematic intelligence manipulation.
+---
+
+The Office of Special Plans (OSP), under Douglas Feith's leadership, systematically fabricated intelligence reports claiming non-existent operational connections between Iraq and Al-Qaeda. These fabricated assessments, contradicting CIA and FBI intelligence, were intentionally distributed to the White House Iraq Group (WHIG) to manipulate public and political support for the Iraq War. A 2007 Pentagon Inspector General report later confirmed these assessments were 'inappropriate' and inconsistent with established intelligence community consensus, revealing a deliberate strategy of intelligence manipulation to justify military intervention.

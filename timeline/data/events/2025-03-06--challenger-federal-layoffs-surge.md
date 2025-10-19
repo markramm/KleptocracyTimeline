@@ -1,0 +1,44 @@
+---
+id: 2025-03-06--challenger-federal-layoffs-surge
+date: '2025-03-06'
+importance: 6
+title: Federal layoffs surge to 62,530 in first two months as DOGE cuts dominate
+location: Washington, DC
+actors:
+- DOGE
+- Elon Musk
+- Federal agencies
+- Challenger Gray & Christmas
+sources:
+- title: February 2025 Job Cuts Surge on DOGE Actions, Retail Woes; Highest Monthly
+    Total Since July 2020
+  url: https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/
+  outlet: Challenger, Gray & Christmas
+  date: '2025-03-06'
+- title: Layoff announcements soar to the highest since 2020 as DOGE slashes federal
+    staff
+  url: https://www.cnbc.com/2025/03/06/layoff-announcements-soar-to-the-highest-since-2020-as-doge-slashes-federal-staff-.html
+  outlet: CNBC
+  date: '2025-03-06'
+- title: DOGE layoffs may 'overwhelm' unemployment system for federal workers, report
+    finds
+  url: https://www.cnbc.com/2025/03/07/doge-layoffs-may-overwhelm-unemployment-system-for-federal-workers.html
+  outlet: CNBC
+  date: '2025-03-07'
+- title: 'Federal Government Layoffs Tracker 2025: Latest DOGE Cuts So Far'
+  url: https://www.newsweek.com/doge-layoffs-federal-government-tracker-2025-dod-cuts-2042525
+  outlet: Newsweek
+  date: '2025-03-06'
+notes: DOGE targeting 75% federal workforce reduction impacting Education (50% cuts),
+  VA (80K positions), HHS (25% cuts), and USAID shutdown
+status: confirmed
+tags:
+- federal-workforce
+- doge
+- workforce-reduction
+- elon-musk
+capture_lanes:
+- Federal Workforce Capture
+---
+
+Challenger, Gray & Christmas data revealed 62,530 federal workers dismissed in first two months of 2025 - a 41,311% increase over 2024. Government layoffs accounted for most job cuts, driven by DOGE's unprecedented federal workforce reduction targeting 75% cuts across 27 agencies. March alone saw 216,670 additional federal cuts, making it third-highest monthly total since 2020.

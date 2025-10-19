@@ -1,29 +1,25 @@
 # Timeline Event Format Guide
 
-This document describes the supported formats for timeline events in the Kleptocracy Timeline project.
+This document describes the event format for timeline events in the Kleptocracy Timeline project.
 
-## Supported Formats
+## Event Format
 
-The timeline supports **two event formats**:
-1. **JSON** (`.json`) - Machine-friendly, structured data format
-2. **Markdown** (`.md`) - Human-friendly format with YAML frontmatter
+The timeline uses **Markdown** (`.md`) files with YAML frontmatter as the canonical event format.
 
-Both formats are **fully equivalent** and can be used interchangeably. The system will automatically parse both formats during sync.
+This format provides:
+- **Human-friendly editing** - Easy to read and edit in any text editor
+- **GitHub-native UX** - Edit events directly on GitHub with full markdown preview
+- **Structured metadata** - YAML frontmatter for machine-readable fields
+- **Rich formatting** - Full markdown support for summaries and descriptions
+- **Version control friendly** - Clean, readable diffs in git history
 
-## When to Use Each Format
+## Why Markdown?
 
-### Use JSON When:
-- Creating events programmatically via API
-- Working with automated research agents
-- Importing events from external data sources
-- Preferring strict structure validation
-
-### Use Markdown When:
-- Creating events manually in a text editor
-- Editing events directly on GitHub
-- Contributing events as a community member
-- Wanting to write longer, formatted summaries
-- Making quick edits via GitHub's web interface
+Markdown with YAML frontmatter provides the best balance of human readability and machine parseability. It enables:
+- Quick edits via GitHub's web interface
+- Better collaboration with markdown preview
+- Rich text formatting for complex summaries
+- Clean, readable event files
 
 ## Event Schema
 
@@ -41,62 +37,7 @@ Optional fields include:
 - `status` - Verification status (confirmed, validated, disputed, etc.)
 - `related_events` - Array of related event IDs
 
-## JSON Format
-
-### Minimal Example
-
-```json
-{
-  "id": "2025-01-15--event-slug",
-  "date": "2025-01-15",
-  "title": "Event Title",
-  "summary": "Detailed description of what happened and why it matters."
-}
-```
-
-### Complete Example
-
-```json
-{
-  "id": "2025-01-15--federal-contract-investigation",
-  "date": "2025-01-15",
-  "title": "Federal Investigation into No-Bid Contract Announced",
-  "summary": "The Department of Justice announced an investigation into a $500 million no-bid contract awarded to Company X. The investigation will examine potential violations of federal procurement law and conflicts of interest involving senior officials.",
-  "importance": 8,
-  "status": "confirmed",
-  "tags": [
-    "corruption",
-    "government-contracts",
-    "doj-investigation"
-  ],
-  "actors": [
-    "Department of Justice",
-    "Company X",
-    "Official Name"
-  ],
-  "sources": [
-    {
-      "url": "https://www.reuters.com/article/investigation-2025",
-      "title": "DOJ Announces Investigation into No-Bid Contract",
-      "publisher": "Reuters",
-      "date": "2025-01-15",
-      "tier": 1
-    },
-    {
-      "url": "https://www.npr.org/investigation-details",
-      "title": "Details of Federal Contract Investigation",
-      "publisher": "NPR",
-      "date": "2025-01-15",
-      "tier": 1
-    }
-  ],
-  "related_events": [
-    "2025-01-01--contract-award"
-  ]
-}
-```
-
-## Markdown Format
+## Markdown Format Examples
 
 ### Minimal Example
 
@@ -220,7 +161,7 @@ Use the research CLI to validate events before committing:
 
 ```bash
 # Validate JSON event
-python3 research_cli.py validate-event --file event.json
+python3 research_cli.py validate-event --file event.md
 
 # Validate Markdown event
 python3 research_cli.py validate-event --file event.md
@@ -233,12 +174,12 @@ python3 research_cli.py validate-event --file event.md
 Use the conversion script:
 
 ```bash
-python3 timeline/scripts/convert_to_markdown.py --input event.json --output event.md
+# No longer needed - all events are now in markdown format
 ```
 
 Or programmatically:
 ```bash
-python3 timeline/scripts/convert_to_markdown.py --input data/events/2025-01-15--event.json
+# All events are stored in markdown format with .md extension
 ```
 
 This will create `2025-01-15--event.md` with the same data.
@@ -281,7 +222,7 @@ Some people got in trouble for doing bad things with government money.
 
 ### Choosing Tags
 
-- Use **existing tags** when possible (check `timeline/data/api/tags.json`)
+- Use **existing tags** when possible (check existing events or the tag index)
 - Create **new tags** only for genuinely new topics
 - Prefer **specific tags** over generic ones
 - Use **3-5 tags** per event (not too many)
@@ -321,7 +262,7 @@ data/events/
 
 **Naming conventions:**
 - File name **must match** the event ID (plus file extension)
-- Use `.json` or `.md` extension
+- Use `.md` extension for markdown files
 - One event per file
 
 ## Troubleshooting

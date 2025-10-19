@@ -1,0 +1,51 @@
+---
+id: 2009-01-01--thomas-grandnephew-tuition-payments-begin
+date: '2009-01-01'
+importance: 8
+title: Harlan Crow Begins Paying Private School Tuition for Thomas's Grandnephew
+location: Georgia and Virginia, United States
+actors:
+- Clarence Thomas
+- Harlan Crow
+- Mark Martin
+- Hidden Lake Academy
+- Randolph-Macon Academy
+tags:
+- judicial-capture
+- supreme-court
+- undisclosed-gifts
+- family-benefits
+- education-payments
+- ethics-violation
+capture_lanes:
+- Financial Corruption & Kleptocracy
+- Judicial Capture & Corruption
+sources:
+- title: Clarence Thomas Had a Child in Private School. Harlan Crow Paid the Tuition
+  url: https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus
+  outlet: ProPublica
+  date: '2023-05-04'
+  archive_url: https://web.archive.org/web/20230504000000/https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus
+- title: GOP donor Harlan Crow paid tuition for Clarence Thomas' grandnephew
+  url: https://www.cbsnews.com/news/clarence-thomas-harlan-crow-grand-nephew-mark-martin-gifts-tuition/
+  outlet: CBS News
+  date: '2023-05-04'
+  archive_url: https://web.archive.org/web/20230504000000/https://www.cbsnews.com/news/clarence-thomas-harlan-crow-grand-nephew-mark-martin-gifts-tuition/
+- title: Crow tuition payment for Thomas relative adds to outcry over court ethics
+  url: https://www.washingtonpost.com/politics/2023/05/04/clarence-thomas-tuition-harlan-crow/
+  outlet: The Washington Post
+  date: '2023-05-04'
+  archive_url: https://web.archive.org/web/20230504000000/https://www.washingtonpost.com/politics/2023/05/04/clarence-thomas-tuition-harlan-crow/
+- title: ProPublica - GOP megadonor paid private school tuition for grandnephew of
+    Justice Clarence Thomas
+  url: https://www.cnn.com/2023/05/04/politics/clarence-thomas-harlan-crow-tuition
+  outlet: CNN
+  date: '2023-05-04'
+  archive_url: https://web.archive.org/web/20230504000000/https://www.cnn.com/2023/05/04/politics/clarence-thomas-harlan-crow-tuition
+notes: Bank records show Crow Holdings LLC wired monthly payments marked "Mark Martin".
+  Tuition at Hidden Lake Academy was $73,000/year. Payments covered two years at two
+  schools.
+status: confirmed
+---
+
+Crow starts paying roughly $6,200 monthly tuition for Mark Martin, whom Thomas was raising as a son, at elite boarding schools totaling approximately $100,000 in undisclosed gifts

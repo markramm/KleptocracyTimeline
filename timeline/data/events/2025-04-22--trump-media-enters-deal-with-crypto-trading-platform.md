@@ -1,0 +1,55 @@
+---
+id: 2025-04-22--trump-media-enters-deal-with-crypto-trading-platform
+date: '2025-04-22'
+title: Trump Media Finalizes Crypto ETF Deal with Crypto.com and Yorkville Digital
+description: TMTG expanded into financial services by partnering with Crypto.com to
+  launch ETFs, demonstrating a strategic move to diversify revenue streams and leverage
+  presidential brand recognition in the financial technology sector.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Devin Nunes
+- Kris Marszalek
+- Trump Media & Technology Group
+- Crypto.com
+tags:
+- crypto
+- media-control
+- government-contracts
+- etf
+- digital-assets
+capture_type: monetizing_position
+sources:
+- date: '2025-04-22'
+  outlet: GlobeNewswire
+  title: Trump Media, Crypto.com, and Yorkville America Digital Finalize Agreement
+    for ETF Launch
+  url: https://www.globenewswire.com/news-release/2025/04/22/3065411/0/en/Trump-Media-Crypto-com-and-Yorkville-America-Digital-Finalize-Agreement-for-ETF-Launch.html
+- date: '2025-04-22'
+  outlet: Bloomberg
+  title: Trump Media Partners With Crypto.com on Crypto Treasury
+  url: https://www.bloomberg.com/news/articles/2025-08-26/trump-media-partners-with-crypto-com-on-crypto-treasury-company
+- date: '2025-03-24'
+  outlet: CNBC
+  title: Trump Media shares jump on announcement of ETF deal with Crypto.com
+  url: https://www.cnbc.com/2025/03/24/trump-media-shares-jump-on-announcement-of-etf-deal-with-cryptocom.html
+- date: '2025-07-08'
+  outlet: US News
+  title: Trump Media Files for 'Crypto Blue Chip ETF' With SEC
+  url: https://www.usnews.com/news/business/articles/2025-07-08/trump-media-files-for-crypto-blue-chip-etf-with-sec
+connections:
+- Ongoing crypto and financial services expansion of Trump Media
+patterns:
+- kleptocratic-capture
+- media-monetization
+notes: Event from comprehensive kleptocracy timeline tracking. Strategic expansion
+  into financial services and digital assets.
+capture_lanes:
+- Media Capture & Control
+- Financial Capture
+- Executive Power Expansion
+---
+
+Trump Media & Technology Group (TMTG) signed a binding agreement with Crypto.com and Yorkville America Digital to launch a series of exchange-traded funds (ETFs) focusing on digital assets and 'Made in America' industries. The deal involves Crypto.com providing broker-dealer services and global distribution for the new ETF product line, with an initial commitment of up to $250 million in assets.

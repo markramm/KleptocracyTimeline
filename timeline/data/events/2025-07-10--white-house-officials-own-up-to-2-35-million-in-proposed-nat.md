@@ -1,0 +1,53 @@
+---
+id: 2025-07-10--white-house-officials-own-up-to-2-35-million-in-proposed-nat
+date: '2025-07-10'
+title: White House Officials Own Cryptocurrency Assets in Proposed National Crypto
+  Reserve
+description: Comprehensive investigation reveals potential conflicts of interest in
+  the Trump administration's proposed national cryptocurrency reserve. 19 White House
+  officials own crypto assets totaling between $875,000 and $2.35 million, with holdings
+  in Bitcoin, Ethereum, Solana, XRP, and Cardano. The strategic reserve plan, established
+  via executive order in March 2025, could directly benefit these officials by potentially
+  increasing the value of their holdings.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Ian Kelley
+- White House Staff
+tags:
+- crypto
+- government-contracts
+- conflict-of-interest
+- financial-disclosure
+capture_type: monetizing_position
+sources:
+- outlet: Citizens for Ethics (CREW)
+  title: White House Officials' Cryptocurrency Holdings Analysis
+  url: https://www.citizensforethics.org/reports-investigations/crew-investigations/white-house-officials-own-up-to-2-35-million-in-proposed-national-crypto-reserve-assets/
+  date: '2025-07-10'
+- outlet: White House
+  title: Strategic Bitcoin Reserve and U.S. Digital Asset Stockpile Fact Sheet
+  url: https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-establishes-the-strategic-bitcoin-reserve-and-u-s-digital-asset-stockpile/
+  date: '2025-03-15'
+- outlet: NPR
+  title: 4 Things to Know About Trump's Plan for a 'Crypto Strategic Reserve'
+  url: https://www.npr.org/2025/03/04/g-s1-51748/trump-crypto-reserve-bitcoin-stockpile-ether
+  date: '2025-03-04'
+connections:
+- Strategic Bitcoin Reserve Establishment
+- Cryptocurrency Policy Development
+patterns:
+- kleptocratic-capture
+- financial-conflict-of-interest
+capture_lanes:
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+- Financial Manipulation
+notes: Comprehensive analysis of potential conflicts of interest in cryptocurrency
+  asset holdings by White House officials
+---
+
+A comprehensive analysis by Citizens for Responsibility and Ethics in Washington (CREW) revealed that 19 White House officials own between $875,000 and $2.35 million in cryptocurrency assets, directly aligning with President Trump's proposed national crypto reserve strategy. The officials hold assets including Bitcoin, Ethereum, Solana, XRP, and Cardano, potentially benefiting from the strategic reserve's market impact.

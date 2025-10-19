@@ -1,0 +1,99 @@
+---
+id: 2025-01-17--trump-launches-crypto-memecoin-days-before-inaugur
+date: '2025-01-17'
+title: Trump launches crypto memecoin days before inauguration
+importance: 9
+tags:
+- trump-memecoin
+- corruption
+- trump-coin
+- financial-conflicts
+- market-manipulation
+- crypto
+- pay-for-access
+- kleptocracy
+- conflict-of-interest
+- financial-corruption
+- presidential-enrichment
+- monetization
+- memecoin
+- melania-trump
+- pump-and-dump
+- ethics-violation
+actors:
+- Donald Trump
+- Melania Trump
+sources:
+- title: 100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest
+  url: https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest
+  outlet: House Oversight Democrats
+  date: '2025-05-02'
+- title: What to know about Trump cryptocurrency meme coins
+  url: https://www.npr.org/2025/01/20/nx-s1-5268759/donald-trump-melania-cryptocurrency-meme-coins
+  outlet: NPR
+  date: '2025-01-20'
+- title: 'Meme coins: Donald and Melania Trump launch cryptocurrency ahead of inauguration,
+    raising serious ethics concerns'
+  url: https://www.cnn.com/2025/01/20/tech/meme-coins-donald-melania-trump-intl-hnk
+  outlet: CNN
+  date: '2025-01-20'
+- title: Why Trump's Meme Coins Have Alarmed Both Crypto Insiders And Legal Experts
+  url: https://time.com/7209169/trump-meme-coins-crypto/
+  outlet: TIME
+  date: '2025-01-20'
+- title: Donald and Melania Trump debuted meme coins, TRUMP and Melania
+  url: https://www.cbsnews.com/news/donald-trump-melania-meme-coin-cryptocurrency-what-to-know/
+  outlet: CBS News
+  date: '2025-01-20'
+- title: Donald Trump and Melania Memecoins Criticized by Crypto Executives
+  url: https://www.bloomberg.com/news/articles/2025-01-20/crypto-balks-at-trump-memecoin-launches-on-cusp-of-inauguration
+  outlet: Bloomberg
+  date: '2025-01-20'
+- title: President-elect Donald Trump's meme coin earns billions overnight
+  url: https://www.npr.org/2025/01/19/nx-s1-5266945/president-elect-donald-trumps-meme-coin-earns-billions-overnight
+  outlet: NPR
+  date: '2025-01-19'
+  verified: true
+  verified_date: '2025-08-17'
+  archive_url: https://web.archive.org/web/20250119000000*/https://www.npr.org/2025/01/19/nx-s1-5266945/president-elect-donald-trumps-meme-coin-earns-billions-overnight
+- title: Trump launches meme coin, $TRUMP rises to $72 billion market cap overnight
+  url: https://www.axios.com/2025/01/18/trump-meme-coin-25-billion
+  outlet: Axios
+  date: '2025-01-18'
+  verified: true
+- title: Trump's crypto-frenzied inauguration weekend makes first family billions
+    richer
+  url: https://www.cnbc.com/2025/01/20/trump-crypto-fueled-inauguration-makes-family-billions-of-dollars.html
+  outlet: CNBC
+  date: '2025-01-20'
+  verified: true
+- title: Trump Memecoin Information Gaps in Crypto Finance
+  url: https://www.bloomberg.com/graphics/2025-trump-token-memecoin-crypto-finance
+  outlet: Bloomberg
+  date: '2025-01-20'
+  verified: true
+  key_facts_confirmed:
+  - 9 PM January 17 TruthSocial announcement
+  - 1 billion total coins, 800M Trump-owned, 200M public
+  - $27 billion market cap within 24 hours
+  - $350M profits for Trump entities (FT analysis)
+  - $2B losses for 813,294 investors (NYT analysis)
+  - Melania launched $MELANIA on Jan 19
+- title: Warren Reads 100 Acts of Trump Corruption into Congressional Record
+  url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
+  outlet: Senator Warren's Office
+  date: '2025-04-29'
+- title: Trump launches official memecoin, sparking ethics concerns
+  url: https://www.reuters.com/technology/trump-launches-official-memecoin-2025-01-17/
+  outlet: Reuters
+  date: '2025-01-17'
+status: confirmed
+_merge_note: 'Enhanced with information from duplicate event: 2025-01-17--trump-launches-trump-memecoin-before-inauguration'
+_merge_timestamp: '2025-09-05T23:46:55.904583'
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+Trump launched a cryptocurrency memecoin right before his inauguration to make millions of dollars, then increased the value of those coins by signing executive orders making crypto a priority. He also launched a meme coin for Melania Trump.

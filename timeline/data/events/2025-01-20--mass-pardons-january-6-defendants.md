@@ -1,0 +1,42 @@
+---
+id: 2025-01-20--mass-pardons-january-6-defendants
+date: '2025-01-20'
+importance: 6
+title: Trump Issues Mass Pardons to 1,500 January 6 Defendants Including Violent Offenders
+location: Washington DC
+actors:
+- Donald Trump
+- Enrique Tarrio
+- Joe Biggs
+- Proud Boys
+- January 6 defendants
+tags:
+- january-6
+- presidential-pardons
+- political-violence
+- normalization
+- proud-boys
+- impunity
+- kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
+status: confirmed
+sources:
+- title: Trump pardons all January 6 defendants in Day 1 executive action
+  url: https://www.npr.org/2025/01/20/trump-pardons-january-6-defendants
+  outlet: NPR
+  date: '2025-01-20'
+- title: Pardoned Proud Boys leaders return to activism, hailed as heroes at CPAC
+  url: https://www.cbsnews.com/news/proud-boys-cpac-pardons-trump/
+  outlet: CBS News
+  date: '2025-02-24'
+- title: Multiple pardoned Jan 6 defendants re-arrested for new crimes
+  url: https://www.washingtonpost.com/national-security/2025/02/15/january-6-pardons-rearrested/
+  outlet: The Washington Post
+  date: '2025-02-15'
+notes: Represents unprecedented normalization of political violence by highest office.
+  Immediate re-offending by pardoned defendants proved critics' fears about consequences
+  of removing accountability for attacking democratic institutions.
+---
+
+President Trump pardoned approximately 1,500 January 6 defendants on his first day in office, including violent offenders who assaulted police officers. Pardoned Proud Boys leaders like Enrique Tarrio returned to public activism, with Joe Biggs describing their CPAC reception as "we're like Gods." Multiple pardoned defendants re-arrested within weeks for new crimes including domestic violence and burglary. Others filed $100 million lawsuits against DOJ claiming wrongful prosecution. Mass pardons sent unprecedented signal that political violence carries no consequences if aligned with right cause, marking watershed moment in normalization of violence.

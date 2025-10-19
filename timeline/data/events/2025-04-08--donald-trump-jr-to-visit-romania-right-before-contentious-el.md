@@ -1,0 +1,55 @@
+---
+actors:
+- Donald Trump Jr.
+- Trump Administration
+- J.D. Vance
+- Elon Musk
+capture_lanes:
+- Electoral Manipulation
+- Executive Power Expansion
+- International Business Influence
+capture_type: monetizing_position
+connections:
+- Three Seas Initiative
+- Counter-China Strategy
+date: '2025-04-28'
+description: Donald Trump Jr. visited Romania as part of the 'Trump Business Vision
+  2025' tour, arriving just before the country's rescheduled presidential election.
+  The visit was strategically timed to counter Chinese influence in Eastern Europe
+  and promote US business interests.
+id: 2025-04-08--donald-trump-jr-to-visit-romania-right-before-contentious-el
+importance: 8
+location:
+- Romania
+- Eastern Europe
+notes: Part of a broader Eastern European tour aimed at expanding Trump business interests
+  and political influence
+patterns:
+- kleptocratic-capture
+- international-influence-networks
+sources:
+- date: '2025-04-08'
+  outlet: POLITICO
+  title: Donald Trump Jr. to visit Romania right before contentious election
+  url: https://www.politico.eu/article/us-donald-trump-jr-visit-romania-right-before-election/
+- date: '2025-04-28'
+  outlet: Visegrad Insight
+  title: Trump Jr. Sails To Eastern Europe to Woo American Deals over Chinese Influence
+  url: https://visegradinsight.eu/trump-jr-sails-to-eastern-europe-to-woo-american-deals-over-chinese-influence/
+  retrieved: '2025-10-06'
+- date: '2025-04-28'
+  outlet: Romania Insider
+  title: Donald Trump Jr. reportedly coming to Romania a week before first round of
+    presidential elections
+  url: https://www.romania-insider.com/donald-trump-jr-reportedly-coming-romania-2025
+  retrieved: '2025-10-06'
+status: confirmed
+tags:
+- kleptocracy
+- trump-administration
+- international-business
+- election-influence
+title: Donald Trump Jr. Visits Romania Ahead of Contentious Presidential Election
+---
+
+Donald Trump Jr. visited Romania on April 28, 2025, as part of the 'Trump Business Vision 2025' tour, arriving just before the country's rescheduled presidential election. The visit was strategically timed to counter Chinese influence in Eastern Europe, promote US business interests, and support far-right political narratives.

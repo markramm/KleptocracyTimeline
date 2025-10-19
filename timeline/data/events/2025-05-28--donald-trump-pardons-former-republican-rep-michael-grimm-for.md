@@ -1,0 +1,51 @@
+---
+id: 2025-05-28--donald-trump-pardons-former-republican-rep-michael-grimm-for
+date: '2025-05-28'
+title: Trump Pardons Ex-Rep. Michael Grimm, Highlighting Political Clemency Campaign
+description: Trump issued a full pardon to Michael Grimm, a former New York congressman
+  convicted of tax fraud and related charges. Grimm had previously served seven months
+  in prison and a month of house arrest after pleading guilty in 2014 to aiding and
+  assisting the preparation of a false tax return. His pardon comes amid a broader
+  presidential clemency campaign that includes individuals with felony convictions
+  analogous to Trump's own legal challenges.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Michael Grimm
+- Trump Administration
+tags:
+- corruption
+- pardon
+- political-allies
+- executive-clemency
+capture_type: monetizing_position
+sources:
+- title: Trump pardons former GOP Rep. Michael Grimm amid clemency spree
+  url: https://thehill.com/homenews/administration/5322533-trump-pardons-former-gop-rep-michael-grimm-amid-clemency-spree/
+  outlet: The Hill
+  date: '2025-05-28'
+- title: Trump pardons Michael Grimm, former NY congressman who pleaded guilty to
+    tax evasion
+  url: https://www.cnn.com/2025/05/28/politics/trump-pardon-grimm-ny-congress
+  outlet: CNN
+  date: '2025-05-28'
+- title: Trump pardons former NY Rep. Michael Grimm after tax fraud conviction
+  url: https://www.washingtonpost.com/politics/2025/05/28/trump-pardon-michael-grimm-new-york-fraud/626ebe8e-3c09-11f0-912d-d5f4792db3e4_story.html
+  outlet: The Washington Post
+  date: '2025-05-28'
+connections:
+- Presidential clemency campaign
+- Political ally legal support
+patterns:
+- kleptocratic-capture
+- executive-power-manipulation
+notes: Part of Trump's broader strategy of pardoning political allies and individuals
+  with felony convictions similar to his own legal challenges.
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+---
+
+President Donald Trump pardoned former Republican Representative Michael Grimm, who served seven months in prison for tax fraud and resigned from Congress in 2015. The pardon was part of a broader clemency effort targeting individuals with felony convictions similar to legal challenges faced by Trump himself.

@@ -1,0 +1,49 @@
+---
+id: 2025-03-03--doge-wants-to-charge-one-federal-agency-millions-of-dollars-
+date: '2025-03-03'
+title: DOGE Demands $4 Million from OPM for Workforce Reduction Planning
+description: DOGE demanded $4 million from the Office of Personnel Management to fund
+  20 full-time positions tasked with workforce reduction planning and IT modernization
+  across federal agencies.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Elon Musk
+- Donald Trump
+- Trump Administration
+- Office of Personnel Management
+tags:
+- government-contracts
+- workforce-reduction
+- regulatory-capture
+- federal-employment
+capture_type: institutional-capture
+sources:
+- title: DOGE wants to charge one federal agency millions of dollars for its work
+    to make government more efficient
+  url: https://www.cnn.com/2025/03/03/politics/doge-wants-to-charge-opm-millions/index.html
+  outlet: CNN
+  date: '2025-03-03'
+- title: Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done
+    That, and More
+  url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
+  outlet: Government Executive
+  date: '2025-04-01'
+- title: US Federal HR Agency Leading DOGE Job Cuts Cancels Sole-Source Workday Award
+  url: https://www.usnews.com/news/top-news/articles/2025-05-09/us-federal-hr-agency-leading-doge-job-cuts-cancels-sole-source-workday-award
+  outlet: U.S. News & World Report
+  date: '2025-05-09'
+connections: []
+patterns:
+- kleptocratic-capture
+- institutional-disruption
+notes: Event documents DOGE's strategy to rapidly reduce federal workforce through
+  OPM contract and Schedule Policy/Career process.
+capture_lanes:
+- Governmental Restructuring
+- Labor Policy Capture
+- Financial Capture
+---
+
+The Department of Government Efficiency (DOGE) demanded $4 million from the Office of Personnel Management (OPM) to fund 20 full-time positions tasked with implementing widespread federal workforce reductions. OPM was required to submit Reduction in Force (RIF) plans targeting approximately 70,000 employee positions by March 13, 2025, as part of a broader effort to restructure federal employment through the Schedule Policy/Career process.

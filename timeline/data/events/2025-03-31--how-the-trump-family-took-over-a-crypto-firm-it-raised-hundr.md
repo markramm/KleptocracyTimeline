@@ -1,0 +1,52 @@
+---
+id: 2025-03-31--how-the-trump-family-took-over-a-crypto-firm-it-raised-hundr
+date: '2025-03-31'
+title: Trump Family Takes Control of World Liberty Financial Crypto Venture
+description: The Trump family quietly seized control of crypto firm World Liberty
+  Financial as it raised $550 million through sales of $WLFI tokens, with significant
+  involvement from Eric Trump and international investors like Justin Sun and MGX.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Eric Trump
+- Zach Witkoff
+- Justin Sun
+organizations:
+- World Liberty Financial
+- MGX
+- Binance
+tags:
+- crypto
+- government-contracts
+- foreign-investment
+- financial-capture
+- offshore-investment
+capture_type: monetizing_position
+sources:
+- title: Trump-backed World Liberty Financial raises $550 million in WLFI token sales
+  url: https://fortune.com/crypto/2025/03/18/trump-backed-world-liberty-financial-raises-550-million-token-sales/
+  outlet: Fortune Crypto
+  date: '2025-03-18'
+- title: Trump family crypto venture tapped as part of $2B Emirati-backed investment
+    deal
+  url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
+  outlet: ABC News
+  date: '2025-08-08'
+- title: How Trump's latest crypto launch enriches his family
+  url: https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial
+  outlet: NPR
+  date: '2025-09-03'
+connections: []
+patterns:
+- kleptocratic-capture
+- family-enterprise-expansion
+notes: Crypto project demonstrates potential conflicts of interest and unprecedented
+  monetization of political position
+capture_lanes:
+- Financial Capture
+- Foreign Investment Influence
+---
+
+The Trump family, in partnership with the Witkoffs, quietly seized control of World Liberty Financial after raising $550 million through sales of WLFI tokens. The venture includes a USD1 stablecoin and has attracted significant foreign investment, including a potential $2 billion deal with an Abu Dhabi state-backed investment firm.

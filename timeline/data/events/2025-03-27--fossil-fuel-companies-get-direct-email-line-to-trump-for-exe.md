@@ -1,0 +1,52 @@
+---
+id: 2025-03-27--fossil-fuel-companies-get-direct-email-line-to-trump-for-exe
+date: '2025-03-27'
+title: Trump EPA Creates Email Portal for Clean Air Act Exemption Requests
+description: The EPA created an email portal allowing fossil fuel companies to request
+  Presidential Exemptions from Clean Air Act regulations. This mechanism enables industrial
+  facilities to apply for two-year waivers from pollution control standards covering
+  nearly 200 toxic pollutants, including mercury, arsenic, benzene, and formaldehyde.
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- Environmental Protection Agency (EPA)
+tags:
+- regulatory-capture
+- environmental-policy
+- executive-power
+capture_type: monetizing_position
+sources:
+- title: Fossil fuel companies get direct email line to Trump for exemption requests
+  url: https://www.theguardian.com/us-news/2025/mar/27/epa-trump-email-fossil-fuel-exemptions
+  outlet: The Guardian
+  date: '2025-03-27'
+- title: Trump administration sets up portal for polluters to request exemptions to
+    clean air rules
+  url: https://thehill.com/policy/energy-environment/5217667-epa-polluters-exemptions-clean-air/
+  outlet: The Hill
+  date: '2025-03-27'
+- title: Clean Air Act Section 112 Presidential Exemption Information
+  url: https://www.epa.gov/stationary-sources-air-pollution/clean-air-act-section-112-presidential-exemption-information
+  outlet: EPA.gov
+  date: '2025-03-27'
+- title: Trump and his EPA Sued for Creating Email Shortcut Around Clean Air Protections
+  url: https://earthjustice.org/press/2025/trump-and-his-epa-sued-for-creating-email-shortcut-around-clean-air-protections
+  outlet: Earthjustice
+  date: '2025-04-15'
+connections:
+- Clean Air Act regulatory exemptions
+- Fossil fuel industry influence
+patterns:
+- kleptocratic-capture
+- regulatory-rollback
+notes: Event from comprehensive kleptocracy timeline tracking, showing significant
+  regulatory capture via email exemption portal.
+capture_lanes:
+- Regulatory Capture
+- Executive Power Expansion
+---
+
+Trump's EPA established an email portal allowing fossil fuel companies to request Presidential Exemptions from Clean Air Act regulations, enabling up to two-year compliance waivers for pollution control standards on nearly 200 toxic pollutants.

@@ -1,0 +1,43 @@
+---
+id: 2025-01-25--nepotism-20-families
+date: '2025-01-25'
+importance: 8
+title: At least 20 families have multiple members in federal posts
+location: Washington, DC
+actors:
+- Charles Kushner
+- Kimberly Guilfoyle
+- Massad Boulos
+- Trump family
+tags:
+- nepotism
+- family-appointments
+- anti-nepotism-statute
+- corruption
+- ethics-violation
+capture_lanes:
+- Financial Corruption & Kleptocracy
+sources:
+- title: Trump family nepotism appointments
+  url: https://www.cbsnews.com/news/trump-nepotism-appointments
+  outlet: CBS News
+  date: '2025-01-25'
+- title: Make Nepotism Great Again 20 Families Got Jobs in Trump Administration
+  url: https://www.thedailybeast.com/meet-the-trump-officials-making-government-a-family-business/
+  outlet: The Daily Beast
+  date: '2025-01-20'
+- title: Trump names two of his in-laws, one Jewish and one Arab, to key diplomatic
+    roles
+  url: https://forward.com/fast-forward/678664/trump-charles-kushner-massad-boulos/
+  outlet: The Forward
+  date: '2024-12-01'
+- title: Which of his family members is Trump tapping for key administration roles?
+  url: https://www.yahoo.com/news/family-members-trump-tapping-key-202928015.html
+  outlet: Yahoo News
+  date: '2025-01-15'
+notes: Creative legal interpretations distinguish between departments and White House
+  positions
+status: confirmed
+---
+
+Trump appoints Charles Kushner (Jared's father), Kimberly Guilfoyle (Donald Jr.'s fiancée), and Massad Boulos (Tiffany's father-in-law) to positions, with at least 20 families having multiple members in federal posts circumventing Anti-Nepotism Statute.

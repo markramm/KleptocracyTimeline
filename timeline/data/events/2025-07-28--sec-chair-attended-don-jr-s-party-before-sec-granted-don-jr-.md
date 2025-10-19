@@ -1,0 +1,52 @@
+---
+id: 2025-07-28--sec-chair-attended-don-jr-s-party-before-sec-granted-don-jr-
+date: '2025-07-28'
+title: SEC chair attended Don Jr.'s party before SEC granted Don Jr.-backed gun company
+  approval to go public
+description: The SEC approved a Donald Trump Jr.-backed company–GrabAGun–to trade
+  publicly after chairman Paul Atkins attended the launch party for Trump's Georgetown
+  MAGA private member's club
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump Jr.
+- Paul Atkins
+- Trump Administration
+- Securities and Exchange Commission (SEC)
+tags:
+- regulatory-capture
+- sec
+- administrative-state
+- trump-administration
+capture_type: regulatory_capture
+capture_lanes:
+- Regulatory Capture
+- Administrative State Capture
+patterns:
+- kleptocratic-capture
+status: confirmed
+sources:
+- outlet: Harvard Corporate Governance
+  title: The Changing Tides of the SEC Under the Second Trump Administration
+  url: https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/
+  date: '2025-03-03'
+- outlet: NPR
+  title: Trump claims expanded power over independent agencies
+  url: https://www.npr.org/2025/02/19/nx-s1-5302481/trump-independent-agencies
+  date: '2025-02-19'
+- outlet: Sidley Austin LLP
+  title: New Executive Orders Assert Increased Control and Oversight Over SEC and
+    Other Independent Agencies and Promote Deregulation
+  url: https://www.sidley.com/en/insights/newsupdates/2025/02/new-executive-orders-assert-increased-control-and-oversight-over-sec-and-other-independent-agencies
+  date: '2025-02-28'
+- outlet: Citizens for Ethics
+  title: SEC chair attended Don Jr.'s party before SEC granted Don Jr.-backed gun
+    company approval to go public
+  url: https://www.citizensforethics.org/reports-investigations/crew-investigations/sec-chair-attended-don-jr-s-party-before-sec-granted-don-jr-backed-gun-company-approval-to-go-public/
+  date: '2025-07-28'
+notes: Event demonstrates potential conflict of interest and regulatory capture mechanism
+  in the Trump administration's second term
+connections: []
+---
+
+Paul Atkins, serving as SEC chair in the second Trump administration, attended the launch party for Trump's Georgetown MAGA private member's club before approving a Donald Trump Jr.-backed company, GrabAGun, to trade publicly, raising concerns about potential regulatory capture.

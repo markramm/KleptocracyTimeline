@@ -1,0 +1,52 @@
+---
+date: '2025-04-09'
+importance: 5
+title: USCIS to screen immigrants' social media for antisemitic activity
+tags:
+- immigration
+- screening
+- social-media
+- first-amendment
+- viewpoint-discrimination
+- antisemitism
+- free-speech
+capture_lanes:
+- Constitutional & Democratic Breakdown
+- Immigration & Border Militarization
+- Information & Media Control
+citations:
+- https://www.uscis.gov/newsroom/news-releases/dhs-to-begin-screening-aliens-social-media-activity-for-antisemitism
+- https://www.washingtonpost.com/immigration/2025/04/09/antisemitic-social-media-immigrants
+- https://www.npr.org/2025/04/09/g-s1-59149/immigrants-social-media-antisemitism-dhs
+- https://news.bloomberglaw.com/daily-labor-report/uscis-to-screen-immigrants-social-media-for-antisemitism
+id: 2025-04-09--uscis-social-media-policy
+location: Washington, DC
+actors:
+- U.S. Citizenship and Immigration Services (USCIS)
+- Department of Homeland Security
+- Trump Administration
+- Civil liberties groups
+notes: This policy expands ideological screening of immigrants based on protected
+  political speech. Critics note the vague definition of antisemitism could encompass
+  legitimate criticism of Israeli government policies.
+status: confirmed
+sources:
+- title: DHS to Begin Screening Aliens' Social Media Activity for Antisemitism
+  url: https://www.uscis.gov/newsroom/news-releases/dhs-to-begin-screening-aliens-social-media-activity-for-antisemitism
+  outlet: USCIS
+  date: '2025-04-09'
+- title: USCIS to screen immigrants' social media for antisemitic activity
+  url: https://www.washingtonpost.com/immigration/2025/04/09/antisemitic-social-media-immigrants
+  outlet: Washington Post
+  date: '2025-04-09'
+- title: U.S. says it is now monitoring immigrants' social media for antisemitism
+  url: https://www.npr.org/2025/04/09/g-s1-59149/immigrants-social-media-antisemitism-dhs
+  outlet: NPR
+  date: '2025-04-09'
+- title: USCIS to Screen Immigrants' Social Media for 'Antisemitism'
+  url: https://news.bloomberglaw.com/daily-labor-report/uscis-to-screen-immigrants-social-media-for-antisemitism
+  outlet: Bloomberg Law
+  date: '2025-04-09'
+---
+
+U.S. Citizenship and Immigration Services announced on April 9, 2025, that it would screen immigrants' social media activity for antisemitic content when adjudicating immigration benefits. The policy allows denial of visas, green cards, and citizenship based on social media posts deemed antisemitic, raising First Amendment concerns and fears of viewpoint discrimination. Civil liberties groups warned this could be used to suppress criticism of Israeli policies.

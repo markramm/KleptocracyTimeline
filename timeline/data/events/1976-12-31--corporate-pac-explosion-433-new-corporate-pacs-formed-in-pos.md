@@ -1,0 +1,43 @@
+---
+date: '1976-12-31'
+title: 'Corporate PAC Explosion: 433 New Corporate PACs Formed in Post-Buckley Era'
+actors:
+- Corporate America
+- Business Roundtable
+- Chamber of Commerce
+- FEC
+sources:
+- title: The Rise of Corporate PACs
+  url: https://www.opensecrets.org/news/2010/09/corporate-pac-contributions/
+  outlet: Center for Responsive Politics
+- title: Federal Election Commission PAC Data
+  url: https://www.fec.gov/data/browse-data/?tab=raising
+  outlet: Federal Election Commission
+- title: 'Buckley v. Valeo: Campaign Finance Legal Resources'
+  url: https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/
+  outlet: Federal Election Commission
+  type: Legal Resource
+- title: Why Buckley v. Valeo Is Basically Right
+  url: https://www2.law.ucla.edu/Volokh/buckley.pdf
+  outlet: UCLA Law
+  type: Academic Paper
+- title: Buckley v. Valeo Global Legal Analysis
+  url: https://globalfreedomofexpression.columbia.edu/cases/buckley-v-valeo/
+  outlet: Columbia University Global Freedom of Expression
+  type: Academic Source
+tags:
+- corporate-pacs
+- campaign-finance
+- systematic-corruption
+- institutional-capture
+importance: 8
+status: confirmed
+connections: []
+contradictions: []
+verification_status: verified
+id: 1976-12-31--corporate-pac-explosion-433-new-corporate-pacs-formed-in-pos
+capture_lanes:
+- Electoral Manipulation
+---
+
+Following the Buckley v. Valeo decision, corporations rapidly established Political Action Committees to influence elections. The number of corporate PACs grew from 89 in 1974 to 1,206 by 1980 - a 1,254% increase. This represented a systematic corporate mobilization to capture political influence, transforming American electoral politics and laying groundwork for modern corporate capture of democratic institutions.

@@ -1,0 +1,40 @@
+---
+id: 1973-02-16--heritage-foundation-founded-with-coors-funding-1757454606
+date: '1973-02-16'
+title: Heritage Foundation Founded with Coors Funding
+importance: 9
+status: validated
+actors:
+- Joseph Coors
+- Paul Weyrich
+- Edwin Feulner
+- Heritage Foundation
+- Adolph Coors Foundation
+sources:
+- outlet: InfluenceWatch
+  title: Heritage Foundation Organizational Profile
+  url: https://www.influencewatch.org/non-profit/heritage-foundation/
+- outlet: Political Research Associates
+  title: 'Profile on the Right: The Heritage Foundation'
+  url: https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation
+- outlet: New World Encyclopedia
+  title: 'Heritage Foundation: Early History and Founding'
+  url: https://www.newworldencyclopedia.org/entry/Heritage_Foundation
+- outlet: MDPI Encyclopedia
+  title: Heritage Foundation Founding Details
+  url: https://encyclopedia.pub/entry/33259
+tags:
+- capture-cascade
+- blueprint
+- heritage-foundation
+- think-tanks
+- coors-funding
+- conservative-movement
+- policy-research
+priority_id: RP-20250109-capture-cascade-part1
+capture_lanes:
+- Systematic Corruption
+- Think Tank Infrastructure
+---
+
+The Heritage Foundation was established as a conservative policy research organization, with Joseph Coors of Coors Brewing Company providing critical initial funding of $250,000. Founded by Paul Weyrich, Edwin Feulner, and Joseph Coors, the think tank represented a new model of politically aggressive, ideologically-driven 'expert' organizations designed to influence policy and public opinion, directly inspired by the Powell Memorandum's strategic blueprint for corporate political engagement.

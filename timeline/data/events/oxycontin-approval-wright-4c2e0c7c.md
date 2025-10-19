@@ -1,0 +1,34 @@
+---
+id: oxycontin-approval-wright-4c2e0c7c
+title: FDA OxyContin Approval Followed by Regulator Curtis Wright Joining Purdue Pharma
+date: '1995-12-12'
+location: Rockville, MD, United States
+category: regulatory-capture
+importance: 9
+actors:
+- Curtis Wright IV
+- Purdue Pharma
+- Food and Drug Administration
+- Division of Anesthetic, Critical Care, and Addiction Drug Products
+sources:
+- outlet: FDA Drugs@FDA
+  url: https://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020553s002.pdf
+  title: OxyContin Original FDA New Drug Application
+  date: '1995-12-12'
+- outlet: Reuters
+  url: https://www.reuters.com/investigates/special-report/usa-opioids-fda/
+  title: 'Special Report: How the FDA Enabled the Opioid Crisis'
+  date: '2022-03-15'
+- outlet: U.S. Department of Justice
+  url: https://www.justice.gov/archives/opioid-epidemic/investigating-opioid-crisis
+  title: 'Investigating the Opioid Epidemic: Purdue Pharma and OxyContin Approval'
+  date: '2020-10-21'
+- outlet: Associated Press
+  url: https://apnews.com/article/purdue-pharma-oxycontin-opioid-crisis-health-8ce46dcd4a8b4af88e99c43bd0a4c273
+  title: 'The Role of FDA in the Opioid Crisis: A Detailed Investigation'
+  date: '2021-09-01'
+status: validated
+priority_id: claude-priority-regulatory-capture-pharma-fda
+---
+
+The FDA approved OxyContin despite inadequate safety evidence, in a process overseen by Dr. Curtis Wright IV, team leader of the Division of Anesthetic, Critical Care, and Addiction Drug Products. Wright met with Purdue Pharma representatives from January 31 to February 2, 1995, in a hotel room near FDA offices, allowing the company to help draft his medical officer review of OxyContin. The approval included controversial label language stating "Delayed absorption, as provided by OxyContin tablets, is believed to reduce the abuse liability of a drug" - scientifically unsubstantiated language that became a key marketing weapon. Less than two years after approving OxyContin, Wright left the FDA and joined Purdue Pharma on October 9, 1998, with a substantially higher salary as Executive Director in Risk Assessment Coordination for New Products. The two principal FDA reviewers who approved Purdue's oxycodone application both took positions at Purdue after leaving the agency. This approval process and subsequent revolving door movements contributed to America's opioid crisis, which has resulted in nearly 645,000 overdose deaths from 1999-2021.

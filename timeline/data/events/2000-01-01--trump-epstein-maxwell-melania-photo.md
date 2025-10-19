@@ -1,0 +1,43 @@
+---
+id: 2000-01-01--trump-epstein-maxwell-melania-photo
+date: '2000-01-01'
+importance: 6
+title: Trump, Epstein, Maxwell, and Melania at Mar-a-Lago Charity Event
+location: Mar-a-Lago, Florida
+actors:
+- Donald Trump
+- Jeffrey Epstein
+- Ghislaine Maxwell
+- Melania Trump
+tags:
+- epstein-network
+- trump-connections
+- maxwell-network
+- mar-a-lago
+capture_lanes:
+- Epstein Network & Kompromat
+status: confirmed
+sources:
+- title: Donald Trump and Jeffrey Epstein partied together. Then an oceanfront Palm
+    Beach mansion came between them.
+  outlet: The Washington Post
+  date: '2019-07-31'
+  url: https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html
+- title: 'Exclusive: Newly discovered photos and video shed fresh light on Trump''s
+    ties to Jeffrey Epstein'
+  outlet: CNN Politics
+  date: '2025-07-22'
+  url: https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage
+- title: How well did Trump and Epstein really know each other? A timeline
+  outlet: Al Jazeera
+  date: '2025-07-18'
+  url: https://www.aljazeera.com/news/2025/7/18/how-well-did-trump-and-epstein-really-know-each-other-a-timeline
+notes: 'The 2000 photo was taken at a charity fundraiser at Mar-a-Lago and shows the
+  social connections within Trump''s Palm Beach circle during the height of the Trump-Epstein
+  relationship. This was during the period when Trump famously told New York Magazine
+  in 2002: "I''ve known Jeff for fifteen years. Terrific guy. He''s a lot of fun to
+  be with." The photo documents the social proximity between all four individuals
+  before the Trump-Epstein relationship ended around 2004.'
+---
+
+A 2000 photo shows Donald Trump, Jeffrey Epstein, Ghislaine Maxwell, and Melania Trump together at a Mar-a-Lago charity fundraiser, documenting the social connections between all four individuals.

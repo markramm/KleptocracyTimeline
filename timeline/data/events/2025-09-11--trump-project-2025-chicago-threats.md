@@ -1,0 +1,34 @@
+---
+id: 2025-09-11--trump-project-2025-chicago-threats
+date: '2025-09-11'
+title: Trump Administration Threatens National Guard Deployment to Chicago
+importance: 8
+tags:
+- project-2025
+- immigration-enforcement
+- urban-policy
+- sanctuary-cities
+- national-guard
+- trump-administration
+actors:
+- Donald Trump
+- Heritage Foundation
+- Chicago City Government
+- Stephen Miller
+- Sarah Parshall Perry
+sources:
+- outlet: NPR
+  title: What is Project 2025? Trump's election strategy explained
+  url: https://www.npr.org/2024/11/05/g-s1-32720/what-is-project-2025-trump-election
+  date: '2024-11-05'
+- outlet: FactCheck.org
+  title: Trump, Project 2025 and Immigration
+  url: https://www.factcheck.org/2025/09/trump-project-2025-and-immigration/
+  date: '2025-09-11'
+- outlet: American Immigration Council
+  title: What Project 2025 Says About Immigration
+  url: https://www.americanimmigrationcouncil.org/blog/what-project-2025-says-about-immigration/
+  date: '2025-09-11'
+---
+
+The Trump administration escalated tensions with Democratic-led cities by threatening to deploy National Guard troops to Chicago, targeting the city over its sanctuary policies. This action aligns with Project 2025's aggressive immigration enforcement strategy, which includes mass deportations, using military forces for domestic law enforcement, and pressuring sanctuary cities through federal funding threats.

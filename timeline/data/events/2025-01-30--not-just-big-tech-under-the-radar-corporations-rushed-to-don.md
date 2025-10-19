@@ -1,0 +1,52 @@
+---
+id: 2025-01-30--not-just-big-tech-under-the-radar-corporations-rushed-to-don
+date: '2025-01-30'
+title: 'Not just Big Tech: under-the-radar corporations rushed to donate to Trump''s
+  inauguration'
+description: Major corporations, including CoreCivic, GEO Group, and Carrier, quietly
+  donated millions to Trump's inauguration while holding lucrative government contracts
+  or lobbying interests
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- CoreCivic
+- GEO Group
+- Carrier Global Corporation
+tags:
+- government-contracts
+- inauguration-donations
+- corporate-influence
+capture_type: monetizing_position
+sources:
+- title: Private Prison Firms Donated Millions to Trump's 2025 Inauguration
+  url: https://abcnews.go.com/US/private-prison-firm-corecivic-gave-500k-trumps-inauguration/story?id=118218707
+  outlet: ABC News
+  date: '2025-02-15'
+  description: Detailed breakdown of CoreCivic and GEO Group's inaugural donations
+- title: 'Trump Inauguration Donors: Corporate Influence and Government Contracts'
+  url: https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074
+  outlet: NBC News
+  date: '2025-02-10'
+  description: Overview of corporate donors and total inaugural fundraising
+- title: 'Brennan Center Report: Million-Dollar Donors Flood Trump''s Second Inauguration'
+  url: https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration
+  outlet: Brennan Center for Justice
+  date: '2025-02-20'
+  description: Analysis of corporate donation patterns and potential conflicts of
+    interest
+connections:
+- Corporate political donations
+- Government contract procurement
+patterns:
+- kleptocratic-capture
+- corporate-political-influence
+notes: Comprehensive documentation of corporate donations to 2025 presidential inauguration
+capture_lanes:
+- Systematic Corruption
+- Corporate Political Influence
+---
+
+Major corporations donated millions to Trump's 2025 inauguration, with private prison firms CoreCivic and GEO Group contributing $2.8 million, and Carrier Global Corporation donating $1 million, while holding significant government contracts

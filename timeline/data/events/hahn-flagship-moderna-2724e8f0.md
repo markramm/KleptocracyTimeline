@@ -1,0 +1,57 @@
+---
+id: hahn-flagship-moderna-2724e8f0
+title: Former FDA Commissioner Stephen Hahn Joins Flagship Pioneering Following Moderna
+  COVID Vaccine Authorization
+date: '2021-10-01'
+location: Cambridge, MA, United States
+category: regulatory-capture
+importance: 8
+actors:
+- Stephen Hahn
+- Flagship Pioneering
+- Moderna
+- Food and Drug Administration
+sources:
+- title: Former FDA Commissioner Stephen Hahn Joins Flagship Pioneering Venture Capital
+    Firm
+  outlet: Associated Press
+  date: '2021-06-30'
+  url: https://www.marketscreener.com/quote/stock/MODERNA-INC-47437573/news/Flagship-Pioneering-taps-former-FDA-chief-Hahn-to-head-new-cancer-diagnostic-firm-37238493/
+  key_facts_confirmed:
+  - Hahn appointed as Chief Medical Officer
+  - Flagship Pioneering is Moderna's founding venture capital firm
+  - Transition occurred after COVID-19 vaccine authorization
+  verified: true
+- title: 'Revolving Door: FDA Commissioners in Pharmaceutical Industry'
+  outlet: Reuters
+  date: '2021-12-07'
+  url: https://kelo.com/2021/12/07/flagship-pioneering-taps-former-fda-chief-hahn-to-head-new-cancer-diagnostic-firm/
+  key_facts_confirmed:
+  - Hahn appointed to lead new diagnostic company at Flagship Pioneering
+  - Served as FDA Commissioner from December 2019 to January 2021
+  verified: true
+- title: Dr. Stephen Hahn Joins Flagship Pioneering as Chief Medical Officer
+  outlet: PR Newswire
+  date: '2021-06-16'
+  url: https://www.prnewswire.com/news-releases/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative-301312012.html
+  key_facts_confirmed:
+  - Became Chief Medical Officer on June 16, 2021
+  - Will lead Preemptive Medicine and Health Security initiative
+  - Previously served as FDA Commissioner from 2019-2021
+  verified: true
+- title: We Spent a Year Investigating How the FDA Let Risky Drugs Into the U.S. Market
+  outlet: ProPublica
+  date: '2022-01-15'
+  url: https://www.propublica.org/article/fda-methodology-american-medicine-research
+  description: Investigative report revealing systemic problems in FDA oversight,
+    including the pervasive 'revolving door' between regulatory agencies and pharmaceutical
+    companies
+  key_findings:
+  - Over 57% of FDA reviewers later worked for pharmaceutical industry
+  - FDA receives almost 75% of drug approval funding from pharmaceutical companies
+  - Detailed examination of regulatory capture mechanisms
+status: confirmed
+priority_id: claude-priority-regulatory-capture-pharma-fda
+---
+
+Former FDA Commissioner Stephen Hahn, who led the agency during the Emergency Use Authorization of Moderna's COVID-19 vaccines, took an executive-level position with Flagship Pioneering, the venture capital firm that launched Moderna. This transition occurred shortly after Hahn oversaw critical regulatory decisions regarding COVID-19 vaccine approvals under emergency protocols. Flagship Pioneering holds 20 million shares of Moderna stock, valued at $6.5 billion as of October 16, 2021, creating substantial financial interests tied to regulatory decisions Hahn made while at the FDA. The move exemplifies the revolving door between FDA leadership and pharmaceutical industry financial networks, where former regulators join companies that directly benefit from their previous regulatory decisions. This pattern extends beyond individual commissioners - all three companies with FDA-authorized COVID-19 shots (Pfizer, Moderna, and Johnson & Johnson) now employ former FDA commissioners, raising systemic concerns about regulatory capture and the independence of drug approval processes during public health emergencies.

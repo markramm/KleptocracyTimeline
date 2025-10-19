@@ -1,0 +1,39 @@
+---
+id: 2025-03-01--project-2025-authors-fill-key-administration-positions-1757456630
+date: '2025-03-01'
+title: Project 2025 Authors Fill Key Administration Positions
+importance: 9
+actors:
+- Brendan Carr
+- Tom Homan
+- Linda McMahon
+- Karoline Leavitt
+- Russell Vought
+- John Ratcliffe
+- Pete Hoekstra
+sources:
+- outlet: Newsweek
+  title: The Project 2025 Contributors Helming the Trump Administration
+  url: https://www.newsweek.com/project-2025-contributors-trump-administration-2040464
+- outlet: DeSmog
+  title: 'MAPPED: 70 Percent of Trump''s Cabinet Tied to Project 2025 Groups'
+  url: https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/
+- outlet: PBS News
+  title: Trump names Project 2025 architect Russell Vought to key White House role
+  url: https://www.pbs.org/newshour/show/trump-names-project-2025-architect-russell-vought-to-key-white-house-role
+tags:
+- project-2025-network
+- cabinet-appointments
+- heritage-pipeline
+- government-capture
+- heritage-foundation
+- executive-branch-transformation
+status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+- Executive Branch Capture
+priority_id: project-2025-implementation-1757456630
+---
+
+A comprehensive analysis reveals that over 70% of Trump's cabinet has direct connections to Project 2025, with at least 31 individuals from the Heritage Foundation-backed initiative securing high-level government positions. Key appointments include Russell Vought (OMB Director), Tom Homan (Border Czar), Brendan Carr (FCC), and John Ratcliffe (CIA Director), demonstrating a systematic implementation of the conservative blueprint for executive branch transformation.

@@ -1,0 +1,48 @@
+---
+id: samuel_alito_paul_singer_scandal_2023
+date: '2023-06-20'
+title: ProPublica Reveals Samuel Alito's Undisclosed Luxury Trip with Billionaire
+  Paul Singer
+importance: 8
+actors:
+- Samuel Alito
+- Paul Singer
+- Elliott Investment Management
+- Leonard Leo
+- Robin Arkley II
+- ProPublica
+tags:
+- judicial-capture
+- supreme-court
+- corporate-influence
+- ethics-violation
+- samuel-alito
+- conflict-of-interest
+- undisclosed-gifts
+- hedge-funds
+status: confirmed
+sources:
+- title: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer
+  url: https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
+  outlet: ProPublica
+  date: '2023-06-20'
+- title: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from
+    GOP donor
+  url: https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor
+  outlet: PBS NewsHour
+  date: '2023-06-20'
+- title: 'Supreme Court Ethics Under Scrutiny: Alito''s Luxury Trip Details'
+  url: https://www.pbs.org/video/supreme-court-ethics-1687384836/
+  outlet: PBS NewsHour
+  date: '2023-06-21'
+  date_accessed: '2025-10-17'
+notes: Significant ethics scandal highlighting potential conflicts of interest in
+  Supreme Court's relationship with major donors. Raises serious questions about judicial
+  impartiality and the need for more robust ethics oversight.
+capture_lanes:
+- Judicial Capture
+- Supreme Court Corruption
+- Billionaire Influence
+---
+
+ProPublica exposed that Supreme Court Justice Samuel Alito failed to disclose an expensive luxury fishing trip to Alaska in July 2008, paid for by billionaire hedge fund manager Paul Singer and other Republican donors. Alito flew to Alaska on Singer's private jet and stayed at the King Salmon Lodge, a luxury fishing resort charging over $1,000 per day, with accommodations covered by mortgage company owner Robin Arkley II. The undisclosed gifts potentially exceeded $100,000 in value and violated federal ethics laws requiring justices to disclose most gifts. The scandal was particularly egregious because Singer's hedge fund had multiple cases before the Supreme Court after the trip, including a 2014 case where the Court ruled 7-1 in Singer's favor against Argentina, with Alito in the majority and never recusing himself despite the clear conflict of interest. The trip was organized by Leonard Leo, the architect of the conservative legal movement's Supreme Court capture strategy. In an unprecedented move, Alito preemptively wrote a Wall Street Journal op-ed defending the trip before the ProPublica story published, claiming he followed 'standard practice' despite clear ethics violations.

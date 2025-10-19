@@ -1,0 +1,40 @@
+---
+id: 2006-05-08--michael-hayden-nominated-cia-director-nsa-militarization
+date: '2006-05-08'
+title: Michael Hayden Nominated as CIA Director Despite NSA Surveillance Controversy
+actors:
+- Michael Hayden
+- George W. Bush
+- Senate Intelligence Committee
+- NSA
+- CIA
+- Porter Goss
+tags:
+- cia-militarization
+- hayden-appointment
+- surveillance-expansion
+- intelligence-politicization
+- constitutional-violation
+sources:
+- url: https://www.washingtonpost.com/wp-dyn/content/article/2006/05/08/AR2006050800842.html
+  title: Bush Picks Air Force General to Head CIA
+  outlet: Washington Post
+  date: '2006-05-08'
+- url: https://www.nytimes.com/2006/05/09/washington/09intel.html
+  title: Bush Chooses Ex-NSA Chief for CIA Post
+  outlet: New York Times
+  date: '2006-05-09'
+- url: https://intelligence.senate.gov/hearings/nomination-general-michael-v-hayden-be-director-central-intelligence-agency
+  title: Nomination of General Michael V. Hayden to be Director of the Central Intelligence
+    Agency
+  outlet: Senate Intelligence Committee
+  date: '2006-05-18'
+importance: 8
+status: confirmed
+capture_lanes:
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+President Bush nominates Air Force General Michael Hayden as CIA Director despite his role in implementing illegal NSA warrantless surveillance programs. Hayden's appointment represented unprecedented militarization of CIA leadership and sparked Senate concerns about further politicization of intelligence. His confirmation hearings revealed extensive involvement in constitutional violations and efforts to expand surveillance without legal authorization, breaking traditional civilian control of CIA.

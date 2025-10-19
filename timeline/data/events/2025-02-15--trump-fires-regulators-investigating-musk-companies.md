@@ -1,0 +1,43 @@
+---
+id: 2025-02-15--trump-fires-regulators-investigating-musk-companies
+date: '2025-02-15'
+title: Trump systematically fires federal officials investigating Elon Musk's companies
+importance: 9
+tags:
+- elon-musk
+- regulatory-capture
+- corruption
+- tesla
+- spacex
+- neuralink
+- government-contracts
+actors:
+- Donald Trump
+- Elon Musk
+- FDA officials
+- EEOC officials
+- NLRB Chair
+- CFPB staff
+- USAID Inspector General
+sources:
+- title: Warren Documents Trump's Favors for Elon Musk
+  url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
+  outlet: Senator Warren's Office
+  date: '2025-04-29'
+- title: 2025 Dismissals of U.S. Inspectors General
+  url: https://en.wikipedia.org/wiki/2025_dismissals_of_inspectors_general
+  outlet: Wikipedia
+  date: '2025-02-15'
+- title: Trump Purges Inspectors General Investigating Musk's Businesses
+  url: https://www.levernews.com/trump-purges-inspectors-general-investigating-musks-businesses/
+  outlet: Lever News
+  date: '2025-02-15'
+status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+President Trump orchestrated the systematic removal of federal regulators investigating Elon Musk's companies across multiple agencies. Officials fired included FDA staffers reviewing Neuralink's clinical trials, EEOC leaders investigating Tesla discrimination claims, the NLRB Chair who filed complaints against SpaceX, CFPB staff investigating Musk's financial ventures, and the USAID Inspector General probing Starlink satellite terminals. This coordinated purge eliminated virtually all federal oversight of Musk's business empire, clearing the way for billions in government contracts and regulatory approvals.

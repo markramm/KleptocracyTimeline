@@ -1,0 +1,61 @@
+---
+id: 1980-01-01--banking-industry-glass-steagall-erosion-campaign-begins
+date: '1980-01-01'
+title: Banking Industry Launches Systematic Campaign to Erode Glass-Steagall Act
+importance: 9
+location: Washington, D.C.
+actors:
+- Major commercial banks
+- Banking lobbyists
+- Federal regulators
+- Academic economists
+- Federal Reserve Board
+- Alan Greenspan
+tags:
+- glass-steagall
+- banking-deregulation
+- regulatory-capture
+- financial-lobbying
+- new-deal-reforms
+- alan-greenspan
+- federal-reserve
+capture_lanes:
+- Regulatory Capture
+- Academic Capture
+- Financial System Transformation
+sources:
+- title: Decline of the Glass–Steagall Act
+  url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
+  outlet: Wikipedia
+  verified: true
+  key_facts_confirmed:
+  - Starting in 1970s, large banks pushed back against Glass-Steagall regulations
+  - Banks claimed regulations made them less competitive against foreign securities
+    firms
+  - Bankers and regulators began working on ways to overturn the act in 1980s
+- key_facts_confirmed:
+  - Federal Reserve allowed banks to establish securities subsidiaries in 1987
+  - Alan Greenspan testified in support of Glass-Steagall repeal in December 1987
+  - Bank holding companies given expanded securities trading rights
+  outlet: Federal Reserve History
+  title: Banking Act of 1933 (Glass-Steagall)
+  url: https://www.federalreservehistory.org/essays/glass-steagall-act
+  verified: true
+- key_facts_confirmed:
+  - By 1980, only two US banks were in the top ten global banks
+  - US banks argued existing regulations made them globally uncompetitive
+  - Systematic lobbying campaign began to dismantle Depression-era banking restrictions
+  outlet: Congressional Research Service
+  title: 'Glass-Steagall Act: A Legal and Policy Analysis'
+  url: https://www.congress.gov/crs-product/R44349
+  verified: true
+status: confirmed
+---
+
+Large commercial banks launch a coordinated, multi-pronged campaign to systematically dismantle the Glass-Steagall Act's financial regulations. This strategic effort involves regulatory capture through administrative reinterpretations, academic influence to discredit Depression-era banking safeguards, and sustained legislative pressure for formal repeal. The campaign represents a fundamental shift from New Deal financial protections toward aggressive financial deregulation, driven by banks' claims of reduced global competitiveness.
+
+Key strategies include:
+- Lobbying federal regulators, particularly the Federal Reserve
+- Establishing securities trading subsidiaries
+- Funding academic research challenging existing banking restrictions
+- Arguing that US banks were becoming globally uncompetitive due to strict regulations

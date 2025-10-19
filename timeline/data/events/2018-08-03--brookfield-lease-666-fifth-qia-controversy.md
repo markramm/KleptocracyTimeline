@@ -1,0 +1,84 @@
+---
+id: 2018-08-03--brookfield-lease-666-fifth-qia-controversy
+date: '2018-08-03'
+importance: 9
+title: Brookfield takes 99‑year lease on Kushner's 666 Fifth Ave; role of Qatar-linked
+  funds disputed
+notes: 'Present both: (1) Brookfield''s official announcement and denials of QIA involvement;
+  (2) Reuters
+
+  and Senate Finance materials highlighting QIA''s investment ties to Brookfield Property
+  Partners
+
+  and seeking answers about the financing chain.
+
+  '
+status: confirmed
+actors:
+- Brookfield Asset Management
+- Kushner Companies
+- Qatar Investment Authority
+- Sen. Ron Wyden
+tags:
+- conflicts
+- foreign-influence
+- real-estate
+- qatar
+patterns: []
+related_events:
+- 2021-12-01--saudi-pif-invests-in-affinity-partners
+capture_lanes:
+- Financial Corruption & Kleptocracy
+location: New York, NY
+sources:
+- date: '2018-08-03'
+  outlet: Brookfield
+  title: Brookfield Acquires 100% Leasehold Interest in 666 Fifth Avenue's Office
+    Condominium (press release)
+  url: https://bn.brookfield.com/press-releases/brookfield-acquires-100-leasehold-interest-666-fifth-avenues-office-condominium
+  archive_url: ''
+  key_facts_confirmed:
+  - 99‑year lease acquisition announced by Brookfield
+  verified: true
+- date: '2018-08-03'
+  outlet: Reuters
+  title: Brookfield gains lease on Kushner's landmark New York tower
+  url: https://www.reuters.com/article/world/us/brookfield-gains-lease-on-kushners-landmark-new-york-tower-idUSKBN1KO2KC/
+  archive_url: ''
+  key_facts_confirmed:
+  - Lease deal details; background on distressed financing
+  verified: true
+- date: '2019-02-11'
+  outlet: Reuters
+  title: Qatar revamps investment strategy after Kushner building bailout
+  url: https://www.reuters.com/article/world/qatar-revamps-investment-strategy-after-kushner-building-bailout-idUSKCN1Q00W3/
+  archive_url: ''
+  key_facts_confirmed:
+  - Source close to Brookfield: QIA not involved in this deal
+  verified: true
+- date: '2020-12-09'
+  outlet: U.S. Senate Finance Committee
+  title: Wyden & Castro launch investigation into Kushner conflicts (letter seeking
+    info on 666 Fifth financing)
+  url: https://www.finance.senate.gov/ranking-members-news/wyden-castro-launch-investigation-into-kushner-conflicts-of-interest-influence-on-us-foreign-policy
+  archive_url: ''
+  key_facts_confirmed:
+  - Senate inquiry cites QIA's major investment in Brookfield Property Partners
+  verified: true
+- date: '2022-10-13'
+  outlet: U.S. Senate Finance Committee
+  title: Wyden continues investigation; questions Brookfield on Qatar‑linked funding
+  url: https://www.finance.senate.gov/chairmans-news/wyden-continues-investigation-into-kushner-conflicts-of-interest-influence-on-us-foreign-policy
+  archive_url: ''
+  key_facts_confirmed:
+  - Follow‑up letter asserting QIA funds may have flowed through BPY
+  verified: true
+---
+
+Brookfield acquired a 99‑year leasehold on the office portion of 666 Fifth Avenue from
+Kushner Companies, resolving a distressed financing situation. Public records and press
+accounts note that Qatar's sovereign fund (QIA) was a major investor in Brookfield Property
+Partners, while Brookfield and sources close to the deal stated QIA had no involvement in this
+specific transaction. Senate Finance letters later pressed Brookfield on whether Qatar‑linked
+funds indirectly backed the deal.
+

@@ -1,0 +1,51 @@
+---
+id: 2021-07-21--trump-bedminster-iran-document
+date: '2021-07-21'
+importance: 10
+title: Trump shows classified Iran attack plan at Bedminster, admits can't declassify
+actors:
+- Donald Trump
+- Mark Meadows
+- Trump staffers
+tags:
+- classified-documents
+- bedminster
+- iran
+- obstruction-of-justice
+- jack-smith
+status: confirmed
+sources:
+- title: 'Exclusive: CNN obtains the tape of Trump''s 2021 conversation about classified
+    documents'
+  url: https://www.cnn.com/2023/06/26/politics/trump-classified-documents-audio/index.html
+  outlet: CNN
+  date: '2023-06-26'
+- title: In audio recording, Trump is heard discussing classified document he says
+    he held onto
+  url: https://abcnews.go.com/US/audio-recording-trump-heard-discussing-classified-document-held/story?id=100346060
+  outlet: ABC News
+  date: '2023-06-26'
+- title: Trump said on tape he didn't declassify secret Iran documents
+  url: https://www.washingtonpost.com/national-security/2023/06/09/trump-tape-classified-documents/
+  outlet: Washington Post
+  date: '2023-06-09'
+notes: 'Meeting included writer and publisher working on Mark Meadows'' memoir and
+  two Trump staffers,
+
+  none with security clearances. Trump was attempting to rebut claims about Mark Milley
+
+  preventing him from attacking Iran. He described the document as "highly confidential"
+  and
+
+  "secret information." Later denied having documents in Fox News interview.'
+capture_lanes:
+- Regulatory Capture
+- Executive Power Expansion
+---
+
+Audio recording captured Trump showing classified documents about U.S. attack plans on Iran
+to people without security clearances at his Bedminster golf club. Trump stated: "As
+president I could have declassified it. Now I can't, you know, but this is still a secret."
+This admission proved Trump knew he retained classified material and lacked power to
+declassify it after leaving office, becoming key evidence in Jack Smith's prosecution.
+

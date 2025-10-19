@@ -1,0 +1,41 @@
+---
+id: 2025-02-06--russell-vought-implements-own-blueprint
+date: '2025-02-06'
+importance: 6
+title: Russell Vought implements Project 2025 chapter as OMB Director
+location: Washington, DC
+actors:
+- Russell Vought
+- OMB
+- Trump Administration
+tags:
+- omb
+- project-2025
+- executive-power
+- personnel-appointments
+- blueprint-implementation
+capture_lanes:
+- Executive Power & Emergency Authority
+sources:
+- title: Vought implements own Project 2025 recommendations
+  url: https://www.afge.org/news/omb-director-project-2025
+  outlet: AFGE
+  date: '2025-02-01'
+- title: Senate confirms Russell Vought, Project 2025 architect, to head OMB
+  url: https://19thnews.org/2025/02/senate-confirms-russell-vought-project-2025-architect-omb/
+  outlet: The 19th
+  date: '2025-02-06'
+- title: Civil Rights Coalition Denounces Confirmation of Russell Vought as OMB Director
+  url: https://civilrights.org/2025/02/06/civil-rights-coalition-denounces-confirmation-of-russell-vought-as-omb-director/
+  outlet: The Leadership Conference on Civil and Human Rights
+  date: '2025-02-06'
+- title: 'Russell Vought: The Project 2025 Architect and OMB Nominee Coming for Our
+    Democracy'
+  url: https://nwlc.org/russell-vought-the-project-2025-architect-and-omb-nominee-coming-for-our-democracy/
+  outlet: National Women's Law Center
+  date: '2025-01-29'
+notes: Project 2025 architect now in position to implement own blueprint
+status: confirmed
+---
+
+Russell Vought, who authored Project 2025's chapter on restructuring Executive Office and expanding presidential power, was confirmed as OMB Director on February 6, 2025 by a 53-47 Senate vote. He now implements the exact recommendations he wrote, including using the budget agency to withhold Congressional appropriations and purge agencies of dissenting employees.

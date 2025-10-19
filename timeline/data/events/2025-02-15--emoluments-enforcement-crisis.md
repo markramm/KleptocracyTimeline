@@ -1,0 +1,36 @@
+---
+id: 2025-02-15--emoluments-enforcement-crisis
+date: '2025-02-15'
+title: Federal Courts Struggle with Unprecedented Emoluments Enforcement
+importance: 9
+actors:
+- Federal Judiciary
+- Trump Administration
+- Department of Justice
+- Supreme Court
+tags:
+- constitutional-crisis
+- emoluments
+- judicial-review
+- separation-of-powers
+capture_lanes:
+- Judicial Capture
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+- Executive Power Expansion
+sources:
+- outlet: Brennan Center for Justice
+  title: Supreme Court Ducks an Opportunity on Trump Emoluments Cases
+  url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases
+- outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+  title: The Intensifying Threat of Donald Trump's Emoluments
+  url: https://www.citizensforethics.org/reports-investigations/crew-reports/the-intensifying-threat-of-donald-trumps-emoluments/
+- outlet: Axios
+  title: 'The Foreign Emoluments Clause: Qatar''s Jet Offer Raises Constitutional
+    Questions'
+  url: https://www.axios.com/2025/05/15/trump-qatar-jet-foreign-emoluments-clause
+status: confirmed
+---
+
+In a landmark series of cases, federal courts grappled with complex emoluments clause violations by the Trump administration. Multiple district and appellate courts issued conflicting rulings, exposing deep systemic challenges in holding executive branch officials accountable for foreign financial entanglements.

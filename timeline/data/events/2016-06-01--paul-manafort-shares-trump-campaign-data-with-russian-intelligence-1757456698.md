@@ -1,0 +1,52 @@
+---
+date: '2016-06-01'
+title: Paul Manafort Shares Trump Campaign Data with Russian Intelligence
+actors:
+- Paul Manafort
+- Konstantin Kilimnik
+- Russian intelligence
+importance: 10
+sources:
+- title: 'Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With
+    Russia'
+  url: https://www.npr.org/2020/08/18/903512647/senate-report-former-trump-aide-paul-manafort-shared-campaign-info-with-russia
+  outlet: NPR
+  date: '2020-08-18'
+- title: U.S. Says Russia Was Given Trump Campaign Polling Data in 2016
+  url: https://www.pbs.org/newshour/politics/u-s-says-russia-was-given-trump-campaign-polling-data-in-2016
+  outlet: PBS News
+  date: '2021-04-15'
+- title: 'Treasury: Manafort Associate Passed ''Sensitive'' Campaign Data to Russian
+    Intelligence'
+  url: https://thehill.com/policy/national-security/548447-treasury-manafort-russian-intelligence-trump-campaign-2016/
+  outlet: The Hill
+  date: '2021-04-15'
+tags:
+- manafort-russia
+- campaign-data-sharing
+- election-interference
+- intelligence-pipeline
+- senate-intelligence-committee
+status: confirmed
+id: 2016-06-01--paul-manafort-shares-trump-campaign-data-with-russian-intelligence-1757456698
+priority_id: russian-influence-networks-1757456698
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+sources_added: 3
+sources_removed: 2
+summary_updated: true
+tags_added:
+- senate-intelligence-committee
+validation_metadata:
+  last_corrected: '2025-09-16T19:13:50.141823'
+  corrected_by: source-qa-12-bulk-retry
+  validation_log_id: 134
+  corrections_applied:
+  - 'sources_added: ''3'' → ''3'''
+  - 'sources_removed: ''2'' → ''2'''
+  - 'summary_updated: ''True'' → ''True'''
+  - 'tags_added: ''[''senate-intelligence-committee'']'' → ''[''senate-intelligence-committee'']'''
+---
+
+Trump campaign chairman Paul Manafort creates "grave counterintelligence threat" by sharing internal polling data with Konstantin Kilimnik, identified Russian intelligence officer, creating direct pipeline to Russian intelligence during election interference. The Senate Intelligence Committee found Manafort shared sensitive campaign polling data and strategy with Kilimnik, a Russian intelligence officer, potentially facilitating Russian interference in the 2016 election.

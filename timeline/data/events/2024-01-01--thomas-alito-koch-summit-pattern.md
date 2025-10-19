@@ -1,0 +1,46 @@
+---
+id: 2024-01-01--thomas-alito-koch-summit-pattern
+date: '2024-01-01'
+importance: 8
+title: Clarence Thomas Secretly Participated in Koch Network Donor Events
+location: Various, United States
+actors:
+- Clarence Thomas
+- Koch network
+- Charles Koch
+- David Koch
+- Federalist Society
+tags:
+- koch-network
+- judicial-capture
+- political-coordination
+- donor-summits
+- systematic-corruption
+capture_lanes:
+- Judicial Capture & Corruption
+sources:
+- title: Durbin calls for Thomas recusal from Loper Bright
+  url: https://www.judiciary.senate.gov/press/dem/releases/durbin-statement-on-supreme-court-ruling-in-chevron-deference-cases-failure-of-justice-thomas-to-recuse
+  outlet: Senate Judiciary Committee
+  date: '2024-06-28'
+  archive_url: https://web.archive.org/web/20240628000000/https://www.judiciary.senate.gov/press/dem/releases/durbin-statement-on-supreme-court-ruling-in-chevron-deference-cases-failure-of-justice-thomas-to-recuse
+- title: Clarence Thomas Secretly Participated in Koch Network Donor Events
+  url: https://www.propublica.org/article/clarence-thomas-secretly-participated-koch-network-donor-events
+  outlet: ProPublica
+  date: '2023-09-22'
+- title: Justice Thomas attended at least two Koch donor summits
+  url: https://www.washingtonpost.com/politics/2023/09/22/clarence-thomas-koch-network/
+  outlet: Washington Post
+  date: '2023-09-22'
+- title: Clarence Thomas attended Koch network donor events
+  url: https://www.cnn.com/2023/09/22/politics/clarence-thomas-koch-network-propublica/index.html
+  outlet: CNN
+  date: '2023-09-22'
+notes: Thomas attended at least two Koch donor summits over the years according to
+  three former network employees and one major donor. Koch network spent 15 years
+  building legal infrastructure to bring cases. Note - Alito's attendance at Koch
+  events not substantiated, though he has separate donor ethics issues.
+status: confirmed
+---
+
+Investigation reveals Justice Thomas attended multiple Koch brothers donor summits over the years while Koch network brings coordinated cases to Supreme Court, raising serious ethics concerns

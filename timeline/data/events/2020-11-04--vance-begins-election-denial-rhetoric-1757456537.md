@@ -1,0 +1,32 @@
+---
+date: '2020-11-04'
+title: Vance Begins Election Denial Rhetoric
+actors:
+- J.D. Vance
+- Joe Biden
+- Donald Trump
+importance: 9
+sources:
+- outlet: Axios
+  title: Vance goes all in on denying Trump lost the 2020 election
+  url: https://www.axios.com/2024/10/16/jd-vance-trump-2020-election-denial
+- outlet: NBC News
+  title: '''Damning non-answer'': Vance refuses to acknowledge Trump lost the 2020
+    election'
+  url: https://www.nbcnews.com/politics/2024-election/damning-non-answer-vance-refuses-acknowledge-trump-lost-2020-election-rcna173569
+- outlet: NPR
+  title: JD Vance says 'no,' he does not think Trump lost in 2020
+  url: https://www.npr.org/2024/10/16/nx-s1-5155220/jd-vance-donald-trump-2020-election-loss-answer-no
+tags:
+- election-denial
+- political-transformation
+- 2020-election
+- conspiracy-theories
+status: confirmed
+id: 2020-11-04--vance-begins-election-denial-rhetoric-1757456537
+priority_id: jd-vance-pdf-analysis-1757456537
+capture_lanes:
+- Electoral Manipulation
+---
+
+Following the 2020 presidential election, J.D. Vance shifts from a Trump critic to an election denier, promoting false claims about Biden's victory being illegitimate. During multiple interviews and public appearances, Vance repeatedly refused to acknowledge Trump's loss, stating he 'would have voted against certification' and claiming the election was improperly conducted.

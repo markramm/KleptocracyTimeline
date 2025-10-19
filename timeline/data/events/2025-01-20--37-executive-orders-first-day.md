@@ -1,0 +1,48 @@
+---
+id: 2025-01-20--37-executive-orders-first-day
+date: '2025-01-20'
+importance: 6
+title: Trump signs 37 executive orders on first day, implementing Project 2025 priorities
+location: Washington, DC
+actors:
+- Donald Trump
+- Elon Musk (DOGE leader)
+- White House
+- United Nations
+- World Health Organization
+tags:
+- executive-orders
+- project-2025
+- inauguration
+- climate
+- paris-agreement
+- who-withdrawal
+- doge
+- january-6-pardons
+capture_lanes:
+- Executive Power & Emergency Authority
+- Federal Workforce Capture
+sources:
+- title: The list of executive orders Trump signed on Day 1 in office
+  url: https://www.washingtonpost.com/politics/2025/01/20/trump-executive-orders-list/
+  outlet: Washington Post
+  date: '2025-01-20'
+- title: Trump signs executive actions on Jan. 6, TikTok, immigration and more
+  url: https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1
+  outlet: NPR
+  date: '2025-01-20'
+- title: 2025 Donald J. Trump Executive Orders
+  url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
+  outlet: Federal Register
+  date: '2025-01-20'
+- title: Trump signs executive orders, actions on Inauguration Day
+  url: https://www.washingtonpost.com/politics/2025/01/20/trump-inauguration-live-updates/
+  outlet: Washington Post
+  date: '2025-01-20'
+notes: Directly implemented numerous Project 2025 priorities. DOGE given 18-month
+  mandate to overhaul federal software and maximize efficiency. Mass pardons for January
+  6 defendants included commuting sentences for seditious conspiracy convictions.
+status: confirmed
+---
+
+President Trump signed numerous executive orders, memorandums and proclamations on inauguration day January 20, 2025, including withdrawal from Paris Climate Agreement and WHO, establishing DOGE led by Elon Musk, and rescinding 78 Biden-era executive actions. The DOGE order temporarily renamed the US Digital Service for 18 months to oversee federal software modernization. Trump also pardoned 1,500 January 6 defendants and commuted sentences of Proud Boys and Oath Keepers leaders convicted of seditious conspiracy. He signed orders at both Capital One Arena and the Oval Office.

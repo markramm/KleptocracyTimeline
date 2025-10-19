@@ -1,0 +1,72 @@
+---
+id: 2025-04-11--trump-megadonor-drags-of-easy-access-to-white-house
+date: '2025-04-11'
+title: Trump megadonor drags of easy access to White House
+description: Former Democratic donor and Silicon Valley investor Chamath Palihapitiya
+  bragged on a podcast that his donations to Trump now grant him direct access to
+  top White House officials, including the deputy chief of staff, citing a recent
+  call made on behalf of a friend affected by tariffs
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+- corruption
+capture_type: monetizing_position
+sources:
+- title: Trump megadonor drags of easy access to White House
+  url: https://www.rollingstone.com/politics/politics-news/trump-donor-chamath-palihapitiya-brags-access-white-house-1235315702/
+  outlet: Rolling Stone
+  date: '2025-04-11'
+- title: Trump Megadonor Brags of Easy Access to White House
+  url: https://www.yahoo.com/news/trump-megadonor-brags-easy-access-180813988.html
+  outlet: Yahoo News
+  date: '2025-04-11'
+- title: Chamath Palihapitiya Complains Couldn't Buy Access to Dems
+  url: https://www.mediaite.com/media/podcasts/venture-capitalist-podcast-host-brutally-roasted-for-arguing-he-became-a-trump-support-so-he-could-buy-access/
+  outlet: Mediaite
+  date: '2025-04-11'
+- title: On Trade Policy, Trump Is Listening to CEOs
+  url: https://jacobin.com/2025/04/trump-tariffs-ceos-donors-influence
+  outlet: Jacobin
+  date: '2025-04-11'
+- title: Venture Capitalist Says Global Elites Panic Because Now There's Something
+    They Can't Control
+  url: https://dailycaller.com/2025/04/10/chamath-palihapitiya-global-elites-government-control-tariffs-donald-trump/
+  outlet: Daily Caller
+  date: '2025-04-10'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: High-priority kleptocratic event from comprehensive timeline.
+_merge_note: 'Enhanced with information from duplicate event: 2025-04-11--trump-megadonor-drags-of-easy-access-to-white-hous'
+_merge_timestamp: '2025-09-05T23:46:55.899731'
+capture_lanes:
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+field: tags
+new:
+- kleptocracy
+- corruption
+- political-access
+- donor-influence
+- trump-administration
+old:
+- kleptocracy
+- corruption
+validation_metadata:
+  last_corrected: '2025-09-16T19:13:40.822579'
+  corrected_by: concurrent-qa-1-bulk-retry
+  validation_log_id: 116
+  corrections_applied:
+  - 'field: (added) ''tags'''
+  - 'new: (added) ''[''kleptocracy'', ''corruption'', ''political-access'', ''donor-influence'',
+    ''trump-administration'']'''
+  - 'old: (added) ''[''kleptocracy'', ''corruption'']'''
+---
+
+Former Democratic donor and Silicon Valley investor Chamath Palihapitiya bragged on a podcast that his donations to Trump now grant him direct access to top White House officials, including the deputy chief of staff, citing a recent call made on behalf of a friend affected by tariffs

@@ -1,0 +1,54 @@
+---
+id: 2008-03-20--sprint-nextel-receives-nsa-surveillance-technology-integration-contract
+date: '2008-03-20'
+title: Sprint Nextel GPS Location Data Sharing with Law Enforcement
+description: Sprint Nextel provided law enforcement agencies with wireless subscribers'
+  GPS locations over 8 million times between September 2008 and October 2009 through
+  a specialized secure portal, demonstrating extensive telecommunications data sharing
+  capabilities.
+significance: Reveals the comprehensive telecommunications surveillance infrastructure
+  enabling law enforcement and intelligence agencies to access precise location information
+  for millions of mobile subscribers.
+sources:
+- title: Telecom Firm Pushed Back on NSA Data Collection
+  outlet: CNN
+  date: '2014-05-14'
+  url: https://www.cnn.com/2014/05/14/us/nsa-phone-data-telecoms/index.html
+  type: news_article
+- title: Sprint was the only telco to stand up to the NSA
+  outlet: VentureBeat
+  url: https://venturebeat.com/security/sprint-was-the-only-telco-to-stand-up-to-the-nsa/
+  type: technology_news
+- title: Phone Tracking Big Business For Cell Companies
+  outlet: NPR
+  date: '2012-04-05'
+  url: https://www.npr.org/2012/04/05/150083772/phone-tracking-big-business-for-cell-companies
+  type: news_analysis
+- title: 'Cell Phone Surveillance: Business and Regulation'
+  outlet: Bloomberg
+  date: '2009-12-15'
+  url: https://www.bloomberg.com/news/articles/2009-12-15/cellular-surveillance-law-enforcement-tracking
+  type: business_report
+tags:
+- surveillance
+- nsa
+- sprint
+- mobile-surveillance
+- telecommunications-integration
+- gps-tracking
+- law-enforcement
+importance: 8
+category: surveillance_infrastructure
+verification_status: documented
+actors:
+- Sprint Nextel
+- NSA
+- Bush Administration
+- Law Enforcement Agencies
+status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Telecommunications Surveillance
+---
+
+Between September 2008 and October 2009, Sprint Nextel disclosed GPS location data for wireless subscribers over 8 million times via a specialized secure government portal, illustrating the extensive telecommunications surveillance capabilities during this period.

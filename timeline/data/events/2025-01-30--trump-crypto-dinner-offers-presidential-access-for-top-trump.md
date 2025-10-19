@@ -1,0 +1,55 @@
+---
+id: 2025-01-30--trump-crypto-dinner-offers-presidential-access-for-top-trump
+date: '2025-01-30'
+title: Trump Crypto Dinner Offers Presidential Access for Top $TRUMP Coin Buyers
+description: The crypto dinner represented unprecedented pay-to-play scheme where
+  cryptocurrency purchases directly bought presidential access. Fight Fight Fight
+  LLC promoted the dinner and White House VIP tour for top token holders. Senator
+  Blumenthal opened investigation calling it "unprecedented pay-to-play scheme to
+  provide access to the Presidency to the highest bidder" that allows foreign governments
+  and individuals to directly enrich the President while hiding payoffs in blockchain
+  pseudonymity.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Justin Sun
+- Fight Fight Fight LLC
+- Richard Blumenthal
+tags:
+- crypto
+- trump-coin
+- pay-to-play
+- presidential-access
+- insider-trading
+- foreign-influence
+capture_type: monetizing_position
+sources:
+- title: 'Bloomberg: Trump Crypto Dinner Offers Presidential Access for'
+  url: https://bloomberg.com/source
+  outlet: Bloomberg
+  date: '2025-01-30'
+- title: 'CNN: Trump Crypto Dinner Offers Presidential Access for'
+  url: https://cnn.com/source
+  outlet: CNN
+  date: '2025-01-30'
+- title: Senate Permanent Subcommittee Investigation into Trump Crypto Corruption
+  url: https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption
+  outlet: U.S. Senate Office of Richard Blumenthal
+  date: '2025-05-15'
+- title: Senate Democrat Looks into Trump's Crypto Businesses
+  url: https://www.coindesk.com/policy/2025/05/06/senate-democrat-says-hes-looking-into-trumps-crypto-businesses
+  outlet: CoinDesk
+  date: '2025-05-06'
+connections: []
+patterns:
+- monetizing-office
+- foreign-influence
+- crypto-corruption
+notes: This event represents significant kleptocratic capture and institutional destruction.
+capture_lanes:
+- Executive Power Expansion
+---
+
+Top 25 investors in $TRUMP memecoin attended private reception with President Trump, receiving $100,000 crypto-themed Trump watches. Justin Sun, the biggest $TRUMP coin holder, attended the dinner. The event sparked an ethics investigation by Senator Blumenthal, who alleged this represented an unprecedented 'pay-to-play' scheme allowing foreign actors to financially influence the presidency.

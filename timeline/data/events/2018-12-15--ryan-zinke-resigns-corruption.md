@@ -1,0 +1,63 @@
+---
+id: 2018-12-15--ryan-zinke-resigns-corruption
+date: '2018-12-15'
+title: Interior Secretary Ryan Zinke Resigns Facing 18 Federal Investigations
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Ryan Zinke
+- Donald Trump
+- Department of Interior
+- David Bernhardt
+tags:
+- corruption
+- interior-department
+- public-lands
+- ethics-violation
+- cabinet-scandal
+- conflict-of-interest
+- environmental-destruction
+sources:
+- title: Ryan Zinke Resigns as Interior Secretary Amid Investigations
+  url: https://www.nytimes.com/2018/12/15/us/politics/ryan-zinke-interior-secretary-resigns.html
+  outlet: New York Times
+  date: '2018-12-15'
+- title: Interior Secretary Ryan Zinke resigns amid ethics investigations
+  url: https://www.washingtonpost.com/politics/interior-secretary-ryan-zinke-resigns-amid-ethics-investigations/2018/12/15/
+  outlet: Washington Post
+  date: '2018-12-15'
+- title: Ryan Zinke's Corruption Has Finally Caught Up With Him
+  url: https://www.motherjones.com/politics/2018/12/ryan-zinke-resigns-interior-secretary-trump/
+  outlet: Mother Jones
+  date: '2018-12-15'
+notes: "Zinke's replacement, David Bernhardt, was an oil and gas lobbyist with so\
+  \ many \nconflicts of interest he carried a card listing them. This exemplified\
+  \ the Trump \nadministration pattern of appointing industry insiders to dismantle\
+  \ the agencies \nmeant to regulate them. Zinke's reduction of national monuments\
+  \ was later found \nto benefit uranium mining companies that had lobbied for the\
+  \ changes. He was the \nfourth Trump Cabinet member to resign under ethics clouds.\n"
+related_events:
+- 2017-03-31--tom-price-resigns-private-jet-scandal
+- 2018-07-05--scott-pruitt-resigns-corruption
+- 2019-03-28--david-bernhardt-confirmed-conflicts
+patterns:
+- regulatory-capture
+- cabinet-corruption
+- environmental-destruction
+- public-land-privatization
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+Interior Secretary Ryan Zinke resigned while under at least 18 federal investigations 
+for corruption, conflicts of interest, and ethics violations. Scandals included: 
+involvement in a Montana land deal benefiting himself and Halliburton chairman, 
+using wildfire funds for personal travel, chartered flights costing $139,000, 
+reassigning employees who disagreed with him, meetings with donors during official 
+travel, and his wife using government vehicles. Zinke oversaw the largest reduction 
+of protected federal lands in U.S. history, shrinking Bears Ears and Grand Staircase-
+Escalante monuments to open them for mining and drilling.
+

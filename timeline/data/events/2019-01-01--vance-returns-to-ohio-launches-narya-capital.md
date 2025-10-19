@@ -1,0 +1,39 @@
+---
+date: '2019-01-01'
+title: Vance Returns to Ohio, Launches Narya Capital
+actors:
+- J.D. Vance
+- Peter Thiel
+- Eric Schmidt
+- Marc Andreessen
+- Scott Dorsey
+- Colin Greenspon
+importance: 8
+sources:
+- outlet: Axios
+  title: '"Hillbilly Elegy" author J.D. Vance starts venture capital fund in Ohio'
+  url: https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel
+  date: '2020-01-09'
+- outlet: Crains Cleveland Business
+  title: '''Hillbilly Elegy'' author starts Ohio-based VC fund backed by Peter Thiel'
+  url: https://www.crainscleveland.com/finance/hillbilly-elegy-author-starts-ohio-based-vc-fund-backed-peter-thiel
+  date: '2020-01-09'
+- outlet: Crunchbase
+  title: James David Vance - Co-Founder and Partner @ Narya Capital
+  url: https://www.crunchbase.com/person/j-d-vance
+  date: null
+tags:
+- narya-capital
+- political-preparation
+- ohio-return
+- thiel-funding
+- venture-capital
+status: validated
+id: 2019-01-01--vance-returns-to-ohio-launches-narya-capital
+priority_id: jd-vance-pdf-analysis-1757456537
+capture_lanes:
+- Regulatory Capture
+- Silicon Valley Power Networks
+---
+
+J.D. Vance returns to Ohio and co-founds Narya Capital venture firm with $93 million in capital, backed by Peter Thiel, Eric Schmidt, Marc Andreessen, and Scott Dorsey. The firm focuses on investing in startups in under-served cities across fields of science and advanced technology.

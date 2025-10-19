@@ -1,0 +1,44 @@
+---
+actors:
+- Elon Musk
+- SpaceX Executives
+- Iqbaljit Kahlon
+capture_lanes:
+- Regulatory Capture
+- Foreign Investment Capture
+capture_type: regulatory_capture
+date: '2025-03-26'
+description: SpaceX allows Chinese investors to purchase stakes through offshore investment
+  vehicles, raising national security concerns for a U.S. military contractor
+id: 2025-03-26--how-elon-musk-s-spacex-secretly-allows-investment-from-china
+importance: 8
+location: United States
+notes: Investment approach revealed through investor testimony, highlighting potential
+  foreign ownership risks
+patterns:
+- kleptocratic-capture
+- offshore-investment
+sources:
+- date: '2025-03-26'
+  outlet: ProPublica
+  title: How Elon Musk's SpaceX Secretly Allows Investment From China
+  url: https://www.propublica.org/article/elon-musk-spacex-allows-china-investment-cayman-islands-secrecy
+- date: '2025-03-26'
+  outlet: TechCrunch
+  title: SpaceX Reportedly Has a Secret Backdoor for Chinese Investment
+  url: https://techcrunch.com/2025/03/26/spacex-reportedly-has-a-secret-backdoor-for-chinese-investment/
+- date: '2025-10-07'
+  outlet: Defense One
+  title: Elon Musk's SpaceX Took Money Directly From Chinese Investors, Company Insider
+    Testifies
+  url: https://www.defenseone.com/threats/2025/10/elon-musks-spacex-took-money-directly-chinese-investors-company-insider-testifies/408557/
+status: confirmed
+tags:
+- foreign-influence
+- regulatory-capture
+- offshore-investment
+- national-security
+title: How Elon Musk's SpaceX Secretly Allows Investment From China
+---
+
+SpaceX executives allowed Chinese investment through Cayman Islands shell companies, raising significant national security concerns about foreign ownership in a critical U.S. military contractor. Investor testimony revealed direct Chinese stakes in SpaceX, with a potential $50 million investment canceled after public disclosure.

@@ -1,0 +1,45 @@
+---
+id: 2025-01-28--greenblatt-cbs-reaction-ig-purge
+title: 'Interior IG Mark Greenblatt reacts to firing: ''stunned'''
+date: '2025-01-28'
+importance: 6
+location: Washington, DC
+actors:
+- Mark Greenblatt (Interior Department IG)
+- CBS News
+- Donald Trump
+- Department of Interior
+tags:
+- inspector-general
+- media
+- watchdogs
+- friday-night-massacre
+- interior-department
+- government-accountability
+capture_lanes:
+- Federal Workforce Capture
+sources:
+- title: Inspector General Mark Greenblatt speaks out after Trump firing
+  url: https://www.cbsnews.com/news/inspector-general-mark-greenblatt-trump-firings-interview
+  outlet: CBS News
+  date: '2025-01-28'
+- title: '''Troubling'': Inspector general fired by Trump has warning for Americans'
+  url: https://www.cnn.com/2025/01/27/politics/video/inspector-general-fired-trump-mark-greenblatt-digvid
+  outlet: CNN
+  date: '2025-01-27'
+- title: Trump's firing of independent watchdogs raises concerns about government
+    fraud and ethics
+  url: https://www.pbs.org/newshour/show/trumps-firing-of-independent-watchdogs-raises-concerns-about-government-fraud-and-ethics
+  outlet: PBS NewsHour
+  date: '2025-01-26'
+- title: 8 inspectors general fired by Trump file lawsuit challenging dismissals
+  url: https://www.cbsnews.com/news/inspectors-general-fired-trump-lawsuit/
+  outlet: CBS News
+  date: '2025-01-30'
+notes: Greenblatt was a Trump appointee from his first term, making the firing particularly
+  puzzling. Received notification via email at 7:30 PM Friday while returning from
+  Tae Kwon Do practice.
+status: confirmed
+---
+
+Interior Inspector General Mark Greenblatt, who was originally appointed by Trump in his first term, told CBS News he was "stunned" by his Friday night firing on January 24, 2025. Greenblatt said "It's very bizarre" and questioned the motives, offering two interpretations - either Trump "doesn't believe in our independence" or "wants lackeys to rubber stamp what he's trying to do."

@@ -1,0 +1,51 @@
+---
+id: 1977-01-01--bcci-establishes-pakistan-zia-ul-haq-regime-partnership
+date: '1977-01-01'
+title: BCCI Establishes Partnership with Pakistan's Zia ul-Haq Military Regime
+importance: 8
+actors:
+- General Zia ul-Haq
+- Agha Hasan Abedi
+- Pakistan military
+- BCCI Pakistan operations
+- ISI
+tags:
+- zia-ul-haq
+- pakistan-military
+- nuclear-program
+- military-coup
+- authoritarian-partnership
+- intelligence-operations
+sources:
+- title: The Fall of BCCI
+  url: https://merip.org/1991/11/the-fall-of-bcci/
+  outlet: Middle East Research and Information Project
+  date: '1991-11-01'
+- title: Bank of Credit and Commerce International
+  url: https://en.wikipedia.org/wiki/Bank_of_Credit_and_Commerce_International
+  outlet: Wikipedia
+  date: '1977-07-05'
+- title: The Dictator-Run Bank That Tells the Story of America's Foreign Corruption
+  url: https://foreignpolicy.com/2020/07/07/the-dictator-run-bank-that-tells-the-story-of-americas-foreign-corruption/
+  outlet: Foreign Policy
+  date: '2020-07-07'
+- title: 'B.C.C.I.: The Dirtiest Bank of All'
+  url: https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/
+  outlet: TIME Magazine
+  date: '1989-01-01'
+- title: 'Strategic Analysis: Pakistan''s Military Financing and Intelligence Networks'
+  url: https://www.tandfonline.com/doi/abs/10.1080/09700161.2019.1625512
+  outlet: Strategic Analysis
+  date: '2019-01-01'
+- title: 'Historical Documents: Pakistan Intelligence Financing in 1970s'
+  url: https://history.state.gov/historicaldocuments/frus1977-80v12/d182
+  outlet: U.S. State Department Office of the Historian
+  date: '1978-01-01'
+status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+Following General Zia ul-Haq's military coup in Pakistan, BCCI cultivates close relationships with the military ruler and his family, securing lucrative opportunities including trade finance for Pakistan's nuclear program. This partnership positions BCCI as a conduit for sensitive military and intelligence operations, including future CIA funding of Afghan mujahideen and laundering proceeds from Pakistan's heroin trade. The relationship demonstrates how BCCI leverages political connections with authoritarian regimes to facilitate covert operations while avoiding regulatory scrutiny. Zia's protection enables BCCI to operate as an unregulated shadow banking system for intelligence agencies and criminal networks. This template of partnering with military dictatorships becomes central to BCCI's global criminal operations.

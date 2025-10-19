@@ -1,0 +1,50 @@
+---
+id: 2000-11-08--james-baker-leads-bush-supreme-court-election-strategy
+date: '2000-11-08'
+title: James Baker Coordinates Bush Supreme Court Election Strategy from Day One
+importance: 8
+actors:
+- James Baker III
+- Katherine Harris
+- George W Bush
+- Mac Stipanovich
+- Ted Olson
+- Republican Party
+tags:
+- bush-v-gore
+- electoral-manipulation
+- james-baker
+- judicial-strategy
+- supreme-court-capture
+- florida-recount
+sources:
+- title: James Baker's Legal Strategy Won Bush Election
+  url: https://theconversation.com/james-bakers-masterful-legal-strategies-won-george-w-bush-a-contested-election-unlike-rudy-giulianis-string-of-losses-151087
+  outlet: The Conversation
+  date: '2020-12-09'
+- title: 'Bush v. Gore: Where are they now?'
+  url: https://www.cnn.com/2015/10/31/politics/gallery/bush-v-gore-where-are-they-now
+  outlet: CNN
+  date: '2015-10-31'
+- title: 'Beyond Counting Votes: The Political Economy of Bush v. Gore'
+  url: https://scholarship.law.gwu.edu/faculty_publications/245/
+  outlet: George Washington University Law School
+  date: '2001-01-01'
+  details: Academic analysis of strategic behavior in Supreme Court's Bush v. Gore
+    decision
+- title: 2000 United States Presidential Election Recount in Florida
+  url: https://en.wikipedia.org/wiki/2000_United_States_presidential_election_recount_in_Florida
+  outlet: Wikipedia
+  date: '2025-10-15'
+  details: Comprehensive overview of the legal and political strategies during the
+    Florida recount
+status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Judicial Capture
+- Regulatory Capture
+- Intelligence Penetration
+- Electoral Manipulation
+---
+
+Former Secretary of State James Baker takes control of Bush's Florida recount strategy, immediately positioning the campaign for Supreme Court intervention rather than focusing on local recounts. Baker's decision to prioritize legal maneuvering over vote counting demonstrates coordinated planning between Republican establishment figures and demonstrates the systematic approach to electoral manipulation. His coordination with Florida Secretary of State Katherine Harris, who simultaneously served as Bush's campaign co-chair, creates a clear conflict of interest. Baker's "immediate judgment that the Supreme Court would become the ultimate decision-maker structured everything he did," revealing premeditated judicial capture strategy. This coordination establishes the template for using legal technicalities and partisan judicial appointments to override democratic vote counts.

@@ -1,0 +1,57 @@
+---
+id: 2025-03-25--trump-s-crypto-empire-set-to-expand-with-new-stablecoin-and-
+date: '2025-03-25'
+title: Trump's World Liberty Financial Announces USD1 Stablecoin with Binance Backing
+description: World Liberty Financial, a cryptocurrency venture Trump co-found last
+  year, announced Tuesday that it plans to launch USD1, a stablecoin pegged at a 1-to-1
+  ratio to the dollar, backed by a $75 million investment from tech entrepreneur Justin
+  Sun and forming a strategic partnership with cryptocurrency exchange Binance.
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Zachary Folkman
+- Chase Herro
+- Zach Witkoff
+- Justin Sun
+- Trump Administration
+tags:
+- crypto
+- stablecoin
+- financial-capture
+- trump-network
+capture_type: monetizing_position
+status: confirmed
+sources:
+- date: '2025-03-25'
+  outlet: Bloomberg
+  title: Trump's Crypto Project to Offer Dollar-Tracking Stablecoin
+  url: https://www.bloomberg.com/news/articles/2025-03-25/trump-s-crypto-project-plans-to-offer-dollar-tracking-stablecoin
+- date: '2025-03-25'
+  outlet: House Financial Services Committee Democrats
+  title: 'Day 2: Trump''s World Liberty Financial Grift Part I'
+  url: https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413632
+- date: '2025-05-01'
+  outlet: Bloomberg
+  title: Trump-Tied Stablecoin Used for MGX's $2 Billion Binance Deal
+  url: https://www.bloomberg.com/news/articles/2025-05-01/trump-linked-stablecoin-used-for-mgx-s-2-billion-binance-deal
+- date: '2025-03-25'
+  outlet: Associated Press
+  title: Trump's crypto empire set to expand with new stablecoin and investment fund
+    offerings
+  url: https://apnews.com/article/trump-crypto-world-liberty-truth-social-etf-f11c47a99ea618aa06df4dd47b150800
+connections:
+- Binance partnership
+- MGX investment deal
+patterns:
+- kleptocratic-capture
+- financial-technology-manipulation
+notes: Event highlights complex financial relationships between Trump network and
+  cryptocurrency ecosystem. Senators Warren and Merkley raised concerns about potential
+  conflicts of interest.
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+---
+
+World Liberty Financial, a cryptocurrency venture co-founded by Trump's associates, announced the launch of USD1, a stablecoin pegged 1-to-1 to the U.S. dollar. The launch involves a strategic partnership with Binance and a $75 million investment from Justin Sun, raising significant concerns about potential conflicts of interest and regulatory compliance.

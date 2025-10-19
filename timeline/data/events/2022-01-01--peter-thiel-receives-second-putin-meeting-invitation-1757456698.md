@@ -1,0 +1,44 @@
+---
+date: '2022-01-01'
+title: Peter Thiel Receives Second Putin Meeting Invitation
+actors:
+- Peter Thiel
+- Vladimir Putin
+- Daniil Bisslinger
+- Christian Angermayer
+- Russian diplomats
+sources:
+- title: How Peter Thiel Received Kremlin Invites
+  outlet: Benzinga
+  url: https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri
+  retrieval_date: '2025-09-23'
+- title: Peter Thiel and Russian Intelligence Outreach
+  outlet: Business Insider
+  url: https://www.businessinsider.nl/billionaire-fbi-informant-peter-thiel-dished-about-two-kremlin-invites-to-private-putin-meetings/
+  retrieval_date: '2025-09-23'
+- title: Thiel's FBI Informant Role in Russian Diplomacy
+  outlet: Ground News
+  url: https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations
+  retrieval_date: '2025-09-23'
+- title: Peter Thiel Counterintelligence Activities
+  outlet: Wikipedia
+  url: https://en.wikipedia.org/wiki/Peter_Thiel
+  retrieval_date: '2025-09-23'
+importance: 8
+tags:
+- thiel-targeting
+- putin-outreach
+- silicon-valley-recruitment
+- ongoing-operations
+- counterintelligence
+- russian-diplomacy
+status: confirmed
+id: 2022-01-01--peter-thiel-receives-second-putin-meeting-invitation-1757456698
+priority_id: russian-influence-networks-1757456698
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+- Foreign Influence Networks
+---
+
+In January 2022, Peter Thiel receives a second documented invitation to meet privately with Vladimir Putin, this time through Russian diplomat Daniil Bisslinger. The invitation came amid rising tensions before Russia's invasion of Ukraine, demonstrating persistent Russian intelligence targeting of Silicon Valley leaders. As a confidential FBI informant with the code name 'Philosopher', Thiel immediately reported the invitation to his bureau handlers, suspecting a potential psychological operation designed to cultivate relationships with influential tech figures. Bisslinger, identified as an employee of the Kremlin's Ministry of Foreign Affairs, had previously extended a similar invitation in 2018 during a birthday celebration in Vienna.

@@ -1,0 +1,49 @@
+---
+id: 2025-03-03--consumer-watchdog-payouts-in-limbo-as-agency-is-defanged-by-
+date: '2025-03-03'
+title: Consumer watchdog payouts in limbo as agency is defanged by Trump administration
+description: Trump administration froze CFPB, blocking hundreds of millions in consumer
+  protection payouts
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- Russell Vought
+tags:
+- regulatory-capture
+- government-contracts
+- consumer-protection
+- financial-regulation
+capture_type: regulatory_capture
+sources:
+- title: Consumer watchdog payouts in limbo as agency is defanged by Trump administration
+  url: https://www.reuters.com/world/us/consumer-watchdog-payouts-limbo-agency-defanged-by-trump-administration-2025-03-03/
+  outlet: Reuters
+  date: '2025-03-03'
+- title: If the Trump administration guts the CFPB, it could have 'devastating effects,'
+    says consumer advocate—what it means for your money
+  url: https://www.cnbc.com/2025/03/05/trump-administration-plans-to-wind-down-the-cfpb.html
+  outlet: CNBC
+  date: '2025-03-05'
+- title: The Trump administration has stopped work at the CFPB. Here's what the agency
+    does
+  url: https://www.npr.org/2025/02/10/nx-s1-5292123/the-trump-administration-has-stopped-work-at-the-cfpb-heres-what-the-agency-does
+  outlet: NPR
+  date: '2025-02-10'
+- title: CFPB Probes of Big Tech and Finance Frozen Under Trump
+  url: https://www.propublica.org/article/trump-cfpb-investigation-capital-one-rocket-meta-carvana-greenlight
+  outlet: ProPublica
+  date: '2025-03-03'
+connections: []
+patterns:
+- kleptocratic-capture
+- regulatory-deconstruction
+notes: Hundreds of millions in consumer protection settlements frozen due to agency
+  work stoppage
+capture_lanes:
+- Regulatory Capture
+---
+
+The Trump administration effectively paralyzed the Consumer Financial Protection Bureau (CFPB) in March 2025, freezing hundreds of millions in consumer protection payouts and halting dozens of ongoing corporate investigations. Under Acting Director Russell Vought, the agency's headquarters was shuttered and staff were instructed to cease all work, putting consumer restitution from major financial firms like Navient, Block, and TD Bank at risk.

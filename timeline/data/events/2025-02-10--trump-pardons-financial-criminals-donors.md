@@ -1,0 +1,47 @@
+---
+actors:
+- Donald Trump
+- Rod Blagojevich
+- Todd Chrisley
+- Julie Chrisley
+- Michael Grimm
+- Scott Jenkins
+- Devon Archer
+- Michelle Fiore
+- Brian Kelsey
+- Trevor Milton
+capture_lanes:
+- Legislative Capture
+- Financial Capture
+- Executive Power Expansion
+date: '2025-02-10'
+id: 2025-02-10--trump-pardons-financial-criminals-donors
+importance: 8
+sources:
+- date: '2025-02-10'
+  outlet: NPR
+  title: Trump Pardons Rod Blagojevich, Former Illinois Governor Convicted of Corruption
+  url: https://www.npr.org/2025/02/10/g-s1-47817/trump-pardon-rod-blagojevich-illinois-corruption
+- date: '2025-02-10'
+  outlet: CBS News
+  title: Trump's Pardons of Fraudsters and White-Collar Criminals
+  url: https://www.cbsnews.com/amp/news/trumps-pardons-fraudsters-white-collar-criminals/
+- date: '2025-02-10'
+  outlet: Senator Warren's Office
+  title: Warren Details Trump's Pardons for Financial Criminals
+  url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration
+status: confirmed
+tags:
+- pardon
+- financial-crimes
+- white-collar-crime
+- money-laundering
+- wire-fraud
+- corruption
+- rod-blagojevich
+- clemency
+- executive-power
+title: Trump pardons multiple financial criminals and white-collar offenders
+---
+
+President Trump issued a series of pardons to individuals convicted of financial crimes in February 2025, including Rod Blagojevich (former Illinois governor convicted of corruption), the Chrisleys (reality TV stars convicted of bank fraud), Michael Grimm (former congressman convicted of tax fraud), and several others. These pardons targeted white-collar criminals who Trump claimed were unfairly prosecuted, with many being his political supporters or allies. The pardons highlighted Trump's willingness to use executive clemency power to protect individuals in his political network who had been convicted of financial misconduct.

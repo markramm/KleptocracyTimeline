@@ -1,0 +1,45 @@
+---
+id: 2017-01-01--pecker-removes-trump-files-inauguration
+date: '2017-01-01'
+importance: 8
+title: Pecker and Howard Remove Trump Documents from National Enquirer Safe Before
+  Inauguration
+location: AMI offices, New York
+actors:
+- David Pecker
+- Dylan Howard
+- American Media Inc.
+- Donald Trump
+tags:
+- document-removal
+- pecker-vault
+- evidence-tampering
+- inauguration
+- obstruction
+- kompromat-destruction
+sources:
+- title: National Enquirer removed Trump secrets before inauguration
+  url: https://www.nbcnews.com/politics/donald-trump/national-enquirer-hid-trump-secrets-safe-removed-them-inauguration-n903356
+  outlet: NBC News
+  date: '2018-08-23'
+  archive_url: https://web.archive.org/web/20180823000000/https://www.nbcnews.com/politics/donald-trump/national-enquirer-hid-trump-secrets-safe-removed-them-inauguration-n903356
+- title: Enquirer's safe held damaging Trump stories
+  url: https://www.cnbc.com/2018/08/23/national-enquirers-safe-held-damaging-trump-stories.html
+  outlet: CNBC
+  date: '2018-08-23'
+  archive_url: https://web.archive.org/web/20180823000000/https://www.cnbc.com/2018/08/23/national-enquirers-safe-held-damaging-trump-stories.html
+- title: Former National Enquirer publisher testifies about his role in helping Trump
+    in 2016
+  url: https://www.npr.org/2024/04/27/1247649199/former-national-enquirer-publisher-testifies-about-his-role-in-helping-trump-in-
+  outlet: NPR
+  date: '2024-04-27'
+notes: Second wave of document handling after November shredding. Files found missing
+  from master list later. Fear of legal exposure with Trump becoming president. Trump
+  thanked Pecker for handling situations at Trump Tower meeting. NPR reporting highlights
+  ongoing pattern of document management and potential suppression of damaging stories.
+status: confirmed
+capture_lanes:
+- Systematic Corruption
+---
+
+David Pecker and Dylan Howard remove remaining Trump documents from National Enquirer safe weeks before inauguration, fearing liability, either destroying or relocating files. This action was part of a broader pattern of document management and potential evidence suppression related to Trump's presidential campaign and personal history.

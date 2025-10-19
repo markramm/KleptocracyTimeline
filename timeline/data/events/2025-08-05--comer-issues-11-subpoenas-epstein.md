@@ -1,0 +1,42 @@
+---
+id: 2025-08-05--comer-issues-11-subpoenas-epstein
+date: '2025-08-05'
+importance: 6
+title: Chairman Comer Issues 11 Subpoenas Including Clintons and Former AGs
+actors:
+- James Comer
+- Bill Clinton
+- Hillary Clinton
+- Department of Justice
+tags:
+- epstein-files
+- congressional-oversight
+- subpoenas
+- clinton-connection
+capture_lanes:
+- Epstein Network & Kompromat
+status: confirmed
+sources:
+- title: Chairman Comer Subpoenas Bill and Hillary Clinton, Former U.S. Attorneys
+    General and FBI Directors
+  url: https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/
+  outlet: House Oversight Committee
+  date: '2025-08-05'
+- title: House Oversight chair issues subpoenas for Epstein files, depositions with
+    Clintons
+  url: https://abcnews.go.com/Politics/house-oversight-committee-issues-subpoenas-epstein-files/story?id=124378317
+  outlet: ABC News
+  date: '2025-08-05'
+- title: House Oversight Committee subpoenas Justice Department for Epstein files
+  url: https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress
+  outlet: CNN
+  date: '2025-08-05'
+- title: House Oversight Committee subpoenas the Justice Department for Epstein files
+  url: https://www.npr.org/2025/08/05/nx-s1-5493371/house-oversight-committee-epstein-subpoenas-justice-department
+  outlet: NPR
+  date: '2025-08-05'
+notes: The exclusion of Alex Acosta from subpoenas raised questions about selective
+  investigation.
+---
+
+House Oversight Chairman James Comer escalated dramatically on August 5, 2025, by issuing 11 subpoenas: one to the DOJ demanding complete files by August 19, depositions from Bill and Hillary Clinton, and testimony from six former attorneys general and two former FBI directors. The selection notably excluded Alex Acosta, Trump's former Labor Secretary who negotiated Epstein's controversial 2008 plea deal.

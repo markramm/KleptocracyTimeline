@@ -1,0 +1,51 @@
+---
+id: 2025-04-11--doge-takes-over-federal-grants-website-wresting-control-of-b
+date: '2025-04-11'
+title: Musk's DOGE Team Gains Control of Federal Payment System
+description: Elon Musk's operatives have taken over the U.S. Treasury's federal payment
+  system, gaining unprecedented access to sensitive financial infrastructure and routing
+  significant government transactions through the Department of Government Efficiency
+  (DOGE).
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Elon Musk
+- Department of Government Efficiency (DOGE)
+- David Lebryk
+- Chuck Schumer
+- Patty Murray
+- Ron Wyden
+tags:
+- government-contracts
+- technological-infiltration
+- financial-capture
+capture_type: regulatory_capture
+sources:
+- title: DOGE takes over federal grants website, wresting control of billions
+  url: https://www.washingtonpost.com/politics/2025/04/11/doge-controls-federal-grant-postings/
+  outlet: Washington Post
+  date: '2025-04-11'
+- title: Treasury Dept. gives Elon Musk's team access to federal payment system
+  url: https://abcnews.go.com/US/treasury-dept-elon-musks-team-access-federal-payment/story?id=118380399
+  outlet: ABC News
+  date: '2025-04-11'
+- title: Elon Musk's 19- to 24-year-old aides take control of $6 trillion in government
+    payments
+  url: https://fortune.com/2025/02/03/elon-musk-19-24-year-old-aides-take-control-6-trillion-government-payment-system-social-security-medicare/
+  outlet: Fortune
+  date: '2025-04-11'
+connections:
+- Musk government contract network
+- Federal payment system infiltration
+patterns:
+- kleptocratic-capture
+- technological-coup
+notes: Event demonstrates systematic infiltration of federal financial systems by
+  private actors
+capture_lanes:
+- Financial Capture
+- Technological Capture
+---
+
+In an unprecedented move, Elon Musk's Department of Government Efficiency (DOGE) secured access to the U.S. Treasury's federal payment system, sparking intense controversy among Democratic senators who view this as a potential risk to national financial infrastructure and personal data privacy.
