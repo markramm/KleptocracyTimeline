@@ -37,13 +37,13 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 # Import the comprehensive research client
-sys.path.insert(0, str(Path(__file__).parent))
-from research_client import TimelineResearchClient
+sys.path.insert(0, str(Path(__file__).parent.parent))
+from client.research_client import TimelineResearchClient
 
 # Add server management capability
-sys.path.append(str(Path(__file__).parent / "research_monitor"))
+sys.path.append(str(Path(__file__).parent.parent))
 try:
-    from server_manager import ServerManager
+    from server.server_manager import ServerManager
 except ImportError:
     ServerManager = None
 

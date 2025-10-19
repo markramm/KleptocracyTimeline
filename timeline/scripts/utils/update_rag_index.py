@@ -28,7 +28,7 @@ def convert_dates(obj: Any) -> Any:
 
 def load_timeline_events() -> List[Dict]:
     """Load all timeline events from YAML files"""
-    timeline_dir = Path(__file__).parent.parent.parent / 'data' / 'events'
+    timeline_dir = Path(__file__).parent.parent.parent / 'timeline_data' / 'events'
     events = []
     errors = []
     
