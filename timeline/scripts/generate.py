@@ -38,7 +38,7 @@ from utils import (
 class TimelineGenerator:
     """Generate various outputs from timeline events."""
     
-    def __init__(self, events_dir: str = "timeline_data/events", output_dir: str = "timeline_data"):
+    def __init__(self, events_dir: str = "data/events", output_dir: str = "data"):
         """
         Initialize the generator.
         
@@ -346,13 +346,13 @@ Examples:
     
     parser.add_argument(
         '--events-dir',
-        default='timeline_data/events',
+        default='data/events',
         help='Path to events directory'
     )
     
     parser.add_argument(
         '--output-dir',
-        default='timeline_data',
+        default='data',
         help='Path to output directory'
     )
     

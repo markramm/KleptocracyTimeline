@@ -9,7 +9,7 @@ from collections import Counter
 class EventManager:
     """Centralized event management and loading."""
     
-    def __init__(self, events_dir: str = "timeline_data/events"):
+    def __init__(self, events_dir: str = "data/events"):
         """Initialize EventManager with events directory."""
         self.events_dir = Path(__file__).parent.parent.parent / events_dir
         self._events = None

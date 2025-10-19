@@ -73,7 +73,7 @@ def generate_json(events, output_file):
 
 def main():
     parser = argparse.ArgumentParser(description='Generate CSV and JSON exports of timeline events')
-    parser.add_argument('--events-dir', default='timeline_data/events', 
+    parser.add_argument('--events-dir', default='data/events', 
                         help='Directory containing event YAML files')
     parser.add_argument('--viewer-dir', default='viewer',
                         help='Viewer directory for output files')

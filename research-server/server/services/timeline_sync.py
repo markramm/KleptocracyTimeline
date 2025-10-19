@@ -74,7 +74,7 @@ class TimelineSyncService:
 
         # Get event files that changed
         event_files = [f for f in pull_result['files_changed']
-                      if f.startswith('timeline_data/events/') and f.endswith('.json')]
+                      if f.startswith('timeline/data/events/') and f.endswith('.json')]
 
         # Load each changed event
         for filepath in event_files:

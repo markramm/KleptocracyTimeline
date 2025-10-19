@@ -8,7 +8,7 @@ import argparse
 
 def load_events():
     """Load all events from individual YAML files."""
-    events_dir = Path(__file__).parent.parent / 'timeline_data' / 'events'
+    events_dir = Path(__file__).parent.parent / 'data' / 'events'
     events = []
     
     for yaml_file in sorted(events_dir.glob('*.yaml')):

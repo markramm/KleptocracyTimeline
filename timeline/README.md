@@ -1,6 +1,8 @@
 # Kleptocracy Timeline - Timeline Data & Viewer
 
-This directory contains the core timeline data and static viewer application.
+This directory contains the core timeline data and React viewer application.
+
+**Note**: Hugo static site generator was removed on 2025-10-19 in favor of React-only architecture. See [docs/HUGO_REMOVAL.md](docs/HUGO_REMOVAL.md) for details.
 
 ## Quick Start
 

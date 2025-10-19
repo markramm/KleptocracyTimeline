@@ -21,7 +21,7 @@ MISMATCHED_FILES = [
 
 def fix_id_mismatches():
     """Fix ID/filename mismatches by updating IDs to match filenames."""
-    events_dir = Path('timeline_data/events')
+    events_dir = Path('data/events')
     fixed_count = 0
 
     for filename in MISMATCHED_FILES:

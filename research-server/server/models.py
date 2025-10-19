@@ -14,7 +14,7 @@ Base = declarative_base()
 
 class TimelineEvent(Base):
     """
-    Read-only mirror of timeline_data/events/*.json files
+    Read-only mirror of timeline/data/events/*.json files
     Filesystem is authoritative - this table is only for querying
     """
     __tablename__ = 'timeline_events'

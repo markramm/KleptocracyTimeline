@@ -16,7 +16,7 @@ def main():
     python validate_existing_events.py [directory_path]
     """
     # Use default directory if not specified
-    events_dir = sys.argv[1] if len(sys.argv) > 1 else '/Users/markr/kleptocracy-timeline/timeline_data/events'
+    events_dir = sys.argv[1] if len(sys.argv) > 1 else '/Users/markr/kleptocracy-timeline/data/events'
     
     print(f"Validating events in: {events_dir}")
     

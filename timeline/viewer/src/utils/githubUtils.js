@@ -7,21 +7,21 @@ const GITHUB_REPO = 'https://github.com/markramm/KleptocracyTimeline';
  * Generate GitHub edit URL for an event YAML file
  */
 export const getEventEditUrl = (eventId) => {
-  return `${GITHUB_REPO}/edit/main/timeline_data/events/${eventId}.yaml`;
+  return `${GITHUB_REPO}/edit/main/data/events/${eventId}.yaml`;
 };
 
 /**
  * Generate GitHub view URL for an event YAML file
  */
 export const getEventViewUrl = (eventId) => {
-  return `${GITHUB_REPO}/blob/main/timeline_data/events/${eventId}.yaml`;
+  return `${GITHUB_REPO}/blob/main/data/events/${eventId}.yaml`;
 };
 
 /**
  * Generate GitHub history URL for an event
  */
 export const getEventHistoryUrl = (eventId) => {
-  return `${GITHUB_REPO}/commits/main/timeline_data/events/${eventId}.yaml`;
+  return `${GITHUB_REPO}/commits/main/data/events/${eventId}.yaml`;
 };
 
 /**

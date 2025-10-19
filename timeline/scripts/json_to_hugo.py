@@ -10,10 +10,10 @@ Usage:
     python json_to_hugo.py --input event.json --output content/events/
 
     # Convert all JSON files in directory
-    python json_to_hugo.py --batch timeline_data/events/*.json --output content/events/
+    python json_to_hugo.py --batch data/events/*.json --output content/events/
 
     # Dry run (validation only)
-    python json_to_hugo.py --batch timeline_data/events/*.json --dry-run
+    python json_to_hugo.py --batch data/events/*.json --dry-run
 """
 
 import json

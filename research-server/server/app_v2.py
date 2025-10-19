@@ -549,7 +549,7 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
     from pathlib import Path
     
     event_file = None
-    events_dir = Path(__file__).parent.parent / 'timeline_data' / 'events'
+    events_dir = Path(__file__).parent.parent.parent / 'timeline' / 'data' / 'events'
     
     try:
         # Find event file with detailed logging
@@ -1591,7 +1591,7 @@ def export_priorities():
         # Log for orchestrator to see
 #         logger.info(f"COMMIT THRESHOLD REACHED: {events_since_commit} events ready for commit")
 #         logger.info(f"Exported {len(priorities)} priorities marked as export_worthy")
-#         logger.info("Orchestrator should perform: git add timeline_data/events research_priorities && git commit")
+#         logger.info("Orchestrator should perform: git add timeline/data/events research_priorities && git commit")
         
         # Reset counter
 #         events_since_commit = 0

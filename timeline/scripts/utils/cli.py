@@ -121,7 +121,7 @@ def add_verbosity_arguments(parser: argparse.ArgumentParser) -> None:
     )
 
 def add_input_arguments(parser: argparse.ArgumentParser,
-                        default_dir: str = "timeline_data/events") -> None:
+                        default_dir: str = "data/events") -> None:
     """
     Add input source arguments.
     

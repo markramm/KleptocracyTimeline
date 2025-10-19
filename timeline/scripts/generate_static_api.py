@@ -10,7 +10,7 @@ Usage:
     python generate_static_api.py --events-dir content/events --output-dir public/api
 
     # Generate from JSON files (backward compatible)
-    python generate_static_api.py --events-dir ../../timeline_data/events --output-dir public/api
+    python generate_static_api.py --events-dir data/events --output-dir public/api
 """
 
 import sys
@@ -239,9 +239,9 @@ Examples:
   %(prog)s --events-dir content/events --output-dir public/api
 
   # Generate from JSON files (backward compatible)
-  %(prog)s --events-dir ../../timeline_data/events --output-dir public/api
+  %(prog)s --events-dir data/events --output-dir public/api
 
-  # Default (from parent timeline_data)
+  # Default (from parent data directory)
   %(prog)s
         """
     )
@@ -249,8 +249,8 @@ Examples:
     parser.add_argument(
         '--events-dir',
         type=Path,
-        default='../../timeline_data/events',
-        help='Directory containing event files (default: ../../timeline_data/events)'
+        default='data/events',
+        help='Directory containing event files (default: data/events)'
     )
 
     parser.add_argument(

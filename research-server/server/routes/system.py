@@ -79,11 +79,12 @@ def get_current_summary(db):
             events_missing_sources = 0
             qa_backlog = 0
 
+        commit_threshold = current_app.config.get('COMMIT_THRESHOLD', 10)
         return {
             'total_events': total_events,
             'active_priorities': active_priorities,
             'staged_events_count': app_v2.events_since_commit,
-            'commit_progress': f"{app_v2.events_since_commit}/{app_v2.COMMIT_THRESHOLD}",
+            'commit_progress': f"{app_v2.events_since_commit}/{commit_threshold}",
             'events_needing_validation': events_needing_validation,
             'qa_queue': {
                 'high_priority_events': high_priority_qa,
@@ -192,7 +193,7 @@ def get_stats():
             'session': {
                 'id': app_v2.current_session_id,
                 'events_since_commit': app_v2.events_since_commit,
-                'commit_threshold': app_v2.COMMIT_THRESHOLD
+                'commit_threshold': current_app.config.get('COMMIT_THRESHOLD', 10)
             }
         }
         return jsonify(stats)

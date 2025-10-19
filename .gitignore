@@ -202,3 +202,23 @@ archive/
 coverage_html/
 .coverage
 coverage.json
+
+# Hugo build artifacts
+timeline/.hugo_build.lock
+timeline/public/
+timeline/archetypes/
+timeline/resources/
+
+# Database WAL files (write-ahead log and shared memory)
+*.db-wal
+*.db-shm
+
+# Legacy directories (superseded by research-server/)
+research_monitor/
+api/
+research_api.py
+
+# Backup files
+*.backup
+*.bak
+*.old

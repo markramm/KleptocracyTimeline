@@ -119,7 +119,7 @@ import yaml
 from pathlib import Path
 
 errors = []
-for f in Path('timeline_data/events').glob('*.yaml'):
+for f in Path('data/events').glob('*.yaml'):
     with open(f) as file:
         data = yaml.safe_load(file)
         if data.get('id') != f.stem:

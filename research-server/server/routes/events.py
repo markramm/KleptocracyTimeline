@@ -598,7 +598,7 @@ def trigger_commit():
         # Log for orchestrator to see
         logger.info(f"COMMIT THRESHOLD REACHED: {app_v2.events_since_commit} events ready for commit")
         logger.info(f"Exported {len(priorities)} priorities marked as export_worthy")
-        logger.info("Orchestrator should perform: git add timeline_data/events research_priorities && git commit")
+        logger.info("Orchestrator should perform: git add timeline/data/events research_priorities && git commit")
 
         # Reset counter
         app_v2.events_since_commit = 0

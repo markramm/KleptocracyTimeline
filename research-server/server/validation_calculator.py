@@ -516,7 +516,7 @@ class ValidationRunCalculator:
     
     def archive_rejected_event(self, event_id: str, rejection_reason: str = "") -> bool:
         """
-        Archive a rejected event by moving it from timeline_data/events to archive/rejected_events
+        Archive a rejected event by moving it from timeline/data/events to archive/rejected_events
         
         Args:
             event_id: The event ID to archive
@@ -527,7 +527,7 @@ class ValidationRunCalculator:
         """
         
         # Construct file paths
-        source_path = f"../timeline_data/events/{event_id}.json"
+        source_path = f"../timeline/data/events/{event_id}.json"
         archive_dir = "../archive/rejected_events"
         archive_path = f"{archive_dir}/{event_id}.json"
         log_path = f"{archive_dir}/rejection_log.txt"

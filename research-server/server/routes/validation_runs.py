@@ -102,7 +102,7 @@ def list_validation_runs():
 @require_api_key
 def create_validation_run():
     """Create a new validation run using different sampling strategies"""
-    from validation_run_calculator import ValidationRunCalculator
+    from validation_calculator import ValidationRunCalculator
 
     db = get_db()
     try:
@@ -209,7 +209,7 @@ def create_validation_run():
 @bp.route('/validation-runs/<int:run_id>')
 def get_validation_run(run_id):
     """Get detailed information about a specific validation run"""
-    from validation_run_calculator import ValidationRunCalculator
+    from validation_calculator import ValidationRunCalculator
 
     db = get_db()
     try:
@@ -230,7 +230,7 @@ def get_validation_run(run_id):
 @bp.route('/validation-runs/<int:run_id>/next')
 def get_next_validation_event(run_id):
     """Get the next event to validate from a validation run"""
-    from validation_run_calculator import ValidationRunCalculator
+    from validation_calculator import ValidationRunCalculator
     from models import TimelineEvent
 
     db = get_db()
@@ -284,7 +284,7 @@ def get_next_validation_event(run_id):
 @require_api_key
 def complete_validation_run_event(run_id, run_event_id):
     """Mark a validation run event as completed"""
-    from validation_run_calculator import ValidationRunCalculator
+    from validation_calculator import ValidationRunCalculator
 
     db = get_db()
     try:
@@ -319,7 +319,7 @@ def complete_validation_run_event(run_id, run_event_id):
 @require_api_key
 def requeue_needs_work_events(run_id):
     """Requeue events marked as 'needs_work' back to pending status for re-assignment"""
-    from validation_run_calculator import ValidationRunCalculator
+    from validation_calculator import ValidationRunCalculator
 
     db = get_db()
     try:

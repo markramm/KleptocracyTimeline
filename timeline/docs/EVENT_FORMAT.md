@@ -238,7 +238,7 @@ python3 timeline/scripts/convert_to_markdown.py --input event.json --output even
 
 Or programmatically:
 ```bash
-python3 timeline/scripts/convert_to_markdown.py --input timeline_data/events/2025-01-15--event.json
+python3 timeline/scripts/convert_to_markdown.py --input data/events/2025-01-15--event.json
 ```
 
 This will create `2025-01-15--event.md` with the same data.
@@ -308,10 +308,10 @@ Some people got in trouble for doing bad things with government money.
 
 ## File Organization
 
-Events are stored in `timeline_data/events/`:
+Events are stored in `data/events/`:
 
 ```
-timeline_data/events/
+data/events/
 ├── 1971-08-23--powell-memo-institutional-capture.md
 ├── 1973-01-01--heritage-foundation-establishment.json
 ├── 2002-08-01--whig-formation.md
@@ -347,7 +347,7 @@ Dates must be in `YYYY-MM-DD` format:
 
 Check:
 1. File name matches event ID
-2. File is in `timeline_data/events/` directory
+2. File is in `data/events/` directory
 3. File is not hidden (doesn't start with `.`)
 4. File is not `README.md`
 5. JSON is valid (use `jq` or `python -m json.tool`)
@@ -363,7 +363,7 @@ Common YAML issues:
 
 ## Getting Help
 
-- Check existing events in `timeline_data/events/` for examples
+- Check existing events in `data/events/` for examples
 - Run validation: `python3 research_cli.py validate-event --file event.md`
 - View the schema: Check `timeline/docs/SCHEMA.md`
 - Ask in issues: Create an issue on GitHub for format questions

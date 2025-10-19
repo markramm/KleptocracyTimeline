@@ -96,7 +96,7 @@ def save_json_file(filepath: Union[str, Path], data: Dict[str, Any], indent: int
         json.dump(data, f, indent=indent, ensure_ascii=False, default=str)
 
 
-def get_event_files(events_dir: Union[str, Path] = "timeline_data/events") -> List[Path]:
+def get_event_files(events_dir: Union[str, Path] = "data/events") -> List[Path]:
     """
     Get all event files from the events directory.
 
@@ -202,7 +202,7 @@ def ensure_dir(dirpath: Union[str, Path]) -> Path:
     return dirpath
 
 
-def load_all_events(events_dir: Union[str, Path] = "timeline_data/events") -> List[Dict[str, Any]]:
+def load_all_events(events_dir: Union[str, Path] = "data/events") -> List[Dict[str, Any]]:
     """
     Load all events from the events directory.
     

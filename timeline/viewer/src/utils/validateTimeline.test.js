@@ -3,7 +3,7 @@ import path from 'path';
 import yaml from 'js-yaml';
 
 describe('Timeline YAML Validation', () => {
-  const eventsDir = path.join(process.cwd(), '..', 'timeline_data', 'events');
+  const eventsDir = path.join(process.cwd(), '..', 'data', 'events');
   
   test('all YAML files have IDs matching their filenames', () => {
     // Skip if running in CI or events directory doesn't exist
