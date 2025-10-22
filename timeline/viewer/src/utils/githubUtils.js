@@ -4,24 +4,24 @@ const GITHUB_REPO = 'https://github.com/markramm/KleptocracyTimeline';
 // const GITHUB_RAW = 'https://raw.githubusercontent.com/markramm/KleptocracyTimeline/main';
 
 /**
- * Generate GitHub edit URL for an event YAML file
+ * Generate GitHub edit URL for an event markdown file
  */
 export const getEventEditUrl = (eventId) => {
-  return `${GITHUB_REPO}/edit/main/data/events/${eventId}.yaml`;
+  return `${GITHUB_REPO}/edit/main/timeline/data/events/${eventId}.md`;
 };
 
 /**
- * Generate GitHub view URL for an event YAML file
+ * Generate GitHub view URL for an event markdown file
  */
 export const getEventViewUrl = (eventId) => {
-  return `${GITHUB_REPO}/blob/main/data/events/${eventId}.yaml`;
+  return `${GITHUB_REPO}/blob/main/timeline/data/events/${eventId}.md`;
 };
 
 /**
  * Generate GitHub history URL for an event
  */
 export const getEventHistoryUrl = (eventId) => {
-  return `${GITHUB_REPO}/commits/main/data/events/${eventId}.yaml`;
+  return `${GITHUB_REPO}/commits/main/timeline/data/events/${eventId}.md`;
 };
 
 /**

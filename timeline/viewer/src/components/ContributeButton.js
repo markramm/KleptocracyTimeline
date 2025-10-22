@@ -4,8 +4,8 @@ import './ContributeButton.css';
 
 const ContributeButton = ({ eventId = null, eventTitle = null }) => {
   const [showModal, setShowModal] = useState(false);
-  
-  const repoUrl = 'https://github.com/yourusername/kleptocracy-timeline'; // Update with actual repo
+
+  const repoUrl = 'https://github.com/markramm/KleptocracyTimeline';
   const contributingUrl = `${repoUrl}/blob/main/CONTRIBUTING.md`;
   
   const generateIssueUrl = (type) => {

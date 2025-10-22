@@ -80,7 +80,7 @@ export const API_ENDPOINTS = USE_LIVE_API ? {
 };
 
 // Raw data URL for GitHub (legacy)
-export const RAW_DATA_URL = `https://raw.githubusercontent.com/${process.env.REACT_APP_REPO || 'yourusername/kleptocracy-timeline'}/main/data`;
+export const RAW_DATA_URL = `https://raw.githubusercontent.com/${process.env.REACT_APP_REPO || 'markramm/KleptocracyTimeline'}/main/timeline/data`;
 
 // Helper to transform static JSON to match API format
 export const transformStaticData = (data, endpoint) => {
