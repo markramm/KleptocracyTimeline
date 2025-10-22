@@ -217,6 +217,11 @@ class TestResearchMonitorIntegration(unittest.TestCase):
         # Clean up scoped session
         app_v2.Session.remove()
 
+        # Clear Flask cache to prevent data leakage to next test class
+        cache = app.config.get('CACHE')
+        if cache:
+            cache.clear()
+
         cls.app_context.pop()
         shutil.rmtree(cls.temp_dir)
     
@@ -262,29 +267,27 @@ class TestResearchMonitorIntegration(unittest.TestCase):
         """Test timeline actors endpoint"""
         response = self.app.get('/api/timeline/actors')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertIn('actors', data)
-        
-        # Should include actors from our sample events
-        actor_names = [actor['name'] for actor in data['actors']]
+        self.assertIn('count', data)
+
+        # actors is a list of strings, not objects
+        actor_names = data['actors']
         self.assertIn('Dick Cheney', actor_names)
         self.assertIn('Edward Snowden', actor_names)
-        
-        # Check event counts
-        cheney_actor = next(a for a in data['actors'] if a['name'] == 'Dick Cheney')
-        self.assertGreaterEqual(cheney_actor['event_count'], 1)
     
     def test_timeline_tags_endpoint(self):
         """Test timeline tags endpoint"""
         response = self.app.get('/api/timeline/tags')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertIn('tags', data)
-        
-        # Should include tags from our sample events
-        tag_names = [tag['name'] for tag in data['tags']]
+        self.assertIn('count', data)
+
+        # tags is a list of strings, not objects
+        tag_names = data['tags']
         self.assertIn('surveillance', tag_names)
         self.assertIn('intelligence-leak', tag_names)
         self.assertIn('financial-crisis', tag_names)
@@ -330,12 +333,12 @@ class TestResearchMonitorIntegration(unittest.TestCase):
         """Test tag cloud endpoint"""
         response = self.app.get('/api/viewer/tag-cloud?min_frequency=1')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertIn('tag_cloud', data)
-        
-        # Should include our sample tags
-        tag_names = [tag['name'] for tag in data['tag_cloud']]
+
+        # tag_cloud items use 'text' field, not 'name'
+        tag_names = [tag['text'] for tag in data['tag_cloud']]
         self.assertIn('surveillance', tag_names)
         self.assertIn('intelligence-leak', tag_names)
     

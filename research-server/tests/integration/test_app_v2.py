@@ -90,6 +90,11 @@ class TestResearchMonitorBase(unittest.TestCase):
         import app_v2
         app_v2.Session.remove()
 
+        # Clear Flask cache to prevent data leakage between tests
+        cache = app.config.get('CACHE')
+        if cache:
+            cache.clear()
+
         # Remove temporary directories (including test database)
         if self.test_dir.exists():
             shutil.rmtree(self.test_dir)
@@ -686,7 +691,7 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
                 'importance': 8,
                 'actors': ['Halliburton', 'Dick Cheney'],
                 'tags': ['no-bid-contract', 'iraq'],
-                'sources': [{'title': 'Source 1', 'url': 'https://example.com'}],
+                'sources': [{'title': 'Source 1', 'url': 'https://example.com', 'outlet': 'Example News'}],
                 'status': 'confirmed'
             },
             {
@@ -697,7 +702,7 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
                 'importance': 5,
                 'actors': ['Enron', 'Kenneth Lay'],
                 'tags': ['energy', 'fraud'],
-                'sources': [{'title': 'Source 2', 'url': 'https://example2.com'}],
+                'sources': [{'title': 'Source 2', 'url': 'https://example2.com', 'outlet': 'Example Post'}],
                 'status': 'confirmed'
             },
             {
@@ -708,7 +713,7 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
                 'importance': 6,
                 'actors': ['Dick Cheney', 'Kenneth Lay'],
                 'tags': ['energy', 'politics'],
-                'sources': [{'title': 'Source 3', 'url': 'https://example3.com'}],
+                'sources': [{'title': 'Source 3', 'url': 'https://example3.com', 'outlet': 'Example Times'}],
                 'status': 'confirmed'
             }
         ]
@@ -764,12 +769,13 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
         """Test GET /api/timeline/actors"""
         response = self.client.get('/api/timeline/actors')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertIn('actors', data)
-        
-        # Should have 4 unique actors: Halliburton, Dick Cheney, Enron, Kenneth Lay
-        actor_names = [actor['name'] for actor in data['actors']]
+        self.assertIn('count', data)
+
+        # actors is a list of strings, not objects
+        actor_names = data['actors']
         self.assertIn('Dick Cheney', actor_names)
         self.assertIn('Halliburton', actor_names)
         self.assertIn('Enron', actor_names)
@@ -779,11 +785,13 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
         """Test GET /api/timeline/tags"""
         response = self.client.get('/api/timeline/tags')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertIn('tags', data)
-        
-        tag_names = [tag['name'] for tag in data['tags']]
+        self.assertIn('count', data)
+
+        # tags is a list of strings, not objects
+        tag_names = data['tags']
         self.assertIn('energy', tag_names)
         self.assertIn('iraq', tag_names)
         self.assertIn('no-bid-contract', tag_names)
