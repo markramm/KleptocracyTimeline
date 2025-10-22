@@ -14,13 +14,14 @@ from pathlib import Path
 
 import requests
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, scoped_session
 
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent / 'server'))
 
 from models import Base, TimelineEvent, ResearchPriority, init_database
 from app_v2 import app
+import app_v2
 
 class TestResearchMonitorIntegration(unittest.TestCase):
     """Integration tests with real sample data"""
@@ -163,9 +164,16 @@ class TestResearchMonitorIntegration(unittest.TestCase):
         
         # Initialize test database
         cls.engine = init_database(app.config['DATABASE_PATH'])
-        Session = sessionmaker(bind=cls.engine)
-        cls.session = Session()
-        
+
+        # Replace app_v2's global Session with one using our test database
+        # This ensures both test and Flask app use the SAME database
+        TestSession = scoped_session(sessionmaker(bind=cls.engine))
+        app_v2.Session = TestSession
+        app_v2.engine = cls.engine
+
+        # Get a session for the test to use
+        cls.session = TestSession()
+
         # Load sample data into database
         cls.load_sample_data()
         
@@ -205,6 +213,10 @@ class TestResearchMonitorIntegration(unittest.TestCase):
     def tearDownClass(cls):
         """Clean up test environment"""
         cls.session.close()
+
+        # Clean up scoped session
+        app_v2.Session.remove()
+
         cls.app_context.pop()
         shutil.rmtree(cls.temp_dir)
     

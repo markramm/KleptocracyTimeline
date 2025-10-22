@@ -31,7 +31,7 @@ from models import (
 
 class TestResearchMonitorBase(unittest.TestCase):
     """Base test class with common setup/teardown"""
-    
+
     def setUp(self):
         """Set up test environment"""
         # Create temporary directories
@@ -40,25 +40,38 @@ class TestResearchMonitorBase(unittest.TestCase):
         self.priorities_dir = self.test_dir / 'research_priorities'
         self.events_dir.mkdir(parents=True)
         self.priorities_dir.mkdir(parents=True)
-        
+
+        # Create a temporary database file (shared between test and Flask app)
+        self.test_db_path = str(self.test_dir / 'test.db')
+
         # Patch environment paths
         os.environ['TIMELINE_EVENTS_PATH'] = str(self.events_dir)
         os.environ['RESEARCH_PRIORITIES_PATH'] = str(self.priorities_dir)
-        
+
         # Set up Flask test client
         app.config['TESTING'] = True
+        app.config['EVENTS_PATH'] = self.events_dir
+        app.config['PRIORITIES_PATH'] = self.priorities_dir
+        app.config['DB_PATH'] = self.test_db_path
         self.client = app.test_client()
-        
-        # Initialize test database with proper engine binding
-        self.engine = init_database(':memory:')
-        # Update the global Session to use our test engine
-        from sqlalchemy.orm import sessionmaker
-        TestSession = sessionmaker(bind=self.engine)
+
+        # Initialize test database with file-based DB (not in-memory)
+        # This ensures both test and Flask app use the SAME database
+        self.engine = init_database(self.test_db_path)
+
+        # Replace app_v2's global Session with one using our test database
+        import app_v2
+        from sqlalchemy.orm import sessionmaker, scoped_session
+        TestSession = scoped_session(sessionmaker(bind=self.engine))
+        app_v2.Session = TestSession
+        app_v2.engine = self.engine
+
+        # Get a session for the test to use
         self.session = TestSession()
-        
+
         # Ensure all tables exist
         Base.metadata.create_all(self.engine)
-        
+
         # Clear any existing data
         try:
             self.session.query(TimelineEvent).delete()
@@ -67,13 +80,17 @@ class TestResearchMonitorBase(unittest.TestCase):
         except Exception as e:
             print(f"Warning: Could not clear test data: {e}")
             self.session.rollback()
-    
+
     def tearDown(self):
         """Clean up test environment"""
         # Close database session
         self.session.close()
-        
-        # Remove temporary directories
+
+        # Clean up scoped session
+        import app_v2
+        app_v2.Session.remove()
+
+        # Remove temporary directories (including test database)
         if self.test_dir.exists():
             shutil.rmtree(self.test_dir)
     
