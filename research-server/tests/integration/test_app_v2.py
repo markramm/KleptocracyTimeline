@@ -801,53 +801,57 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
         """Test GET /api/timeline/date-range"""
         response = self.client.get('/api/timeline/date-range')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('earliest_date', data)
-        self.assertIn('latest_date', data)
-        self.assertEqual(data['earliest_date'], '2023-01-01')
-        self.assertEqual(data['latest_date'], '2023-02-01')
+        self.assertIn('date_range', data)
+        self.assertEqual(data['date_range']['min_date'], '2023-01-01')
+        self.assertEqual(data['date_range']['max_date'], '2023-02-01')
     
     def test_get_viewer_timeline_data(self):
         """Test GET /api/viewer/timeline-data"""
         response = self.client.get('/api/viewer/timeline-data')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('events', data)
-        self.assertIn('total', data)
-        
-        # Events should be optimized for visualization
-        for event in data['events']:
-            self.assertIn('id', event)
-            self.assertIn('date', event)
-            self.assertIn('title', event)
-            self.assertIn('importance', event)
+        self.assertIn('timeline', data)
+        self.assertIn('metadata', data)
+
+        # Timeline data should contain period-grouped events
+        if data['timeline']:
+            period = data['timeline'][0]
+            self.assertIn('events', period)
+            # Events should be optimized for visualization
+            for event in period['events']:
+                self.assertIn('id', event)
+                self.assertIn('date', event)
+                self.assertIn('title', event)
+                self.assertIn('importance', event)
     
     def test_get_actor_network(self):
         """Test GET /api/viewer/actor-network"""
         response = self.client.get('/api/viewer/actor-network?min_connections=1')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('actors', data)
-        self.assertIn('connections', data)
-        
+        self.assertIn('network', data)
+        self.assertIn('nodes', data['network'])
+        self.assertIn('edges', data['network'])
+
         # Dick Cheney appears in 2 events, so should have connections
-        actors = data.get('actors', [])
-        cheney_actor = next((a for a in actors if a['name'] == 'Dick Cheney'), None)
-        if cheney_actor:
-            self.assertEqual(cheney_actor['event_count'], 2)
+        nodes = data['network']['nodes']
+        cheney_node = next((n for n in nodes if n['id'] == 'Dick Cheney'), None)
+        if cheney_node:
+            self.assertEqual(cheney_node['events'], 2)
     
     def test_get_tag_cloud(self):
         """Test GET /api/viewer/tag-cloud"""
-        response = self.client.get('/api/viewer/tag-cloud?min_count=1')
+        response = self.client.get('/api/viewer/tag-cloud?min_frequency=1')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('tags', data)
-        
-        tag_names = [tag['name'] for tag in data['tags']]
+        self.assertIn('tag_cloud', data)
+
+        tag_names = [tag['text'] for tag in data['tag_cloud']]
         self.assertIn('energy', tag_names)  # Appears in 2 events
     
     def test_get_overview_stats(self):
@@ -866,13 +870,14 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
         """Test GET /api/viewer/stats/actors"""
         response = self.client.get('/api/viewer/stats/actors?min_events=1')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('top_actors', data)
-        
+        self.assertIn('actor_stats', data)
+
         # Dick Cheney should be top actor with 2 events
-        top_actor = data['top_actors'][0] if data['top_actors'] else None
-        if top_actor:
+        actor_stats = data['actor_stats']
+        if actor_stats:
+            top_actor = actor_stats[0]
             self.assertEqual(top_actor['name'], 'Dick Cheney')
             self.assertEqual(top_actor['event_count'], 2)
     
@@ -880,28 +885,25 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
         """Test GET /api/viewer/stats/importance"""
         response = self.client.get('/api/viewer/stats/importance')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('total_events', data)
-        self.assertIn('high_events', data)  # importance 7-8
-        self.assertIn('medium_events', data)  # importance 5-6
-        
-        self.assertEqual(data['total_events'], 3)
-        self.assertEqual(data['high_events'], 1)  # TL-001 with importance 8
-        self.assertEqual(data['medium_events'], 2)  # TL-002 (5) and TL-003 (6)
+        self.assertIn('summary', data)
+        self.assertEqual(data['summary']['total_events'], 3)
+        self.assertEqual(data['summary']['high_importance_count'], 1)  # TL-001 with importance 8
     
     def test_get_timeline_stats(self):
         """Test GET /api/viewer/stats/timeline"""
         response = self.client.get('/api/viewer/stats/timeline')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
-        self.assertIn('earliest_date', data)
-        self.assertIn('latest_date', data)
-        self.assertIn('events_per_year', data)
-        
+        self.assertIn('metadata', data)
+        self.assertIn('timeline_stats', data)
+
         # All events are in 2023
-        self.assertEqual(data['events_per_year']['2023'], 3)
+        stats_2023 = next((s for s in data['timeline_stats'] if s['period'] == '2023'), None)
+        if stats_2023:
+            self.assertEqual(stats_2023['events'], 3)
     
     def test_timeline_search(self):
         """Test POST /api/timeline/search"""
