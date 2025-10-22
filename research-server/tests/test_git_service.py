@@ -13,7 +13,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
 
 from services.git_service import GitService
-from core.config import GitConfig
+from config import GitConfig
 
 
 class TestGitService(unittest.TestCase):

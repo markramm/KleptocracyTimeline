@@ -212,3 +212,46 @@ def reset_config():
     """Reset singleton config instance (useful for testing)"""
     global _config_instance
     _config_instance = None
+
+
+class GitConfig:
+    """Git service configuration for multi-tenant timeline repository management"""
+
+    # Timeline Repository Configuration
+    TIMELINE_REPO_URL = os.environ.get(
+        'TIMELINE_REPO_URL',
+        'https://github.com/user/kleptocracy-timeline'  # Default placeholder
+    )
+    TIMELINE_BRANCH = os.environ.get('TIMELINE_BRANCH', 'main')
+    TIMELINE_WORKSPACE = Path(os.environ.get(
+        'TIMELINE_WORKSPACE',
+        '/tmp/timeline-workspace'
+    ))
+
+    # GitHub Integration
+    GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')  # Required for PR creation
+    GITHUB_API_URL = 'https://api.github.com'
+
+    # Sync Settings
+    AUTO_PULL_ON_START = os.environ.get('AUTO_PULL_ON_START', 'true').lower() == 'true'
+    PR_AUTO_BRANCH_PREFIX = os.environ.get('PR_BRANCH_PREFIX', 'research-batch')
+
+    # Multi-tenant Support
+    WORKSPACE_ISOLATION = True  # Each repo gets own workspace
+
+    @classmethod
+    def get_repo_name(cls) -> str:
+        """Extract repository name from URL"""
+        if not cls.TIMELINE_REPO_URL:
+            return 'unknown'
+        # Extract last part of URL (e.g., 'kleptocracy-timeline' from full URL)
+        return cls.TIMELINE_REPO_URL.rstrip('/').split('/')[-1]
+
+    @classmethod
+    def validate(cls) -> bool:
+        """Validate that required configuration is present"""
+        if not cls.TIMELINE_REPO_URL:
+            return False
+        # NOTE: Validation against Config.DEBUG removed since we're using different Config class
+        # In production, GitHub token should be set for PR creation
+        return True

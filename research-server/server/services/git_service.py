@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Dict, Any, List, Optional, cast
 from datetime import datetime, timezone
 
-from core.config import Config, GitConfig
+from server.config import GitConfig
 
 
 class GitService:

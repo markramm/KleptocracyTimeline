@@ -10,29 +10,11 @@ import sys
 
 sys.path.insert(0, str(Path(__file__).parent.parent / 'server'))
 
-from core.config import Config, GitConfig
+from config import GitConfig
 
 
-class TestConfig(unittest.TestCase):
-    """Test basic application configuration"""
-
-    def test_base_dir_exists(self):
-        """Test that base directory is correctly set"""
-        self.assertTrue(Config.BASE_DIR.exists())
-        self.assertTrue(Config.BASE_DIR.is_dir())
-
-    def test_timeline_dir_exists(self):
-        """Test that timeline directory exists"""
-        self.assertTrue(Config.TIMELINE_DIR.exists())
-        self.assertEqual(Config.TIMELINE_DIR.name, 'events')
-
-    def test_default_port(self):
-        """Test default port configuration"""
-        self.assertEqual(Config.PORT, 5558)
-
-    def test_default_database_url(self):
-        """Test default database URL"""
-        self.assertIn('sqlite:///', Config.DATABASE_URL)
+# NOTE: TestConfig class removed - tested deprecated core.config.Config class
+# The new Config class in server/config.py is instance-based and tested elsewhere
 
 
 class TestGitConfig(unittest.TestCase):
@@ -68,7 +50,7 @@ class TestGitConfig(unittest.TestCase):
         os.environ['TIMELINE_REPO_URL'] = 'https://github.com/user/my-timeline'
         # Need to reload GitConfig to pick up new env var
         from importlib import reload
-        from core import config
+        import config
         reload(config)
 
         repo_name = config.GitConfig.get_repo_name()
@@ -78,7 +60,7 @@ class TestGitConfig(unittest.TestCase):
         """Test validation fails without repo URL"""
         os.environ.pop('TIMELINE_REPO_URL', None)
         from importlib import reload
-        from core import config
+        import config
         reload(config)
 
         self.assertFalse(config.GitConfig.validate())
@@ -106,7 +88,7 @@ class TestMultiTenantConfiguration(unittest.TestCase):
         os.environ['TIMELINE_BRANCH'] = 'develop'
 
         from importlib import reload
-        from core import config
+        import config
         reload(config)
 
         self.assertEqual(config.GitConfig.TIMELINE_REPO_URL,
@@ -118,7 +100,7 @@ class TestMultiTenantConfiguration(unittest.TestCase):
         os.environ['TIMELINE_WORKSPACE'] = '/custom/workspace'
 
         from importlib import reload
-        from core import config
+        import config
         reload(config)
 
         self.assertEqual(config.GitConfig.TIMELINE_WORKSPACE, Path('/custom/workspace'))

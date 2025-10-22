@@ -49,7 +49,7 @@ except ImportError:
 
 # Add git service layer imports
 try:
-    from server.core.config import GitConfig
+    from server.config import GitConfig
     from server.services.git_service import GitService
     from server.services.timeline_sync import TimelineSyncService
     from server.services.pr_builder import PRBuilderService
