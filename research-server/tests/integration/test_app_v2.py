@@ -235,91 +235,70 @@ class TestDatabaseModels(TestResearchMonitorBase):
 class TestFilesystemSync(TestResearchMonitorBase):
     """Test filesystem synchronization functionality"""
     
-    @patch('app_v2.EVENTS_PATH')
-    @patch('app_v2.Session')
-    def test_sync_events_from_filesystem(self, mock_session_class, mock_events_path):
+    def test_sync_events_from_filesystem(self):
         """Test syncing events from filesystem to database"""
-        # Set up mocks
-        mock_events_path.glob.return_value = []
-        mock_session_class.return_value = self.session
-        
-        # Create test events
+        # Create test events (they will be in self.events_dir which is already configured in setUp)
         self.create_test_event('event-001', '2023-01-01')
         self.create_test_event('event-002', '2023-01-02')
-        
-        # Set up path mock to return our test files
-        mock_events_path.glob.return_value = list(self.events_dir.glob('*.json'))
-        
+
         # Run sync
         syncer = FilesystemSyncer()
         syncer.sync_events()
-        
+
         # Verify events were synced
         events = self.session.query(TimelineEvent).all()
         self.assertEqual(len(events), 2)
-        
+
         event_ids = [e.id for e in events]
         self.assertIn('event-001', event_ids)
         self.assertIn('event-002', event_ids)
     
-    @patch('app_v2.EVENTS_PATH')
-    @patch('app_v2.Session')
-    def test_sync_detects_changes(self, mock_session_class, mock_events_path):
+    def test_sync_detects_changes(self):
         """Test that sync detects file changes"""
-        # Set up mocks
-        mock_session_class.return_value = self.session
-        
         # Create and sync initial event
         event_path, event_data = self.create_test_event('event-001')
-        mock_events_path.glob.return_value = list(self.events_dir.glob('*.json'))
-        
+
         syncer = FilesystemSyncer()
         syncer.sync_events()
-        
+
         # Get initial hash
         event = self.session.query(TimelineEvent).filter_by(id='event-001').first()
         initial_hash = event.file_hash
-        
+
         # Modify event file
         event_data['title'] = 'Modified Title'
         with open(event_path, 'w') as f:
             json.dump(event_data, f, indent=2)
-        
+
         # Sync again
         syncer.sync_events()
-        
+
         # Verify hash changed
         event = self.session.query(TimelineEvent).filter_by(id='event-001').first()
         self.assertNotEqual(event.file_hash, initial_hash)
         self.assertEqual(event.title, 'Modified Title')
     
-    @patch('app_v2.PRIORITIES_PATH')
-    @patch('app_v2.Session')
-    def test_seed_priorities_only_if_not_exists(self, mock_session_class, mock_priorities_path):
+    def test_seed_priorities_only_if_not_exists(self):
         """Test that priorities are only seeded if they don't exist"""
-        # Set up mocks
-        mock_session_class.return_value = self.session
-        
         # Create priority file
         self.create_test_priority('RT-001', 'pending')
-        mock_priorities_path.glob.return_value = list(self.priorities_dir.glob('*.json'))
-        
+
         # Seed priorities
         syncer = FilesystemSyncer()
         syncer.seed_priorities()
-        
+
         # Verify priority was seeded
         priority = self.session.query(ResearchPriority).filter_by(id='RT-001').first()
         self.assertIsNotNone(priority)
         original_status = priority.status
-        
+
         # Modify priority in database
         priority.status = 'completed'
         self.session.commit()
-        
+
         # Run seed again
         syncer.seed_priorities()
-        
+
         # Verify database wasn't overwritten
         priority = self.session.query(ResearchPriority).filter_by(id='RT-001').first()
         self.assertEqual(priority.status, 'completed')  # Should remain completed
@@ -755,29 +734,28 @@ class TestTimelineViewerAPI(TestResearchMonitorBase):
         """Test GET /api/timeline/events"""
         response = self.client.get('/api/timeline/events')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertIn('events', data)
-        self.assertIn('total', data)
-        self.assertIn('page', data)
-        self.assertEqual(data['total'], 3)
+        self.assertIn('pagination', data)
+        self.assertEqual(data['pagination']['total'], 3)
         self.assertEqual(len(data['events']), 3)
     
     def test_get_timeline_events_with_pagination(self):
         """Test timeline events with pagination"""
-        response = self.client.get('/api/timeline/events?page=1&limit=2')
+        response = self.client.get('/api/timeline/events?page=1&per_page=2')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertEqual(len(data['events']), 2)
-        self.assertEqual(data['page'], 1)
-        self.assertEqual(data['limit'], 2)
+        self.assertEqual(data['pagination']['page'], 1)
+        self.assertEqual(data['pagination']['per_page'], 2)
     
     def test_get_timeline_events_with_importance_filter(self):
         """Test filtering by importance"""
-        response = self.client.get('/api/timeline/events?min_importance=7')
+        response = self.client.get('/api/timeline/events?importance_min=7')
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertEqual(len(data['events']), 1)  # Only TL-001 has importance 8
         self.assertEqual(data['events'][0]['id'], 'TL-001')
