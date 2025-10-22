@@ -1,14 +1,40 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './LandingPage.css';
 
 const LandingPage = ({ onEnterTimeline }) => {
+  const [stats, setStats] = useState({
+    total_events: 1580,
+    total_sources: 5670,
+    total_actors: 3188,
+    total_tags: 3340,
+    yearsCovered: 54
+  });
+
+  useEffect(() => {
+    // Load real stats from API
+    fetch('/api/stats.json')
+      .then(res => res.json())
+      .then(data => {
+        const startYear = parseInt(data.date_range.start.split('-')[0]);
+        const endYear = parseInt(data.date_range.end.split('-')[0]);
+        setStats({
+          total_events: data.total_events,
+          total_sources: data.total_sources,
+          total_actors: data.total_actors,
+          total_tags: data.total_tags,
+          yearsCovered: endYear - startYear
+        });
+      })
+      .catch(err => console.error('Failed to load stats:', err));
+  }, []);
+
   return (
     <div className="landing-page">
       <div className="landing-content">
         <header className="landing-header">
           <h1>The Kleptocracy Timeline</h1>
           <p className="tagline">Open Source Intelligence for Democratic Defense</p>
-          
+
           <button className="hero-enter-btn" onClick={onEnterTimeline}>
             View Interactive Timeline →
           </button>
@@ -76,15 +102,15 @@ const LandingPage = ({ onEnterTimeline }) => {
 
         <section className="stats-preview">
           <div className="stat-card">
-            <div className="stat-number">790</div>
+            <div className="stat-number">{stats.total_events.toLocaleString()}</div>
             <div className="stat-label">Documented Events</div>
           </div>
           <div className="stat-card">
-            <div className="stat-number">3,000+</div>
+            <div className="stat-number">{stats.total_sources.toLocaleString()}</div>
             <div className="stat-label">Verified Sources</div>
           </div>
           <div className="stat-card">
-            <div className="stat-number">54</div>
+            <div className="stat-number">{stats.yearsCovered}</div>
             <div className="stat-label">Years Covered</div>
           </div>
           <div className="stat-card">
@@ -212,6 +238,17 @@ const LandingPage = ({ onEnterTimeline }) => {
           <p className="footer-tagline">
             "Those who would destroy democracy depend on our ignorance. This timeline is our defense."
           </p>
+          <div className="footer-legal">
+            <p>
+              <strong>Disclaimer:</strong> This timeline documents publicly available information from credible sources.
+              While we strive for accuracy, events may contain errors or require updates as new information emerges.
+              All events are sourced and can be independently verified. This is a living document maintained by
+              the community.
+            </p>
+            <p className="footer-copyright">
+              © 2025 Kleptocracy Timeline Project | Data: <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> | Code: <a href="https://github.com/markramm/KleptocracyTimeline/blob/main/LICENSE-MIT" target="_blank" rel="noopener noreferrer">MIT License</a>
+            </p>
+          </div>
         </footer>
       </div>
     </div>

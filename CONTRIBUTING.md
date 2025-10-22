@@ -27,7 +27,7 @@ Thank you for helping document threats to democracy! This guide will help you co
 
 Search existing events first:
 ```bash
-grep -r "your search term" timeline_data/events/
+grep -r "your search term" timeline/data/events/
 ```
 
 ### Step 2: Choose Your Format
@@ -51,7 +51,7 @@ Both formats are fully equivalent. Use whichever you're more comfortable with!
 
 #### Option A: JSON Format
 
-Create a new file in `timeline_data/events/` named:
+Create a new file in `timeline/data/events/` named:
 ```
 YYYY-MM-DD--brief-description.json
 ```
@@ -90,7 +90,7 @@ YYYY-MM-DD--brief-description.json
 
 #### Option B: Markdown Format
 
-Create a new file in `timeline_data/events/` named:
+Create a new file in `timeline/data/events/` named:
 ```
 YYYY-MM-DD--brief-description.md
 ```
@@ -225,7 +225,7 @@ python3 tools/validation/validate_timeline_dates.py
 python3 tools/validation/validate_timeline_dates.py
 
 # Check for broken links
-python3 tools/archiving/link_check.py timeline_data/events/
+python3 timeline/scripts/check_links.py timeline/data/events/
 
 # Build searchable index
 python3 tools/generation/build_timeline_index.py

@@ -27,6 +27,8 @@
     "build:gh-pages": "PUBLIC_URL=/KleptocracyTimeline react-scripts build && npm run copy-data",
     "copy-data": "test -f public/timeline_events.csv && cp public/timeline_events.csv build/ || echo 'CSV not found'; test -f public/timeline_events.json && cp public/timeline_events.json build/ || echo 'JSON not found'",
     "test": "react-scripts test",
+    "test:ci": "react-scripts test --testPathPattern=\"(LandingPage|ViewToggle)\\.test\\.js$\" --watchAll=false --passWithNoTests",
+    "test:all": "react-scripts test --watchAll=false --passWithNoTests",
     "eject": "react-scripts eject"
   },
   "homepage": "https://markramm.github.io/KleptocracyTimeline",
