@@ -28,6 +28,9 @@ from models import (
     Base, TimelineEvent, EventMetadata, ResearchPriority,
     EventResearchLink, ActivityLog, ResearchSession, init_database
 )
+# Import functions moved to routes modules
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / 'server' / 'routes'))
+from events import trigger_commit
 
 class TestResearchMonitorBase(unittest.TestCase):
     """Base test class with common setup/teardown"""
@@ -388,18 +391,21 @@ class TestAPIEndpoints(TestResearchMonitorBase):
     
     def test_validate_event(self):
         """Test event validation endpoint"""
-        # Valid event
+        # Valid event with all required fields
         valid_event = {
-            'id': 'test-001',
+            'id': '2023-01-01--test-event',
             'date': '2023-01-01',
             'title': 'Test Event',
             'summary': 'Test summary',
-            'sources': [{'url': 'https://example.com', 'title': 'Source'}]
+            'importance': 5,
+            'actors': ['Test Actor'],
+            'tags': ['test'],
+            'sources': [{'url': 'https://example.com', 'title': 'Source', 'publisher': 'Example'}]
         }
-        
+
         response = self.client.post('/api/events/validate', json=valid_event)
         self.assertEqual(response.status_code, 200)
-        
+
         data = json.loads(response.data)
         self.assertTrue(data['valid'])
         self.assertEqual(len(data['errors']), 0)
@@ -492,9 +498,13 @@ class TestAPIEndpoints(TestResearchMonitorBase):
 class TestCommitOrchestration(TestResearchMonitorBase):
     """Test commit orchestration functionality"""
     
-    @patch('subprocess.run')
-    def test_trigger_commit(self, mock_run):
-        """Test commit triggering"""
+    def test_trigger_commit(self):
+        """Test commit orchestration - exports priorities and signals commit needed"""
+        import app_v2
+
+        # Set initial events counter
+        app_v2.events_since_commit = 10
+
         # Create export-worthy priority
         priority = ResearchPriority(
             id='RT-001',
@@ -505,19 +515,17 @@ class TestCommitOrchestration(TestResearchMonitorBase):
         )
         self.session.add(priority)
         self.session.commit()
-        
-        # Mock git commands
-        mock_run.return_value = Mock(returncode=0)
-        
-        # Trigger commit
-        trigger_commit()
-        
-        # Verify git commands were called
-        self.assertEqual(mock_run.call_count, 2)  # git add and git commit
-        
+
+        # Trigger commit (needs app context for current_app.config)
+        with app.app_context():
+            trigger_commit()
+
         # Verify priority was exported to file
         priority_file = self.priorities_dir / 'RT-001.json'
         self.assertTrue(priority_file.exists())
+
+        # Verify counter was reset
+        self.assertEqual(app_v2.events_since_commit, 0)
         
         with open(priority_file) as f:
             data = json.load(f)
@@ -555,12 +563,14 @@ class TestThreadSafety(TestResearchMonitorBase):
     
     def test_concurrent_database_access(self):
         """Test that concurrent access doesn't cause issues"""
+        import app_v2
         results = []
         errors = []
-        
+
         def write_priority(thread_id):
             try:
-                session = Session()
+                # Use app_v2.Session() which has been patched to use test database
+                session = app_v2.Session()
                 priority = ResearchPriority(
                     id=f'RT-{thread_id:03d}',
                     title=f'Thread {thread_id}',
@@ -626,23 +636,32 @@ class TestErrorHandling(TestResearchMonitorBase):
     
     def test_handle_duplicate_event_id(self):
         """Test handling of duplicate event IDs"""
-        # Create event
+        # Create event in database
         event = TimelineEvent(
-            id='duplicate', 
-            title='First', 
-            file_path='/test', 
+            id='2023-01-01--duplicate-test',
+            title='First',
+            file_path='/test',
             file_hash='h1',
-            json_content={'id': 'duplicate', 'title': 'First'}
+            json_content={'id': '2023-01-01--duplicate-test', 'date': '2023-01-01', 'title': 'First'}
         )
         self.session.add(event)
         self.session.commit()
-        
-        # Try to validate duplicate
-        response = self.client.post('/api/events/validate', json={'id': 'duplicate'})
+
+        # Try to validate a complete event with duplicate ID
+        response = self.client.post('/api/events/validate', json={
+            'id': '2023-01-01--duplicate-test',
+            'date': '2023-01-01',
+            'title': 'Duplicate Event',
+            'summary': 'This is a duplicate',
+            'importance': 5,
+            'actors': ['Test'],
+            'tags': ['test'],
+            'sources': [{'url': 'https://example.com', 'title': 'Source', 'publisher': 'Example'}]
+        })
         data = json.loads(response.data)
-        
+
         self.assertFalse(data['valid'])
-        self.assertIn('Event duplicate already exists', data['errors'][0])
+        self.assertIn('already exists', data['errors'][0].lower())
     
     def test_api_key_required(self):
         """Test that API key is required for write operations"""
