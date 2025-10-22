@@ -470,3 +470,462 @@ This architecture supports your vision of:
 4. Add working set functionality
 5. Test multi-timeline support
 
+
+## Deterministic Formatting for Clean Git Diffs
+
+### The Problem
+
+Bad diffs make review impossible:
+```diff
+- {"actors": ["Trump", "Musk", "Thiel"], "tags": ["corruption", "crypto"]}
++ {"tags": ["crypto", "corruption"], "actors": ["Musk", "Trump", "Thiel"]}
+```
+This looks like everything changed, but it's just reordering.
+
+### The Solution: Stable, Deterministic Formatting
+
+#### 1. **Alphabetical Sorting for Lists**
+
+All list fields sorted alphabetically for stable diffs:
+
+```python
+def normalize_event(event: dict) -> dict:
+    """Normalize event for deterministic serialization"""
+    normalized = event.copy()
+    
+    # Sort all list fields alphabetically
+    if 'actors' in normalized:
+        normalized['actors'] = sorted(normalized['actors'])
+    
+    if 'tags' in normalized:
+        normalized['tags'] = sorted(normalized['tags'])
+    
+    # Sources: sort by tier first, then alphabetically by title
+    if 'sources' in normalized:
+        normalized['sources'] = sorted(
+            normalized['sources'],
+            key=lambda s: (s.get('tier', 99), s.get('title', ''))
+        )
+    
+    return normalized
+```
+
+**Good diff when actor added**:
+```diff
+  "actors": [
++   "Kushner, Jared",
+    "Musk, Elon",
+    "Trump, Donald"
+  ]
+```
+
+#### 2. **Consistent JSON Formatting**
+
+Use Python's `json.dumps` with consistent settings:
+
+```python
+def write_event_file(event_id: str, data: dict) -> Path:
+    """Write event with deterministic formatting"""
+    
+    # Normalize data
+    normalized = normalize_event(data)
+    
+    # Write with consistent formatting
+    event_path = events_dir / f"{event_id}.json"
+    with open(event_path, 'w', encoding='utf-8') as f:
+        json.dump(
+            normalized,
+            f,
+            indent=2,              # 2-space indent (GitHub default)
+            sort_keys=True,        # Sort object keys alphabetically
+            ensure_ascii=False,    # Allow unicode characters
+            separators=(',', ': ') # Consistent spacing
+        )
+        f.write('\n')  # Trailing newline (POSIX standard)
+    
+    return event_path
+```
+
+#### 3. **Field Ordering in JSON**
+
+Use OrderedDict or Python 3.7+ dict ordering guarantee:
+
+```python
+from collections import OrderedDict
+
+def order_event_fields(event: dict) -> OrderedDict:
+    """Order fields for consistent diffs"""
+    ordered = OrderedDict()
+    
+    # Standard field order
+    field_order = [
+        'id',
+        'date',
+        'title',
+        'summary',
+        'importance',
+        'status',
+        'actors',
+        'tags',
+        'sources',
+        'related_events',
+        'notes'
+    ]
+    
+    # Add fields in defined order
+    for field in field_order:
+        if field in event:
+            ordered[field] = event[field]
+    
+    # Add any extra fields at end (sorted)
+    extra_fields = sorted(set(event.keys()) - set(field_order))
+    for field in extra_fields:
+        ordered[field] = event[field]
+    
+    return ordered
+```
+
+#### 4. **Source Normalization**
+
+Consistent source formatting:
+
+```python
+def normalize_source(source: dict) -> dict:
+    """Normalize source for stable diffs"""
+    return OrderedDict([
+        ('url', source['url']),
+        ('title', source.get('title', '')),
+        ('publisher', source.get('publisher', '')),
+        ('date', source.get('date', '')),
+        ('tier', source.get('tier', 2)),
+        ('archive_url', source.get('archive_url', ''))
+    ])
+
+# Sources sorted by: tier (ascending), then title (alphabetical)
+sources = sorted(
+    [normalize_source(s) for s in event['sources']],
+    key=lambda s: (s['tier'], s['title'])
+)
+```
+
+### Example: Clean Diff After QA Enhancement
+
+**Before (agent-created)**:
+```json
+{
+  "id": "2025-01-15--trump-crypto-deal",
+  "date": "2025-01-15",
+  "title": "Trump announces crypto partnership",
+  "summary": "Basic summary",
+  "importance": 7,
+  "actors": ["Trump, Donald"],
+  "tags": ["crypto"],
+  "sources": [
+    {
+      "url": "https://example.com/article",
+      "title": "News article",
+      "tier": 2
+    }
+  ]
+}
+```
+
+**After (QA enhanced)**:
+```json
+{
+  "id": "2025-01-15--trump-crypto-deal",
+  "date": "2025-01-15",
+  "title": "Trump announces crypto partnership",
+  "summary": "Enhanced summary with more context and details",
+  "importance": 8,
+  "actors": ["Musk, Elon", "Trump, Donald"],
+  "tags": ["conflicts-of-interest", "crypto"],
+  "sources": [
+    {
+      "archive_url": "https://archive.org/...",
+      "date": "2025-01-15",
+      "publisher": "Reuters",
+      "tier": 1,
+      "title": "Trump crypto deal details",
+      "url": "https://reuters.com/article"
+    },
+    {
+      "date": "2025-01-15",
+      "publisher": "Example News",
+      "tier": 2,
+      "title": "News article",
+      "url": "https://example.com/article"
+    }
+  ]
+}
+```
+
+**Git diff**:
+```diff
+   "summary": "Enhanced summary with more context and details",
+-  "importance": 7,
++  "importance": 8,
+   "actors": [
++    "Musk, Elon",
+     "Trump, Donald"
+   ],
+   "tags": [
++    "conflicts-of-interest",
+     "crypto"
+   ],
+   "sources": [
++    {
++      "archive_url": "https://archive.org/...",
++      "date": "2025-01-15",
++      "publisher": "Reuters",
++      "tier": 1,
++      "title": "Trump crypto deal details",
++      "url": "https://reuters.com/article"
++    },
+     {
++      "date": "2025-01-15",
++      "publisher": "Example News",
+       "tier": 2,
+       "title": "News article",
+       "url": "https://example.com/article"
+     }
+   ]
+```
+
+**Clear changes**:
+- ✅ Summary enhanced
+- ✅ Importance increased 7→8
+- ✅ Actor added: Musk
+- ✅ Tag added: conflicts-of-interest
+- ✅ Tier-1 source added (Reuters)
+- ✅ Original source enhanced with metadata
+
+### Alternative: Markdown Format for Better Diffs
+
+Consider Markdown instead of JSON for even cleaner diffs:
+
+**events/2025-01-15--trump-crypto-deal.md**:
+```markdown
+---
+id: 2025-01-15--trump-crypto-deal
+date: 2025-01-15
+title: Trump announces crypto partnership
+importance: 8
+status: validated
+actors:
+  - Musk, Elon
+  - Trump, Donald
+tags:
+  - conflicts-of-interest
+  - crypto
+sources:
+  - url: https://reuters.com/article
+    title: Trump crypto deal details
+    publisher: Reuters
+    date: 2025-01-15
+    tier: 1
+    archive_url: https://archive.org/...
+  - url: https://example.com/article
+    title: News article
+    publisher: Example News
+    date: 2025-01-15
+    tier: 2
+---
+
+Enhanced summary with more context and details.
+
+## Background
+
+Additional context goes here...
+
+## Significance
+
+Why this matters...
+```
+
+**Markdown diff is even cleaner**:
+```diff
+ ---
+ date: 2025-01-15
+ title: Trump announces crypto partnership
+-importance: 7
++importance: 8
++status: validated
+ actors:
++  - Musk, Elon
+   - Trump, Donald
+ tags:
++  - conflicts-of-interest
+   - crypto
+ sources:
++  - url: https://reuters.com/article
++    title: Trump crypto deal details
++    publisher: Reuters
++    tier: 1
+   - url: https://example.com/article
+     title: News article
+     tier: 2
+ ---
+
+-Basic summary
++Enhanced summary with more context and details.
++
++## Background
++
++Additional context goes here...
+```
+
+### Implementation: Normalization Pipeline
+
+```python
+class EventNormalizer:
+    """Ensure deterministic event formatting for clean git diffs"""
+    
+    def __init__(self):
+        self.field_order = [
+            'id', 'date', 'title', 'summary', 'importance',
+            'status', 'actors', 'tags', 'sources', 'related_events'
+        ]
+    
+    def normalize(self, event: dict) -> OrderedDict:
+        """Normalize event for deterministic serialization"""
+        normalized = OrderedDict()
+        
+        # Add fields in standard order
+        for field in self.field_order:
+            if field in event:
+                normalized[field] = self._normalize_field(field, event[field])
+        
+        # Add any extra fields (sorted alphabetically)
+        extra = sorted(set(event.keys()) - set(self.field_order))
+        for field in extra:
+            normalized[field] = self._normalize_field(field, event[field])
+        
+        return normalized
+    
+    def _normalize_field(self, field: str, value: Any) -> Any:
+        """Normalize specific field types"""
+        if field in ('actors', 'tags'):
+            # Sort lists alphabetically
+            return sorted(value) if isinstance(value, list) else value
+        
+        elif field == 'sources':
+            # Sort sources by tier, then title
+            if isinstance(value, list):
+                return sorted(
+                    [self._normalize_source(s) for s in value],
+                    key=lambda s: (s.get('tier', 99), s.get('title', ''))
+                )
+            return value
+        
+        elif field == 'related_events':
+            # Sort related event IDs
+            return sorted(value) if isinstance(value, list) else value
+        
+        else:
+            return value
+    
+    def _normalize_source(self, source: dict) -> OrderedDict:
+        """Normalize source for stable diffs"""
+        # Standard source field order
+        source_order = ['url', 'title', 'publisher', 'date', 'tier', 'archive_url']
+        normalized = OrderedDict()
+        
+        for field in source_order:
+            if field in source:
+                normalized[field] = source[field]
+        
+        return normalized
+
+# Usage in git service
+normalizer = EventNormalizer()
+
+def write_event(event_id: str, data: dict):
+    """Write event with deterministic formatting"""
+    normalized = normalizer.normalize(data)
+    event_path = workspace / f'timeline/data/events/{event_id}.json'
+    
+    with open(event_path, 'w', encoding='utf-8') as f:
+        json.dump(normalized, f, indent=2, ensure_ascii=False)
+        f.write('\n')  # Trailing newline
+```
+
+### Pre-Commit Hook for Enforcement
+
+Add pre-commit hook to enforce formatting:
+
+```python
+# .git/hooks/pre-commit
+#!/usr/bin/env python3
+"""Enforce deterministic event formatting"""
+
+import json
+import sys
+from pathlib import Path
+
+def check_event_formatting(file_path):
+    """Verify event has deterministic formatting"""
+    with open(file_path) as f:
+        content = f.read()
+    
+    # Parse and re-serialize
+    event = json.loads(content)
+    normalized = normalizer.normalize(event)
+    canonical = json.dumps(normalized, indent=2, ensure_ascii=False) + '\n'
+    
+    if content != canonical:
+        print(f"ERROR: {file_path} not properly formatted")
+        print("Run: python scripts/normalize_events.py")
+        return False
+    
+    return True
+
+# Check all staged event files
+staged_events = [
+    f for f in Path('timeline/data/events').glob('*.json')
+    if f.is_file()
+]
+
+if not all(check_event_formatting(f) for f in staged_events):
+    sys.exit(1)
+```
+
+### Benefits
+
+1. **Clean Diffs**: Only actual changes shown, not formatting
+2. **Easy Review**: Reviewers see exactly what was added/changed
+3. **Merge Friendly**: Sorted lists reduce merge conflicts
+4. **Consistent**: All events follow same formatting rules
+5. **Automated**: Pre-commit hook enforces standards
+
+### Migration
+
+```python
+# Normalize all existing events
+def normalize_all_events():
+    """One-time normalization of all existing events"""
+    normalizer = EventNormalizer()
+    events_dir = Path('timeline/data/events')
+    
+    for event_file in events_dir.glob('*.json'):
+        with open(event_file) as f:
+            event = json.load(f)
+        
+        # Normalize
+        normalized = normalizer.normalize(event)
+        
+        # Write back with deterministic formatting
+        with open(event_file, 'w', encoding='utf-8') as f:
+            json.dump(normalized, f, indent=2, ensure_ascii=False)
+            f.write('\n')
+        
+        print(f"Normalized: {event_file.name}")
+
+# Run once to normalize existing timeline
+normalize_all_events()
+
+# Commit normalized versions
+git add timeline/data/events/*.json
+git commit -m "Normalize all events for deterministic formatting"
+```
+
