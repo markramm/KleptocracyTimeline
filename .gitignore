@@ -241,3 +241,10 @@ specs/
 # One-time manifests
 *_manifest.json
 *_files_manifest.json
+
+# Scraped source cache (should not be in git)
+timeline/data/events/.sources/
+
+# React viewer coverage and build
+timeline/viewer/coverage/
+timeline/viewer/build/
