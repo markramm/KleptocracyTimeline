@@ -38,7 +38,8 @@ from models import (
 from validation_calculator import ValidationRunCalculator
 from event_validator import EventValidator as TimelineEventValidator
 from parsers.factory import EventParserFactory
-from services.filesystem_sync import FilesystemSyncer
+from services.git_sync import GitSyncer
+from services.git_service import GitService
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -111,8 +112,9 @@ current_session_id = f"session-{datetime.now().strftime('%Y%m%d-%H%M%S')}"
 events_since_commit = 0
 sync_lock = threading.Lock()
 
-# Create filesystem syncer (started in __main__ section)
-syncer = FilesystemSyncer(app, Session, sync_lock)
+# Create git syncer (replaces FilesystemSyncer)
+git_service = GitService()
+git_syncer = GitSyncer(app, Session, git_service)
 
 def require_api_key(f):
     """Decorator to require API key for write operations"""
@@ -819,9 +821,74 @@ def get_stats():
             }
         }
         return jsonify(stats)
-        
+
     finally:
         db.close()
+
+@app.route('/api/sync', methods=['POST'])
+@require_api_key
+def trigger_sync():
+    """
+    Manually trigger git sync
+
+    POST body (optional):
+    {
+        "pull": true  // Whether to git pull before syncing (default: true)
+    }
+
+    Returns:
+        Sync statistics
+    """
+    try:
+        # Optional: force git pull
+        pull_first = request.json.get('pull', True) if request.json else True
+
+        logger.info(f"Manual sync triggered (pull_first={pull_first})")
+
+        # Sync from git
+        result = git_syncer.sync_from_git(pull_first=pull_first)
+
+        if result['success']:
+            return jsonify({
+                'status': 'success',
+                'message': 'Sync completed',
+                'events_added': result['events_added'],
+                'events_updated': result['events_updated'],
+                'events_unchanged': result['events_unchanged'],
+                'total_synced': result['events_synced'],
+                'errors': result['errors'] if result['errors'] else None
+            })
+        else:
+            return jsonify({
+                'status': 'error',
+                'message': 'Sync failed',
+                'errors': result['errors']
+            }), 500
+
+    except Exception as e:
+        logger.error(f"Sync endpoint error: {e}")
+        return jsonify({
+            'status': 'error',
+            'message': str(e)
+        }), 500
+
+@app.route('/api/git/status', methods=['GET'])
+def git_status():
+    """
+    Get git repository status
+
+    Returns:
+        Git status information (current commit, branch, etc.)
+    """
+    try:
+        status = git_syncer.get_git_status()
+        return jsonify(status)
+    except Exception as e:
+        logger.error(f"Git status error: {e}")
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500
 
 # ==================== TIMELINE VIEWER API ENDPOINTS ====================
 # MOVED TO routes/timeline.py blueprint - 12 timeline routes
@@ -1869,8 +1936,17 @@ if __name__ == '__main__':
     # Sync validation logs from filesystem on startup
     sync_validation_logs_from_filesystem()
 
-    # Start filesystem syncer
-    syncer.start()
+    # Sync events from git repository on startup
+    logger.info("Syncing events from git repository...")
+    startup_sync = git_syncer.sync_from_git(pull_first=True)
+
+    if startup_sync['success']:
+        logger.info(
+            f"Startup sync complete: {startup_sync['events_synced']} events "
+            f"(+{startup_sync['events_added']} ~{startup_sync['events_updated']})"
+        )
+    else:
+        logger.error(f"Startup sync failed: {startup_sync['errors']}")
 
     logger.info(f"Research Monitor v2 starting on port {config.port}")
     logger.info(f"Database: {config.db_path}")
@@ -1878,8 +1954,5 @@ if __name__ == '__main__':
     logger.info(f"Priorities path: {config.priorities_path}")
     logger.info(f"Validation logs path: {config.validation_logs_path}")
     logger.info(f"Commit threshold: {config.commit_threshold} events")
-    
-    try:
-        app.run(host='127.0.0.1', port=config.port, debug=False)
-    finally:
-        syncer.stop()
+
+    app.run(host='127.0.0.1', port=config.port, debug=False)
