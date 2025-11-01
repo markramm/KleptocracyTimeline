@@ -174,7 +174,7 @@ jobs:
       - name: Install Node dependencies
         run: |
           cd timeline/viewer
-          npm ci
+          npm install
 
       - name: Build viewer
         run: |
