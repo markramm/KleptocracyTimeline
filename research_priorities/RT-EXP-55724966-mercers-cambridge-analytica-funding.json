@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-55724966",
+  "title": "Mercers Cambridge Analytica Funding",
+  "description": "Map Robert and Rebekah Mercer's funding network: Cambridge Analytica, Breitbart, Parler, and GAI connections to Bannon.",
+  "priority": "critical",
+  "tags": [
+    "mercers",
+    "cambridge_analytica",
+    "breitbart"
+  ],
+  "decade": "2010s",
+  "created": "2025-09-09T21:17:47.658184",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Steve Bannon",
+    "data manipulation"
+  ]
+}

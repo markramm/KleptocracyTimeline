@@ -1,0 +1,38 @@
+---
+id: 2017-11-01--kushner-shares-classified-intel-leading-to-saudi-a
+date: '2017-11-01'
+importance: 9
+title: Kushner Shares Classified Intel Leading to Saudi Mass Arrests
+actors:
+- Jared Kushner
+- Mohammed bin Salman
+- Saudi Arabia
+- Donald Trump
+- Jamal Khashoggi
+tags:
+- classified-information
+- foreign-influence
+- saudi-arabia
+- intelligence-breach
+- khashoggi-murder
+status: confirmed
+sources:
+- title: Kushner's WhatsApp communications with MBS
+  url: https://www.theguardian.com/us-news/2019/mar/21/jared-kushner-whatsapp-house-oversight-information
+  outlet: The Guardian
+  date: '2019-03-21'
+- title: Saudi Crown Prince Boasted Jared Kushner Was 'In His Pocket'
+  url: https://theintercept.com/2018/03/21/jared-kushner-saudi-crown-prince-mohammed-bin-salman/
+  outlet: The Intercept
+  date: '2018-03-21'
+- title: The Khashoggi murder and Trump's response
+  url: https://www.nytimes.com/2018/11/20/world/middleeast/trump-saudi-khashoggi.html
+  outlet: New York Times
+  date: '2018-11-20'
+capture_lanes:
+- Media Capture & Control
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+Jared Kushner made an unannounced visit to Saudi Arabia in October 2017, staying up until 4 AM with Crown Prince Mohammed bin Salman. Days later, MBS launched mass arrests of 200+ Saudi royals and officials, seizing $100 billion in assets. MBS reportedly told confidants that Kushner was 'in his pocket' after sharing classified U.S. intelligence about Saudi dissidents. The Intercept reported Kushner discussed classified information identifying MBS's enemies from the President's Daily Brief. Kushner communicated with MBS via WhatsApp, bypassing official diplomatic channels. When MBS ordered journalist Jamal Khashoggi's murder in 2018, Kushner advised him on weathering the crisis. Trump refused CIA conclusions about the murder, declaring 'Saudi Arabia is a big buyer of American product. That means something to me.' This intelligence sharing represented an unprecedented breach of classified information protocols for personal influence.

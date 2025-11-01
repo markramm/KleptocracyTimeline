@@ -1,0 +1,31 @@
+{
+  "id": "RT-TTT-2025-congressional-obstruction-separation-powers",
+  "title": "Congressional Obstruction and Separation of Powers Violations (2025)",
+  "description": "Document systematic violations of separation of powers including congressional oversight obstruction, subpoena defiance, witness intimidation, and the breakdown of constitutional checks and balances. Trump Tyranny Tracker revealed extensive patterns of executive branch contempt for congressional authority and democratic oversight.",
+  "priority": "high",
+  "status": "pending",
+  "expected_events": 7,
+  "research_focus": [
+    "Congressional subpoena defiance campaigns",
+    "Witness intimidation and retaliation",
+    "Document withholding and privilege abuse",
+    "Inspector General firing and replacement",
+    "GAO access denial and obstruction",
+    "Congressional testimony coaching scandals",
+    "Executive privilege overreach patterns",
+    "Democratic committee chairperson targeting"
+  ],
+  "key_search_terms": [
+    "congressional obstruction",
+    "subpoena defiance",
+    "witness intimidation",
+    "separation of powers violation",
+    "inspector general firing",
+    "executive privilege abuse",
+    "oversight obstruction"
+  ],
+  "timeline_gap_justification": "Our timeline lacks systematic coverage of congressional oversight obstruction despite this being a central mechanism of institutional capture documented by Trump Tyranny Tracker.",
+  "source_validation": "Verify specific obstruction incidents, subpoena violations, and witness intimidation cases with congressional records and committee documentation.",
+  "importance_score": 8,
+  "tags": ["congressional_obstruction", "separation_powers", "subpoena_defiance", "witness_intimidation", "inspector_general", "executive_privilege", "oversight_breakdown"]
+}

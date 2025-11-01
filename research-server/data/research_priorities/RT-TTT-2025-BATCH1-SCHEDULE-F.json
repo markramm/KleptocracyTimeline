@@ -1,0 +1,24 @@
+{
+  "id": "RT-TTT-2025-BATCH1-SCHEDULE-F",
+  "title": "Schedule F Federal Worker Targeting Operations",
+  "description": "Systematic analysis of Trump administration plans to convert federal workers to Schedule F status for political loyalty enforcement. Identified 199 pattern instances across TTT documentation showing coordinated efforts to remove civil service protections and install political loyalists.",
+  "research_questions": [
+    "What are the specific mechanisms used for Schedule F implementation?",
+    "Who are the key actors coordinating Schedule F conversion efforts?",
+    "What timeline evidence exists for systematic federal worker targeting?",
+    "How do Schedule F plans connect to broader institutional capture patterns?",
+    "Which agencies and positions are prioritized for Schedule F conversion?"
+  ],
+  "expected_events": "10-15",
+  "priority_level": "HIGH",
+  "status": "pending",
+  "source_analysis": "Trump Tyranny Tracker Batch 1 Analysis - 199 Schedule F patterns identified across 45 articles",
+  "creation_date": "2025-09-10T10:55:05.463568",
+  "tags": [
+    "schedule-f",
+    "federal-workers",
+    "civil-service",
+    "loyalists",
+    "institutional-capture"
+  ]
+}

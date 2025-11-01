@@ -1,0 +1,16 @@
+{
+    "id": "claude-climate-denial-fossil-fuel-network",
+    "title": "Fossil Fuel Industry Climate Denial and Regulatory Capture Network",
+    "description": "Research the systematic fossil fuel industry campaign to deny climate science, capture environmental regulators, and block climate action from 1970s-present",
+    "category": "environmental-capture",
+    "priority": 8,
+    "status": "pending",
+    "estimated_events": 4,
+    "estimated_importance": 8,
+    "time_period": "1970-2024",
+    "tags": ["climate-denial", "fossil-fuels", "environmental-capture", "regulatory-capture", "disinformation"],
+    "export_worthy": true,
+    "research_notes": "Focus on ExxonMobil's internal climate research vs. public denial, Koch brothers network funding climate denial think tanks, fossil fuel industry capture of EPA and Department of Energy, revolving door between industry and regulators. Include analysis of climate disinformation campaigns and lobbying to block renewable energy policies.",
+    "blockers": "None identified",
+    "next_steps": "Research fossil fuel industry funding of climate denial organizations, map career paths between fossil fuel companies and environmental agencies, analyze regulatory rollbacks and policy decisions favoring fossil fuel industry"
+}

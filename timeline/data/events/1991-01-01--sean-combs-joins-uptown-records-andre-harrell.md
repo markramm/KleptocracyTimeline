@@ -1,0 +1,41 @@
+---
+id: 1991-01-01--sean-combs-joins-uptown-records-andre-harrell
+date: '1991-01-01'
+title: Sean Combs joins Uptown Records under Andre Harrell, beginning rapid rise
+importance: 7
+actors:
+- Sean Combs
+- Andre Harrell
+- Uptown Records
+- Russell Simmons
+tags:
+- music-industry
+- career-launch
+- mentorship
+- entertainment
+- rapid-rise
+sources:
+- title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein
+    Network'
+  url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
+  outlet: Unlimited Hangout
+  date: '2025-04-01'
+- title: Sean Combs
+  url: https://en.wikipedia.org/wiki/Sean_Combs
+  outlet: Wikipedia
+  date: '2025-01-27'
+- date: '2025-10-15'
+  outlet: Billboard
+  title: Andre Harrell, Uptown Records Founder And Role Model To Sean "Diddy" Combs,
+    Dies At 59
+  url: https://www.grammy.com/news/andre-harrell-uptown-records-founder-and-role-model-sean-diddy-combs-dies-59
+- date: '2025-10-15'
+  outlet: NPR
+  title: '''He Revived R&B'': The Legacy Of Andre Harrell And Uptown Records'
+  url: https://www.npr.org/2020/05/10/853524792/remembering-andre-harrell
+status: confirmed
+capture_lanes:
+- Executive Power Expansion
+---
+
+Sean "Diddy" Combs joins Uptown Records as an intern and rapidly rises to executive position under Andre Harrell's mentorship. This marks the beginning of Combs' unprecedented ascent in the music industry, which investigators later compare to Epstein's unexplained rise in finance. Harrell, who had connections to Russell Simmons and the broader entertainment establishment, provided Combs with unusual access and opportunities for someone his age.

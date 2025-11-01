@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "timeline-research": {
+      "command": "python3",
+      "args": ["mcp_timeline_server_v2.py"],
+      "env": {
+        "PYTHONPATH": "."
+      }
+    }
+  }
+}

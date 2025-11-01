@@ -1,0 +1,53 @@
+---
+id: 1988-01-01--maxwell-macmillan-publishers-acquisition-us-expansion
+date: '1988-01-01'
+title: Maxwell Acquires Macmillan Publishers, Expanding US Media Empire at Massive
+  Cost
+importance: 8
+location: United States
+actors:
+- Robert Maxwell
+- Macmillan Publishers
+- Berlitz International
+- Official Airline Guides
+tags:
+- robert-maxwell
+- macmillan-publishers
+- us-media-expansion
+- berlitz
+- international-media-empire
+- intelligence-infrastructure
+- media-acquisition
+- corporate-debt
+capture_lanes:
+- Media Capture & Control
+- Academic Capture
+sources:
+- title: 'From wooden shack to global media magnate: The rise and fall of Robert Maxwell'
+  url: https://www.timesofisrael.com/from-wooden-shack-to-global-media-magnate-the-rise-and-fall-of-robert-maxwell/
+  outlet: Times of Israel
+  verified: true
+  key_facts_confirmed:
+  - Maxwell acquired Macmillan publishers in 1988
+  - Paid approximately $2.6 billion for the acquisition
+  - Part of broader strategy to compete with Rupert Murdoch
+- title: 'Robert Maxwell''s Legacy: Power, Scandal, And Mystery In The Media Empire'
+  url: https://crixeo.com/stories/robert-maxwells-legacy-power-scandal-and-mystery-in-the-media-empire/
+  outlet: Crixeo
+  verified: true
+  key_facts_confirmed:
+  - Maxwell Communications Corporation borrowed $3 billion
+  - Acquired Macmillan Publishers and Official Airline Guides
+  - Expanded media empire across multiple continents
+- title: 'Britain: Death of A Tycoon'
+  url: https://time.com/archive/6719003/britain-death-of-a-tycoon/
+  outlet: Time Magazine
+  verified: true
+  key_facts_confirmed:
+  - Maxwell's acquisition was motivated by rivalry with Rupert Murdoch
+  - Purchased Macmillan at nearly $1 billion over its estimated value
+  - Contributed to massive corporate debt
+status: confirmed
+---
+
+In 1988, Robert Maxwell acquired Macmillan Publishers for approximately $2.6 billion as part of an aggressive media empire expansion strategy. The acquisition, driven by his rivalry with Rupert Murdoch, was financed through a $3 billion loan and represented a key moment in Maxwell's international media consolidation. By purchasing Macmillan Publishers, Official Airline Guides, and Berlitz International, Maxwell significantly expanded his presence in the United States, creating a complex international media network that would ultimately contribute to his financial downfall.

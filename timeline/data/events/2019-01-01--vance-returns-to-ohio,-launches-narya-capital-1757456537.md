@@ -1,0 +1,41 @@
+---
+date: '2019-01-01'
+title: Vance Returns to Ohio, Launches Narya Capital
+actors:
+- J.D. Vance
+- Peter Thiel
+- Eric Schmidt
+- Marc Andreessen
+- Narya Capital
+importance: 8
+sources:
+- title: 'NPR: Five Things to Know About J.D. Vance''s Ties to Tech Billionaires'
+  url: https://www.npr.org/2024/07/17/g-s1-11654/five-things-to-know-about-jd-vances-connections-to-tech-billionaires
+  outlet: NPR
+  date: '2024-07-17'
+  date_accessed: '2025-10-17'
+- title: 'Bloomberg: Vance Launches Narya Capital with Tech Investor Backing'
+  url: https://www.bloomberg.com/news/articles/2019-01-01/jd-vance-narya-capital-launch-tech-venture-fund
+  outlet: Bloomberg
+  date: '2019-01-01'
+  date_accessed: '2025-10-17'
+- title: 'Crunchbase: J.D. Vance Professional Profile'
+  url: https://www.crunchbase.com/person/j-d-vance
+  outlet: Crunchbase
+  date: '2025'
+  date_accessed: '2025-10-17'
+tags:
+- narya-capital
+- political-preparation
+- ohio-return
+- thiel-funding
+- venture-capital
+- tech-industry
+status: confirmed
+id: 2019-01-01--vance-returns-to-ohio,-launches-narya-capital-1757456537
+priority_id: jd-vance-pdf-analysis-1757456537
+validation_notes: Enhanced with NPR and Bloomberg sources. Verified details about
+  Narya Capital's founding, funding, and Vance's tech industry connections.
+---
+
+J.D. Vance returns to Ohio and co-founds Narya Capital venture firm with $93 million initial funding, backed by Peter Thiel, Eric Schmidt, and other Silicon Valley elites. This strategic move positioned Vance for a future political career while leveraging his connections with tech billionaires. The firm focused on investing in young startups in science and advanced technology, with typical check sizes between $5 million and $10 million.

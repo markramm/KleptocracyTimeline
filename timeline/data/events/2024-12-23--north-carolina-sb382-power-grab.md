@@ -1,0 +1,43 @@
+---
+id: 2024-12-23--north-carolina-sb382-power-grab
+date: '2024-12-23'
+importance: 5
+title: North Carolina Republicans Strip Governor's Power to Appoint Election Board
+  Members
+location: North Carolina
+actors:
+- North Carolina Legislature
+- Josh Stein (Governor-elect)
+- Roy Cooper (Governor)
+- Dave Boliek (State Auditor)
+tags:
+- power-grab
+- election-board
+- institutional-capture
+- lame-duck
+- north-carolina
+- democratic-subversion
+- kleptocracy
+capture_lanes:
+- Financial Corruption & Kleptocracy
+status: confirmed
+sources:
+- title: NC Republicans strip governor power over elections board
+  url: https://www.brennancenter.org/our-work/analysis-opinion/north-carolina-power-grab
+  outlet: Brennan Center for Justice
+  date: '2024-12-23'
+- title: Cooper, Stein sue over election board power transfer
+  url: https://www.democracync.org/news/sb382-lawsuit-filed
+  outlet: Democracy NC
+  date: '2024-12-23'
+- title: Disaster relief bill hides unprecedented elections power grab
+  url: https://www.npr.org/2024/12/23/north-carolina-elections-board-power-grab
+  outlet: NPR
+  date: '2024-12-23'
+notes: Law transfers appointment power specifically to prevent Democratic control
+  of elections oversight. Filed as emergency disaster relief to expedite passage.
+  Part of broader pattern of using legislative supermajorities to override election
+  results.
+---
+
+North Carolina's SB 382, deceptively framed as "disaster relief," transferred power to appoint State Board of Elections members from Democratic Governor Josh Stein to Republican State Auditor Dave Boliek, effective May 2025. Unprecedented power grab enacted after Democrats won governorship. Governor Cooper and Governor-elect Stein filed suit December 23, 2024, citing constitutional violations. Law passed during lame duck session specifically to prevent incoming Democratic governor from appointing election oversight board. Represents systematic effort to control election machinery.

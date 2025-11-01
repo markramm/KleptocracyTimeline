@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-EFD81E40-insulin-price-fixing-cartel",
+  "title": "Insulin Price-Fixing Pharmaceutical Cartel",
+  "description": "Research coordinated price-fixing of insulin by Eli Lilly, Novo Nordisk, and Sanofi creating artificial monopoly pricing.",
+  "expected_events": 3,
+  "importance": 8,
+  "tags": [
+    "price-fixing",
+    "pharmaceutical-cartel",
+    "healthcare-access",
+    "pharmaceutical-corruption"
+  ],
+  "research_status": "not_started",
+  "time_period": "2009-2020"
+}

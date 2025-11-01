@@ -1,0 +1,32 @@
+{
+  "id": "RT-CLAUDE-2025-ftx-sbf-effective-altruism-network",
+  "title": "FTX SBF Effective Altruism Network Regulatory Capture",
+  "description": "Research the systematic capture of academic institutions, think tanks, and regulatory bodies through Sam Bankman-Fried's Effective Altruism network, including MIT, Stanford, Georgetown, and regulatory influence operations through campaign contributions and academic partnerships. Focus on how EA ideology masked traditional kleptocratic wealth extraction.",
+  "priority": 9,
+  "estimated_events": 4,
+  "category": "regulatory_capture",
+  "tags": [
+    "crypto",
+    "regulatory_capture",
+    "academic_capture",
+    "effective_altruism",
+    "campaign_finance"
+  ],
+  "time_period": "2019-2023",
+  "estimated_importance": 9,
+  "status": "completed",
+  "blockers": [],
+  "next_steps": [
+    "Web search for FTX political donations",
+    "Research MIT partnership details",
+    "Map EA network connections",
+    "Document regulatory capture timeline"
+  ],
+  "export_worthy": true,
+  "source_file": "claude_generated_research_priorities_2025.py",
+  "is_generated": true,
+  "created_date": "2025-09-10",
+  "research_notes": "High priority - represents modern crypto kleptocracy with academic/regulatory capture elements",
+  "events_created": 4,
+  "completion_date": "2025-01-15"
+}

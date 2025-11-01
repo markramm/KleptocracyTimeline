@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+# Research CLI - Root Level Wrapper
+#
+# Convenience wrapper at repository root that delegates to research-server/research
+#
+# Usage from repository root:
+#   ./research <command> [options]
+#
+
+# Get the directory where this script is located (repo root)
+REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Delegate to the actual CLI wrapper
+exec "${REPO_ROOT}/research-server/research" "$@"

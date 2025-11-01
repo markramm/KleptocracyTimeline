@@ -1,0 +1,16 @@
+{
+    "id": "claude-citizens-united-corporate-spending",
+    "title": "Citizens United v. FEC and Corporate Political Spending Explosion",
+    "description": "Research the 2010 Citizens United Supreme Court decision and its impact on unlimited corporate political spending through super PACs and dark money networks",
+    "category": "campaign-finance",
+    "priority": 9,
+    "status": "pending",
+    "estimated_events": 3,
+    "estimated_importance": 9,
+    "time_period": "2007-2024",
+    "tags": ["citizens-united", "campaign-finance", "super-pacs", "dark-money", "corporate-influence"],
+    "export_worthy": true,
+    "research_notes": "Focus on the legal strategy behind Citizens United case, key players in the litigation, immediate aftermath with super PAC formation, and subsequent dark money networks. Include analysis of corporate spending patterns in elections post-2010 and connections to policy outcomes.",
+    "blockers": "None identified",
+    "next_steps": "Research Citizens United legal team and funding, track super PAC formation and funding sources, analyze correlation between corporate spending and favorable regulatory/legislative outcomes"
+}

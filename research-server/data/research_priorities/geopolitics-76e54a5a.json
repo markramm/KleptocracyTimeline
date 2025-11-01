@@ -1,0 +1,66 @@
+{
+  "id": "geopolitics-76e54a5a",
+  "title": "Demographic Collapse and Global Strategic Realignment",
+  "description": "Examine how rapid demographic transitions in major powers create strategic opportunities and risks, affecting global economic systems, migration patterns, and international stability.",
+  "priority": 7,
+  "status": "pending",
+  "category": "global-demographics",
+  "tags": [
+    "global-demographics",
+    "strategic-realignment",
+    "migration",
+    "economic-disruption"
+  ],
+  "estimated_events": 4,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "China's Vanishing Future_ Inside the World's Fastest Demographic Collapse.pdf",
+  "created_by": "pdf-agent-6-additional",
+  "time_period": "2020-2050",
+  "constitutional_issues": [
+    "immigration-policy",
+    "national-security",
+    "economic-regulation"
+  ],
+  "actors_to_investigate": [
+    "International migration researchers",
+    "Strategic planning officials",
+    "Economic policy makers",
+    "Demographics experts",
+    "National security analysts"
+  ],
+  "key_sources": [
+    {
+      "title": "International migration and demographic trend data",
+      "type": "statistical-data",
+      "credibility": 9,
+      "why": "Quantifiable evidence of demographic transition impacts"
+    },
+    {
+      "title": "Strategic planning documents for demographic transition scenarios",
+      "type": "policy-documents",
+      "credibility": 8,
+      "why": "Official government planning for demographic change impacts"
+    },
+    {
+      "title": "Economic modeling of global demographic transition effects",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Systematic analysis of economic consequences"
+    }
+  ],
+  "expected_outcomes": [
+    "Map global demographic transition timeline and strategic implications",
+    "Analyze migration pattern changes from demographic imbalances",
+    "Document economic disruption potential from demographic shifts",
+    "Evaluate policy frameworks for managing demographic transition impacts"
+  ],
+  "research_questions": [
+    "How do demographic transitions in major powers affect global strategic stability?",
+    "What migration pressures result from demographic imbalances between regions?",
+    "How should democratic countries prepare for demographic-driven global changes?",
+    "What constitutional and policy frameworks are needed for demographic transition management?"
+  ],
+  "estimated_importance": 7
+}

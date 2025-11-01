@@ -1,0 +1,65 @@
+---
+id: 2025-06-15--trump-inc-filings-show-staff-profited-from-being-in-the-pres
+date: '2025-06-15'
+title: Trump Officials' Extensive Financial Conflicts Exposed in Comprehensive Report
+description: Comprehensive investigation reveals systematic financial improprieties
+  across the Trump administration, including cryptocurrency ventures, real estate
+  deals, and executive branch private networking that exploit governmental positions
+  for personal gain.
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Pam Bondi
+- Sean Duffy
+- Lori Chavez-DeRemer
+- Lee Zeldin
+- Gavin Kliger
+- Chris Young
+tags:
+- kleptocracy
+- trump-administration
+- financial-conflicts
+- ethics-violation
+- crypto
+- real-estate
+capture_type: monetizing_position
+sources:
+- title: More Than a Dozen U.S. Officials Sold Stocks Before Trump's Tariffs Sent
+    the Market Plunging
+  url: https://www.propublica.org/article/us-officials-stock-sales-trump-tariffs
+  outlet: ProPublica
+  date: '2025-05-22'
+  key_details: Over a dozen executive branch officials made stock trades shortly before
+    significant market-moving events
+- title: Here Are the Financial Disclosures of Hundreds of Officials Trump Has Installed
+    Across the Government
+  url: https://projects.propublica.org/graphics/trump-disclosures
+  outlet: ProPublica
+  date: '2025-06-15'
+  key_details: Comprehensive tracking of financial disclosures and potential conflicts
+    of interest
+- title: How Trump Family Business Ventures Stand to Directly Benefit the President
+  url: https://www.npr.org/2025/05/07/nx-s1-5388474/how-trump-family-business-ventures-stand-to-directly-benefit-the-president
+  outlet: NPR
+  date: '2025-05-07'
+  key_details: Unprecedented conflicts of interest involving cryptocurrency, real
+    estate, and executive branch networking
+connections:
+- Executive branch stock trading
+- Potential ethics violations
+- Financial conflicts of interest
+patterns:
+- kleptocratic-capture
+- systemic-corruption
+notes: Detailed investigation exposes unprecedented scale of financial conflicts of
+  interest, demonstrating systemic exploitation of governmental power for personal
+  enrichment.
+capture_lanes:
+- Intelligence Penetration
+- Executive Power Expansion
+- Financial Exploitation
+---
+
+A comprehensive investigation reveals extensive financial conflicts of interest within the Trump administration, including cryptocurrency ventures funded by foreign investors, real estate deals with international connections, and a private executive club that blurs lines between government and personal business.

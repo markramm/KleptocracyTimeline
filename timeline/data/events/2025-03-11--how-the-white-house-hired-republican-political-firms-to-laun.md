@@ -1,0 +1,52 @@
+---
+actors:
+- Donald Trump
+- Trump Administration
+- Kristi Noem
+- Jay Connaughton
+- Mike McElwain
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Executive Power Expansion
+capture_type: regulatory_capture
+connections:
+- Trump campaign media consultants receiving government contracts
+- Bypassing competitive bidding process
+date: '2025-03-11'
+description: The Department of Homeland Security bypassed standard competitive bidding
+  procedures to award two Republican-linked firms the first contracts of a $200 million
+  television ad campaign promoting Trump's immigration policies
+id: 2025-03-11--how-the-white-house-hired-republican-political-firms-to-laun
+importance: 8
+location: Washington, D.C.
+notes: Documented systematic use of government resources for political messaging
+patterns:
+- kleptocratic-capture
+- revolving-door-mechanism
+sources:
+- date: '2025-03-11'
+  outlet: Associated Press
+  title: How the White House hired Republican political firms to launch an anti-migrant
+    ad campaign
+  url: https://apnews.com/article/dhs-immigration-award-republican-ad-campaign-e7939619195791493e828dfd20604d65
+- date: '2025-03-13'
+  outlet: Bloomberg
+  title: Trump Spends $200 Million on Self-Deportation Campaign
+  url: https://www.bloomberg.com/news/articles/2025-03-13/trump-spends-200-million-on-self-deportation-campaign-as-immigration-raids-lag
+- date: '2025-03-10'
+  outlet: U.S. News & World Report
+  title: How the White House Hired Republican Political Firms to Launch an Anti-Migrant
+    Ad Campaign
+  url: https://www.usnews.com/news/politics/articles/2025-03-10/dhs-expedites-process-to-award-two-republican-linked-firms-part-of-its-200-million-ad-campaign
+status: confirmed
+tags:
+- regulatory-capture
+- government-contracts
+- immigration-policy
+- media-manipulation
+title: DHS Awards $200 Million Ad Contract to Republican Firms Without Full Competitive
+  Bidding
+---
+
+The Trump administration circumvented standard procurement processes to award a $200 million DHS advertising contract to two Republican-linked political consulting firms, bypassing competitive bidding and using taxpayer funds for a politically-motivated 'self-deportation' media campaign.

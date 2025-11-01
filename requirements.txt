@@ -1,5 +1,4 @@
 # Core dependencies
-pyyaml>=5.4.1
 python-dateutil>=2.8.2
 
 # Web server

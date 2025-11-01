@@ -1,0 +1,32 @@
+{
+  "id": "RT-TTT-2025-election-infrastructure-capture-suppression",
+  "title": "Election Infrastructure Capture and Voter Suppression (2025)",
+  "description": "Document systematic capture of election infrastructure including state election official targeting, voting system manipulation, poll worker intimidation, and voter suppression campaigns. Trump Tyranny Tracker revealed coordinated efforts to undermine election integrity through institutional capture rather than traditional fraud.",
+  "priority": "critical",
+  "status": "pending",
+  "expected_events": 9,
+  "research_focus": [
+    "State election official removal campaigns",
+    "Election software vendor coordination",
+    "Poll worker intimidation and replacement",
+    "Voting machine access and manipulation",
+    "Voter database purging acceleration",
+    "Mail voting restriction implementation",
+    "Election observer harassment programs",
+    "County election board capture operations",
+    "Federal election oversight dismantling"
+  ],
+  "key_search_terms": [
+    "election infrastructure capture",
+    "election official removal",
+    "voting system manipulation",
+    "poll worker intimidation",
+    "voter database purge",
+    "election observer harassment",
+    "county election board"
+  ],
+  "timeline_gap_justification": "While our timeline covers election denial narratives, Trump Tyranny Tracker documented the systematic infrastructure capture mechanisms that represent a more fundamental threat to democratic processes.",
+  "source_validation": "Verify election infrastructure manipulation with state records, vendor contracts, and election security reports from academic and government sources.",
+  "importance_score": 10,
+  "tags": ["election_infrastructure", "voter_suppression", "election_official_targeting", "voting_system_capture", "poll_worker_intimidation", "election_manipulation", "democratic_process"]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "RT-8FDB3D81",
+  "title": "Subprime Regulatory Capture",
+  "description": "Document regulatory capture enabling subprime mortgage crisis and 2008 financial collapse",
+  "priority": "critical",
+  "tags": [
+    "subprime_crisis",
+    "2008_crash",
+    "regulatory_failure"
+  ],
+  "capture_lane": "financial",
+  "decade": "2000s",
+  "created": "2025-09-09T21:17:43.464254",
+  "status": "pending",
+  "category": "capture_research"
+}

@@ -1,0 +1,50 @@
+---
+id: 2025-08-22--doj-releases-maxwell-transcript
+date: '2025-08-22'
+importance: 9
+title: DOJ Releases 377-Page Transcript of Maxwell-Blanche Interview, Denies Client
+  List
+location: Washington D.C.
+actors:
+- Department of Justice
+- Ghislaine Maxwell
+- Todd Blanche
+tags:
+- epstein-network
+- maxwell-testimony
+- doj-transparency
+- blanche-interview
+- limited-immunity
+- credibility-concerns
+- client-list-denial
+capture_lanes:
+- Epstein Network & Kompromat
+sources:
+- title: Justice Department releases transcripts from Ghislaine Maxwell's interview
+  url: https://www.cnn.com/politics/live-news/ghislaine-maxwell-jeffrey-epstein-doj-documents-08-22-25
+  outlet: CNN
+  date: '2025-08-22'
+  archive_url: https://web.archive.org/web/20250822000000/https://www.cnn.com/politics/live-news/ghislaine-maxwell-jeffrey-epstein-doj-documents-08-22-25
+- title: First wave of Epstein files has been sent to Congress, says Oversight Committee
+    chair
+  url: https://www.npr.org/2025/08/22/nx-s1-5509535/epstein-files-congress-house-oversight-committee-trump
+  outlet: NPR
+  date: '2025-08-22'
+  archive_url: https://web.archive.org/web/20250822000000/https://www.npr.org/2025/08/22/nx-s1-5509535/epstein-files-congress-house-oversight-committee-trump
+- title: Justice Department releases Ghislaine Maxwell interview transcript and audio
+    file
+  url: https://www.nbcnews.com/news/us-news/live-blog/live-updates-justice-department-releases-transcript-ghislaine-maxwell-rcna226675
+  outlet: NBC News
+  date: '2025-08-22'
+  archive_url: https://web.archive.org/web/20250822000000/https://www.nbcnews.com/news/us-news/live-blog/live-updates-justice-department-releases-transcript-ghislaine-maxwell-rcna226675
+notes: Maxwell previously convicted for perjury in 2016 deposition, now given limited
+  immunity by Deputy AG Blanche (Trump's former criminal defense lawyer). Legal experts
+  question credibility given her conviction status and potential motivation for clemency.
+  Maxwell claims "no recollection" of Mar-a-Lago spa despite being convicted of recruiting
+  Virginia Giuffre from that same spa for trafficking. Criticized trial victim testimony
+  as "not correct" while claiming no awareness of inappropriate behavior. DOJ grand
+  juries never heard directly from victims.
+status: confirmed
+---
+
+Justice Department releases 377-page transcript of July 2025 interview between convicted sex trafficker Ghislaine Maxwell and Deputy AG Todd Blanche (Trump's former defense lawyer). Maxwell given limited immunity, denies client list exists, claims Trump never acted inappropriately, raising credibility concerns.

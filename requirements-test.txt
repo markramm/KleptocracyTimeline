@@ -1,0 +1,31 @@
+# Test Dependencies for Kleptocracy Timeline
+
+# Core Testing
+pytest>=8.0.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+
+# Web Framework Testing
+flask>=2.0.0
+flask-cors>=3.0.0
+
+# Database Testing
+sqlalchemy>=2.0.0
+
+# Test Utilities
+faker>=18.0.0
+factory-boy>=3.2.0
+
+# Code Quality
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
+mypy>=1.0.0
+
+# Security Testing
+bandit>=1.7.0
+safety>=2.3.0
+
+# Coverage Reporting
+coverage>=7.0.0
+codecov>=2.1.0

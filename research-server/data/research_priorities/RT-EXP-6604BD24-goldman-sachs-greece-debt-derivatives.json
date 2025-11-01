@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-6604BD24-goldman-sachs-greece-debt-derivatives",
+  "title": "Goldman Sachs Greece Debt Derivatives Scheme",
+  "description": "Investigate Goldman Sachs helping Greece hide debt through derivative swaps that contributed to the European financial crisis.",
+  "expected_events": 3,
+  "importance": 8,
+  "tags": [
+    "derivatives-fraud",
+    "sovereign-debt",
+    "financial-engineering",
+    "financial-manipulation"
+  ],
+  "research_status": "not_started",
+  "time_period": "1998-2010"
+}

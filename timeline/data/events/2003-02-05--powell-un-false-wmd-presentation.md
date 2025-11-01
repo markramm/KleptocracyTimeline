@@ -1,0 +1,42 @@
+---
+id: 2003-02-05--powell-un-false-wmd-presentation
+date: '2003-02-05'
+importance: 9
+title: Colin Powell Presents False WMD Evidence to UN Security Council
+actors:
+- Colin Powell
+- George W. Bush
+- Dick Cheney
+- CIA
+- Curveball
+tags:
+- iraq-war
+- wmd
+- united-nations
+- intelligence-manipulation
+- false-evidence
+status: confirmed
+sources:
+- title: 'Powell''s UN speech on Iraq WMDs: A ''blot'' on his record'
+  url: https://www.bbc.com/news/world-us-canada-54709076
+  outlet: BBC News
+  date: '2020-10-19'
+- title: Colin Powell's WMD intelligence 'was circumstantial'
+  url: https://www.theguardian.com/world/2004/feb/01/usa.davidteather
+  outlet: The Guardian
+  date: '2004-02-01'
+- title: The Truth About Colin Powell's WMD Presentation
+  url: https://theintercept.com/2018/02/06/lie-after-lie-what-colin-powell-knew-about-iraq-fifteen-years-ago-and-what-he-told-the-un/
+  outlet: The Intercept
+  date: '2018-02-06'
+notes: Powell's presentation was based on fabricated intelligence including 'Curveball'
+  testimony and aluminum tubes claims that intelligence agencies had warned were unreliable.
+  The presentation became the centerpiece of the Bush administration's case for war
+  despite internal warnings about the evidence's credibility. Powell himself later
+  acknowledged it as a permanent 'blot' on his record.
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+---
+
+Secretary of State Colin Powell delivered a 76-minute presentation to the UN Security Council presenting fabricated evidence to justify the Iraq War. Powell's presentation included: mobile weapons labs based on testimony from 'Curveball,' a source who later admitted lying; aluminum tubes claims his own staff warned were 'not credible'; and a theatrical anthrax vial demonstration. The CIA and State Department had warned that many claims were false before the presentation. Powell later called the presentation a 'blot' on his record, acknowledging the evidence was fabricated. This false presentation became central to the Bush administration's justification for the 2003 Iraq invasion.

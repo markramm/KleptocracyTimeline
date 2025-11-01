@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-A5B1045D-credit-rating-agencies-2008-crisis",
+  "title": "Credit Rating Agencies 2008 Financial Crisis Role",
+  "description": "Document how Moody's, S&P, and Fitch gave AAA ratings to toxic mortgage securities, enabling the 2008 financial collapse.",
+  "expected_events": 4,
+  "importance": 9,
+  "tags": [
+    "credit-ratings",
+    "mortgage-crisis",
+    "regulatory-capture",
+    "financial-fraud"
+  ],
+  "research_status": "not_started",
+  "time_period": "2000-2008"
+}

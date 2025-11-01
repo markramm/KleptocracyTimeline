@@ -1,0 +1,42 @@
+---
+date: '2006-02-22'
+title: Bush Threatens First Presidential Veto Over Dubai Ports Deal
+actors:
+- George W. Bush
+- Charles Schumer
+- Dubai Ports World
+- UAE
+- Republican Congress
+- Dennis Hastert
+- Bill Frist
+tags:
+- presidential-power
+- corporate-influence
+- foreign-policy
+- regulatory-capture
+- national-security
+importance: 9
+sources:
+- outlet: NPR
+  title: 'Q & A: The Issues Behind the Port Security Uproar'
+  url: https://www.npr.org/2006/02/22/5228775/q-a-the-issues-behind-the-port-security-uproar
+  date: '2006-02-22'
+- outlet: CNN
+  title: Key Questions About the Dubai Port Deal
+  url: https://www.cnn.com/2006/POLITICS/03/06/dubai.ports.qa/
+  date: '2006-03-06'
+- outlet: CBS News
+  title: Dubai Company Gives Up On Ports Deal
+  url: https://www.cbsnews.com/news/dubai-company-gives-up-on-ports-deal/
+  date: '2006-03-09'
+status: confirmed
+id: 2006-02-22--bush-threatens-first-presidential-veto-over-dubai
+priority_id: RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+President George W. Bush threatened to cast his first presidential veto if Congress blocked Dubai Ports World's (DPW) acquisition of US port operations, sparking a major national security controversy. The $6.8 billion deal would have given a UAE state-owned company control of cargo terminals in six major US ports: New York, Newark, Philadelphia, Baltimore, Miami, and New Orleans. Despite bipartisan congressional opposition led by Senator Charles Schumer, Bush defended the deal, arguing that DPW "has played by the rules" and is an ally in the war on terror. The controversy highlighted complex tensions between national security concerns, diplomatic relationships, and international business interests, with Coast Guard intelligence raising significant security risk assessments. Ultimately, on March 9, 2006, DPW withdrew its bid following intense congressional pressure.

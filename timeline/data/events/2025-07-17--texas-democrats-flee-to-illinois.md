@@ -1,0 +1,49 @@
+---
+id: 2025-07-17--texas-democrats-flee-to-illinois
+date: '2025-07-17'
+title: Texas House Democrats flee to Illinois to break quorum on redistricting
+importance: 10
+actors:
+- Texas House Democrats
+- Texas Legislature
+- Illinois Governor JB Pritzker
+- Gene Wu
+- Josh Rush Nisenson
+- Ken Paxton
+location: Austin, Texas / Springfield, Illinois
+sources:
+- date: '2025-07-17'
+  outlet: Texas Tribune
+  title: Texas Democrats flee to Illinois over redistricting fight
+  url: https://www.texastribune.org/2025/07/17/texas-democrats-illinois-redistricting
+- date: '2025-07-17'
+  outlet: Chicago Tribune
+  title: Illinois Governor offers sanctuary to Texas legislators
+  url: https://www.chicagotribune.com/politics/2025/07/17/illinois-texas-democrats-sanctuary
+- date: '2025-08-04'
+  outlet: PBS NewsHour
+  title: Texas Democrats leave the state in effort block vote on redrawn House map
+    backed by Trump
+  url: https://www.pbs.org/newshour/politics/texas-democrats-leave-the-state-in-effort-block-vote-on-redrawn-house-map-backed-by-trump
+- date: '2025-08-04'
+  outlet: NPR
+  title: Texas House Democrats break quorum again by staying out of state
+  url: https://www.npr.org/2025/08/04/g-s1-80957/texas-redistricting-quorum-walkout
+tags:
+- redistricting
+- democratic-resistance
+- quorum-break
+- interstate-politics
+- constitutional-crisis
+- trump-influence
+status: confirmed
+notes: Democrats specifically chose Illinois as sanctuary state beyond reach of Texas
+  law enforcement and potentially federal authorities. Lawmakers could face $500 daily
+  fines and potential legal action from Texas Attorney General Ken Paxton.
+capture_lanes:
+- Election System Attack
+- Executive Power & Emergency Authority
+- Democratic Resistance Strategy
+---
+
+52 Texas House Democrats fled to Illinois to break quorum and prevent a vote on unprecedented mid-cycle redistricting that would create 5 new safe Republican congressional seats, echoing 2003 and 2021 walkouts but this time leaving state to avoid federal law enforcement. At least 51 Democratic lawmakers left Texas to prevent a vote on a new congressional map backed by President Trump, which would create 5 new Republican-leaning seats. The move required careful coordination with Illinois Governor JB Pritzker, who provided quiet support and logistical assistance.

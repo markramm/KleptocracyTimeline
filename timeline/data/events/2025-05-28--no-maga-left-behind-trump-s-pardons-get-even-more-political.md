@@ -1,0 +1,45 @@
+---
+id: 2025-05-28--no-maga-left-behind-trump-s-pardons-get-even-more-political
+date: '2025-05-28'
+title: Trump Pardons Become Explicitly Political with 'No MAGA Left Behind' Directive
+description: Ed Martin, Trump's pardon attorney, openly stated the administration's
+  pardon strategy as 'No MAGA left behind,' demonstrating an unprecedented politicization
+  of the presidential clemency power. The pardons focused on Trump supporters facing
+  legal consequences, including convicted former officials and allies.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Ed Martin
+- Scott Jenkins
+tags:
+- pardon
+- political-corruption
+- justice-weaponization
+- executive-power-abuse
+capture_type: monetizing_position
+sources:
+- title: '''No MAGA left behind'': Trump''s pardons get even more political'
+  url: https://www.cnn.com/2025/05/28/politics/analysis-trump-pardons-politics
+  outlet: CNN
+  date: '2025-05-28'
+- title: 'No MAGA Left Behind: Trump''s Pardons and Trial Balloons'
+  url: https://thedispatch.com/newsletter/boilingfrogs/trump-ed-martin-clemency-pardons-corruption/
+  outlet: The Dispatch
+  date: '2025-05-28'
+- title: A look at Trump's controversial pardons for political allies and loyalists
+  url: https://www.pbs.org/newshour/show/a-look-at-trumps-controversial-pardons-for-political-allies-and-loyalists
+  outlet: PBS News
+  date: '2025-05-31'
+connections: []
+patterns:
+- kleptocratic-capture
+- political-patronage
+notes: Event from comprehensive kleptocracy timeline tracking.
+capture_lanes:
+- Executive Power Expansion
+- Judicial System Capture
+---
+
+Trump's pardon attorney Ed Martin explicitly politicized the presidential pardon power, announcing a strategy of pardoning political allies and supporters. This included pardoning Scott Jenkins, a former sheriff convicted of taking over $75,000 in bribes, signaling a dramatic shift in how clemency is applied.

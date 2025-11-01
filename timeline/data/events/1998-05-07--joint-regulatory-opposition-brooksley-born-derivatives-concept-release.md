@@ -1,0 +1,49 @@
+---
+id: 1998-05-07--joint-regulatory-opposition-brooksley-born-derivatives-concept-release
+date: '1998-05-07'
+title: Coordinated Regulatory Opposition Suppresses CFTC Derivatives Oversight Inquiry
+importance: 9
+actors:
+- Brooksley Born
+- Alan Greenspan
+- Robert Rubin
+- Arthur Levitt
+- CFTC
+- Federal Reserve
+- Treasury Department
+- SEC
+tags:
+- derivatives-regulation
+- regulatory-suppression
+- brooksley-born
+- greenspan
+- rubin
+- levitt
+- coordinated-opposition
+sources:
+- title: CFTC Concept Release on OTC Derivatives
+  url: https://www.cftc.gov/sites/default/files/opa/speeches/opaborn-34.htm
+  outlet: CFTC
+  date: '1998-05-07'
+- title: Joint Statement on CFTC Concept Release
+  url: https://www.federalreserve.gov/boarddocs/press/general/1998/19980507/default.htm
+  outlet: Federal Reserve
+  date: '1998-05-07'
+- title: Brooksley Born & the OTC Derivatives Market (A)
+  url: https://www.hbs.edu/faculty/Pages/item.aspx?num=39593
+  outlet: Harvard Business School Case Study
+  date: '2010-11-01'
+- title: 'Lessons Not Learned: The Derivatives Market and Continued Risks'
+  url: https://law.stanford.edu/stanford-lawyer/articles/lessons-not-learned-the-derivatives-market-and-continued-risks/
+  outlet: Stanford Law
+  date: '2009-05-26'
+status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Regulatory Capture
+- Legislative Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+Hours after CFTC Chair Brooksley Born issues a "Concept Release" requesting public comment on regulating the 9 trillion over-the-counter derivatives market, Fed Chair Alan Greenspan, Treasury Secretary Robert Rubin, and SEC Chair Arthur Levitt issue an unprecedented joint statement expressing "grave concerns." This coordinated response demonstrates systematic regulatory capture, with three major financial regulators acting in concert to suppress even basic inquiry into derivatives oversight. The opposition leads to congressional legislation preventing CFTC regulation of derivatives, with Born forced out in 1999. This suppression of regulatory oversight directly enabled the derivatives-fueled 2008 financial crisis, vindicating Born's warnings about systemic risk.

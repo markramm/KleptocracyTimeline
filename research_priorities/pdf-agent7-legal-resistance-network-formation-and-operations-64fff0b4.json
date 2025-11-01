@@ -1,0 +1,25 @@
+{
+  "id": "64fff0b4",
+  "title": "Legal Resistance Network Formation and Operations",
+  "description": "Document the formation and operations of legal resistance networks, including coordinated litigation strategies and pro bono legal support systems.",
+  "priority": 7,
+  "estimated_events": 5,
+  "category": "pdf_ingestion",
+  "tags": [
+    "Legal networks",
+    "Coordinated litigation",
+    "Pro bono support"
+  ],
+  "research_areas": [
+    "What are the specific dates and actors involved in Legal Resistance Network Formation and Operations?",
+    "What are the financial amounts and policy changes related to this investigation?",
+    "How does this connect to broader institutional capture patterns?",
+    "What documentation and sources verify these timeline events?"
+  ],
+  "timeline_focus": "2008-01-01 to 2025-01-31",
+  "actors": [],
+  "source_requirements": "Government documents, financial records, policy communications",
+  "created_by": "pdf-ingestion-agent-7",
+  "pdf_source": "Resistance Documentation Framework.pdf",
+  "created_at": "2025-09-09T18:52:52.069709"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "8d82f2b5",
+  "title": "Roger Stone Russian Network: From Lobbying to Intelligence Operations Timeline",
+  "description": "Map the evolution of Roger Stone's relationships with Russian operatives from traditional lobbying activities to sophisticated intelligence operations, focusing on 2025 activities.",
+  "priority": 9,
+  "estimated_events": 5,
+  "category": "constitutional_crisis",
+  "tags": [
+    "russian-influence",
+    "roger-stone",
+    "intelligence-operations",
+    "foreign-interference",
+    "political-networks"
+  ],
+  "research_areas": [
+    "What specific Russian contacts did Roger Stone maintain during 2025?",
+    "Which dates connect Stone's Russian network to Trump administration decisions?",
+    "How did Stone's intelligence gathering operations evolve in sophistication?",
+    "What financial transactions link Stone to Russian entities during 2025?"
+  ],
+  "timeline_focus": "2025-01-01 to 2025-06-30",
+  "actors": [
+    "Roger Stone",
+    "Russian intelligence operatives",
+    "Intermediary figures",
+    "Financial facilitators"
+  ],
+  "source_requirements": "Financial records, communication intercepts, intelligence reports, congressional testimony",
+  "created_by": "pdf-ingestion-agent-4",
+  "pdf_source": "Roger Stone's Russian Influence Network_ From Lobbying to Intelligence Operations.pdf",
+  "created_at": "2025-09-09T18:29:46.186681"
+}

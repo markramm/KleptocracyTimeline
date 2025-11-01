@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-1C9A91FE-facebook-emotional-contagion-experiment",
+  "title": "Facebook Emotional Contagion Experiment",
+  "description": "Document Facebook's secret psychological manipulation experiment on 689,000 users without informed consent.",
+  "expected_events": 2,
+  "importance": 7,
+  "tags": [
+    "social-media-manipulation",
+    "psychological-experiments",
+    "user-exploitation",
+    "tech-manipulation"
+  ],
+  "research_status": "not_started",
+  "time_period": "2012-2014"
+}

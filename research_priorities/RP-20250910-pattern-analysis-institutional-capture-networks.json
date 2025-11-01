@@ -1,0 +1,37 @@
+{
+    "id": "RP-20250910-pattern-analysis-institutional-capture-networks",
+    "category": "pattern-analysis",
+    "subcategory": "institutional-capture",
+    "title": "Comprehensive Analysis of Institutional Capture Networks",
+    "description": "Detailed research project mapping systematic mechanisms of institutional capture, focusing on network dynamics, personnel placement, and strategic transformation processes.",
+    "research_objectives": [
+        "Map intricate networks of institutional capture",
+        "Identify key strategic mechanisms of personnel placement",
+        "Analyze transformation processes in governance structures",
+        "Develop predictive models for institutional vulnerability"
+    ],
+    "estimated_timeline": {
+        "start_date": "2025-09-10",
+        "expected_duration": "3-6 months",
+        "key_milestones": [
+            "Network mapping and initial data collection",
+            "Mechanism identification and categorization",
+            "Predictive model development",
+            "Comprehensive report and presentation"
+        ]
+    },
+    "deliverables": [
+        "Detailed network mapping report",
+        "Strategic mechanism analysis",
+        "Predictive institutional capture vulnerability assessment",
+        "Presentation of findings"
+    ],
+    "tags": [
+        "pattern-analysis",
+        "institutional-capture",
+        "network-mapping",
+        "governance-transformation"
+    ],
+    "priority_level": "high",
+    "status": "not_started"
+}

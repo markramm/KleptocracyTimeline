@@ -1,0 +1,53 @@
+---
+id: 2025-02-04--trump-s-crypto-project-appears-to-have-bought-ether-after-ta
+date: '2025-02-04'
+title: Trump's World Liberty Financial Makes Massive Ethereum Purchases Amid Market
+  Volatility
+description: Following market volatility triggered by Trump's tariff announcement,
+  World Liberty Financial executed a significant Ethereum purchase strategy. The acquisition
+  of $55 million in ETH demonstrates the project's sophisticated market timing and
+  investment approach, leveraging political and economic instability to expand its
+  cryptocurrency portfolio.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- World Liberty Financial
+tags:
+- crypto
+- government-contracts
+- market-manipulation
+- trump-business
+capture_type: monetizing_position
+sources:
+- title: Trump's World Liberty Financial Appears to Buy Crypto Before White House
+    Summit
+  url: https://www.bloomberg.com/news/articles/2025-03-06/trump-s-crypto-project-appears-to-buy-tokens-before-white-house-summit
+  outlet: Bloomberg
+  date: '2025-03-06'
+- title: President Trump's World Liberty Financial Crypto Holdings Cross $388,332,996
+    Amid New Ethereum Purchases
+  url: https://dailyhodl.com/2025/01/26/president-trumps-world-liberty-financial-crypto-holdings-cross-388332996-amid-new-ethereum-purchases-arkham/
+  outlet: The Daily Hodl
+  date: '2025-01-26'
+- title: World Liberty Financial, tied to Trump, grows ETH holdings to $275 million
+  url: https://americanbazaaronline.com/2025/07/23/world-liberty-financial-tied-to-trump-grows-eth-holdings-to-275-million-465423/
+  outlet: American Bazaar Online
+  date: '2025-07-23'
+connections:
+- type: business_investment
+  description: Strategic cryptocurrency purchases during market volatility
+patterns:
+- kleptocratic-capture
+- market-exploitation
+notes: Comprehensive documentation of Trump family's cryptocurrency investment strategy,
+  highlighting opportunistic market positioning.
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+- Technology Leverage
+---
+
+World Liberty Financial, a decentralized finance project linked to Trump's family, strategically acquired approximately $55 million worth of Ether (ETH) following market disruptions caused by Trump's brief tariff imposition on Mexico and Canada. This purchase was part of a larger pattern of aggressive cryptocurrency investment, with the project accumulating over $388 million in digital assets by early 2025.

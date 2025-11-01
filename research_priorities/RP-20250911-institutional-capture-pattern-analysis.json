@@ -1,0 +1,32 @@
+{
+  "id": "RP-20250911-institutional-capture-pattern-analysis",
+  "title": "Institutional Capture Pattern Analysis Research Priority",
+  "description": "Comprehensive research framework for analyzing systematic mechanisms of institutional capture, focusing on network dynamics, personnel placement, and strategic transformation processes across government agencies.",
+  "priority": "high",
+  "estimated_events": 15,
+  "research_areas": [
+    "Network dynamics of institutional capture",
+    "Strategic personnel placement patterns", 
+    "Regulatory transformation mechanisms",
+    "Cross-agency coordination patterns",
+    "Democratic institution conversion processes",
+    "Resistance and countermeasure identification"
+  ],
+  "timeline_scope": {
+    "start_year": 1971,
+    "end_year": 2025,
+    "focus_periods": ["Powell Memo era", "Bush administration", "Trump administrations"]
+  },
+  "methodology": "Pattern analysis and network mapping",
+  "expected_outcomes": [
+    "Systematic documentation of capture mechanisms",
+    "Network mapping of institutional transformation",
+    "Timeline of coordinated capture campaigns",
+    "Identification of vulnerability points",
+    "Framework for resistance strategies"
+  ],
+  "status": "pending",
+  "created_date": "2025-09-11",
+  "created_by": "timeline-cleanup-agent",
+  "notes": "Created to consolidate pattern analysis content that was misplaced as timeline events. This is analytical research, not historical events."
+}

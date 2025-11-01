@@ -1,0 +1,51 @@
+---
+id: 2025-05-28--who-won-a-seat-at-trump-s-crypto-dinner
+date: '2025-05-28'
+title: Who won a seat at Trump's crypto dinner?
+description: Trump's crypto dinner guest list included foreign nationals, right-wing
+  influencers, antisemites, and crypto moguls—including several facing SEC lawsuits,
+  with 19 of top 25 memecoin holders likely foreign nationals
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- Justin Sun
+- Foreign Cryptocurrency Investors
+tags:
+- crypto
+- foreign-influence
+- regulatory-capture
+- justice-weaponization
+- campaign-finance
+capture_type: regulatory_capture
+sources:
+- title: Who won a seat at Trump's crypto dinner?
+  url: https://www.nytimes.com/2025/05/23/us/politics/trump-crypto-dinner-attendees.html
+  outlet: New York Times
+  date: '2025-05-28'
+- title: Top Trump Memecoin Holders Reveal Stunning Foreign Influence in Crypto Dinner
+    Guest List
+  url: https://www.bloomberg.com/news/articles/2025/05/28/trump-crypto-dinner-foreign-national-investors
+  outlet: Bloomberg
+  date: '2025-05-28'
+- title: 50 Trump Crypto Dinner Invitees Hold Tokens Linked to Alt-Right Symbols and
+    Racist Language
+  url: https://www.citizensforethics.org/reports-investigations/crew-investigations/50-trump-crypto-dinner-invitees-hold-tokens-linked-to-alt-right-symbols-and-racist-language/
+  outlet: Citizens for Responsibility and Ethics in Washington
+  date: '2025-05-28'
+connections:
+- Crypto Regulatory Manipulation
+- Foreign Influence in Political Fundraising
+patterns:
+- kleptocratic-capture
+- foreign-influence-networks
+notes: Event from comprehensive kleptocracy timeline tracking, highlighting potential
+  regulatory capture and foreign influence.
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+---
+
+Trump hosted an exclusive cryptocurrency dinner with 220 top memecoin holders, including foreign nationals like Justin Sun facing SEC lawsuits. House Democrats demanded a DOJ investigation into potential violations of federal bribery laws and the foreign emoluments clause.

@@ -1,0 +1,51 @@
+---
+id: 2025-06-25--trump-s-name-could-adorn-tel-aviv-hotel-becoming-a-symbol-or
+date: '2025-06-25'
+title: Trump Organization Explores Tel Aviv Hotel Branding Despite Geopolitical Tensions
+description: The Trump Organization held advanced negotiations with Nitsba Holdings
+  to brand and manage the Sarona Hotel in Tel Aviv, which would mark the firm's first
+  real estate venture in Israel, potentially representing a significant international
+  business expansion strategy.
+status: confirmed
+importance: 8
+location: Tel Aviv, Israel
+actors:
+- Donald Trump
+- Eric Trump
+- Nitsba Holdings
+tags:
+- kleptocracy
+- trump-administration
+- international-business
+- middle-east
+capture_type: monetizing_position
+sources:
+- title: Trump's name could adorn Tel Aviv hotel, becoming a symbol or a target
+  url: https://www.nytimes.com/2025/06/25/us/politics/israel-hotel-trump-destination-target.html
+  outlet: New York Times
+  date: '2025-06-25'
+- title: Trump Org said looking to resume talks for Israel hotel properties when war
+    is over
+  url: https://www.timesofisrael.com/trump-org-said-looking-to-resume-talks-for-israel-hotel-properties-when-war-is-over/
+  outlet: The Times of Israel
+  date: '2025-07-15'
+- title: Donald Trump planned Israeli hotel chain, paused by October 7
+  url: https://www.jpost.com/israel-news/article-824495
+  outlet: The Jerusalem Post
+  date: '2025-08-10'
+connections:
+- Trump Middle East Property Deals
+- Trump Organization International Expansion
+patterns:
+- kleptocratic-capture
+- international-expansion
+- brand-monetization
+notes: Preliminary deal paused by October 7 conflict, but Eric Trump indicates intent
+  to pursue once war concludes. Represents potential continuation of Trump Organization's
+  strategy of leveraging political position for international business opportunities.
+capture_lanes:
+- Systematic Corruption
+- International Business Expansion
+---
+
+The Trump Organization, led by Eric Trump, held advanced negotiations to brand and manage the Sarona Hotel in Tel Aviv in 2025. These talks, initially promising, were paused following the October 7 conflict. Eric Trump indicated the deal would have been completed if not for the war, suggesting the company intends to pursue the project once tensions subside.

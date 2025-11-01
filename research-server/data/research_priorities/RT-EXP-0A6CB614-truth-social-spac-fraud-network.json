@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-0A6CB614",
+  "title": "Truth Social SPAC Fraud Network",
+  "description": "Investigate Digital World Acquisition Corp SPAC fraud, Patrick Orlando, ARC Capital, and Chinese investor connections to Truth Social.",
+  "priority": "critical",
+  "tags": [
+    "truth_social",
+    "dwac",
+    "spac_fraud"
+  ],
+  "decade": "2020s",
+  "created": "2025-09-09T21:17:47.658229",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Trump Media",
+    "Chinese investors"
+  ]
+}

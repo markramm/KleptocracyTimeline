@@ -1,0 +1,32 @@
+---
+id: 2021-02-05--robinhood-dtcc-collateral-waiver-undisclosed-regulat
+date: '2021-02-05'
+title: Robinhood DTCC Collateral Waiver Revealed in GameStop Short Squeeze Fallout
+importance: 9
+tags:
+- financial-regulation
+- robinhood
+- dtcc
+- gamestop-short-squeeze
+- regulatory-capture
+actors:
+- Robinhood Financial
+- DTCC
+- Dan Gallagher (Robinhood Chief Legal Officer)
+- U.S. House Committee on Financial Services
+sources:
+- url: https://qz.com/2184431/robinhood-nearly-defaulted-during-the-gamestop-short-squeeze
+  title: How Robinhood Nearly Defaulted During GameStop Trading
+  outlet: Quartz
+  date: '2021-02-05'
+- url: https://www.bloomberg.com/news/articles/2021-01-29/what-s-the-dtcc-and-how-did-it-stop-gamestop-mania-quicktake
+  title: DTCC's Role in GameStop Trading Pause
+  outlet: Bloomberg
+  date: '2021-01-29'
+- url: https://www.financemagnates.com/forex/robinhood-faced-deeper-liquidity-woes-following-gamestops-rally/
+  title: Robinhood Faced Deeper Liquidity Woes Following GameStop's Rally
+  outlet: Finance Magnates
+  date: '2021-02-05'
+---
+
+In January 2021, the Depository Trust & Clearing Corporation (DTCC) granted Robinhood an unprecedented $9.7 billion collateral waiver during the GameStop short squeeze. This extraordinary measure prevented Robinhood from defaulting on its regulatory obligations, revealing significant gaps in financial regulatory oversight. The waiver allowed Robinhood to continue trading despite massive market volatility, raising questions about the transparency and discretionary power of clearing institutions.

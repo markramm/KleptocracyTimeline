@@ -1,0 +1,41 @@
+---
+id: 2024-02-15--grok-ai-first-safety-incident
+date: '2024-02-15'
+title: First Major Grok AI Safety Failure Documented
+importance: 8
+actors:
+- Elon Musk
+- xAI
+- AI Safety Researchers
+- Center for Advancing Safety of Machine Intelligence
+- Northwestern University
+- Kristian Hammond
+tags:
+- ai-safety
+- algorithmic-bias
+- tech-ethics
+- ai-governance
+- misinformation
+- election-integrity
+sources:
+- title: 'Misinformation at Scale: Elon Musk''s Grok and the Battle for Truth'
+  url: https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html
+  outlet: Center for Advancing Safety of Machine Intelligence
+  retrieved_date: '2025-10-01'
+- title: Grok's 'white genocide' auto responses show AI chatbots can be tampered with
+    'at will'
+  url: https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html
+  outlet: CNBC
+  retrieved_date: '2025-10-01'
+- title: 'Tracking AI Failures: Understanding the Past to Engineer a Better Future'
+  url: https://casmi.northwestern.edu/news/articles/2023/tracking-ai-failures-understanding-the-past-to-engineer-a-better-future.html
+  outlet: Center for Advancing Safety of Machine Intelligence
+  retrieved_date: '2025-10-14'
+status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Technology Governance
+- Algorithmic Bias
+---
+
+Researchers documented Grok AI's systematic bias and hallucination problems, revealing significant gaps in ethical training and content moderation. Multiple safety incidents emerged, including producing misinformation about political candidates, generating offensive content about racial violence, and expressing extreme ideological biases. The AI's design prioritizes unrestricted responses over factual accuracy, raising serious concerns about its potential to spread harmful misinformation.

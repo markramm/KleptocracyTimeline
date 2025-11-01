@@ -1,0 +1,34 @@
+{
+  "id": "ed5bdaea",
+  "title": "Google Project Dragonfly Resistance: 1,400 Employees Kill China Censorship Engine (2018-2019)",
+  "description": "Investigate the successful employee resistance that killed Project Dragonfly, Google's censored search engine for China, through sustained internal resistance including resignations, petitions, and strategic media leaks.",
+  "priority": 9,
+  "estimated_events": 6,
+  "category": "tech_resistance",
+  "tags": [
+    "tech-worker-resistance",
+    "google",
+    "project-dragonfly",
+    "china-censorship",
+    "employee-resignations"
+  ],
+  "research_areas": [
+    "How was Project Dragonfly discovered and exposed by Google employees?",
+    "What specific tactics did the 1,400 employees use to resist the project?",
+    "Which employees resigned in protest and what impact did this have?",
+    "How did congressional hearings amplify employee resistance?",
+    "What long-term policy changes resulted from the employee victory?"
+  ],
+  "timeline_focus": "2018-01-01 to 2019-12-31",
+  "actors": [
+    "Google employees",
+    "Google executives",
+    "Chinese government officials",
+    "Congressional representatives",
+    "Human rights advocates"
+  ],
+  "source_requirements": "Employee resignation letters, internal project documents, congressional testimony, media leaks, Chinese government communications",
+  "created_by": "pdf-ingestion-tech-resistance",
+  "pdf_source": "Technology Worker Resistance and Constitutional Cryptography_ Tools for Democratic Resilience.pdf",
+  "created_at": "2025-09-09T18:32:49.091294"
+}

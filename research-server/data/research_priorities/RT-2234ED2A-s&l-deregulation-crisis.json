@@ -1,0 +1,16 @@
+{
+  "id": "RT-2234ED2A",
+  "title": "S&L Deregulation Crisis",
+  "description": "Document Garn-St. Germain Act (1982) and subsequent Savings & Loan crisis as regulatory capture case study",
+  "priority": "high",
+  "tags": [
+    "s&l_crisis",
+    "deregulation",
+    "financial_capture"
+  ],
+  "capture_lane": "regulatory",
+  "decade": "1980s",
+  "created": "2025-09-09T21:17:43.463580",
+  "status": "pending",
+  "category": "capture_research"
+}

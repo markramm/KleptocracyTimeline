@@ -1,0 +1,158 @@
+{
+  "total_events": 1580,
+  "total_tags": 3340,
+  "total_actors": 3188,
+  "total_sources": 5670,
+  "date_range": {
+    "start": "1142-01-01",
+    "end": "2025-11-04"
+  },
+  "events_by_year": {
+    "1142": 1,
+    "1600": 2,
+    "1722": 1,
+    "1750": 1,
+    "1754": 1,
+    "1953": 2,
+    "1968": 1,
+    "1970": 2,
+    "1971": 10,
+    "1972": 5,
+    "1973": 13,
+    "1974": 2,
+    "1975": 5,
+    "1976": 9,
+    "1977": 2,
+    "1978": 5,
+    "1979": 2,
+    "1980": 5,
+    "1981": 3,
+    "1982": 4,
+    "1984": 5,
+    "1985": 8,
+    "1987": 3,
+    "1988": 1,
+    "1989": 4,
+    "1990": 6,
+    "1991": 4,
+    "1992": 3,
+    "1993": 4,
+    "1994": 3,
+    "1995": 10,
+    "1996": 6,
+    "1997": 13,
+    "1998": 18,
+    "1999": 9,
+    "2000": 13,
+    "2001": 22,
+    "2002": 63,
+    "2003": 20,
+    "2004": 17,
+    "2005": 15,
+    "2006": 10,
+    "2007": 7,
+    "2008": 16,
+    "2009": 17,
+    "2010": 18,
+    "2011": 6,
+    "2012": 12,
+    "2013": 17,
+    "2014": 22,
+    "2015": 8,
+    "2016": 32,
+    "2017": 51,
+    "2018": 38,
+    "2019": 42,
+    "2020": 34,
+    "2021": 40,
+    "2022": 42,
+    "2023": 57,
+    "2024": 103,
+    "2025": 685
+  },
+  "top_tags": [
+    {
+      "name": "regulatory-capture",
+      "count": 286
+    },
+    {
+      "name": "corruption",
+      "count": 126
+    },
+    {
+      "name": "kleptocracy",
+      "count": 124
+    },
+    {
+      "name": "government-contracts",
+      "count": 117
+    },
+    {
+      "name": "crypto",
+      "count": 111
+    },
+    {
+      "name": "trump-administration",
+      "count": 97
+    },
+    {
+      "name": "conflict-of-interest",
+      "count": 76
+    },
+    {
+      "name": "foreign-influence",
+      "count": 75
+    },
+    {
+      "name": "institutional-capture",
+      "count": 71
+    },
+    {
+      "name": "constitutional-crisis",
+      "count": 63
+    }
+  ],
+  "top_actors": [
+    {
+      "name": "Donald Trump",
+      "count": 560
+    },
+    {
+      "name": "Trump Administration",
+      "count": 272
+    },
+    {
+      "name": "Elon Musk",
+      "count": 147
+    },
+    {
+      "name": "Department of Justice",
+      "count": 70
+    },
+    {
+      "name": "Dick Cheney",
+      "count": 48
+    },
+    {
+      "name": "George W. Bush",
+      "count": 47
+    },
+    {
+      "name": "Karl Rove",
+      "count": 44
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 42
+    },
+    {
+      "name": "Heritage Foundation",
+      "count": 36
+    },
+    {
+      "name": "FBI",
+      "count": 35
+    }
+  ],
+  "generated": "2025-10-19T09:55:28.575838Z"
+}

@@ -1,0 +1,25 @@
+#!/bin/bash
+#
+# Research CLI Wrapper
+#
+# Simplified wrapper for research_cli.py that handles Python path setup automatically.
+# This makes the CLI easier to use without having to remember PYTHONPATH settings.
+#
+# Usage:
+#   ./research <command> [options]
+#
+# Examples:
+#   ./research get-stats
+#   ./research search-events --query "Trump crypto"
+#   ./research server-status
+#   ./research help
+#
+
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# Set up Python path for imports
+export PYTHONPATH="${SCRIPT_DIR}/client:${SCRIPT_DIR}/server:${PYTHONPATH}"
+
+# Run the CLI with all arguments passed through
+exec python3 "${SCRIPT_DIR}/cli/research_cli.py" "$@"

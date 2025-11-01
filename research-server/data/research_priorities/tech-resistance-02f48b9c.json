@@ -1,0 +1,34 @@
+{
+  "id": "02f48b9c",
+  "title": "Constitutional Cryptography Development: Estonia's Digital Democracy Model (2014-2025)",
+  "description": "Investigate Estonia's comprehensive implementation of constitutional cryptography with dual RSA/ECC key pairs for 1.3 million citizens, 1.3 billion digital signatures, and 2% GDP savings while providing 99% of government services online.",
+  "priority": 7,
+  "estimated_events": 4,
+  "category": "tech_resistance",
+  "tags": [
+    "constitutional-cryptography",
+    "estonia-digital-democracy",
+    "rsa-ecc-keys",
+    "government-services",
+    "democratic-technology"
+  ],
+  "research_areas": [
+    "How did Estonia develop and deploy its comprehensive digital democracy system?",
+    "What specific cryptographic protocols secure Estonia's government services?",
+    "How has the system performed in terms of security, efficiency, and citizen adoption?",
+    "What vulnerabilities have been discovered and how were they addressed?",
+    "How has Estonia's model influenced other nations' digital democracy efforts?"
+  ],
+  "timeline_focus": "2014-01-01 to 2025-06-30",
+  "actors": [
+    "Estonian government officials",
+    "Cryptography developers",
+    "Citizens using digital services",
+    "Security researchers",
+    "International observers"
+  ],
+  "source_requirements": "Estonian government technical specifications, security audit reports, citizen usage statistics, vulnerability disclosures, international adoption studies",
+  "created_by": "pdf-ingestion-tech-resistance",
+  "pdf_source": "Technology Worker Resistance and Constitutional Cryptography_ Tools for Democratic Resilience.pdf",
+  "created_at": "2025-09-09T18:32:49.091557"
+}

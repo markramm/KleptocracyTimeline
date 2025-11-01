@@ -1,0 +1,65 @@
+{
+  "id": "indigenous-democracy-20d5d97f",
+  "title": "Indigenous Governance Principles for Contemporary Constitutional Reform",
+  "description": "Examine how Indigenous governance principles could inform contemporary constitutional reform efforts, particularly regarding representation, federalism, and checks and balances.",
+  "priority": 6,
+  "status": "pending",
+  "category": "constitutional-reform",
+  "tags": [
+    "constitutional-reform",
+    "indigenous-principles",
+    "modern-federalism",
+    "governance-innovation"
+  ],
+  "estimated_events": 3,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Traditional Democratic Innovations for Modern Governance_ Lessons from Indigenous and Pre-Modern Political Systems.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "1975-2025",
+  "constitutional_issues": [
+    "representation",
+    "federalism",
+    "checks-and-balances"
+  ],
+  "actors_to_investigate": [
+    "Modern Indigenous constitutional developers",
+    "Constitutional reform advocates",
+    "Tribal government leaders",
+    "Academic constitutional scholars"
+  ],
+  "key_sources": [
+    {
+      "title": "Modern Indigenous constitutional development",
+      "type": "government-documents",
+      "credibility": 9,
+      "why": "Contemporary applications of traditional governance principles"
+    },
+    {
+      "title": "Contemporary constitutional reform proposals",
+      "type": "policy-documents",
+      "credibility": 7,
+      "why": "Current discussions of constitutional innovation"
+    },
+    {
+      "title": "International law on Indigenous governance rights",
+      "type": "legal-documents",
+      "credibility": 9,
+      "why": "Recognition of Indigenous governance systems in international law"
+    }
+  ],
+  "expected_outcomes": [
+    "Document modern applications of Indigenous governance principles",
+    "Analyze constitutional reform discussions incorporating traditional elements",
+    "Map Indigenous governance recognition in international contexts",
+    "Evaluate traditional governance innovations for democratic backsliding solutions"
+  ],
+  "research_questions": [
+    "How do Indigenous concepts of representation differ from contemporary electoral systems?",
+    "What can traditional federal structures teach about modern federalism challenges?",
+    "How did Indigenous societies manage conflicts between levels of government?",
+    "What Indigenous innovations could address modern democratic backsliding?"
+  ],
+  "estimated_importance": 6
+}

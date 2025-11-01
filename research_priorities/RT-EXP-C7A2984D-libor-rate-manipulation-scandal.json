@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-C7A2984D-libor-rate-manipulation-scandal",
+  "title": "LIBOR Rate Manipulation Scandal",
+  "description": "Research the systematic manipulation of LIBOR interest rates by major banks affecting trillions in global financial transactions.",
+  "expected_events": 3,
+  "importance": 8,
+  "tags": [
+    "interest-rate-manipulation",
+    "banking-cartel",
+    "market-rigging",
+    "financial-manipulation"
+  ],
+  "research_status": "not_started",
+  "time_period": "2005-2012"
+}

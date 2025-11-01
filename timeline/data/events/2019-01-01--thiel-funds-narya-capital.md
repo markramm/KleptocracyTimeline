@@ -1,0 +1,57 @@
+---
+id: 2019-01-01--thiel-funds-narya-capital
+date: '2019-01-01'
+title: Peter Thiel Backs J.D. Vance's $93 Million Narya Capital Venture Fund
+importance: 6
+tags:
+- jd-vance
+- peter-thiel
+- narya-capital
+- venture-capital
+- political-finance
+- midwest-investment
+- elite-networks
+actors:
+- jd-vance
+- peter-thiel
+- narya-capital
+- marc-andreessen
+- eric-schmidt
+capture_lane: economic
+status: confirmed
+sources:
+- outlet: Bloomberg
+  date: '2020-01-29'
+  url: https://www.bloomberg.com/news/articles/2020-01-29/jd-vance-narya-capital
+  title: J.D. Vance Raises $93 Million for Narya Capital
+- outlet: Columbus Business First
+  date: '2019-12-16'
+  url: https://www.bizjournals.com/columbus/news/2019/12/16/jd-vance-venture-capital-narya.html
+  title: J.D. Vance launches Ohio-focused venture fund
+- outlet: Axios
+  date: '2020-01-09'
+  url: https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel
+  title: '"Hillbilly Elegy" author J.D. Vance starts venture capital fund in Ohio'
+- outlet: Crunchbase
+  date: '2019-01-01'
+  url: https://www.crunchbase.com/person/j-d-vance
+  title: James David Vance - Co-Founder and Partner @ Narya Capital
+connections:
+- 2016-01-01--vance-joins-mithril-capital
+- 2022-04-01--thiel-funds-vance-senate
+- 2024-07-15--vance-vp-nomination
+patterns:
+- oligarch-networks
+- political-finance
+- elite-patronage
+notes: 'Narya Capital, named after Tolkien mythology like many Thiel ventures, serves
+  dual purpose: enriching Vance through management fees and carried interest while
+  building political brand as champion of "forgotten" Midwest. Other investors include
+  Marc Andreessen and Eric Schmidt, showing how tech elite coordinate political investments.
+  Fund''s Midwest focus provides populist cover for elite financial operation preparing
+  Vance''s political launch.'
+capture_lanes:
+- Systematic Corruption
+---
+
+Peter Thiel becomes anchor investor in J.D. Vance's new venture capital firm Narya Capital, which raises $93 million. Fund focuses on investments outside Silicon Valley, particularly in Midwest, aligning with Vance's populist branding while maintaining elite financial networks. Represents further deepening of Thiel-Vance financial ties ahead of political pivot.

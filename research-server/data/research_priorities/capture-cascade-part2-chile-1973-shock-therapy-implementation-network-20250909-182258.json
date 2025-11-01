@@ -1,0 +1,25 @@
+{
+  "title": "Chile 1973 Shock Therapy Implementation Network",
+  "description": "Map the personnel and institutional connections between the Chilean coup, Chicago Boys economists, and Powell Memo infrastructure",
+  "priority": 9,
+  "estimated_events": 5,
+  "category": "shock_therapy",
+  "tags": [
+    "chile",
+    "pinochet",
+    "chicago_boys",
+    "shock_therapy",
+    "powell_memo"
+  ],
+  "source_document": "The Capture Cascade - Part 2: The Accelerant.pdf",
+  "created_at": "2025-09-09T18:22:58.187321",
+  "is_generated": true,
+  "research_notes": "Generated from systematic analysis of disaster capitalism documentation. Focus on concrete timeline events, personnel connections, and institutional capture mechanisms.",
+  "research_areas": [
+    "September 11, 1973 - Pinochet coup enabling radical restructuring",
+    "Chicago Boys training at University of Chicago under corporate-funded programs",
+    "Privatization timeline: state industries, trade barriers, social spending cuts",
+    "Milton Friedman 1975 visit and endorsement of economic program",
+    "Movement of Chilean advisors to Powell-created think tanks and consulting firms"
+  ]
+}

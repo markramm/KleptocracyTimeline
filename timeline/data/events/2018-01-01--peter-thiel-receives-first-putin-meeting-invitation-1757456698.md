@@ -1,0 +1,34 @@
+---
+id: 2018-01-01--peter-thiel-receives-first-putin-meeting-invitation-1757456698
+date: '2018-06-23'
+title: Peter Thiel Receives First Putin Meeting Invitation Through Russian Diplomat
+importance: 9
+actors:
+- Peter Thiel
+- Vladimir Putin
+- Daniil Bisslinger
+- Christian Angermayer
+- FBI
+sources:
+- outlet: Ground News
+  title: Peter Thiel Told FBI About Kremlin Invitations
+  url: https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations
+- outlet: Benzinga
+  title: How Peter Thiel Received 2 Kremlin Invites For Meetings With Putin
+  url: https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri
+- outlet: Yahoo News
+  title: Billionaire FBI Informant Peter Thiel's Kremlin Invites
+  url: https://news.yahoo.com/billionaire-fbi-informant-peter-thiel-130944986.html
+tags:
+- thiel-putin
+- russian-recruitment
+- fbi-informant
+- silicon-valley-targeting
+- counterintelligence
+capture_lanes:
+- Intelligence Penetration
+- Tech Sector Influence
+status: confirmed
+---
+
+At a lavish birthday celebration in Vienna, Russian diplomat Daniil Bisslinger, an attaché from the Kremlin's Ministry of Foreign Affairs, invited Peter Thiel to a private meeting with Vladimir Putin at the St. Petersburg International Economic Forum. The invitation, later reported to the FBI, represents a sophisticated attempt at Russian diplomatic outreach to a prominent Silicon Valley figure. Thiel reportedly became an FBI informant after disclosing these Russian contacts.

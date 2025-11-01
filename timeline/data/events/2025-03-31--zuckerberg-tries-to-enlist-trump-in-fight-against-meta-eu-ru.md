@@ -1,0 +1,49 @@
+---
+id: 2025-03-31--zuckerberg-tries-to-enlist-trump-in-fight-against-meta-eu-ru
+date: '2025-03-31'
+title: Zuckerberg tries to enlist trump in fight against Meta EU ruling
+description: Meta CEO Mark Zuckerberg is lobbying Trump to intervene against an impending
+  European Union ruling that could fine Meta and force it to offer Facebook and Instagram
+  without personalized ads
+status: confirmed
+importance: 6
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- media-control
+capture_type: monetizing_position
+sources:
+- title: Zuckerberg tries to enlist trump in fight against Meta EU ruling
+  url: https://www.wsj.com/tech/meta-eu-ruling-trump-zuckerberg-f6bc593a?mod=hp_lead_pos3
+  outlet: Wall Street Journal
+  date: '2025-03-31'
+- title: 'Report: Meta Seeks Trump''s Help in Combatting EU Fine'
+  url: https://www.pymnts.com/meta/2025/meta-seeks-trump-help-combatting-european-union-fine/
+  outlet: PYMNTS
+  date: '2025-03-31'
+- title: Mark Zuckerberg Is Seeking Donald Trump's Support in Battling EU's Meta Antitrust
+    Ruling
+  url: https://www.breitbart.com/tech/2025/04/02/wsj-mark-zuckerberg-is-seeking-donald-trumps-support-in-battling-eus-meta-antitrust-ruling/
+  outlet: Breitbart
+  date: '2025-04-02'
+- title: Meta warns EU it will run to Trump whenever Zuckerberg feels company is being
+    unfairly punished
+  url: https://fortune.com/2025/02/17/meta-mark-zuckerberg-donald-trump-eu-commission-brussels-munich-security-conference/
+  outlet: Fortune
+  date: '2025-02-17'
+- title: Everything Mark Zuckerberg has gotten from Donald Trump so far
+  url: https://www.platformer.news/trump-zuckerberg-meta-partnership-eu-dsa-ai-dma/
+  outlet: Platformer
+  date: '2025-03-31'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
+capture_lanes:
+- Media Capture & Control
+- Judicial Capture
+---
+
+Meta CEO Mark Zuckerberg is lobbying Trump to intervene against an impending European Union ruling that could fine Meta and force it to offer Facebook and Instagram without personalized ads

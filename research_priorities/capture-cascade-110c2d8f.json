@@ -1,0 +1,33 @@
+{
+  "id": "110c2d8f",
+  "title": "Abu Dhabi $2 Billion Crypto Commitment: Sovereign Wealth Corruption (2025)",
+  "description": "Investigate Abu Dhabi's immediate $2 billion commitment to Trump crypto ventures as a model for how sovereign wealth funds can participate in systematic US political influence through cryptocurrency markets.",
+  "priority": 9,
+  "estimated_events": 5,
+  "category": "capture_cascade",
+  "tags": [
+    "sovereign-wealth",
+    "abu-dhabi",
+    "cryptocurrency-influence",
+    "foreign-investment",
+    "diplomatic-bypass"
+  ],
+  "research_areas": [
+    "What specific dates marked Abu Dhabi's $2 billion crypto commitment?",
+    "Which UAE officials and entities were involved in the decision?",
+    "How does this relate to US foreign policy decisions benefiting UAE?",
+    "What other sovereign wealth funds followed similar patterns?",
+    "How did traditional diplomatic channels respond to crypto influence?"
+  ],
+  "timeline_focus": "2025-01-01 to 2025-03-31",
+  "actors": [
+    "UAE leadership",
+    "Abu Dhabi Investment Authority",
+    "Trump crypto ventures",
+    "US foreign policy officials"
+  ],
+  "source_requirements": "UAE investment records, diplomatic communications, crypto venture agreements, policy correlation analysis",
+  "created_by": "pdf-ingestion-capture-cascade",
+  "pdf_source": "The Capture Cascade - Part 5_ The Breakthrough.pdf",
+  "created_at": "2025-09-09T18:31:03.966064"
+}

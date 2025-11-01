@@ -1,0 +1,17 @@
+{
+  "id": "RP-20250909-democratic-backsliding-systems-analysis",
+  "title": "Democratic Backsliding Systems Analysis",
+  "description": "Apply systems engineering methodology to identify feedback loops, tipping points, and cascade effects in democratic decline. Map interconnected failure modes.",
+  "priority": 6,
+  "status": "pending",
+  "category": "pdf-analysis",
+  "tags": [
+    "medium-priority",
+    "democratic-backsliding",
+    "authoritarianism"
+  ],
+  "estimated_events": 4,
+  "source_document": "documents/incoming/Methodology_ Systems Engineering Approach to Democratic Backsliding Analysis.pdf",
+  "created_date": "2025-09-09",
+  "requires_pdf_analysis": true
+}

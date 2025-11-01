@@ -1,0 +1,65 @@
+{
+  "id": "indigenous-democracy-bbd07c08",
+  "title": "Pre-Modern Democratic Innovations and Modern Governance Applications",
+  "description": "Analyze traditional democratic practices from Indigenous and pre-modern societies that could address contemporary governance challenges, including consensus-building, representation systems, and conflict resolution mechanisms.",
+  "priority": 7,
+  "status": "pending",
+  "category": "traditional-democracy",
+  "tags": [
+    "traditional-governance",
+    "consensus-democracy",
+    "indigenous-politics",
+    "democratic-innovation"
+  ],
+  "estimated_events": 4,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Traditional Democratic Innovations for Modern Governance_ Lessons from Indigenous and Pre-Modern Political Systems.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "Ancient-1776",
+  "constitutional_issues": [
+    "representation",
+    "consensus-building",
+    "conflict-resolution"
+  ],
+  "actors_to_investigate": [
+    "Traditional Indigenous leaders",
+    "Colonial governance experimenters",
+    "Medieval democratic innovators",
+    "Ancient democratic practitioners"
+  ],
+  "key_sources": [
+    {
+      "title": "Anthropological studies of traditional governance systems",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Systematic analysis of traditional democratic practices"
+    },
+    {
+      "title": "Colonial accounts of democratic experimentation",
+      "type": "historical-documents",
+      "credibility": 8,
+      "why": "Direct observations of traditional/colonial governance fusion"
+    },
+    {
+      "title": "Comparative political science research on traditional institutions",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Modern analysis of traditional democratic mechanisms"
+    }
+  ],
+  "expected_outcomes": [
+    "Catalog traditional democratic innovations applicable to modern governance",
+    "Document historical timeline of consensus-building mechanisms",
+    "Analyze traditional accountability systems and their modern applicability",
+    "Map conflict resolution methods from traditional societies"
+  ],
+  "research_questions": [
+    "How did traditional consensus-building mechanisms prevent gridlock while ensuring representation?",
+    "What accountability systems existed in traditional democratic societies?",
+    "How did traditional societies balance individual rights with collective decision-making?",
+    "What conflict resolution mechanisms from traditional societies could inform modern governance?"
+  ],
+  "estimated_importance": 7
+}

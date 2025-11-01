@@ -1,0 +1,19 @@
+{
+  "id": "RT-EXP-2870BC87",
+  "title": "Opus Dei Political Networks",
+  "description": "Map Opus Dei influence in Supreme Court (ACB, Scalia legacy), Federalist Society, and Catholic integralist movement.",
+  "priority": "high",
+  "tags": [
+    "opus_dei",
+    "catholic_integralism",
+    "federalist_society"
+  ],
+  "decade": "cross-decade",
+  "created": "2025-09-09T21:17:47.658480",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "Supreme Court",
+    "Leonard Leo"
+  ]
+}

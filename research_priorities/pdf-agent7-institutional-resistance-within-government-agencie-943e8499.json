@@ -1,0 +1,25 @@
+{
+  "id": "943e8499",
+  "title": "Institutional Resistance Within Government Agencies",
+  "description": "Track instances of government employees and agencies resisting authoritarian directives, including whistleblowing, policy resistance, and bureaucratic slowdowns.",
+  "priority": 7,
+  "estimated_events": 7,
+  "category": "pdf_ingestion",
+  "tags": [
+    "Institutional resistance",
+    "Government employees",
+    "Policy resistance"
+  ],
+  "research_areas": [
+    "What are the specific dates and actors involved in Institutional Resistance Within Government Agencies?",
+    "What are the financial amounts and policy changes related to this investigation?",
+    "How does this connect to broader institutional capture patterns?",
+    "What documentation and sources verify these timeline events?"
+  ],
+  "timeline_focus": "2008-01-01 to 2025-01-31",
+  "actors": [],
+  "source_requirements": "Government documents, financial records, policy communications",
+  "created_by": "pdf-ingestion-agent-7",
+  "pdf_source": "Resistance Documentation Framework.pdf",
+  "created_at": "2025-09-09T18:52:52.069630"
+}

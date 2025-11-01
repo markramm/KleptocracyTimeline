@@ -1,0 +1,31 @@
+---
+date: '2025-07-15'
+title: Climate Programs Dismantled - NOAA Faces 27% Budget Cut, Hundreds of Jobs Eliminated
+actors:
+- NOAA
+- Climate research agencies
+- Federal climate programs
+- U.S. Global Change Research Program
+importance: 9
+sources:
+- title: 'PBS NewsHour: ''As NOAA braces for more cuts, scientists say public safety
+    is at risk'''
+  url: ''
+- title: 'Environmental Defense Fund: ''Reports: Trump Administration Plans Detrimental
+    Cuts to NOAA Climate Research'''
+  url: ''
+- title: Project 2025 Implementation analysis
+  url: ''
+tags:
+- climate-dismantling
+- noaa-cuts
+- research-elimination
+- environmental-rollback
+- project-2025
+- federal-science-cuts
+status: confirmed
+id: 2025-07-15--climate-programs-dismantled--noaa-faces-27%-budget-cut-1757456630
+priority_id: project-2025-implementation-1757456630
+---
+
+Major systematic dismantling of climate research infrastructure: NOAA's budget cut by 27%, with Office of Oceanic and Atmospheric Research (OAR) budget slashed from $485 million to $171 million. Approximately 1,029 jobs to be eliminated, disrupting critical weather forecasting, climate monitoring, and marine ecosystem research. Part of Project 2025's comprehensive plan to eliminate federal climate change research capabilities.

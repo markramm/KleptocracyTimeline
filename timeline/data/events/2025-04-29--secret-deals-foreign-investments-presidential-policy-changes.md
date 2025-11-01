@@ -1,0 +1,49 @@
+---
+id: 2025-04-29--secret-deals-foreign-investments-presidential-policy-changes
+date: '2025-04-29'
+title: Trump's World Liberty Financial Reveals Major Foreign Crypto Investments
+description: An investigation revealed that Trump's cryptocurrency firm, World Liberty
+  Financial, engaged in questionable foreign investment practices. The company received
+  $2 billion from an Abu Dhabi state-backed firm and $75 million from Chinese investor
+  Justin Sun, raising significant conflict of interest concerns about potential policy
+  influence.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- Justin Sun
+- Tahnoun bin Zayed Al Nahyan
+tags:
+- crypto
+- foreign-influence
+- regulatory-capture
+- government-contracts
+- conflict-of-interest
+capture_type: regulatory_capture
+sources:
+- title: Trump Family Crypto Venture Tapped in $2B Emirati-Backed Investment Deal
+  outlet: ABC News
+  date: '2025-04-29'
+  url: https://abcnews.go.com/US/trump-family-crypto-venture-tapped-part-2b-emirati/story?id=121415842
+- title: 'The Trump Connection: Why Some Bought World Liberty Financial Tokens'
+  outlet: Reuters/TradingView
+  date: '2025-04-29'
+  url: https://www.tradingview.com/news/reuters.com,2025:newsml_L2N3OH17S:0-the-trump-connection-why-some-bought-world-liberty-financial-tokens/
+- title: 'Day 2: Trump''s World Liberty Financial Grift Part I'
+  outlet: U.S. House Committee on Financial Services Democrats
+  date: '2025-04-29'
+  url: https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413632
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Comprehensive documentation of foreign crypto investments during Trump administration
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+Trump's cryptocurrency firm, World Liberty Financial, made $550 million through secret payments from foreign entities, including a $2 billion investment from an Abu Dhabi state-backed firm and $75 million from Chinese investor Justin Sun, raising significant conflict of interest concerns.

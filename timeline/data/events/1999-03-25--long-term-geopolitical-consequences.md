@@ -1,0 +1,39 @@
+---
+actors:
+- IMF
+- World Bank
+- Asian Development Bank
+- Emerging Asian Economies
+- China
+- Indonesia
+- Thailand
+- South Korea
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+- Global Economic Governance
+date: '1999-03-25'
+id: 1999-03-25--long-term-geopolitical-consequences
+importance: 8
+sources:
+- outlet: Foreign Affairs
+  title: Geopolitical Shifts in Post-Crisis Asia
+  url: https://www.foreignaffairs.com/articles/asia/1999-03-01/asian-financial-crisis-and-changing-global-order
+- outlet: IMF
+  title: Recovery from the Asian Crisis and the Role of the IMF
+  url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
+- outlet: Federal Reserve History
+  title: 'Asian Financial Crisis: Economic and Geopolitical Transformations'
+  url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+status: confirmed
+tags:
+- geopolitical-transformation
+- economic-sovereignty
+- imf-intervention
+- structural-adjustment
+- trade-negotiations
+- washington-consensus
+title: Long-term Geopolitical Consequences of IMF Structural Adjustment
+---
+
+The IMF's systematic economic intervention during the Asian Financial Crisis created lasting geopolitical shifts, fundamentally altering regional economic sovereignty. With $35 billion in financial support to Indonesia, Korea, and Thailand, the IMF implemented structural reforms that triggered profound changes in global economic governance. Asian nations developed strategic resistance to Western financial institutions, sparking long-term diplomatic and economic recalibration. Key consequences included the birth of the anti-globalization movement, more assertive developing countries in trade negotiations, and the emergence of alternative regional financial architectures.

@@ -1,0 +1,49 @@
+---
+actors:
+- Donald Trump
+- Trump Administration
+- House Judiciary Committee Democrats
+- Liz Oyer
+capture_lanes:
+- Intelligence Penetration
+- Judicial Capture
+capture_type: monetizing_position
+connections:
+- Trump pardon power abuse
+- White-collar criminal networks
+date: '2025-05-02'
+description: Trump's pardons for white-collar criminals and January 6 defendants eliminated
+  $1.3 billion in court-ordered restitution, impacting victims and taxpayers.
+id: 2025-05-02--trump-white-collar-criminal-pardons-cost-public-1bn-says-ex-
+importance: 9
+location: Washington, D.C.
+notes: Comprehensive analysis shows systemic abuse of presidential pardon power to
+  benefit white-collar criminals.
+patterns:
+- kleptocratic-capture
+- judicial-manipulation
+sources:
+- date: '2025-05-02'
+  outlet: Courthouse News Service
+  title: Trump pardons for white-collar criminals wipe out $1.3 billion in legal debts
+  url: https://www.courthousenews.com/trump-pardons-for-jan-6-defendants-white-collar-criminals-wipe-out-1-3-billion-in-legal-debts/
+- date: '2025-06-17'
+  outlet: CBS News
+  title: Trump's pardons cost victims and taxpayers $1.3 billion, House Judiciary
+    Committee Democrats' review says
+  url: https://www.cbsnews.com/news/trumps-pardons-cost-victims-and-taxpayers-1-3-billion-house-judiciary-committee-democrats-review/
+- date: '2025-05-02'
+  outlet: The Guardian
+  title: Trump white-collar criminal pardons cost public $1bn, says ex-DoJ official
+  url: https://www.theguardian.com/us-news/2025/may/02/trump-pardons-cost-liz-oyer
+status: confirmed
+tags:
+- pardon
+- government-contracts
+- justice-weaponization
+- white-collar-crime
+- judicial-abuse
+title: Trump Pardons Eliminate $1.3 Billion in Restitution, Costing Victims and Taxpayers
+---
+
+A House Judiciary Committee review revealed that Trump's pardons eliminated $1.3 billion in restitution from white-collar criminals and January 6 defendants. Notable cases include Todd Chrisley's $17.7 million tax fraud pardon, Carlos Watson's $36.7 million investor fraud clemency, and Lawrence Duran's $87 million Medicare fraud pardon. Only 15% of $3 million in Capitol riot damages had been recovered before these pardons.

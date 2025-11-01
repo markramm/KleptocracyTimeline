@@ -1,248 +1,105 @@
-# The Kleptocracy Timeline
+# Kleptocracy Timeline
 
-[![CI/CD Pipeline](https://github.com/markramm/KleptocracyTimeline/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/markramm/KleptocracyTimeline/actions)
-[![Timeline Events](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarkramm%2FKleptocracyTimeline%2Fmain%2Fviewer%2Fpublic%2Fapi%2Fstats.json&query=%24.total_events&label=Timeline%20Events&color=blue)](https://markramm.github.io/KleptocracyTimeline/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-> **In Memoriam**: This project is dedicated to the journalists and researchers who have paid the ultimate price exposing corruption. See [IN_MEMORIAM.md](IN_MEMORIAM.md) for those we honor. Their courage is why this project must remain open, decentralized, and resilient.
-
-Open-source timeline documenting democratic erosion and institutional capture in the United States (1972-present).
-
-🌐 **[View the Interactive Timeline](https://markramm.github.io/KleptocracyTimeline/)**
-
-## 📊 Project Overview
-
-This project tracks and documents the systematic undermining of democratic institutions through:
-- **Financial Corruption & Kleptocracy** - Dark money, shell companies, and financial crimes
-- **Judicial Capture** - Court stacking and judicial corruption
-- **Foreign Influence Operations** - Election interference and infiltration
-- **Information Warfare** - Disinformation campaigns and media manipulation
-- **Constitutional Erosion** - Attacks on democratic norms and rule of law
-
-Every event is:
-- 📅 **Dated** - Precise timeline placement
-- 📄 **Documented** - Multiple credible sources required
-- 🔍 **Verified** - Community validation process
-- 📦 **Archived** - Protection against link rot
+A comprehensive timeline documenting patterns of institutional capture, regulatory capture, and kleptocracy across 50+ years with 1,580+ verified events.
 
 ## 🚀 Quick Start
 
-### View the Timeline
-Visit [markramm.github.io/KleptocracyTimeline](https://markramm.github.io/KleptocracyTimeline/)
-
-### Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/markramm/KleptocracyTimeline.git
-cd KleptocracyTimeline
+git clone https://github.com/yourusername/kleptocracy-timeline.git
+cd kleptocracy-timeline
 
-# Install dependencies
-cd viewer
-npm install
+# Start the research server
+./research server-start
 
-# Generate API data
-cd ..
-python timeline_data/generate_static_api.py
-
-# Start development server
-cd viewer
-npm start
+# Verify it's working
+./research get-stats
 ```
 
-## 🛠️ Developer Tools
+See [INSTALLATION.md](INSTALLATION.md) for detailed setup instructions.
 
-### Creating and Validating Events
+## Repository Structure
 
-⚠️ **IMPORTANT**: Always use the `timeline_event_manager.py` tool instead of manually creating/editing YAML files. This prevents common errors and ensures consistency.
+This repository is organized into two main components:
 
-#### Why Use the Event Manager?
-- **Automatic ID generation** - IDs always match filenames
-- **Date validation** - Ensures YYYY-MM-DD format
-- **Status validation** - Only allows valid status values
-- **Future date checks** - Prevents marking future events as "confirmed"
-- **Source validation** - Ensures all sources have required fields
-- **Duplicate detection** - Prevents creating duplicate events
+### 📊 [timeline/](timeline/) - Timeline Data & Viewer
+- **1,580+ verified events** from 1970-2025
+- React-based interactive viewer
+- Dual-format support (JSON + Markdown)
+- Event validation schemas
+- Static API generation
 
-#### Interactive Creation (Recommended for humans)
-```bash
-python create_event.py
-```
-This will guide you through creating a properly formatted event with validation.
+**Quick start**: `cd timeline/viewer && npm install && npm start`
 
-#### Programmatic Creation (For scripts/agents)
-```python
-from timeline_event_manager import TimelineEventManager
+### 🔬 [research-server/](research-server/) - Research Infrastructure
+- REST API for event management (Flask)
+- **CLI wrapper** for simplified usage
+- MCP server for AI agent integration
+- **Validation runs system** for parallel QA processing
+- Quality assurance & research priority tracking
 
-manager = TimelineEventManager()
+**Quick start**: `./research server-start`
 
-# Create an event with validation
-event = manager.create_event(
-    date="2025-01-20",
-    title="Event Title",
-    summary="Detailed description of what happened",
-    importance=7,
-    actors=["Person A", "Organization B"],
-    tags=["corruption", "foreign-influence"],
-    sources=[
-        manager.create_source(
-            title="Article Title",
-            url="https://example.com/article",
-            outlet="News Outlet",
-            source_date="2025-01-20"
-        )
-    ]
-)
+## Key Features
 
-# Save the event
-filepath = manager.save_event(event)
-```
+### Timeline System
+- **1,580+ Events**: Verified events spanning 1970-2025
+- **Dual Format**: JSON and Markdown support
+- **Rich Metadata**: Sources, actors, tags, importance scores
+- **Interactive Viewer**: React-based web interface
 
-#### Command-Line Creation (For automation)
-```bash
-# Via JSON
-python create_event_agent.py --json '{
-  "date": "2025-01-20",
-  "title": "Event Title",
-  "summary": "Description",
-  "importance": 7,
-  "actors": ["Actor1"],
-  "tags": ["tag1"],
-  "sources": [{"title": "Source", "url": "https://...", "outlet": "Outlet"}]
-}'
+### Research Infrastructure
+- **Validation Runs**: Parallel QA processing with unique event distribution
+- **CLI Wrapper**: Simple `./research <command>` interface
+- **Event Search**: Full-text search across all events
+- **Quality Assurance**: Automated source quality checking
+- **MCP Integration**: AI agent support via Model Context Protocol
 
-# Batch import from CSV
-python import_events.py events.csv
-```
+## Documentation
 
-### Event Validation
+### Getting Started
+- **[INSTALLATION.md](INSTALLATION.md)** - Complete setup guide
+- **[CLAUDE.md](CLAUDE.md)** - CLI command reference for AI agents
+- **[RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md)** - Maintenance & cleanup guide
 
-Run validation before committing any changes:
+### Component Documentation
+- [Timeline Documentation](timeline/docs/)
+- [Research Server API](research-server/server/API_DOCUMENTATION.md)
+- [Architecture Overview](research-server/server/ARCHITECTURE.md)
+
+## Command-Line Interface
+
+The research server includes a convenient CLI wrapper:
 
 ```bash
-# Quick validation check
-python3 -m pytest tests/test_timeline_validation.py
+# Server management
+./research server-start
+./research server-status
+./research server-stop
 
-# Or use the validation script directly
-python3 tools/validation/validate_timeline_dates.py
+# Event operations
+./research search-events --query "Trump crypto"
+./research get-stats
+./research list-tags
 
-# Fix ID/filename mismatches automatically
-python3 timeline_event_manager.py --fix-ids
+# Validation runs (QA system)
+./research validation-runs-create --run-type source_quality --target-count 20
+./research validation-runs-next --run-id 1 --validator-id "agent-1"
+./research validation-runs-complete --run-id 1 --run-event-id 1 --status validated
+
+# Help
+./research help
 ```
 
-The repository includes pre-commit hooks that automatically validate:
-- ID/filename matching
-- Required fields presence
-- Date format (YYYY-MM-DD)
-- Status values
-- Future events cannot be "confirmed"
-- ESLint checks (no unused variables, proper imports)
-- React build with CI settings (treats warnings as errors)
+See [CLAUDE.md](CLAUDE.md) for complete command reference.
 
-### YAML Event Management
-Use `yaml_tools.py` for searching and bulk operations on existing events:
+## License
 
-```python
-from yaml_tools import YamlEventManager
-manager = YamlEventManager()
+- Timeline Data: CC0 1.0 Universal (Public Domain)
+- Code: MIT License
 
-# Search events
-results = manager.yaml_search(text="ICE", importance_min=8)
+## About
 
-# Add sources to existing events
-manager.manage_sources("2025-01-20--event.yaml", action="add", 
-                      sources=[{"title": "...", "outlet": "...", "url": "..."}])
+This timeline serves as empirical documentation for patterns of institutional capture spanning 50+ years. It is designed to support both academic research and public awareness.
 
-# Bulk edit multiple events
-manager.yaml_bulk_edit(search_criteria={"tags": ["ICE"]}, 
-                      updates={"importance": 9})
-```
-
-These tools provide:
-- Automatic ID generation and validation
-- Schema enforcement
-- Source deduplication
-- Date format validation
-- Importance range checking
-
-## 📁 Repository Structure
-
-```
-├── timeline_data/          # Timeline events in YAML format
-│   └── events/            # Individual event files
-├── viewer/                # React-based timeline viewer
-├── scripts/               # Data processing and validation
-├── docs/                  # Documentation
-│   ├── user/             # User guides
-│   ├── development/      # Developer documentation
-│   └── maintenance/      # Maintenance guides
-├── tests/                # Test suites
-└── .github/workflows/    # CI/CD pipelines
-```
-
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Ways to Contribute
-- **Validate Events** - Help verify sources and fact-check
-- **Submit New Events** - Add documented events with sources
-- **Improve Code** - Enhance the viewer or tools
-- **Report Issues** - Flag errors or broken links
-
-### Validation Process
-1. Run validation: `cd timeline_data && python validation_app_enhanced.py`
-2. Pick any unvalidated event
-3. Verify sources confirm the claims
-4. Mark as validated if accurate
-
-## 📖 Documentation
-
-- [FAQ](docs/user/FAQ.md) - Common questions
-- [Development Setup](docs/development/DEVELOPMENT_SETUP.md) - Set up your dev environment
-- [Testing Guide](docs/development/TESTING.md) - How to run tests
-- [Deployment](docs/user/DEPLOYMENT.md) - Deploy your own instance
-
-## 🧪 Testing
-
-Run all tests before committing:
-```bash
-./tests/scripts/test-before-commit.sh
-```
-
-## 📊 Data Format
-
-Events are stored as YAML files with this structure:
-```yaml
-id: unique-event-id
-date: YYYY-MM-DD
-title: Event Title
-summary: Brief description
-importance: 1-10
-tags: [tag1, tag2]
-sources:
-  - outlet: Source Name
-    url: https://...
-    date: YYYY-MM-DD
-```
-
-**Never create event YAML files manually!** Use the event creation tools:
-- `python create_event.py` - Interactive creation with validation
-- `python timeline_event_manager.py` - Python API for scripts
-- `python create_event_agent.py` - CLI for automation
-
-## 📜 License
-
-MIT License - See [LICENSE](LICENSE) file
-
-## 🙏 Acknowledgments
-
-This project relies on the work of journalists, researchers, and citizens who document threats to democracy.
-
-## 📮 Contact
-
-- **Issues**: [GitHub Issues](https://github.com/markramm/KleptocracyTimeline/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/markramm/KleptocracyTimeline/discussions)
-
----
-
-*"Those who would destroy democracy depend on our ignorance. This timeline is our defense."*
+For questions or contributions, see [CONTRIBUTING.md](CONTRIBUTING.md).

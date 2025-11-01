@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-4A2F4FD3-voter-suppression-crosscheck-system",
+  "title": "Interstate Crosscheck Voter Suppression System",
+  "description": "Research Kris Kobach's Interstate Crosscheck system used to purge minority voters from registration rolls across multiple states.",
+  "expected_events": 4,
+  "importance": 8,
+  "tags": [
+    "voter-suppression",
+    "electoral-manipulation",
+    "minority-disenfranchisement",
+    "voter-suppression"
+  ],
+  "research_status": "not_started",
+  "time_period": "2005-2017"
+}

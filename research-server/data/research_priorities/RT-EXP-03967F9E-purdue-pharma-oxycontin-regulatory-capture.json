@@ -1,0 +1,15 @@
+{
+  "id": "RT-EXP-03967F9E-purdue-pharma-oxycontin-regulatory-capture",
+  "title": "Purdue Pharma OxyContin Regulatory Capture",
+  "description": "Document how Purdue Pharma captured FDA approval processes and medical associations to promote addictive OxyContin.",
+  "expected_events": 4,
+  "importance": 9,
+  "tags": [
+    "opioid-crisis",
+    "regulatory-capture",
+    "pharmaceutical-fraud",
+    "pharmaceutical-corruption"
+  ],
+  "research_status": "not_started",
+  "time_period": "1995-2019"
+}

@@ -1,0 +1,56 @@
+---
+id: 2025-05-09--sec-settles-case-with-crypto-firm-with-ties-to-the-white-hou
+date: '2025-05-09'
+title: SEC Reaches Controversial Settlement with Ripple Labs
+description: The SEC reached a settlement with crypto firm Ripple Labs, which has
+  ties to the White House, that would allow it to recoup $75 million of the $125 million
+  fine previously imposed on it. The settlement drew sharp criticism from Commissioner
+  Caroline Crenshaw, who argued it 'does a tremendous disservice to the investing
+  public'.
+status: confirmed
+importance: 8
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- Bradley Garlinghouse
+- Christian Larsen
+- Caroline Crenshaw
+tags:
+- crypto
+- regulatory-capture
+- government-contracts
+- sec
+- enforcement-action
+capture_type: regulatory_capture
+sources:
+- outlet: Reuters
+  title: SEC Settles Ripple Labs Case, Returning Portion of $125M Fine
+  url: https://www.reuters.com/technology/sec-settles-ripple-labs-case-returning-portion-125m-fine-2025-05-09
+  date: '2025-05-09'
+- outlet: Bloomberg
+  title: Ripple Labs Settlement Highlights SEC's Regulatory Challenges
+  url: https://www.bloomberg.com/news/articles/2025-05-09/ripple-labs-settlement-highlights-sec-regulatory-challenges
+  date: '2025-05-09'
+- outlet: SEC Official Statement
+  title: Statement by SEC Commissioner Caroline A. Crenshaw on Ripple Settlement
+  url: https://mondovisione.com/media-and-resources/news/statement-on-the-agencys-settlement-with-ripple-labs-inc-sec-commissioner-ca-202559/
+  date: '2025-05-08'
+- title: SEC settles case with crypto firm with ties to the White House
+  url: https://abcnews.go.com/Politics/sec-settles-case-crypto-firm-ties-white-house/story?id=121650659
+  outlet: ABC News
+  date: '2025-05-09'
+connections: []
+patterns:
+- kleptocratic-capture
+- regulatory-settlement
+notes: Settlement reveals complex intersections between regulatory bodies, crypto
+  firms, and political connections. The reduced penalty raises questions about regulatory
+  independence.
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Executive Power Expansion
+---
+
+The SEC settled a long-running enforcement action against Ripple Labs, agreeing to return $75 million of a $125 million fine and keeping $50 million, amid significant criticism from SEC Commissioner Caroline Crenshaw about undermining investor protections.

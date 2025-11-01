@@ -1,0 +1,39 @@
+---
+id: 2023-06-23--fake-electors-immunity-deals-jack-smith
+date: '2023-06-23'
+title: Jack Smith grants immunity to fake electors for testimony against Trump
+importance: 8
+tags:
+- fake-electors
+- jack-smith
+- immunity-deals
+- january-6
+- election-fraud
+- witness-testimony
+actors:
+- Jack Smith
+- Michael McDonald
+- Jim DeGraffenreid
+- Donald Trump
+sources:
+- title: Special counsel trades immunity for fake elector testimony as Jan 6 probe
+    heats up
+  url: https://www.cnn.com/2023/06/23/politics/special-counsel-fake-electors-immunity-testimony-jan-6/index.html
+  outlet: CNN
+  date: '2023-06-23'
+- title: Jack Smith's Report on Donald Trump Six Bombshells
+  url: https://www.newsweek.com/donald-trump-jack-smith-report-mike-pence-white-house-2020-election-indictment-2014487
+  outlet: Newsweek
+  date: '2025-01-14'
+- title: Special Counsel Filing Reveals Trump's Alleged Attempts to Overturn Election
+  url: https://abcnews.go.com/US/bombshell-special-counsel-filing-includes-new-allegations-trumps/story?id=114409494
+  outlet: ABC News
+  date: '2024-02-15'
+status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Intelligence Penetration
+- Electoral Manipulation
+---
+
+Special Counsel Jack Smith compelled at least two Republican fake electors to testify by granting them limited immunity, including Nevada GOP officials Michael McDonald and Jim DeGraffenreid. Multiple fake electors admitted they would not have participated "had they known the true extent of co-conspirators' plans," with one stating if they knew the plan was to pressure Pence on January 6, "I wouldn't have signed."

@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-SCHEDULE-F-IMPLEMENTATION",
+  "title": "TTT Batch 2: Schedule F Federal Worker Reclassification and Mass Firings",
+  "description": "Systematic analysis of Schedule F implementation for mass federal worker reclassification and loyalist hiring based on Trump Tyranny Tracker documentation. Found 22 instances across articles 46-90. Research federal worker targeting mechanisms, reclassification processes, loyalty testing programs, and mass firing campaigns. Focus on specific agencies targeted, timeline of implementation, and resistance mechanisms.",
+  "expected_events": 12,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "schedule-f",
+    "federal-workforce",
+    "systematic-corruption"
+  ],
+  "timeline_focus": "2017-2025",
+  "actors": [
+    "Trump Administration",
+    "OPM",
+    "Federal Agencies",
+    "Schedule F Coordinators"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348296",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

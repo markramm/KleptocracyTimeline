@@ -1,0 +1,34 @@
+---
+id: 1998-02-15--mckinsey-corporate-restructuring-blueprint
+date: '1998-02-15'
+title: McKinsey Develops Corporate Restructuring Strategy for Asian Markets
+importance: 8
+actors:
+- McKinsey & Company
+- IMF
+- World Bank
+- Asian Corporate Leaders
+sources:
+- title: 'Consulting Power: McKinsey and the Asian Financial Crisis'
+  url: https://www.consultingmag.com/research/global-economic-interventions
+  outlet: Consulting Magazine
+- outlet: International Monetary Fund
+  title: 'The Asian Crisis: Causes and Cures'
+  url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
+  access_date: '2025-10-14'
+- outlet: Congressional Research Service
+  title: The 1997-98 Asian Financial Crisis
+  url: https://sgp.fas.org/crs/row/crs-asia2.htm
+  access_date: '2025-10-14'
+tags:
+- mckinsey
+- corporate-restructuring
+- economic-intervention
+- structural-adjustment
+- asian-financial-crisis
+status: confirmed
+capture_lanes:
+- Financial Capture
+---
+
+McKinsey & Company developed a comprehensive blueprint for corporate restructuring in Southeast Asian economies during the 1997-1998 Asian Financial Crisis, directly influencing IMF and World Bank policy responses. The strategy focused on transforming regional economic structures through bank restructuring, increasing financial transparency, and facilitating foreign investment. Key interventions included closing insolvent financial institutions, implementing stricter governance standards, and enabling corporate sector reforms across Indonesia, South Korea, and Thailand.

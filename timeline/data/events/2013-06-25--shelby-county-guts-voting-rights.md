@@ -1,0 +1,52 @@
+---
+id: 2013-06-25--shelby-county-guts-voting-rights
+date: '2013-06-25'
+importance: 10
+title: Shelby County Decision Guts Voting Rights Act Preclearance
+location: Washington D.C.
+actors:
+- Clarence Thomas
+- Samuel Alito
+- John Roberts
+- Shelby County Alabama
+tags:
+- voting-rights
+- judicial-capture
+- democracy-erosion
+- racial-justice
+- electoral-manipulation
+- landmark-decision
+capture_lanes:
+- Constitutional & Democratic Breakdown
+- Election System Attack
+- Judicial Capture & Corruption
+sources:
+- title: Shelby County v. Holder
+  url: https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf
+  outlet: Supreme Court
+  date: '2013-06-25'
+  archive_url: https://web.archive.org/web/20130625000000/https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf
+- title: Effects of Shelby County v. Holder on the Voting Rights Act
+  url: https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder-voting-rights-act
+  outlet: Brennan Center for Justice
+  date: '2023-06-25'
+- title: Impact of Shelby County v. Holder - Voter Suppression and Discriminatory
+    Redistricting
+  url: https://www.naacpldf.org/shelby-county-v-holder-impact/
+  outlet: NAACP Legal Defense Fund
+  date: '2023-06-25'
+- title: Reflecting On the 10th Anniversary of Shelby County v. Holder
+  url: https://www.justice.gov/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder
+  outlet: U.S. Department of Justice
+  date: '2023-06-25'
+- title: Shelby County v. Holder
+  url: https://www.oyez.org/cases/2012/12-96
+  outlet: Oyez
+  date: '2013-06-25'
+notes: Thomas went further in concurrence wanting to strike entire Section 5. Immediate
+  wave of voter suppression laws followed. Benefits GOP megadonors like Crow, Koch,
+  Singer who fund justices.
+status: confirmed
+---
+
+Supreme Court 5-4 decision with Thomas and Alito strikes down VRA Section 4(b), enabling voter suppression that benefits Republican donors who fund justices' luxury lifestyles

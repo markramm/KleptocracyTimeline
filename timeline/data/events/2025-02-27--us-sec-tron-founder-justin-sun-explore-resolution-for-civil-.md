@@ -1,0 +1,48 @@
+---
+actors:
+- Donald Trump
+- Trump Administration
+- Justin Sun
+- SEC
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Cryptocurrency Regulation
+capture_type: regulatory_capture
+connections: []
+date: '2025-02-27'
+description: The SEC moved to drop a civil fraud case against Justin Sun, a key adviser
+  to Trump's World Liberty Financial, who spent at least $75 million on its coin
+id: 2025-02-27--us-sec-tron-founder-justin-sun-explore-resolution-for-civil-
+importance: 8
+location: Washington, D.C.
+notes: Comprehensive tracking of regulatory interactions in cryptocurrency space
+patterns:
+- kleptocratic-capture
+- regulatory-retreat
+sources:
+- date: '2025-02-27'
+  outlet: Reuters
+  title: US SEC, Tron founder Justin Sun explore resolution for civil fraud case
+  url: https://www.reuters.com/legal/us-sec-tron-founder-justin-sun-explore-resolution-civil-fraud-case-2025-02-26/
+- date: '2025-02-28'
+  outlet: CNN Business
+  title: A crypto mogul who invested millions into Trump coins is getting a reprieve
+    on civil fraud charges
+  url: https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html
+- date: '2025-02-26'
+  outlet: CNBC
+  title: SEC, Tron founder Justin Sun explore resolution of civil fraud case
+  url: https://www.cnbc.com/2025/02/26/sec-tron-founder-justin-sun-explore-resolution-of-civil-fraud-case.html
+status: confirmed
+tags:
+- crypto
+- corruption
+- regulatory-capture
+- government-contracts
+- sec
+- trump-administration
+title: US SEC, Tron founder Justin Sun explore resolution of civil fraud case
+---
+
+The SEC moved to pause its civil fraud case against cryptocurrency entrepreneur Justin Sun, a key adviser to Trump's World Liberty Financial, signaling a potential negotiated resolution. Sun, who invested at least $75 million in Trump-linked crypto assets, appears to have secured a temporary reprieve from regulatory action.

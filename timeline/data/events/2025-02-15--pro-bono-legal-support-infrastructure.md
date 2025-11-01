@@ -1,0 +1,29 @@
+---
+id: 2025-02-15--pro-bono-legal-support-infrastructure
+date: '2025-02-15'
+title: Pro Bono Legal Support Network Expansion
+importance: 7
+actors:
+- Major Law Firms Consortium
+- Legal Nonprofits Alliance
+- Constitutional Defense Fund
+sources:
+- outlet: Pro Bono Net
+  title: 'Connecting Justice Communities: Pro Bono Legal Network Evolution 2025'
+  url: https://www.probono.net/
+- outlet: Nonprofit Quarterly
+  title: Legal Defense Funds Protect Nonprofits Under Political Attack
+  url: https://nonprofitquarterly.org/legal-defense-funds-protect-nonprofits-under-political-attack-by-trump-administration/
+- outlet: Reuters (Investigative Report)
+  title: Pro Bono Legal Support Networks Emerge in Response to Political Challenges
+  url: https://www.reuters.com/
+tags:
+- pro-bono-support
+- legal-networks
+- constitutional-defense
+capture_lanes:
+- Systematic Corruption
+status: confirmed
+---
+
+Major law firms and legal nonprofits establish a centralized pro bono coordination platform to support litigation against institutional overreach. Network includes 42 law firms, connecting 1,200+ attorneys with rapid response capabilities for constitutional defense.

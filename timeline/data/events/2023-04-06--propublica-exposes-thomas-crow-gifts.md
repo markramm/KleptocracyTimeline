@@ -1,0 +1,46 @@
+---
+id: 2023-04-06--propublica-exposes-thomas-crow-gifts
+date: '2023-04-06'
+importance: 10
+title: ProPublica Exposes Two Decades of Undisclosed Thomas-Crow Gifts
+location: United States
+actors:
+- ProPublica
+- Clarence Thomas
+- Harlan Crow
+- Supreme Court
+tags:
+- judicial-capture
+- supreme-court
+- investigative-journalism
+- ethics-scandal
+- undisclosed-gifts
+- propublica
+capture_lanes:
+- Judicial Capture & Corruption
+sources:
+- title: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor
+  url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+  outlet: ProPublica
+  date: '2023-04-06'
+  archive_url: https://web.archive.org/web/20230406000000/https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
+- title: Clarence Thomas acknowledges luxury trips with GOP megadonor were not reported
+  url: https://www.cnn.com/2023/04/07/politics/clarence-thomas-crow-trips/index.html
+  outlet: CNN
+  date: '2023-04-07'
+- title: Justice Clarence Thomas discloses trips paid for by GOP megadonor Harlan
+    Crow
+  url: https://www.washingtonpost.com/politics/2023/04/06/clarence-thomas-harlan-crow-propublica/
+  outlet: Washington Post
+  date: '2023-04-06'
+- title: Clarence Thomas acknowledges 'family trips' with GOP donor amid ethics questions
+  url: https://www.nbcnews.com/politics/supreme-court/clarence-thomas-acknowledges-family-trips-gop-donor-ethics-questions-rcna78723
+  outlet: NBC News
+  date: '2023-04-07'
+notes: Investigation revealed yacht trips, private jet travel, luxury resort stays
+  worth millions. Thomas claimed personal hospitality exemption. Led to calls for
+  resignation and binding ethics code.
+status: confirmed
+---
+
+ProPublica publishes investigation revealing Clarence Thomas accepted luxury trips and gifts from Harlan Crow for over 20 years without disclosure, triggering Supreme Court ethics crisis

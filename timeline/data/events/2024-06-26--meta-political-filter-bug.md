@@ -1,0 +1,49 @@
+---
+id: 2024-06-26--meta-political-filter-bug
+title: Meta Fixes Bug in Political Content Filter on Instagram and Threads
+date: '2024-06-26'
+importance: 5
+actors:
+- Meta
+- Instagram
+- Threads
+tags:
+- bug
+- platform-policy
+- media-control
+capture_lanes:
+- Information & Media Control
+citations:
+- https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads
+- https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
+- https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings
+- https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969
+notes: 'Timing notable: Just before first 2024 presidential debate'
+status: confirmed
+sources:
+- title: Just in time for the debates, Meta fixes bug impacting users' political content
+    settings on Instagram and Threads
+  url: https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads
+  outlet: TechCrunch
+  date: '2024-06-27'
+  archive_url: https://web.archive.org/web/20240628000000*/https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads/
+- title: A Meta 'error' broke the political content filter on Threads and Instagram
+  url: https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
+  outlet: Engadget
+  date: '2024-06-26'
+  archive_url: https://web.archive.org/web/20240627000000*/https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
+- title: Instagram and Threads are now filtering political content out of your feed.
+    Change this setting to see more of it
+  url: https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings
+  outlet: Fast Company
+  date: '2024-06-26'
+  archive_url: https://web.archive.org/web/20240627000000*/https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings
+- title: Some creators say they're frustrated after Instagram starts limiting political
+    content recommendations
+  url: https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969
+  outlet: NBC News
+  date: '2024-06-26'
+  archive_url: https://web.archive.org/web/20240627000000*/https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969
+---
+
+Meta experienced a technical issue on Instagram and Threads that appeared to reset users' political content filter settings, causing confusion. The company quickly acknowledged and fixed the bug, which occurred just before the first 2024 presidential debate.

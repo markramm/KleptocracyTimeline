@@ -1,0 +1,16 @@
+{
+  "id": "RT-B791A718",
+  "title": "Fox News Partisan Media Model",
+  "description": "Analyze Fox News 1996 launch and establishment of partisan cable news model",
+  "priority": "critical",
+  "tags": [
+    "fox_news",
+    "roger_ailes",
+    "partisan_media"
+  ],
+  "capture_lane": "media",
+  "decade": "1990s",
+  "created": "2025-09-09T21:17:43.463923",
+  "status": "pending",
+  "category": "capture_research"
+}

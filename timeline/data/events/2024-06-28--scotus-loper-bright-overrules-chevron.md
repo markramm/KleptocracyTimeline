@@ -1,0 +1,49 @@
+---
+actors:
+- Supreme Court of the United States
+- Chief Justice John Roberts
+- National Marine Fisheries Service
+capture_lanes:
+- Judicial Capture & Corruption
+- Administrative Law Reform
+citations:
+- https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
+- https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
+date: '2024-06-28'
+id: 2024-06-28--scotus-loper-bright-overrules-chevron
+importance: 8
+location: Washington, DC
+notes: Landmark decision fundamentally reshaping administrative law by eliminating
+  Chevron deference
+sources:
+- archive_url: https://web.archive.org/web/20240629000000*/https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
+  date: '2024-06-28'
+  outlet: SCOTUSblog
+  title: Loper Bright Enterprises v. Raimondo
+  url: https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
+- archive_url: https://web.archive.org/web/20240706000000*/https://www.clearygottlieb.com/news-and-insights/publication-listing/after-chevron-what-the-supreme-courts-loper-bright-decision-changed-and-what-it-didnt
+  date: '2024-07-05'
+  outlet: Cleary Gottlieb
+  title: 'After Chevron: What the Supreme Court''s Loper Bright Decision Changed'
+  url: https://www.clearygottlieb.com/news-and-insights/publication-listing/after-chevron-what-the-supreme-courts-loper-bright-decision-changed-and-what-it-didnt
+- archive_url: https://web.archive.org/web/20240701000000*/https://www.whitecase.com/insight-alert/us-supreme-court-strikes-down-chevron-doctrine-what-you-need-know
+  date: '2024-06-28'
+  outlet: White & Case LLP
+  title: U.S. Supreme Court Strikes Down Chevron Doctrine—What You Need to Know
+  url: https://www.whitecase.com/insight-alert/us-supreme-court-strikes-down-chevron-doctrine-what-you-need-know
+- archive_url: https://web.archive.org/web/20240801000000*/https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-august/end-chevron-deference-what-does-it-mean-what-comes-next/
+  date: '2024-08-01'
+  outlet: American Bar Association
+  title: 'The End of Chevron Deference: What Does It Mean, and What Comes Next?'
+  url: https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-august/end-chevron-deference-what-does-it-mean-what-comes-next/
+status: confirmed
+tags:
+- administrative-law
+- chevron
+- courts
+- supreme-court
+- judicial-reform
+title: SCOTUS overrules Chevron deference (Loper Bright v. Raimondo)
+---
+
+In a 6-3 decision, the Supreme Court overturned Chevron deference, eliminating the long-standing doctrine that required courts to defer to federal agencies' reasonable interpretations of ambiguous statutes. This landmark ruling fundamentally reshapes administrative law, requiring courts to exercise independent judgment in interpreting federal laws.

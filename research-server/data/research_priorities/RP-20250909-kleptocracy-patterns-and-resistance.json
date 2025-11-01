@@ -1,0 +1,19 @@
+{
+  "id": "RP-20250909-kleptocracy-patterns-and-resistance",
+  "title": "Kleptocracy Patterns and Resistance",
+  "description": "Document patterns of kleptocratic capture across different nations, common tactics, wealth extraction mechanisms, and successful resistance strategies.",
+  "priority": 8,
+  "status": "pending",
+  "category": "pdf-analysis",
+  "tags": [
+    "high-priority",
+    "resistance",
+    "kleptocracy",
+    "corruption",
+    "civil-society"
+  ],
+  "estimated_events": 7,
+  "source_document": "documents/incoming/The Kleptocracy Trap_ How Nations Steal and How Citizens Fight Back.pdf",
+  "created_date": "2025-09-09",
+  "requires_pdf_analysis": true
+}

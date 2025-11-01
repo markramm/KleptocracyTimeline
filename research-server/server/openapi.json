@@ -1,0 +1,688 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Research Monitor v2 API",
+    "description": "Comprehensive API for timeline events, research priorities, and analytical data for the Kleptocracy Timeline project",
+    "version": "2.0.0",
+    "contact": {
+      "name": "Research Monitor API",
+      "url": "https://github.com/kleptocracy-timeline"
+    }
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5558/api",
+      "description": "Development server"
+    }
+  ],
+  "security": [
+    {
+      "ApiKeyAuth": []
+    },
+    {}
+  ],
+  "paths": {
+    "/events/search": {
+      "get": {
+        "summary": "Search timeline events",
+        "description": "Search timeline events with full-text search and filtering",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "description": "Search query for full-text search",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Number of results to return",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "maximum": 200
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "description": "Number of results to skip",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            }
+          },
+          {
+            "name": "start_date",
+            "in": "query",
+            "description": "Filter events after this date (YYYY-MM-DD)",
+            "schema": {
+              "type": "string",
+              "format": "date"
+            }
+          },
+          {
+            "name": "end_date",
+            "in": "query",
+            "description": "Filter events before this date (YYYY-MM-DD)",
+            "schema": {
+              "type": "string",
+              "format": "date"
+            }
+          },
+          {
+            "name": "min_importance",
+            "in": "query",
+            "description": "Filter events with importance >= this value",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10
+            }
+          },
+          {
+            "name": "max_importance",
+            "in": "query",
+            "description": "Filter events with importance <= this value",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Search results",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EventSearchResponse"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["Events"]
+      }
+    },
+    "/events/{event_id}": {
+      "get": {
+        "summary": "Get event by ID",
+        "description": "Retrieve a specific event by its ID",
+        "parameters": [
+          {
+            "name": "event_id",
+            "in": "path",
+            "required": true,
+            "description": "Event ID",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Event details",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TimelineEvent"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Event not found"
+          }
+        },
+        "tags": ["Events"]
+      }
+    },
+    "/events/staged": {
+      "post": {
+        "summary": "Create staged event",
+        "description": "Create a new event that will be written to filesystem on next commit",
+        "security": [
+          {
+            "ApiKeyAuth": []
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateEventRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Event created successfully"
+          },
+          "400": {
+            "description": "Invalid request data"
+          },
+          "401": {
+            "description": "Authentication required"
+          }
+        },
+        "tags": ["Events"]
+      }
+    },
+    "/timeline/events": {
+      "get": {
+        "summary": "Get timeline events with pagination",
+        "description": "Optimized endpoint for timeline visualization with pagination and filtering",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "description": "Page number",
+            "schema": {
+              "type": "integer",
+              "default": 1
+            }
+          },
+          {
+            "name": "per_page",
+            "in": "query",
+            "description": "Events per page",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "maximum": 200
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Timeline events with pagination",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TimelineEventsResponse"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["Timeline"]
+      }
+    },
+    "/timeline/actors": {
+      "get": {
+        "summary": "Get all actors",
+        "description": "Returns all unique actors in the timeline with event counts",
+        "parameters": [
+          {
+            "name": "min_events",
+            "in": "query",
+            "description": "Filter actors with at least this many events",
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of actors with event counts",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ActorsResponse"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["Timeline"]
+      }
+    },
+    "/viewer/actor-network": {
+      "get": {
+        "summary": "Get actor network data",
+        "description": "Network graph data showing relationships between actors",
+        "parameters": [
+          {
+            "name": "min_connections",
+            "in": "query",
+            "description": "Minimum shared events for connection",
+            "schema": {
+              "type": "integer",
+              "default": 2
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Actor network graph data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ActorNetworkResponse"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["Visualization"]
+      }
+    },
+    "/viewer/stats/overview": {
+      "get": {
+        "summary": "Get overview statistics",
+        "description": "High-level timeline statistics",
+        "responses": {
+          "200": {
+            "description": "Overview statistics",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/OverviewStatsResponse"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["Statistics"]
+      }
+    },
+    "/priorities/next": {
+      "get": {
+        "summary": "Get next research priority",
+        "description": "Get the next research priority to work on",
+        "responses": {
+          "200": {
+            "description": "Next research priority",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ResearchPriority"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["Research"]
+      }
+    },
+    "/server/health": {
+      "get": {
+        "summary": "Health check",
+        "description": "Check API health and database connectivity",
+        "responses": {
+          "200": {
+            "description": "Health status",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HealthResponse"
+                }
+              }
+            }
+          }
+        },
+        "tags": ["System"]
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "ApiKeyAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-API-Key"
+      }
+    },
+    "schemas": {
+      "TimelineEvent": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Unique event identifier"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Event date (YYYY-MM-DD)"
+          },
+          "title": {
+            "type": "string",
+            "description": "Event title"
+          },
+          "summary": {
+            "type": "string",
+            "description": "Detailed event summary"
+          },
+          "importance": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10,
+            "description": "Importance score"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Event tags"
+          },
+          "actors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "People and entities involved"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Source"
+            },
+            "description": "Source references"
+          }
+        },
+        "required": ["id", "date", "title", "summary", "importance"]
+      },
+      "Source": {
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Source URL"
+          },
+          "title": {
+            "type": "string",
+            "description": "Source title"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Publication date"
+          }
+        }
+      },
+      "CreateEventRequest": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Event ID in format YYYY-MM-DD--slug"
+          },
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Event date"
+          },
+          "title": {
+            "type": "string",
+            "description": "Event title"
+          },
+          "summary": {
+            "type": "string",
+            "description": "Event summary"
+          },
+          "importance": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10,
+            "description": "Importance score"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "actors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Source"
+            }
+          }
+        },
+        "required": ["id", "date", "title", "summary", "importance"]
+      },
+      "EventSearchResponse": {
+        "type": "object",
+        "properties": {
+          "success": {
+            "type": "boolean"
+          },
+          "events": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TimelineEvent"
+            }
+          },
+          "count": {
+            "type": "integer",
+            "description": "Number of results returned"
+          },
+          "total": {
+            "type": "integer",
+            "description": "Total number of matching events"
+          },
+          "query": {
+            "type": "string",
+            "description": "Original search query"
+          }
+        }
+      },
+      "TimelineEventsResponse": {
+        "type": "object",
+        "properties": {
+          "events": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TimelineEvent"
+            }
+          },
+          "pagination": {
+            "$ref": "#/components/schemas/PaginationInfo"
+          }
+        }
+      },
+      "PaginationInfo": {
+        "type": "object",
+        "properties": {
+          "page": {
+            "type": "integer"
+          },
+          "per_page": {
+            "type": "integer"
+          },
+          "total": {
+            "type": "integer"
+          },
+          "pages": {
+            "type": "integer"
+          },
+          "has_next": {
+            "type": "boolean"
+          },
+          "has_prev": {
+            "type": "boolean"
+          }
+        }
+      },
+      "ActorsResponse": {
+        "type": "object",
+        "properties": {
+          "actors": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "event_count": {
+                  "type": "integer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ActorNetworkResponse": {
+        "type": "object",
+        "properties": {
+          "nodes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "label": {
+                  "type": "string"
+                },
+                "size": {
+                  "type": "integer"
+                },
+                "group": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "edges": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "source": {
+                  "type": "string"
+                },
+                "target": {
+                  "type": "string"
+                },
+                "weight": {
+                  "type": "integer"
+                }
+              }
+            }
+          }
+        }
+      },
+      "OverviewStatsResponse": {
+        "type": "object",
+        "properties": {
+          "total_events": {
+            "type": "integer"
+          },
+          "total_actors": {
+            "type": "integer"
+          },
+          "total_tags": {
+            "type": "integer"
+          },
+          "date_range": {
+            "type": "object",
+            "properties": {
+              "earliest": {
+                "type": "string",
+                "format": "date"
+              },
+              "latest": {
+                "type": "string",
+                "format": "date"
+              }
+            }
+          },
+          "avg_importance": {
+            "type": "number"
+          }
+        }
+      },
+      "ResearchPriority": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "priority": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10
+          },
+          "status": {
+            "type": "string",
+            "enum": ["pending", "in_progress", "completed", "blocked"]
+          },
+          "category": {
+            "type": "string"
+          }
+        }
+      },
+      "HealthResponse": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "database": {
+            "type": "string"
+          },
+          "session_id": {
+            "type": "string"
+          },
+          "events_since_commit": {
+            "type": "integer"
+          },
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Events",
+      "description": "Timeline event operations"
+    },
+    {
+      "name": "Timeline",
+      "description": "Timeline data and metadata"
+    },
+    {
+      "name": "Visualization",
+      "description": "Data optimized for visualization"
+    },
+    {
+      "name": "Statistics",
+      "description": "Statistical analysis endpoints"
+    },
+    {
+      "name": "Research",
+      "description": "Research priority management"
+    },
+    {
+      "name": "System",
+      "description": "System health and management"
+    }
+  ]
+}

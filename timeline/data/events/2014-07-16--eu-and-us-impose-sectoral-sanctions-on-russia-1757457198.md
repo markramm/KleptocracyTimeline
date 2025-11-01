@@ -1,0 +1,40 @@
+---
+id: 2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757457198
+date: '2014-07-16'
+title: US and EU Impose Coordinated Sectoral Sanctions on Russia Following MH17 Downing
+importance: 9
+location: Washington, D.C. and Brussels, Belgium
+actors:
+- US Treasury Department
+- European Union Council
+- Sberbank
+- VEB
+- Gazprombank
+- Rosneft
+sources:
+- title: EU Sanctions Timeline Against Russia
+  outlet: European Council
+  date: '2014-07-16'
+  url: https://www.consilium.europa.eu/en/policies/sanctions-against-russia/timeline-sanctions-against-russia/
+- title: US Sectoral Sanctions Against Russia
+  outlet: US Treasury Department
+  date: '2014-07-16'
+  url: https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx
+- title: Sanctions Adopted Following Russia's Military Aggression
+  outlet: European Commission
+  date: '2014-07-16'
+  url: https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/sanctions-adopted-following-russias-military-aggression-against-ukraine_en
+capture_lanes:
+- Financial Sanctions
+- Diplomatic Pressure
+- Geopolitical Conflict
+tags:
+- sanctions
+- mh17
+- financial-restrictions
+- energy-sector
+- russia-ukraine-conflict
+status: confirmed
+---
+
+In response to the downing of Malaysia Airlines Flight MH17 and Russia's destabilization of Ukraine, the United States and European Union simultaneously imposed comprehensive sectoral sanctions targeting Russian financial, energy, and defense sectors. The US Treasury issued the Sectoral Sanctions Identifications List, restricting transactions with major Russian banks and energy companies, while the EU imposed capital market restrictions and technology export controls. These sanctions marked a significant escalation in Western diplomatic and economic pressure on Russia.

@@ -1,0 +1,69 @@
+---
+id: 2017-11-05--paradise-papers-reveal-further-offshore-tax-avoida
+date: '2017-11-05'
+title: Paradise Papers Expose Global Elite's Systematic Offshore Financial Manipulation
+actors:
+- Appleby
+- Estera
+- Queen Elizabeth II
+- Wilbur Ross
+- Vladimir Putin
+- Leonid Mikhelson
+- Gennady Timchenko
+- Kirill Shamalov
+- International Consortium of Investigative Journalists (ICIJ)
+importance: 9
+sources:
+- outlet: ICIJ
+  title: 'Paradise Papers: Secrets of the Global Elite'
+  url: https://www.icij.org/investigations/paradise-papers/
+  date: '2017-11-05'
+- outlet: Wikipedia
+  title: Paradise Papers
+  url: https://en.wikipedia.org/wiki/Paradise_Papers
+  date: '2023'
+- outlet: PBS News
+  title: Paradise Papers reveal offshore accounts of world's wealthy
+  url: https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy
+  date: '2017-11-05'
+tags:
+- paradise-papers
+- offshore-finance
+- tax-havens
+- oligarchs
+- financial-manipulation
+- global-elite-networks
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+- Executive Power Expansion
+- Financial Network Mapping
+status: confirmed
+priority_id: capture-cascade-part4-thiel-international-oligarchic-network-operations--20250909-182540
+investigation_details:
+  document_sources:
+  - Appleby
+  - Estera
+  - Asiaciti Trust
+  investigation_scale:
+    total_documents: 13400000
+    investigation_type: Collaborative Journalism
+    journalists_involved: 380
+    countries_involved: 65
+  key_revelations:
+    political_connections:
+    - name: Wilbur Ross
+      details: Stakes in businesses dealing with sanctioned Russian oligarchs
+    - name: Queen Elizabeth II
+      details: £10 million invested in offshore funds in Cayman Islands and Bermuda
+    corporate_tax_avoidance:
+    - Apple searching for new tax havens
+    - Nike creating offshore shell companies
+    - Glencore using complex international offshore structures
+  systemic_implications:
+  - Revealing global wealth inequality mechanisms
+  - Exposing sophisticated financial engineering
+  - Demonstrating limitations of international financial regulation
+---
+
+The International Consortium of Investigative Journalists (ICIJ) released the Paradise Papers, a massive leak of 13.4 million confidential documents revealing extensive offshore financial activities of global elites. The investigation exposed how powerful individuals and corporations systematically use legal loopholes to avoid taxes, including revelations about Queen Elizabeth II's investments, Russian oligarchs' financial networks, and connections within the Trump administration. The documents, sourced from Appleby and Estera, demonstrated the sophisticated financial engineering used by the world's wealthiest to obscure their economic activities.

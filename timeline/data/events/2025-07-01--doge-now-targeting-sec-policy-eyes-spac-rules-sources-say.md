@@ -1,0 +1,49 @@
+---
+actors:
+- Donald Trump
+- Trump Administration
+- Department of Government Efficiency (DOGE)
+- SEC
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+capture_type: regulatory_capture
+connections:
+- Trump Administration deregulation efforts
+- SPAC market manipulation
+date: '2025-07-01'
+description: DOGE (Department of Government Efficiency) is pushing the SEC to loosen
+  Wall Street regulations around shell companies, confidential reporting requirements,
+  and SPAC rules, representing a significant deregulatory effort by the Trump administration.
+id: 2025-07-01--doge-now-targeting-sec-policy-eyes-spac-rules-sources-say
+importance: 7
+location: Washington, D.C.
+notes: Part of broader Trump administration effort to reduce financial regulatory
+  oversight
+patterns:
+- kleptocratic-capture
+- regulatory-rollback
+sources:
+- date: '2025-07-01'
+  outlet: Insurance Journal
+  title: DOGE Now Targeting SEC Policy, Eyes SPAC Rules, Sources Say
+  url: https://www.insurancejournal.com/news/national/2025/07/01/829767.htm
+- date: '2025-03-03'
+  outlet: Harvard Corporate Governance Forum
+  title: The Changing Tides of the SEC Under the Second Trump Administration
+  url: https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/
+- date: '2025-01-10'
+  outlet: SEC.gov
+  title: SEC Adopts Rules to Enhance Investor Protections Relating to SPACs, Shell
+    Companies, and Projections
+  url: https://www.sec.gov/newsroom/press-releases/2024-8
+status: confirmed
+tags:
+- regulatory-capture
+- financial-regulation
+- spac-rules
+- trump-administration
+title: DOGE Pushes SEC to Loosen Wall Street Regulations on SPACs and Reporting
+---
+
+The Department of Government Efficiency (DOGE) under the Trump administration is seeking to loosen SEC regulations on Special Purpose Acquisition Companies (SPACs) and confidential reporting requirements, representing a significant deregulatory push that could impact investor protections and financial market oversight.

@@ -1,0 +1,44 @@
+---
+id: 2025-01-01--judicial-independence-assault
+date: '2025-01-01'
+importance: 10
+title: Systematic assault on judicial independence begins
+location: Washington, DC
+actors:
+- Trump Administration
+- Federal judiciary
+- Law firms
+tags:
+- constitutional-crisis
+- judicial-independence
+- executive-overreach
+- rule-of-law
+capture_lanes:
+- Constitutional & Democratic Breakdown
+- Executive Power & Emergency Authority
+- Judicial Capture & Corruption
+sources:
+- title: Federal court rulings on executive overreach
+  url: https://www.uscourts.gov/news/2025/01/judicial-independence
+  outlet: U.S. Courts
+  date: '2025-01-15'
+  archive_url: https://web.archive.org/web/20250814000000/https://www.uscourts.gov/news/2025/01/judicial-independence
+- title: Is the Trump administration's conflict with judges a constitutional crisis?
+    What to know
+  url: https://abcnews.go.com/Politics/trump-administrations-conflict-judges-constitutional-crisis/story?id=119981540
+  outlet: ABC News
+  date: '2025-02-15'
+- title: The courts are helpless - Inside the Trump administration's steady erosion
+    of judicial power
+  url: https://www.cnn.com/2025/08/10/politics/trump-administration-judicial-power
+  outlet: CNN
+  date: '2025-08-10'
+- title: What happens if Trump starts ignoring court rulings? We break it down
+  url: https://www.npr.org/2025/02/12/nx-s1-5293132/trump-vance-constitutional-crisis-court-rulings
+  outlet: NPR
+  date: '2025-02-12'
+notes: Beginning of systematic attack on judicial branch
+status: confirmed
+---
+
+Trump administration launched systematic executive orders targeting law firms, mass firings of prosecutors, and open defiance of court rulings, creating what legal scholars describe as unprecedented constitutional crisis.

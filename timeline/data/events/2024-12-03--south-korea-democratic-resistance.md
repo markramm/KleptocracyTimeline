@@ -1,0 +1,38 @@
+---
+id: 2024-12-03--south-korea-democratic-resistance
+date: '2024-12-03'
+title: South Korean Democratic Resistance Against Presidential Martial Law
+importance: 9
+actors:
+- Yoon Suk Yeol
+- Lee Jae-myung
+- South Korean Parliament
+- Civil Society Organizations
+- Democratic Party of Korea
+tags:
+- international-resistance
+- democratic-safeguards
+- parliamentary-action
+- martial-law-resistance
+- democratic-resilience
+sources:
+- title: Martial Law Pushback in South Korea
+  outlet: Dem-Dec
+  url: https://www.demoptimism.org/martial-law-south-korea
+  date: '2024-12-03'
+- title: South Korean president faces impeachment calls after martial law attempt
+  outlet: The Washington Post
+  url: https://www.washingtonpost.com/world/2024/12/03/south-korea-yoon-martial-law/
+  date: '2024-12-03'
+- title: South Korea martial law lifted, president urged to resign
+  outlet: CBS News
+  url: https://www.cbsnews.com/news/south-korea-president-martial-law-emergency/
+  date: '2024-12-03'
+capture_lanes:
+- Media Capture & Control
+- Executive Power Expansion
+- Democratic Resistance
+status: confirmed
+---
+
+On December 3, 2024, South Korean President Yoon Suk Yeol declared a nationwide martial law, triggering an immediate and coordinated democratic resistance. The National Assembly swiftly convened, annulled the martial law within hours, and initiated impeachment proceedings. Citizens and lawmakers demonstrated remarkable resilience by blocking military movements, organizing mass protests, and leveraging digital platforms to mobilize resistance, ultimately preserving democratic institutions.

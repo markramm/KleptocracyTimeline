@@ -1,0 +1,55 @@
+---
+actors:
+- Donald Trump
+- Trump Administration
+- Elon Musk
+- SpaceX DOGE Team
+- Rep. Gerry Connolly
+- Rep. Shontel Brown
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Executive Power Expansion
+- Technological Infrastructure Capture
+capture_type: regulatory_capture
+connections:
+- SpaceX federal contracts
+- White House technology infrastructure
+- Federal cybersecurity vulnerabilities
+date: '2025-03-18'
+description: Elon Musk's Starlink was installed at the White House, raising significant
+  national security concerns due to potential cybersecurity vulnerabilities and conflicts
+  of interest.
+id: 2025-03-18--elon-musk-s-starlink-internet-service-installed-in-white-hou
+importance: 8
+location: Washington, D.C.
+notes: Installation bypassed standard White House communication security protocols.
+  Congressional oversight initiated to investigate potential risks.
+patterns:
+- kleptocratic-capture
+- technological-infrastructure-manipulation
+sources:
+- date: '2025-06-10'
+  outlet: Fortune
+  title: Elon Musk's Starlink Terminal Installed on White House Roof—Security Risks
+    Flagged
+  url: https://fortune.com/2025/06/10/elon-musk-starlink-terminal-white-house-roof-security-risk/
+- date: '2025-03-28'
+  outlet: FedScoop
+  title: House Oversight Democrats Demand Details on White House Starlink Installation
+  url: https://fedscoop.com/house-oversight-democrats-white-house-starlink-installation/
+- date: '2025-03-18'
+  outlet: The Guardian
+  title: Elon Musk's Starlink internet service installed in White House
+  url: https://www.theguardian.com/us-news/2025/mar/18/musk-starlink-internet-white-house
+status: confirmed
+tags:
+- regulatory-capture
+- cybersecurity
+- technology-infrastructure
+- white-house
+- starlink
+title: Starlink Installed at White House, Raising Major Security Concerns
+---
+
+In March 2025, SpaceX's DOGE team installed a Starlink satellite internet terminal at the White House, bypassing standard communication security protocols. Congressional Democrats raised significant national security concerns about potential cybersecurity vulnerabilities and conflicts of interest, highlighting the risks of uncontrolled internet access in sensitive government facilities.

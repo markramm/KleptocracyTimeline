@@ -1,0 +1,34 @@
+{
+  "id": "a0b39ea7",
+  "title": "$TRUMP Token Launch: Real-Time Presidential Bribery Infrastructure (Jan 20, 2025)",
+  "description": "Document the unprecedented launch of $TRUMP and $MELANIA tokens on Inauguration Day 2025, creating the first real-time presidential influence market in history. Focus on the timing, scale, and immediate foreign participation.",
+  "priority": 10,
+  "estimated_events": 6,
+  "category": "capture_cascade",
+  "tags": [
+    "cryptocurrency-corruption",
+    "trump-tokens",
+    "inauguration-timing",
+    "foreign-influence",
+    "real-time-bribery"
+  ],
+  "research_areas": [
+    "What was the exact timeline of $TRUMP token launch relative to Trump's oath of office?",
+    "Who were the major early purchasers in the first 24 hours?",
+    "How did foreign governments respond to the token launch?",
+    "What technical infrastructure enabled the simultaneous launch with inauguration?",
+    "How did token prices correlate with early policy announcements?"
+  ],
+  "timeline_focus": "2025-01-20 to 2025-01-21",
+  "actors": [
+    "Donald Trump",
+    "Melania Trump",
+    "Crypto platform operators",
+    "Foreign token purchasers",
+    "Tech infrastructure providers"
+  ],
+  "source_requirements": "Token launch records, blockchain transaction data, platform technical specifications, foreign exchange patterns",
+  "created_by": "pdf-ingestion-capture-cascade",
+  "pdf_source": "The Capture Cascade - Part 5_ The Breakthrough.pdf",
+  "created_at": "2025-09-09T18:31:03.965892"
+}

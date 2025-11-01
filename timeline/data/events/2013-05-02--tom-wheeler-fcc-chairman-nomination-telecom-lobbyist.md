@@ -1,0 +1,40 @@
+---
+date: '2013-05-02'
+title: Obama Nominates Telecom Industry Lobbyist Tom Wheeler as FCC Chairman
+importance: 9
+actors:
+- Tom Wheeler
+- Barack Obama
+- Cellular Telecommunications & Internet Association (CTIA)
+- National Cable Television Association (NCTA)
+- Public Interest Groups
+- Cable and Wireless Industry
+tags:
+- regulatory-capture
+- fcc
+- revolving-door
+- telecommunications
+- tom-wheeler
+- industry-lobbying
+status: confirmed
+sources:
+- title: Tom Wheeler, Former Lobbyist and Obama Fundraiser, Tapped to Lead FCC
+  url: https://business.time.com/2013/05/02/tom-wheeler-former-lobbyist-and-obama-fundraiser-tapped-to-lead-fcc/
+  outlet: Time
+  date: '2013-05-02'
+- title: New FCC chairman is "former lobbyist for cable and wireless industries"
+  url: https://arstechnica.netblogpro.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/
+  outlet: Ars Technica
+  date: '2013-04-30'
+- title: Obama Names Former Lobbyist Wheeler U.S. FCC Chairman
+  url: https://mediagazer.com/130501/p30
+  outlet: Mediagazer/Bloomberg
+  date: '2013-05-01'
+- title: Net Neutrality Debate Forces FCC Chairman Into The Spotlight
+  url: https://www.npr.org/2015/01/01/374417492/net-neutrality-debate-forces-fcc-chairman-into-the-spotlight
+  outlet: NPR
+  date: '2015-01-01'
+id: 2013-05-02--tom-wheeler-fcc-chairman-nomination-telecom-lobbyist
+---
+
+President Barack Obama nominates Tom Wheeler, a former top lobbyist for cable and wireless industries, to lead the Federal Communications Commission. Wheeler's appointment exemplifies the revolving door between telecommunications regulators and industry, having served as CEO of the Cellular Telecommunications & Internet Association (CTIA) from 1992-2004 and president of the National Cable Television Association (NCTA) from 1979-1984. During his tenure as CTIA head, Wheeler was accused of suppressing science on wireless health risks and aggressively lobbying against consumer protections. Obama jokingly called Wheeler 'the Jim Brown or Bo Jackson of telecom,' referencing his extensive industry experience. Wheeler also bundled at least $700,000 for Obama's presidential campaigns, raising additional conflict of interest concerns. More than two dozen public interest groups had written to Obama expressing alarm about considering 'a candidate who was the head of not one but two major industry lobbying groups.' This appointment represented a textbook case of regulatory capture, placing someone who had spent decades advocating for industry interests in charge of regulating those same industries.

@@ -1,0 +1,45 @@
+---
+id: 2025-04-03--challenger-doge-280k-layoffs
+date: '2025-04-03'
+importance: 6
+title: Challenger data shows DOGE drove 280,253 federal layoffs across 27 agencies
+location: Washington, DC
+actors:
+- DOGE
+- Challenger Gray & Christmas
+- Elon Musk
+- Federal agencies
+sources:
+- title: 'Federal Cuts Dominate March 2025 Total: 275,240 Announced Job Cuts, 216,670
+    from DOGE Actions'
+  url: https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/
+  outlet: Challenger, Gray & Christmas
+  date: '2025-04-03'
+- title: DOGE drove layoff announcements to their third-highest-ever level in March
+  url: https://www.cnn.com/2025/04/03/economy/us-jobs-report-preview-march-doge-layoffs/index.html
+  outlet: CNN Business
+  date: '2025-04-03'
+- title: Layoffs spiked by 205% last month to third-highest ever recorded, fueled
+    by DOGE mass firings
+  url: https://www.cbsnews.com/news/layoffs-job-cuts-march-2025-third-highest-ever-recorded-doge/
+  outlet: CBS News
+  date: '2025-04-03'
+- title: Project 2025 wanted to hobble the federal workforce. DOGE has hastily done
+    that, and more
+  url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
+  outlet: Government Executive
+  date: '2025-04-15'
+notes: March 2025 was third-highest layoff month since tracking began, behind only
+  April 2020 (671K) and May 2020 (397K) during pandemic
+status: confirmed
+tags:
+- federal-workforce
+- doge
+- workforce-reduction
+- elon-musk
+- challenger-data
+capture_lanes:
+- Federal Workforce Capture
+---
+
+Challenger, Gray & Christmas reported DOGE actions caused 280,253 layoff plans across 27 federal agencies in first two months, making March layoffs third-highest ever recorded (275,240 total). Federal government announced 216,670 cuts in March alone, representing 80% of all U.S. layoff announcements and 205% increase over 2024. Impacts included Education (50%), VA (80K), HHS (25%).

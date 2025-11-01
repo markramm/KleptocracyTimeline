@@ -1,0 +1,16 @@
+{
+  "id": "RT-EE57E913",
+  "title": "Congressional Insider Trading",
+  "description": "Document systematic congressional insider trading and stock manipulation",
+  "priority": "high",
+  "tags": [
+    "congress",
+    "insider_trading",
+    "corruption"
+  ],
+  "capture_lane": "legislative",
+  "decade": "2020s",
+  "created": "2025-09-09T21:17:43.464660",
+  "status": "pending",
+  "category": "capture_research"
+}

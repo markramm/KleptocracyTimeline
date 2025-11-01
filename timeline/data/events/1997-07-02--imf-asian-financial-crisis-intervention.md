@@ -1,0 +1,32 @@
+---
+id: 1997-07-02--imf-asian-financial-crisis-intervention
+date: '1997-07-02'
+title: IMF Initiates Asian Financial Crisis Intervention
+importance: 8
+actors:
+- IMF
+- World Bank
+- Thai Government
+- Multinational Corporations
+tags:
+- asian-financial-crisis
+- imf
+- structural-adjustment
+- economic-intervention
+sources:
+- title: 'The Asian Financial Crisis: Origins and Implications'
+  url: https://www.imf.org/external/pubs/ft/wp/1998/wp9873.pdf
+  outlet: IMF Working Paper
+- title: Recovery from the Asian Crisis and the Role of the IMF
+  url: https://www.imf.org/external/np/exr/ib/2000/062300.HTM
+  outlet: IMF Issues Brief
+- title: 'The Asian Crisis: Causes, Policy Responses, and Outcomes'
+  url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+  outlet: Federal Reserve History
+status: confirmed
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+---
+
+The International Monetary Fund (IMF) begins systematic intervention in Asian economies following the Thai baht devaluation, triggering a region-wide financial crisis. This marks the start of a coordinated structural adjustment strategy that fundamentally reshaped Asian economic landscapes. The IMF provided $36 billion in support to Indonesia, Korea, and Thailand, with conditions requiring significant economic reforms, financial sector restructuring, and improved governance.

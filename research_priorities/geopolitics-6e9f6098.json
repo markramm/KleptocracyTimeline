@@ -1,0 +1,67 @@
+{
+  "id": "geopolitics-6e9f6098",
+  "title": "China's Demographic Collapse: Global Economic and Strategic Implications",
+  "description": "Analyze the strategic implications of China's rapidly declining demographics, including economic disruption, social instability, and shifts in global power dynamics.",
+  "priority": 8,
+  "status": "pending",
+  "category": "demographic-analysis",
+  "tags": [
+    "china",
+    "demographics",
+    "economic-impact",
+    "global-strategy",
+    "population-decline"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "China's Vanishing Future_ Inside the World's Fastest Demographic Collapse.pdf",
+  "created_by": "pdf-agent-6-additional",
+  "time_period": "2010-2050",
+  "constitutional_issues": [
+    "national-security",
+    "economic-policy",
+    "immigration-policy"
+  ],
+  "actors_to_investigate": [
+    "Chinese demographic researchers",
+    "U.S. strategic planning officials",
+    "Economic policy analysts",
+    "National security planners",
+    "International economics experts"
+  ],
+  "key_sources": [
+    {
+      "title": "Chinese government demographic data and policy documents",
+      "type": "government-data",
+      "credibility": 8,
+      "why": "Official demographic trends and government responses"
+    },
+    {
+      "title": "U.S. intelligence assessments of Chinese demographic trends",
+      "type": "intelligence-analysis",
+      "credibility": 9,
+      "why": "Strategic assessments of demographic impact on Chinese capabilities"
+    },
+    {
+      "title": "Economic research on demographic transition impacts",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Systematic analysis of economic consequences of demographic change"
+    }
+  ],
+  "expected_outcomes": [
+    "Map timeline of Chinese demographic collapse and economic impacts",
+    "Analyze strategic implications for U.S.-China competition",
+    "Document global economic disruption potential from Chinese demographic crisis",
+    "Evaluate policy responses to demographic-driven strategic shifts"
+  ],
+  "research_questions": [
+    "What are the strategic implications of China's demographic collapse for global power dynamics?",
+    "How does demographic decline affect Chinese economic and military capabilities?",
+    "What opportunities and risks does Chinese demographic crisis create for the U.S.?",
+    "How should U.S. policy adapt to demographic-driven changes in Chinese power?"
+  ],
+  "estimated_importance": 8
+}

@@ -1,0 +1,32 @@
+{
+  "id": "RT-CLAUDE-2025-spac-fraud-networks-trump-dwac",
+  "title": "SPAC Fraud Networks Trump DWAC Truth Social",
+  "description": "Map the systematic use of Special Purpose Acquisition Companies (SPACs) as wealth extraction and money laundering vehicles, focusing on Trump's DWAC Truth Social deal, the broader network of politically connected SPAC promoters, and regulatory capture that enabled mass fraud in retail investment markets.",
+  "priority": 8,
+  "estimated_events": 4,
+  "category": "financial_fraud",
+  "tags": [
+    "spac_fraud",
+    "truth_social",
+    "dwac",
+    "retail_fraud",
+    "money_laundering"
+  ],
+  "time_period": "2020-2024",
+  "estimated_importance": 8,
+  "status": "completed",
+  "blockers": [],
+  "next_steps": [
+    "Document DWAC timeline",
+    "Map SPAC promoter networks",
+    "Research regulatory failures",
+    "Track retail investor losses"
+  ],
+  "export_worthy": true,
+  "source_file": "claude_generated_research_priorities_2025.py",
+  "is_generated": true,
+  "created_date": "2025-09-10",
+  "research_notes": "Key case study in modern financial kleptocracy targeting retail investors",
+  "events_created": 4,
+  "completion_date": "2025-01-15"
+}

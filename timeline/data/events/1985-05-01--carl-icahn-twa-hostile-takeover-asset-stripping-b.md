@@ -1,0 +1,34 @@
+---
+date: '1985-05-01'
+title: Carl Icahn TWA Hostile Takeover - Asset Stripping Blueprint
+actors:
+- Carl Icahn
+- Trans World Airlines
+- American Airlines
+sources:
+- outlet: Princeton Alumni Weekly
+  title: 'Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn'
+  url: https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57
+- outlet: Wikipedia
+  title: Carl Icahn - Corporate Raiding and TWA Takeover
+  url: https://en.wikipedia.org/wiki/Carl_Icahn
+- outlet: Britannica Money
+  title: Carl Icahn Biography and Corporate Strategies
+  url: https://www.britannica.com/money/Carl-C-Icahn
+importance: 9
+tags:
+- corporate-raiding
+- asset-stripping
+- leveraged-buyouts
+- corporate-destruction
+- 1980s-financial-history
+status: confirmed
+id: 1985-05-01--carl-icahn-twa-hostile-takeover-asset-stripping-b
+priority_id: RT-EXP-72C359C1-carl-icahn-corporate-raiding-network
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+In May 1985, Carl Icahn orchestrated a hostile takeover of Trans World Airlines (TWA), becoming a quintessential example of 1980s corporate raiding. Icahn acquired 50% of TWA through a leveraged buyout, eventually taking full control by 1988. His strategy involved systematically selling the airline's assets to repay acquisition debt, a practice known as 'asset stripping'. By 1991, he sold TWA's lucrative London routes to American Airlines for $445 million, personally profiting $469 million while leaving TWA with $540 million in debt. This case became emblematic of corporate raiding tactics that prioritized individual profit over corporate sustainability, ultimately contributing to TWA's bankruptcy in 1992.

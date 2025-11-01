@@ -1,0 +1,49 @@
+---
+id: 2025-04-29--it-was-supposed-to-be-a-tax-and-border-bill-it-could-also-ha
+date: '2025-04-29'
+title: It was supposed to be a tax and border bill. It could also hand Trump vast
+  new executive powers
+description: A draft bill from the House Judiciary Committee would expand Trump's
+  executive power by curtailing the FTC's antitrust enforcement capabilities, aligning
+  with broader efforts to consolidate presidential control over independent agencies
+status: confirmed
+importance: 7
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+- Elon Musk
+- House Judiciary Committee
+tags:
+- regulatory-capture
+- executive-power
+- antitrust
+capture_type: monetizing_position
+sources:
+- title: It was supposed to be a tax and border bill. It could also hand Trump vast
+    new executive powers
+  url: https://www.politico.com/news/2025/04/29/trump-executive-powers-reins-act-ftc-antitrust-00317105
+  outlet: Politico
+  date: '2025-04-29'
+- title: Trump's Antitrust Strategy Continues to Take Shape with New FTC Picks
+  url: https://www.winston.com/en/blogs-and-podcasts/competition-corner/trumps-antitrust-strategy-continues-to-take-shape-with-new-ftc-picks
+  outlet: Winston & Strawn
+  date: '2025-04-29'
+- title: 'Trump 2025 Antitrust Agenda: Targeting Regulatory Barriers'
+  url: https://www.steptoe.com/en/news-publications/stepahead-antitrust-and-competition-insights/trump-2025-antitrust-agenda-targeting-regulatory-barriers.html
+  outlet: Steptoe
+  date: '2025-04-29'
+connections: []
+patterns:
+- kleptocratic-capture
+- executive-power-consolidation
+notes: Comprehensive tracking of executive power expansion and regulatory capture
+  mechanisms
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+A draft bill from the House Judiciary Committee would expand Trump's executive power by curtailing the FTC's antitrust enforcement capabilities, aligning with broader efforts to consolidate presidential control over independent agencies

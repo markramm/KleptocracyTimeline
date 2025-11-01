@@ -187,11 +187,64 @@ timeline_data/.qa_cache/
 # Source archives (hidden folder with scraped sources)
 timeline_data/events/.sources/
 
-# Archive folder (old files)
+# Archive folder (old files - generally ignored)
 archive/
+
+# Except for important cleanup documentation
+!archive/CLEANUP-2025-10-21.md
+!archive/development-process-docs-20251021/
+!archive/one-time-scripts-20251021/
+!archive/experimental-research-20251021/
 
 # AI notes and internal documentation (not part of core timeline)
 ai_notes/
 
 # Flask app files
-timeline_data/static/
+timeline_data/static/logs/
+*.log
+coverage_html/
+.coverage
+coverage.json
+
+# Hugo build artifacts
+timeline/.hugo_build.lock
+timeline/public/
+timeline/archetypes/
+timeline/resources/
+
+# Database WAL files (write-ahead log and shared memory)
+*.db-wal
+*.db-shm
+
+# Legacy directories (superseded by research-server/)
+research_monitor/
+api/
+research_api.py
+
+# Backup files
+*.backup
+*.bak
+*.old
+*-backup-*.tar.gz
+timeline/data/events/malformed_backup/
+
+# Experimental research (keep in archive only)
+research-server/ai-analysis/
+
+# Development process docs (keep in archive only)
+SPEC-*.md
+CLEANUP-*.md
+ARCHITECTURE_REVIEW.md
+IMPROVEMENTS_SUMMARY.md
+specs/
+
+# One-time manifests
+*_manifest.json
+*_files_manifest.json
+
+# Scraped source cache (should not be in git)
+timeline/data/events/.sources/
+
+# React viewer coverage and build
+timeline/viewer/coverage/
+timeline/viewer/build/

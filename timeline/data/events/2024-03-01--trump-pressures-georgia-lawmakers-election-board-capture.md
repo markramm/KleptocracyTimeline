@@ -1,0 +1,47 @@
+---
+id: 2024-03-01--trump-pressures-georgia-lawmakers-election-board-capture
+date: '2024-03-01'
+title: Trump Pressures Georgia Lawmakers to Capture State Election Board
+importance: 9
+location: Georgia
+actors:
+- Donald Trump
+- Ed Lindsey
+- Janelle King
+- Georgia Republican Lawmakers
+- Brad Raffensperger
+- Georgia State Election Board
+tags:
+- election-capture
+- georgia
+- trump-pressure
+- board-takeover
+- systematic-corruption
+capture_lanes:
+- Election Infrastructure Capture
+- State Government Capture
+sources:
+- title: Trump and His MAGA Movement Are Actively Hijacking Georgias Elections
+  url: https://www.rollingstone.com/politics/politics-features/trump-georgia-maga-election-takeover-1235080073/
+  outlet: Rolling Stone
+  date: '2024-09-18'
+  verified: true
+- title: 'Georgia Is Our Laboratory: Inside Trumps Plan to Rig 2024'
+  url: https://www.rollingstone.com/politics/politics-features/trump-georgia-laboratory-rig-2024-1235034510/
+  outlet: Rolling Stone
+  date: '2024-07-25'
+  verified: true
+- title: GOP media personality Janelle King appointed to Georgia election board
+  url: https://www.ajc.com/politics/gop-media-personality-janelle-king-appointed-to-georgia-election-board/BJ3CGB2PJZCKPCO5FKIT5FCEVA/
+  outlet: Atlanta Journal-Constitution
+  date: '2024-05-18'
+  verified: true
+- title: Georgia Election Board Moves To Help Trump In 2024
+  url: https://thinkbigpicture.substack.com/p/trump-2024-georgia-election-board
+  outlet: Think Big Picture
+  date: '2024-08-15'
+  verified: true
+status: confirmed
+---
+
+Donald Trump spends months calling Georgia lawmakers and MAGA supporters demanding removal of Republican Ed Lindsey from the State Election Board, saying "He's got to go" due to Lindsey's insufficient loyalty on the "very important" election board. Trump's systematic pressure campaign succeeds when Lindsey resigns and is replaced with Janelle King, completing MAGA capture of the board majority. A Trump source describes "Georgia as our laboratory" for election manipulation strategies. The capture follows Republican lawmakers removing Secretary of State Brad Raffensperger as chair despite his overwhelming re-election, demonstrating coordinated legislative and executive pressure to install compliant election officials.

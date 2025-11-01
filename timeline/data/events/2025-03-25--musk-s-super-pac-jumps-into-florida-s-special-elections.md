@@ -1,0 +1,54 @@
+---
+id: 2025-03-25--musk-s-super-pac-jumps-into-florida-s-special-elections
+date: '2025-03-25'
+title: Musk's Super PAC Jumps into Florida's Special Elections
+description: Elon Musk's America PAC has started spending in two Republican-held Florida
+  House races to support candidates Jimmy Patronis and Randy Fine ahead of their special
+  elections, both in districts previously won by Trump by large margins.
+status: confirmed
+importance: 6
+location: Florida, United States
+actors:
+- Elon Musk
+- Jimmy Patronis
+- Randy Fine
+- Donald Trump
+tags:
+- kleptocracy
+- political-spending
+- super-pac
+- election-interference
+- white-house-advisory-role
+capture_type: monetizing_position
+sources:
+- title: Musk's super PAC jumps into Florida's special elections
+  url: https://www.nbcnews.com/politics/elections/musks-super-pac-jumps-floridas-special-elections-rcna198106
+  outlet: NBC News
+  date: '2025-03-25'
+- title: Elon Musk Gave $45 Million to His Super PAC, Making Him Among Top Donors
+  url: https://www.bloomberg.com/news/articles/2025-07-31/elon-musk-gave-45-million-to-his-super-pac-making-him-among-top-donors
+  outlet: Bloomberg
+  date: '2025-07-31'
+- title: Musk's super PAC pours last-minute money into special Florida elections
+  url: https://thehill.com/homenews/campaign/5214867-musk-super-pac-florida-special-elections/
+  outlet: The Hill
+  date: '2025-03-26'
+- title: Randy Fine wins special election for U.S. House CD-6
+  url: https://mynews13.com/fl/orlando/news/2025/03/31/voters-head-to-the-polls-in-special-elections
+  outlet: My News 13
+  date: '2025-03-31'
+connections:
+- White House advisory role
+- Trump-aligned political spending
+patterns:
+- kleptocratic-capture
+- political-influence-spending
+notes: America PAC spent $20,488.90 on texting services, demonstrating strategic political
+  engagement during special elections.
+capture_lanes:
+- Legislative Capture
+- Electoral Manipulation
+- Political Financing
+---
+
+Elon Musk's America PAC spent $20,488.90 on texting services to support two Republican candidates in Florida special House elections: Jimmy Patronis (1st District) and Randy Fine (6th District). The strategic spending demonstrates Musk's continued political engagement while serving as a White House adviser, with Randy Fine ultimately winning his race.

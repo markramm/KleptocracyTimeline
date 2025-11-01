@@ -1,0 +1,28 @@
+---
+id: 2012-05-18--facebook-ipo-morgan-stanley-manipulation
+date: '2012-05-18'
+title: Facebook IPO Market Manipulation by Morgan Stanley
+importance: 9
+tags:
+- securities-fraud
+- market-manipulation
+- tech-industry
+- financial-regulation
+- facebook
+- morgan-stanley
+actors:
+- Morgan Stanley
+- Facebook
+- William Galvin
+- James Gorman
+sources:
+- title: cnbc.com
+  url: https://www.cnbc.com/2012/12/17/morgan-stanley-fined-5-million-over-facebook-ipo.html
+- title: money.cnn.com
+  url: https://money.cnn.com/2012/05/23/technology/facebook-ipo-what-went-wrong/index.htm
+- title: hbsslaw.com
+  url: https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard
+status: confirmed
+---
+
+Morgan Stanley and other underwriters engaged in selective disclosure during Facebook's initial public offering, revealing sensitive financial information only to institutional investors. Massachusetts securities regulators fined Morgan Stanley  million for creating an 'unlevel playing field' by verbally disclosing potentially negative financial projections to select clients ahead of the IPO. This action violated fair disclosure principles and potentially manipulated market sentiment, leading to investigations by FINRA and multiple shareholder lawsuits.

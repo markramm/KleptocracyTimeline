@@ -1,0 +1,25 @@
+{
+  "id": "a7508363",
+  "title": "Healthcare Industry Influence on ACA Implementation",
+  "description": "Document healthcare industry lobbying influence on Affordable Care Act implementation, focusing on pharmaceutical and insurance industry concessions.",
+  "priority": 8,
+  "estimated_events": 5,
+  "category": "pdf_ingestion",
+  "tags": [
+    "Healthcare policy",
+    "Industry lobbying",
+    "ACA implementation"
+  ],
+  "research_areas": [
+    "What are the specific dates and actors involved in Healthcare Industry Influence on ACA Implementation?",
+    "What are the financial amounts and policy changes related to this investigation?",
+    "How does this connect to broader institutional capture patterns?",
+    "What documentation and sources verify these timeline events?"
+  ],
+  "timeline_focus": "2008-01-01 to 2025-01-31",
+  "actors": [],
+  "source_requirements": "Government documents, financial records, policy communications",
+  "created_by": "pdf-ingestion-agent-7",
+  "pdf_source": "Institutional Patterns in the Obama Administration_ Industry Influence, Regulatory Enforcement, and Governance Challenges.pdf",
+  "created_at": "2025-09-09T18:52:40.562615"
+}

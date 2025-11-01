@@ -1,0 +1,42 @@
+---
+id: 2022-01-13--supreme-court-blocks-biden-osha-vaccine-mandate-as
+date: '2022-01-13'
+importance: 7
+title: Supreme Court Blocks Biden OSHA Vaccine Mandate as Executive Overreach
+actors:
+- Supreme Court
+- Joe Biden
+- OSHA
+- Department of Labor
+tags:
+- executive-overreach
+- emergency-powers
+- supreme-court
+- covid-19
+- vaccine-mandate
+status: confirmed
+sources:
+- title: Supreme Court blocks Biden Covid vaccine mandate for businesses
+  url: https://www.cnbc.com/2022/01/13/supreme-court-ruling-biden-covid-vaccine-mandates.html
+  outlet: CNBC
+  date: '2022-01-13'
+- title: Supreme Court blocks Biden's vaccine-or-test mandate for large private companies
+  url: https://www.npr.org/2022/01/13/1072165393/supreme-court-blocks-bidens-vaccine-or-test-mandate-for-large-private-companies
+  outlet: NPR
+  date: '2022-01-13'
+- title: Fractured court blocks vaccine-or-test requirement for large workplaces
+  url: https://www.scotusblog.com/2022/01/fractured-court-blocks-vaccine-or-test-requirement-for-large-workplaces-but-green-lights-vaccine-mandate-for-health-care-workers/
+  outlet: SCOTUSblog
+  date: '2022-01-13'
+- title: NFIB v. OSHA Opinion
+  url: https://www.supremecourt.gov/opinions/21pdf/21a244_hgci.pdf
+  outlet: Supreme Court of the United States
+  date: '2022-01-13'
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Financial Capture
+- Executive Power Expansion
+---
+
+The Supreme Court ruled 6-3 to block President Biden's OSHA mandate requiring businesses with 100+ employees to enforce COVID vaccination or weekly testing, affecting 84 million workers. The Court held that while OSHA can regulate 'occupational dangers,' it lacks authority to 'regulate public health more broadly.' The majority wrote that requiring vaccination of 84 million Americans 'selected simply because they work for employers with more than 100 employees' exceeded OSHA's statutory authority. The Biden administration withdrew the mandate on January 26. The Court simultaneously upheld a narrower CMS mandate for healthcare workers receiving federal funds. This marked a significant limit on executive agency power to address emergencies without clear Congressional authorization.

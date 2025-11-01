@@ -1,0 +1,26 @@
+{
+  "id": "RP-20250109-capture-cascade-part1",
+  "title": "The Capture Cascade Part 1: The Blueprint",
+  "description": "Research the systematic blueprint for institutional capture as documented in Part 1 of the Capture Cascade series. Extract timeline events showing the initial planning and framework development for democratic backsliding.",
+  "priority": 9,
+  "status": "completed",
+  "category": "systematic-capture",
+  "tags": [
+    "capture-cascade",
+    "blueprint",
+    "institutional-capture",
+    "democratic-backsliding"
+  ],
+  "estimated_events": 5,
+  "source_document": "documents/incoming/The Capture Cascade - Part 1_ The Blueprint.pdf",
+  "created_date": "2025-01-09",
+  "specific_focus": [
+    "Initial capture strategies",
+    "Key architects and planners",
+    "Foundation-laying events",
+    "Legal framework changes",
+    "Early warning signs"
+  ],
+  "events_created": 5,
+  "completion_date": "2025-01-15"
+}

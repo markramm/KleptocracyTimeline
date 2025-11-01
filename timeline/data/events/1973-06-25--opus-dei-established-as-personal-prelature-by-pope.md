@@ -1,0 +1,33 @@
+---
+date: '1973-06-25'
+title: 'Opus Dei: Canonical Recognition and Unique Ecclesiastical Status'
+importance: 7
+actors:
+- Pope Pius XII
+- Pope John Paul II
+- Josemaria Escriva
+- Opus Dei
+sources:
+- title: Ut Sit Apostolic Constitution
+  url: https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19821128_ut-sit.html
+  outlet: Vatican
+- title: Opus Dei Prelature Status
+  url: https://opusdei.org/en/article/personal-prelature/
+  outlet: Opus Dei Official
+- title: 'Opus Dei: History and Canonical Status'
+  url: https://www.britannica.com/topic/Opus-Dei
+  outlet: Britannica Encyclopedia
+tags:
+- opus-dei
+- catholic-church
+- religious-networks
+- prelature
+- religious-autonomy
+status: confirmed
+id: 1973-06-25--opus-dei-established-as-personal-prelature-by-pope
+capture_lanes:
+- Religious Networks
+- Systematic Corruption
+---
+
+Contrary to the original description, Opus Dei received its foundational canonical recognition in 1950 under Pope Pius XII as a secular institute. In 1982, Pope John Paul II established it as the first personal prelature through the apostolic constitution Ut sit, giving it a unique autonomous status within the Catholic Church that transcends geographic boundaries.

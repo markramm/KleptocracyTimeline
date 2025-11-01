@@ -1,0 +1,41 @@
+---
+id: 1995-01-04--tom-delay-elected-majority-whip-k-street-enforcement-architecture
+date: '1995-01-04'
+title: Tom DeLay Elected Majority Whip - Creates K Street PAC Tracking System
+importance: 8
+tags:
+- tom-delay
+- k-street-project
+- lobbying-capture
+- republican-revolution
+- pac-system
+- legislative-control
+actors:
+- Tom DeLay
+- Newt Gingrich
+- Rick Santorum
+- Grover Norquist
+sources:
+- title: The K Street Project and Tom DeLay
+  url: https://www.npr.org/templates/story/story.php?storyId=5157988
+  outlet: NPR
+  date: '2006-01-12'
+- title: K Street Project
+  url: https://www.sourcewatch.org/index.php/K_Street_Project
+  outlet: SourceWatch
+  date: '2024-01-01'
+- title: Republicans take over K Street
+  url: https://www.csmonitor.com/2003/0829/p01s01-uspo.html
+  outlet: Christian Science Monitor
+  date: '2003-08-29'
+- title: The K Street Project and Tom DeLay (Detailed Analysis)
+  url: https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay
+  outlet: NPR
+  date: '2006-01-14'
+status: confirmed
+capture_lanes:
+- Legislative Capture
+- Lobbying Infrastructure
+---
+
+Following the Republican Revolution, Tom DeLay is elected House Majority Whip and implements systematic lobbying control mechanisms. DeLay creates the notorious 'friendly/unfriendly' PAC classification system, maintaining a notebook tracking which of the 400 largest PACs contribute to Republicans vs Democrats. This becomes the enforcement mechanism for the K Street Project, with DeLay telling lobbyists: 'If you want to play in our revolution, you have to live by our rules.' The system fundamentally transforms Washington lobbying by creating explicit pay-to-play requirements. By 2003, an estimated 33 of the top 36 jobs on K Street were held by Republicans, demonstrating the project's profound impact on Washington's lobbying infrastructure.

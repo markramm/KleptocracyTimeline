@@ -27,49 +27,128 @@ Thank you for helping document threats to democracy! This guide will help you co
 
 Search existing events first:
 ```bash
-grep -r "your search term" timeline_data/events/
+grep -r "your search term" timeline/data/events/
 ```
 
-### Step 2: Create Your Event File
+### Step 2: Choose Your Format
 
-Create a new file in `timeline_data/events/` named:
+We support **two formats** for timeline events:
+
+**JSON Format** (`.json`) - Best for:
+- Programmatic creation
+- Strict structure requirements
+- Automated workflows
+
+**Markdown Format** (`.md`) - Best for:
+- Manual editing in text editors
+- Editing directly on GitHub
+- Community contributions
+- Longer, formatted summaries
+
+Both formats are fully equivalent. Use whichever you're more comfortable with!
+
+### Step 3: Create Your Event File
+
+#### Option A: JSON Format
+
+Create a new file in `timeline/data/events/` named:
 ```
-YYYY-MM-DD--brief-description.yaml
+YYYY-MM-DD--brief-description.json
 ```
 
-### Step 3: Use This Template
+**JSON Template:**
 
-```yaml
+```json
+{
+  "id": "YYYY-MM-DD--brief-description",
+  "date": "YYYY-MM-DD",
+  "title": "Factual, neutral title without editorializing",
+  "summary": "Objective description of what happened. Include: What specifically occurred, which institutions/people were involved, what the immediate impact was, and why this represents a systemic issue. Keep it factual. No speculation or editorial language.",
+  "importance": 7,
+  "status": "confirmed",
+  "location": "City, State",
+  "actors": [
+    "Person Name (Role)",
+    "Organization Name"
+  ],
+  "tags": [
+    "democratic-erosion",
+    "regulatory-capture"
+  ],
+  "sources": [
+    {
+      "title": "Exact Article Headline",
+      "url": "https://original-source.com/article",
+      "publisher": "Publication Name",
+      "date": "2024-01-15",
+      "tier": 1,
+      "archive_url": "https://web.archive.org/..."
+    }
+  ]
+}
+```
+
+#### Option B: Markdown Format
+
+Create a new file in `timeline/data/events/` named:
+```
+YYYY-MM-DD--brief-description.md
+```
+
+**Markdown Template:**
+
+```markdown
+---
 id: YYYY-MM-DD--brief-description
-date: 'YYYY-MM-DD'
+date: YYYY-MM-DD
 title: Factual, neutral title without editorializing
-summary: |
-  Objective description of what happened. Include:
-  - What specifically occurred
-  - Which institutions/people were involved
-  - What the immediate impact was
-  - Why this represents a systemic issue
-  
-  Keep it factual. No speculation or editorial language.
-status: pending  # Always start with pending
-location: City, State  # If applicable
+importance: 7
+status: confirmed
+location: City, State
 actors:
   - Person Name (Role)
   - Organization Name
 tags:
   - democratic-erosion
   - regulatory-capture
-  # See full tag list in README
 sources:
   - title: Exact Article Headline
     url: https://original-source.com/article
-    outlet: Publication Name
-    date: '2024-01-15'
-    archived_url: https://web.archive.org/...  # We'll help create this
-notes: |
-  Additional context for researchers (optional)
-  This won't be displayed publicly
+    publisher: Publication Name
+    date: 2024-01-15
+    tier: 1
+    archive_url: https://web.archive.org/...
+---
+
+Objective description of what happened. Include:
+- What specifically occurred
+- Which institutions/people were involved
+- What the immediate impact was
+- Why this represents a systemic issue
+
+Keep it factual. No speculation or editorial language.
+
+## Background
+
+You can use standard Markdown formatting:
+- **Bold** for emphasis
+- *Italics* for titles
+- [Links](https://example.com) for references
+- Lists for clarity
+
+## Significance
+
+Explain why this event matters in the broader context...
 ```
+
+**Benefits of Markdown Format:**
+- ✅ Easier to edit directly on GitHub
+- ✅ Better for longer summaries with formatting
+- ✅ More readable in text editors
+- ✅ Supports headers, lists, bold, italics
+- ✅ Lower barrier to entry for contributors
+
+For complete format documentation, see [timeline/docs/EVENT_FORMAT.md](timeline/docs/EVENT_FORMAT.md)
 
 ### Step 4: Validate Your Event
 
@@ -146,7 +225,7 @@ python3 tools/validation/validate_timeline_dates.py
 python3 tools/validation/validate_timeline_dates.py
 
 # Check for broken links
-python3 tools/archiving/link_check.py timeline_data/events/
+python3 timeline/scripts/check_links.py timeline/data/events/
 
 # Build searchable index
 python3 tools/generation/build_timeline_index.py
@@ -180,19 +259,35 @@ cd viewer && npm install
 - Explain systemic significance
 - Avoid loaded language
 
-### Language to Avoid
-- "Corrupt" (unless quoting)
-- "Dictatorial"
-- "Fascist"
-- "Treasonous"
-- Any partisan labels
+### Language Guidelines for Corruption Timeline
 
-### Language to Use
-- "Violated norm of..."
-- "Previously unprecedented..."
-- "Departed from tradition..."
-- "First time in history..."
-- "Documents show..."
+#### ✅ Appropriate Language
+- **"Corruption"** - When factually documented and sourced
+- **"Financial corruption"** - For monetary conflicts of interest
+- **"Systematic corruption"** - For institutional capture patterns
+- **"Violated norm of..."** - For norm-breaking behavior
+- **"Previously unprecedented..."** - For historical firsts
+- **"Departed from tradition..."** - For institutional changes
+- **"Documents show..."** - For evidence-based claims
+
+#### ⚠️ Use With Caution (Require Strong Sources)
+- **"Corrupt"** as adjective - Should be backed by legal findings or clear evidence
+- **"Fraudulent"** - Requires documentation or legal determinations
+- **"Criminal"** - Only when charges filed or convictions obtained
+
+#### ❌ Language to Avoid
+- **"Dictatorial"** - Use "authoritarian methods" or "executive overreach"
+- **"Fascist"** - Use specific descriptions of actions
+- **"Treasonous"** - Use "violated oath" or "constitutional violations"
+- **Partisan labels** without factual basis
+- **Emotional rhetoric** not supported by evidence
+
+#### 📝 Context Matters
+Since this is a **kleptocracy and corruption timeline**, terms like "corruption," "kleptocracy," and "capture" are appropriate and necessary when:
+1. **Factually accurate** and well-documented
+2. **Supported by credible sources**
+3. **Used descriptively** rather than as political attacks
+4. **Part of institutional analysis** rather than personal insults
 
 ## 🛡️ Archiving Sources
 

@@ -1,0 +1,48 @@
+---
+id: 2025-03-07--musk-s-spacex-confirms-starlink-lease-agreement-with-faa
+date: '2025-03-07'
+title: SpaceX Confirms Starlink Loan Agreement with FAA for Infrastructure Testing
+actors:
+- Elon Musk
+- SpaceX
+- FAA
+- L3Harris Technologies
+- Verizon
+- Sean Duffy
+importance: 6
+location: Washington, D.C.
+capture_lanes:
+- Systematic Corruption
+- Technological Infrastructure
+capture_type: infrastructure_capture
+patterns:
+- kleptocratic-capture
+- regulatory-infrastructure
+tags:
+- kleptocracy
+- technology
+- infrastructure
+- government-contracts
+sources:
+- date: '2025-03-06'
+  outlet: Fox Business
+  title: SpaceX denies Starlink 'take over' of FAA contract, as Verizon $2.4B air
+    traffic control deal hangs in balance
+  url: https://www.foxbusiness.com/politics/spacex-denies-starlink-take-over-faa-contract-verizon-air-traffic-control-deal-hangs-balance
+- date: '2025-03-01'
+  outlet: Fortune
+  title: SpaceX's Starlink could have some advantages over Verizon in bid for FAA
+    contract takeover, experts say
+  url: https://fortune.com/2025/03/01/spacex-starlink-verizon-faa-contract-conflict-of-interest-safety/
+- date: '2025-02-25'
+  outlet: CBS News
+  title: Elon Musk's Starlink in line for deal with FAA, raising potential ethical
+    concerns
+  url: https://www.cbsnews.com/news/starlink-faa-contract-elon-musk-conflict-of-interest/
+status: confirmed
+notes: Event highlights potential regulatory capture through infrastructure technology
+  contracts. Loan agreement raises conflict of interest questions due to Musk's government
+  role.
+---
+
+SpaceX confirmed a loan agreement with L3Harris to provide Starlink satellite communication terminals to the FAA for infrastructure testing, specifically in Alaska. The agreement involves providing 4,000 Starlink kits free of charge for an initial evaluation period, raising potential conflict of interest concerns given Musk's role in the Trump administration.

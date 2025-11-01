@@ -1,0 +1,39 @@
+---
+id: 2005-01-07--armstrong-williams-paid-40k-for-illegal-government
+date: '2005-01-07'
+importance: 7
+title: Armstrong Williams Paid 40K for Illegal Government Propaganda
+actors:
+- Armstrong Williams
+- Rod Paige
+- Department of Education
+- Ketchum Inc
+- Maggie Gallagher
+tags:
+- propaganda
+- media-manipulation
+- nclb
+- armstrong-williams
+- gao
+status: confirmed
+sources:
+- title: Department of Education Contract to Obtain Services of Armstrong Williams
+  url: https://www.gao.gov/products/b-305368
+  outlet: Government Accountability Office
+  date: '2005-09-30'
+- title: Administration Paid Commentator
+  url: https://www.washingtonpost.com/wp-dyn/articles/A56330-2005Jan7.html
+  outlet: Washington Post
+  date: '2005-01-07'
+- title: 'GAO: Education Dept. PR Deal With Armstrong Williams Violated Law'
+  url: https://www.edweek.org/policy-politics/gao-education-dept-s-pr-deal-with-armstrong-williams-violated-law/2005/10
+  outlet: Education Week
+  date: '2005-10-01'
+capture_lanes:
+- Media Capture & Control
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+---
+
+The Department of Education violated federal law by paying conservative commentator Armstrong Williams 40,000 through Ketchum Inc. PR firm to promote the No Child Left Behind Act without disclosing the government funding to audiences. Williams regularly promoted NCLB on his syndicated TV and radio shows, interviewed Education Secretary Rod Paige in government-funded segments, and encouraged other black journalists to cover the program favorably while hiding his financial relationship with the government. The GAO found this constituted 'covert propaganda' in violation of federal publicity prohibitions and the Antideficiency Act. Two other journalists, Maggie Gallagher (1,500 from HHS) and Michael McManus (0,000 from HHS), were similarly paid to promote Bush's marriage initiative without disclosure. The scandal represented systematic illegal government-funded media manipulation, with the GAO explicitly finding violations of federal law prohibiting covert propaganda operations within the United States. Williams' contract required him to regularly comment on NCLB during the school year and interview Paige at least once, creating a direct quid pro quo between taxpayer money and favorable media coverage.

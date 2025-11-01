@@ -1,0 +1,37 @@
+---
+id: 1996-06-20--trump-acquires-miss-universe-organization-from-itt
+date: '1996-06-20'
+importance: 6
+title: Trump Acquires Miss Universe Organization from ITT Corp
+actors:
+- Donald Trump
+- ITT Corporation
+- Madison Square Garden
+tags:
+- business-dealings
+- pageants
+- exploitation
+status: confirmed
+sources:
+- title: Donald Trump Buys Miss Universe Organization
+  url: https://variety.com/1996/tv/news/donald-trump-miss-universe-117335723/
+  outlet: Variety
+  date: '1996-06-20'
+- title: Trump Acquires Miss Universe Pageants
+  url: https://www.forbes.com/sites/noahkirsch/2016/10/12/this-is-how-donald-trump-owned-miss-universe/
+  outlet: Forbes
+  date: '2016-10-12'
+- title: Donald Trump Buys the Miss Universe Organization from ITT Corp
+  url: https://trumpfile.org/donald-trump-buys-the-miss-universe-pageant/
+  outlet: Trump File
+  date: '1996-06-20'
+- title: NBC and Donald Trump's Miss Universe Business Relationship Explained
+  url: https://money.cnn.com/2015/09/11/media/donald-trump-miss-universe/
+  outlet: CNN Money
+  date: '2015-09-11'
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+---
+
+Donald Trump purchases the Miss Universe Organization, including Miss USA and Miss Teen USA pageants, from ITT Corp and Madison Square Garden. This acquisition establishes infrastructure later used for alleged exploitation patterns. Trump would later admit judges were too focused on intelligence, stating he wasn't interested in contestants who had become doctors.

@@ -1,0 +1,24 @@
+{
+  "id": "RT-TTT-2025-BATCH1-ELECTION-INFRASTRUCTURE",
+  "title": "Election Infrastructure Capture Coordination",
+  "description": "Systematic documentation of election official targeting, fake elector schemes, and voting system capture efforts. Identified 170 pattern instances showing coordinated attempts to control election infrastructure.",
+  "research_questions": [
+    "What are the specific mechanisms used for election infrastructure capture?",
+    "Who are the key actors coordinating election official targeting?",
+    "What timeline evidence exists for systematic voting system manipulation?",
+    "How do fake elector schemes connect to broader election subversion efforts?",
+    "Which states and jurisdictions show evidence of election infrastructure capture?"
+  ],
+  "expected_events": "12-18",
+  "priority_level": "CRITICAL",
+  "status": "pending",
+  "source_analysis": "Trump Tyranny Tracker Batch 1 Analysis - 170 election infrastructure patterns identified across 45 articles",
+  "creation_date": "2025-09-10T10:55:05.463575",
+  "tags": [
+    "election",
+    "infrastructure",
+    "fake-electors",
+    "election-officials",
+    "voting-systems"
+  ]
+}

@@ -1,0 +1,61 @@
+---
+date: '2016-04-03'
+title: Panama Papers Released - Massive Global Financial Scandal Exposed
+actors:
+- International Consortium of Investigative Journalists
+- Mossack Fonseca
+- Vladimir Putin
+- Petro Poroshenko
+- Nawaz Sharif
+- Sigmundur Davíð Gunnlaugsson
+- Süddeutsche Zeitung
+- Gerard Ryle
+sources:
+- outlet: International Consortium of Investigative Journalists (ICIJ)
+  title: 'Panama Papers: Exposing the Rogue Offshore Finance Industry'
+  url: https://www.icij.org/investigations/panama-papers/
+  date: '2016-04-03'
+- outlet: Süddeutsche Zeitung
+  title: 'Panama Papers: How the Investigation Began'
+  url: https://panamapapers.sueddeutsche.de/articles/56f2b7f8a1bb8d3c3495a196/
+  date: '2016-04-03'
+- outlet: The Guardian
+  title: 'Panama Papers: Months of Investigations Reveal Global Offshore Secrets'
+  url: https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore
+  date: '2016-04-03'
+- outlet: BBC News
+  title: 'Panama Papers: Global Reaction to Massive Offshore Leak'
+  url: https://www.bbc.com/news/world-35918844
+  date: '2016-04-03'
+importance: 10
+tags:
+- corruption
+- offshore-finance
+- money-laundering
+- tax-evasion
+- leaks
+- kleptocracy
+- panama-papers
+status: confirmed
+id: 2016-04-03--panama-papers-released--massive-global-financial-scandal-exposed-1757455465
+priority_id: RT-COMPLETED-PATTERN-20250906-35
+capture_lanes:
+- Media Capture & Control
+- Regulatory Capture
+- Financial Capture
+- Intelligence Penetration
+- Executive Power Expansion
+sources_replaced: 4
+sources_verified: 4
+dates_added: 4
+validation_metadata:
+  last_corrected: '2025-09-16T19:13:46.522081'
+  corrected_by: source-qa-5-bulk-retry
+  validation_log_id: 127
+  corrections_applied:
+  - 'dates_added: ''4'' → ''4'''
+  - 'sources_replaced: ''4'' → ''4'''
+  - 'sources_verified: ''4'' → ''4'''
+---
+
+The International Consortium of Investigative Journalists (ICIJ) released the Panama Papers, a collection of 11.5 million leaked documents from the Panamanian law firm Mossack Fonseca. The documents revealed how wealthy individuals and public officials used offshore shell companies to hide assets and avoid taxes. The leak implicated 140 politicians and public officials from around the world, including 12 current and former heads of state. Key figures included Vladimir Putin's associates, Ukrainian President Petro Poroshenko, Pakistani Prime Minister Nawaz Sharif, and members of China's Politburo. The papers showed systematic use of tax havens, money laundering schemes, and sanctions evasion. The leak led to numerous investigations, resignations, and legal proceedings worldwide, including the resignation of Iceland's Prime Minister Sigmundur Davíð Gunnlaugsson. Mossack Fonseca was forced to shut down in 2018. The scandal highlighted the global scale of offshore financial systems used to facilitate corruption and tax avoidance, exposing how the global elite systematically exploited legal loopholes to hide wealth.

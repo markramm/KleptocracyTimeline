@@ -1,0 +1,39 @@
+---
+date: '1997-01-01'
+title: Koch Industries Launches Massive Climate Denial Funding Network
+actors:
+- Koch Industries
+- Charles Koch
+- David Koch
+- Koch Family Foundations
+- Cato Institute
+- Heritage Foundation
+- Heartland Institute
+- Americans for Prosperity
+- ALEC
+importance: 9
+tags:
+- climate-denial
+- regulatory-capture
+- fossil-fuels
+- think-tank-funding
+- political-influence
+sources:
+- outlet: Greenpeace
+  title: 'Koch Industries: Secretly Funding the Climate Denial Machine'
+  url: https://www.greenpeace.org/usa/koch-industries-secretly-fund/
+- outlet: Greenpeace Research
+  title: Koch Climate Opposition Funding
+  url: https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-climate-opposition-funding/
+- outlet: Scientific American
+  title: Who Funds Contrariness on Climate Change?
+  url: https://www.scientificamerican.com/article/who-funds-contrariness-on/
+status: confirmed
+id: 1997-01-01--koch-industries-launches-massive-climate-denial-fu
+priority_id: claude-priority-climate-denial-fossil-fuel-network
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+---
+
+Koch Family Foundations began systematic funding of climate science denial and clean energy opposition, eventually spending $145,555,197 directly financing 90 groups attacking climate science and policy solutions from 1997-2018. The Koch network funneled $127,006,756 to 92 organizations from 1997-2017 that advanced attacks on climate science while presenting themselves as credible experts. Major recipients included the Cato Institute (which Charles Koch cofounded in 1977), American Enterprise Institute, Heritage Foundation, Heartland Institute, Americans for Prosperity, and Manhattan Institute. This wealth derived mainly from fossil fuel operations including oil refineries in Alaska, Texas, and Minnesota, plus 4,000 miles of pipeline, making Koch Industries "one of the primary sources of carbon pollution in the United States." The network employed regulatory capture through groups like the American Legislative Exchange Council (ALEC) to lobby government officials using fake science produced by right-wing think tanks. A 2010 Greenpeace report found Koch Industries had become the leading funder of climate disinformation, outdoing even ExxonMobil.

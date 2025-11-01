@@ -1,0 +1,16 @@
+{
+  "id": "RT-1598B26C",
+  "title": "Election Denial Infrastructure",
+  "description": "Map Big Lie infrastructure and election denial institutionalization efforts",
+  "priority": "critical",
+  "tags": [
+    "big_lie",
+    "election_denial",
+    "democracy_threat"
+  ],
+  "capture_lane": "electoral",
+  "decade": "2020s",
+  "created": "2025-09-09T21:17:43.464756",
+  "status": "pending",
+  "category": "capture_research"
+}

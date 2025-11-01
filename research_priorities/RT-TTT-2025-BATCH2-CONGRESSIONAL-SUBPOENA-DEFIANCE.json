@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-CONGRESSIONAL-SUBPOENA-DEFIANCE",
+  "title": "TTT Batch 2: Congressional Oversight Obstruction and Subpoena Defiance",
+  "description": "Systematic analysis of congressional oversight obstruction and subpoena defiance operations based on Trump Tyranny Tracker documentation. Found 17 instances across articles 46-90. Research subpoena defiance strategies, testimony obstruction, contempt proceedings, executive privilege claims, and congressional oversight undermining. Focus on specific cases, targeted investigations, and obstruction coordination.",
+  "expected_events": 9,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "congressional-obstruction",
+    "subpoena-defiance",
+    "systematic-corruption"
+  ],
+  "timeline_focus": "2017-2025",
+  "actors": [
+    "White House",
+    "Executive Agencies",
+    "Congressional Committees",
+    "DOJ"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348748",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

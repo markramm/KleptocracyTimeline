@@ -1,0 +1,68 @@
+{
+  "id": "RT-004-enron-cheney-connection",
+  "title": "Enron-Cheney Energy Task Force Connection",
+  "description": "Document Kenneth Lay's 6+ meetings with Cheney (April-May 2001), include Enron's energy policy recommendations adopted verbatim, track timeline to Enron collapse (December 2, 2001), document destroyed/hidden meeting records from the secret Energy Task Force.",
+  "priority": 8,
+  "status": "pending",
+  "category": "corporate-capture",
+  "tags": [
+    "enron",
+    "cheney",
+    "energy",
+    "corruption",
+    "corporate-capture",
+    "kenneth-lay"
+  ],
+  "estimated_events": 2,
+  "actual_events": 0,
+  "created_date": "2025-01-05",
+  "updated_date": "2025-09-06",
+  "triggered_by": [
+    "2001-01-29--cheney-creates-secret-energy-task-force-with-oil-e"
+  ],
+  "key_sources": [
+    {
+      "title": "GAO attempts to obtain energy task force records",
+      "type": "government-report",
+      "credibility": 9,
+      "why": "Official efforts to document corporate influence"
+    },
+    {
+      "title": "Judicial Watch FOIA litigation documents",
+      "type": "legal-documents",
+      "credibility": 8,
+      "why": "Court battle over task force secrecy"
+    },
+    {
+      "title": "Corporate lobbying disclosure forms 2001-2003",
+      "type": "government-documents",
+      "credibility": 9,
+      "why": "Official records of Enron lobbying activity"
+    }
+  ],
+  "expected_outcomes": [
+    "Reveals corporate war profiteering coordination predating public war justifications",
+    "Documents systematic policy capture by energy corporations",
+    "Shows destruction of evidence patterns"
+  ],
+  "connections": [
+    {
+      "to": "RT-001-whig-propaganda-campaign",
+      "type": "precursor",
+      "description": "Energy task force preceded Iraq war planning coordination"
+    }
+  ],
+  "actors_to_investigate": [
+    "Kenneth Lay",
+    "Dick Cheney",
+    "Enron executives",
+    "David Addington"
+  ],
+  "time_period": "2001",
+  "constitutional_issues": [
+    "transparency",
+    "corporate influence",
+    "public records"
+  ],
+  "estimated_importance": 8
+}

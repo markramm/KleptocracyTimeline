@@ -1,0 +1,46 @@
+---
+id: 2025-02-15--example-trump-doj-weaponization-event
+date: '2025-02-15'
+title: Trump Administration Systematically Removes DOJ Prosecutors
+importance: 9
+location: Washington, D.C.
+actors:
+- James McHenry
+- Michael Ben'Ary
+- Jack Smith
+- Donald Trump
+- U.S. Department of Justice
+- Federal Prosecutors
+sources:
+- outlet: NBC News
+  title: Trump Administration Fires DOJ Officials Who Worked on Criminal Investigations
+    of the President
+  url: https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512
+  date: '2025-02-15'
+- outlet: CNN Politics
+  title: Justice Department Fires Prosecutor Falsely Tied to Comey Case
+  url: https://www.cnn.com/2025/10/01/politics/justice-department-prosecutor-fired-comey-case
+  date: '2025-02-15'
+- outlet: NPR
+  title: Justice Department Moves to Fire Officials Who Investigated Trump
+  url: https://www.npr.org/2025/01/27/nx-s1-5276334/justice-department-firings-trump-special-counsel-jack-smith
+  date: '2025-02-15'
+capture_lanes:
+- Regulatory Capture
+- Political Capture
+- Judicial Interference
+tags:
+- doj-weaponization
+- prosecutorial-independence
+- trump-administration
+- political-retaliation
+- rule-of-law
+- special-counsel-investigation
+status: confirmed
+implications:
+- Systematic undermining of prosecutorial independence
+- Potential obstruction of ongoing investigations
+- Escalation of executive branch power consolidation
+---
+
+The Trump administration initiated a widespread purge of federal prosecutors, particularly those who previously investigated the president. Over 40 career prosecutors were fired without warning, with the acting attorney general claiming they could not be 'trusted to faithfully implement the President's agenda'. Key targets included prosecutors involved in special counsel Jack Smith's investigations into Trump's handling of classified documents and attempts to overturn the 2020 election.

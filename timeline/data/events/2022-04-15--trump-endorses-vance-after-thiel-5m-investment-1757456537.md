@@ -1,0 +1,50 @@
+---
+date: '2022-04-15'
+title: Trump Endorses Vance Following Thiel's $15 Million Strategic Political Investment
+actors:
+- Donald Trump
+- J.D. Vance
+- Peter Thiel
+- Donald Trump Jr.
+- Protect Ohio Values SuperPAC
+importance: 9
+sources:
+- outlet: Bloomberg
+  title: Thiel Deepens JD Vance Bet With $3.5 Million After Trump Backing
+  url: https://www.bloomberg.com/news/articles/2022-04-20/thiel-deepens-jd-vance-bet-with-3-5-million-after-trump-backing
+  access_date: '2025-09-17'
+- outlet: Fox Business
+  title: Trump, Vance Campaign Eyes Peter Thiel's Support
+  url: https://www.foxbusiness.com/politics/trump-vance-campaign-eyes-peter-thiels-support-tech-billionaire-stays-mum
+  access_date: '2025-09-17'
+- outlet: CBS News
+  title: The Billionaire Who Fueled JD Vance's Rapid Rise to the Trump VP Spot
+  url: https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/
+  access_date: '2025-09-17'
+tags:
+- trump-endorsement
+- thiel-super-pac
+- campaign-finance
+- political-influence
+- oligarchic-infrastructure
+status: confirmed
+id: 2022-04-15--trump-endorses-vance-after-thiel-5m-investment-1757456537
+priority_id: jd-vance-pdf-analysis-1757456537
+capture_lanes:
+- Political Influence Networks
+- Campaign Finance Manipulation
+- Oligarchic Political Infrastructure
+location: Delaware, Ohio
+---
+
+In April 2022, Donald Trump endorsed J.D. Vance for the Ohio Senate race, a pivotal moment facilitated by Peter Thiel's unprecedented $15 million investment in the Protect Ohio Values SuperPAC. This financial backing marked the most expensive single Senate candidate support in state history, demonstrating the profound influence of tech billionaire oligarchs in contemporary political campaigns.
+
+Key Developments:
+- Thiel donated $15 million to Vance's campaign
+- Trump endorsed Vance despite previous criticisms
+- Strategic alignment between tech billionaires and Trump's political network
+
+Implications:
+- Revealed the role of concentrated wealth in political endorsements
+- Demonstrated billionaire influence in shaping political candidacies
+- Highlighted the interconnected nature of tech oligarchy and political power

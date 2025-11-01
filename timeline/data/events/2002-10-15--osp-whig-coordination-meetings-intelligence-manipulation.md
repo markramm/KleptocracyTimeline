@@ -1,0 +1,45 @@
+---
+id: 2002-10-15--osp-whig-coordination-meetings-intelligence-manipulation
+date: '2002-10-15'
+importance: 8
+title: OSP-WHIG Coordination Establishes Systematic Intelligence Manipulation Pipeline
+actors:
+- Office of Special Plans
+- White House Iraq Group
+- Douglas Feith
+- Karl Rove
+- Scooter Libby
+- Michael Maloof
+- David Wurmser
+- Karen Kwiatkowski
+tags:
+- osp
+- whig
+- intelligence-manipulation
+- feith
+- coordination
+- pentagon-whitehouse
+- iraq-intelligence
+- systematic-deception
+status: confirmed
+sources:
+- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense
+    for Policy
+  url: https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF
+  outlet: Pentagon Inspector General
+  date: '2007-02-09'
+- title: The Lie Factory
+  url: https://www.motherjones.com/politics/2004/01/lie-factory/
+  outlet: Mother Jones
+  date: '2004-01-01'
+- title: 'Selling the Iraq War: The White House Iraq Group'
+  url: https://www.commonweal.org/selling-iraq-war
+  outlet: Commonweal Magazine
+  date: '2003-09-26'
+capture_lanes:
+- Legislative Capture
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+Pentagon's Office of Special Plans under Douglas Feith establishes regular coordination protocols with the White House Iraq Group to create an intelligence manipulation pipeline that bypassed traditional CIA vetting processes. OSP officials including Michael Maloof and David Wurmser met regularly with WHIG coordinators Karl Rove and Scooter Libby to coordinate the production and dissemination of fabricated intelligence reports. The Pentagon Inspector General later found that OSP developed 'alternative intelligence assessments on the Iraq and al-Qaida relationship' specifically designed for WHIG's propaganda campaign, presenting 'conclusions that were not fully supported by available intelligence' directly to senior policymakers. This coordination created what Karen Kwiatkowski, an NSA officer assigned to OSP, described as 'a propaganda shop' where 'intelligence was being cooked' to support predetermined policy conclusions. The OSP-WHIG pipeline systematically transformed speculative raw intelligence into authoritative-sounding briefings that WHIG then used to justify the Iraq invasion. This institutional coordination represented a fundamental corruption of the intelligence process, creating parallel channels that deliberately circumvented CIA analysis and quality controls to manufacture the appearance of intelligence consensus supporting the administration's war plans.

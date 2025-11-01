@@ -1,0 +1,55 @@
+---
+id: 2023-06-02--youtube-election-policy
+title: YouTube stops removing false claims about past U.S. elections
+date: '2023-06-02'
+importance: 5
+location: Online
+actors:
+- YouTube
+- Google
+tags:
+- platform-policy
+- elections
+- content-moderation
+- youtube
+- platforms
+capture_lanes:
+- Election System Attack
+- Information & Media Control
+citations:
+- url: https://support.google.com/youtube/answer/10835034
+  archived: https://web.archive.org/web/20240101000000/https://support.google.com/youtube/answer/10835034
+- url: https://www.axios.com/2023/06/02/us-election-fraud-youtube-policy
+  archived: https://web.archive.org/web/20240101000000/https://www.axios.com/2023/06/02/us-election-fraud-youtube-policy
+- url: https://blog.youtube/inside-youtube/us-election-misinformation-update-2023
+  archived: https://web.archive.org/web/20240101000000/https://blog.youtube/inside-youtube/us-election-misinformation-update-2023
+- url: https://www.reuters.com/technology/youtube-stop-removing-content-making-false-claims-past-elections-2023-06-02
+  archived: https://web.archive.org/web/20240101000000/https://www.reuters.com/technology/youtube-stop-removing-content-making-false-claims-past-elections-2023-06-02
+- url: https://blog.youtube/news-and-events/our-approach-to-2024-elections
+  archived: https://webcache.googleusercontent.com/search?q=cache:https://blog.youtube/news-and-events/our-approach-to-2024-elections
+- url: https://www.cnn.com/2023/06/02/tech/youtube-election-misinformation-policy/index.html
+  archived: https://webcache.googleusercontent.com/search?q=cache:https://www.cnn.com/2023/06/02/tech/youtube-election-misinformation-policy/index.html
+- url: https://www.npr.org/2023/06/02/1179864026/youtube-will-no-longer-take-down-false-claims-about-u-s-elections
+  archived: https://web.archive.org/web/20240101000000/https://www.npr.org/2023/06/02/1179864026/youtube-will-no-longer-take-down-false-claims-about-u-s-elections
+status: confirmed
+sources:
+- title: An update on our approach to US election misinformation
+  url: https://blog.youtube/inside-youtube/us-election-misinformation-update-2023
+  outlet: YouTube Official Blog
+  date: '2023-06-02'
+- title: YouTube Reverses Misinformation Policy on 2020 Election
+  url: https://www.nytimes.com/2023/06/02/technology/youtube-election-misinformation-policy.html
+  outlet: New York Times
+  date: '2023-06-02'
+  archive_url: https://web.archive.org/web/20250814194913/https://www.nytimes.com/
+- title: YouTube will now allow 2020 election denialism content, in policy reversal
+  url: https://www.cnn.com/2023/06/02/business/youtube-election-misinformation-policy/index.html
+  outlet: CNN
+  date: '2023-06-02'
+- title: YouTube stops taking down election denial content
+  url: https://www.npr.org/2023/06/02/1179864026/youtube-will-no-longer-take-down-false-claims-about-u-s-elections
+  outlet: NPR
+  date: '2023-06-02'
+---
+
+YouTube announced it would no longer remove content alleging fraud in past U.S. elections, shifting to context labels and recommendation interventions.

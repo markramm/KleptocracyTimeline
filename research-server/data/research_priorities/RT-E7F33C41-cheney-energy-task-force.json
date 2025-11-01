@@ -1,0 +1,16 @@
+{
+  "id": "RT-E7F33C41",
+  "title": "Cheney Energy Task Force",
+  "description": "Investigate Cheney's secret energy industry meetings and regulatory capture blueprint",
+  "priority": "high",
+  "tags": [
+    "cheney",
+    "energy_task_force",
+    "oil_industry"
+  ],
+  "capture_lane": "regulatory",
+  "decade": "2000s",
+  "created": "2025-09-09T21:17:43.464108",
+  "status": "pending",
+  "category": "capture_research"
+}

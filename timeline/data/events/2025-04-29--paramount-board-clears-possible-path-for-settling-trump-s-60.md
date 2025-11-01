@@ -1,0 +1,49 @@
+---
+id: 2025-04-29--paramount-board-clears-possible-path-for-settling-trump-s-60
+date: '2025-04-29'
+title: Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit
+description: Paramount’s board–which is pursuing a merger deal with Skydance that
+  would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses
+  60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- kleptocracy
+- corruption
+capture_type: monetizing_position
+sources:
+- title: Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit
+  url: https://www.nytimes.com/2025/04/29/business/media/paramount-cbs-60-minutes-trump-lawsuit.html
+  outlet: New York Times
+  date: '2025-04-29'
+- title: Paramount agrees to pay 16 million to settle Trump's lawsuit over 60 Minutes
+  url: https://www.nbcnews.com/news/us-news/paramount-agrees-pay-16-million-settle-trumps-lawsuit-60-minutes-kamal-rcna216419
+  outlet: NBC News
+  date: '2025-07-02'
+- title: Paramount Settles Donald Trump Lawsuit, Clearing Path For Skydance Merger
+  url: https://deadline.com/2025/07/trump-lawsuit-60-minutes-lawsuit-settled-1236447496/
+  outlet: Deadline
+  date: '2025-07-02'
+- title: Paramount agrees to settle Trump lawsuit for 16 million over 60 Minutes interview
+  url: https://www.axios.com/2025/07/02/trump-paramount-cbs-harris-interview-lawsuit-settlement
+  outlet: Axios
+  date: '2025-07-02'
+- title: Paramount Offers Trump Millions To End 60 Minutes Suit & Clear Skydance Merger
+  url: https://deadline.com/2025/05/trump-paramount-settlement-offer-1236412894/
+  outlet: Deadline
+  date: '2025-05-28'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: High-priority kleptocratic event from comprehensive timeline.
+_merge_note: 'Enhanced with information from duplicate event: 2025-04-29--paramount-board-clears-possible-path-for-settling-'
+_merge_timestamp: '2025-09-05T23:46:55.900070'
+capture_lanes:
+- Electoral Manipulation
+---
+
+Paramount’s board–which is pursuing a merger deal with Skydance that would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses 60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris

@@ -1,0 +1,66 @@
+{
+  "id": "geopolitics-a5d08edb",
+  "title": "Constitutional War Powers and Regional Proxy Conflicts",
+  "description": "Examine constitutional questions raised by U.S. involvement in regional conflicts through proxy relationships, defense partnerships, and intelligence sharing arrangements.",
+  "priority": 8,
+  "status": "pending",
+  "category": "constitutional-analysis",
+  "tags": [
+    "war-powers",
+    "constitutional-law",
+    "proxy-conflicts",
+    "congressional-oversight"
+  ],
+  "estimated_events": 4,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Regional Power Dynamics After Israeli Strikes on Iran_ Saudi Arabia's Strategic Advantage.pdf",
+  "created_by": "pdf-agent-6-additional",
+  "time_period": "2001-2025",
+  "constitutional_issues": [
+    "war-powers-resolution",
+    "congressional-authorization",
+    "executive-overreach"
+  ],
+  "actors_to_investigate": [
+    "Congressional oversight committees",
+    "Executive branch foreign policy officials",
+    "Constitutional law scholars",
+    "Military leadership",
+    "Intelligence community leaders"
+  ],
+  "key_sources": [
+    {
+      "title": "Congressional testimony on war powers and regional conflicts",
+      "type": "government-records",
+      "credibility": 10,
+      "why": "Official legislative oversight of executive foreign policy actions"
+    },
+    {
+      "title": "Constitutional law scholarship on proxy conflict authorization",
+      "type": "academic-research",
+      "credibility": 8,
+      "why": "Expert analysis of constitutional frameworks for regional involvement"
+    },
+    {
+      "title": "Executive branch legal memoranda on regional military operations",
+      "type": "legal-documents",
+      "credibility": 9,
+      "why": "Official justifications for regional military involvement"
+    }
+  ],
+  "expected_outcomes": [
+    "Document constitutional questions in regional proxy relationships",
+    "Analyze congressional oversight gaps in regional conflict involvement",
+    "Map executive branch legal justifications for regional operations",
+    "Evaluate constitutional frameworks for modern proxy conflicts"
+  ],
+  "research_questions": [
+    "What constitutional authorization exists for U.S. involvement in regional proxy conflicts?",
+    "How do defense partnerships with regional powers affect congressional war powers?",
+    "What oversight mechanisms apply to intelligence sharing in regional conflicts?",
+    "How do regional conflicts challenge traditional war powers frameworks?"
+  ],
+  "estimated_importance": 8
+}

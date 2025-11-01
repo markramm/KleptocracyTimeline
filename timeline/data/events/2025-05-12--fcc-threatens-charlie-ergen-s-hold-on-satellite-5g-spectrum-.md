@@ -1,0 +1,43 @@
+---
+id: 2025-05-12--fcc-threatens-charlie-ergen-s-hold-on-satellite-5g-spectrum-
+date: '2025-05-12'
+title: FCC Launches Inquiry into EchoStar's Satellite Spectrum Utilization
+actors:
+- Brendan Carr
+- Charlie Ergen
+- SpaceX
+- EchoStar
+- Elon Musk
+capture_lanes:
+- Regulatory Capture
+- Telecommunications Infrastructure
+capture_type: regulatory_manipulation
+importance: 7
+location: Washington, D.C.
+tags:
+- telecommunications
+- spectrum-allocation
+- regulatory-inquiry
+- 5g
+- satellite-communication
+sources:
+- title: FCC Launches Inquiry into EchoStar After SpaceX Questions Its Spectrum Use
+  url: https://www.satellitetoday.com/government-military/2025/05/13/fcc-launches-inquiry-into-echostar-after-spacex-questions-its-use-of-mss-spectrum/
+  outlet: Via Satellite
+  date: '2025-05-13'
+- title: SpaceX Buying EchoStar Satellite Spectrum for $17 Billion
+  url: https://broadbandbreakfast.com/spacex-buying-echostar-satellite-spectrum-for-17-billion/
+  outlet: Broadband Breakfast
+  date: '2025-09-08'
+- title: SpaceX Buying EchoStar Satellite Spectrum in $17B Deal After FCC Inquiry
+  url: https://www.fierce-network.com/wireless/spacex-scoops-echostar-spectrum-17b
+  outlet: Fierce Network
+  date: '2025-09-15'
+connections:
+- 2025-09-08--spacex-echostar-17b-spectrum-sale
+status: confirmed
+notes: Regulatory inquiry led to significant spectrum license sale. Demonstrates complex
+  telecommunications infrastructure capture mechanisms.
+---
+
+FCC Chairman Brendan Carr initiated an official inquiry into EchoStar's Mobile Satellite Services (MSS) spectrum utilization after SpaceX challenged the company's license compliance. SpaceX alleged EchoStar was using less than 5% of its allocated spectrum, potentially setting the stage for license reallocation. This inquiry coincided with broader FCC efforts to optimize spectrum efficiency and promote 5G and satellite communication infrastructure.

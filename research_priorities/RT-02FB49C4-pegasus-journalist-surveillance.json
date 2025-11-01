@@ -1,0 +1,16 @@
+{
+  "id": "RT-02FB49C4",
+  "title": "Pegasus Journalist Surveillance",
+  "description": "Document Pegasus spyware proliferation for journalist and dissident surveillance",
+  "priority": "critical",
+  "tags": [
+    "pegasus",
+    "nso_group",
+    "journalist_surveillance"
+  ],
+  "capture_lane": "intelligence",
+  "decade": "2020s",
+  "created": "2025-09-09T21:17:43.464803",
+  "status": "pending",
+  "category": "capture_research"
+}

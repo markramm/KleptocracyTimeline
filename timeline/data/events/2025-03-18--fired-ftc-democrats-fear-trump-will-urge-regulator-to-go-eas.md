@@ -1,0 +1,48 @@
+---
+id: 2025-03-18--fired-ftc-democrats-fear-trump-will-urge-regulator-to-go-eas
+date: '2025-03-18'
+title: Fired FTC Democrats fear Trump will urge regulator to go easy on his Big Tech
+  donors
+description: Trump fired Democratic FTC commissioners in possible effort to obstruct
+  antitrust investigations of big tech firms
+status: confirmed
+importance: 9
+location: Washington, D.C.
+actors:
+- Donald Trump
+- Trump Administration
+tags:
+- regulatory-capture
+capture_type: personnel_rewiring
+sources:
+- title: Fired FTC Democrats fear Trump will urge regulator to go easy on his Big
+    Tech donors
+  url: https://www.nbcnews.com/tech/tech-news/fired-ftc-commissioners-fear-trump-will-go-easy-big-tech-donors-rcna197128
+  outlet: NBC News
+  date: '2025-03-18'
+- title: Trump fires Democratic FTC commissioners
+  url: https://www.axios.com/2025/03/18/trump-fires-democratic-ftc-commissioners
+  outlet: Axios
+  date: '2025-03-18'
+- title: Fired FTC commissioner warns of a Trump power grab
+  url: https://www.npr.org/2025/03/20/nx-s1-5333640/ftc-trump-firings-democrats
+  outlet: NPR
+  date: '2025-03-20'
+- title: Trump fires FTC commissioners, setting up a legal battle
+  url: https://techcrunch.com/2025/03/18/trump-fires-ftc-commissioners-setting-up-a-legal-battle/
+  outlet: TechCrunch
+  date: '2025-03-18'
+- title: FTC commissioner fired by Trump says move threatens agency designed to protect
+    consumers
+  url: https://www.pbs.org/newshour/show/ftc-commissioner-fired-by-trump-says-move-threatens-agency-designed-to-protect-consumers
+  outlet: PBS NewsHour
+  date: '2025-03-18'
+connections: []
+patterns:
+- kleptocratic-capture
+notes: Event from comprehensive kleptocracy timeline tracking.
+capture_lanes:
+- Regulatory Capture
+---
+
+Trump fired Democratic FTC commissioners in possible effort to obstruct antitrust investigations of big tech firms

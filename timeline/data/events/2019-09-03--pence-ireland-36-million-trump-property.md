@@ -1,0 +1,43 @@
+---
+id: 2019-09-03--pence-ireland-36-million-trump-property
+date: '2019-09-03'
+importance: 5
+title: Pence's Ireland Trip Costs $3.6 Million with Detour to Trump Property
+location: Doonbeg, Ireland
+actors:
+- Mike Pence
+- Trump International Golf Links & Hotel Doonbeg
+- Secret Service
+- US State Department
+tags:
+- emoluments
+- domestic-emoluments
+- trump-properties
+- taxpayer-waste
+- conflict-of-interest
+status: confirmed
+sources:
+- title: Pence's Doonbeg detour cost nearly $600,000 in limousines. And that's just
+    the start
+  url: https://www.washingtonpost.com/politics/pences-doonbeg-detour-cost-nearly-600000-in-limousines-and-thats-just-the-start/2019/09/25/d346e4f8-dd8f-11e9-b199-f638bf2c340f_story.html
+  outlet: The Washington Post
+  date: '2019-09-25'
+- title: Mike Pence's stay at Trump's Doonbeg resort in Ireland cost taxpayers nearly
+    $600K
+  url: https://www.usatoday.com/story/news/politics/2019/09/24/mike-pence-stay-trump-doonbeg-ireland-cost-taxpayers/2431922001/
+  outlet: USA Today
+  date: '2019-09-24'
+- title: Pence's controversial Ireland trip cost taxpayers nearly $600,000 in limo
+    bills alone
+  url: https://www.nbcnews.com/politics/white-house/pence-s-controversial-ireland-trip-cost-taxpayers-nearly-600-000-n1058711
+  outlet: NBC News
+  date: '2019-09-25'
+notes: Pence claimed Trump suggested the property. The 181-mile detour from Dublin
+  meetings demonstrated prioritizing Trump's financial benefit over government efficiency
+  and taxpayer interests.
+capture_lanes:
+- Intelligence Penetration
+- Executive Power Expansion
+---
+
+Vice President Mike Pence's September 2019 stay at Trump Doonbeg in Ireland cost taxpayers $3.6 million total, requiring a 181-mile detour from Dublin meetings. Pence flew across Ireland to stay at Trump's golf resort rather than in Dublin where his official meetings occurred. The unnecessary detour enriched Trump's struggling Irish property while violating domestic emoluments principles through excessive taxpayer expenditure at presidential properties.

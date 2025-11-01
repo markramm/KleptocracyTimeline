@@ -1,0 +1,30 @@
+{
+  "id": "RT-TTT-2025-military-politicization-chain-command",
+  "title": "Military Politicization and Chain of Command Violations (2025)",
+  "description": "Document the systematic politicization of the U.S. military through improper chain of command violations, installation of political loyalists in military leadership, and the use of military resources for political purposes. Trump Tyranny Tracker identified numerous instances of military officers being bypassed, removed, or pressured for political reasons, representing a fundamental threat to civilian-military relations.",
+  "priority": "high",
+  "status": "pending",
+  "expected_events": 6,
+  "research_focus": [
+    "Military leadership removals and replacements",
+    "Chain of command bypass incidents",
+    "Political loyalty tests for military officers",
+    "Military resource deployment for political events",
+    "Pentagon civilian leadership purges",
+    "Military resistance to politicization orders",
+    "Joint Chiefs pushback and consequences",
+    "Military contractor political coordination"
+  ],
+  "key_search_terms": [
+    "military politicization",
+    "chain of command violation",
+    "Pentagon leadership purge",
+    "military officer removal",
+    "civilian military relations",
+    "Joint Chiefs resistance"
+  ],
+  "timeline_gap_justification": "Our timeline has limited coverage of systematic military politicization despite Trump Tyranny Tracker documenting extensive violations of military independence and chain of command protocols.",
+  "source_validation": "Cross-reference specific military leadership changes, orders, and incidents documented by Trump Tyranny Tracker with Pentagon records and military journalism sources.",
+  "importance_score": 9,
+  "tags": ["military_politicization", "chain_of_command", "pentagon_capture", "civilian_military_relations", "military_leadership", "political_loyalty"]
+}

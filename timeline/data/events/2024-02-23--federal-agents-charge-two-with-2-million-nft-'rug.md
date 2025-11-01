@@ -1,0 +1,35 @@
+---
+actors:
+- Devin Alan Rhoden
+- Berman Jerry Nowlin Jr.
+- HSI
+- DHS
+- U.S. Attorney's Office for the Middle District of Florida
+date: '2024-02-23'
+id: 2024-02-23--federal-agents-charge-two-with-2-million-nft-'rug
+importance: 8
+sources:
+- outlet: DHS HSI
+  title: 2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains
+  url: https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains
+- outlet: U.S. Department of Justice - Middle District of Florida
+  title: Two Individuals Charged With Non-Fungible Token 'Rug Pull' And Laundering
+    Proceeds Through The Solana And Ethereum Blockchains
+  url: https://www.justice.gov/usao-mdfl/pr/two-individuals-charged-non-fungible-token-rug-pull-and-laundering-proceeds-through
+- outlet: HS Today
+  title: Jury Finds Cybercurrency Developer of Defrauding Investors, Laundering Proceeds
+    Through Other Blockchains
+  url: https://www.hstoday.us/subject-matter-areas/cybersecurity/jury-finds-cybercurrency-developer-of-defrauding-investors-laundering-proceeds-through-other-blockchains/
+tags:
+- nft
+- money-laundering
+- fraud
+- blockchain
+- federal-prosecution
+- rug-pull
+- crypto
+- cyber-crime
+title: Federal Agents Charge Two with 2 Million NFT 'Rug Pull' Money Laundering Scheme
+---
+
+HSI agents charged Devin Alan Rhoden (24, active-duty Air Force cyber analyst) and Berman Jerry Nowlin Jr. (20) with conspiracy to commit wire fraud and money laundering through NFT schemes. The defendants created two NFT collections ('UndeadApes' and 'Undead Lady Apes') on the Solana blockchain, raising nearly $400,000 from hundreds of international investors through a sophisticated 'rug pull' scheme. They used 'chain-hopping' techniques, transferring fraud proceeds between Solana and Ethereum blockchains to obfuscate illicit funds. The case represents a significant federal prosecution highlighting emerging cryptocurrency fraud and money laundering techniques involving blockchain technologies.

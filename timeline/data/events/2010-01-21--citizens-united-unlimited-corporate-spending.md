@@ -1,0 +1,50 @@
+---
+id: 2010-01-21--citizens-united-unlimited-corporate-spending
+date: '2010-01-21'
+importance: 10
+title: Citizens United Ruling Enables Unlimited Corporate Political Spending
+location: Washington D.C.
+actors:
+- Clarence Thomas
+- Samuel Alito
+- Citizens United
+- Federal Election Commission
+tags:
+- campaign-finance
+- corporate-power
+- judicial-capture
+- dark-money
+- democracy-erosion
+- landmark-decision
+capture_lanes:
+- Constitutional & Democratic Breakdown
+- Corporate Capture & Regulatory Breakdown
+- Judicial Capture & Corruption
+sources:
+- title: Citizens United v. Federal Election Commission
+  url: https://www.supremecourt.gov/opinions/09pdf/08-205.pdf
+  outlet: Supreme Court
+  date: '2010-01-21'
+  archive_url: https://web.archive.org/web/20100121000000/https://www.supremecourt.gov/opinions/09pdf/08-205.pdf
+- title: Citizens United Explained
+  url: https://www.brennancenter.org/our-work/research-reports/citizens-united-explained
+  outlet: Brennan Center for Justice
+  date: '2019-12-12'
+- title: More money, less transparency - A decade under Citizens United
+  url: https://www.opensecrets.org/news/reports/a-decade-under-citizens-united
+  outlet: OpenSecrets
+  date: '2020-01-21'
+- title: Fifteen Years Later, Citizens United Defined the 2024 Election
+  url: https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election
+  outlet: Brennan Center for Justice
+  date: '2025-01-21'
+- title: Citizens United v. Federal Election Commission
+  url: https://www.oyez.org/cases/2008/08-205
+  outlet: Oyez
+  date: '2010-01-21'
+notes: Created Super PACs and dark money groups. Koch network, Harlan Crow, Paul Singer
+  all major beneficiaries. Thomas and Alito had attended donor events with these billionaires.
+status: confirmed
+---
+
+Supreme Court 5-4 decision with Thomas and Alito in majority allows unlimited corporate political spending, directly benefiting their billionaire donors Koch, Crow, and Singer

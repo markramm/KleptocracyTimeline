@@ -1,0 +1,50 @@
+---
+actors:
+- Donald Trump
+- Billy Long
+- Ron Wyden
+- Trump Administration
+capture_lanes:
+- Legislative Capture
+- Regulatory Capture
+capture_type: regulatory_capture
+connections:
+- Pandemic Tax Credit Fraud
+- IRS Staffing Cuts
+date: '2025-06-12'
+description: The Senate confirmed ex-Republican Representative Billy Long as the IRS
+  commissioner on a 53-44 party-line vote, despite his previous efforts to abolish
+  the agency and controversial background involving pandemic-era tax credit fraud.
+id: 2025-06-12--ex-congressman-billy-long-confirmed-as-commissioner-of-the-i
+importance: 7
+location: Washington, D.C.
+notes: Event demonstrates systematic institutional capture through politically motivated
+  appointment.
+patterns:
+- kleptocratic-capture
+- regulatory-subversion
+sources:
+- date: '2025-06-12'
+  outlet: Associated Press
+  title: Ex-congressman Billy Long confirmed as commissioner of the IRS, an agency
+    he once sought to abolish
+  url: https://apnews.com/article/billy-long-confirmed-irs-commissioner-67cd8daaa53a53c4ebf1262de1ede5e6
+- date: '2025-06-12'
+  outlet: Federal News Network
+  title: Ex-congressman Billy Long Confirmed as Commissioner of the IRS, an Agency
+    He Once Sought to Abolish
+  url: https://federalnewsnetwork.com/workforce/2025/06/ex-congressman-billy-long-confirmed-as-commissioner-of-the-irs-an-agency-he-once-sought-to-abolish/
+- date: '2025-06-12'
+  outlet: Roll Call
+  title: Ex-Rep. Long Confirmed as Trump's IRS Commissioner
+  url: https://rollcall.com/2025/06/12/ex-rep-long-confirmed-as-trumps-irs-commissioner/
+status: confirmed
+tags:
+- corruption
+- regulatory-capture
+- trump-administration
+- irs
+title: Ex-Congressman Billy Long Confirmed as IRS Commissioner Despite Controversy
+---
+
+The Senate confirmed Billy Long, a former Republican congressman who previously sought to abolish the IRS, as the agency's new commissioner. Long was confirmed on a 53-44 party-line vote despite concerns about his past work with a firm involved in pandemic tax credit fraud and his lack of tax administration experience. Notably, he was removed from the position in August 2025, making him the shortest-tenured IRS commissioner in history.

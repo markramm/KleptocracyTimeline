@@ -1,0 +1,65 @@
+{
+  "id": "indigenous-democracy-d3307e50",
+  "title": "Comprehensive Democratic Institutional Health Metrics Development",
+  "description": "Develop quantitative and qualitative metrics for measuring democratic institutional health, including early warning indicators, resilience measures, and trend analysis capabilities.",
+  "priority": 8,
+  "status": "pending",
+  "category": "measurement-systems",
+  "tags": [
+    "democratic-metrics",
+    "institutional-health",
+    "early-warning",
+    "quantitative-analysis"
+  ],
+  "estimated_events": 5,
+  "actual_events": 0,
+  "created_date": "2025-09-09",
+  "updated_date": "2025-09-09",
+  "source_document": "Outcome Measurement Framework_ Democratic Institutional Health Metrics.pdf",
+  "created_by": "pdf-agent-6",
+  "time_period": "1990-2025",
+  "constitutional_issues": [
+    "institutional-monitoring",
+    "democratic-measurement",
+    "accountability-systems"
+  ],
+  "actors_to_investigate": [
+    "Democracy measurement organizations",
+    "Democratic health researchers",
+    "Government transparency advocates",
+    "Institutional assessment experts"
+  ],
+  "key_sources": [
+    {
+      "title": "Democracy measurement organizations and their methodologies",
+      "type": "organizational-research",
+      "credibility": 9,
+      "why": "Established expertise in democratic measurement systems"
+    },
+    {
+      "title": "Government transparency and accountability reports",
+      "type": "government-reports",
+      "credibility": 8,
+      "why": "Official data on institutional performance"
+    },
+    {
+      "title": "International comparative democracy assessments",
+      "type": "international-research",
+      "credibility": 9,
+      "why": "Cross-national democratic health comparisons"
+    }
+  ],
+  "expected_outcomes": [
+    "Create comprehensive democratic health measurement frameworks",
+    "Develop early warning indicator systems for democratic decline",
+    "Establish baseline measurements for comparative analysis",
+    "Design real-time monitoring systems for democratic institutions"
+  ],
+  "research_questions": [
+    "What quantitative metrics best predict democratic institutional decline?",
+    "How can qualitative assessments be systematized for institutional health measurement?",
+    "What baseline measurements are needed for comparative democratic health analysis?",
+    "How can real-time monitoring systems be implemented for democratic institutions?"
+  ],
+  "estimated_importance": 8
+}

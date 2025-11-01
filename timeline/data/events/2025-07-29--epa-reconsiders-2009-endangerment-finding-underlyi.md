@@ -1,0 +1,47 @@
+---
+id: 2025-07-29--epa-reconsiders-2009-endangerment-finding-underlyi
+date: '2025-07-29'
+importance: 7
+title: EPA reconsiders 2009 Endangerment Finding underlying all climate regulations
+location: Washington, DC
+actors:
+- EPA
+- Lee Zeldin
+- Donald Trump
+- Department of Energy
+tags:
+- climate
+- environmental-rollback
+- deregulation
+- endangerment-finding
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
+sources:
+- title: Trump's EPA says climate pollution doesn't endanger people
+  url: https://www.npr.org/2025/07/24/nx-s1-5302162/climate-change-trump-epa
+  outlet: NPR
+  date: '2025-07-24'
+- title: Trump's Environmental Protection Agency plans to kill landmark 'endangerment'
+    climate rule
+  url: https://abcnews.go.com/US/trumps-environmental-protection-agency-plans-kill-landmark-endangerment/story?id=124187555
+  outlet: ABC News
+  date: '2025-07-29'
+- title: EPA moves to repeal finding that underpins current limits on greenhouse gas
+    pollution
+  url: https://www.nbcnews.com/news/us-news/epa-moves-repeal-finding-underpins-current-limits-greenhouse-gas-pollu-rcna221738
+  outlet: NBC News
+  date: '2025-07-29'
+- title: Trump EPA proposes revoking pollution limits based in part on document authored
+    by 5 climate contrarians
+  url: https://www.cnn.com/2025/07/29/climate/trump-epa-endangerment-finding
+  outlet: CNN
+  date: '2025-07-29'
+notes: Would eliminate scientific basis for regulating greenhouse gases. EPA argues
+  Obama admin "overstepped legal authority," cites recent SCOTUS decisions. Uses DOE
+  "Climate Work Group" study by 5 climate contrarians. Sierra Club exploring litigation.
+  Critics say lacks scientific and legal foundation. 2007 Mass v EPA required EPA
+  to determine if GHGs endanger health.
+status: confirmed
+---
+
+EPA Administrator Lee Zeldin announced formal reconsideration of 2009 Endangerment Finding on July 29, calling repeal "largest deregulatory action in history of America." Finding declared CO2 and 5 other GHGs endanger public health. Repeal would eliminate legal basis for all climate rules on power plants, vehicles, oil/gas industry. Would save $54B annually per Zeldin. Public hearings Aug 19-21, comments through Sept 15. Trump EO on Day 1 questioned "legality and continuing applicability."

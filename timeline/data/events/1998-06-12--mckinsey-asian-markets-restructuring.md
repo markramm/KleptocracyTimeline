@@ -1,0 +1,36 @@
+---
+id: 1998-06-12--mckinsey-asian-markets-restructuring
+date: '1998-06-12'
+title: McKinsey Advises Comprehensive Asian Market Restructuring During Financial
+  Crisis
+importance: 8
+actors:
+- McKinsey & Company
+- International Monetary Fund
+- World Bank
+- Southeast Asian Governments
+sources:
+- title: McKinsey Global Institute Report
+  url: https://www.mckinsey.com/featured-insights/asia-pacific/asian-crisis
+  outlet: McKinsey Global Institute
+- title: 'Finance & Development: The Asian Crisis and the Changing Role of the IMF'
+  url: https://www.imf.org/external/pubs/ft/fandd/1998/06/fischer.htm
+  outlet: International Monetary Fund
+- title: The Asian Financial Crisis of 1997-1998
+  url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+  outlet: Federal Reserve History
+tags:
+- asian-financial-crisis
+- mckinsey
+- structural-adjustment
+- corporate-strategy
+- economic-shock-therapy
+- imf-intervention
+- market-liberalization
+status: confirmed
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+---
+
+McKinsey & Company releases a strategic report recommending extensive market liberalization and corporate restructuring across Southeast Asian economies during the Asian Financial Crisis. The report becomes a blueprint for IMF and World Bank interventions, prioritizing foreign investment and corporate interests over local economic sovereignty. Recommendations included strengthening financial sector regulation, increasing transparency, and opening markets to foreign participants. The crisis revealed systemic weaknesses in Southeast Asian economies, including inadequate financial supervision, overheated real estate markets, and high reliance on foreign short-term borrowing.

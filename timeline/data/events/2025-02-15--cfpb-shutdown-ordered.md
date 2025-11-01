@@ -1,0 +1,62 @@
+---
+id: 2025-02-15--cfpb-shutdown-ordered
+date: '2025-02-15'
+importance: 7
+title: CFPB ordered to close offices and cease all work
+location: Washington, DC
+actors:
+- Russell Vought
+- CFPB
+- Trump Administration
+tags:
+- cfpb
+- agency-elimination
+- consumer-protection
+- regulatory-capture
+- project-2025
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
+- Executive Power & Emergency Authority
+sources:
+- title: Russell Vought closes CFPB HQ, tells staff to stop work
+  url: https://www.npr.org/2025/02/08/nx-s1-5290914/russell-vought-cfpb-doge-access-musk
+  outlet: NPR
+  date: '2025-02-08'
+- title: Vought orders CFPB to stop investigations and suspend new rules from taking
+    effect
+  url: https://www.pbs.org/newshour/politics/vought-orders-cfpb-to-stop-investigations-and-suspend-new-rules-from-taking-effect
+  outlet: PBS NewsHour
+  date: '2025-02-08'
+- title: Consumer watchdog ordered to stop fighting financial abuse and to work from
+    home as HQ temporarily shuts down
+  url: https://www.cnn.com/2025/02/09/business/cfpb-vought-stop-activity/index.html
+  outlet: CNN
+  date: '2025-02-09'
+notes: Unprecedented neutralization of consumer protection agency
+monitoring_status: active
+followup_schedule: weekly
+search_keywords:
+- CFPB shutdown Russell Vought
+- consumer protection agency closed
+- financial industry deregulation
+- Project 2025 CFPB elimination
+- consumer financial protections suspended
+related_events:
+- 2025-08-01--cfpb-shutdown-offices-closed
+- 2025-02-19--cfpb-shutdown-orders
+trigger_events:
+- court injunction CFPB
+- congressional oversight hearing
+- consumer complaint surge
+- financial industry violations
+- staff resignation mass exodus
+fallout_indicators:
+- consumer fraud increase
+- financial industry violations
+- predatory lending surge
+- consumer protection vacuum
+- regulatory capture complete
+status: confirmed
+---
+
+Russell Vought, acting CFPB director and Project 2025 author, orders CFPB offices to close and notifies staff they 'cannot perform any work tasks,' effectively shutting down agency that oversees consumer financial protections.

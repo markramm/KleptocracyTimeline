@@ -1,0 +1,48 @@
+---
+actors:
+- Skydance
+- Paramount Global
+- FCC
+capture_lanes:
+- Information & Media Control
+citations:
+- https://www.reuters.com/markets/us/paramount-skydance-ombudsman-deal-2025-07-24
+- https://www.reuters.com/markets/us/skydance-closes-8-billion-paramount-deal-2025-08-07
+- https://www.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/
+- https://www.cnbc.com/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger.html
+date: '2025-08-07'
+id: 2025-08-07--2025-08-07--paramount-skydance-merger-closes
+importance: 7
+notes: FCC approval came with significant political and media policy conditions. Merger
+  highlights complex regulatory landscape involving media ownership, political influence,
+  and ideological representation.
+sources:
+- date: '2025-07-24'
+  outlet: Reuters
+  title: Paramount-Skydance ombudsman deal
+  url: https://www.reuters.com/markets/us/paramount-skydance-ombudsman-deal-2025-07-24
+- date: '2025-08-07'
+  outlet: Reuters
+  title: Skydance closes $8 billion Paramount deal
+  url: https://www.reuters.com/markets/us/skydance-closes-8-billion-paramount-deal-2025-08-07
+- date: '2025-07-24'
+  outlet: Variety
+  title: FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI
+    Pledges
+  url: https://www.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/
+- date: '2025-07-24'
+  outlet: CNBC
+  title: FCC approves $8 billion Paramount-Skydance merger
+  url: https://www.cnbc.com/2025/07/24/fcc-approves-8-billion-paramount-skydance-merger.html
+status: confirmed
+tags:
+- media
+- mergers
+- press-freedom
+- regulatory-capture
+- fcc
+- media-consolidation
+title: Skydance-Paramount deal closes with contentious FCC regulatory conditions
+---
+
+Skydance's $8 billion acquisition of Paramount Global closed after FCC approval with controversial conditions. The merger included commitments to hire a CBS ombudsman and explicit agreements about media representation, reflecting ongoing tensions in media regulation and political influence.

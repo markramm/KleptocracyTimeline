@@ -1,0 +1,53 @@
+---
+id: 2024-06-28--loper-bright-overturns-chevron-deference
+date: '2024-06-28'
+title: Supreme Court Overturns Chevron Deference, Reshaping Administrative Law
+importance: 10
+actors:
+- Clarence Thomas
+- Samuel Alito
+- Chief Justice John Roberts
+- Supreme Court
+- Koch Network
+- Harlan Crow
+tags:
+- judicial-capture
+- supreme-court
+- chevron-deference
+- regulatory-capture
+- koch-influence
+- administrative-state
+- judicial-reform
+capture_lanes:
+- Corporate Capture & Regulatory Breakdown
+- Judicial Capture & Corruption
+location: Washington D.C.
+notes: Eliminates agency deference in interpreting ambiguous laws. Koch network spent
+  15 years and millions pushing this. Benefits fossil fuel, real estate, and chemical
+  industries. Immediate implications include potential rollback of environmental,
+  labor, and consumer protection regulations.
+sources:
+- outlet: SCOTUSblog
+  title: Supreme Court overturns Chevron deference
+  url: https://www.scotusblog.com/2024/06/supreme-court-overturns-chevron-deference/
+  date: '2024-06-28'
+  archive_url: https://web.archive.org/web/20240628000000/https://www.scotusblog.com/2024/06/supreme-court-overturns-chevron-deference/
+- outlet: Supreme Court
+  title: Loper Bright Enterprises v. Raimondo
+  url: https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
+  date: '2024-06-28'
+  archive_url: https://web.archive.org/web/20240628000000/https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
+- outlet: White & Case LLP
+  title: U.S. Supreme Court Strikes Down Chevron Doctrine—What You Need to Know
+  url: https://www.whitecase.com/insight-alert/us-supreme-court-strikes-down-chevron-doctrine-what-you-need-know
+  date: '2024-06-28'
+- outlet: DLA Piper
+  title: 'Chevron overruled: In Loper Bright v. Raimondo, the Supreme Court reshapes
+    the regulatory landscape'
+  url: https://www.dlapiper.com/en-us/insights/publications/2024/06/chevron-overruled-in-loper-bright-v-raimondo
+  date: '2024-06-28'
+validation_priority: 10
+status: confirmed
+---
+
+In a landmark 6-2 decision, the Supreme Court overruled the 40-year-old Chevron deference doctrine in Loper Bright Enterprises v. Raimondo, fundamentally altering the balance of power between courts and federal agencies. The ruling requires courts to independently interpret ambiguous statutes rather than deferring to agency expertise, potentially undermining regulatory capabilities across multiple sectors.

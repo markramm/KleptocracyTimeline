@@ -1,0 +1,79 @@
+---
+actors:
+- robert-f-kennedy-jr
+- childrens-health-defense
+- hhs
+- nih
+- merck
+- crispr-therapeutics
+- dragonfly-therapeutics
+- wisner-baum-law-firm
+- senator-elizabeth-warren
+capture_lane: political
+capture_lanes:
+- Regulatory Capture
+- Institutional Conflict of Interest
+connections:
+- 2025-01-20--rfk-jr-hhs-confirmation
+- 2019-01-01--childrens-health-defense-anti-vaccine
+- 2025-02-01--nih-workforce-reduction
+date: '2025-01-20'
+description: HHS Secretary Robert F. Kennedy Jr. confirmed with significant conflicts
+  of interest, continuing to earn vaccine litigation referral fees while controlling
+  federal health policy. Despite claiming to support science, he earned $856,559 in
+  referral fees from Wisner Baum law firm suing Merck over HPV vaccine Gardasil, and
+  previously chaired an anti-vaccine organization. His ethics agreement allows continued
+  fee collection, raising serious regulatory capture concerns.
+id: 2025-01-20--rfk-jr-11-million-anti-vaccine-profits
+importance: 9
+notes: Multiple sources document Kennedy's ongoing financial interests in vaccine
+  litigation while serving as HHS Secretary. Senator Warren highlighted potential
+  for Kennedy to manipulate vaccine policies for personal financial gain.
+patterns:
+- anti-science
+- regulatory-capture
+- conflict-of-interest
+- legal-financial-manipulation
+sources:
+- date: '2025-01-20'
+  outlet: ProPublica
+  title: RFK Jr. earned $11.3 million from anti-vaccine advocacy
+  url: https://www.propublica.org/article/rfk-jr-anti-vaccine-millions-hhs
+- date: '2025-01-21'
+  outlet: Science Magazine
+  title: Kennedy plans to fire 600 NIH scientists, end water fluoridation
+  url: https://www.science.org/content/article/rfk-jr-nih-plans-fluoride
+- date: '2025-01-22'
+  outlet: NPR
+  title: RFK Jr. to keep collecting fees from lawsuits against Merck over HPV vaccines
+  url: https://www.npr.org/sections/shots-health-news/2025/01/22/nx-s1-5271582/rfk-hpv-vaccine-merck
+- date: '2025-01-20'
+  outlet: Senator Elizabeth Warren's Office
+  title: Warren Highlights RFK Jr.'s Dangerous Conflicts of Interest in HHS Nomination
+  url: https://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-slams-rfk-jr-for-dangerous-conflicts-of-interest-profiting-from-anti-vaccine-conspiracies
+- date: '2025-01-30'
+  outlet: CBS News
+  title: RFK Jr.'s Complex Financial Ties with Personal Injury Law Firm Raise Ethics
+    Questions
+  url: https://www.cbsnews.com/news/rfk-jr-confirmation-robert-f-kennedy-merck/
+- date: '2025-03-10'
+  outlet: CREW - Citizens for Responsibility and Ethics in Washington
+  title: RFK Jr. Systematically Cuts Federal Health Workforce While Maintaining Personal
+    Financial Interests
+  url: https://www.citizensforethics.org/reports-investigations/rfk-jr-federal-health-workforce-cuts/
+status: confirmed
+tags:
+- rfk-jr
+- anti-vaccine
+- hhs
+- conflict-of-interest
+- biotech-investments
+- public-health
+- scientific-denial
+- regulatory-capture
+- vaccine-policy
+- ethics-violation
+title: HHS Secretary RFK Jr. Confirmed with Ongoing Vaccine Litigation Referral Fees
+---
+
+HHS Secretary Robert F. Kennedy Jr. confirmed with ongoing financial interests in vaccine litigation, earning $856,559 in referral fees while controlling federal health policy. Despite resignation from consulting arrangements, he retains potential profit from Merck vaccine litigation, raising significant conflict of interest concerns flagged by Sen. Elizabeth Warren. Kennedy has dismissed the entire CDC Advisory Committee on Immunization Practices and cut over 20,500 workers from HHS, approximately 18% of the department's workforce.

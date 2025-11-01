@@ -1,0 +1,26 @@
+{
+  "id": "RT-TTT-2025-BATCH2-DOJ-PROSECUTOR-TARGETING",
+  "title": "TTT Batch 2: DOJ Weaponization and Prosecutor Targeting Operations",
+  "description": "Systematic analysis of DOJ weaponization against specific prosecutors and investigations based on Trump Tyranny Tracker documentation. Found 39 instances across articles 46-90. Research prosecutor targeting mechanisms, investigation shutdown operations, attorney general coordination, special counsel interference, and DOJ politicization patterns. Focus on specific cases, targeted prosecutors, and coordination mechanisms.",
+  "expected_events": 15,
+  "priority": "high",
+  "research_status": "not_started",
+  "tags": [
+    "ttt-batch2",
+    "doj-weaponization",
+    "prosecutor-targeting",
+    "systematic-corruption"
+  ],
+  "timeline_focus": "2017-2025",
+  "actors": [
+    "DOJ",
+    "Attorney General",
+    "Special Counsels",
+    "Federal Prosecutors"
+  ],
+  "source": "Trump Tyranny Tracker Articles 46-90",
+  "created_date": "2025-09-10T11:03:05.348488",
+  "notes": "",
+  "actual_events": 0,
+  "completion_date": null
+}

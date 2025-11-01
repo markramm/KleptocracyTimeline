@@ -1,0 +1,68 @@
+---
+id: 2020-08-21--usps-oig-service-declines-and-independent-metrics
+date: '2020-08-21'
+importance: 9
+title: USPS OIG flags service declines after mid-July changes; independent datasets
+  show sharp on-time drops
+notes: 'Include both official OIG findings and independent/third-party performance
+  datasets (Senate HSGAC
+
+  minority update; internal USPS slides released by House Oversight; GAO''s 2021 national
+  trendlines).
+
+  '
+status: confirmed
+actors:
+- U.S. Postal Service
+- USPS Office of Inspector General
+- U.S. Senate HSGAC (minority staff)
+- U.S. House Oversight Committee
+tags:
+- postal-service
+- election-operations
+- administrative-changes
+patterns: []
+related_events: []
+capture_lanes:
+- Election System Attack
+location: United States
+sources:
+- date: '2020-08-21'
+  outlet: USPS OIG
+  title: Operational Changes to Mail Delivery (Project 20-292)
+  url: https://www.uspsoig.gov/sites/default/files/reports/2023-01/20-292-R21.pdf
+  archive_url: ''
+  key_facts_confirmed:
+  - Identified service performance declines post-changes
+  verified: true
+- date: '2020-10-20'
+  outlet: U.S. Senate HSGAC (Minority)
+  title: 'Investigative Update: On-time delivery plummeted to 81.5% Aug 8-14'
+  url: https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/201020_InvestigativeUpdate_PetersPostal.pdf
+  archive_url: ''
+  key_facts_confirmed:
+  - Week-of performance levels in low-80% range nationally
+  verified: true
+- date: '2021-04-29'
+  outlet: U.S. GAO
+  title: USPS Volume, Performance, and Financial Outlook (GAO-21-261)
+  url: https://www.gao.gov/products/gao-21-261
+  archive_url: ''
+  key_facts_confirmed:
+  - 2020 nationwide on-time performance fell vs. 2019 baseline
+  verified: true
+- date: '2020-08-21'
+  outlet: Washington Post
+  title: House Oversight releases internal USPS performance data showing declines
+  url: https://www.washingtonpost.com/powerpost/house-poised-to-pass-bill-to-boost-us-postal-service-amid-trump-attacks/2020/08/21/c9196fa8-e3c6-11ea-8181-606e603bb1c4_story.html
+  archive_url: ''
+  key_facts_confirmed:
+  - Internal USPS deck showed steep declines in July/August
+  verified: true
+---
+
+In August 2020, USPS's Inspector General reported that operational changes instituted under
+new leadership coincided with measurable service declines. Independent data released by Senate
+investigators and internal USPS materials reflected national on-time First-Class performance
+falling into the low-80% range in August, with severe district-level dips.
+

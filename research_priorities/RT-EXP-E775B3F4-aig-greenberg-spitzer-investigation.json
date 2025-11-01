@@ -1,0 +1,20 @@
+{
+  "id": "RT-EXP-E775B3F4",
+  "title": "AIG Greenberg Spitzer Investigation",
+  "description": "Investigate Maurice 'Hank' Greenberg's AIG fraud, Eliot Spitzer investigation derailment, and connections to 2008 crisis.",
+  "priority": "high",
+  "tags": [
+    "aig",
+    "greenberg",
+    "spitzer",
+    "insurance_fraud"
+  ],
+  "decade": "2000s",
+  "created": "2025-09-09T21:17:47.658006",
+  "status": "pending",
+  "category": "expansion_research",
+  "connections": [
+    "2008 financial crisis",
+    "Wall Street"
+  ]
+}
