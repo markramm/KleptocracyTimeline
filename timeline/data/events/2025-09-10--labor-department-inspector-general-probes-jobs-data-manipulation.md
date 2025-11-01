@@ -1,0 +1,25 @@
+---
+id: 2025-09-10--labor-department-inspector-general-probes-jobs-data-manipulation
+date: '2025-09-10'
+title: Labor Department Inspector General Opens Investigation Into Jobs Data Manipulation
+importance: 8
+tags:
+- data-manipulation
+- institutional-capture
+- statistical-integrity
+- economic-data-corruption
+sources:
+- url: https://www.cbsnews.com/news/labor-department-inspector-general-bls-investigation-jobs-data/
+  title: Labor Department Watchdog Probes Jobs Data Manipulation
+  publisher: CBS News
+  date: '2025-09-10'
+  tier: 1
+actors:
+- Labor Department Inspector General
+- Erika McEntarfer
+- Donald Trump
+- Bureau of Labor Statistics
+status: confirmed
+---
+
+The Labor Department Inspector General launched a review of the Bureau of Labor Statistics following massive downward revisions showing 900,000 fewer jobs were added than originally reported. The investigation comes after Trump fired BLS Commissioner Erika McEntarfer for producing unfavorable employment data and nominated Heritage Foundation fellow EJ Antoni, who advocates 'chainsawing' the agency, as her replacement. The timing of the IG investigation—initiated after McEntarfer's firing and occurring as Trump prepares to install a BLS critic—raises concerns about whether the probe is designed to justify political manipulation of employment statistics rather than ensure integrity. Former statisticians warn that politicizing BLS threatens the credibility of fundamental economic data used by the Federal Reserve, businesses, and investors. The investigation represents pre-textual legitimization for systematic corruption of statistical integrity to serve Trump's political narrative.

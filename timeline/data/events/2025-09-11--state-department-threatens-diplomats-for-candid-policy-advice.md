@@ -1,0 +1,26 @@
+---
+id: 2025-09-11--state-department-threatens-diplomats-for-candid-policy-advice
+date: '2025-09-11'
+title: State Department Adds 'Fidelity' Criterion, Retaliates Against Diplomats for
+  Honest Analysis
+importance: 8
+tags:
+- institutional-capture
+- diplomatic-purge
+- loyalty-over-expertise
+- foreign-policy-corruption
+sources:
+- url: https://www.nbcnews.com/politics/national-security/state-department-diplomats-retaliation-trump-administration
+  title: Diplomats Threatened Over Candid Advice
+  publisher: NBC News
+  date: '2025-09-11'
+  tier: 1
+actors:
+- State Department
+- American Foreign Service Association
+- Donald Trump
+- Career diplomats
+status: confirmed
+---
+
+The American Foreign Service Association warned career diplomats they face retaliation for providing honest policy counsel that deviates from Trump administration positions. The State Department added 'fidelity' as a promotion criterion, effectively requiring ideological loyalty over professional expertise. Diplomats who offer candid assessments of foreign policy challenges, question administration strategies, or provide analysis contradicting Trump's preferences are being reassigned to undesirable posts or pushed out entirely. This represents systematic destruction of diplomatic expertise, where career professionals with decades of regional knowledge and language skills are purged in favor of political appointees who prioritize loyalty over competence. The Foreign Service has historically operated under principles that diplomats must provide unvarnished assessments to policymakers, but Trump's 'fidelity' requirement transforms the diplomatic corps into a propaganda apparatus incapable of delivering accurate intelligence about foreign threats and opportunities.

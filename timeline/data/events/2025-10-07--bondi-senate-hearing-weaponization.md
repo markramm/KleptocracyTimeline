@@ -1,0 +1,45 @@
+---
+id: 2025-10-07--bondi-senate-hearing-weaponization
+date: '2025-10-07'
+title: Attorney General Bondi Testifies Before Senate Amid Accusations of DOJ Weaponization
+importance: 8
+actors:
+- Pam Bondi
+- Senate Judiciary Committee
+- Department of Justice
+- Dick Durbin
+- Richard Blumenthal
+- Donald Trump
+tags:
+- doj
+- congressional-oversight
+- political-prosecution
+- institutional-capture
+- weaponization
+- pam-bondi
+sources:
+- url: https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify
+  title: Democrats press Bondi over concerns DOJ is being weaponized to target Trump's
+    foes
+  publisher: NPR
+  date: '2025-10-07'
+  tier: 1
+- url: https://www.cnn.com/2025/10/07/politics/bondi-senate-hearing-takeaways
+  title: Takeaways from Attorney General Pam Bondi's contentious Senate hearing
+  publisher: CNN
+  date: '2025-10-07'
+  tier: 2
+- url: https://abcnews.go.com/Politics/democrats-highlight-doj-weaponization-epstein-files-bondis-senate/story?id=126260560
+  title: Bondi rips Democratic senators, dodges questions on 'weaponization' and Homan
+    during fiery hearing
+  publisher: ABC News
+  date: '2025-10-07'
+  tier: 2
+status: confirmed
+---
+
+On October 7, 2025, Attorney General Pam Bondi testified before the Senate Judiciary Committee in a contentious oversight hearing marked by sharp Democratic criticism of the Justice Department's targeting of President Trump's political opponents. The hearing came one day before former FBI Director James Comey's scheduled arraignment on charges he allegedly lied to Congress, and amid growing concerns that Bondi has transformed the DOJ into a tool for political retribution.
+
+Senators pressed Bondi about a September social media post in which President Trump directly ordered her to prosecute three of his political enemies—New York Attorney General Letitia James, California Senator Adam Schiff, and former FBI Director James Comey—telling Bondi "we can't delay any longer." Democratic Senator Richard Blumenthal stated he had "been through close to 15 of these Attorney General accountability hearings, and I have never seen anything close to it in terms of the combativeness, the evasiveness and sometimes deceptiveness." Illinois Senator Dick Durbin declared: "Our nation's top law enforcement agency has become a shield for the president and his political allies when they engage in misconduct. In eight short months, you fundamentally transformed the Justice Department and left an enormous stain on American history."
+
+Bondi defended the Comey indictment and other controversial DOJ actions, dismissing concerns about DOJ weaponization while engaging in combative exchanges with Democratic senators. The hearing underscored the dramatic erosion of the Justice Department's independence and credibility, with Bondi openly acknowledging her role in executing the president's political agenda rather than maintaining the traditional separation between the White House and DOJ prosecutorial decisions. Legal experts and former DOJ officials expressed alarm at Bondi's brazen defense of politicized prosecutions and her apparent disregard for longstanding norms protecting prosecutorial independence.

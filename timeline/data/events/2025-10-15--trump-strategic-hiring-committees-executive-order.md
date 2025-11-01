@@ -1,0 +1,34 @@
+---
+id: 2025-10-15--trump-strategic-hiring-committees-executive-order
+date: '2025-10-15'
+title: Trump Executive Order Extends Hiring Freeze with Political Approval Requirements
+importance: 8
+actors:
+- Donald Trump
+- White House
+- Office of Personnel Management
+tags:
+- executive-power
+- executive-orders
+- institutional-capture
+- systematic-corruption
+sources:
+- url: https://www.whitehouse.gov/presidential-actions/2025/10/ensuring-continued-accountability-in-federal-hiring/
+  title: 'Executive Order: Ensuring Continued Accountability in Federal Hiring'
+  publisher: The White House
+  date: '2025-10-15'
+  tier: 1
+- url: https://www.govexec.com/workforce/2025/10/trumps-latest-order-requires-strategic-plans-reflective-presidential-priorities-resume-hiring/408897/
+  title: Trump's latest order requires strategic plans reflective of presidential
+    'priorities' to resume hiring
+  publisher: Government Executive
+  date: '2025-10-15'
+  tier: 2
+status: confirmed
+---
+
+President Trump signed an executive order titled 'Ensuring Continued Accountability in Federal Hiring' on October 15, 2025, extending the federal hiring freeze and requiring all federal hiring decisions to be approved by 'Strategic Hiring Committees' consisting of senior agency leadership. The order mandates that no federal civilian position may be filled except as approved by these committees, which must ensure hiring 'focuses on agency needs, the national interest, and Administration priorities.'
+
+The executive order requires each agency to create and adhere to Annual Staffing Plans aligned with 'Administration priorities,' effectively transforming federal hiring from a merit-based professional process into a politically controlled system where every hiring decision must advance Trump's policy agenda. This represents a systematic politicization of the federal workforce that extends beyond Schedule F to cover all federal hiring.
+
+By requiring political approval for every federal hire and mandating alignment with 'Administration priorities,' the order consolidates unprecedented control over federal staffing decisions in the hands of political appointees. The continuation of the hiring freeze, combined with mandatory political vetting of all new hires, ensures that the federal workforce becomes increasingly filled with political loyalists rather than merit-based professionals, fundamentally transforming the nature of civil service.

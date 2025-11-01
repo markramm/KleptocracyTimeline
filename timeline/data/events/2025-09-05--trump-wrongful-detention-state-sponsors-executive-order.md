@@ -1,0 +1,42 @@
+---
+id: 2025-09-05--trump-wrongful-detention-state-sponsors-executive-order
+date: '2025-09-05'
+title: Trump Creates 'State Sponsor of Wrongful Detention' Designation via Executive
+  Order
+importance: 7
+actors:
+- Donald Trump
+- White House
+- Department of State
+tags:
+- executive-power
+- executive-orders
+- presidential-authority
+- foreign-policy
+sources:
+- url: https://www.whitehouse.gov/presidential-actions/2025/09/strengthening-efforts-to-protect-u-s-nationals-from-wrongful-detention-abroad/
+  title: 'Executive Order 14348: Strengthening Efforts to Protect U.S. Nationals from
+    Wrongful Detention Abroad'
+  publisher: The White House
+  date: '2025-09-05'
+  tier: 1
+- url: https://www.cnn.com/2025/09/05/politics/state-sponsor-of-wrongful-detention-designation-trump-order
+  title: Trump signs executive order creating 'state sponsor of wrongful detention'
+    designation
+  publisher: CNN
+  date: '2025-09-05'
+  tier: 2
+- url: https://www.nbcnews.com/politics/white-house/trump-signs-executive-order-blacklist-countries-illegally-detain-ameri-rcna229441
+  title: Trump signs executive order to blacklist countries that illegally detain
+    Americans
+  publisher: NBC News
+  date: '2025-09-05'
+  tier: 2
+status: confirmed
+---
+
+President Trump signed Executive Order 14348 on September 5, 2025, creating a new 'State Sponsor of Wrongful Detention' designation that empowers the Secretary of State to blacklist foreign countries determined to be involved in or supporting wrongful detentions of U.S. nationals. Countries designated as state sponsors face severe penalties including economic sanctions, visa restrictions, foreign assistance cuts, and travel warnings for U.S. passport holders.
+
+The executive order establishes consequences comparable to the 'State Sponsor of Terrorism' designation, giving the administration broad authority to impose punitive measures on nations based on executive determinations of 'wrongful detention' without requiring congressional approval or judicial review. While framed as protecting Americans abroad, the designation creates a unilateral presidential tool that could be weaponized against adversaries or used as diplomatic leverage.
+
+By creating this new category of sanctionable conduct and vesting designation authority solely in the executive branch, the order expands presidential power to impose significant economic and diplomatic penalties on foreign nations. The absence of clear criteria for what constitutes 'wrongful detention' or mechanisms for appeal creates potential for arbitrary application based on political rather than legal considerations.

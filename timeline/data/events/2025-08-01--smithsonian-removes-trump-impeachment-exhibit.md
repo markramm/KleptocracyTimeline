@@ -1,0 +1,41 @@
+---
+id: 2025-08-01--smithsonian-removes-trump-impeachment-exhibit
+date: '2025-08-01'
+title: Smithsonian Removes Trump Impeachment References from National Museum of American
+  History
+importance: 8
+actors:
+- Smithsonian Institution
+- National Museum of American History
+- White House
+- Donald Trump
+tags:
+- institutional-capture
+- censorship
+- historical-revisionism
+sources:
+- url: https://www.npr.org/2025/08/01/g-s1-80602/smithsonian-impeachment-trump
+  title: Trump's impeachments have been removed from a Smithsonian exhibit, for now
+  publisher: NPR
+  date: '2025-08-01'
+  tier: 1
+- url: https://www.cnn.com/2025/08/01/politics/smithsonian-trump-impeachment-exhibit-museum
+  title: Smithsonian temporarily removes reference to Trump's impeachments from presidency
+    exhibit
+  publisher: CNN
+  date: '2025-08-01'
+  tier: 2
+- url: https://www.pbs.org/newshour/politics/smithsonian-removes-trump-from-an-exhibits-impeachment-display-but-says-its-temporary
+  title: Smithsonian removes Trump from an exhibit's impeachment display, but says
+    it's temporary
+  publisher: PBS
+  date: '2025-08-01'
+  tier: 1
+status: confirmed
+---
+
+The Smithsonian's National Museum of American History removed references to President Donald Trump's two impeachments from its presidential power exhibit following White House pressure. The museum claimed the removal was part of a content review undertaken after pressure to remove an art museum director, stating they would restore the exhibit to its 2008 appearance since other topics in the section had not been updated since then.
+
+Context: The impeachment references had been added to the exhibit in September 2021. The Smithsonian initially claimed it was not asked by any administration or government official to remove content, but later acknowledged the change came about as part of a content review following White House pressure on museum leadership. After public backlash, the museum restored the impeachment display on August 8 with slightly revised text.
+
+Significance: This represents political censorship of U.S. history by a federally-funded institution, mirroring authoritarian tactics for controlling historical narrative. The incident demonstrates how the Trump administration weaponizes federal funding and institutional pressure to erase unfavorable historical facts from public museums, undermining the independence of cultural institutions and their role in preserving accurate historical records.

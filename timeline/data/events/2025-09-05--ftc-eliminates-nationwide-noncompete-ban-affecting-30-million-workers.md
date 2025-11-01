@@ -1,0 +1,25 @@
+---
+id: 2025-09-05--ftc-eliminates-nationwide-noncompete-ban-affecting-30-million-workers
+date: '2025-09-05'
+title: FTC Reverses Nationwide Noncompete Ban, Leaving 30 Million Workers Bound by
+  Restrictive Contracts
+importance: 8
+tags:
+- regulatory-capture
+- worker-rights-rollback
+- corporate-power
+- labor-exploitation
+sources:
+- url: https://www.npr.org/2025/09/05/ftc-noncompete-ban-eliminated-andrew-ferguson
+  title: Federal Trade Commission Reverses Worker Protection on Job Mobility
+  publisher: NPR
+  date: '2025-09-05'
+  tier: 1
+actors:
+- Andrew Ferguson
+- Federal Trade Commission
+- Donald Trump
+status: confirmed
+---
+
+Federal Trade Commission chair Andrew Ferguson, a Trump appointee, voted to scrap the nationwide ban on noncompete agreements, replacing comprehensive worker protections with case-by-case dispute resolution. The reversal leaves approximately 30 million American workers bound by restrictive employment contracts that prevent them from changing jobs, negotiating higher wages, or starting competing businesses even after leaving employers. Economic research shows noncompete agreements suppress wages by 3-4% and reduce labor market mobility, particularly harming low-wage workers who have the least bargaining power. The FTC's original ban was based on extensive evidence that noncompetes constitute an unfair method of competition under Section 5 of the FTC Act. Ferguson's reversal represents regulatory capture where the agency responsible for protecting competition instead protects employers' ability to restrict worker freedom, demonstrating how Trump appointees systematically dismantle worker protections to benefit corporations.
