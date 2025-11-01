@@ -78,6 +78,10 @@ jobs:
 
           errors = []
           for f in Path('timeline/data/events').glob('*.md'):
+              # Skip README and other non-event files
+              if f.name.upper() in ['README.MD', 'README']:
+                  continue
+
               with open(f) as file:
                   post = frontmatter.load(file)
                   event = dict(post.metadata)
