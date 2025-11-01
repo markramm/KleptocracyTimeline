@@ -38,10 +38,9 @@ jobs:
         run: |
           pytest tests/ -v || echo "⚠️ Some tests failed but continuing build"
 
-      - name: Validate timeline dates
-        run: |
-          python tools/validation/validate_timeline_dates.py
-          
+      # Note: Skipping validate_timeline_dates.py - script not in repository
+      # Validation is handled by inline Python checks below
+
       - name: Check for future confirmed events
         run: |
           python -c "
