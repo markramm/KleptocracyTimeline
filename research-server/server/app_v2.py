@@ -344,25 +344,32 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
     """
     Apply validation corrections to event files with comprehensive failure logging
     Returns True if corrections were successfully applied
+    Supports both JSON and Markdown (.md) event formats
     """
     import traceback
     from pathlib import Path
-    
+
     event_file = None
     events_dir = Path(__file__).parent.parent.parent / 'timeline' / 'data' / 'events'
-    
+
     try:
-        # Find event file with detailed logging
-        exact_file = events_dir / f"{event_id}.json"
-        if exact_file.exists():
-            event_file = exact_file
-        else:
-            # Search for files containing the event ID
-            for file_path in events_dir.glob("*.json"):
-                if event_id in file_path.name:
-                    event_file = file_path
+        # Find event file - check both .md and .json extensions
+        for ext in ['.md', '.json']:
+            exact_file = events_dir / f"{event_id}{ext}"
+            if exact_file.exists():
+                event_file = exact_file
+                break
+
+        # If exact match not found, search for files containing the event ID
+        if not event_file:
+            for pattern in ['*.md', '*.json']:
+                for file_path in events_dir.glob(pattern):
+                    if event_id in file_path.name:
+                        event_file = file_path
+                        break
+                if event_file:
                     break
-        
+
         if not event_file or not event_file.exists():
             error_msg = f"Event file not found for ID: {event_id}. Searched in {events_dir}"
             log_update_failure(
@@ -372,7 +379,7 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
                 failure_type="file_not_found",
                 error_message=error_msg,
                 attempted_corrections=corrections,
-                file_path=str(exact_file) if exact_file else None
+                file_path=str(events_dir / f"{event_id}.*")
             )
             return False
         
@@ -390,17 +397,18 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
             )
             return False
         
-        # Read current event data with error handling
+        # Read current event data with error handling - supports both JSON and Markdown
         try:
-            with open(event_file, 'r') as f:
-                event_data = json.load(f)
-        except json.JSONDecodeError as json_error:
-            error_msg = f"JSON decode error reading event file: {json_error}"
+            # Use EventParserFactory to read the file (auto-detects format)
+            parser_factory = EventParserFactory()
+            event_data = parser_factory.parse_event(event_file)
+        except Exception as parse_error:
+            error_msg = f"Error parsing event file: {parse_error}"
             log_update_failure(
                 event_id=event_id,
                 validation_log_id=validation_log_id,
                 validator_id=validator_id,
-                failure_type="json_read_error",
+                failure_type="parse_error",
                 error_message=error_msg,
                 stack_trace=traceback.format_exc(),
                 attempted_corrections=corrections,
@@ -512,7 +520,7 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
             )
             return False
         
-        # Write updated event data with error handling
+        # Write updated event data with error handling - supports both JSON and Markdown
         try:
             # Create backup before writing
             backup_content = None
@@ -521,17 +529,35 @@ def apply_validation_corrections(event_id: str, corrections: dict, validator_id:
                     backup_content = f.read()
             except:
                 pass  # If we can't backup, still try to write
-            
-            with open(event_file, 'w') as f:
-                json.dump(event_data, f, indent=2)
-            
+
+            # Write in the appropriate format based on file extension
+            if event_file.suffix == '.md':
+                # Write markdown with frontmatter
+                import frontmatter
+
+                # Extract summary for markdown body
+                summary = event_data.get('summary', '')
+
+                # Prepare frontmatter metadata (exclude summary)
+                metadata = {k: v for k, v in event_data.items() if k != 'summary'}
+
+                # Create frontmatter post
+                post = frontmatter.Post(summary, **metadata)
+
+                with open(event_file, 'w', encoding='utf-8') as f:
+                    f.write(frontmatter.dumps(post))
+            else:
+                # Write JSON
+                with open(event_file, 'w') as f:
+                    json.dump(event_data, f, indent=2)
+
             # Verify the write was successful by reading back
             try:
-                with open(event_file, 'r') as f:
-                    verification_data = json.load(f)
-                    # Basic verification that our changes are there
-                    if 'validation_metadata' not in verification_data:
-                        raise Exception("Validation metadata missing from written file")
+                parser_factory = EventParserFactory()
+                verification_data = parser_factory.parse_event(event_file)
+                # Basic verification that our changes are there
+                if 'validation_metadata' not in verification_data:
+                    raise Exception("Validation metadata missing from written file")
             except Exception as verify_error:
                 # Try to restore backup if verification fails
                 if backup_content:
