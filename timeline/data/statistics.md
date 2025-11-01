@@ -1,25 +1,23 @@
 # Timeline Statistics Report
 
-Generated: 2025-10-17 15:52:22
+Generated: 2025-11-01 19:05:51
 
 ## Overview
-- **Total Events**: 1589
+- **Total Events**: 1856
 - **Date Range**: 1142-01-01 to 2025-11-04
-- **Total Sources**: 5707
-- **Unique Tags**: 3341
-- **Unique Actors**: 3189
+- **Total Sources**: 6175
+- **Unique Tags**: 3598
+- **Unique Actors**: 3547
 
 ## Event Status
-- **Confirmed**: 1452
-- **Validated**: 32
-- **Unknown**: 87
+- **Unknown**: 233
+- **Confirmed**: 1575
+- **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
 - **Enhanced**: 1
-- **Extensively-Documented**: 1
-- **Reported**: 6
+- **Reported**: 7
 - **Investigated**: 1
-- **Partially-Verified**: 1
 - **Contested**: 1
 - **Needs_Work**: 1
 - **Unverified**: 1
@@ -27,28 +25,28 @@ Generated: 2025-10-17 15:52:22
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 286 events
-- corruption: 126 events
-- kleptocracy: 124 events
-- government-contracts: 117 events
-- crypto: 111 events
+- regulatory-capture: 317 events
+- institutional-capture: 203 events
+- corruption: 188 events
+- kleptocracy: 132 events
+- government-contracts: 120 events
+- crypto: 112 events
 - trump-administration: 97 events
-- conflict-of-interest: 76 events
-- foreign-influence: 75 events
-- institutional-capture: 73 events
-- constitutional-crisis: 63 events
+- foreign-influence: 85 events
+- constitutional-crisis: 82 events
+- conflict-of-interest: 74 events
 
 ## Top Actors
-- Donald Trump: 560 events
-- Trump Administration: 272 events
-- Elon Musk: 147 events
-- Department of Justice: 70 events
+- Donald Trump: 716 events
+- Trump Administration: 289 events
+- Elon Musk: 157 events
+- Department of Justice: 108 events
+- Jeffrey Epstein: 51 events
+- Pam Bondi: 49 events
 - Dick Cheney: 48 events
-- George W. Bush: 47 events
-- Karl Rove: 45 events
-- Jeffrey Epstein: 42 events
-- Heritage Foundation: 37 events
-- FBI: 36 events
+- White House: 47 events
+- Supreme Court: 45 events
+- George W. Bush: 45 events
 
 ## Events by Year
 - 1142: 1 events
@@ -59,12 +57,12 @@ Generated: 2025-10-17 15:52:22
 - 1953: 2 events
 - 1968: 1 events
 - 1970: 2 events
-- 1971: 11 events
+- 1971: 8 events
 - 1972: 5 events
-- 1973: 15 events
+- 1973: 12 events
 - 1974: 2 events
-- 1975: 6 events
-- 1976: 10 events
+- 1975: 5 events
+- 1976: 9 events
 - 1977: 2 events
 - 1978: 5 events
 - 1979: 2 events
@@ -78,37 +76,37 @@ Generated: 2025-10-17 15:52:22
 - 1989: 4 events
 - 1990: 6 events
 - 1991: 4 events
-- 1992: 3 events
+- 1992: 2 events
 - 1993: 4 events
 - 1994: 3 events
-- 1995: 10 events
+- 1995: 7 events
 - 1996: 6 events
 - 1997: 13 events
 - 1998: 18 events
-- 1999: 10 events
-- 2000: 13 events
+- 1999: 9 events
+- 2000: 12 events
 - 2001: 22 events
-- 2002: 64 events
+- 2002: 58 events
 - 2003: 20 events
-- 2004: 17 events
+- 2004: 16 events
 - 2005: 15 events
-- 2006: 10 events
+- 2006: 9 events
 - 2007: 7 events
 - 2008: 16 events
-- 2009: 17 events
-- 2010: 19 events
+- 2009: 15 events
+- 2010: 17 events
 - 2011: 6 events
-- 2012: 12 events
+- 2012: 11 events
 - 2013: 17 events
 - 2014: 22 events
 - 2015: 8 events
 - 2016: 32 events
-- 2017: 51 events
+- 2017: 77 events
 - 2018: 38 events
-- 2019: 42 events
+- 2019: 40 events
 - 2020: 34 events
-- 2021: 40 events
-- 2022: 42 events
-- 2023: 57 events
-- 2024: 103 events
-- 2025: 686 events
+- 2021: 38 events
+- 2022: 39 events
+- 2023: 53 events
+- 2024: 100 events
+- 2025: 967 events

@@ -1,23 +1,21 @@
 {
-  "total_events": 1589,
-  "total_tags": 3341,
-  "total_actors": 3189,
-  "total_sources": 5707,
+  "total_events": 1856,
+  "total_tags": 3598,
+  "total_actors": 3547,
+  "total_sources": 6175,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-11-04"
   },
   "status_counts": {
-    "confirmed": 1452,
-    "validated": 32,
-    "unknown": 87,
+    "unknown": 233,
+    "confirmed": 1575,
+    "validated": 31,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
-    "extensively-documented": 1,
-    "reported": 6,
+    "reported": 7,
     "investigated": 1,
-    "partially-verified": 1,
     "contested": 1,
     "needs_work": 1,
     "unverified": 1,
@@ -27,86 +25,86 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 286
+      "count": 317
+    },
+    {
+      "name": "institutional-capture",
+      "count": 203
     },
     {
       "name": "corruption",
-      "count": 126
+      "count": 188
     },
     {
       "name": "kleptocracy",
-      "count": 124
+      "count": 132
     },
     {
       "name": "government-contracts",
-      "count": 117
+      "count": 120
     },
     {
       "name": "crypto",
-      "count": 111
+      "count": 112
     },
     {
       "name": "trump-administration",
       "count": 97
     },
     {
-      "name": "conflict-of-interest",
-      "count": 76
-    },
-    {
       "name": "foreign-influence",
-      "count": 75
-    },
-    {
-      "name": "institutional-capture",
-      "count": 73
+      "count": 85
     },
     {
       "name": "constitutional-crisis",
-      "count": 63
+      "count": 82
+    },
+    {
+      "name": "conflict-of-interest",
+      "count": 74
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 560
+      "count": 716
     },
     {
       "name": "Trump Administration",
-      "count": 272
+      "count": 289
     },
     {
       "name": "Elon Musk",
-      "count": 147
+      "count": 157
     },
     {
       "name": "Department of Justice",
-      "count": 70
+      "count": 108
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 51
+    },
+    {
+      "name": "Pam Bondi",
+      "count": 49
     },
     {
       "name": "Dick Cheney",
       "count": 48
     },
     {
-      "name": "George W. Bush",
+      "name": "White House",
       "count": 47
     },
     {
-      "name": "Karl Rove",
+      "name": "Supreme Court",
       "count": 45
     },
     {
-      "name": "Jeffrey Epstein",
-      "count": 42
-    },
-    {
-      "name": "Heritage Foundation",
-      "count": 37
-    },
-    {
-      "name": "FBI",
-      "count": 36
+      "name": "George W. Bush",
+      "count": 45
     }
   ],
-  "generated": "2025-10-17T15:52:22.512495"
+  "generated": "2025-11-01T19:05:51.464139"
 }

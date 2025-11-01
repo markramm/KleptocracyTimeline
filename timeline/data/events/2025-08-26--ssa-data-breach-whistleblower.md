@@ -4,17 +4,10 @@ date: '2025-08-26'
 title: Whistleblower Exposes DOGE Social Security Database Vulnerability
 importance: 9
 actors:
-- name: Charles Borges
-  role: SSA Chief Data Officer
-  type: whistleblower
-- name: Ed Coristine
-  role: DOGE Employee
-  type: potential perpetrator
-- name: John Solly
-  role: SSA Cybersecurity Official
-  type: witness
-- name: Social Security Administration
-  type: organization
+- Charles Borges
+- Ed Coristine
+- John Solly
+- Social Security Administration
 sources:
 - date: '2025-08-26'
   outlet: NPR
