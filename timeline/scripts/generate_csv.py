@@ -5,26 +5,26 @@ Generate CSV and JSON exports of timeline events.
 
 import csv
 import json
-import yaml
+import sys
 import argparse
 from pathlib import Path
 from datetime import datetime
 
+# Add parent directory to path for imports
+sys.path.insert(0, str(Path(__file__).parent))
+
+from utils import get_event_files, load_event
+
+
 def load_events(events_dir):
-    """Load all timeline events from YAML files."""
+    """Load all timeline events from event files (.yaml, .yml, .md, .json)."""
     events = []
-    events_path = Path(events_dir)
-    
-    for yaml_file in sorted(events_path.glob('*.yaml')):
-        with open(yaml_file, 'r') as f:
-            try:
-                event = yaml.safe_load(f)
-                if event:
-                    events.append(event)
-            except yaml.YAMLError as e:
-                print(f"Error loading {yaml_file}: {e}")
-                continue
-    
+
+    for filepath in get_event_files(events_dir):
+        event = load_event(filepath)
+        if event:
+            events.append(event)
+
     return events
 
 def generate_csv(events, output_file):
@@ -48,7 +48,23 @@ def generate_csv(events, output_file):
             date_val = event.get('date', '')
             if hasattr(date_val, 'isoformat'):
                 date_val = date_val.isoformat()
-            
+
+            # Helper to safely convert list items to strings
+            def to_string_list(items):
+                """Convert list items to strings, handling dicts and other types."""
+                if not items:
+                    return []
+                result = []
+                for item in items:
+                    if isinstance(item, str):
+                        result.append(item)
+                    elif isinstance(item, dict):
+                        # For dicts, use the 'name' field if available, else JSON
+                        result.append(item.get('name', json.dumps(item)))
+                    else:
+                        result.append(str(item))
+                return result
+
             row = {
                 'id': event.get('id', ''),
                 'date': date_val,
@@ -56,8 +72,8 @@ def generate_csv(events, output_file):
                 'summary': event.get('summary', ''),
                 'importance': event.get('importance', ''),
                 'status': event.get('status', 'confirmed'),
-                'actors': '|'.join(event.get('actors', [])),
-                'tags': '|'.join(event.get('tags', [])),
+                'actors': '|'.join(to_string_list(event.get('actors', []))),
+                'tags': '|'.join(to_string_list(event.get('tags', []))),
                 'sources': json.dumps(event.get('sources', []), default=str)
             }
             writer.writerow(row)
