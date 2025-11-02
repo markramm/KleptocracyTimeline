@@ -4326,6 +4326,15 @@
 3. [New York Congressman Indicted on Insider Trading Charges](https://www.npr.org/2018/08/08/636666323/new-york-congressman-indicted-on-insider-trading-charges)
 4. [Ex-Rep. Collins Gets Over 2 Years in Insider Trading Case](https://www.pbs.org/newshour/politics/ex-rep-collins-gets-over-2-years-in-insider-trading-case)
 
+## Peter Thiel's Founders Fund Invests $15M in Carbyne, Connecting Epstein-Barak Surveillance Network to Erik Prince Operations
+*Date: 2018-08-14*
+
+1. [Founders Fund Joins Carbyne's $15 Million Series B Round](https://www.prnewswire.com/news-releases/founders-fund-joins-carbyne-s-15-million-series-b-round-to-provide-life-saving-emergency-response-ecosystem-898902831.html)
+2. [Founders Fund Invests in a 911 Startup Backed by Ehud Barak](https://www.calcalistech.com/ctech/articles/0,7340,L-3744302,00.html)
+3. [The Prince and The Spy](https://unlimitedhangout.com/2023/05/reportaje-investigativo/the-prince-and-the-spy/)
+4. [Two American billionaires and their shady deals with Israeli intelligence](https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819)
+5. [Inside Jeffrey Epstein's spy industry connections](https://reason.com/2025/08/27/inside-jeffrey-epsteins-spy-industry-connections/)
+
 ## Operation Faithful Patriot deploys 5,200 active-duty troops to border
 *Date: 2018-10-01*
 

@@ -19,7 +19,11 @@ actors:
 - Ehud Barak
 - Pinchas Buchris
 - Peter Thiel
+- Erik Prince
 - Amir Elichai
+- Lital Leshem
+- Alex Dizengof
+- Nicole Junkermann
 - Trae Stephens
 - Carbyne
 sources:
@@ -60,4 +64,6 @@ capture_lanes:
 - Technology Surveillance
 ---
 
-Jeffrey Epstein and Ehud Barak jointly invested in Carbyne (initially Reporty Homeland Security), a sophisticated surveillance technology company co-founded by Pinchas Buchris, former head of Israel's Unit 8200 signals intelligence unit. Carbyne developed an advanced emergency response platform providing complete GPS and camera access during emergency calls, reducing response times by approximately 65%. The partnership strategically positioned the company to seek opportunities in the surveillance industry, attracting later investments from Peter Thiel's Founders Fund in 2018.
+Jeffrey Epstein and Ehud Barak jointly invested in Carbyne (initially Reporty Homeland Security), a sophisticated surveillance technology company co-founded by Unit 8200 veterans Lital Leshem, Amir Elichai, and Alex Dizengof. Barak invested $1.5 million through a limited partnership company called Sum (E.B.) 2015, with Epstein financing much of the investment through a British Virgin Islands company named Southern Trust. The company's board included Pinchas Buchris (former commander of Unit 8200) and Nicole Junkermann, both close Epstein associates.
+
+Carbyne developed an advanced Next-Generation 911 platform providing complete GPS location, live video streaming, and camera access during emergency calls, with the explicit goal of interconnecting all 911 systems nationwide. Co-founder Leshem, who served in Unit 8200 from 2005-2011, would later work for both Black Cube private intelligence and Erik Prince's Frontier Resource Group while maintaining her Carbyne shareholding. The partnership strategically positioned the company to seek opportunities in the surveillance industry, with Epstein arranging meetings between Barak and Peter Thiel in May 2014, ultimately attracting Thiel's Founders Fund investment in the $15 million Series B round in August 2018.

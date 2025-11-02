@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-01 19:05:51
+Generated: 2025-11-01 23:36:41
 
 ## Overview
-- **Total Events**: 1856
+- **Total Events**: 1857
 - **Date Range**: 1142-01-01 to 2025-11-04
-- **Total Sources**: 6175
-- **Unique Tags**: 3598
-- **Unique Actors**: 3547
+- **Total Sources**: 6180
+- **Unique Tags**: 3599
+- **Unique Actors**: 3551
 
 ## Event Status
 - **Unknown**: 233
-- **Confirmed**: 1575
+- **Confirmed**: 1576
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -32,7 +32,7 @@ Generated: 2025-11-01 19:05:51
 - government-contracts: 120 events
 - crypto: 112 events
 - trump-administration: 97 events
-- foreign-influence: 85 events
+- foreign-influence: 86 events
 - constitutional-crisis: 82 events
 - conflict-of-interest: 74 events
 
@@ -41,7 +41,7 @@ Generated: 2025-11-01 19:05:51
 - Trump Administration: 289 events
 - Elon Musk: 157 events
 - Department of Justice: 108 events
-- Jeffrey Epstein: 51 events
+- Jeffrey Epstein: 52 events
 - Pam Bondi: 49 events
 - Dick Cheney: 48 events
 - White House: 47 events
@@ -102,7 +102,7 @@ Generated: 2025-11-01 19:05:51
 - 2015: 8 events
 - 2016: 32 events
 - 2017: 77 events
-- 2018: 38 events
+- 2018: 39 events
 - 2019: 40 events
 - 2020: 34 events
 - 2021: 38 events
