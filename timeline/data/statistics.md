@@ -1,18 +1,18 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-02 00:42:52
+Generated: 2025-11-02 01:08:09
 
 ## Overview
-- **Total Events**: 1946
+- **Total Events**: 1945
 - **Date Range**: 1142-01-01 to 2025-11-04
 - **Total Sources**: 6373
 - **Unique Tags**: 3606
 - **Unique Actors**: 3585
 
 ## Event Status
-- **Unknown**: 305
 - **Confirmed**: 1593
 - **Validated**: 31
+- **Unknown**: 304
 - **Disputed**: 2
 - **Verified**: 1
 - **Enhanced**: 1

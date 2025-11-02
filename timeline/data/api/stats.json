@@ -1,5 +1,5 @@
 {
-  "total_events": 1946,
+  "total_events": 1945,
   "total_tags": 3606,
   "total_actors": 3585,
   "total_sources": 6373,
@@ -8,9 +8,9 @@
     "end": "2025-11-04"
   },
   "status_counts": {
-    "unknown": 305,
     "confirmed": 1593,
     "validated": 31,
+    "unknown": 304,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
@@ -106,5 +106,5 @@
       "count": 45
     }
   ],
-  "generated": "2025-11-02T00:42:52.853768"
+  "generated": "2025-11-02T01:08:09.320911"
 }

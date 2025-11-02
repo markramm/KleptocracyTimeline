@@ -159,10 +159,14 @@ def get_event_files(events_dir: Union[str, Path] = "timeline_data/events") -> Li
         print(f"Warning: Events directory not found: {events_dir}", file=sys.stderr)
         return []
 
-    # Get all event files (.yaml, .yml, .md, .json), excluding hidden files
+    # Get all event files (.yaml, .yml, .md, .json), excluding hidden files and README
     event_files = []
     for pattern in ['*.yaml', '*.yml', '*.md', '*.json']:
-        event_files.extend([f for f in events_dir.glob(pattern) if not f.name.startswith('.')])
+        event_files.extend([
+            f for f in events_dir.glob(pattern)
+            if not f.name.startswith('.')
+            and f.name.upper() not in ['README.MD', 'README']
+        ])
 
     return sorted(event_files)
 
