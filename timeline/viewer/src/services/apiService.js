@@ -60,8 +60,9 @@ export const timelineEventsAPI = {
     search = null
   } = {}) {
     if (!USE_LIVE_API) {
-      // Fallback to static data
-      const response = await apiClient.get(API_ENDPOINTS.timeline);
+      // Fallback to static data with cache busting
+      const cacheBuster = `?v=${Date.now()}`;
+      const response = await apiClient.get(API_ENDPOINTS.timeline + cacheBuster);
       return transformStaticData(response.data, 'timeline');
     }
 
@@ -157,7 +158,8 @@ export const metadataAPI = {
    */
   async getActors({ min_events = null, limit = null } = {}) {
     if (!USE_LIVE_API) {
-      const response = await apiClient.get(API_ENDPOINTS.actors);
+      const cacheBuster = `?v=${Date.now()}`;
+      const response = await apiClient.get(API_ENDPOINTS.actors + cacheBuster);
       return transformStaticData(response.data, 'actors');
     }
 
@@ -174,7 +176,8 @@ export const metadataAPI = {
    */
   async getTags({ min_frequency = null, limit = null } = {}) {
     if (!USE_LIVE_API) {
-      const response = await apiClient.get(API_ENDPOINTS.tags);
+      const cacheBuster = `?v=${Date.now()}`;
+      const response = await apiClient.get(API_ENDPOINTS.tags + cacheBuster);
       return transformStaticData(response.data, 'tags');
     }
 
@@ -295,7 +298,8 @@ export const statisticsAPI = {
    */
   async getOverview() {
     if (!USE_LIVE_API) {
-      const response = await apiClient.get(API_ENDPOINTS.stats);
+      const cacheBuster = `?v=${Date.now()}`;
+      const response = await apiClient.get(API_ENDPOINTS.stats + cacheBuster);
       return transformStaticData(response.data, 'stats');
     }
 
