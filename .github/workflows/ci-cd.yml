@@ -171,6 +171,12 @@ jobs:
           python scripts/generate_csv.py --events-dir data/events --viewer-dir viewer --json
           echo "CSV and JSON exports generated successfully"
           
+      - name: Copy API files to viewer public directory
+        run: |
+          mkdir -p timeline/viewer/public/api
+          cp timeline/data/api/*.json timeline/viewer/public/api/
+          echo "✅ Copied API files to viewer public directory"
+
       - name: Install Node dependencies
         run: |
           cd timeline/viewer
