@@ -11,11 +11,20 @@ import './EnhancedTimelineView.css';
 
 // Helper function to safely format dates
 const safeFormat = (dateString, formatStr) => {
+  // Handle null/undefined/empty dates
+  if (!dateString || dateString === 'undefined' || dateString === 'Unknown-01-01') {
+    return 'Unknown';
+  }
+
   try {
-    return format(parseISO(dateString), formatStr);
+    const parsed = parseISO(dateString);
+    // Check if date is valid
+    if (isNaN(parsed.getTime())) {
+      return dateString || 'Unknown';
+    }
+    return format(parsed, formatStr);
   } catch (error) {
-    console.error('Invalid date:', dateString, error);
-    return dateString; // Return original string if parsing fails
+    return dateString || 'Unknown';
   }
 };
 
