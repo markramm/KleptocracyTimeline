@@ -17,15 +17,15 @@
   },
   {
     "name": "Jeffrey Epstein",
+    "count": 52
+  },
+  {
+    "name": "Dick Cheney",
     "count": 51
   },
   {
     "name": "Pam Bondi",
     "count": 49
-  },
-  {
-    "name": "Dick Cheney",
-    "count": 48
   },
   {
     "name": "White House",
@@ -72,11 +72,11 @@
     "count": 31
   },
   {
-    "name": "Congress",
-    "count": 29
+    "name": "Department of Homeland Security",
+    "count": 30
   },
   {
-    "name": "Department of Homeland Security",
+    "name": "Congress",
     "count": 29
   },
   {
@@ -84,12 +84,12 @@
     "count": 29
   },
   {
-    "name": "Russell Vought",
+    "name": "Kristi Noem",
     "count": 29
   },
   {
-    "name": "Kristi Noem",
-    "count": 28
+    "name": "Russell Vought",
+    "count": 29
   },
   {
     "name": "xAI",
@@ -144,6 +144,10 @@
     "count": 20
   },
   {
+    "name": "Peter Thiel",
+    "count": 20
+  },
+  {
     "name": "SpaceX",
     "count": 20
   },
@@ -152,16 +156,12 @@
     "count": 20
   },
   {
-    "name": "Peter Thiel",
-    "count": 19
+    "name": "State Department",
+    "count": 18
   },
   {
     "name": "IMF",
     "count": 18
-  },
-  {
-    "name": "State Department",
-    "count": 17
   },
   {
     "name": "Clarence Thomas",
@@ -185,6 +185,10 @@
   },
   {
     "name": "McKinsey & Company",
+    "count": 16
+  },
+  {
+    "name": "Department of Defense",
     "count": 16
   },
   {
@@ -216,7 +220,7 @@
     "count": 15
   },
   {
-    "name": "Department of Defense",
+    "name": "Erik Prince",
     "count": 15
   },
   {
@@ -248,6 +252,14 @@
     "count": 13
   },
   {
+    "name": "Halliburton",
+    "count": 13
+  },
+  {
+    "name": "Barack Obama",
+    "count": 13
+  },
+  {
     "name": "Pete Hegseth",
     "count": 13
   },
@@ -269,10 +281,6 @@
   },
   {
     "name": "Michael Gerson",
-    "count": 12
-  },
-  {
-    "name": "Barack Obama",
     "count": 12
   },
   {
@@ -305,6 +313,10 @@
   },
   {
     "name": "Leonard Leo",
+    "count": 11
+  },
+  {
+    "name": "Bill Clinton",
     "count": 11
   },
   {
@@ -341,10 +353,6 @@
   },
   {
     "name": "Grover Norquist",
-    "count": 10
-  },
-  {
-    "name": "Bill Clinton",
     "count": 10
   },
   {
@@ -500,6 +508,10 @@
     "count": 8
   },
   {
+    "name": "House Oversight Committee",
+    "count": 8
+  },
+  {
     "name": "Cambridge Analytica",
     "count": 8
   },
@@ -596,10 +608,6 @@
     "count": 7
   },
   {
-    "name": "Halliburton",
-    "count": 7
-  },
-  {
     "name": "Eric Holder",
     "count": 7
   },
@@ -645,10 +653,6 @@
   },
   {
     "name": "Senate Judiciary Committee",
-    "count": 7
-  },
-  {
-    "name": "House Oversight Committee",
     "count": 7
   },
   {
@@ -753,6 +757,10 @@
   },
   {
     "name": "Office of Special Plans",
+    "count": 6
+  },
+  {
+    "name": "KBR",
     "count": 6
   },
   {
@@ -944,11 +952,11 @@
     "count": 5
   },
   {
-    "name": "Federal Aviation Administration",
+    "name": "Blackwater",
     "count": 5
   },
   {
-    "name": "Erik Prince",
+    "name": "Federal Aviation Administration",
     "count": 5
   },
   {
@@ -1001,6 +1009,10 @@
   },
   {
     "name": "Gazprombank",
+    "count": 5
+  },
+  {
+    "name": "Secret Service",
     "count": 5
   },
   {
@@ -1196,6 +1208,10 @@
     "count": 4
   },
   {
+    "name": "Henry Waxman",
+    "count": 4
+  },
+  {
     "name": "T-Mobile",
     "count": 4
   },
@@ -1252,6 +1268,10 @@
     "count": 4
   },
   {
+    "name": "Senate",
+    "count": 4
+  },
+  {
     "name": "Lanny Breuer",
     "count": 4
   },
@@ -1273,6 +1293,10 @@
   },
   {
     "name": "Microsoft",
+    "count": 4
+  },
+  {
+    "name": "Ehud Barak",
     "count": 4
   },
   {
@@ -1301,10 +1325,6 @@
   },
   {
     "name": "Brett Kavanaugh",
-    "count": 4
-  },
-  {
-    "name": "Secret Service",
     "count": 4
   },
   {
@@ -1396,6 +1416,10 @@
     "count": 4
   },
   {
+    "name": "National Treasury Employees Union",
+    "count": 4
+  },
+  {
     "name": "John Ratcliffe",
     "count": 4
   },
@@ -1481,6 +1505,10 @@
   },
   {
     "name": "Aram Moghaddassi",
+    "count": 4
+  },
+  {
+    "name": "Immigration and Customs Enforcement",
     "count": 4
   },
   {
@@ -1580,10 +1608,6 @@
     "count": 3
   },
   {
-    "name": "Henry Waxman",
-    "count": 3
-  },
-  {
     "name": "David Addington",
     "count": 3
   },
@@ -1640,6 +1664,10 @@
     "count": 3
   },
   {
+    "name": "Al Franken",
+    "count": 3
+  },
+  {
     "name": "James Risen",
     "count": 3
   },
@@ -1661,10 +1689,6 @@
   },
   {
     "name": "Robin Arkley II",
-    "count": 3
-  },
-  {
-    "name": "Senate",
     "count": 3
   },
   {
@@ -1749,10 +1773,6 @@
   },
   {
     "name": "NSO Group",
-    "count": 3
-  },
-  {
-    "name": "Ehud Barak",
     "count": 3
   },
   {
@@ -2116,10 +2136,6 @@
     "count": 3
   },
   {
-    "name": "National Treasury Employees Union",
-    "count": 3
-  },
-  {
     "name": "Protect Democracy",
     "count": 3
   },
@@ -2289,10 +2305,6 @@
   },
   {
     "name": "Harvard University",
-    "count": 3
-  },
-  {
-    "name": "Immigration and Customs Enforcement",
     "count": 3
   },
   {
@@ -2748,10 +2760,6 @@
     "count": 2
   },
   {
-    "name": "KBR",
-    "count": 2
-  },
-  {
     "name": "Bunnatine Greenhouse",
     "count": 2
   },
@@ -2785,6 +2793,10 @@
   },
   {
     "name": "Louisiana Coushatta",
+    "count": 2
+  },
+  {
+    "name": "John Ashcroft",
     "count": 2
   },
   {
@@ -2840,6 +2852,10 @@
     "count": 2
   },
   {
+    "name": "Jamie Leigh Jones",
+    "count": 2
+  },
+  {
     "name": "CFIUS",
     "count": 2
   },
@@ -2884,6 +2900,10 @@
     "count": 2
   },
   {
+    "name": "David Lesar",
+    "count": 2
+  },
+  {
     "name": "FISA Court",
     "count": 2
   },
@@ -2900,11 +2920,19 @@
     "count": 2
   },
   {
+    "name": "Pentagon Inspector General",
+    "count": 2
+  },
+  {
     "name": "Booz Allen Hamilton",
     "count": 2
   },
   {
     "name": "Covington & Burling",
+    "count": 2
+  },
+  {
+    "name": "Xe Services",
     "count": 2
   },
   {
@@ -2933,6 +2961,10 @@
   },
   {
     "name": "Chris Van Hollen",
+    "count": 2
+  },
+  {
+    "name": "United Arab Emirates",
     "count": 2
   },
   {
@@ -2965,6 +2997,10 @@
   },
   {
     "name": "Free Press",
+    "count": 2
+  },
+  {
+    "name": "Academi",
     "count": 2
   },
   {
@@ -3012,6 +3048,18 @@
     "count": 2
   },
   {
+    "name": "Chang Zhenming",
+    "count": 2
+  },
+  {
+    "name": "CITIC Group",
+    "count": 2
+  },
+  {
+    "name": "Frontier Services Group",
+    "count": 2
+  },
+  {
     "name": "Viktor Yanukovych",
     "count": 2
   },
@@ -3036,6 +3084,14 @@
     "count": 2
   },
   {
+    "name": "Triple Canopy",
+    "count": 2
+  },
+  {
+    "name": "Constellis Holdings",
+    "count": 2
+  },
+  {
     "name": "Crow Holdings",
     "count": 2
   },
@@ -3045,6 +3101,30 @@
   },
   {
     "name": "Prince Andrew",
+    "count": 2
+  },
+  {
+    "name": "Pinchas Buchris",
+    "count": 2
+  },
+  {
+    "name": "Amir Elichai",
+    "count": 2
+  },
+  {
+    "name": "Lital Leshem",
+    "count": 2
+  },
+  {
+    "name": "Alex Dizengof",
+    "count": 2
+  },
+  {
+    "name": "Nicole Junkermann",
+    "count": 2
+  },
+  {
+    "name": "Trae Stephens",
     "count": 2
   },
   {
@@ -4037,6 +4117,10 @@
   },
   {
     "name": "Challenger Gray & Christmas",
+    "count": 2
+  },
+  {
+    "name": "Customs and Border Protection",
     "count": 2
   },
   {
@@ -5476,6 +5560,10 @@
     "count": 1
   },
   {
+    "name": "Halliburton Products and Services",
+    "count": 1
+  },
+  {
     "name": "Mercer Reynolds",
     "count": 1
   },
@@ -6076,11 +6164,27 @@
     "count": 1
   },
   {
-    "name": "John Ashcroft",
+    "name": "Andy Card",
     "count": 1
   },
   {
-    "name": "Andy Card",
+    "name": "Scott Helvenston",
+    "count": 1
+  },
+  {
+    "name": "Jerry Zovko",
+    "count": 1
+  },
+  {
+    "name": "Wesley Batalona",
+    "count": 1
+  },
+  {
+    "name": "Mike Teague",
+    "count": 1
+  },
+  {
+    "name": "ESS (food caterers)",
     "count": 1
   },
   {
@@ -6288,6 +6392,14 @@
     "count": 1
   },
   {
+    "name": "Ted Poe",
+    "count": 1
+  },
+  {
+    "name": "Equal Employment Opportunity Commission",
+    "count": 1
+  },
+  {
     "name": "Energy Task Force",
     "count": 1
   },
@@ -6420,7 +6532,15 @@
     "count": 1
   },
   {
+    "name": "Patrick Leahy",
+    "count": 1
+  },
+  {
     "name": "Roger Vinson",
+    "count": 1
+  },
+  {
+    "name": "Senate Armed Services Committee",
     "count": 1
   },
   {
@@ -6469,6 +6589,18 @@
   },
   {
     "name": "Panama corporations",
+    "count": 1
+  },
+  {
+    "name": "Ryan Maseth",
+    "count": 1
+  },
+  {
+    "name": "Defense Contract Management Agency",
+    "count": 1
+  },
+  {
+    "name": "Army Criminal Investigations",
     "count": 1
   },
   {
@@ -6724,6 +6856,14 @@
     "count": 1
   },
   {
+    "name": "Mohammed bin Zayed Al Nahyan",
+    "count": 1
+  },
+  {
+    "name": "Reflex Responses",
+    "count": 1
+  },
+  {
     "name": "yale-law-school",
     "count": 1
   },
@@ -6733,6 +6873,18 @@
   },
   {
     "name": "Ben Bernanke",
+    "count": 1
+  },
+  {
+    "name": "Jack Quinn",
+    "count": 1
+  },
+  {
+    "name": "Bobby Ray Inman",
+    "count": 1
+  },
+  {
+    "name": "Red McCombs",
     "count": 1
   },
   {
@@ -7056,18 +7208,6 @@
     "count": 1
   },
   {
-    "name": "Pinchas Buchris",
-    "count": 1
-  },
-  {
-    "name": "Amir Elichai",
-    "count": 1
-  },
-  {
-    "name": "Trae Stephens",
-    "count": 1
-  },
-  {
     "name": "Carbyne",
     "count": 1
   },
@@ -7252,6 +7392,10 @@
     "count": 1
   },
   {
+    "name": "Apollo Global Management",
+    "count": 1
+  },
+  {
     "name": "Unite-HERE Local 54 union",
     "count": 1
   },
@@ -7400,10 +7544,6 @@
     "count": 1
   },
   {
-    "name": "Al Franken",
-    "count": 1
-  },
-  {
     "name": "Kellyanne Conway",
     "count": 1
   },
@@ -7517,6 +7657,18 @@
   },
   {
     "name": "James Murdoch",
+    "count": 1
+  },
+  {
+    "name": "DarkMatter",
+    "count": 1
+  },
+  {
+    "name": "Huawei",
+    "count": 1
+  },
+  {
+    "name": "Pegasus",
     "count": 1
   },
   {
@@ -7757,6 +7909,10 @@
   },
   {
     "name": "U.S. District Judge Vernon S. Broderick",
+    "count": 1
+  },
+  {
+    "name": "Michael Chertoff",
     "count": 1
   },
   {
@@ -10212,10 +10368,6 @@
     "count": 1
   },
   {
-    "name": "Pentagon Inspector General",
-    "count": 1
-  },
-  {
     "name": "Iranian Regime",
     "count": 1
   },
@@ -10765,10 +10917,6 @@
   },
   {
     "name": "Craft Ventures",
-    "count": 1
-  },
-  {
-    "name": "Customs and Border Protection",
     "count": 1
   },
   {
@@ -14045,6 +14193,10 @@
   },
   {
     "name": "Marci McCarthy",
+    "count": 1
+  },
+  {
+    "name": "Transportation Security Administration",
     "count": 1
   },
   {

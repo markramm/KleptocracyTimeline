@@ -1,15 +1,15 @@
 {
-  "total_events": 1856,
-  "total_tags": 3598,
-  "total_actors": 3547,
-  "total_sources": 6175,
+  "total_events": 1874,
+  "total_tags": 3606,
+  "total_actors": 3585,
+  "total_sources": 6233,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-11-04"
   },
   "status_counts": {
     "unknown": 233,
-    "confirmed": 1575,
+    "confirmed": 1593,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -29,7 +29,7 @@
     },
     {
       "name": "institutional-capture",
-      "count": 203
+      "count": 204
     },
     {
       "name": "corruption",
@@ -53,7 +53,7 @@
     },
     {
       "name": "foreign-influence",
-      "count": 85
+      "count": 89
     },
     {
       "name": "constitutional-crisis",
@@ -83,15 +83,15 @@
     },
     {
       "name": "Jeffrey Epstein",
+      "count": 52
+    },
+    {
+      "name": "Dick Cheney",
       "count": 51
     },
     {
       "name": "Pam Bondi",
       "count": 49
-    },
-    {
-      "name": "Dick Cheney",
-      "count": 48
     },
     {
       "name": "White House",
@@ -106,5 +106,5 @@
       "count": 45
     }
   ],
-  "generated": "2025-11-01T19:05:51.464139"
+  "generated": "2025-11-02T00:26:53.296174"
 }

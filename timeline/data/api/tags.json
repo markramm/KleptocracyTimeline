@@ -5,7 +5,7 @@
   },
   {
     "name": "institutional-capture",
-    "count": 203
+    "count": 204
   },
   {
     "name": "corruption",
@@ -29,7 +29,7 @@
   },
   {
     "name": "foreign-influence",
-    "count": 85
+    "count": 89
   },
   {
     "name": "constitutional-crisis",
@@ -40,12 +40,12 @@
     "count": 74
   },
   {
-    "name": "systematic-corruption",
-    "count": 63
+    "name": "conflicts-of-interest",
+    "count": 70
   },
   {
-    "name": "conflicts-of-interest",
-    "count": 62
+    "name": "systematic-corruption",
+    "count": 63
   },
   {
     "name": "executive-power",
@@ -96,6 +96,10 @@
     "count": 36
   },
   {
+    "name": "authoritarianism",
+    "count": 35
+  },
+  {
     "name": "revolving-door",
     "count": 34
   },
@@ -112,10 +116,6 @@
     "count": 32
   },
   {
-    "name": "authoritarianism",
-    "count": 32
-  },
-  {
     "name": "constitutional-violation",
     "count": 31
   },
@@ -128,16 +128,16 @@
     "count": 30
   },
   {
+    "name": "iraq-war",
+    "count": 30
+  },
+  {
     "name": "election-interference",
     "count": 29
   },
   {
     "name": "executive-overreach",
     "count": 29
-  },
-  {
-    "name": "iraq-war",
-    "count": 28
   },
   {
     "name": "surveillance",
@@ -156,6 +156,10 @@
     "count": 24
   },
   {
+    "name": "immigration-enforcement",
+    "count": 24
+  },
+  {
     "name": "lobbying",
     "count": 23
   },
@@ -169,10 +173,6 @@
   },
   {
     "name": "doj-weaponization",
-    "count": 23
-  },
-  {
-    "name": "immigration-enforcement",
     "count": 23
   },
   {
@@ -228,6 +228,10 @@
     "count": 18
   },
   {
+    "name": "congressional-oversight",
+    "count": 18
+  },
+  {
     "name": "pardon",
     "count": 18
   },
@@ -241,10 +245,6 @@
   },
   {
     "name": "press-freedom",
-    "count": 17
-  },
-  {
-    "name": "congressional-oversight",
     "count": 17
   },
   {
@@ -372,6 +372,10 @@
     "count": 13
   },
   {
+    "name": "private-military",
+    "count": 13
+  },
+  {
     "name": "voter-suppression",
     "count": 13
   },
@@ -409,6 +413,10 @@
   },
   {
     "name": "fcc",
+    "count": 12
+  },
+  {
+    "name": "accountability-crisis",
     "count": 12
   },
   {
@@ -572,6 +580,10 @@
     "count": 9
   },
   {
+    "name": "corporate-impunity",
+    "count": 9
+  },
+  {
     "name": "cheney",
     "count": 9
   },
@@ -696,6 +708,10 @@
     "count": 8
   },
   {
+    "name": "china",
+    "count": 8
+  },
+  {
     "name": "ukraine",
     "count": 8
   },
@@ -748,6 +764,10 @@
     "count": 7
   },
   {
+    "name": "private-intelligence",
+    "count": 7
+  },
+  {
     "name": "institutional-coordination",
     "count": 7
   },
@@ -784,6 +804,10 @@
     "count": 7
   },
   {
+    "name": "war-crimes",
+    "count": 7
+  },
+  {
     "name": "osp",
     "count": 7
   },
@@ -797,6 +821,10 @@
   },
   {
     "name": "astroturf-organizing",
+    "count": 7
+  },
+  {
+    "name": "tax-avoidance",
     "count": 7
   },
   {
@@ -1052,15 +1080,15 @@
     "count": 6
   },
   {
+    "name": "surveillance-technology",
+    "count": 6
+  },
+  {
     "name": "crimea",
     "count": 6
   },
   {
     "name": "offshore-finance",
-    "count": 6
-  },
-  {
-    "name": "tax-avoidance",
     "count": 6
   },
   {
@@ -1085,6 +1113,10 @@
   },
   {
     "name": "transparency-failure",
+    "count": 6
+  },
+  {
+    "name": "human-rights-violations",
     "count": 6
   },
   {
@@ -1216,10 +1248,6 @@
     "count": 5
   },
   {
-    "name": "private-intelligence",
-    "count": 5
-  },
-  {
     "name": "washington-dc",
     "count": 5
   },
@@ -1245,6 +1273,10 @@
   },
   {
     "name": "corporate-crime",
+    "count": 5
+  },
+  {
+    "name": "sanctions-evasion",
     "count": 5
   },
   {
@@ -1297,6 +1329,10 @@
   },
   {
     "name": "perjury",
+    "count": 5
+  },
+  {
+    "name": "reputation-laundering",
     "count": 5
   },
   {
@@ -1360,10 +1396,6 @@
     "count": 5
   },
   {
-    "name": "china",
-    "count": 5
-  },
-  {
     "name": "mueller-investigation",
     "count": 5
   },
@@ -1381,10 +1413,6 @@
   },
   {
     "name": "sex-trafficking",
-    "count": 5
-  },
-  {
-    "name": "human-rights-violations",
     "count": 5
   },
   {
@@ -1461,6 +1489,10 @@
   },
   {
     "name": "corporate-strategy",
+    "count": 4
+  },
+  {
+    "name": "regulatory-arbitrage",
     "count": 4
   },
   {
@@ -1541,6 +1573,10 @@
   },
   {
     "name": "exploitation",
+    "count": 4
+  },
+  {
+    "name": "sexual-assault",
     "count": 4
   },
   {
@@ -1652,11 +1688,23 @@
     "count": 4
   },
   {
+    "name": "unit-8200",
+    "count": 4
+  },
+  {
+    "name": "israeli-intelligence",
+    "count": 4
+  },
+  {
     "name": "territorial-expansion",
     "count": 4
   },
   {
     "name": "family-enrichment",
+    "count": 4
+  },
+  {
+    "name": "corporate-consolidation",
     "count": 4
   },
   {
@@ -1677,10 +1725,6 @@
   },
   {
     "name": "oversight-failure",
-    "count": 4
-  },
-  {
-    "name": "sanctions-evasion",
     "count": 4
   },
   {
@@ -2024,10 +2068,6 @@
     "count": 3
   },
   {
-    "name": "war-crimes",
-    "count": 3
-  },
-  {
     "name": "crisis-exploitation-template",
     "count": 3
   },
@@ -2105,6 +2145,10 @@
   },
   {
     "name": "justice-department",
+    "count": 3
+  },
+  {
+    "name": "corporate-negligence",
     "count": 3
   },
   {
@@ -2188,11 +2232,7 @@
     "count": 3
   },
   {
-    "name": "unit-8200",
-    "count": 3
-  },
-  {
-    "name": "israeli-intelligence",
+    "name": "technology-transfer",
     "count": 3
   },
   {
@@ -2856,10 +2896,6 @@
     "count": 2
   },
   {
-    "name": "regulatory-arbitrage",
-    "count": 2
-  },
-  {
     "name": "conservative-infrastructure",
     "count": 2
   },
@@ -3085,10 +3121,6 @@
   },
   {
     "name": "pageants",
-    "count": 2
-  },
-  {
-    "name": "sexual-assault",
     "count": 2
   },
   {
@@ -3420,6 +3452,10 @@
     "count": 2
   },
   {
+    "name": "mandatory-arbitration",
+    "count": 2
+  },
+  {
     "name": "disaster-capitalism",
     "count": 2
   },
@@ -3560,6 +3596,10 @@
     "count": 2
   },
   {
+    "name": "legislative-reform",
+    "count": 2
+  },
+  {
     "name": "landmark-decision",
     "count": 2
   },
@@ -3589,6 +3629,10 @@
   },
   {
     "name": "turkey",
+    "count": 2
+  },
+  {
+    "name": "middle-east",
     "count": 2
   },
   {
@@ -3701,10 +3745,6 @@
   },
   {
     "name": "carbyne",
-    "count": 2
-  },
-  {
-    "name": "surveillance-technology",
     "count": 2
   },
   {
@@ -3841,6 +3881,10 @@
   },
   {
     "name": "systematic-intimidation",
+    "count": 2
+  },
+  {
+    "name": "uae",
     "count": 2
   },
   {
@@ -4892,6 +4936,10 @@
     "count": 2
   },
   {
+    "name": "budget-reconciliation",
+    "count": 2
+  },
+  {
     "name": "mass-incarceration",
     "count": 2
   },
@@ -4953,10 +5001,6 @@
   },
   {
     "name": "geopolitical-manipulation",
-    "count": 2
-  },
-  {
-    "name": "corporate-consolidation",
     "count": 2
   },
   {
@@ -5069,6 +5113,10 @@
   },
   {
     "name": "vulnerable-population-harm",
+    "count": 2
+  },
+  {
+    "name": "government-shutdown",
     "count": 2
   },
   {
@@ -7828,10 +7876,6 @@
     "count": 1
   },
   {
-    "name": "corporate-negligence",
-    "count": 1
-  },
-  {
     "name": "gulf-coast",
     "count": 1
   },
@@ -7893,6 +7937,10 @@
   },
   {
     "name": "savarona-yacht",
+    "count": 1
+  },
+  {
+    "name": "mercenaries",
     "count": 1
   },
   {
@@ -8385,6 +8433,14 @@
   },
   {
     "name": "advance-knowledge",
+    "count": 1
+  },
+  {
+    "name": "private-equity",
+    "count": 1
+  },
+  {
+    "name": "financialization-warfare",
     "count": 1
   },
   {
@@ -9008,6 +9064,10 @@
     "count": 1
   },
   {
+    "name": "ethnic-cleansing",
+    "count": 1
+  },
+  {
     "name": "security-clearances",
     "count": 1
   },
@@ -9164,10 +9224,6 @@
     "count": 1
   },
   {
-    "name": "accountability-crisis",
-    "count": 1
-  },
-  {
     "name": "suicide-ruling",
     "count": 1
   },
@@ -9201,10 +9257,6 @@
   },
   {
     "name": "institutional-cover-up",
-    "count": 1
-  },
-  {
-    "name": "reputation-laundering",
     "count": 1
   },
   {
@@ -12500,10 +12552,6 @@
     "count": 1
   },
   {
-    "name": "uae",
-    "count": 1
-  },
-  {
     "name": "conspiracy",
     "count": 1
   },
@@ -12924,10 +12972,6 @@
     "count": 1
   },
   {
-    "name": "middle-east",
-    "count": 1
-  },
-  {
     "name": "analysis",
     "count": 1
   },
@@ -13029,10 +13073,6 @@
   },
   {
     "name": "corporate-settlement",
-    "count": 1
-  },
-  {
-    "name": "budget-reconciliation",
     "count": 1
   },
   {
@@ -13313,10 +13353,6 @@
   },
   {
     "name": "vehicle-standards",
-    "count": 1
-  },
-  {
-    "name": "legislative-reform",
     "count": 1
   },
   {
@@ -14213,10 +14249,6 @@
   },
   {
     "name": "biometrics",
-    "count": 1
-  },
-  {
-    "name": "government-shutdown",
     "count": 1
   },
   {

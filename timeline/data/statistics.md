@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-01 23:55:17
+Generated: 2025-11-02 00:26:53
 
 ## Overview
-- **Total Events**: 1867
+- **Total Events**: 1874
 - **Date Range**: 1142-01-01 to 2025-11-04
-- **Total Sources**: 6213
-- **Unique Tags**: 3605
-- **Unique Actors**: 3574
+- **Total Sources**: 6233
+- **Unique Tags**: 3606
+- **Unique Actors**: 3585
 
 ## Event Status
 - **Unknown**: 233
-- **Confirmed**: 1586
+- **Confirmed**: 1593
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -26,13 +26,13 @@ Generated: 2025-11-01 23:55:17
 
 ## Top Tags
 - regulatory-capture: 317 events
-- institutional-capture: 203 events
+- institutional-capture: 204 events
 - corruption: 188 events
 - kleptocracy: 132 events
 - government-contracts: 120 events
 - crypto: 112 events
 - trump-administration: 97 events
-- foreign-influence: 88 events
+- foreign-influence: 89 events
 - constitutional-crisis: 82 events
 - conflict-of-interest: 74 events
 
@@ -42,8 +42,8 @@ Generated: 2025-11-01 23:55:17
 - Elon Musk: 157 events
 - Department of Justice: 108 events
 - Jeffrey Epstein: 52 events
+- Dick Cheney: 51 events
 - Pam Bondi: 49 events
-- Dick Cheney: 48 events
 - White House: 47 events
 - Supreme Court: 45 events
 - George W. Bush: 45 events
@@ -84,16 +84,16 @@ Generated: 2025-11-01 23:55:17
 - 1997: 13 events
 - 1998: 18 events
 - 1999: 9 events
-- 2000: 12 events
+- 2000: 13 events
 - 2001: 22 events
 - 2002: 58 events
 - 2003: 20 events
 - 2004: 17 events
-- 2005: 15 events
+- 2005: 16 events
 - 2006: 9 events
-- 2007: 8 events
-- 2008: 16 events
-- 2009: 16 events
+- 2007: 10 events
+- 2008: 17 events
+- 2009: 17 events
 - 2010: 17 events
 - 2011: 8 events
 - 2012: 11 events
@@ -109,4 +109,4 @@ Generated: 2025-11-01 23:55:17
 - 2022: 39 events
 - 2023: 53 events
 - 2024: 100 events
-- 2025: 967 events
+- 2025: 968 events

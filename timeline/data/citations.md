@@ -1304,6 +1304,13 @@
 2. [Exclusive: Newly discovered photos and video shed fresh light on Trump's ties to Jeffrey Epstein](https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage)
 3. [How well did Trump and Epstein really know each other? A timeline](https://www.aljazeera.com/news/2025/7/18/how-well-did-trump-and-epstein-really-know-each-other-a-timeline)
 
+## Halliburton Opens Tehran Office While Cheney Still CEO, Completing $40 Million Annual Iran Business Through Cayman Islands Subsidiary Designed to Circumvent U.S. Sanctions
+*Date: 2000-02-01*
+
+1. [Trading With the Enemy - Halliburton & GE Make Millions Trading With Iran](https://www.democracynow.org/2003/7/16/trading_with_the_enemy_halliburton_ge)
+2. [As Halliburton CEO, Cheney Evaded U.S. Law To Do Business With Iran](https://archive.thinkprogress.org/flashback-as-halliburton-ceo-cheney-evaded-u-s-law-to-do-business-with-iran-832cbeb2a568/)
+3. [Cheney, Halliburton and the Spoils of War](https://www.corpwatch.org/article/cheney-halliburton-and-spoils-war)
+
 ## Bush Creates Rangers/Pioneers Pay-to-Play Appointment System
 *Date: 2000-03-06*
 
@@ -2282,6 +2289,13 @@
 2. [Establishment of Organization Designation Authorization Program](https://www.federalregister.gov/documents/2005/10/13/05-20470/establishment-of-organization-designation-authorization-program)
 3. [Weaknesses in FAA's Certification and Delegation Processes](https://www.oig.dot.gov/sites/default/files/FAA Certification of 737 MAX Boeing II Final Report^2-23-2021.pdf)
 
+## KBR Employee Jamie Leigh Jones Alleges Gang Rape in Iraq, Exposes Systematic Use of Mandatory Arbitration to Shield Contractor Accountability
+*Date: 2005-07-28*
+
+1. [Victim - Gang-Rape Cover-Up by U.S., Halliburton/KBR](https://abcnews.go.com/Blotter/story?id=3977702&page=1)
+2. [Jamie Leigh Jones](https://en.wikipedia.org/wiki/Jamie_Leigh_Jones)
+3. [Naked, Sore, Bruised and Bleeding - Alleged U.S. Contractor Rape Victim Fights for Day in Court](https://abcnews.go.com/Blotter/halliburton-employee-jamie-leigh-jones-testifies-senate-rape/story?id=8775641)
+
 ## Energy Task Force Recommendations Become EPA Policy Without Review
 *Date: 2005-08-08*
 
@@ -2419,12 +2433,25 @@
 2. [FBI Found to Abuse Patriot Act Powers](https://www.washingtonpost.com/wp-dyn/content/article/2007/03/08/AR2007030800538.html)
 3. [F.B.I. Data Mining Reached Beyond Initial Targets](https://www.nytimes.com/2007/03/09/washington/09fbi.html)
 
+## Halliburton Moves CEO and Corporate Headquarters to Dubai for Tax Advantages and Distance from Iraq War Scandals, Weeks Before Completing KBR Spin-Off
+*Date: 2007-03-12*
+
+1. [Halliburton to Move Headquarters to Dubai](https://www.npr.org/2007/03/12/7859069/halliburton-to-move-headquarters-to-dubai)
+2. [Halliburton Moves Its Headquarters Abroad](https://abcnews.go.com/WNT/Business/story?amp=&id=2942429&page=1)
+3. [Halliburton to Move Headquarters to Dubai from Houston](https://www.cnbc.com/2007/03/12/halliburton-to-move-headquarters-to-dubai-from-houston.html)
+
 ## FISA Court Judge Rejects NSA Warrantless Surveillance Expansion
 *Date: 2007-04-01*
 
 1. [In 2007, One Judge Said No to the NSA](https://www.justsecurity.org/18541/2007-judge-no-nsa/)
 2. [Why The Foreign Intelligence Surveillance Act Court Was Right To Rebuke The Justice Department](https://supreme.findlaw.com/legal-commentary/why-the-foreign-intelligence-surveillance-act-court-was-right-to-rebuke-the-justice-department.html)
 3. [Declassified FISA Court Orders Fill in History of NSA Warrantless Surveillance](https://www.lawfaremedia.org/article/declassified-fisa-court-orders-fill-history-nsa-warrantless-surveillance)
+
+## Halliburton Completes Spin-Off of KBR to Distance from Iraq War Scandals, Fraud Investigations, and $2.7 Billion in Questioned Costs
+*Date: 2007-04-05*
+
+1. [KBR, Inc.](https://en.wikipedia.org/wiki/KBR,_Inc.)
+2. [Halliburton, KBR, and Iraq war contracting - A history so far](https://www.politifact.com/factchecks/2010/jun/09/arianna-huffington/halliburton-kbr-and-iraq-war-contracting-history-s/)
 
 ## Monica Goodling Admits Political Screening of DOJ Lawyers
 *Date: 2007-05-23*
@@ -2482,6 +2509,13 @@
 5. [Narco-a-lago - Money Laundering at the Trump Ocean Club, Panama](https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/narco-a-lago-panama/)
 6. [Trump sold $1.5 billion of condos to potential money launderers thanks to this gaping loophole](https://qz.com/1178875/trump-sold-1-5-billion-of-condos-to-potential-money-launderers)
 7. [Cracking the Shell - Trump and the Corrupting Potential of Furtive Russian Money](https://www.americanprogress.org/article/cracking-the-shell/)
+
+## KBR's Faulty Electrical Work Kills Staff Sgt. Ryan Maseth, Part of Systematic Negligence Causing 18 Electrocution Deaths in Iraq with No Criminal Charges Despite Army Negligent Homicide Finding
+*Date: 2008-01-02*
+
+1. [For troops in Iraq, shower still may be fatal](https://www.nbcnews.com/id/wbna29891090)
+2. [The Nation - Another Electrocution Death In Iraq](https://www.npr.org/templates/story/story.php?storyId=112704940)
+3. [U.S. Troops Still Dodging Deadly Showers](https://www.cbsnews.com/news/us-troops-still-dodging-deadly-showers/)
 
 ## Sprint Nextel GPS Location Data Sharing with Law Enforcement
 *Date: 2008-03-20*
@@ -2697,6 +2731,13 @@
 1. [Taxpayer March on Washington](https://en.wikipedia.org/wiki/Taxpayer_March_on_Washington)
 2. [Taxpayer March on Washington Press Release](https://www.freedomworks.org/press/taxpayer-march-on-washington-scheduled-for-septemb/)
 3. [FreedomWorks Organization Profile](https://www.sourcewatch.org/index.php/Freedomworks)
+
+## Senate Passes Franken Amendment Banning Mandatory Arbitration for Sexual Assault Claims by Defense Contractors, 30 Republicans Vote to Protect Corporate Impunity
+*Date: 2009-10-06*
+
+1. [The Franken Amendment - A Blow to Arbitration and Increased Litigation and Compliance For Government Contractors](https://www.governmentcontractslawblog.com/2009/12/articles/government-contracts-law/the-franken-amendment-a-blow-to-arbitration-and-increased-litigation-and-compliance-for-government-contractors/)
+2. [Senate passes Franken amendment aimed at defense contractors](http://www.minnpost.com/politics-policy/2009/10/senate-passes-franken-amendment-aimed-defense-contractors/)
+3. [Jamie Leigh Jones](https://en.wikipedia.org/wiki/Jamie_Leigh_Jones)
 
 ## Former CDC Director Julie Gerberding Joins Merck as Vaccine Division President
 *Date: 2009-12-21*
@@ -13479,6 +13520,13 @@
 *Date: 2025-10-22*
 
 1. [Trump Installs Election Deniers in Homeland Security Positions](https://www.nytimes.com/2025/10/22/us/politics/trump-election-deniers-dhs.html)
+
+## DHS Uses Multi-Year Reconciliation Funding to Pay 70,000 Immigration Enforcement Officers During Shutdown While 700,000 Federal Workers Go Unpaid
+*Date: 2025-10-22*
+
+1. [As government shutdown persists, ICE agents are among the still-paid employees receiving 'super checks' including lost pay and overtime](https://fortune.com/2025/10/22/government-shutdown-ice-agents-super-checks-federal-employees-furlough/)
+2. [DHS keeps paying 70,000 law enforcement officials amid shutdown using reconciliation funds](https://federalnewsnetwork.com/government-shutdown/2025/10/dhs-to-keep-paying-70000-law-enforcement-officials-amid-shutdown-using-reconciliation-law/)
+3. [The federal government is still shut down. Here's what that means across the country](https://www.npr.org/2025/10/22/g-s1-94389/government-shutdown)
 
 ## Pentagon Replaces Mainstream Media with MAGA Propaganda Outlets in Press Corps
 *Date: 2025-10-22*
