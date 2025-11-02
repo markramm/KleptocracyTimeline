@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-01 23:36:41
+Generated: 2025-11-01 23:47:41
 
 ## Overview
-- **Total Events**: 1857
+- **Total Events**: 1861
 - **Date Range**: 1142-01-01 to 2025-11-04
-- **Total Sources**: 6180
-- **Unique Tags**: 3599
-- **Unique Actors**: 3551
+- **Total Sources**: 6194
+- **Unique Tags**: 3602
+- **Unique Actors**: 3560
 
 ## Event Status
 - **Unknown**: 233
-- **Confirmed**: 1576
+- **Confirmed**: 1580
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -32,7 +32,7 @@ Generated: 2025-11-01 23:36:41
 - government-contracts: 120 events
 - crypto: 112 events
 - trump-administration: 97 events
-- foreign-influence: 86 events
+- foreign-influence: 88 events
 - constitutional-crisis: 82 events
 - conflict-of-interest: 74 events
 
@@ -95,15 +95,15 @@ Generated: 2025-11-01 23:36:41
 - 2008: 16 events
 - 2009: 15 events
 - 2010: 17 events
-- 2011: 6 events
+- 2011: 7 events
 - 2012: 11 events
 - 2013: 17 events
-- 2014: 22 events
+- 2014: 23 events
 - 2015: 8 events
 - 2016: 32 events
-- 2017: 77 events
+- 2017: 78 events
 - 2018: 39 events
-- 2019: 40 events
+- 2019: 41 events
 - 2020: 34 events
 - 2021: 38 events
 - 2022: 39 events

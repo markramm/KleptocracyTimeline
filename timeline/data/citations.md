@@ -2815,6 +2815,13 @@
 3. [FDA's Revolving Door: A Pattern of Potential Bias in Drug Regulation](https://www.statnews.com/analysis/2016/09/28/fda-drug-review-revolving-door/)
 4. [FDA's Revolving Door: Reckoning and Reform](https://law.stanford.edu/wp-content/uploads/2023/03/SLPR_Karas.pdf)
 
+## Erik Prince Receives $529M Contract to Build Secret Mercenary Army for UAE Crown Prince
+*Date: 2011-01-01*
+
+1. [Secret Desert Force Set Up by Blackwater's Founder](https://www.nytimes.com/2011/05/15/world/middleeast/15prince.html)
+2. [Two American billionaires and their shady deals with Israeli intelligence](https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819)
+3. [Fortune Favors the Desert Sons - UAE Mercenaries in Yemen and Libya](https://greydynamics.com/fortune-favors-the-desert-sons-uae-mercenaries-in-yemen-and-libya/)
+
 ## J.D. Vance Meets Peter Thiel at Yale Law School, Beginning Political Pipeline
 *Date: 2011-01-01*
 
@@ -3086,6 +3093,14 @@
 3. [Dossier Center alleges ex-deputy minister helped Epstein with Russian contacts](https://novayagazeta.eu/articles/2024/02/14/dose-eks-zamministra-ekonomicheskogo-razvitiia-sergei-beliakov-pomogal-milliarderu-dzheffri-epshteinu-v-organizatsii-vstrech-s-rossiiskimi-chinovnikami-news)
 4. [Russian deputy minister allegedly facilitated Epstein meetings](https://www.occrp.org/ru/novosti/dose-rossiiskii-zamministra-ekonomiceskogo-razvitiia-tesno-obshhalsia-s-dzeffri-epsteinom)
 5. [The Cesspool and Chaos: the Russian Connection in the Epstein Affair](https://european-security.com/the-cesspool-and-chaos-the-russian-connection-in-the-epstein-affair/)
+
+## Erik Prince Founds Frontier Services Group with Chinese State Investment from CITIC, Controlled by Chang Zhenming
+*Date: 2014-01-01*
+
+1. [Blackwater's Erik Prince, China and a new controversy over Xinjiang](https://www.scmp.com/news/china/politics/article/2185588/blackwaters-erik-prince-china-and-new-controversy-over-xinjiang)
+2. [A warrior goes to China - Did Erik Prince cross a line?](https://www.washingtonpost.com/news/world/wp/2018/05/04/feature/a-warrior-goes-to-china-did-erik-prince-cross-a-line/)
+3. [China Business Ventures Tied To Blackwater Founder Erik Prince Raise Questions](https://www.npr.org/2019/02/04/691394262/china-business-ventures-tied-to-blackwater-founder-erik-prince-raise-questions)
+4. [Frontier Services Group is Funded By the People's Republic of China](https://balloon-juice.com/2020/03/07/the-really-important-fact-about-erik-prince-that-everyones-coverage-keeps-missing-his-frontier-services-group-is-funded-by-the-peoples-republic-of-china/)
 
 ## Annexation of Crimea: Putin's Strategic Asset Seizure
 *Date: 2014-03-18*
@@ -3920,6 +3935,13 @@
 1. [Bill O'Reilly Officially Out at Fox News Amid Sexual Harassment Claims](https://www.nbcnews.com/news/amp/ncna748236)
 2. [Bill O'Reilly out at Fox News amid sexual misconduct allegations](https://abcnews.go.com/Business/bill-oreilly-fox-news/story?id=46887583)
 
+## DarkMatter Signs Strategic Surveillance Technology Agreement with Huawei, Facilitated by Erik Prince Network
+*Date: 2017-04-25*
+
+1. [Pegasus, a DarkMatter company, signs Global Strategic MoU with Huawei](https://www.zawya.com/uae/en/press-releases/story/Pegasus_a_DarkMatter_company_signs_a_Global_Strategic_MoU_with_Huawei_to_bring_greater_safety_and_security_to_Smart_Cities-ZAWYA20170429101816/)
+2. [Two American billionaires and their shady deals with Israeli intelligence](https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819)
+3. [UAE's deep ties to China, Russia could end F-35 military advantage](https://exbulletin.com/politics/434943/)
+
 ## Epstein Attempts to Blackmail Bill Gates Over Russian Affair
 *Date: 2017-05-01*
 
@@ -4424,6 +4446,14 @@
 1. ["Hillbilly Elegy" author J.D. Vance starts venture capital fund in Ohio](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel)
 2. ['Hillbilly Elegy' author starts Ohio-based VC fund backed by Peter Thiel](https://www.crainscleveland.com/finance/hillbilly-elegy-author-starts-ohio-based-vc-fund-backed-peter-thiel)
 3. [James David Vance - Co-Founder and Partner @ Narya Capital](https://www.crunchbase.com/person/j-d-vance)
+
+## Erik Prince's Frontier Services Group Announces Xinjiang Training Facility Amid Uyghur Detention Campaign
+*Date: 2019-02-01*
+
+1. [Erik Prince-linked security company announces investment in Xinjiang](https://www.cnn.com/2019/02/01/asia/frontier-services-xinjiang-intl)
+2. [Blackwater founder Erik Prince's new company building training center in Xinjiang](https://www.washingtonpost.com/world/asia_pacific/blackwater-founder-erik-princes-new-company-building-training-center-in-xinjiang/2019/02/01/ac372d40-2602-11e9-ba08-caf4ff5a3433_story.html)
+3. [Erik Prince's company plans business in China province under human rights scrutiny](https://abcnews.go.com/International/erik-princes-company-plans-business-china-province-human/story?id=66139535)
+4. [China Business Ventures Tied To Blackwater Founder Erik Prince Raise Questions](https://www.npr.org/2019/02/04/691394262/china-business-ventures-tied-to-blackwater-founder-erik-prince-raise-questions)
 
 ## Trump Overrides 25+ Security Clearance Denials for Family and Allies
 *Date: 2019-02-05*
