@@ -2135,6 +2135,14 @@
 5. [10 years ago: Comey testifies about confrontation with Bush White House](https://www.cnn.com/2017/05/15/politics/comey-gonzalez-surveillance-showdown/index.html)
 6. [NSA program led to standoff at Ashcroft's sickbed](https://www.seattlepi.com/national/article/NSA-program-led-to-standoff-at-Ashcroft-s-sickbed-1237491.php)
 
+## Four Blackwater Contractors Killed in Fallujah Ambush, Bodies Hung from Bridge, Triggering First Battle of Fallujah
+*Date: 2004-03-31*
+
+1. [2004 Fallujah ambush](https://en.wikipedia.org/wiki/2004_Fallujah_ambush)
+2. [Horror at Fallujah - Bodies dragged through street, hung from bridge](https://www.sfgate.com/news/article/Horror-at-Fallujah-SAVAGE-ATTACK-Bodies-2772639.php)
+3. [After Seven Years, Families Of Slain Blackwater Contractors Settle Suit](https://www.npr.org/sections/thetwo-way/2012/01/06/144804089/after-seven-years-families-of-slain-blackwater-contractors-settle-suit)
+4. [The 2004 Fallujah Ambush](https://medium.com/@chelsealynnqueen94/the-2004-fallujah-ambush-4f3edcba7004)
+
 ## SEC Creates Consolidated Supervised Entities Program Allowing Unlimited Investment Bank Leverage
 *Date: 2004-04-28*
 
@@ -2442,6 +2450,13 @@
 5. [Trump Pardons Blackwater Guards Who Killed 14 Iraqi Civilians](https://www.nytimes.com/2020/12/22/us/politics/blackwater-pardons-trump.html)
 6. [Blackwater in Baghdad: It was a horror movie](https://www.hrw.org/news/2007/10/11/blackwater-baghdad-it-was-horror-movie)
 
+## Erik Prince Testifies Before Congress Defending Blackwater Despite Evidence of 195 Shooting Incidents
+*Date: 2007-10-02*
+
+1. [Hearing on Blackwater USA](https://www.govinfo.gov/content/pkg/CHRG-110hhrg45219/html/CHRG-110hhrg45219.htm)
+2. [Blackwater CEO Defends Workers in Iraq](https://www.npr.org/2007/10/03/14943144/blackwater-ceo-defends-workers-in-iraq)
+3. [Former Blackwater CEO Erik Prince](https://time.com/archive/6914957/former-blackwater-ceo-erik-prince/)
+
 ## Thomas Drake Reports NSA Trailblazer Program Waste and Constitutional Violations
 *Date: 2007-11-15*
 
@@ -2594,6 +2609,13 @@
 1. [Why Only One Top Banker Went to Jail for the Financial Crisis](https://www.nytimes.com/2014/05/04/magazine/only-one-top-banker-jail-financial-crisis.html)
 2. [The Untouchables: How the Obama administration protected Wall Street](https://www.pbs.org/wgbh/frontline/film/untouchables/)
 3. [Eric Holder returns to Covington & Burling](https://www.politico.com/story/2015/07/eric-holder-covington-burling-119675)
+
+## Blackwater Rebrands as Xe Services to Distance from Nisour Square Massacre and Iraq War Crimes
+*Date: 2009-02-13*
+
+1. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
+2. [The Rise and Fall of the Mercenary Formerly Known as Blackwater](https://www.newsweek.com/rise-and-fall-mercenary-formerly-known-blackwater-215746)
+3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
 
 ## Rick Santelli CNBC Rant Triggers Immediate Koch Network Tea Party Response
 *Date: 2009-02-19*
@@ -2863,6 +2885,13 @@
 1. [Federal Reserve Emergency Lending: Structural Weaknesses in Governance](https://www.gao.gov/products/gao-11-696)
 2. [The Fed Audit: Sanders Reveals 16 Trillion in Secret Bailouts](https://www.sanders.senate.gov/press-releases/the-fed-audit/)
 3. [First Federal Reserve Audit Reveals Trillions in Secret Bailouts](https://www.commondreams.org/news/2011/08/29/first-federal-reserve-audit-reveals-trillions-secret-bailouts)
+
+## Erik Prince Sells Xe Services (formerly Blackwater), Rebranded as Academi with John Ashcroft on Board
+*Date: 2011-12-12*
+
+1. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
+2. [Academi LLC (formerly Xe and Blackwater Worldwide)](https://militarist-monitor.org/profile/blackwater_worldwide/)
+3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
 
 ## Koch Network Spends $407 Million in Coordinated 2012 Election Campaign
 *Date: 2012-01-01*
@@ -3193,6 +3222,13 @@
 3. [Facebook's Emotional Contagion Study - Ethical Implications](https://journals.sagepub.com/doi/full/10.1177/1747016115579531)
 4. [NPR - Facebook Manipulates Moods for Science](https://www.npr.org/sections/alltechconsidered/2014/06/30/326929138/facebook-manipulates-our-moods-for-science-and-commerce-a-roundup)
 
+## Academi (formerly Blackwater) Merges with Triple Canopy to Form Constellis Holdings, Third Corporate Rebranding
+*Date: 2014-07-01*
+
+1. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
+2. [Blackwater's Descendants Are Doing Just Fine](https://foreignpolicy.com/2014/07/01/blackwaters-descendants-are-doing-just-fine/)
+3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
+
 ## EU and US Impose Sectoral Sanctions on Russia
 *Date: 2014-07-16*
 
@@ -3495,6 +3531,13 @@
 2. [August 21, 2016: Stone Foreshadows Podesta Email Dump](https://themoscowproject.org/collusion/stone-predicts-podesta-emails/)
 3. [The confusing timeline on Roger Stone's communications with WikiLeaks](https://www.washingtonpost.com/news/politics/wp/2018/03/13/the-confusing-timeline-on-roger-stones-communications-with-wikileaks/)
 4. [Misrepresenting Stone's Prescience](https://www.factcheck.org/2017/03/misrepresenting-stones-prescience/)
+
+## Apollo Global Management Acquires Constellis Holdings (Blackwater Successor) for Approximately $1 Billion
+*Date: 2016-09-01*
+
+1. [Military Contractor Formerly Known As Blackwater May Be for Sale for up to $1 Billion](https://fortune.com/2016/06/06/military-contractor-blackwater-for-sale/)
+2. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
+3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
 
 ## Rybolovlev demolishes Trump's former Palm Beach mansion; property later subdivided and sold
 *Date: 2016-10-01*
