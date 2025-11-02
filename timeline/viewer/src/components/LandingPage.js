@@ -11,8 +11,13 @@ const LandingPage = ({ onEnterTimeline }) => {
   });
 
   useEffect(() => {
-    // Load real stats from API
-    fetch('/api/stats.json')
+    // Load real stats from API with proper GitHub Pages path
+    const basePath = window.location.hostname === 'markramm.github.io'
+      ? '/KleptocracyTimeline/api/stats.json'
+      : '/api/stats.json';
+    const statsUrl = `${basePath}?v=${Date.now()}`; // Cache busting
+
+    fetch(statsUrl)
       .then(res => res.json())
       .then(data => {
         const startYear = parseInt(data.date_range.start.split('-')[0]);

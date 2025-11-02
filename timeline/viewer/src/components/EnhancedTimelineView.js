@@ -1,13 +1,23 @@
 import React, { useRef, useEffect, useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { format, parseISO } from 'date-fns';
-import { 
-  Calendar, MapPin, Users, ExternalLink, AlertCircle, 
+import {
+  Calendar, MapPin, Users, ExternalLink, AlertCircle,
   ChevronUp, ChevronDown, Clock, TrendingUp, Shield, AlertTriangle,
   Bookmark, Share2
 } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 import './EnhancedTimelineView.css';
+
+// Helper function to safely format dates
+const safeFormat = (dateString, formatStr) => {
+  try {
+    return format(parseISO(dateString), formatStr);
+  } catch (error) {
+    console.error('Invalid date:', dateString, error);
+    return dateString; // Return original string if parsing fails
+  }
+};
 
 const EnhancedTimelineView = ({
   events,
@@ -321,7 +331,7 @@ const EnhancedYearGroup = ({
         .map(([month, monthEvents]) => (
           <div key={`${year}-${month}`} className="month-group">
             <h4 className="month-header">
-              {format(parseISO(`${year}-${month}-01`), 'MMMM')}
+              {safeFormat(`${year}-${month}-01`, 'MMMM')}
               <span className="month-count">({monthEvents.length})</span>
             </h4>
             
@@ -454,7 +464,7 @@ const EnhancedTimelineEvent = ({
           }
         }}>
           <span className="compact-date">
-            {format(parseISO(event.date), 'MMM d')}
+            {safeFormat(event.date, 'MMM d')}
           </span>
           <span className="compact-title" style={{
             fontWeight: importance >= 7 ? '600' : '400',
@@ -522,7 +532,7 @@ const EnhancedTimelineEvent = ({
             <span className="event-icon">{getPatternIcon(event.tags)}</span>
             <div className="event-date">
               <Calendar size={14} />
-              {format(parseISO(event.date), 'MMM d, yyyy')}
+              {safeFormat(event.date, 'MMM d, yyyy')}
             </div>
             <div className="importance-indicator" title={`Importance: ${importance}/10`}>
               {getImportanceIcon(importance)}
@@ -851,7 +861,7 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
           </div>
           
           <div className="list-item-date">
-            {format(parseISO(event.date), 'MMM d, yyyy')}
+            {safeFormat(event.date, 'MMM d, yyyy')}
           </div>
           
           <div className="list-item-content" onClick={() => onEventClick(event)}>
@@ -899,7 +909,7 @@ const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark }
         >
           <div className="grid-card-header">
             <span className="grid-date">
-              {format(parseISO(event.date), 'MMM yyyy')}
+              {safeFormat(event.date, 'MMM yyyy')}
             </span>
             <div className="grid-badges">
               <span className="importance-badge">
