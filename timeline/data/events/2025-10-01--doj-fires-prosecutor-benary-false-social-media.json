@@ -1,0 +1,45 @@
+{
+  "id": "2025-10-01--doj-fires-prosecutor-benary-false-social-media",
+  "date": "2025-10-01",
+  "title": "DOJ Fires Top National Security Prosecutor Michael Ben'Ary Based on False Social Media Post",
+  "summary": "On October 1, 2025, the Department of Justice fired Michael Ben'Ary, the chief of the national security section in the U.S. Attorney's Office for the Eastern District of Virginia, after pro-Trump activist and writer Julie Kelly posted on social media falsely linking him to internal resistance against the James Comey indictment. Ben'Ary, who had served with the DOJ for 20 years and led critical national security prosecutions, was not involved in the Comey case and had no connection to the allegations made in Kelly's post.\n\nIn response to his firing, Ben'Ary taped a typed letter to his office door on Friday, October 3, 2025, denouncing his termination as \"without cause\" and \"based on little more than a single social media post containing false information.\" The letter accused top Justice Department officials of being \"more concerned\" with going after President Trump's perceived enemies than protecting national security, stating: \"In recent months, the political leadership of the Department have violated these principles, jeopardizing our national security and making American citizens less safe.\"\n\nThe firing of Ben'Ary, an accomplished national security prosecutor with two decades of experience, based solely on an unverified social media post by a partisan activist, represents a shocking erosion of due process and merit-based employment at the Department of Justice. Legal experts and former DOJ officials expressed alarm at the use of social media misinformation as grounds for terminating senior career prosecutors, particularly those handling sensitive national security matters. The incident is part of a broader purge of career prosecutors in the Eastern District of Virginia office following the Comey indictment and the forced resignation of U.S. Attorney Erik Siebert.",
+  "importance": 8,
+  "actors": [
+    "Michael Ben'Ary",
+    "Department of Justice",
+    "Julie Kelly",
+    "U.S. Attorney's Office Eastern District of Virginia",
+    "Trump administration"
+  ],
+  "tags": [
+    "doj",
+    "prosecutor-firing",
+    "political-prosecution",
+    "institutional-capture",
+    "national-security",
+    "misinformation"
+  ],
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2025/10/01/politics/justice-department-prosecutor-fired-comey-case",
+      "title": "Justice Department fires prosecutor falsely tied to Comey case in social media post",
+      "publisher": "CNN",
+      "date": "2025-10-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161",
+      "title": "DOJ fires top national security prosecutor after he's questionably linked to Comey pushback",
+      "publisher": "NBC News",
+      "date": "2025-10-01",
+      "tier": 2
+    },
+    {
+      "url": "https://abcnews.go.com/US/top-prosecutor-fired-embattled-us-attorneys-office-slams/story?id=126188806",
+      "title": "Top prosecutor fired from embattled US attorney's office slams DOJ leadership",
+      "publisher": "ABC News",
+      "date": "2025-10-03",
+      "tier": 2
+    }
+  ]
+}

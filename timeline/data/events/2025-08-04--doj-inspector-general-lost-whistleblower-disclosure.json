@@ -1,0 +1,44 @@
+{
+  "id": "2025-08-04--doj-inspector-general-lost-whistleblower-disclosure",
+  "date": "2025-08-04",
+  "title": "DOJ Inspector General 'Lost' Whistleblower Complaint Against Trump Judicial Nominee for Three Months",
+  "summary": "Whistleblower Aid revealed that the DOJ Office of the Inspector General 'lost' a whistleblower disclosure for almost three months, only 'finding' it on the eve of Emil Bove's confirmation vote for a federal judgeship. The disclosure, submitted on May 5, 2025, alleged that Bove and other senior DOJ officials may have violated laws, rules, or regulations by attempting to mislead federal judges and potentially ignore court orders regarding the administration's immigration enforcement efforts in March 2025.\n\nContext: The 27-page complaint alleged that Principal Associate Deputy Attorney General Emil Bove and other top DOJ officials strategized how they could mislead courts and potentially ignore judges' rulings outright. A second whistleblower subsequently backed these claims, stating that Bove and other senior DOJ officials were 'actively and deliberately undermining the rule of law.' Text messages and emails obtained by investigators corroborated the whistleblowers' accounts.\n\nSignificance: The Inspector General's 'loss' of the disclosure for three months demonstrates systematic obstruction of oversight mechanisms designed to expose corruption within the Trump administration's Justice Department. This failure allowed a nominee accused of attempting to violate court orders to proceed toward confirmation without proper scrutiny, revealing how internal watchdog agencies have been compromised to protect politically-connected officials from accountability for potential criminal misconduct.",
+  "importance": 9,
+  "actors": [
+    "DOJ Office of Inspector General",
+    "Whistleblower Aid",
+    "Emil Bove",
+    "Department of Justice",
+    "Donald Trump"
+  ],
+  "tags": [
+    "institutional-capture",
+    "doj",
+    "judiciary",
+    "whistleblower",
+    "obstruction"
+  ],
+  "sources": [
+    {
+      "url": "https://whistlebloweraid.org/whistleblower-aid-urges-congressional-action-after-disclosure-implicating-emil-bove-was-ignored-by-justice-department-inspector-general/",
+      "title": "Whistleblower Aid Urges Congressional Action after Disclosure Implicating Emil Bove was Ignored by Justice Department Inspector General",
+      "publisher": "Whistleblower Aid",
+      "date": "2025-08-04",
+      "tier": 2
+    },
+    {
+      "url": "https://www.cnn.com/2025/07/27/politics/justice-department-official-second-whistleblower",
+      "title": "Another whistleblower claims that top DOJ official suggested department could ignore court orders",
+      "publisher": "CNN",
+      "date": "2025-07-27",
+      "tier": 2
+    },
+    {
+      "url": "https://abcnews.go.com/US/whistleblower-complaint-alleges-top-doj-official-emil-bove/story?id=123167302",
+      "title": "Whistleblower complaint alleges top DOJ official Emil Bove said he was willing to violate court orders",
+      "publisher": "ABC News",
+      "date": "2025-06-24",
+      "tier": 2
+    }
+  ]
+}

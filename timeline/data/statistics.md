@@ -1,16 +1,16 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-02 00:26:53
+Generated: 2025-11-02 00:35:51
 
 ## Overview
-- **Total Events**: 1874
+- **Total Events**: 1946
 - **Date Range**: 1142-01-01 to 2025-11-04
-- **Total Sources**: 6233
+- **Total Sources**: 6373
 - **Unique Tags**: 3606
 - **Unique Actors**: 3585
 
 ## Event Status
-- **Unknown**: 233
+- **Unknown**: 305
 - **Confirmed**: 1593
 - **Validated**: 31
 - **Disputed**: 2
@@ -25,28 +25,28 @@ Generated: 2025-11-02 00:26:53
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 317 events
-- institutional-capture: 204 events
-- corruption: 188 events
+- regulatory-capture: 327 events
+- institutional-capture: 239 events
+- corruption: 193 events
 - kleptocracy: 132 events
 - government-contracts: 120 events
 - crypto: 112 events
 - trump-administration: 97 events
-- foreign-influence: 89 events
-- constitutional-crisis: 82 events
+- foreign-influence: 90 events
+- constitutional-crisis: 84 events
 - conflict-of-interest: 74 events
 
 ## Top Actors
-- Donald Trump: 716 events
+- Donald Trump: 770 events
 - Trump Administration: 289 events
 - Elon Musk: 157 events
-- Department of Justice: 108 events
-- Jeffrey Epstein: 52 events
+- Department of Justice: 128 events
+- White House: 65 events
+- Jeffrey Epstein: 58 events
+- Pam Bondi: 54 events
 - Dick Cheney: 51 events
-- Pam Bondi: 49 events
-- White House: 47 events
-- Supreme Court: 45 events
-- George W. Bush: 45 events
+- Supreme Court: 47 events
+- FBI: 45 events
 
 ## Events by Year
 - 1142: 1 events
@@ -109,4 +109,4 @@ Generated: 2025-11-02 00:26:53
 - 2022: 39 events
 - 2023: 53 events
 - 2024: 100 events
-- 2025: 968 events
+- 2025: 1040 events

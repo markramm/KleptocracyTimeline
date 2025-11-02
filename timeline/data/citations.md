@@ -11798,6 +11798,94 @@
 2. [What happens if a president and the federal government fail to follow a judge's orders?](https://www.nbcnews.com/politics/politics-news/president-defies-judges-orders-contempt-rcna201455)
 3. [Inside Team Trump's Attacks on Judges and Defiance of Court Orders](https://www.rollingstone.com/politics/politics-features/inside-team-trump-attack-judges-defiance-court-orders-1235298463/)
 
+## Trump Fires Bureau of Labor Statistics Commissioner Hours After Unfavorable Jobs Report
+*Date: 2025-08-01*
+
+1. [Trump fires BLS' Erika McEntarfer over jobs numbers](https://www.cnn.com/2025/08/01/business/trump-job-report-number-fire)
+2. [Trump fires BLS commissioner after weak jobs report](https://www.nbcnews.com/business/economy/trump-orders-firing-bls-commissioner-weak-jobs-report-rcna222531)
+3. [Trump fires commissioner of labor statistics after weaker-than-expected jobs figures slam markets](https://www.cnbc.com/2025/08/01/trump-erika-mcentarfer-jobs-report-fired.html)
+
+## Columbia University Agrees to Monitor Foreign Students for Trump Administration in $221 Million Settlement
+*Date: 2025-08-01*
+
+1. [Columbia University to Aid Trump Policing of Foreign Students Under Deal](https://www.bloomberg.com/news/articles/2025-08-01/columbia-to-aid-trump-policing-of-foreign-students-under-deal)
+2. [Our Resolution With the Federal Government](https://president.columbia.edu/content/our-resolution-federal-government)
+3. [Columbia University to pay $200m to settle anti-Semitism claims](https://www.aljazeera.com/news/2025/7/24/columbia-university-to-pay-200m-to-settle-anti-semitism-claims)
+
+## Sean Combs Associates Offer Mid-Six-Figure Payments to Trump Officials for Presidential Pardon
+*Date: 2025-08-01*
+
+1. [Sean 'Diddy' Combs Allies Are Actively Working for a Trump Pardon](https://www.rollingstone.com/music/music-features/sean-diddy-combs-trump-pardon-trial-1235340256/)
+2. [Attorney for Sean 'Diddy' Combs confirms they've approached Trump administration about pardon](https://www.cnn.com/2025/08/05/entertainment/nicole-westmoreland-sean-diddy-combs-trump)
+3. [Sean 'Diddy' Combs' Allies Up Pardon Talks. Survivors Want Them Shut Down](https://www.rollingstone.com/music/music-features/sean-diddy-combs-donald-trump-pardon-1235398106/)
+
+## Corporate PACs Donated $174 Million to Lawmakers Who Attempted to Overturn 2020 Election
+*Date: 2025-08-01*
+
+1. [Corporate America has largely abandoned its post-January 6 promises on democracy](https://www.citizensforethics.org/reports-investigations/crew-reports/corporate-america-has-largely-abandoned-its-post-january-6-promises-on-democracy/)
+
+## DOJ Uses Legal Loopholes to Install Trump Loyalists as Acting U.S. Attorneys Without Senate Confirmation
+*Date: 2025-08-01*
+
+1. [Legal loopholes and Senate drama: Inside Trump's battle to install US attorneys](https://www.cnn.com/2025/07/24/politics/trump-administration-battle-install-us-attorneys)
+2. [Trump sidesteps Senate and judiciary with some U.S. attorney picks](https://www.cbsnews.com/news/trump-sidesteps-senate-judiciary-u-s-attorney-picks/)
+3. [Trump Strategy Relies on Acting, Interim US Attorneys: Explained](https://news.bloomberglaw.com/white-collar-and-criminal-law/trump-strategy-relies-on-acting-interim-us-attorneys-explained)
+
+## FBI Redacted Trump's Name from Jeffrey Epstein Files Under Privacy Protections
+*Date: 2025-08-01*
+
+1. [FBI Redacted Trump's Name in Epstein Files for Privacy Reasons](https://www.bloomberg.com/news/articles/2025-08-01/fbi-redacted-president-donald-trump-s-name-in-the-epstein-files)
+2. [Epstein Files: Trump's Name Was Redacted By the FBI](https://www.bloomberg.com/news/newsletters/2025-08-01/epstein-files-trump-s-name-was-redacted-by-the-fbi)
+3. [FBI agents were told to 'flag' any Epstein records that mentioned Trump, Sen. Durbin says](https://www.cnbc.com/2025/07/18/trump-epstein-fbi-durbin.html)
+
+## Federal Reserve Governor Adriana Kugler Resigns Early, Opening Seat for Trump Appointee
+*Date: 2025-08-01*
+
+1. [Adriana D. Kugler submits resignation as a member of the Federal Reserve Board](https://www.federalreserve.gov/newsevents/pressreleases/other20250801a.htm)
+2. [A Fed governor is resigning, opening a spot for a Trump appointee](https://www.cnn.com/2025/08/01/business/federal-reserve-kugler-trump-powell)
+3. [Fed Governor Kugler is resigning, giving Trump a nominee on committee that sets interest rates](https://www.cnbc.com/2025/08/01/federal-reserve-governor-kugler-part-of-the-committee-that-sets-interest-rates-is-resigning.html)
+
+## Far-Right Activist Laura Loomer Orchestrates Mass Loyalty Purges Across Trump Administration
+*Date: 2025-08-01*
+
+1. [Inside Laura Loomer's hunt for disloyalty in Trump's government — and where she's looking next](https://edition.cnn.com/2025/08/04/politics/laura-loomer-trump-firings)
+2. [Loomer, far-right activist, urged Trump to remove NSA director and others: Sources](https://abcnews.go.com/Politics/loomer-urged-trump-remove-nsa-director-multiple-agencies/story?id=120484445)
+3. [5 things to know about Laura Loomer and Trump's national security purge](https://thehill.com/homenews/5232940-trump-purges-national-security-loomer/)
+
+## Ghislaine Maxwell Transferred to Minimum-Security Texas Prison Camp After Meeting with DOJ Officials
+*Date: 2025-08-01*
+
+1. [Ghislaine Maxwell moved to federal prison camp in Texas](https://www.cnn.com/2025/08/01/politics/ghislaine-maxwell-federal-prison-texas)
+2. [Ghislaine Maxwell, Epstein's former girlfriend, transferred to a prison camp in Texas](https://www.npr.org/2025/08/01/g-s1-80655/ghislaine-maxwell-epstein-prison-transfer)
+3. [Ghislaine Maxwell's transfer to cushy prison camp is a 'travesty of justice,' ex-BOP official says](https://www.nbcnews.com/news/us-news/ghislaine-maxwells-transfer-cushy-prison-camp-travesty-justice-ex-bop-rcna223045)
+
+## U.S. Army Awards Palantir $10 Billion AI-Driven Software Contract
+*Date: 2025-08-01*
+
+1. [Palantir lands $10 billion Army software and data contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html)
+2. [Army consolidates dozens of Palantir software contracts into one deal worth up to $10 billion](https://breakingdefense.com/2025/08/army-consolidates-dozens-of-palantir-software-contracts-into-one-deal-worth-up-to-10-billion/)
+3. [Palantir's $10 billion Army contract continues its D.C. win streak](https://www.axios.com/2025/08/05/palantir-army-software-contract)
+
+## Qualcomm Donates $1 Million to Trump-Aligned Dark Money Group
+*Date: 2025-08-01*
+
+1. [Qualcomm gave $1 million to pro-Trump dark money group](https://www.citizensforethics.org/reports-investigations/crew-investigations/qualcomm-gave-1-million-to-pro-trump-dark-money-group/)
+2. [Securing American Greatness Profile: Summary](https://www.opensecrets.org/orgs/securing-american-greatness/summary?id=D000114050)
+
+## Smithsonian Removes Trump Impeachment References from National Museum of American History
+*Date: 2025-08-01*
+
+1. [Trump's impeachments have been removed from a Smithsonian exhibit, for now](https://www.npr.org/2025/08/01/g-s1-80602/smithsonian-impeachment-trump)
+2. [Smithsonian temporarily removes reference to Trump's impeachments from presidency exhibit](https://www.cnn.com/2025/08/01/politics/smithsonian-trump-impeachment-exhibit-museum)
+3. [Smithsonian removes Trump from an exhibit's impeachment display, but says it's temporary](https://www.pbs.org/newshour/politics/smithsonian-removes-trump-from-an-exhibits-impeachment-display-but-says-its-temporary)
+
+## Trump Orders States to Hand Over Medicaid, Food Assistance, and Voter Roll Data for Federal Surveillance
+*Date: 2025-08-01*
+
+1. [The Trump administration is making an unprecedented reach for data held by states](https://www.npr.org/2025/06/24/nx-s1-5423604/trump-doge-data-states)
+2. [At least 27 states turned over sensitive data about food stamp recipients to USDA](https://www.npr.org/2025/10/16/nx-s1-5533045/snap-privacy-usda-lawsuit)
+3. [The USDA wants states to hand over food stamp data by the end of July](https://www.npr.org/2025/07/19/nx-s1-5471553/usda-snap-privacy-lawsuit)
+
 ## Donor list suggests scale of Trump’s pay-for-access operation
 *Date: 2025-08-02*
 
@@ -11850,6 +11938,13 @@
 2. [Another whistleblower claims that top DOJ official suggested department could ignore court orders](https://www.cnn.com/2025/07/27/politics/justice-department-official-second-whistleblower)
 3. [Whistleblower complaint alleges top DOJ official Emil Bove said he was willing to violate court orders](https://abcnews.go.com/US/whistleblower-complaint-alleges-top-doj-official-emil-bove/story?id=123167302)
 
+## DOJ Inspector General 'Lost' Whistleblower Complaint Against Trump Judicial Nominee for Three Months
+*Date: 2025-08-04*
+
+1. [Whistleblower Aid Urges Congressional Action after Disclosure Implicating Emil Bove was Ignored by Justice Department Inspector General](https://whistlebloweraid.org/whistleblower-aid-urges-congressional-action-after-disclosure-implicating-emil-bove-was-ignored-by-justice-department-inspector-general/)
+2. [Another whistleblower claims that top DOJ official suggested department could ignore court orders](https://www.cnn.com/2025/07/27/politics/justice-department-official-second-whistleblower)
+3. [Whistleblower complaint alleges top DOJ official Emil Bove said he was willing to violate court orders](https://abcnews.go.com/US/whistleblower-complaint-alleges-top-doj-official-emil-bove/story?id=123167302)
+
 ## Federal Judge Strikes Down Key Parts of California's Deepfake Laws
 *Date: 2025-08-05*
 
@@ -11887,6 +11982,13 @@
 1. [How Donald Trump’s spending bill will boost Silicon Valley’s defence companies](https://www.ft.com/content/1180de73-a5ab-42d5-8624-6ebc01db2d2c)
 2. [Trump's "Big, Beautiful Bill" Is a Huge Win for the Military-Industrial Complex](https://www.thenation.com/article/economy/big-beautiful-bill-military-industrial-complex/)
 3. [How Trump's Budget Bill Sells Out The Future to Big Tech](https://www.techpolicy.press/how-trumps-budget-bill-sells-out-the-future-to-big-tech/)
+
+## DOJ Launches Mortgage Fraud Investigation Targeting Senator Adam Schiff
+*Date: 2025-08-05*
+
+1. [Sen Adam Schiff, D-Calif., under criminal investigation for alleged mortgage fraud](https://www.foxnews.com/politics/sen-adam-schiff-under-federal-criminal-investigation-alleged-mortgage-fraud-violations)
+2. [DOJ investigating N.Y. AG's office and Sen. Adam Schiff](https://www.nbcnews.com/politics/justice-department/doj-opens-investigation-new-york-ags-office-brought-fraud-case-trump-rcna223731)
+3. [Trump foe Sen. Adam Schiff eyed by DOJ in mortgage fraud probe](https://www.cnbc.com/2025/10/23/trump-adam-schiff-mortgage-doj-hayes-maryland.html)
 
 ## Trump Imposes 50% Tariff on Brazil to Punish Prosecution of Bolsonaro
 *Date: 2025-08-06*
@@ -11954,6 +12056,19 @@
 
 1. [President Trump Signs 'Fair Banking' Executive Order Directing Financial Regulators to Remedy Past and Present Debanking Practices](https://www.sidley.com/en/insights/newsupdates/2025/08/president-trump-signs-fair-banking-executive-order-directing-financial-regulators-to-remedy)
 2. [President Trump Signs Debanking Executive Order](https://www.mayerbrown.com/en/insights/publications/2025/08/president-trump-signs-debanking-executive-order)
+
+## Trump Signs Executive Order Prohibiting 'Debanking' Based on Political Views
+*Date: 2025-08-07*
+
+1. [President Trump Signs 'Fair Banking' Executive Order Directing Financial Regulators to Remedy Past and Present Debanking Practices](https://www.sidley.com/en/insights/newsupdates/2025/08/president-trump-signs-fair-banking-executive-order-directing-financial-regulators-to-remedy)
+2. [President Trump Signs Debanking Executive Order](https://www.mayerbrown.com/en/insights/publications/2025/08/president-trump-signs-debanking-executive-order)
+
+## Trump Executive Order Places Federal Grants Under Political Appointee Control
+*Date: 2025-08-07*
+
+1. [Executive Order 14332: Improving Oversight of Federal Grantmaking](https://www.whitehouse.gov/presidential-actions/2025/08/improving-oversight-of-federal-grantmaking/)
+2. [Trump executive order seeks to centralize control of grantmaking under political appointees](https://www.statnews.com/2025/08/08/trump-executive-order-disrupts-science-lawsuits-expected/)
+3. [Federal grants must 'demonstrably advance' Trump's agenda, president orders](https://www.govexec.com/management/2025/08/federal-grants-must-demonstrably-advance-trumps-agenda-president-orders/407335/)
 
 ## Trump Executive Order Places Federal Grants Under Political Appointee Control
 *Date: 2025-08-07*
@@ -12291,6 +12406,18 @@
 2. [Trump signs executive orders aimed at ending cashless bail in D.C. and across the country](https://www.nbcnews.com/politics/white-house/trump-sign-executive-order-end-cashless-bail-dc-rcna226937)
 3. [Trump's Executive Order Could Jail Thousands Too Poor to Pay Bail](https://capitalbnews.org/cashless-bail-trump-executive-order/)
 
+## Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal Funds
+*Date: 2025-08-25*
+
+1. [Taking Steps to End Cashless Bail to Protect Americans](https://www.whitehouse.gov/presidential-actions/2025/08/taking-steps-to-end-cashless-bail-to-protect-americans/)
+2. [Trump signs executive orders aimed at ending cashless bail in D.C. and across the country](https://www.nbcnews.com/politics/white-house/trump-sign-executive-order-end-cashless-bail-dc-rcna226937)
+3. [Trump's Executive Order Could Jail Thousands Too Poor to Pay Bail](https://capitalbnews.org/cashless-bail-trump-executive-order/)
+
+## Trump Orders Prosecution of Flag Burning Despite Supreme Court Ruling
+*Date: 2025-08-25*
+
+1. [2025 Donald J. Trump Executive Orders](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025)
+
 ## Trump Orders Prosecution of Flag Burning Despite Supreme Court Ruling
 *Date: 2025-08-25*
 
@@ -12426,6 +12553,11 @@
 
 1. [Fact Sheet: President Donald J. Trump Directs Administration to Make Federal Architecture Beautiful Again](https://www.whitehouse.gov/fact-sheets/2025/08/fact-sheet-president-donald-j-trump-directs-administration-to-make-federal-architecture-beautiful-again/)
 
+## Trump Executive Order Mandates Classical Architecture for Federal Buildings
+*Date: 2025-08-28*
+
+1. [Fact Sheet: President Donald J. Trump Directs Administration to Make Federal Architecture Beautiful Again](https://www.whitehouse.gov/fact-sheets/2025/08/fact-sheet-president-donald-j-trump-directs-administration-to-make-federal-architecture-beautiful-again/)
+
 ## SSA whistleblower Charles Borges forced to resign after exposing data breach
 *Date: 2025-08-29*
 
@@ -12518,12 +12650,30 @@
 1. [Supreme Court allows Trump to fire FTC Commissioner](https://www.theguardian.com/us-news/2025/sep/02/supreme-court-ftc-commissioner-removal)
 2. [Chief Justice Roberts permits unprecedented agency independence violation](https://apnews.com/article/supreme-court-ftc-rebecca-slaughter-trump-roberts-2025)
 
+## Supreme Court Allows Trump to Remove FTC Commissioner, Gutting Agency Independence
+*Date: 2025-09-02*
+
+1. [Supreme Court allows Trump to fire FTC Commissioner](https://www.theguardian.com/us-news/2025/sep/02/supreme-court-ftc-commissioner-removal)
+2. [Chief Justice Roberts permits unprecedented agency independence violation](https://apnews.com/article/supreme-court-ftc-rebecca-slaughter-trump-roberts-2025)
+
+## Republican Political Committees Spend Over $931,000 at Trump Properties Since Inauguration
+*Date: 2025-09-02*
+
+1. [Political spending tops $900K at Trump properties since inauguration](https://www.citizensforethics.org/reports-investigations/crew-reports/political-spending-tops-900k-at-trump-properties-since-inauguration/)
+2. [Republican Political Spending at Trump Properties Tops $1 Million in 2025](https://www.notus.org/money/republican-political-spending-trump-tower-properties-bedminster-mar-a-lago)
+
 ## Military Jets Drown Out Epstein Survivors Press Conference at Capitol
 *Date: 2025-09-03*
 
 1. [Trump Drowns Out Emotional Epstein Victims Rally With Noisy Flyover](https://www.thedailybeast.com/trump-drowns-out-emotional-epstein-victims-rally-with-noisy-flyover/)
 2. [Military jets fly over Epstein survivors press conference](https://www.cnn.com/2025/09/03/politics/military-flyover-epstein-survivors)
 3. [Air Force conducts flyover during Epstein victims Capitol event](https://www.npr.org/2025/09/03/military-jets-epstein-survivors-capitol)
+
+## Treasury Department Refuses to Release $1.5 Billion in Epstein Financial Records
+*Date: 2025-09-03*
+
+1. [As Bessent Withholds Epstein Files, Wyden Expands Investigation and Demands Financial Records](https://www.finance.senate.gov/ranking-members-news/as-bessent-withholds-epstein-files-wyden-expands-investigation-and-demands-financial-records)
+2. [Sen. Wyden pushes Treasury Department release Epstein banking files to finance committee](https://abcnews.go.com/Politics/sen-wyden-pushes-treasury-department-release-epstein-banking/story?id=125220013)
 
 ## Treasury Department Refuses to Release $1.5 Billion in Epstein Financial Records
 *Date: 2025-09-03*
@@ -12562,6 +12712,30 @@
 2. [The Supreme Court and Trump's tariffs: an explainer](https://www.scotusblog.com/2025/08/the-supreme-court-and-trumps-tariffs-an-explainer/)
 3. [Supreme Court will weigh in on Trump's tariffs. Here's what to know about the case](https://www.npr.org/2025/09/09/nx-s1-5535806/supreme-court-trump-tariffs)
 
+## Trump Fires Bureau of Labor Statistics Commissioner After Unfavorable Jobs Report
+*Date: 2025-09-04*
+
+1. [Trump fires jobs statistics chief over unfavorable data](https://www.theguardian.com/us-news/2025/sep/04/trump-fires-bls-commissioner-jobs-data)
+2. [White House Prepares Political Attack on Economic Data Agency](https://www.wsj.com/economy/jobs/bls-attack-trump-white-house-erika-mcentarfer)
+
+## DOJ Opens Criminal Investigation Against Federal Reserve Governor Following Trump Removal Attempt
+*Date: 2025-09-04*
+
+1. [DOJ Launches Criminal Probe Against Fed Governor Lisa Cook](https://www.theguardian.com/us-news/2025/sep/04/doj-investigation-lisa-cook-fed-governor)
+2. [Selective 'Mortgage Fraud' Prosecution](https://www.propublica.org/article/trump-mortgage-fraud-political-enemies-cabinet-members)
+
+## Federal Reserve Nominee Plans Unprecedented Dual Role With White House
+*Date: 2025-09-04*
+
+1. [Fed nominee plans to keep White House role, compromising independence](https://www.washingtonpost.com/business/2025/09/04/stephen-miran-fed-white-house-dual-role/)
+
+## DOJ Opens Criminal Investigation Into Federal Reserve Governor Lisa Cook for Alleged Mortgage Fraud
+*Date: 2025-09-04*
+
+1. [Justice Department Opens Criminal Probe of Lisa Cook Mortgages](https://www.bloomberg.com/news/articles/2025-09-04/justice-department-opens-criminal-probe-of-lisa-cook-mortgages)
+2. [Justice Department probes mortgage fraud claims against Lisa Cook of Federal Reserve, AP source says](https://www.sandiegouniontribune.com/2025/09/04/federal-reserve-cook-ouster/)
+3. [Justice Department opens criminal investigation into Federal Reserve Governor Lisa Cook: Sources](https://abcnews.go.com/US/justice-department-opens-criminal-investigation-federal-reserve-governor/story?id=125261793)
+
 ## Transportation Department Drops Rule Requiring Airlines to Compensate Passengers for Delays
 *Date: 2025-09-05*
 
@@ -12585,6 +12759,23 @@
 1. [Executive Order 14348: Strengthening Efforts to Protect U.S. Nationals from Wrongful Detention Abroad](https://www.whitehouse.gov/presidential-actions/2025/09/strengthening-efforts-to-protect-u-s-nationals-from-wrongful-detention-abroad/)
 2. [Trump signs executive order creating 'state sponsor of wrongful detention' designation](https://www.cnn.com/2025/09/05/politics/state-sponsor-of-wrongful-detention-designation-trump-order)
 3. [Trump signs executive order to blacklist countries that illegally detain Americans](https://www.nbcnews.com/politics/white-house/trump-signs-executive-order-blacklist-countries-illegally-detain-ameri-rcna229441)
+
+## Trump Creates 'State Sponsor of Wrongful Detention' Designation via Executive Order
+*Date: 2025-09-05*
+
+1. [Executive Order 14348: Strengthening Efforts to Protect U.S. Nationals from Wrongful Detention Abroad](https://www.whitehouse.gov/presidential-actions/2025/09/strengthening-efforts-to-protect-u-s-nationals-from-wrongful-detention-abroad/)
+2. [Trump signs executive order creating 'state sponsor of wrongful detention' designation](https://www.cnn.com/2025/09/05/politics/state-sponsor-of-wrongful-detention-designation-trump-order)
+3. [Trump signs executive order to blacklist countries that illegally detain Americans](https://www.nbcnews.com/politics/white-house/trump-signs-executive-order-blacklist-countries-illegally-detain-ameri-rcna229441)
+
+## Transportation Department Drops Rule Requiring Airlines to Compensate Passengers for Delays
+*Date: 2025-09-05*
+
+1. [Trump Administration Abandons Consumer Protection for Flight Disruptions](https://www.cbsnews.com/news/transportation-department-airline-passenger-compensation-rule-dropped/)
+
+## FTC Reverses Nationwide Noncompete Ban, Leaving 30 Million Workers Bound by Restrictive Contracts
+*Date: 2025-09-05*
+
+1. [Federal Trade Commission Reverses Worker Protection on Job Mobility](https://www.npr.org/2025/09/05/ftc-noncompete-ban-eliminated-andrew-ferguson)
 
 ## DOJ Moves to Conceal Names of Epstein Associates Who Received $100K and $250K Payments
 *Date: 2025-09-06*
@@ -12641,6 +12832,21 @@
 1. [SpaceX strikes $17B deal to buy EchoStar's spectrum for Starlink's direct-to-phone service](https://techcrunch.com/2025/09/08/spacex-strikes-17b-deal-to-buy-echostars-spectrum-for-starlinks-direct-to-phone-service/)
 2. [Starlink set to hit $11.8 billion revenue in 2025, boosted by military contracts](https://spacenews.com/starlink-set-to-hit-11-8-billion-revenue-in-2025-boosted-by-military-contracts/)
 
+## CBS Appoints Trump Ally Kenneth Weinstein as Network Ombudsman Following Merger Pressure
+*Date: 2025-09-08*
+
+1. [CBS News Appoints Conservative Ombudsman After Trump Pressure](https://www.reuters.com/business/media-telecom/cbs-news-appoints-kenneth-weinstein-ombudsman-2025-09-08/)
+
+## FCC Chairman Brendan Carr Threatens to Revoke Broadcast Licenses Over News Coverage
+*Date: 2025-09-08*
+
+1. [FCC Chairman Weaponizes Broadcast Licenses](https://www.wsj.com/business/media/fcc-brendan-carr-comcast-nbc-broadcast-license-threats)
+
+## Missouri GOP Passes Mid-Decade Gerrymander to Eliminate Democratic Congressional Seat
+*Date: 2025-09-08*
+
+1. [Missouri Dismantles Democratic Congressional District](https://www.cbsnews.com/news/missouri-redistricting-congressional-map-democrats-emmanuel-cleaver/)
+
 ## Consumer Financial Protection Bureau Warns of Job Cuts After Congress Halves Funding Cap
 *Date: 2025-09-09*
 
@@ -12689,6 +12895,47 @@
 1. [Trump Spending Act Creates $40 Billion in New Fossil Fuel Subsidies](https://www.wired.com/story/trump-spending-fossil-fuel-subsidies-40-billion/)
 2. [Oil Industry Influence on Energy Policy](https://www.wsj.com/business/energy-oil/trump-oil-donors-harold-hamm-kelcy-warren-policy-influence)
 
+## Consumer Financial Protection Bureau Warns of Job Cuts After Congress Halves Funding Cap
+*Date: 2025-09-09*
+
+1. [Consumer Protection Bureau Faces Potential Workforce Cuts](https://www.reuters.com/legal/cfpb-warns-staff-potential-job-cuts-funding-reduction-2025-09-09/)
+
+## Trump Signs Anti-Debanking Order While Gutting Agency That Could Investigate It
+*Date: 2025-09-09*
+
+1. [Trump Dismantles Consumer Bureau While Promising Debanking Crackdown](https://www.propublica.org/article/trump-debanking-executive-order-cfpb-gutted)
+
+## DOJ Demands Detailed Voter Roll Data From 30+ States to Build Centralized National Database
+*Date: 2025-09-09*
+
+1. [Justice Department Demands Voter Roll Data to Build National Database](https://www.nytimes.com/2025/09/09/us/politics/justice-department-voter-rolls-data.html)
+
+## Foreign Governments Fund MAGA Influencers for Propaganda Without Proper Disclosure
+*Date: 2025-09-09*
+
+1. [Foreign Governments Court Right-Wing Influencers for Propaganda](https://www.wired.com/story/foreign-governments-maga-influencers-israel-hungary-south-korea/)
+
+## Trump Spending Legislation Creates $40 Billion in New Fossil Fuel Subsidies
+*Date: 2025-09-09*
+
+1. [Trump Spending Act Creates $40 Billion in New Fossil Fuel Subsidies](https://www.wired.com/story/trump-spending-fossil-fuel-subsidies-40-billion/)
+2. [Oil Industry Influence on Energy Policy](https://www.wsj.com/business/energy-oil/trump-oil-donors-harold-hamm-kelcy-warren-policy-influence)
+
+## Heritage Foundation Publishes 800-Page Constitutional Guide as Trump's Judicial Roadmap
+*Date: 2025-09-09*
+
+1. [Heritage Foundation Releases Originalist Constitutional Manifesto](https://www.nytimes.com/2025/09/09/us/politics/heritage-foundation-constitution-guide-alito.html)
+
+## ICE Awards $9.2 Million Facial Recognition Contract to Clearview AI
+*Date: 2025-09-09*
+
+1. [ICE Awards $9.2 Million Facial Recognition Contract](https://www.404media.co/ice-clearview-ai-facial-recognition-contract-9-million/)
+
+## Director of National Intelligence Gabbard Orders NSA Report Retraction to Shield Trump Officials
+*Date: 2025-09-09*
+
+1. [Intelligence Director Scrubs Report on Trump Official Negotiations](https://www.nytimes.com/2025/09/09/us/politics/tulsi-gabbard-nsa-report-venezuela-grenell.html)
+
 ## Commerce Secretary Lutnick Forces Corporations to Provide Government Equity Stakes
 *Date: 2025-09-10*
 
@@ -12726,6 +12973,44 @@
 
 1. [Trump Threatens Legal Action Over Epstein Drawing Reporting](https://www.nytimes.com/2025/09/10/us/politics/trump-threatens-lawsuit-epstein-drawing.html)
 2. [House Chair Blocks Handwriting Analysis of Trump Signature](https://abcnews.go.com/Politics/james-comer-blocks-handwriting-analysis-trump-epstein-signature/story?id=125220089)
+
+## Labor Department Inspector General Opens Investigation Into Jobs Data Manipulation
+*Date: 2025-09-10*
+
+1. [Labor Department Watchdog Probes Jobs Data Manipulation](https://www.cbsnews.com/news/labor-department-inspector-general-bls-investigation-jobs-data/)
+
+## Commerce Secretary Lutnick Forces Corporations to Provide Government Equity Stakes
+*Date: 2025-09-10*
+
+1. [Lutnick says Intel has to give government equity in return for CHIPS Act funds](https://www.cnbc.com/2025/08/19/lutnick-intel-stock-chips-trump.html)
+2. [Howard Lutnick's Push For Government Ownership Sparks Wall Street Concern](https://www.benzinga.com/markets/equities/25/09/47615797/howard-lutnicks-push-for-government-ownership-in-intel-defense-giants-sparks-wall-street-concern)
+
+## Federal Judge Allows Trump to Eliminate 1,600 NSF Grants Worth $1 Billion
+*Date: 2025-09-10*
+
+1. [Federal Judge Allows $1 Billion in Science Foundation Grant Cuts](https://www.theguardian.com/us-news/2025/sep/10/nsf-grants-eliminated-doge-trump)
+
+## Senate Republicans Vote 51-49 to Block Full Epstein Files Disclosure
+*Date: 2025-09-10*
+
+1. [Senate Republicans Block Vote on Full Epstein File Disclosure](https://www.nytimes.com/2025/09/10/us/politics/senate-republicans-block-epstein-files-vote.html)
+
+## Treasury Secretary Bessent Eliminates Climate Risk Assessment Panels
+*Date: 2025-09-10*
+
+1. [Treasury Dismantles Climate Risk Financial Oversight Panels](https://www.reuters.com/sustainability/climate-energy/treasury-bessent-dissolves-climate-risk-panels-fsoc-2025-09-10/)
+
+## Trump Threatens to Sue New York Times Over Reporting on Epstein Drawing Signed by Him
+*Date: 2025-09-10*
+
+1. [Trump Threatens Legal Action Over Epstein Drawing Reporting](https://www.nytimes.com/2025/09/10/us/politics/trump-threatens-lawsuit-epstein-drawing.html)
+2. [House Chair Blocks Handwriting Analysis of Trump Signature](https://abcnews.go.com/Politics/james-comer-blocks-handwriting-analysis-trump-epstein-signature/story?id=125220089)
+
+## Senator Wyden Introduces Legislation to Force Treasury Release of Epstein Records
+*Date: 2025-09-10*
+
+1. [New Wyden Bill Would Force Treasury to Turn Over Epstein Files](https://www.finance.senate.gov/ranking-members-news/new-wyden-bill-would-force-treasury-to-turn-over-epstein-files)
+2. [Senator Wyden Demands Bank Testimony on Epstein Connections](https://www.bloomberg.com/news/articles/2025-09-10/wyden-introduces-petra-act-epstein-treasury-records)
 
 ## Bloomberg Obtains 18,000+ Epstein Emails Revealing Maxwell Relationship and Trump Name Removal Request
 *Date: 2025-09-11*
@@ -12770,6 +13055,47 @@
 1. [What is Project 2025? Trump's election strategy explained](https://www.npr.org/2024/11/05/g-s1-32720/what-is-project-2025-trump-election)
 2. [Trump, Project 2025 and Immigration](https://www.factcheck.org/2025/09/trump-project-2025-and-immigration/)
 3. [What Project 2025 Says About Immigration](https://www.americanimmigrationcouncil.org/blog/what-project-2025-says-about-immigration/)
+
+## Ten Senate Democrats Demand Banking Committee Hearings on Epstein Financial Ties
+*Date: 2025-09-11*
+
+1. [Democratic Senators Demand Bank Testimony on Epstein Connections](https://www.nytimes.com/2025/09/11/business/senate-democrats-jpmorgan-epstein-testimony.html)
+
+## Kennedy Center Fires Jazz Director in Continued Cultural Institution Purge
+*Date: 2025-09-11*
+
+1. [Jazz Director Fired in Continued Kennedy Center Purges](https://www.npr.org/2025/09/11/kennedy-center-kevin-struthers-fired-grenell)
+
+## Senate Republicans Change Rules to Confirm Trump Nominees in Batches Without Individual Scrutiny
+*Date: 2025-09-11*
+
+1. [Republicans Invoke 'Nuclear Option' for Mass Confirmations](https://www.npr.org/2025/09/11/senate-republicans-nuclear-option-trump-confirmations)
+
+## State Department Adds 'Fidelity' Criterion, Retaliates Against Diplomats for Honest Analysis
+*Date: 2025-09-11*
+
+1. [Diplomats Threatened Over Candid Advice](https://www.nbcnews.com/politics/national-security/state-department-diplomats-retaliation-trump-administration)
+
+## Deputy Secretary Landau Announces Visa Sanctions for Foreign Comments on Charlie Kirk Death
+*Date: 2025-09-11*
+
+1. [State Department Targets Foreigners for Social Media Comments](https://www.theguardian.com/us-news/2025/sep/11/christopher-landau-visa-sanctions-charlie-kirk)
+
+## Federal Appeals Court Upholds Trump Law Blocking Planned Parenthood Medicaid Reimbursements
+*Date: 2025-09-12*
+
+1. [Federal Court Allows Trump to Block Planned Parenthood Medicaid Reimbursements](https://www.theguardian.com/us-news/2025/sep/12/planned-parenthood-medicaid-funding-appeals-court-trump)
+2. [Appeals Court Revives Trump's Law Blocking Medicaid Reimbursements](https://www.nytimes.com/2025/09/11/us/politics/planned-parenthood-medicaid-trump-defunding.html)
+
+## SEC Drops Fraud Case Against Pardoned Nikola Founder Trevor Milton
+*Date: 2025-09-12*
+
+1. [SEC Dismisses Case Against Nikola Founder After Trump Pardon](https://www.reuters.com/legal/sec-moves-dismiss-case-against-nikola-founder-trevor-milton-2025-09-12/)
+
+## Trump Threatens Racketeering Investigation Against George Soros for Funding Protests
+*Date: 2025-09-12*
+
+1. [Trump Threatens Racketeering Investigation Against Soros](https://www.bloomberg.com/news/articles/2025-09-12/trump-threatens-soros-racketeering-investigation-protests)
 
 ## Federal Appeals Court Upholds Trump Law Blocking Planned Parenthood Medicaid Reimbursements
 *Date: 2025-09-12*
@@ -12824,6 +13150,12 @@
 1. [Former special counsel Jack Smith warns that rule of law is 'under attack'](https://www.npr.org/2025/09/25/nx-s1-5552723/former-special-counsel-jack-smith-warns-that-rule-of-law-is-under-attack)
 2. [Takeaways from former special counsel Jack Smith's scathing review of the Trump Justice Department](https://www.cnn.com/2025/10/14/politics/jack-smith-interview-special-counsel-justice-department-trump)
 
+## Former Special Counsel Jack Smith Warns Rule of Law 'Under Attack Like Never Before'
+*Date: 2025-09-16*
+
+1. [Former special counsel Jack Smith warns that rule of law is 'under attack'](https://www.npr.org/2025/09/25/nx-s1-5552723/former-special-counsel-jack-smith-warns-that-rule-of-law-is-under-attack)
+2. [Takeaways from former special counsel Jack Smith's scathing review of the Trump Justice Department](https://www.cnn.com/2025/10/14/politics/jack-smith-interview-special-counsel-justice-department-trump)
+
 ## FCC Chair Brendan Carr Threatens ABC License Revocation, Disney Suspends Kimmel 'Indefinitely'
 *Date: 2025-09-17*
 
@@ -12847,6 +13179,11 @@
 
 1. [Executive and Regulatory Actions Under the Second Trump Administration](https://www.nafsa.org/executive-and-regulatory-actions-trump2admin)
 
+## Trump Restricts H-1B Visas with $100,000 Per-Petition Fee Requirement
+*Date: 2025-09-19*
+
+1. [Executive and Regulatory Actions Under the Second Trump Administration](https://www.nafsa.org/executive-and-regulatory-actions-trump2admin)
+
 ## SEC Drops Fraud Cases Against Trump Clemency Recipients, Abandoning Victims
 *Date: 2025-09-19*
 
@@ -12859,11 +13196,23 @@
 1. [Executive Order 14351: The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
 2. [Executive Order on the Gold Card](https://www.aila.org/library/executive-order-of-september-19-2025-the-gold-card)
 
+## Trump Signs 'Gold Card' Visa Executive Order Requiring $1-2 Million Payments
+*Date: 2025-09-19*
+
+1. [Executive Order 14351: The Gold Card](https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/)
+2. [Executive Order on the Gold Card](https://www.aila.org/library/executive-order-of-september-19-2025-the-gold-card)
+
 ## Trump's $200M White House Ballroom Funded by Government Contractors Seeking Access
 *Date: 2025-09-19*
 
 1. [Who's paying for the White House ballroom and what's in it for them](https://www.cbsnews.com/news/trump-white-house-ballroom-donor-names/)
 2. [Trump White House ballroom financed by Big Tech and these other corporate donors](https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html)
+
+## Eastern District of Virginia US Attorney Erik Siebert Resigns Under Trump Pressure to Charge Letitia James
+*Date: 2025-09-20*
+
+1. [U.S. attorney resigns under pressure from Trump to charge N.Y. AG Letitia James](https://www.npr.org/2025/09/20/nx-s1-5547837/us-attorney-virginia-resigns-letitia-james-probe)
+2. [NY's top federal prosecutor, several DOJ officials resign over Mayor Eric Adams' case](https://abcnews.go.com/Politics/new-yorks-top-federal-prosecutor-steps-amid-tension/story?id=118796725)
 
 ## Eastern District of Virginia US Attorney Erik Siebert Resigns Under Trump Pressure to Charge Letitia James
 *Date: 2025-09-20*
@@ -13004,6 +13353,20 @@
 2. [Trump advances TikTok deal with new executive order](https://www.npr.org/2025/09/25/nx-s1-5553517/tiktok-deal-trump-executive-order)
 3. [Trump approves TikTok deal through executive order, Vance says business valued at $14 billion](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html)
 
+## Trump Signs Executive Order Approving TikTok Deal with Oracle Partnership
+*Date: 2025-09-25*
+
+1. [Executive Order 14352: Saving TikTok While Protecting National Security](https://www.whitehouse.gov/presidential-actions/2025/09/saving-tiktok-while-protecting-national-security/)
+2. [Trump advances TikTok deal with new executive order](https://www.npr.org/2025/09/25/nx-s1-5553517/tiktok-deal-trump-executive-order)
+3. [Trump approves TikTok deal through executive order, Vance says business valued at $14 billion](https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html)
+
+## DOJ Orders Federal Prosecutors to Investigate George Soros' Open Society Foundations for Alleged Terrorism Ties
+*Date: 2025-09-25*
+
+1. [DOJ official directs prosecutors to prepare probes of George Soros' foundation](https://abcnews.go.com/US/doj-official-directs-prosecutors-prepare-probes-george-soros/story?id=125941089)
+2. [George Soros' foundation responds to Trump investigation threat](https://www.npr.org/2025/09/29/nx-s1-5554232/george-soros-foundations-investigation-doj-trump)
+3. [Trump, DOJ push investigation of George Soros after Comey indictment](https://www.axios.com/2025/09/26/george-soros-trump-doj-prosecution)
+
 ## FBI Director Patel Fires 15-20 Agents Photographed Kneeling at 2020 George Floyd Protests
 *Date: 2025-09-26*
 
@@ -13073,6 +13436,13 @@
 2. [Trump gives Qatar unprecedented security guarantee after Israeli attack](https://www.axios.com/2025/10/01/trump-qatar-security-guarantee-israel-attack)
 3. [Why Trump's Executive Order on Qatar Marks a Historic Shift](https://www.csis.org/analysis/why-trumps-executive-order-qatar-marks-historic-shift)
 
+## Trump Grants Qatar Unprecedented NATO-Like Security Guarantee via Executive Order
+*Date: 2025-09-29*
+
+1. [Executive Order: Assuring the Security of the State of Qatar](https://www.whitehouse.gov/presidential-actions/2025/09/assuring-the-security-of-the-state-of-qatar/)
+2. [Trump gives Qatar unprecedented security guarantee after Israeli attack](https://www.axios.com/2025/10/01/trump-qatar-security-guarantee-israel-attack)
+3. [Why Trump's Executive Order on Qatar Marks a Historic Shift](https://www.csis.org/analysis/why-trumps-executive-order-qatar-marks-historic-shift)
+
 ## YouTube Pays Trump $24.5M to Settle Suspension Lawsuit, $22M for White House Ballroom
 *Date: 2025-09-29*
 
@@ -13090,6 +13460,13 @@
 
 1. [Elon Musk's SpaceX and xAI are buying Tesla's unsold Cybertrucks](https://electrek.co/2025/10/13/elon-musks-spacex-and-xai-are-buying-teslas-unsold-cybertrucks/)
 2. [SpaceX & xAI bail out lagging Cybertruck orders](https://www.electrive.com/2025/10/15/spacex-xai-bail-out-lagging-cybertruck-orders/)
+
+## Trump Signs Pediatric Cancer AI Executive Order After Cutting Billions in Research Funding
+*Date: 2025-09-30*
+
+1. [Executive Order: Unlocking Cures for Pediatric Cancer with Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/2025/09/unlocking-cures-for-pediatric-cancer-with-artificial-intelligence/)
+2. [Trump signs order to use AI to accelerate pediatric cancer research](https://cancerletter.com/cancer-policy/20251003_7a/)
+3. [Trump's executive order on cancer research comes with important fine print](https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-executive-order-cancer-research-comes-important-fine-print-rcna235017)
 
 ## Trump Signs Pediatric Cancer AI Executive Order After Cutting Billions in Research Funding
 *Date: 2025-09-30*
@@ -13121,6 +13498,13 @@
 
 1. [Trump administration knocks out at least 15 oversight websites, saying IGs 'lied to the public'](https://www.govexec.com/oversight/2025/10/government-watchdog-websites-go-dark-omb-withholds-funds-ig-committee/408543/)
 2. [Federal websites, IG hotlines start to go dark under shutdown](https://federalnewsnetwork.com/government-shutdown/2025/10/federal-websites-ig-hotlines-start-to-go-dark-under-shutdown/)
+
+## DOJ Fires Top National Security Prosecutor Michael Ben'Ary Based on False Social Media Post
+*Date: 2025-10-01*
+
+1. [Justice Department fires prosecutor falsely tied to Comey case in social media post](https://www.cnn.com/2025/10/01/politics/justice-department-prosecutor-fired-comey-case)
+2. [DOJ fires top national security prosecutor after he's questionably linked to Comey pushback](https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161)
+3. [Top prosecutor fired from embattled US attorney's office slams DOJ leadership](https://abcnews.go.com/US/top-prosecutor-fired-embattled-us-attorneys-office-slams/story?id=126188806)
 
 ## OMB Director Russ Vought Uses Shutdown to Execute Mass Federal Purges
 *Date: 2025-10-03*
@@ -13231,6 +13615,13 @@
 
 1. [White House offers 'concierge' service to fossil fuel firms](https://www.washingtonpost.com/climate-environment/2025/10/07/trump-fossil-fuel-concierge-service/)
 
+## Attorney General Bondi Testifies Before Senate Amid Accusations of DOJ Weaponization
+*Date: 2025-10-07*
+
+1. [Democrats press Bondi over concerns DOJ is being weaponized to target Trump's foes](https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify)
+2. [Takeaways from Attorney General Pam Bondi's contentious Senate hearing](https://www.cnn.com/2025/10/07/politics/bondi-senate-hearing-takeaways)
+3. [Bondi rips Democratic senators, dodges questions on 'weaponization' and Homan during fiery hearing](https://abcnews.go.com/Politics/democrats-highlight-doj-weaponization-epstein-files-bondis-senate/story?id=126260560)
+
 ## Border Czar Tom Homan Allegedly Took $50,000 in FBI Corruption Sting
 *Date: 2025-10-08*
 
@@ -13297,6 +13688,18 @@
 *Date: 2025-10-09*
 
 1. [Fact Sheet: President Donald J. Trump Authorizes Construction of Arctic Security Cutters](https://www.whitehouse.gov/fact-sheets/2025/10/fact-sheet-president-donald-j-trump-authorizes-construction-of-arctic-security-cutters/)
+
+## Trump Authorizes Foreign Construction of Arctic Security Cutters via Presidential Memorandum
+*Date: 2025-10-09*
+
+1. [Fact Sheet: President Donald J. Trump Authorizes Construction of Arctic Security Cutters](https://www.whitehouse.gov/fact-sheets/2025/10/fact-sheet-president-donald-j-trump-authorizes-construction-of-arctic-security-cutters/)
+
+## DOJ Indicts New York AG Letitia James on Bank Fraud Charges After Trump Pressure Campaign
+*Date: 2025-10-09*
+
+1. [New York State Attorney General Indicted](https://www.justice.gov/usao-edva/pr/new-york-state-attorney-general-indicted)
+2. [Letitia James, who prosecuted Trump, indicted for alleged bank fraud](https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictment-trump)
+3. [Grand jury indicts N.Y. Attorney General Letitia James, a Trump opponent, on bank fraud charges](https://www.nbcnews.com/politics/justice-department/ny-attorney-general-letitia-james-trump-opponent-indicted-grand-jury-b-rcna236737)
 
 ## Analysis Finds 40+ Trump Administration Appointees With Fossil Fuel Industry Ties
 *Date: 2025-10-10*
@@ -13415,6 +13818,12 @@
 1. [Executive Order: Ensuring Continued Accountability in Federal Hiring](https://www.whitehouse.gov/presidential-actions/2025/10/ensuring-continued-accountability-in-federal-hiring/)
 2. [Trump's latest order requires strategic plans reflective of presidential 'priorities' to resume hiring](https://www.govexec.com/workforce/2025/10/trumps-latest-order-requires-strategic-plans-reflective-presidential-priorities-resume-hiring/408897/)
 
+## Trump Executive Order Extends Hiring Freeze with Political Approval Requirements
+*Date: 2025-10-15*
+
+1. [Executive Order: Ensuring Continued Accountability in Federal Hiring](https://www.whitehouse.gov/presidential-actions/2025/10/ensuring-continued-accountability-in-federal-hiring/)
+2. [Trump's latest order requires strategic plans reflective of presidential 'priorities' to resume hiring](https://www.govexec.com/workforce/2025/10/trumps-latest-order-requires-strategic-plans-reflective-presidential-priorities-resume-hiring/408897/)
+
 ## Trump Freezes $11 Billion in Infrastructure Projects in Democratic Cities
 *Date: 2025-10-17*
 
@@ -13429,6 +13838,11 @@
 *Date: 2025-10-17*
 
 1. [Trump commutes sentence of convicted fraudster George Santos](https://www.cnn.com/2025/10/17/politics/george-santos-trump-commutation)
+
+## Trump Commutes George Santos Prison Sentence After 3 Months
+*Date: 2025-10-17*
+
+1. [President Trump commutes the prison sentence of George Santos](https://www.npr.org/2025/10/17/nx-s1-5578304/trump-george-santos-prison-sentence-commuted)
 
 ## Trump Commutes George Santos Prison Sentence After 3 Months
 *Date: 2025-10-17*
@@ -13699,6 +14113,13 @@
 2. [Supreme Court wants more time and information before deciding if Trump can send National Guard to Chicago](https://www.cnn.com/2025/10/29/politics/supreme-court-chicago-national-guard-trump-briefs)
 3. [What to know about legal battles over National Guard deployments](https://www.npr.org/2025/10/23/nx-s1-5581553/national-guard-supreme-court-legal-cases)
 
+## DOJ Indicts Democratic Congressional Candidate Kat Abughazaleh for ICE Facility Protest
+*Date: 2025-10-29*
+
+1. [DOJ indicts Democratic congressional candidate Kat Abughazaleh over ICE protests](https://www.nbcnews.com/politics/justice-department/doj-indicts-democratic-congressional-candidate-kat-abughazaleh-ice-pro-rcna240584)
+2. [Trump DOJ Charges House Candidate Kat Abughazaleh With Conspiracy for Protesting ICE](https://theintercept.com/2025/10/29/kat-abughazaleh-ice-protest-broadview-trump-doj/)
+3. [Congressional candidate Kat Abughazaleh, five others indicted over protest outside Broadview ICE facility](https://www.cbsnews.com/chicago/news/kat-abughazaleh-protesters-indicted-broadview-ice-facility/)
+
 ## DOJ Launches Criminal Investigation Into Black Lives Matter Foundation for Alleged Donor Fraud
 *Date: 2025-10-30*
 
@@ -13712,6 +14133,13 @@
 1. [Family of top White House official moved from Arlington home to military housing](https://www.arlnow.com/2025/10/30/family-of-top-white-house-official-moved-from-arlington-home-to-military-housing/)
 2. [Stephen Miller Is Hiding From Protesters by Living on Military Base](https://newrepublic.com/post/202463/stephen-miller-kristi-noem-hiding-protesters-military-base-housing)
 3. [Stephen Miller Scores Free Military House in 'Trump Green Zone'](https://www.thedailybeast.com/stephen-miller-scores-free-military-house-in-trump-green-zone/)
+
+## DOJ Launches Criminal Investigation Into Black Lives Matter Foundation for Alleged Donor Fraud
+*Date: 2025-10-30*
+
+1. [Justice Department investigating fraud allegations in Black Lives Matter movement, AP sources say](https://www.boston.com/news/politics/2025/10/30/justice-department-investigating-fraud-allegations-in-black-lives-matter-movement-ap-sources-say/)
+2. [Justice Department investigating Black Lives Matter foundation, source says](https://www.cbsnews.com/news/justice-department-investigating-black-lives-matter-foundation-donations-protests-2020/)
+3. [Justice Department investigating fraud allegations in Black Lives Matter movement, AP sources say](https://www.cnn.com/2025/10/30/politics/justice-department-black-lives-matter)
 
 ## Test Markdown Event Creation
 *Date: 2025-10-31*

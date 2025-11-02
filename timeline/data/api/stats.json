@@ -1,14 +1,14 @@
 {
-  "total_events": 1874,
+  "total_events": 1946,
   "total_tags": 3606,
   "total_actors": 3585,
-  "total_sources": 6233,
+  "total_sources": 6373,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-11-04"
   },
   "status_counts": {
-    "unknown": 233,
+    "unknown": 305,
     "confirmed": 1593,
     "validated": 31,
     "disputed": 2,
@@ -25,15 +25,15 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 317
+      "count": 327
     },
     {
       "name": "institutional-capture",
-      "count": 204
+      "count": 239
     },
     {
       "name": "corruption",
-      "count": 188
+      "count": 193
     },
     {
       "name": "kleptocracy",
@@ -53,11 +53,11 @@
     },
     {
       "name": "foreign-influence",
-      "count": 89
+      "count": 90
     },
     {
       "name": "constitutional-crisis",
-      "count": 82
+      "count": 84
     },
     {
       "name": "conflict-of-interest",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 716
+      "count": 770
     },
     {
       "name": "Trump Administration",
@@ -79,32 +79,32 @@
     },
     {
       "name": "Department of Justice",
-      "count": 108
+      "count": 128
+    },
+    {
+      "name": "White House",
+      "count": 65
     },
     {
       "name": "Jeffrey Epstein",
-      "count": 52
+      "count": 58
+    },
+    {
+      "name": "Pam Bondi",
+      "count": 54
     },
     {
       "name": "Dick Cheney",
       "count": 51
     },
     {
-      "name": "Pam Bondi",
-      "count": 49
-    },
-    {
-      "name": "White House",
+      "name": "Supreme Court",
       "count": 47
     },
     {
-      "name": "Supreme Court",
-      "count": 45
-    },
-    {
-      "name": "George W. Bush",
+      "name": "FBI",
       "count": 45
     }
   ],
-  "generated": "2025-11-02T00:26:53.296174"
+  "generated": "2025-11-02T00:35:51.417041"
 }
