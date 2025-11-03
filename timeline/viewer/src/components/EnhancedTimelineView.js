@@ -4,7 +4,7 @@ import { format, parseISO } from 'date-fns';
 import {
   Calendar, MapPin, Users, ExternalLink, AlertCircle,
   ChevronUp, ChevronDown, Clock, TrendingUp, Shield, AlertTriangle,
-  Bookmark, Share2
+  Bookmark, Share2, Loader2
 } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 import './EnhancedTimelineView.css';
@@ -40,9 +40,14 @@ const EnhancedTimelineView = ({
   selectedTags,
   selectedActors,
   timelineControls,
-  onTimelineControlsChange
+  onTimelineControlsChange,
+  totalEvents,
+  hasMoreEvents,
+  onLoadMore,
+  isLoadingMore
 }) => {
   const timelineRef = useRef(null);
+  const loadMoreTriggerRef = useRef(null);
   const [, setVisibleYears] = useState(new Set());
   const [expandedEvents, setExpandedEvents] = useState(new Set());
   const [bookmarkedEvents, setBookmarkedEvents] = useState(new Set());
@@ -190,29 +195,76 @@ const EnhancedTimelineView = ({
     return () => container?.removeEventListener('scroll', handleScroll);
   }, []);
 
+  useEffect(() => {
+    if (!hasMoreEvents || !onLoadMore) {
+      return;
+    }
+
+    const sentinel = loadMoreTriggerRef.current;
+    if (!sentinel) {
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            onLoadMore();
+          }
+        });
+      },
+      {
+        root: viewMode === 'timeline' ? timelineRef.current : null,
+        rootMargin: '200px',
+        threshold: 0
+      }
+    );
+
+    observer.observe(sentinel);
+
+    return () => {
+      observer.disconnect();
+    };
+  }, [hasMoreEvents, onLoadMore, viewMode, events.length]);
+
   // Render based on view mode
   if (viewMode === 'list') {
-    return <EnhancedListView 
-      events={processedEvents} 
+    return <EnhancedListView
+      events={processedEvents}
       onEventClick={onEventClick}
       bookmarkedEvents={bookmarkedEvents}
       onBookmark={handleBookmark}
       compactMode={compactMode}
+      totalEvents={totalEvents}
+      hasMoreEvents={hasMoreEvents}
+      isLoadingMore={isLoadingMore}
+      onLoadMore={onLoadMore}
+      loadMoreRef={loadMoreTriggerRef}
     />;
   }
 
   if (viewMode === 'grid') {
-    return <EnhancedGridView 
-      events={processedEvents} 
+    return <EnhancedGridView
+      events={processedEvents}
       onEventClick={onEventClick}
       bookmarkedEvents={bookmarkedEvents}
       onBookmark={handleBookmark}
+      totalEvents={totalEvents}
+      hasMoreEvents={hasMoreEvents}
+      isLoadingMore={isLoadingMore}
+      onLoadMore={onLoadMore}
+      loadMoreRef={loadMoreTriggerRef}
     />;
   }
 
   // Default enhanced timeline view
   return (
     <div className="enhanced-timeline-container">
+      <EventProgress
+        shownCount={processedEvents.length}
+        totalCount={totalEvents}
+        hasMore={hasMoreEvents}
+      />
 
       {/* Sticky Year Header */}
       {stickyYear && (
@@ -263,6 +315,13 @@ const EnhancedTimelineView = ({
                 }}
               />
             ))}
+
+          <LoadMoreFooter
+            hasMoreEvents={hasMoreEvents}
+            isLoadingMore={isLoadingMore}
+            onLoadMore={onLoadMore}
+            loadMoreRef={loadMoreTriggerRef}
+          />
         </div>
       </div>
 
@@ -852,9 +911,14 @@ const EnhancedTimelineEvent = ({
   );
 }; */
 
-const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, compactMode }) => {
+const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, compactMode, totalEvents, hasMoreEvents, isLoadingMore, onLoadMore, loadMoreRef }) => {
   return (
     <div className="enhanced-list-view">
+      <EventProgress
+        shownCount={events.length}
+        totalCount={totalEvents}
+        hasMore={hasMoreEvents}
+      />
       {events.map(event => (
         <motion.div
           key={event.id}
@@ -890,7 +954,7 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
             </div>
           </div>
           
-          <button 
+          <button
             className={`bookmark-button ${bookmarkedEvents.has(event.id) ? 'active' : ''}`}
             onClick={() => onBookmark(event.id)}
           >
@@ -898,13 +962,25 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
           </button>
         </motion.div>
       ))}
+
+      <LoadMoreFooter
+        hasMoreEvents={hasMoreEvents}
+        isLoadingMore={isLoadingMore}
+        onLoadMore={onLoadMore}
+        loadMoreRef={loadMoreRef}
+      />
     </div>
   );
 };
 
-const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark }) => {
+const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark, totalEvents, hasMoreEvents, isLoadingMore, onLoadMore, loadMoreRef }) => {
   return (
     <div className="enhanced-grid-view">
+      <EventProgress
+        shownCount={events.length}
+        totalCount={totalEvents}
+        hasMore={hasMoreEvents}
+      />
       {events.map(event => (
         <motion.div
           key={event.id}
@@ -959,6 +1035,61 @@ const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark }
           </div>
         </motion.div>
       ))}
+
+      <LoadMoreFooter
+        hasMoreEvents={hasMoreEvents}
+        isLoadingMore={isLoadingMore}
+        onLoadMore={onLoadMore}
+        loadMoreRef={loadMoreRef}
+      />
+    </div>
+  );
+};
+
+const EventProgress = ({ shownCount, totalCount, hasMore }) => {
+  if (typeof totalCount !== 'number' || totalCount === 0) {
+    return null;
+  }
+
+  return (
+    <div className="event-progress">
+      <span className="event-progress-main">
+        Showing {shownCount} of {totalCount} events
+      </span>
+      {hasMore && (
+        <span className="event-progress-hint">
+          Scroll to the end or use "Load more" to reveal additional events
+        </span>
+      )}
+    </div>
+  );
+};
+
+const LoadMoreFooter = ({ hasMoreEvents, isLoadingMore, onLoadMore, loadMoreRef }) => {
+  return (
+    <div className="load-more-area">
+      {hasMoreEvents ? (
+        <>
+          <div className="load-more-sentinel" ref={loadMoreRef} aria-hidden="true" />
+          <button
+            className="load-more-button"
+            onClick={onLoadMore}
+            disabled={isLoadingMore}
+          >
+            {isLoadingMore ? (
+              <span className="load-more-status">
+                <Loader2 className="load-more-spinner" size={18} /> Loading more events...
+              </span>
+            ) : (
+              'Load more events'
+            )}
+          </button>
+        </>
+      ) : (
+        <div className="load-more-status end">
+          You’ve reached the end of the available events
+        </div>
+      )}
     </div>
   );
 };

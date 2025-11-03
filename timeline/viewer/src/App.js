@@ -27,6 +27,8 @@ import {
 } from 'lucide-react';
 import './App.css';
 
+const EVENTS_PER_PAGE = 120;
+
 function App() {
   // URL state management
   const { urlState, updateUrl } = useUrlState();
@@ -49,6 +51,10 @@ function App() {
   const [viewMode, setViewMode] = useState('timeline');
   const [sortOrder, setSortOrder] = useState('chronological');
   const [minImportance, setMinImportance] = useState(0);
+
+  // Pagination state for rendering fewer events at once
+  const [eventsPage, setEventsPage] = useState(1);
+  const [isLoadingMoreEvents, setIsLoadingMoreEvents] = useState(false);
   
   // UI states - initialize from URL or defaults
   const [showFilters, setShowFilters] = useState(true);
@@ -129,6 +135,7 @@ function App() {
       const events = eventsData.events || eventsData;
       setEvents(events);
       setFilteredEvents(events);
+      setEventsPage(1);
       
       // Extract metadata
       setAllTags(tagsData.tags || []);
@@ -263,15 +270,61 @@ function App() {
         }
 
         setFilteredEvents(sorted);
+        setEventsPage(1);
+        setIsLoadingMoreEvents(false);
       } catch (error) {
         console.error('Error applying filters:', error);
         // Fallback to client-side filtering if API fails
         setFilteredEvents(events);
+        setEventsPage(1);
+        setIsLoadingMoreEvents(false);
       }
     };
 
     applyFilters();
   }, [events, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, sortOrder, minImportance]);
+
+  const displayedEvents = useMemo(() => {
+    return filteredEvents.slice(0, eventsPage * EVENTS_PER_PAGE);
+  }, [filteredEvents, eventsPage]);
+
+  const hasMoreEvents = displayedEvents.length < filteredEvents.length;
+
+  const handleLoadMoreEvents = useCallback(() => {
+    if (!hasMoreEvents || isLoadingMoreEvents) {
+      return;
+    }
+    setIsLoadingMoreEvents(true);
+    setEventsPage((prev) => prev + 1);
+  }, [hasMoreEvents, isLoadingMoreEvents]);
+
+  useEffect(() => {
+    if (!isLoadingMoreEvents) {
+      return;
+    }
+
+    const timer = setTimeout(() => {
+      setIsLoadingMoreEvents(false);
+    }, 250);
+
+    return () => clearTimeout(timer);
+  }, [isLoadingMoreEvents, eventsPage]);
+
+  useEffect(() => {
+    if (!selectedEvent) {
+      return;
+    }
+
+    const eventIndex = filteredEvents.findIndex((event) => event.id === selectedEvent.id);
+    if (eventIndex === -1) {
+      return;
+    }
+
+    const requiredPage = Math.floor(eventIndex / EVENTS_PER_PAGE) + 1;
+    if (requiredPage > eventsPage) {
+      setEventsPage(requiredPage);
+    }
+  }, [selectedEvent, filteredEvents, eventsPage]);
 
   // Event handlers
   const handleEventClick = useCallback((event) => {
@@ -411,7 +464,7 @@ function App() {
   // Compute timeline groups for better visualization
   const timelineGroups = useMemo(() => {
     const groups = {};
-    filteredEvents.forEach(event => {
+    displayedEvents.forEach(event => {
       const year = event.date?.substring(0, 4) || 'Unknown';
       if (!groups[year]) {
         groups[year] = [];
@@ -419,7 +472,7 @@ function App() {
       groups[year].push(event);
     });
     return groups;
-  }, [filteredEvents]);
+  }, [displayedEvents]);
 
   // Handler for entering timeline from landing page
   const handleEnterTimeline = useCallback(() => {
@@ -813,8 +866,8 @@ function App() {
         <main className="main-content">
           <div className="timeline-header">
             <h2>
-              {filteredEvents.length} Events
-              {filteredEvents.length !== events.length && 
+              Showing {displayedEvents.length} of {filteredEvents.length} events
+              {filteredEvents.length !== events.length &&
                 ` (filtered from ${events.length})`
               }
             </h2>
@@ -846,7 +899,7 @@ function App() {
             />
           ) : (
             <EnhancedTimelineView
-              events={filteredEvents}
+              events={displayedEvents}
               groups={timelineGroups}
               viewMode={viewMode}
               zoomLevel={zoomLevel}
@@ -858,7 +911,11 @@ function App() {
               selectedTags={selectedTags}
               selectedActors={selectedActors}
               timelineControls={timelineControls}
-              onTimelineControlsChange={setTimelineControls}
+              onTimelineControlsChange={handleTimelineControlsChange}
+              totalEvents={filteredEvents.length}
+              hasMoreEvents={hasMoreEvents}
+              onLoadMore={handleLoadMoreEvents}
+              isLoadingMore={isLoadingMoreEvents}
             />
           )}
         </main>
