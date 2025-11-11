@@ -1,0 +1,36 @@
+{
+  "id": "2019-03-15--christchurch-mosque-massacre-8chan-radicalization",
+  "date": "2019-03-15",
+  "title": "Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack",
+  "summary": "On March 15, 2019, a white nationalist terrorist killed 51 people and wounded 40 others in attacks on two mosques in Christchurch, New Zealand, in the first major mass casualty event demonstrating 8chan's radicalization infrastructure producing real-world terrorism. The shooter announced his attack on 8chan beforehand, posted his \"Great Replacement\" manifesto to the platform, and live-streamed the massacre via helmet camera using video game POV aesthetics. Before entering the mosque, he stated \"Subscribe to PewDiePie,\" referencing the gaming/YouTube star who had cultivated an audience through anti-SJW content that served as a pipeline to white nationalism. 8chan users cheered in real-time as they watched the livestream, treating mass murder as entertainment content. The attack explicitly linked gaming culture, chan board radicalization, and white nationalist terrorism, demonstrating how \"ironic\" bigotry on imageboards produced sincere mass killers. The shooter's manifesto cited the \"Great Replacement\" conspiracy theory\u2014the belief that white people are being deliberately replaced through immigration\u2014that had spread from European white nationalists through 8chan to mainstream conservative discourse. Christchurch was the first of multiple 8chan-linked mass shootings in 2019 that would kill 75 people total. The attack's aesthetics\u2014gaming culture references, livestreaming, meme-filled manifesto\u2014showed how online radicalization had evolved to treat terrorism as content creation. New Zealand's Christchurch Call initiative attempted to address online extremism, but platforms like 8chan continued operating. The massacre proved the 2003-2019 radicalization pipeline (4chan \u2192 Gamergate \u2192 8chan \u2192 terrorism) was operational and deadly, a warning ignored as similar aesthetics would appear in 2025 federal immigration recruitment.",
+  "importance": 10,
+  "tags": [
+    "8chan",
+    "White Nationalism",
+    "Mass Shooting",
+    "Online Radicalization",
+    "Gaming Culture"
+  ],
+  "actors": [],
+  "status": "confirmed",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead",
+      "title": "Christchurch shootings: 49 killed in New Zealand mosque attacks",
+      "publisher": "The Guardian",
+      "tier": 1
+    },
+    {
+      "url": "https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html",
+      "title": "New Zealand Mosque Shootings Kill 49",
+      "publisher": "New York Times",
+      "tier": 1
+    },
+    {
+      "url": "https://www.npr.org/2019/08/05/748420957/facebook-youtube-twitter-say-they-are-removing-content-tied-to-el-paso-shooting",
+      "title": "Platforms struggle with extremist content after shootings",
+      "publisher": "NPR",
+      "tier": 1
+    }
+  ]
+}
