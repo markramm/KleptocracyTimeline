@@ -1,0 +1,28 @@
+---
+id: 2025-11-03--snap-partial-benefits-announced
+date: '2025-11-03'
+title: Trump Administration Announces Partial SNAP Benefits After Court Orders
+importance: 9
+tags:
+- government-shutdown
+- snap-benefits
+- food-insecurity
+- systematic-cruelty
+- vulnerable-populations
+sources:
+- title: Trump administration will fund SNAP food benefits at 50% the normal payment
+  url: https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown
+  publisher: NPR
+  date: '2025-11-03'
+  tier: 1
+- title: 'Trump Tyranny Tracker: Day 288'
+  url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288
+  publisher: Trump Tyranny Tracker
+  date: '2025-11-03'
+  tier: 2
+actors:
+- Trump
+- USDA
+---
+
+On November 3, 2025, the Trump administration announced it would provide only partial SNAP (food stamp) benefits for November 2025 using emergency funds, after initially threatening to completely cut off benefits for 42 million Americans on November 1 during the government shutdown. The partial payment decision came only after two federal judges ruled that freezing payments for the nation's largest anti-hunger program was unlawful. Despite $5 billion in available contingency funds that could maintain full benefits, the administration chose to provide reduced payments, weaponizing food assistance as political leverage in Trump's standoff with Congress. NPR reported on November 3 that Trump officials confirmed using emergency funds for 50% of normal payment amounts, leaving millions of low-income Americans, children, seniors, and people with disabilities facing severe food insecurity. The administration's initial refusal to deploy contingency funding and subsequent provision of only partial benefits exemplifies systematic use of mass suffering as a political tool. Food banks warned they could not meet the surge in demand created by the benefit reduction, with many recipients forced to choose between food and other necessities like rent and medication.

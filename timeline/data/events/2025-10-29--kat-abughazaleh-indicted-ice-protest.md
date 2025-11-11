@@ -1,42 +1,41 @@
 ---
-actors:
-- Catherine Sharp
-- Department of Justice
-- Immigration and Customs Enforcement
-- Kat Abughazaleh
-- Michael Rabbitt
-- Trump administration
-date: '2025-10-29'
 id: 2025-10-29--kat-abughazaleh-indicted-ice-protest
-importance: 7
-sources:
-- date: '2025-10-29'
-  publisher: The Intercept
-  tier: 1
-  title: Trump DOJ Charges House Candidate Kat Abughazaleh With Conspiracy for Protesting
-    ICE
-  url: https://theintercept.com/2025/10/29/kat-abughazaleh-ice-protest-broadview-trump-doj/
-- date: '2025-10-29'
-  publisher: CBS Chicago
-  tier: 2
-  title: Congressional candidate Kat Abughazaleh, five others indicted over protest
-    outside Broadview ICE facility
-  url: https://www.cbsnews.com/chicago/news/kat-abughazaleh-protesters-indicted-broadview-ice-facility/
-- date: '2025-10-29'
-  publisher: NBC News
-  tier: 2
-  title: DOJ indicts Democratic congressional candidate Kat Abughazaleh over ICE protests
-  url: https://www.nbcnews.com/politics/justice-department/doj-indicts-democratic-congressional-candidate-kat-abughazaleh-ice-pro-rcna240584
-status: confirmed
-tags:
-- doj
-- first-amendment
-- ice
-- indictment
-- political-prosecution
-- protest-criminalization
+date: '2025-10-29'
 title: DOJ Indicts Democratic Congressional Candidate Kat Abughazaleh for ICE Facility
   Protest
+importance: 7
+actors:
+- Kat Abughazaleh
+- Department of Justice
+- Immigration and Customs Enforcement
+- Catherine Sharp
+- Michael Rabbitt
+- Trump administration
+tags:
+- doj
+- indictment
+- political-prosecution
+- first-amendment
+- ice
+- protest-criminalization
+sources:
+- url: https://www.nbcnews.com/politics/justice-department/doj-indicts-democratic-congressional-candidate-kat-abughazaleh-ice-pro-rcna240584
+  title: DOJ indicts Democratic congressional candidate Kat Abughazaleh over ICE protests
+  publisher: NBC News
+  date: '2025-10-29'
+  tier: 2
+- url: https://theintercept.com/2025/10/29/kat-abughazaleh-ice-protest-broadview-trump-doj/
+  title: Trump DOJ Charges House Candidate Kat Abughazaleh With Conspiracy for Protesting
+    ICE
+  publisher: The Intercept
+  date: '2025-10-29'
+  tier: 1
+- url: https://www.cbsnews.com/chicago/news/kat-abughazaleh-protesters-indicted-broadview-ice-facility/
+  title: Congressional candidate Kat Abughazaleh, five others indicted over protest
+    outside Broadview ICE facility
+  publisher: CBS Chicago
+  date: '2025-10-29'
+  tier: 2
 ---
 
 On October 29, 2025, the Department of Justice unsealed a federal indictment charging Democratic congressional candidate Kat Abughazaleh and five other activists with conspiracy to impede federal law enforcement officers and forcibly impeding ICE officers during a September 26 protest outside an Immigration and Customs Enforcement facility in Broadview, Illinois. The 11-page indictment, filed October 23, alleges that protesters surrounded a vehicle driven by a federal agent, banged on the car, broke a mirror, scratched "PIG" on the vehicle, and physically blocked its entry to the facility. Abughazaleh allegedly placed her hands on the vehicle's hood and braced her body against it.

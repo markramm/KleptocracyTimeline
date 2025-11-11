@@ -35,7 +35,6 @@ sources:
   publisher: ABC News
   date: '2025-10-07'
   tier: 2
-status: confirmed
 ---
 
 On October 7, 2025, Attorney General Pam Bondi testified before the Senate Judiciary Committee in a contentious oversight hearing marked by sharp Democratic criticism of the Justice Department's targeting of President Trump's political opponents. The hearing came one day before former FBI Director James Comey's scheduled arraignment on charges he allegedly lied to Congress, and amid growing concerns that Bondi has transformed the DOJ into a tool for political retribution.

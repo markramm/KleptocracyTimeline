@@ -25,7 +25,6 @@ actors:
 - Rebecca Slaughter
 - Supreme Court
 - Federal Trade Commission
-status: confirmed
 ---
 
 In a 5-4 decision, the Supreme Court's conservative majority, led by Chief Justice John Roberts, allowed President Trump to fire Federal Trade Commission Commissioner Rebecca Slaughter before her term ends, overturning nearly 90 years of regulatory independence precedent established in Humphrey's Executor v. United States (1935). The decision permits presidential removal of independent agency commissioners without cause, fundamentally undermining the independence of the FTC, FCC, SEC, and other regulatory bodies designed to be insulated from political pressure. This ruling reverses a federal appeals court decision that had reinstated Slaughter and represents a watershed moment in presidential power over independent agencies, enabling Trump to replace career officials with loyalists across the regulatory apparatus.

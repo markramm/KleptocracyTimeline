@@ -1,0 +1,31 @@
+---
+id: 2025-08-10--doj-employee-sean-dunn-fired-for-throwing-sandwich
+date: '2025-08-10'
+title: DOJ Employee Sean Dunn Fired After Throwing Sandwich at Federal Agent in Protest
+importance: 7
+tags:
+- DOJ Weaponization
+- Federal Police
+- Dissent
+actors:
+- Pam Bondi
+- Sean Dunn
+status: confirmed
+sources:
+- url: https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/
+  title: Justice Dept. fires, charges staffer who admits throwing sandwich at federal
+    agent deployed in D.C.
+  publisher: CBS News
+  tier: 1
+- url: https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html
+  title: DOJ fires sandwich thrower after he's charged with assaulting officer in
+    Washington, DC
+  publisher: CNBC
+  tier: 2
+- url: https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/
+  title: Fired DOJ employee could face prison for throwing sandwich at officers
+  publisher: Washington Post
+  tier: 1
+---
+
+Sean Dunn, a 37-year-old DOJ criminal division employee, was fired by Attorney General Pam Bondi after throwing a Subway sandwich at U.S. Customs and Border Protection Agent Gregory Lairmore during protests against Trump's federal law enforcement surge in Washington, D.C. The incident occurred on August 10, 2025, along the U Street nightlife corridor when Dunn confronted federal agents he believed were about to conduct an immigration raid at a gay nightclub during Latin Night. Video showed Dunn, wearing a pink polo shirt, shouting at officers: "F--- you! You f------ fascists! Why are you here? I don't want you in my city!" before winding up and hurling the wrapped sandwich into the officer's chest. Bondi announced on social media: "Not only is he FIRED, he has been charged with a felony." Prosecutors initially sought felony assault charges, but a grand jury refused to indict twice, forcing prosecutors to file misdemeanor charges instead. Dunn worked in the criminal division's international affairs section before his termination. The incident became a viral symbol of resistance against Trump's deployment of federal forces in D.C., highlighting tensions between career DOJ employees and the administration's aggressive law enforcement policies.

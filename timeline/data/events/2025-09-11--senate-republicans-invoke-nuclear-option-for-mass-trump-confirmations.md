@@ -19,7 +19,6 @@ actors:
 - John Thune
 - Senate Republicans
 - Donald Trump
-status: confirmed
 ---
 
 Senate Republicans, led by Majority Leader John Thune, changed chamber rules to allow confirmation of Trump's sub-Cabinet, ambassador, and executive branch nominees in batches rather than individually, drastically reducing oversight and debate. The 'nuclear option' procedural change eliminates the traditional requirement that each nominee face individual floor votes, enabling wholesale approval of potentially hundreds of appointees with minimal vetting. Senators can no longer force recorded votes on controversial nominees or delay confirmations to allow public scrutiny of nominees' backgrounds and qualifications. This creates a rubber-stamp confirmation process where unqualified loyalists, industry insiders with massive conflicts of interest, and ideological extremists can be confirmed en masse without individual accountability. Combined with Trump's extensive use of 'acting' officials to bypass Senate confirmation entirely, this completes the capture of the appointments process.

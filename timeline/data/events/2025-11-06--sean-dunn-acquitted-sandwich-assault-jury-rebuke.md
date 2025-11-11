@@ -1,0 +1,33 @@
+---
+id: 2025-11-06--sean-dunn-acquitted-sandwich-assault-jury-rebuke
+date: '2025-11-06'
+title: Jury Acquits DOJ Whistleblower Sean Dunn of Sandwich Assault in Rebuke to Weaponized
+  Prosecution
+importance: 8
+tags:
+- DOJ Weaponization
+- Jury Nullification
+- Dissent
+- Whistleblower Retaliation
+actors:
+- Sean Dunn
+- Pam Bondi
+status: confirmed
+sources:
+- url: https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich
+  title: Subway sandwich thrower found not guilty in D.C. jury rebuke
+  publisher: NPR
+  tier: 1
+- url: https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142
+  title: Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal
+    agent
+  publisher: NBC News
+  tier: 1
+- url: https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/
+  title: Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor
+    after trial
+  publisher: CBS News
+  tier: 1
+---
+
+A Washington, D.C. jury found former DOJ employee Sean Dunn not guilty of misdemeanor assault after several hours of deliberation on November 6, 2025, delivering a stunning rebuke to the Trump administration's weaponized prosecution. Dunn had been charged with assaulting U.S. Customs and Border Protection Officer Gregory Lairmore by throwing a Subway sandwich at him during an August 10, 2025 protest against federal forces deployed in D.C. Despite prosecutors arguing that Dunn "crossed the line" by striking a federal officer "even with a sandwich," defense attorney Julia Gatto successfully argued it was a "harmless gesture that did not, could not, cause injury." The prosecution's case was further weakened after a grand jury twice refused to indict Dunn on the original felony assault charges Attorney General Pam Bondi had announced when firing him. The verdict came amid broader concerns about DOJ weaponization, with the sandwich prosecution seen as part of a pattern of retaliatory enforcement against administration critics. NPR characterized the verdict as a "jury rebuke" to Trump's federal law enforcement surge. The acquittal occurred just one day after a federal judge scolded prosecutors in the James Comey case for their "indict first, investigate second" approach, suggesting growing judicial skepticism of politically motivated prosecutions. Though acquitted, Dunn remains fired from his DOJ position, making him effectively a whistleblower punished for protesting federal overreach.

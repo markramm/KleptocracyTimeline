@@ -28,7 +28,6 @@ sources:
   publisher: CNN
   date: '2025-10-14'
   tier: 2
-status: confirmed
 ---
 
 On September 16, 2025, former Special Counsel Jack Smith delivered his first public remarks since leaving the Department of Justice in a speech at George Mason University, warning that "the rule of law is under attack like in no other period in our lifetimes." NPR exclusively obtained a recording of the event from an attendee, as no national media appeared to be present for Smith's lecture to students, professors, and members of the public.

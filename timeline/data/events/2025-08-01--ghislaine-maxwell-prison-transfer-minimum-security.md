@@ -33,7 +33,6 @@ sources:
   publisher: NBC News
   date: '2025-08-02'
   tier: 2
-status: confirmed
 ---
 
 Convicted sex trafficker Ghislaine Maxwell was transferred on August 1, 2025, from a low-security facility in Tallahassee, Florida to a minimum-security federal prison camp in Bryan, Texas. The transfer came one week after Deputy Attorney General Todd Blanche met with Maxwell and her lawyer for nine hours over two days. The move is highly unusual because Bureau of Prisons policy requires sex offenders to be housed in at least low-security facilities unless they receive a special waiver.

@@ -1,11 +1,11 @@
 [
   {
     "name": "Donald Trump",
-    "count": 770
+    "count": 778
   },
   {
     "name": "Trump Administration",
-    "count": 289
+    "count": 295
   },
   {
     "name": "Elon Musk",
@@ -17,7 +17,7 @@
   },
   {
     "name": "White House",
-    "count": 65
+    "count": 67
   },
   {
     "name": "Jeffrey Epstein",
@@ -33,15 +33,19 @@
   },
   {
     "name": "Supreme Court",
-    "count": 47
+    "count": 49
   },
   {
     "name": "FBI",
-    "count": 45
+    "count": 47
   },
   {
     "name": "George W. Bush",
     "count": 45
+  },
+  {
+    "name": "ICE",
+    "count": 43
   },
   {
     "name": "Heritage Foundation",
@@ -52,15 +56,11 @@
     "count": 41
   },
   {
-    "name": "ICE",
-    "count": 39
+    "name": "Trump",
+    "count": 38
   },
   {
     "name": "White House Iraq Group",
-    "count": 35
-  },
-  {
-    "name": "Trump",
     "count": 35
   },
   {
@@ -137,7 +137,7 @@
   },
   {
     "name": "DHS",
-    "count": 21
+    "count": 23
   },
   {
     "name": "State Department",
@@ -161,10 +161,14 @@
   },
   {
     "name": "Scott Bessent",
-    "count": 19
+    "count": 20
   },
   {
     "name": "IMF",
+    "count": 18
+  },
+  {
+    "name": "DOJ",
     "count": 18
   },
   {
@@ -177,10 +181,6 @@
   },
   {
     "name": "Clarence Thomas",
-    "count": 17
-  },
-  {
-    "name": "DOJ",
     "count": 17
   },
   {
@@ -209,6 +209,10 @@
   },
   {
     "name": "Mark Zuckerberg",
+    "count": 16
+  },
+  {
+    "name": "JD Vance",
     "count": 16
   },
   {
@@ -248,6 +252,14 @@
     "count": 14
   },
   {
+    "name": "Pete Hegseth",
+    "count": 14
+  },
+  {
+    "name": "Marco Rubio",
+    "count": 14
+  },
+  {
     "name": "Lewis F. Powell Jr.",
     "count": 13
   },
@@ -268,19 +280,7 @@
     "count": 13
   },
   {
-    "name": "JD Vance",
-    "count": 13
-  },
-  {
     "name": "Adam Schiff",
-    "count": 13
-  },
-  {
-    "name": "Pete Hegseth",
-    "count": 13
-  },
-  {
-    "name": "Marco Rubio",
     "count": 13
   },
   {
@@ -301,6 +301,10 @@
   },
   {
     "name": "Michael Gerson",
+    "count": 12
+  },
+  {
+    "name": "Pentagon",
     "count": 12
   },
   {
@@ -348,15 +352,19 @@
     "count": 11
   },
   {
-    "name": "Pentagon",
-    "count": 11
-  },
-  {
     "name": "Harlan Crow",
     "count": 11
   },
   {
+    "name": "Department of Education",
+    "count": 11
+  },
+  {
     "name": "EPA",
+    "count": 11
+  },
+  {
+    "name": "Department of Health and Human Services",
     "count": 11
   },
   {
@@ -396,15 +404,7 @@
     "count": 10
   },
   {
-    "name": "Department of Education",
-    "count": 10
-  },
-  {
     "name": "Samuel Alito",
-    "count": 10
-  },
-  {
-    "name": "Department of Health and Human Services",
     "count": 10
   },
   {
@@ -417,6 +417,14 @@
   },
   {
     "name": "ACLU",
+    "count": 10
+  },
+  {
+    "name": "Sean Duffy",
+    "count": 10
+  },
+  {
+    "name": "Karoline Leavitt",
     "count": 10
   },
   {
@@ -472,6 +480,14 @@
     "count": 9
   },
   {
+    "name": "National Guard",
+    "count": 9
+  },
+  {
+    "name": "Stephen Miller",
+    "count": 9
+  },
+  {
     "name": "William Barr",
     "count": 9
   },
@@ -489,10 +505,6 @@
   },
   {
     "name": "Paul Dans",
-    "count": 9
-  },
-  {
-    "name": "Karoline Leavitt",
     "count": 9
   },
   {
@@ -544,11 +556,7 @@
     "count": 8
   },
   {
-    "name": "National Guard",
-    "count": 8
-  },
-  {
-    "name": "Stephen Miller",
+    "name": "Rudy Giuliani",
     "count": 8
   },
   {
@@ -573,10 +581,6 @@
   },
   {
     "name": "Department of Commerce",
-    "count": 8
-  },
-  {
-    "name": "Sean Duffy",
     "count": 8
   },
   {
@@ -632,6 +636,10 @@
     "count": 7
   },
   {
+    "name": "Federal Aviation Administration",
+    "count": 7
+  },
+  {
     "name": "Eric Holder",
     "count": 7
   },
@@ -656,11 +664,11 @@
     "count": 7
   },
   {
-    "name": "Michael Flynn",
+    "name": "U.S. Marshals Service",
     "count": 7
   },
   {
-    "name": "Rudy Giuliani",
+    "name": "Michael Flynn",
     "count": 7
   },
   {
@@ -669,6 +677,10 @@
   },
   {
     "name": "General Services Administration",
+    "count": 7
+  },
+  {
+    "name": "Department of Transportation",
     "count": 7
   },
   {
@@ -701,6 +713,10 @@
   },
   {
     "name": "Paramount Global",
+    "count": 7
+  },
+  {
+    "name": "USDA",
     "count": 7
   },
   {
@@ -792,6 +808,10 @@
     "count": 6
   },
   {
+    "name": "HHS",
+    "count": 6
+  },
+  {
     "name": "Sergey Aksyonov",
     "count": 6
   },
@@ -808,11 +828,11 @@
     "count": 6
   },
   {
-    "name": "U.S. Marshals Service",
+    "name": "Scott Pruitt",
     "count": 6
   },
   {
-    "name": "Scott Pruitt",
+    "name": "Secret Service",
     "count": 6
   },
   {
@@ -829,10 +849,6 @@
   },
   {
     "name": "Lee Zeldin",
-    "count": 6
-  },
-  {
-    "name": "Department of Transportation",
     "count": 6
   },
   {
@@ -905,6 +921,10 @@
   },
   {
     "name": "California National Guard",
+    "count": 6
+  },
+  {
+    "name": "Senate Republicans",
     "count": 6
   },
   {
@@ -1004,10 +1024,6 @@
     "count": 5
   },
   {
-    "name": "Federal Aviation Administration",
-    "count": 5
-  },
-  {
     "name": "Virginia Giuffre",
     "count": 5
   },
@@ -1044,10 +1060,6 @@
     "count": 5
   },
   {
-    "name": "HHS",
-    "count": 5
-  },
-  {
     "name": "Sberbank",
     "count": 5
   },
@@ -1057,10 +1069,6 @@
   },
   {
     "name": "Gazprombank",
-    "count": 5
-  },
-  {
-    "name": "Secret Service",
     "count": 5
   },
   {
@@ -1093,6 +1101,10 @@
   },
   {
     "name": "The Joe Rogan Experience",
+    "count": 5
+  },
+  {
+    "name": "Mark Meadows",
     "count": 5
   },
   {
@@ -1156,6 +1168,10 @@
     "count": 5
   },
   {
+    "name": "Mike Johnson",
+    "count": 5
+  },
+  {
     "name": "Gavin Newsom",
     "count": 5
   },
@@ -1176,7 +1192,7 @@
     "count": 5
   },
   {
-    "name": "Senate Republicans",
+    "name": "Ed Martin",
     "count": 5
   },
   {
@@ -1213,6 +1229,10 @@
   },
   {
     "name": "Ronald Reagan",
+    "count": 4
+  },
+  {
+    "name": "Vatican",
     "count": 4
   },
   {
@@ -1428,7 +1448,11 @@
     "count": 4
   },
   {
-    "name": "Mark Meadows",
+    "name": "American Federation of Government Employees",
+    "count": 4
+  },
+  {
+    "name": "Jeffrey Clark",
     "count": 4
   },
   {
@@ -1540,10 +1564,6 @@
     "count": 4
   },
   {
-    "name": "Mike Johnson",
-    "count": 4
-  },
-  {
     "name": "Brad Schimel",
     "count": 4
   },
@@ -1556,10 +1576,6 @@
     "count": 4
   },
   {
-    "name": "Ed Martin",
-    "count": 4
-  },
-  {
     "name": "FEMA",
     "count": 4
   },
@@ -1569,10 +1585,6 @@
   },
   {
     "name": "Texas House Democrats",
-    "count": 4
-  },
-  {
-    "name": "USDA",
     "count": 4
   },
   {
@@ -2048,6 +2060,10 @@
     "count": 3
   },
   {
+    "name": "Ketanji Brown Jackson",
+    "count": 3
+  },
+  {
     "name": "Pfizer",
     "count": 3
   },
@@ -2092,11 +2108,7 @@
     "count": 3
   },
   {
-    "name": "American Federation of Government Employees",
-    "count": 3
-  },
-  {
-    "name": "Jeffrey Clark",
+    "name": "Sidney Powell",
     "count": 3
   },
   {
@@ -2332,6 +2344,10 @@
     "count": 3
   },
   {
+    "name": "Catholic Church",
+    "count": 3
+  },
+  {
     "name": "Federal Appeals Court",
     "count": 3
   },
@@ -2345,6 +2361,10 @@
   },
   {
     "name": "Tahnoun bin Zayed Al Nahyan",
+    "count": 3
+  },
+  {
+    "name": "Pope Leo XIV",
     "count": 3
   },
   {
@@ -2677,6 +2697,10 @@
   },
   {
     "name": "HUD",
+    "count": 2
+  },
+  {
+    "name": "Andrew Cuomo",
     "count": 2
   },
   {
@@ -3120,6 +3144,10 @@
     "count": 2
   },
   {
+    "name": "CMS",
+    "count": 2
+  },
+  {
     "name": "Candiru",
     "count": 2
   },
@@ -3157,6 +3185,10 @@
   },
   {
     "name": "SCL Group",
+    "count": 2
+  },
+  {
+    "name": "Cornell University",
     "count": 2
   },
   {
@@ -3620,7 +3652,7 @@
     "count": 2
   },
   {
-    "name": "Sidney Powell",
+    "name": "Kenneth Chesebro",
     "count": 2
   },
   {
@@ -3648,6 +3680,10 @@
     "count": 2
   },
   {
+    "name": "John Eastman",
+    "count": 2
+  },
+  {
     "name": "Alexei Navalny",
     "count": 2
   },
@@ -3665,6 +3701,10 @@
   },
   {
     "name": "Freedom House",
+    "count": 2
+  },
+  {
+    "name": "Congressional Democrats",
     "count": 2
   },
   {
@@ -3773,6 +3813,10 @@
   },
   {
     "name": "Russian Oligarchs",
+    "count": 2
+  },
+  {
+    "name": "Michael McDonald",
     "count": 2
   },
   {
@@ -4036,6 +4080,10 @@
     "count": 2
   },
   {
+    "name": "CBP",
+    "count": 2
+  },
+  {
     "name": "Committee to Protect Journalists (CPJ)",
     "count": 2
   },
@@ -4220,6 +4268,10 @@
     "count": 2
   },
   {
+    "name": "Eric Adams",
+    "count": 2
+  },
+  {
     "name": "Todd Lyons",
     "count": 2
   },
@@ -4293,6 +4345,10 @@
   },
   {
     "name": "Federal Workforce",
+    "count": 2
+  },
+  {
+    "name": "Pope Francis",
     "count": 2
   },
   {
@@ -4701,6 +4757,10 @@
   },
   {
     "name": "Julie Kelly",
+    "count": 2
+  },
+  {
+    "name": "Eli Lilly",
     "count": 2
   },
   {
@@ -5304,10 +5364,6 @@
     "count": 1
   },
   {
-    "name": "Vatican",
-    "count": 1
-  },
-  {
     "name": "Jake Garn (R-UT)",
     "count": 1
   },
@@ -5733,10 +5789,6 @@
   },
   {
     "name": "Franklin Raines",
-    "count": 1
-  },
-  {
-    "name": "Andrew Cuomo",
     "count": 1
   },
   {
@@ -7300,10 +7352,6 @@
     "count": 1
   },
   {
-    "name": "CMS",
-    "count": 1
-  },
-  {
     "name": "Oregon",
     "count": 1
   },
@@ -7425,10 +7473,6 @@
   },
   {
     "name": "Jeff Hancock",
-    "count": 1
-  },
-  {
-    "name": "Cornell University",
     "count": 1
   },
   {
@@ -8404,10 +8448,6 @@
     "count": 1
   },
   {
-    "name": "Ketanji Brown Jackson",
-    "count": 1
-  },
-  {
     "name": "Elaine Chao",
     "count": 1
   },
@@ -8760,10 +8800,6 @@
     "count": 1
   },
   {
-    "name": "Kenneth Chesebro",
-    "count": 1
-  },
-  {
     "name": "Michael R. Sherwin",
     "count": 1
   },
@@ -8781,10 +8817,6 @@
   },
   {
     "name": "Scott Perry",
-    "count": 1
-  },
-  {
-    "name": "John Eastman",
     "count": 1
   },
   {
@@ -8813,10 +8845,6 @@
   },
   {
     "name": "Maryland",
-    "count": 1
-  },
-  {
-    "name": "Congressional Democrats",
     "count": 1
   },
   {
@@ -9313,10 +9341,6 @@
   },
   {
     "name": "Grinex",
-    "count": 1
-  },
-  {
-    "name": "Michael McDonald",
     "count": 1
   },
   {
@@ -10632,10 +10656,6 @@
     "count": 1
   },
   {
-    "name": "CBP",
-    "count": 1
-  },
-  {
     "name": "Targeted Journalists",
     "count": 1
   },
@@ -11297,10 +11317,6 @@
   },
   {
     "name": "Mike McElwain",
-    "count": 1
-  },
-  {
-    "name": "Eric Adams",
     "count": 1
   },
   {
@@ -12233,6 +12249,22 @@
   },
   {
     "name": "State Department Officials",
+    "count": 1
+  },
+  {
+    "name": "Robert Francis Prevost",
+    "count": 1
+  },
+  {
+    "name": "College of Cardinals",
+    "count": 1
+  },
+  {
+    "name": "U.S. Conference of Catholic Bishops",
+    "count": 1
+  },
+  {
+    "name": "Augustinian Order",
     "count": 1
   },
   {
@@ -13864,6 +13896,10 @@
     "count": 1
   },
   {
+    "name": "Senator Dick Durbin",
+    "count": 1
+  },
+  {
     "name": "Ronald Johnson",
     "count": 1
   },
@@ -13877,10 +13913,6 @@
   },
   {
     "name": "Conservative Supreme Court Majority",
-    "count": 1
-  },
-  {
-    "name": "Eli Lilly",
     "count": 1
   },
   {
@@ -14112,6 +14144,10 @@
     "count": 1
   },
   {
+    "name": "Steve Feinberg",
+    "count": 1
+  },
+  {
     "name": "Louisiana",
     "count": 1
   },
@@ -14332,11 +14368,139 @@
     "count": 1
   },
   {
+    "name": "Carlos Jimenez",
+    "count": 1
+  },
+  {
     "name": "Test Actor",
     "count": 1
   },
   {
+    "name": "Barbara Wien",
+    "count": 1
+  },
+  {
     "name": "California Redistricting Commission",
+    "count": 1
+  },
+  {
+    "name": "Memphis Safe Task Force",
+    "count": 1
+  },
+  {
+    "name": "Cardinal Blase Cupich",
+    "count": 1
+  },
+  {
+    "name": "Broadview ICE Processing Center",
+    "count": 1
+  },
+  {
+    "name": "Chicago Archdiocese",
+    "count": 1
+  },
+  {
+    "name": "Bryan Bedford",
+    "count": 1
+  },
+  {
+    "name": "Zohran Mamdani",
+    "count": 1
+  },
+  {
+    "name": "Curtis Sliwa",
+    "count": 1
+  },
+  {
+    "name": "Air Traffic Controllers",
+    "count": 1
+  },
+  {
+    "name": "Glen Casada",
+    "count": 1
+  },
+  {
+    "name": "Cade Cothren",
+    "count": 1
+  },
+  {
+    "name": "Kassym-Jomart Tokayev",
+    "count": 1
+  },
+  {
+    "name": "John McConnell",
+    "count": 1
+  },
+  {
+    "name": "Novo Nordisk",
+    "count": 1
+  },
+  {
+    "name": "Michael Kotlikoff",
+    "count": 1
+  },
+  {
+    "name": "Michael Pfleger",
+    "count": 1
+  },
+  {
+    "name": "Thomas Mills",
+    "count": 1
+  },
+  {
+    "name": "Tricia McGlaughlin",
+    "count": 1
+  },
+  {
+    "name": "Blase Cupich",
+    "count": 1
+  },
+  {
+    "name": "John McConnell Jr.",
+    "count": 1
+  },
+  {
+    "name": "Department of Agriculture",
+    "count": 1
+  },
+  {
+    "name": "Christopher Cooper",
+    "count": 1
+  },
+  {
+    "name": "First Circuit Court of Appeals",
+    "count": 1
+  },
+  {
+    "name": "Julie Rikelman",
+    "count": 1
+  },
+  {
+    "name": "Jenna Ellis",
+    "count": 1
+  },
+  {
+    "name": "Kathy Berden",
+    "count": 1
+  },
+  {
+    "name": "Meshawn Maddock",
+    "count": 1
+  },
+  {
+    "name": "Jake Hoffman",
+    "count": 1
+  },
+  {
+    "name": "David Shafer",
+    "count": 1
+  },
+  {
+    "name": "Cathy Latham",
+    "count": 1
+  },
+  {
+    "name": "Andrew Hitt",
     "count": 1
   }
 ]

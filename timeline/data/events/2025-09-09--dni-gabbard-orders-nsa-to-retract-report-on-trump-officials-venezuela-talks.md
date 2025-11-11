@@ -20,7 +20,6 @@ actors:
 - Richard Grenell
 - National Security Agency
 - Marco Rubio
-status: confirmed
 ---
 
 Director of National Intelligence Tulsi Gabbard ordered the National Security Agency to retract a classified intelligence report describing Trump envoy Richard Grenell's Venezuela negotiations, officially citing identity masking failures but effectively protecting Trump administration officials from intelligence community scrutiny. The retraction prevents Congressional oversight committees and other agencies from accessing intelligence assessments of Trump officials' diplomatic activities, creating a precedent for censoring unflattering intelligence reports. Former intelligence officials describe this as unprecedented political interference with intelligence reporting, noting that identity masking issues are typically handled through corrections rather than full retractions. Gabbard's action, combined with her known sympathies toward adversarial regimes and opposition to intelligence community assessments, raises concerns that she is systematically suppressing intelligence that contradicts Trump administration narratives or exposes potential misconduct by Trump officials.

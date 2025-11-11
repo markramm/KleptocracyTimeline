@@ -1,0 +1,38 @@
+{
+  "id": "2021-01-06--nick-fuentes-rallies-capitol-insurrectionists",
+  "date": "2021-01-06",
+  "title": "Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection",
+  "summary": "White nationalist leader Nick Fuentes was present at the U.S. Capitol on January 6, 2021, wearing a VIP badge to President Trump's speech and addressing supporters outside the Capitol building during the violent insurrection. While Fuentes did not enter the Capitol itself, witnesses reported him shouting encouragement to rioters: \"Keep moving towards the Capitol \u2013 it appears we are taking the Capitol back! ... Break down the barriers and disregard the police. The Capitol belongs to us!\" Fuentes had played a leadership role in organizing \"Stop the Steal\" protests leading up to January 6, speaking at rallies in Michigan, Wisconsin, Arizona, and Washington, D.C. The FBI opened an investigation into Fuentes' conduct which was closed after five months without charges. On January 19, 2022, the House Select Committee on the January 6 Attack issued a subpoena to Fuentes. The Southern Poverty Law Center documented his presence \"amidst a mob of pro-Trump insurrectionists\" in livestreams and photographs. His participation in January 6 events led to further deplatforming across social media and financial services.",
+  "importance": 9,
+  "tags": [
+    "January 6",
+    "Insurrection",
+    "White Nationalism",
+    "Trump"
+  ],
+  "actors": [
+    "Nick Fuentes",
+    "Donald Trump"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "url": "https://www.splcenter.org/resources/hatewatch/nick-fuentes-faces-scrutiny-following-jan-6-subpoena",
+      "title": "Nick Fuentes Faces Scrutiny Following Jan. 6 Subpoena",
+      "publisher": "Southern Poverty Law Center",
+      "tier": 1
+    },
+    {
+      "url": "https://www.justsecurity.org/95385/twitter-x-fuentes-role-january-6th-attack/",
+      "title": "Key January 6th Instigator, Nick Fuentes, Reinstatement on Twitter/X: The Implications",
+      "publisher": "Just Security",
+      "tier": 1
+    },
+    {
+      "url": "https://www.adl.org/resources/blog/nicholas-j-fuentes-five-things-know",
+      "title": "Nicholas J. Fuentes: Five Things to Know",
+      "publisher": "Anti-Defamation League",
+      "tier": 1
+    }
+  ]
+}

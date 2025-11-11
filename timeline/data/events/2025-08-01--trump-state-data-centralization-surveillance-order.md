@@ -33,7 +33,6 @@ sources:
   publisher: NPR
   date: '2025-07-19'
   tier: 1
-status: confirmed
 ---
 
 The Trump administration implemented its March 2025 executive order 'Stopping Waste, Fraud and Abuse by Eliminating Information Silos,' demanding that states hand over comprehensive data on Medicaid recipients, SNAP (food assistance) beneficiaries, and voter registration rolls to federal agencies. By August, at least 27 states had turned over sensitive data on millions of SNAP recipients including names, dates of birth, Social Security numbers, home addresses, and benefits amounts dating back to 2020. Federal health officials also shared Medicaid recipient data from multiple states with the Department of Homeland Security without notifying states or seeking consent.

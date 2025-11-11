@@ -23,7 +23,6 @@ sources:
   publisher: American Immigration Lawyers Association
   date: '2025-09-19'
   tier: 2
-status: confirmed
 ---
 
 President Trump signed Executive Order 14351 establishing the 'Gold Card' visa program, requiring foreign nationals to make 'unrestricted gifts' of $1 million to the Department of Commerce ($2 million if a corporation gives on behalf of an individual) to obtain residency. The order represents an unprecedented monetization of immigration policy, effectively creating a pay-for-entry system that circumvents traditional visa requirements.

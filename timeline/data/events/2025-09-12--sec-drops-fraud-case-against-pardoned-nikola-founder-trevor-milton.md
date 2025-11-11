@@ -20,7 +20,6 @@ actors:
 - Securities and Exchange Commission
 - Donald Trump
 - Nikola Corporation
-status: confirmed
 ---
 
 The Securities and Exchange Commission moved to dismiss its civil fraud case against Trevor Milton, founder of Nikola Corporation, following his pardon by President Trump on March 28, 2025. Milton was convicted in October 2022 of securities fraud for misleading investors about Nikola's hydrogen truck technology and faced up to $695.2 million in potential restitution to shareholders. Milton had donated $1.8 million to Trump's 2024 re-election campaign before receiving the pardon. The SEC's dismissal, with Milton agreeing to waive legal costs and drop all claims, effectively eliminates accountability for one of the most brazen securities frauds of the decade. This demonstrates a quid pro quo pattern: wealthy defendants make large political contributions to Trump, receive pardons, and then see all civil and criminal consequences erased, creating a pay-for-clemency system that rewards fraud while harming victims.

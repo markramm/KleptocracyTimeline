@@ -25,7 +25,6 @@ actors:
 - New York Times
 - James Comer
 - Jeffrey Epstein
-status: confirmed
 ---
 
 President Trump threatened to sue the New York Times for reporting on a sexually suggestive drawing bearing his signature found in Jeffrey Epstein's 2003 birthday book, demanding a retraction and apology. House Oversight Chair James Comer rejected Democratic requests for handwriting expert analysis to authenticate Trump's signature, blocking Congressional investigation. Trump's litigation threat represents using the presidency's bully pulpit to intimidate press coverage of his documented connections to Epstein, despite extensive photographic evidence of their decades-long social relationship. The Times' reporting was based on physical evidence in Epstein's possession, with Trump's signature appearing alongside those of other celebrities. Trump's pattern of threatening defamation suits against media outlets creates chilling effects where news organizations must weigh potential legal costs against public interest journalism about presidential conduct and character, effectively weaponizing litigation threats to suppress investigative reporting.

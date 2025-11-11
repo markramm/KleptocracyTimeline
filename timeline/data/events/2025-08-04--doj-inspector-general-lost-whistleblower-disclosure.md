@@ -35,7 +35,6 @@ sources:
   publisher: ABC News
   date: '2025-06-24'
   tier: 2
-status: confirmed
 ---
 
 Whistleblower Aid revealed that the DOJ Office of the Inspector General 'lost' a whistleblower disclosure for almost three months, only 'finding' it on the eve of Emil Bove's confirmation vote for a federal judgeship. The disclosure, submitted on May 5, 2025, alleged that Bove and other senior DOJ officials may have violated laws, rules, or regulations by attempting to mislead federal judges and potentially ignore court orders regarding the administration's immigration enforcement efforts in March 2025.

@@ -31,7 +31,6 @@ sources:
   publisher: Axios
   date: '2025-08-05'
   tier: 2
-status: confirmed
 ---
 
 The U.S. Army awarded Palantir Technologies a decade-long Enterprise Service Agreement worth up to $10 billion for AI-driven battlefield analysis and targeting systems. The contract consolidates 75 existing contracts (15 prime contracts and 60 related contracts) into a single agreement, accelerating delivery of commercial software to warfighters while removing contract and reseller pass-through fees.

@@ -26,7 +26,6 @@ actors:
 - Donald Trump
 - Bill Pulte
 - Federal Reserve
-status: confirmed
 ---
 
 The Department of Justice opened a criminal investigation into Federal Reserve Governor Lisa Cook over alleged mortgage fraud, stemming from accusations that she listed two properties as primary residences on mortgage applications. The investigation follows Trump's failed attempt to fire Cook from the Fed Board and comes after FHFA Director Bill Pulte publicly accused Cook of fraud. Legal experts note that dual-residence mortgage claims are common and rarely prosecuted criminally, raising suspicions that the investigation is politically motivated retaliation for Cook's resistance to Trump's removal attempts. This represents weaponization of federal law enforcement to target independent agency officials who resist presidential interference, part of a broader pattern of selective prosecution against Trump's perceived political enemies while similar conduct by Trump Cabinet members (Lori Chavez-DeRemer, Sean Duffy, Lee Zeldin) goes unprosecuted.

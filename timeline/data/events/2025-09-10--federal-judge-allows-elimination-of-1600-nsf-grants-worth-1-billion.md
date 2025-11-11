@@ -19,7 +19,6 @@ actors:
 - DOGE
 - National Science Foundation
 - Federal judiciary
-status: confirmed
 ---
 
 A federal judge declined to block Trump's elimination of over 1,600 National Science Foundation grants worth $1 billion, despite Congress having explicitly appropriated and authorized the funding. The cuts, pushed by unauthorized DOGE operatives operating outside legal channels, specifically targeted programs supporting women, minorities, and disabled scientists. The National Science Foundation is statutorily independent and grants undergo rigorous peer review, but the administration overrode scientific merit determinations to defund research based on political criteria. Scientists whose multi-year grants were suddenly terminated mid-project face career-ending disruptions, while institutions must absorb costs of incomplete research. This represents both unconstitutional usurpation of Congressional appropriations power and systematic destruction of scientific research infrastructure, with particular harm to diversity programs that broaden participation in STEM fields.

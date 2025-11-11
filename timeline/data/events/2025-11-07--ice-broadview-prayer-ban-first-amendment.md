@@ -1,0 +1,61 @@
+---
+id: 2025-11-07--ice-broadview-prayer-ban-first-amendment
+date: '2025-11-07'
+title: ICE Bans Prayer Outside Broadview Detention Center
+importance: 9
+tags:
+- ice
+- religious-freedom
+- first-amendment
+- detention
+- immigration
+- civil-liberties
+- broadview
+- illinois
+- catholic-church
+actors:
+- ICE
+- DHS
+- Michael Pfleger
+- Thomas Mills
+- Tricia McGlaughlin
+- Blase Cupich
+sources:
+- url: https://blockclubchicago.org/2025/11/07/feds-tell-faith-leaders-no-more-prayer-outside-broadview-facility/
+  title: Feds Tell Faith Leaders 'No More Prayer' Outside Broadview Facility
+  publisher: Block Club Chicago
+  date: '2025-11-07'
+  tier: 2
+- url: https://chicago.suntimes.com/immigration/2025/10/11/broadview-detention-immigration-enforcement-ice-religious-leaders-communion-fence-protests
+  title: Religious leaders are denied request to deliver Communion to detainees at
+    Broadview facility
+  publisher: Chicago Sun-Times
+  date: '2025-10-11'
+  tier: 2
+- url: https://www.cbsnews.com/chicago/news/religious-leaders-turned-away-broadview-ice-facility/
+  title: Religious leaders offering communion to detainees turned away at Broadview
+    ICE facility
+  publisher: CBS Chicago
+  date: '2025-11-01'
+  tier: 1
+- url: https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility
+  title: Clergy say religious rights are under attack inside and outside the Broadview
+    ICE facility
+  publisher: WBEZ Chicago
+  date: '2025-10-23'
+  tier: 1
+- url: https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/
+  title: Eucharistic procession turned back by feds at Broadview ICE detention facility
+  publisher: America Magazine
+  date: '2025-10-12'
+  tier: 2
+- url: https://www.ncronline.org/news/ice-again-prevents-chicago-catholics-bringing-eucharist-immigrant-detainees
+  title: ICE again prevents Chicago Catholics from bringing Eucharist to immigrant
+    detainees
+  publisher: National Catholic Reporter
+  date: '2025-11-02'
+  tier: 2
+status: confirmed
+---
+
+Federal officials told faith leaders gathered outside the Broadview ICE detention center in Illinois that 'there is no more prayer in front of building or inside the building because this is the state and it's not [of a] religious background.' The directive marked the third time clergy were denied entry to the facility to provide religious services to detainees. An anonymous federal representative's explicit ban on prayer raised immediate First Amendment concerns, with Broadview Police Chief Thomas Mills stating he was 'dumbfounded' and that federal rules 'keep changing.' The following day, DHS Assistant Secretary Tricia McGlaughlin clarified that restrictions applied only to federal property, but the damage to religious freedom was already done. The ban came after weeks of federal officials preventing Catholic clergy from administering Communion to detainees inside the facility, including denials on October 11 and November 1, 2025, despite clergy providing required one-week advance notice. More than 2,000 faithful attended the November 1 prayer vigil. Father Michael Pfleger of St. Sabina Church and representatives from Indigenous American, Catholic, Jewish, Muslim, and Unitarian groups participated in the 'Faith over Fear' rally that was shut down.

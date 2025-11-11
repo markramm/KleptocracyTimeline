@@ -35,7 +35,6 @@ sources:
   publisher: NBC News
   date: '2025-10-09'
   tier: 2
-status: confirmed
 ---
 
 On October 9, 2025, a federal grand jury in the Eastern District of Virginia indicted New York Attorney General Letitia James on charges of bank fraud and making false statements to a financial institution. The indictment alleges that James misrepresented a Norfolk, Virginia home she purchased in 2020 as her second residence to obtain favorable mortgage terms, allowing her to save approximately $17,837 over the life of the loan—roughly $594 per year in interest. The charges stem from allegations that James falsely claimed the property as a second home while renting it to a family of three.

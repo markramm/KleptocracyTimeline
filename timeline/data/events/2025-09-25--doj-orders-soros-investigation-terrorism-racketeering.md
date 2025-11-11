@@ -35,7 +35,6 @@ sources:
   publisher: Axios
   date: '2025-09-26'
   tier: 2
-status: confirmed
 ---
 
 On September 25, 2025, Aakash Singh, a senior official in Deputy Attorney General Todd Blanche's office, sent a directive to U.S. attorney's offices in at least seven states—including California, New York, Illinois, Michigan, and Maryland—ordering them to prepare investigations into the Open Society Foundations, the philanthropic organization funded by billionaire George Soros. The directive listed potential charges prosecutors should consider, including material support for terrorism, arson, wire fraud, and racketeering.

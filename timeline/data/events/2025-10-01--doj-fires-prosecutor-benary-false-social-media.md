@@ -35,7 +35,6 @@ sources:
   publisher: ABC News
   date: '2025-10-03'
   tier: 2
-status: confirmed
 ---
 
 On October 1, 2025, the Department of Justice fired Michael Ben'Ary, the chief of the national security section in the U.S. Attorney's Office for the Eastern District of Virginia, after pro-Trump activist and writer Julie Kelly posted on social media falsely linking him to internal resistance against the James Comey indictment. Ben'Ary, who had served with the DOJ for 20 years and led critical national security prosecutions, was not involved in the Comey case and had no connection to the allegations made in Kelly's post.

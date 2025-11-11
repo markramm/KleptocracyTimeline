@@ -30,7 +30,6 @@ sources:
   publisher: Center for Strategic and International Studies
   date: '2025-09-30'
   tier: 2
-status: confirmed
 ---
 
 President Trump signed an executive order titled 'Assuring the Security of the State of Qatar' on September 29, 2025, providing Qatar with an unprecedented security guarantee stating that 'the United States shall regard any armed attack on the territory, sovereignty, or critical infrastructure of the State of Qatar as a threat to the peace and security of the United States.' The order commits the U.S. to 'take all lawful and appropriate measures—including diplomatic, economic, and, if necessary, military—to defend' Qatar, creating what analysts describe as a 'diet version of NATO's Article 5' agreement.

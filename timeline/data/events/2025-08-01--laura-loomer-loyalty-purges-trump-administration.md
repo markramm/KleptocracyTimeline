@@ -34,7 +34,6 @@ sources:
   publisher: The Hill
   date: '2025-08-01'
   tier: 2
-status: confirmed
 ---
 
 Politico reported in August 2025 that over a dozen high-ranking officials across multiple federal agencies were forced to leave their jobs or had nominations derailed after being flagged as 'disloyal' by far-right extremist Laura Loomer, with hundreds more terminations planned. Loomer established a 'tip line' for administration staffers to report colleagues deemed insufficiently loyal to Trump, telling reporters: 'I'm happy to take people's tips about disloyal appointees, disloyal staffers and Biden holdovers.' Her campaigns led to departures from the NSA, National Security Council, DOJ, HHS, FDA, and Department of Defense.

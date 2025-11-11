@@ -25,7 +25,6 @@ actors:
 - Treasury Department
 - Senate Finance Committee
 - Jeffrey Epstein
-status: confirmed
 ---
 
 Senator Ron Wyden introduced the Produce Epstein Treasury Records Act (PETRA) to compel Treasury Secretary Scott Bessent to turn over Epstein-related financial records to Senate investigators after Bessent twice refused Congressional requests in 2025. The Treasury files detail transactions totaling at least $1.5 billion and include names of women and girls Epstein may have trafficked, as well as individuals whose involvement with Epstein could make them vulnerable to blackmail or foreign corruption. Bipartisan committee staff have already reviewed over 4,700 suspicious wire transfers worth $1.08 billion between 2003 and 2019. Bessent's obstruction prevents Congressional oversight of a massive financial network potentially involving current or former government officials, foreign intelligence services, and elite figures. The legislative response demonstrates that standard oversight mechanisms have failed and extraordinary measures are needed to pierce Treasury's stonewalling.

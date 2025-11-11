@@ -1,0 +1,37 @@
+---
+id: 2025-11-05--faa-air-traffic-reduction-shutdown-crisis
+date: '2025-11-05'
+title: FAA Reduces Air Traffic by 10% at Major Airports as Unpaid Controllers Face
+  Staffing Crisis During 40-Day Shutdown
+importance: 9
+tags:
+- government-shutdown
+- aviation-safety
+- essential-workers
+- infrastructure-crisis
+- worker-exploitation
+actors:
+- Federal Aviation Administration
+- Bryan Bedford
+- Sean Duffy
+sources:
+- title: Air traffic controllers warn of 'tipping point' as U.S. government shutdown
+    drags on
+  url: https://www.npr.org/2025/11/05/nx-s1-5598420/air-traffic-controllers-government-shutdown
+  publisher: NPR
+  tier: 1
+- title: FAA will reduce air traffic by 10% at many airports to maintain safety
+  url: https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown
+  publisher: NPR
+  tier: 1
+- title: Air traffic controllers feeling the pinch of the government shutdown
+  url: https://www.npr.org/2025/11/04/nx-s1-5596204/air-traffic-controllers-feeling-the-pinch-of-the-government-shutdown
+  publisher: NPR
+  tier: 1
+---
+
+The Federal Aviation Administration announced it would reduce air traffic by up to 10% at 40 of the nation's busiest airports as the government shutdown—then in its 40th day—created a staffing crisis among air traffic controllers working without pay. FAA Administrator Bryan Bedford reported that 20% to 40% of controllers had stopped showing up for work at affected facilities, forcing the agency to implement flight reductions starting with 4% cuts on Friday, November 5, escalating to potential 10% reductions to maintain safety standards. The initial implementation contributed to over 4,500 flight cancellations and 18,000 delays over the weekend.
+
+Air traffic controllers, deemed essential federal employees, were required to continue working mandatory overtime—often 60-hour weeks across six days—without receiving paychecks as the shutdown dragged on. Controllers were set to miss their second full paycheck, with many forced to take second jobs at restaurants or driving for Uber and DoorDash to cover basic expenses. Some secured loans from credit unions, while others worked night jobs and called in sick when too exhausted to safely manage air traffic. The union president noted that controllers were forced to focus on "child care instead of traffic flows and food for families instead of runway separation," with the added financial and emotional stress leading to fatigue that directly threatened aviation safety.
+
+Transportation Secretary Sean Duffy warned of potential "mass chaos," "mass flight delays," and even closure of "parts of the airspace" if the shutdown continued. The crisis revealed a fundamental contradiction in federal shutdown policies: air traffic controllers—whose work is critical to national safety and economic function—were treated as expendable labor expected to work without compensation, while the earlier One Big Beautiful Bill Act had appropriated $75 billion through 2029 to ensure 70,000 DHS immigration enforcement officers received full pay during shutdowns. The disparity demonstrated that budget priorities were driven by political ideology rather than operational necessity, with immigration enforcement insulated from shutdown disruptions while essential aviation safety infrastructure faced systematic deterioration through controller attrition and dangerous fatigue levels.

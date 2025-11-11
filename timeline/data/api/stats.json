@@ -1,16 +1,16 @@
 {
-  "total_events": 1945,
-  "total_tags": 3606,
-  "total_actors": 3585,
-  "total_sources": 6373,
+  "total_events": 1975,
+  "total_tags": 3661,
+  "total_actors": 3626,
+  "total_sources": 6468,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2025-11-04"
+    "end": "2025-11-10"
   },
   "status_counts": {
-    "confirmed": 1593,
+    "confirmed": 1597,
     "validated": 31,
-    "unknown": 304,
+    "unknown": 330,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
@@ -29,7 +29,7 @@
     },
     {
       "name": "institutional-capture",
-      "count": 239
+      "count": 241
     },
     {
       "name": "corruption",
@@ -37,7 +37,7 @@
     },
     {
       "name": "kleptocracy",
-      "count": 132
+      "count": 133
     },
     {
       "name": "government-contracts",
@@ -49,7 +49,7 @@
     },
     {
       "name": "trump-administration",
-      "count": 97
+      "count": 99
     },
     {
       "name": "foreign-influence",
@@ -60,18 +60,18 @@
       "count": 84
     },
     {
-      "name": "conflict-of-interest",
+      "name": "systematic-corruption",
       "count": 74
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 770
+      "count": 778
     },
     {
       "name": "Trump Administration",
-      "count": 289
+      "count": 295
     },
     {
       "name": "Elon Musk",
@@ -83,7 +83,7 @@
     },
     {
       "name": "White House",
-      "count": 65
+      "count": 67
     },
     {
       "name": "Jeffrey Epstein",
@@ -99,12 +99,12 @@
     },
     {
       "name": "Supreme Court",
-      "count": 47
+      "count": 49
     },
     {
       "name": "FBI",
-      "count": 45
+      "count": 47
     }
   ],
-  "generated": "2025-11-02T01:08:09.320911"
+  "generated": "2025-11-11T11:24:34.409809"
 }

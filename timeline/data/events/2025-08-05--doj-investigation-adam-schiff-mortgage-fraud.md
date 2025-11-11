@@ -32,7 +32,6 @@ sources:
   publisher: CNBC
   date: '2025-10-23'
   tier: 2
-status: confirmed
 ---
 
 Fox News reported on August 5, 2025, that the U.S. Attorney's Office in Maryland launched a federal criminal investigation into Democratic California Senator Adam Schiff for alleged mortgage fraud. The Federal Housing Finance Agency (FHFA) referred Schiff's case to DOJ, accusing him of falsifying bank documents and property records to secure favorable loan terms by misrepresenting his Maryland home as his primary residence from 2003 to 2019, despite representing California in Congress.

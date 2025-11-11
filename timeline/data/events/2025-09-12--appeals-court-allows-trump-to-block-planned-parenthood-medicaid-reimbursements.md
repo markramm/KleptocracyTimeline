@@ -24,7 +24,6 @@ actors:
 - Donald Trump
 - Planned Parenthood
 - Federal Appeals Court
-status: confirmed
 ---
 
 A federal appeals court reinstated Trump's law preventing Medicaid reimbursements to Planned Parenthood for one year, affecting not only abortion services but also contraception, STI testing, cancer screenings, and primary care for 1.1 million patients. The ruling could force up to 200 Planned Parenthood clinics to close, eliminating healthcare access in communities where the organization is the only provider of reproductive health services. The defunding represents ideological targeting of healthcare infrastructure rather than legitimate policy, as Medicaid reimbursements were already prohibited for abortion services under the Hyde Amendment. By cutting all Medicaid funding, Trump ensures that low-income patients lose access to basic preventive care, cancer screenings, and contraception—services that reduce healthcare costs and save lives. The closures will disproportionately impact rural areas and communities of color where Planned Parenthood clinics serve as essential healthcare safety net providers.

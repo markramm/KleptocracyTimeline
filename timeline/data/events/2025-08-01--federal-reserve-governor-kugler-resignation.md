@@ -31,7 +31,6 @@ sources:
   publisher: CNBC
   date: '2025-08-01'
   tier: 2
-status: confirmed
 ---
 
 Federal Reserve Governor Adriana D. Kugler submitted her resignation on August 1, 2025, effective August 8, stepping down months before her term was scheduled to end in January 2026. In her resignation letter addressed to President Trump, Kugler offered no explanation for her early departure, stating only that she would return to Georgetown University as a professor. She had served as a governor since September 13, 2023, after being nominated by President Biden and confirmed by the Senate in an 86-8 bipartisan vote.

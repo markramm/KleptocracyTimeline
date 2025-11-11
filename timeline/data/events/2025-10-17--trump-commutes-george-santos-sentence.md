@@ -12,13 +12,13 @@ tags:
 - pardons
 - abuse-of-power
 - corruption
+- accountability-crisis
 sources:
 - url: https://www.npr.org/2025/10/17/nx-s1-5578304/trump-george-santos-prison-sentence-commuted
   title: President Trump commutes the prison sentence of George Santos
   publisher: NPR
   date: '2025-10-17'
   tier: 1
-status: confirmed
 ---
 
 President Trump commuted the 87-month federal prison sentence of former Rep. George Santos (R-NY) after Santos served only three months of his sentence. Santos pleaded guilty in August 2024 to multiple counts of wire fraud, aggravated identity theft, campaign finance violations, and financial crimes including stealing donor money and lying to the Federal Election Commission.

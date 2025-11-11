@@ -25,7 +25,6 @@ actors:
 - Republican National Committee
 - House Republicans
 - Trump Organization
-status: confirmed
 ---
 
 Republican political committees have spent more than $931,000 at Trump-owned properties during the first six months of Trump's second presidency, according to Federal Election Commission filings analyzed by Citizens for Responsibility and Ethics in Washington (CREW). The Republican National Committee accounted for over $800,000 of this spending, with major expenditures including $307,000 at Trump National Doral on May 2 and $193,000 at Mar-a-Lago on March 5. Trump has visited his resorts over 100 times during this term, and nearly one-quarter of House Republicans have directed campaign money to Trump businesses. This represents a systematic transfer of donor funds to Trump's private businesses, with Trump personally profiting from political activities while holding public office.

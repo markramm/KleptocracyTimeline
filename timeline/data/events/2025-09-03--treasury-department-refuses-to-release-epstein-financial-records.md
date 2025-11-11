@@ -27,7 +27,6 @@ actors:
 - Treasury Department
 - Senate Finance Committee
 - Jeffrey Epstein
-status: confirmed
 ---
 
 Senate Finance Committee Ranking Member Ron Wyden pressed Treasury Secretary Scott Bessent to release Epstein-related banking records covering at least $1.5 billion in suspicious transactions between 2003 and 2019. The Treasury files include suspicious activity reports detailing over 4,700 wire transfers worth $1.08 billion, along with names of women and girls Epstein may have trafficked and individuals whose involvement with Epstein could make them vulnerable to blackmail or foreign corruption. Treasury dismissed Wyden's requests twice in 2025 as 'political theater,' despite bipartisan committee staff having already reviewed thousands of pages of records. This stonewalling prevents Congressional oversight of potential elite financial networks connected to sex trafficking and raises questions about whether current or former government officials are being protected from exposure.

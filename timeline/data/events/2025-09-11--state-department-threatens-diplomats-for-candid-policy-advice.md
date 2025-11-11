@@ -20,7 +20,6 @@ actors:
 - American Foreign Service Association
 - Donald Trump
 - Career diplomats
-status: confirmed
 ---
 
 The American Foreign Service Association warned career diplomats they face retaliation for providing honest policy counsel that deviates from Trump administration positions. The State Department added 'fidelity' as a promotion criterion, effectively requiring ideological loyalty over professional expertise. Diplomats who offer candid assessments of foreign policy challenges, question administration strategies, or provide analysis contradicting Trump's preferences are being reassigned to undesirable posts or pushed out entirely. This represents systematic destruction of diplomatic expertise, where career professionals with decades of regional knowledge and language skills are purged in favor of political appointees who prioritize loyalty over competence. The Foreign Service has historically operated under principles that diplomats must provide unvarnished assessments to policymakers, but Trump's 'fidelity' requirement transforms the diplomatic corps into a propaganda apparatus incapable of delivering accurate intelligence about foreign threats and opportunities.

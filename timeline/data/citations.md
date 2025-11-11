@@ -9654,6 +9654,13 @@
 2. [Trump administration targets wide range of positions for removing federal job protections](https://federalnewsnetwork.com/workforce/2025/01/trump-administration-targets-wide-range-of-positions-for-removing-federal-job-protections/)
 3. [Fact Sheet: President Donald J. Trump Creates New Federal Employee Category to Enhance Accountability](https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/)
 
+## VP Vance Meets Pope Francis on Easter Sunday in Final Papal Encounter
+*Date: 2025-04-20*
+
+1. [Vice President Vance meets Pope Francis on Easter](https://www.pbs.org/newshour/world/vice-president-vance-meets-pope-francis-easter-vatican)
+2. [JD Vance meets Pope Francis at Vatican on Easter Sunday](https://www.cbsnews.com/news/jd-vance-pope-francis-vatican-easter-meeting/)
+3. [VP Vance's Easter meeting with Pope Francis at Vatican](https://www.foxnews.com/world/vp-vance-meets-pope-francis-easter-vatican)
+
 ## Circle, BitGo, Coinbase Pursue US Bank Charters Under Trump's Pro-Crypto Agenda
 *Date: 2025-04-21*
 
@@ -9675,6 +9682,14 @@
 1. [Largest joint immigration operation in Florida history leads to 1,120 criminal alien arrests](https://www.ice.gov/news/releases/largest-joint-immigration-operation-florida-history-leads-1120-criminal-alien-arrests)
 2. [Gov. Ron DeSantis, ICE officials laud Operation Tidal Wave as historic immigration enforcement program](https://www.wflx.com/2025/05/01/gov-ron-desantis-ice-officials-laud-operation-tidal-wave-historic-immigration-enforcement-program/)
 3. [First-of-its-kind operation with local law enforcement leads to nearly 800 immigrant arrests in Florida](https://www.cnn.com/2025/04/27/us/ice-operation-first-of-its-kind-florida-hnk)
+
+## Pope Francis Dies at 88, Hours After Meeting VP Vance
+*Date: 2025-04-21*
+
+1. [Pope Francis dies at 88](https://www.pbs.org/newshour/world/pope-francis-dies-at-88)
+2. [Pope Francis, who met with VP Vance on Easter, dies at 88](https://www.cbsnews.com/news/pope-francis-dead-age-88/)
+3. [Pope Francis dies at 88 after meeting Vice President Vance](https://www.foxnews.com/world/pope-francis-dies-88-hours-after-meeting-vp-vance-vatican)
+4. [Pope Francis dies at 88 a day after meeting with Vice President JD Vance](https://www.axios.com/2025/04/21/pope-francis-dies-vance)
 
 ## Pilgrim's Pride, Fined $100M, Donates $5M to Trump Inauguration Under Scrutiny
 *Date: 2025-04-21*
@@ -10145,6 +10160,14 @@
 1. [SpaceX's Starlink has become a big benefactor of Trump's tariff trade war, leaked memos show](https://techcrunch.com/2025/05/07/spacexs-starlink-has-become-a-big-benefactor-of-trumps-tariff-trade-war-leaked-memos-show/)
 2. [Elon Musk's Starlink Is Quietly Benefiting From Tariff Negotiations](https://gizmodo.com/elon-musks-starlink-is-quietly-benefiting-from-tariff-negotiations-2000599325)
 3. [More Money for Elon? Oversight Democrats Demand Investigation Into Trump Administration's Starlink Support](https://oversightdemocrats.house.gov/news/press-releases/more-money-elon-oversight-democrats-demand-investigation-whether-trump)
+
+## Cardinal Robert Prevost Elected Pope Leo XIV - First American Pope
+*Date: 2025-05-08*
+
+1. [Cardinal Robert Prevost elected Pope, takes name Leo XIV](https://www.usccb.org/news/2025/cardinal-robert-prevost-elected-pope-leo-xiv)
+2. [Chicago's Cardinal Prevost becomes Pope Leo XIV](https://www.cbsnews.com/chicago/news/cardinal-prevost-pope-leo-xiv-first-american/)
+3. [Cardinal Robert Prevost elected as Pope Leo XIV - first American pope](https://www.catholicnewsagency.com/news/257290/cardinal-robert-prevost-elected-pope-leo-xiv)
+4. [Chicago-born Cardinal Prevost elected Pope Leo XIV](https://blockclubchicago.org/2025/05/08/cardinal-robert-prevost-chicago-pope-leo-xiv/)
 
 ## Large investors increased stake in Trump Media by hundreds of millions
 *Date: 2025-05-09*
@@ -13491,6 +13514,13 @@
 2. [DOJ fires top national security prosecutor after he's questionably linked to Comey pushback](https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161)
 3. [Top prosecutor fired from embattled US attorney's office slams DOJ leadership](https://abcnews.go.com/US/top-prosecutor-fired-embattled-us-attorneys-office-slams/story?id=126188806)
 
+## Pope Leo XIV: Inhuman Treatment of Immigrants 'Not Pro-Life'
+*Date: 2025-10-01*
+
+1. [Pope Leo XIV says inhuman treatment of immigrants not pro-life](https://www.npr.org/2025/10/01/pope-leo-xiv-immigration-pro-life-statement)
+2. [Pope: Supporting harsh immigration policies contradicts pro-life stance](https://time.com/7096542/pope-leo-xiv-immigration-abortion-pro-life/)
+3. [Pope Leo XIV criticizes U.S. immigration policies as incompatible with pro-life values](https://www.cbsnews.com/news/pope-leo-xiv-immigration-pro-life-statement/)
+
 ## ProPublica: Trump Ambassador Ronald Johnson Shielded El Salvador's Bukele From Law Enforcement
 *Date: 2025-10-01*
 
@@ -13790,6 +13820,13 @@
 *Date: 2025-10-15*
 
 1. [Trump Requires Political Loyalty Tests for Federal Hiring](https://www.nytimes.com/2025/10/15/us/politics/trump-federal-hiring-political-loyalty.html)
+
+## Pentagon Chief Hegseth Blocks Military Officials From Contacting Congress Without Approval
+*Date: 2025-10-15*
+
+1. [Hegseth restricts military officials from talking to Congress without prior approval](https://abcnews.go.com/Politics/hegseth-restricts-military-officials-talking-congress-prior-approval/story?id=127148481)
+2. [Hegseth orders prior approval for 'all interactions' between military officials and Congress](https://www.cnn.com/2025/10/22/politics/hegseth-limit-congress-communication)
+3. [After leaks, Hegseth limits Pentagon staff's interaction with Congress](https://www.axios.com/2025/10/21/hegseth-pentagon-limits-congress-access-information)
 
 ## Trump Administration Plans IRS Overhaul to Target Liberal Donors and Nonprofits
 *Date: 2025-10-15*
@@ -14130,6 +14167,13 @@
 2. [Justice Department investigating Black Lives Matter foundation, source says](https://www.cbsnews.com/news/justice-department-investigating-black-lives-matter-foundation-donations-protests-2020/)
 3. [Justice Department investigating fraud allegations in Black Lives Matter movement, AP sources say](https://www.cnn.com/2025/10/30/politics/justice-department-black-lives-matter)
 
+## ICE Agents Shoot U.S. Citizen Carlos Jimenez Near Los Angeles School
+*Date: 2025-10-30*
+
+1. [ICE Agents Shoot U.S. Citizen in Los Angeles Area](https://www.democracynow.org/2025/11/4/headlines/ice_agents_shoot_us_citizen_in_los_angeles_area)
+2. [US Citizen Shot From Behind by ICE, Lawyers Say](https://www.newsweek.com/ice-shooting-california-10980288)
+3. [CAIR-LA Expresses Deep Concern Over Shooting of U.S. Citizen by ICE](https://ca.cair.com/press-release/cair-la-expresses-deep-concern-over-shooting-of-u-s-citizen-by-ice-calls-for-independent-probe/)
+
 ## Trump Officials Flee to Military Bases: Miller, Noem, Hegseth, Rubio Create Militarized "Green Zone"
 *Date: 2025-10-30*
 
@@ -14146,9 +14190,180 @@
 *Date: 2025-11-01*
 
 
+## Trump Administration Announces 2027 Medicaid Work Requirements Affecting Nearly 5 Million
+*Date: 2025-11-03*
+
+1. [A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget Reconciliation Law](https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/)
+2. [Trump Tyranny Tracker: Day 288](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288)
+
+## Trump Administration Announces Partial SNAP Benefits After Court Orders
+*Date: 2025-11-03*
+
+1. [Trump administration will fund SNAP food benefits at 50% the normal payment](https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown)
+2. [Trump Tyranny Tracker: Day 288](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288)
+
+## DOJ Escalates Investigation of 66-Year-Old Activist for Distributing Stephen Miller Protest Fliers
+*Date: 2025-11-04*
+
+1. [Feds Try to Nail Senior Barbara Wien, 66, for 'Looking At' Stephen Miller's Wife](https://www.thedailybeast.com/judge-stalls-stephen-miller-doxxing-case-against-retired-lady-66/)
+2. [Court Docs Show Virginia Woman Distributed Stephen Miller's Home Address](https://dailycaller.com/2025/11/04/virginia-woman-stephen-miller-home-address-affidavit/)
+3. [Trump Tyranny Tracker: Day 289](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289)
+
 ## California Special Election on Redistricting to Counter Texas GOP Gerrymandering
 *Date: 2025-11-04*
 
 1. [Governor Newsom launches statewide response to Trump rigging Texas' elections](https://www.gov.ca.gov/2025/08/14/governor-newsom-launches-statewide-response-to-trump-rigging-texas-elections/)
 2. [California will move forward with redistricting vote to counter Texas](https://abcnews.go.com/Politics/newsom-make-announcement-redistricting-after-threatening-end-trumps/story?id=124651447)
 3. [Firing Back at Texas Redistricting, Newsom Calls Special Election](https://www.democracydocket.com/news-alerts/firing-back-at-texas-redistricting-newsom-calls-special-election-to-authorize-california-countermove/)
+
+## DHS Releases Mobile Facial Recognition App for Local Police to Identify Immigration Status
+*Date: 2025-11-04*
+
+1. [Immigration agents have new technology to identify and track people](https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
+2. [DHS Gives Local Cops a Facial Recognition App To Find Immigrants](https://www.404media.co/cbp-quietly-launches-face-scanning-app-for-local-cops-to-do-immigration-enforcement/)
+3. [Trump Tyranny Tracker: Day 289](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289)
+
+## Memphis Residents Report Widespread Racial Profiling by Trump's Federal Police Task Force
+*Date: 2025-11-04*
+
+1. [Black Residents Report Being Harassed by Memphis Safe Task Force](https://www.propublica.org/article/memphis-safe-task-force-police-harassment)
+2. [I don't feel safe: Black Memphis residents report harassment by Trump's police task force](https://tennesseelookout.com/2025/11/04/i-dont-feel-safe-black-memphis-residents-report-harassment-by-trumps-police-task-force/)
+3. [Trump Tyranny Tracker: Day 289](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289)
+
+## Pope Leo XIV Calls for ICE to Allow Clergy Access to Detained Migrants
+*Date: 2025-11-04*
+
+1. [Pope Leo XIV calls for ICE to allow clergy access to detained migrants](https://www.americamagazine.org/politics-society/2025/11/04/pope-leo-xiv-ice-detention-clergy-access)
+2. [Pope asks ICE to allow pastoral care for detained immigrants](https://www.chicagotribune.com/2025/11/04/pope-leo-xiv-ice-clergy-broadview/)
+3. [Pope Leo XIV urges U.S. authorities to permit clergy visits to ICE detainees](https://www.axios.com/2025/11/04/pope-leo-xiv-ice-detention-religious-access)
+4. [American Pope challenges ICE over religious freedom for migrants](https://www.ncronline.org/news/pope-leo-xiv-ice-clergy-access-detention)
+
+## Trump Issues Executive Orders Modifying China Tariff Rates and Fentanyl-Related Duties
+*Date: 2025-11-04*
+
+1. [Modifying Reciprocal Tariff Rates Consistent with the Economic and Trade Arrangement Between the United States and the People's Republic of China](https://www.whitehouse.gov/presidential-actions/2025/11/modifying-reciprocal-tariff-rates-consistent-with-the-economic-and-trade-arrangement-between-the-united-states-and-the-peoples-republic-of-china/)
+2. [Modifying Duties Addressing the Synthetic Opioid Supply Chain in the People's Republic of China](https://www.whitehouse.gov/presidential-actions/2025/11/modifying-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/)
+3. [Trump Tyranny Tracker: Day 289](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289)
+
+## FAA Reduces Air Traffic by 10% at Major Airports as Unpaid Controllers Face Staffing Crisis During 40-Day Shutdown
+*Date: 2025-11-05*
+
+1. [Air traffic controllers warn of 'tipping point' as U.S. government shutdown drags on](https://www.npr.org/2025/11/05/nx-s1-5598420/air-traffic-controllers-government-shutdown)
+2. [FAA will reduce air traffic by 10% at many airports to maintain safety](https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown)
+3. [Air traffic controllers feeling the pinch of the government shutdown](https://www.npr.org/2025/11/04/nx-s1-5596204/air-traffic-controllers-feeling-the-pinch-of-the-government-shutdown)
+
+## Government Shutdown Becomes Longest in U.S. History at Day 36
+*Date: 2025-11-05*
+
+1. [The government shutdown is now the longest in U.S. history](https://www.npr.org/2025/11/05/nx-s1-5598315/government-shutdown-longest-history)
+2. [Government shutdown set to become longest ever after latest Senate vote fails](https://www.cnbc.com/2025/11/04/government-shutdown-trump-senate.html)
+3. [Trump pressures GOP senators to end the government shutdown, now the longest ever](https://federalnewsnetwork.com/government-shutdown/2025/11/government-shutdown-becomes-the-longest-on-record-as-fallout-spreads-nationwide/)
+
+## Zohran Mamdani Elected NYC Mayor: First Muslim, Youngest in Century
+*Date: 2025-11-05*
+
+1. [Zohran Mamdani wins NYC mayoral race](https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor)
+2. [Zohran Mamdani wins NYC mayor election over Cuomo](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
+3. [Zohran Mamdani elected as New York City's first Muslim mayor](https://www.aljazeera.com/news/liveblog/2025/11/5/nyc-mayoral-election-results-live-polls-closing-soon-in-mamdani-cuomo-race)
+
+## FAA Announces 10% Air Traffic Reduction at 40 Airports Due to Shutdown
+*Date: 2025-11-06*
+
+1. [November 6, 2025 – Government shutdown and Trump administration news](https://www.cnn.com/politics/live-news/trump-government-shutdown-faa-11-6-25)
+2. [Government shutdown prompts FAA to float flight cancellations as Senate talks continue](https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-senate-republicans-longest-impasse-in-history/)
+
+## Trump Pardons Former Tennessee House Speaker Glen Casada and Chief of Staff Convicted of Federal Corruption
+*Date: 2025-11-06*
+
+1. [Trump pardons ex-Tennessee GOP House speaker Glen Casada, top aide](https://www.nbcnews.com/politics/donald-trump/trump-pardons-former-tennessee-house-speaker-aide-convicted-federal-co-rcna242544)
+2. [Trump pardons former Tennessee House speaker and aide, convicted of fraud](https://www.msnbc.com/top-stories/latest/trump-pardons-tennessee-house-speaker-glen-casada-cothren-rcna242644)
+3. [Trump pardons former Tennessee Speaker Casada, ex-chief of staff](https://tennesseelookout.com/briefs/former-tennessee-speaker-casada-ex-chief-of-staff-reportedly-pardoned/)
+
+## Trump Announces Kazakhstan Joining Abraham Accords Despite Existing Diplomatic Relations with Israel Since 1992
+*Date: 2025-11-06*
+
+1. [Kazakhstan to join Abraham Accords with Israel in symbolic boost to Trump initiative](https://www.npr.org/2025/11/07/nx-s1-5601583/kazakhstan-abraham-accords-israel)
+2. [Kazakhstan to join Abraham Accords with Israel](https://www.axios.com/2025/11/06/kazakhstan-join-abraham-accords-trump-israel)
+3. [Experts react: Kazakhstan will join the Abraham Accords](https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react-kazakhstan-will-join-the-abraham-accords-heres-what-that-means-for-the-us-the-middle-east-and-central-asia/)
+
+## Supreme Court Issues Emergency Stay Allowing Trump Administration to Withhold $4 Billion in SNAP Food Benefits
+*Date: 2025-11-06*
+
+1. [Supreme Court allows Trump administration to temporarily withhold some SNAP payments for November](https://www.nbcnews.com/politics/politics-news/trump-administration-asks-emergency-pause-judges-order-fully-fund-snap-rcna242545)
+2. [Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out](https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal)
+3. [Supreme Court issues emergency order to block full SNAP food aid payments](https://www.pbs.org/newshour/nation/supreme-court-issues-emergency-order-to-block-full-snap-food-aid-payments)
+
+## Trump Announces Weight Loss Drug Price Deals With Eli Lilly and Novo Nordisk
+*Date: 2025-11-06*
+
+1. [Trump Announces Deals With Lilly, Novo to Cut Weight Loss Drug Prices](https://www.ajmc.com/view/trump-announces-deals-with-eli-lilly-novo-nordisk-for-lower-weight-loss-drug-prices)
+2. [Fact Sheet: President Trump Announces Major Developments in Bringing Most-Favored-Nation Pricing to American Patients](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-announces-major-developments-in-bringing-most-favored-nation-pricing-to-american-patients/)
+
+## Cornell University Agrees to Pay $60 Million and Accept Federal Oversight to Restore Research Funding
+*Date: 2025-11-07*
+
+1. [Cornell reaches $60 million deal with Trump administration to restore funding](https://www.nbcnews.com/news/us-news/cornell-reaches-60-million-deal-trump-administration-restore-funding-rcna222632)
+2. [Fact Sheet: President Donald J. Trump Secures Major Settlement with Cornell University](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-secures-major-settlement-with-cornell-university/)
+3. [Cornell to pay $60M in deal with Trump administration to restore federal research funding](https://thehill.com/homenews/education/5595268-cornell-trump-funding-deal/)
+
+## ICE Bans Prayer Outside Broadview Detention Center
+*Date: 2025-11-07*
+
+1. [Feds Tell Faith Leaders 'No More Prayer' Outside Broadview Facility](https://blockclubchicago.org/2025/11/07/feds-tell-faith-leaders-no-more-prayer-outside-broadview-facility/)
+2. [Religious leaders are denied request to deliver Communion to detainees at Broadview facility](https://chicago.suntimes.com/immigration/2025/10/11/broadview-detention-immigration-enforcement-ice-religious-leaders-communion-fence-protests)
+3. [Religious leaders offering communion to detainees turned away at Broadview ICE facility](https://www.cbsnews.com/chicago/news/religious-leaders-turned-away-broadview-ice-facility/)
+4. [Clergy say religious rights are under attack inside and outside the Broadview ICE facility](https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility)
+5. [Eucharistic procession turned back by feds at Broadview ICE detention facility](https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/)
+6. [ICE again prevents Chicago Catholics from bringing Eucharist to immigrant detainees](https://www.ncronline.org/news/ice-again-prevents-chicago-catholics-bringing-eucharist-immigrant-detainees)
+
+## Supreme Court Temporarily Blocks Full SNAP Payments to 42 Million Americans
+*Date: 2025-11-07*
+
+1. [Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out](https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal)
+2. [Supreme Court pauses order that Trump administration must pay full SNAP benefits](https://www.cnbc.com/2025/11/07/snap-trump-appeals-food-stamps.html)
+3. [Supreme Court lets Trump pause full SNAP payments for now](https://www.cnn.com/2025/11/07/politics/trump-administration-supreme-court-snap-benefits)
+
+## Federal Judge Rules Trump Administration Violated First Amendment by Forcing Partisan Auto-Reply Messages on Federal Employees
+*Date: 2025-11-08*
+
+1. [Judge: Education Department out-of-office emails violated First Amendment](https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling)
+2. [Court rules Trump violated federal employees' First Amendment during shutdown](https://www.axios.com/2025/11/08/government-shutdown-trump-federal-employees)
+3. [Judge: Trump administration's Education Dept shutdown emails violated First Amendment](https://thehill.com/regulation/court-battles/5596030-trump-administration-first-amendment-ruling/)
+
+## Trump Promises $2,000 'Tariff Dividend' Payments Despite Insufficient Revenue and Treasury Secretary Skepticism
+*Date: 2025-11-09*
+
+1. [Trump's $2000 Tariff 'Dividend' Marks Throwback to Covid Checks](https://www.bloomberg.com/news/articles/2025-11-10/will-americans-see-2-000-tariff-dividends-trump-floats-payouts-plan)
+2. [$2,000 tariff dividend: What to know about Trump's stimulus checks](https://www.axios.com/2025/11/10/2000-tariff-dividend-checks-trump-stimulus)
+3. [What to know about Trump's promise of $2,000 tariff dividend payments](https://abcnews.go.com/Business/trumps-promise-2000-tariff-dividend-payments/story?id=127373376)
+
+## First Circuit Court Unanimously Rules Trump Administration Must Pay Full SNAP Benefits, Citing 'Immense Harm' to 40 Million Recipients
+*Date: 2025-11-10*
+
+1. [Appeals court rules Trump administration cannot avoid paying SNAP](https://rollcall.com/2025/11/10/appeals-court-rules-trump-administration-cannot-avoid-paying-snap/)
+2. [Trump administration cannot withhold $4 billion in SNAP benefits, appeals court rules](https://www.nbcnews.com/politics/politics-news/snap-benefits-appeals-court-rules-trump-admin-cannot-withhold-payments-rcna242954)
+3. [Appeals court backs ruling requiring full SNAP benefit payments for November](https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html)
+
+## Trump Issues Proclamation for Marine Corps 250th Anniversary Emphasizing Military Spending Increase
+*Date: 2025-11-10*
+
+1. [250th Anniversary of the Founding of the United States Marine Corps – The White House](https://www.whitehouse.gov/presidential-actions/2025/11/250th-anniversary-of-the-founding-of-the-united-states-marine-corps/)
+2. [JD Vance celebrates Marine Corps 250th birthday as first vice president Marine](https://www.foxnews.com/politics/vance-fires-up-marines-corps-250th-birthday-kick-enemys-come-home-safe)
+3. [250th Birthday of the U.S. Marine Corps](https://www.marines.mil/Marines250/)
+
+## Trump Pardons 77 Allies Who Attempted to Overturn 2020 Election Including Giuliani, Meadows, and Fake Electors
+*Date: 2025-11-10*
+
+1. [Trump grants pardons to Giuliani, Meadows, others linked to 2020 election efforts](https://www.npr.org/2025/11/10/nx-s1-5604174/trump-pardons-2020-election)
+2. [Trump pardons Rudy Giuliani, others involved in efforts to overturn 2020 election](https://www.cnn.com/2025/11/10/politics/trump-pardon-allies-2020-election-hnk)
+3. [Former pardon attorney says Trump's latest pardons set an 'alarming precedent'](https://www.wbur.org/hereandnow/2025/11/10/trump-pardon-lawyer)
+4. [Trump pardons Michigan's alleged false electors for 2020 'offenses' seeking to overturn election](https://michiganadvance.com/2025/11/10/trump-pardons-michigans-alleged-false-electors-for-2020-offenses-seeking-to-overturn-election/)
+5. [Trump pardons Nevada fake electors; state cases unaffected, remain pending](https://thenevadaindependent.com/article/trump-pardons-nevada-fake-electors-state-cases-unaffected-remain-pending)
+6. [Trump pardon of 2020 election allies does not erase Fulton County election interference charges](https://georgiarecorder.com/2025/11/10/trump-pardon-of-2020-election-allies-does-not-erase-fulton-county-election-interference-charges/)
+
+## Trump Issues Veterans Day 2025 Proclamation Emphasizing Tax Cuts and Homeless Veteran Housing
+*Date: 2025-11-10*
+
+1. [Veterans Day, 2025 – The White House](https://www.whitehouse.gov/presidential-actions/2025/11/veterans-day-2025/)
+2. [President Issues Proclamation for Veterans Day](https://www.presidentialprayerteam.org/2025/11/11/president-issues-proclamation-for-veterans-day/)
+3. [White House Says Trump's Proposal to Rename Veterans Day Has Been Scrapped](https://www.military.com/daily-news/2025/05/05/white-house-retreat-trumps-short-lived-proposal-rename-veterans-day.html)

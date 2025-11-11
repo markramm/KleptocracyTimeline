@@ -1,0 +1,49 @@
+---
+id: 2025-05-08--pope-leo-xiv-election
+date: '2025-05-08'
+title: Cardinal Robert Prevost Elected Pope Leo XIV - First American Pope
+importance: 9
+tags:
+- vatican
+- pope-leo-xiv
+- papal-succession
+- chicago
+- catholic-church
+- robert-prevost
+- augustinian
+- latin-america
+actors:
+- Pope Leo XIV
+- Robert Francis Prevost
+- College of Cardinals
+- Vatican
+- U.S. Conference of Catholic Bishops
+- Augustinian Order
+sources:
+- title: Cardinal Robert Prevost elected Pope, takes name Leo XIV
+  url: https://www.usccb.org/news/2025/cardinal-robert-prevost-elected-pope-leo-xiv
+  publisher: United States Conference of Catholic Bishops
+  date: '2025-05-08'
+  tier: 1
+- title: Chicago's Cardinal Prevost becomes Pope Leo XIV
+  url: https://www.cbsnews.com/chicago/news/cardinal-prevost-pope-leo-xiv-first-american/
+  publisher: CBS Chicago
+  date: '2025-05-08'
+  tier: 1
+- title: Cardinal Robert Prevost elected as Pope Leo XIV - first American pope
+  url: https://www.catholicnewsagency.com/news/257290/cardinal-robert-prevost-elected-pope-leo-xiv
+  publisher: Catholic News Agency
+  date: '2025-05-08'
+  tier: 2
+- title: Chicago-born Cardinal Prevost elected Pope Leo XIV
+  url: https://blockclubchicago.org/2025/05/08/cardinal-robert-prevost-chicago-pope-leo-xiv/
+  publisher: Block Club Chicago
+  date: '2025-05-08'
+  tier: 3
+---
+
+Cardinal Robert Francis Prevost of Chicago was elected the 267th Pope of the Catholic Church on May 8, 2025, taking the name Leo XIV and becoming the first American pontiff in the Church's 2,000-year history. The 69-year-old Augustinian missionary was elected on the fourth ballot by 133 cardinal electors during a papal conclave held just 17 days after the death of Pope Francis. Prevost had been serving as Prefect of the Dicastery for Bishops, one of the most influential positions in the Vatican, overseeing the selection of bishops worldwide.
+
+Born and raised in Chicago, Prevost spent much of his priestly career as a missionary in Peru, working with indigenous and marginalized communities in Latin America for over three decades. His election represented a historic convergence of American and Latin American perspectives within the papacy, as he brought both his Chicago roots and his extensive missionary experience to the role. The U.S. Conference of Catholic Bishops issued a statement noting that while Prevost was "thoroughly American," he also brought a "global vision shaped by decades of pastoral work among the poor."
+
+The election of an American Pope came at a particularly sensitive moment in U.S.-Vatican relations. Less than three weeks earlier, Vice President JD Vance had met with the dying Pope Francis on Easter Sunday, and the Trump administration's aggressive immigration enforcement policies were creating tensions with Catholic social teaching. Pope Leo XIV would quickly establish himself as a voice for immigrant rights and religious freedom, directly challenging the Trump administration's treatment of detained migrants and calling out the contradiction between pro-life rhetoric and support for harsh immigration enforcement. His Chicago background would make his criticism of the Broadview ICE detention facility—located in his hometown archdiocese—particularly powerful and pointed.

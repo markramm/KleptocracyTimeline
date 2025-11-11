@@ -1,0 +1,36 @@
+---
+id: 2025-11-06--glen-casada-pardon-tennessee-corruption
+date: '2025-11-06'
+title: Trump Pardons Former Tennessee House Speaker Glen Casada and Chief of Staff
+  Convicted of Federal Corruption
+importance: 8
+tags:
+- pardons
+- systematic-corruption
+- state-capture
+- abuse-of-power
+- kleptocracy
+actors:
+- Donald Trump
+- Glen Casada
+- Cade Cothren
+sources:
+- title: Trump pardons ex-Tennessee GOP House speaker Glen Casada, top aide
+  url: https://www.nbcnews.com/politics/donald-trump/trump-pardons-former-tennessee-house-speaker-aide-convicted-federal-co-rcna242544
+  publisher: NBC News
+  tier: 1
+- title: Trump pardons former Tennessee House speaker and aide, convicted of fraud
+  url: https://www.msnbc.com/top-stories/latest/trump-pardons-tennessee-house-speaker-glen-casada-cothren-rcna242644
+  publisher: MSNBC
+  tier: 2
+- title: Trump pardons former Tennessee Speaker Casada, ex-chief of staff
+  url: https://tennesseelookout.com/briefs/former-tennessee-speaker-casada-ex-chief-of-staff-reportedly-pardoned/
+  publisher: Tennessee Lookout
+  tier: 2
+---
+
+President Trump pardoned former Tennessee House Speaker Glen Casada and his chief of staff Cade Cothren just weeks after they were sentenced to federal prison for public corruption charges. Casada received a three-year sentence in September 2025 for orchestrating a 2020 scheme to receive over $50,000 in taxpayer money through a fraudulent mailer program, while Cothren was sentenced to 2.5 years. The two had set up a secret company that exploited the state's postage and printing program, which provides House members $3,000 annually for constituent mailers, billing the state while operating the vendor themselves.
+
+The White House defended the pardons by claiming the Biden Department of Justice "significantly over-prosecuted these individuals for a minor issue involving constituent mailers—which were billed at competitive prices, never received a complaint from legislators, and resulted in a net profit loss of less than $5,000." This characterization contradicted the actual conviction details: the scheme involved systematic fraud where Casada and Cothren created a shell company to bill the state legislature while pocketing taxpayer funds, representing clear self-dealing and abuse of public office for personal financial gain.
+
+Casada's tenure as House Speaker ended in disgrace in 2019 when he resigned after a no-confidence vote by fellow lawmakers following revelations that he and Cothren had exchanged sexually explicit text messages about women, including legislative staff and interns. The pardon came despite this pattern of ethical violations and abuse of power, with the Trump administration framing criminal corruption as a "minor issue" and federal prosecution as political persecution. The pardon effectively rewarded state-level kleptocracy and sent a clear signal that political allies could engage in systematic theft of public funds with impunity under Trump's protection.

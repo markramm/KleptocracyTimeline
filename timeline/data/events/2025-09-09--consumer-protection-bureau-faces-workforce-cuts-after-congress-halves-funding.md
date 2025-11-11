@@ -20,7 +20,6 @@ actors:
 - Congress
 - Donald Trump
 - Rohit Chopra
-status: confirmed
 ---
 
 The Consumer Financial Protection Bureau notified employees of potential job cuts after Congress halved its funding cap, following Trump's earlier purge of Director Rohit Chopra. The CFPB, established after the 2008 financial crisis to protect consumers from predatory lending, credit card abuses, and financial fraud, is being systematically dismantled through budget starvation. With reduced staff, the agency cannot investigate bank violations, process consumer complaints, or enforce regulations against predatory practices that cost Americans billions annually. The funding cuts come as Trump simultaneously issued an executive order against 'debanking' while eliminating the agency that could actually investigate such claims—a pattern of theatrical gestures paired with destruction of enforcement capacity. Banks, payday lenders, and financial services companies lobbied extensively for CFPB's defunding, demonstrating how industry captures regulators not just through friendly appointees but by starving agencies of resources needed to function.

@@ -31,7 +31,6 @@ sources:
   publisher: Capital B News
   date: '2025-08-25'
   tier: 2
-status: confirmed
 ---
 
 President Trump signed two executive orders on August 25, 2025, aimed at eliminating cashless bail policies nationwide and specifically in Washington D.C. The nationwide order directs Attorney General Pam Bondi to identify states and jurisdictions with cashless bail policies and authorizes withholding or revoking federal grants to those jurisdictions. The D.C.-specific order directs federal law enforcement to pursue federal charges and pretrial detention for D.C. arrestees whenever possible.

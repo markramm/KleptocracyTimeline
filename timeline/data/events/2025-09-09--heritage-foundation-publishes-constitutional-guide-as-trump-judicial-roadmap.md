@@ -20,7 +20,6 @@ actors:
 - Justice Samuel Alito
 - Donald Trump
 - Supreme Court
-status: confirmed
 ---
 
 The Heritage Foundation released an 800-page 'Guide to the Constitution' featuring contributions from Trump appointees and prefaced by Justice Samuel Alito, serving as Trump's blueprint for Supreme Court nominations and legal interpretation. The guide promotes an originalist interpretation that would dramatically expand presidential power, restrict civil rights protections, and overturn decades of precedent on voting rights, administrative law, and individual liberties. Legal experts describe it as essentially Trump's next Supreme Court shortlist in policy form, providing ideological litmus tests for judicial nominees. The guide's release signals coordination between the Heritage Foundation (architects of Project 2025), the Supreme Court's conservative majority, and the Trump administration to systematically reshape constitutional law. With Trump likely to make additional Supreme Court appointments and hundreds of lower court nominations, this document provides the ideological framework for capturing the judiciary for a generation.

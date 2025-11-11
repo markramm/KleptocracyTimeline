@@ -27,7 +27,6 @@ actors:
 - Intel
 - Lockheed Martin
 - Trump administration
-status: confirmed
 ---
 
 Commerce Secretary Howard Lutnick announced plans to extract government equity stakes from major corporations like Intel and Lockheed Martin in exchange for federal support, using tariffs and export licenses as pressure tools through a secretive 'Investment Accelerator' initiative. Lutnick explicitly stated he is forcing Intel to provide government equity in return for CHIPS Act funds, comparing the approach to business dealings. The Commerce Department is also demanding a share of university patent revenues from federally-funded research. Harvard economist Greg Mankiw characterized these tactics as 'a kind of shakedown' comparable to mob-style extortion, while Senator Rand Paul called it 'a step toward socialism.' This represents systematic government coercion of private sector entities to surrender ownership stakes under threat of regulatory retaliation, consolidating unprecedented government control over strategic industries.
