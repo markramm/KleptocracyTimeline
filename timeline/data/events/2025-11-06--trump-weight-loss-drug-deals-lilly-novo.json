@@ -1,0 +1,36 @@
+{
+  "id": "2025-11-06--trump-weight-loss-drug-deals-lilly-novo",
+  "date": "2025-11-06",
+  "title": "Trump Announces Weight Loss Drug Price Deals With Eli Lilly and Novo Nordisk",
+  "summary": "President Trump announced on November 6, 2025, that his administration had reached agreements with pharmaceutical manufacturers Eli Lilly and Novo Nordisk to dramatically reduce prices for popular weight loss and diabetes medications, including Ozempic, Wegovy, Mounjaro, Zepbound, and Orforglipron. Under the \"TrumpRx\" program, the prices of Ozempic and Wegovy would fall from $1,000 and $1,350 per month to $350, while Zepbound and Orforglipron would drop from $1,086 per month to an average of $346. Medicare prices for these drugs would be set at $245—less than half the prices proposed by the Biden administration—with Medicare beneficiaries paying a co-pay of just $50 per month.\n\nThe announcement framed the deals as bringing \"Most-Favored-Nation Pricing to American Patients,\" suggesting the administration had negotiated prices comparable to those in other countries. The timing of the announcement—during the record-breaking government shutdown and amid multiple political crises—raised questions about whether the deals represented genuine pharmaceutical reform or political theater designed to generate positive headlines. The agreements came as Trump faced mounting criticism over the shutdown's impacts on SNAP benefits, federal workers, and essential services.\n\nWhile lower drug prices would benefit millions of Americans struggling with obesity and diabetes, the announcement lacked crucial details about implementation timelines, funding mechanisms, and whether the discounts would extend beyond Medicare to private insurance markets. The \"TrumpRx\" branding suggested the program was designed as much for Trump's political benefit as for public health outcomes. Critics noted the announcement's timing coincided with Supreme Court arguments over Trump's tariffs and legal battles over SNAP benefits—potentially serving to distract from multiple administration failures and legal challenges. The deals also raised questions about what pharmaceutical companies received in exchange for the discounts, including potential regulatory relief, patent protections, or other concessions not disclosed in the announcement.",
+  "importance": 7,
+  "tags": [
+    "healthcare",
+    "pharmaceutical-industry",
+    "drug-pricing",
+    "medicare",
+    "political-messaging"
+  ],
+  "actors": [
+    "Donald Trump",
+    "Eli Lilly",
+    "Novo Nordisk",
+    "Department of Health and Human Services"
+  ],
+  "sources": [
+    {
+      "title": "Trump Announces Deals With Lilly, Novo to Cut Weight Loss Drug Prices",
+      "url": "https://www.ajmc.com/view/trump-announces-deals-with-eli-lilly-novo-nordisk-for-lower-weight-loss-drug-prices",
+      "publisher": "American Journal of Managed Care",
+      "date": "2025-11-06",
+      "tier": 2
+    },
+    {
+      "title": "Fact Sheet: President Trump Announces Major Developments in Bringing Most-Favored-Nation Pricing to American Patients",
+      "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-announces-major-developments-in-bringing-most-favored-nation-pricing-to-american-patients/",
+      "publisher": "The White House",
+      "date": "2025-11-06",
+      "tier": 1
+    }
+  ]
+}
