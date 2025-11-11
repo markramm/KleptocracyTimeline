@@ -1,0 +1,36 @@
+{
+  "id": "2019-11-12--splc-exposes-miller-white-nationalist-emails",
+  "date": "2019-11-12",
+  "title": "SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites",
+  "summary": "The Southern Poverty Law Center published a devastating expos\u00e9 revealing over 900 emails Stephen Miller sent to Breitbart News editors between March 2015 and June 2016, showing Miller systematically promoted white nationalist literature, racist conspiracy theories, and content from hate sites to shape Breitbart's coverage. The emails were leaked by Katie McHugh, a former Breitbart editor who renounced the far-right and cooperated with SPLC Hatewatch. The emails show Miller recommended the racist French novel \"The Camp of the Saints\"\u2014popular among white nationalists and neo-Nazis\u2014and regularly directed McHugh to content from white nationalist sites like American Renaissance and VDARE. Miller used his position as communications director for Senator Jeff Sessions to feed white nationalist talking points and source material directly into Breitbart's editorial process, shaping coverage to align with explicit white nationalist ideology. The emails reveal Miller's deep engagement with white nationalist thought leaders and his deliberate strategy to mainstream racist ideas through seemingly mainstream conservative media. More than 80 members of Congress demanded Miller's resignation, with Representative Alexandria Ocasio-Cortez stating: \"Stephen Miller is a white nationalist. This is perhaps the most important story in America right now.\" The Trump White House refused to address the content of the emails, with press secretary Stephanie Grisham dismissing them as \"an attempt to smear him.\" The exposure confirmed what critics had long suspected: the architect of family separation, the Muslim ban, and mass deportation policies was operating from an explicitly white nationalist worldview, using government power to implement a racial agenda.",
+  "importance": 10,
+  "tags": [
+    "Stephen Miller",
+    "White Nationalism",
+    "Breitbart"
+  ],
+  "actors": [
+    "Stephen Miller"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "url": "https://www.splcenter.org/hatewatch/2019/11/12/stephen-millers-affinity-white-nationalism-revealed-leaked-emails",
+      "title": "Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails",
+      "publisher": "Southern Poverty Law Center",
+      "tier": 1
+    },
+    {
+      "url": "https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/",
+      "title": "Leaked Stephen Miller emails suggest White House aide promoted white nationalism",
+      "publisher": "Washington Post",
+      "tier": 1
+    },
+    {
+      "url": "https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism",
+      "title": "Stephen Miller And White Nationalism",
+      "publisher": "NPR",
+      "tier": 1
+    }
+  ]
+}
