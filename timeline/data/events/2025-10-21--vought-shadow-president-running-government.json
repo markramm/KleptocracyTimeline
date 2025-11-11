@@ -1,0 +1,39 @@
+{
+  "id": "2025-10-21--vought-shadow-president-running-government",
+  "date": "2025-10-21",
+  "title": "Russ Vought Emerges as \"Shadow President\" Running Government During Trump Disengagement",
+  "summary": "ProPublica investigation revealed that Office of Management and Budget Director Russell Vought has become \"basically a second commander-in-chief, a shadow president\" who is \"the driving force\" behind Trump administration policy while Trump appears increasingly disengaged and focused on personal projects like White House renovations. Vought, the lead architect of Project 2025, has transformed OMB from a budget coordination office into \"the Trump administration's primary instrument to dismantle federal agencies.\" During the October 2025 government shutdown, Vought froze $26 billion in federal funding for infrastructure and clean energy projects in blue states, announced $11 billion in cuts to Army Corps projects in Democrat-led cities, and systematically weaponized appropriations as political punishment. CNN commentators described Trump as \"kind of this dementia-addled nursing home patient in the White House\" who is \"leaning on Vought, he's leaning on Stephen Miller\" while Trump obsesses over marble choices for his $300 million ballroom and bathroom renovations. Vought operates in tandem with Stephen Miller, with the two forming what analysts call \"the de facto stewards of government policy\" while Trump struggles to complete sentences and appears dazed during public events. Vought is \"arguably the most important aide to President Trump\" and \"as influential as anyone in the administration has been,\" orchestrating the firing of civil servants, freezing government programs, and embedding Project 2025 loyalists throughout the executive branch. The \"shadow president\" dynamic represents a dangerous configuration where an unelected Christian nationalist ideologue wields executive power while the elected president fixates on personal vanity projects, creating what one analyst called \"an incapacitated figurehead and an empowered network of unelected actors.\"",
+  "importance": 10,
+  "tags": [
+    "Russ Vought",
+    "Project 2025",
+    "Shadow Government",
+    "Trump Decline"
+  ],
+  "actors": [
+    "Russ Vought",
+    "Donald Trump",
+    "Stephen Miller"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "url": "https://www.democracynow.org/2025/10/21/russell_vought_propublica_shadow_president",
+      "title": "Shadow President: Project 2025 Architect Russell Vought Using Shutdown to Gut Agencies",
+      "publisher": "Democracy Now",
+      "tier": 1
+    },
+    {
+      "url": "https://www.propublica.org/article/about-russell-vought-trump-shadow-president",
+      "title": "What You Should Know About Russ Vought, Trump's Shadow President",
+      "publisher": "ProPublica",
+      "tier": 1
+    },
+    {
+      "url": "https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/",
+      "title": "Trump's Decline and the Rise of a Shadow Government",
+      "publisher": "Brewminate",
+      "tier": 2
+    }
+  ]
+}
